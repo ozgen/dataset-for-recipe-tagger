@@ -1,0 +1,59 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="place
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="mash
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="serve
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="at
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: red potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a large saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:with water", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:over medium heat", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+P2_1_0[label="DURATION:until potatoes are tender", shape=box, style=filled, fillcolor=white]
+P2_1_0 -> E2
+D3_ing[label="DOBJ: Yukon Gold potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCOROBJ:in a large bowl", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+D5_ing[label="DOBJ: green bell pepper, salt and pepper to taste, butter", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+P5_1_0[label="LOCOROBJ:to taste", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: in sour cream, prepared mustard, mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: in red onion finely, stalk celery finely, small sweet pickles finely", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+P7_0_0[label="COOBJECT:in green pepper", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+D8_0[label="DOBJ: room temperature", shape=box, style=filled, fillcolor=white]
+D8_0 -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+E8 -> E9 [label="IMPLICIT PREP"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

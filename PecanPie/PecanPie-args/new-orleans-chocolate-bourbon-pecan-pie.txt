@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would beat the sugar , corn syrup , the bourbon , the eggs , the butter , and salt together in a mixing bowl until smooth and creamy .
+PREDID: 38
+PRED: beat
+   DOBJ: the sugar , corn syrup , the bourbon , the eggs , the butter , salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: corn syrup
+      INGREDIENT SPAN:  the bourbon 
+         INGREDIENTS: bourbon whiskey
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: melted butter
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would fold in the pecans and chocolate chips .
+PREDID: 130
+PRED: fold
+   DOBJ: NULL
+   PARG: the pecans, chocolate chips
+     PREP: in
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+      INGREDIENT SPAN: the pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 3
+SENT: I would pour the mixture into the prepared pie crust .
+PREDID: 163
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared pie crust
+     PREP: into
+      INGREDIENT SPAN: the prepared pie crust
+         INGREDIENTS: inch refrigerated pie crust
+
+
+SENTID: 4
+SENT: If desired , I would cover the edges of the pie with aluminum foil strips to prevent excessive browning .
+PREDID: 211
+PRED: cover
+   DOBJ: the edges of the pie with aluminum foil strips
+      NON-INGREDIENT SPAN: the edges of the pie with aluminum foil strips
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   OARG: to prevent excessive browning
+      NON-INGREDIENT SPAN: to prevent excessive browning
+
+
+SENTID: 5
+SENT: I would bake in preheated oven until the center sets , about 50 minutes .
+PREDID: 281
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven until the center sets , about 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven until the center sets 
+      NON-INGREDIENT SPAN:  about 50 minutes
+
+
+SENTID: 6
+SENT: I would cool before serving .
+PREDID: 334
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

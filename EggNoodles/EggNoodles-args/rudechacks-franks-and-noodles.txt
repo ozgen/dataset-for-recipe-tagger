@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta , and cook for 8 to 10 minutes , or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+
+PREDID: 92
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 127
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would spread cooked noodles in a 9x13 inch pan .
+PREDID: 133
+PRED: spread
+   DOBJ: cooked noodles
+      INGREDIENT SPAN: cooked noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: a 9x13 inch pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 5
+SENT: I would arrange hot dogs over noodles .
+PREDID: 167
+PRED: arrange
+   DOBJ: hot dogs
+      INGREDIENT SPAN: hot dogs
+         INGREDIENTS: ounce package hot dogs
+   PARG: noodles
+     PREP: over
+      NON-INGREDIENT SPAN: noodles
+
+
+SENTID: 6
+SENT: In a medium bowl , I would mix together ketchup , the water , the oil , lemon juice , the onion , Worcestershire sauce and brown sugar ;
+PREDID: 207
+PRED: mix
+   DOBJ: ketchup , the water , the oil , lemon juice , the onion , Worcestershire sauce, brown sugar
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  the water 
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour over noodles and hot dogs .
+PREDID: 286
+PRED: pour
+   DOBJ: NULL
+   PARG: noodles, hot dogs
+     PREP: over
+      NON-INGREDIENT SPAN:  hot dogs
+      NON-INGREDIENT SPAN: noodles
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 35 minutes .
+PREDID: 312
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 35 minutes
+
+

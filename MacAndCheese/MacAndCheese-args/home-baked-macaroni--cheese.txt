@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would prepare Dinner as directed on package .
+PREDID: 22
+PRED: prepare
+   DOBJ: Dinner
+      NON-INGREDIENT SPAN: Dinner
+   PARG: directed on package
+     PREP: as
+      INGREDIENT SPAN: directed on package
+         INGREDIENTS: g package KRAFT Deluxe Original Cheddar Pasta Sauce
+
+
+SENTID: 2
+SENT: I would stir in 1/4 cup shredded cheese , sour cream and pepper .
+PREDID: 55
+PRED: stir
+   DOBJ: shredded cheese , sour cream, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: shredded cheese 
+         INGREDIENTS: KRAFT MozzaCheddar Shredded Cheese divided
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: light sour cream
+   PARG: 1/4 cup
+     PREP: in
+      NON-INGREDIENT SPAN: 1/4 cup
+
+
+SENTID: 3
+SENT: I would spoon into greased 1-1/2 - L baking dish ;
+PREDID: 101
+PRED: spoon
+   DOBJ: NULL
+   PARG: greased 1-1/2
+     PREP: into
+      NON-INGREDIENT SPAN: greased 1-1/2
+   OARG: l baking dish
+      NON-INGREDIENT SPAN: l baking dish
+
+
+SENTID: 4
+SENT: I would top with remaining shredded cheese ,
+PREDID: 135
+PRED: top
+   DOBJ: NULL
+   PARG: remaining shredded cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining shredded cheese
+
+
+SENTID: 5
+SENT: I would combined cracker crumbs and margarine .
+
+SENTID: 6
+SENT: I would bake 20 minutes Let stand 5 minutes before serving .
+PREDID: 166
+PRED: bake Let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 7
+SENT: I would serve with peas .
+PREDID: 209
+PRED: serve
+   DOBJ: NULL
+   PARG: peas
+     PREP: with
+      INGREDIENT SPAN: peas
+         INGREDIENTS: frozen peas cooked
+
+

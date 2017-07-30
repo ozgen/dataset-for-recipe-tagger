@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: I would whisk together the bread crumbs , egg white , the onion , soy sauce , minced ginger , five-spice powder , ground ginger , and pepper in a large bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: the bread crumbs , egg white , the onion , soy sauce , minced ginger , five-spice powder , ground ginger , pepper in a large bowl
+      INGREDIENT SPAN:  five-spice powder 
+         INGREDIENTS: Chinese fivespice powder
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion rolls halved
+      INGREDIENT SPAN: the bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  pepper in a large bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  ground ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  minced ginger 
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  egg white 
+         INGREDIENTS: egg white
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would mix in turkey until just combined .
+PREDID: 117
+PRED: mix
+   DOBJ: NULL
+   PARG: turkey
+     PREP: in
+      INGREDIENT SPAN: turkey
+         INGREDIENTS: ground turkey
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 2
+SENT: I would shape turkey mixture into four patties .
+PREDID: 146
+PRED: shape
+   DOBJ: turkey mixture
+      NON-INGREDIENT SPAN: turkey mixture
+   PARG: four patties
+     PREP: into
+      NON-INGREDIENT SPAN: four patties
+
+
+SENTID: 3
+SENT: I would preheat an outdoor grill for medium-high heat , and lightly oil the grate .
+PREDID: 180
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat , lightly oil the grate
+      NON-INGREDIENT SPAN:  lightly oil the grate
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat 
+
+
+SENTID: 4
+SENT: I would cook on the preheated grill until the patties are no longer pink in the center , about 5 minutes per side for well done .
+PREDID: 242
+PRED: cook
+   DOBJ: NULL
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: the patties are no longer pink in the center , about 5 minutes per side for well done
+     PREP: until
+      NON-INGREDIENT SPAN: the patties are no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 5 minutes per side for well done
+
+
+SENTID: 5
+SENT: An instant-read thermometer inserted into the center should read 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 6
+SENT: I would place a slice of gouda cheese on each patty ;
+PREDID: 339
+PRED: place
+   DOBJ: a slice of gouda cheese
+      INGREDIENT SPAN: a slice of gouda cheese
+         INGREDIENTS: slices Gouda cheese
+   PARG: each patty
+     PREP: on
+      NON-INGREDIENT SPAN: each patty
+
+
+SENTID: 7
+SENT: I would continue the grilling until cheese has melted , about 1 minute .
+PREDID: 375
+PRED: continue
+   DOBJ: the grilling
+      NON-INGREDIENT SPAN: the grilling
+   PARG: cheese has melted , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: cheese has melted 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 8
+SENT: While the turkey patties are cooking , I would place the pineapple rings on the grill until softened , 2 to 3 minutes per side .
+PREDID: 457
+PRED: place
+   DOBJ: NULL
+   PARG: the turkey patties are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the turkey patties are cooking
+   PARG: the pineapple rings on the grill until softened , 2 to 3 minutes per side
+     PREP: for
+      INGREDIENT SPAN: the pineapple rings on the grill until softened 
+         INGREDIENTS: pineapple rings
+      NON-INGREDIENT SPAN:  2 to 3 minutes per side
+
+
+SENTID: 9
+SENT: I would assemble the burgers by placing a turkey patty on half of an onion roll ,
+PREDID: 522
+PRED: assemble
+   DOBJ: the burgers
+      NON-INGREDIENT SPAN: the burgers
+   PARG: placing a turkey patty on half of an onion roll
+     PREP: by
+      NON-INGREDIENT SPAN: placing a turkey patty on half of an onion roll
+
+
+SENTID: 10
+SENT: I would top with the grilled pineapple .
+PREDID: 581
+PRED: top
+   DOBJ: NULL
+   PARG: the grilled pineapple
+     PREP: with
+      NON-INGREDIENT SPAN: the grilled pineapple
+
+
+SENTID: 11
+SENT: I would divide the spinach leaves evenly among the burgers ,
+PREDID: 608
+PRED: divide
+   DOBJ: NULL
+   PARG: the burgers
+     PREP: among
+      NON-INGREDIENT SPAN: the burgers
+   OARG: the spinach leaves evenly
+      INGREDIENT SPAN: the spinach leaves evenly
+         INGREDIENTS: fresh spinach leaves
+
+
+SENTID: 12
+SENT: I would top with the other half of the onion roll .
+PREDID: 652
+PRED: top
+   DOBJ: NULL
+   PARG: the other half of the onion roll
+     PREP: with
+      NON-INGREDIENT SPAN: the other half of the onion roll
+
+

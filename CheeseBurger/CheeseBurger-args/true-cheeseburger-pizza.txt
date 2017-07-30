@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 38
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 2
+SENT: I would cook and stir beef , the salt , and pepper in the hot skillet until meat is browned and crumbly , 5 to 7 minutes ;
+PREDID: 75
+PRED: cook and stir
+   DOBJ: beef , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef chuck
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+   PARG: meat is browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: meat is browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 3
+SENT: I would drain and discard grease .
+PREDID: 161
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 4
+SENT: I would mix ketchup and mustard in a bowl ;
+PREDID: 183
+PRED: mix
+   DOBJ: ketchup, mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: ketchup
+         INGREDIENTS: ketchup
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 5
+SENT: I would spread mixture over pizza crust .
+PREDID: 211
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pizza crust
+     PREP: over
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: ounce prebaked pizza crust
+
+
+SENTID: 6
+SENT: I would spread mozzarella cheese and Cheddar cheese over ketchup mixture and top with beef and onions .
+PREDID: 239
+PRED: spread
+   DOBJ: mozzarella cheese, Cheddar cheese over ketchup mixture, top
+      INGREDIENT SPAN:  Cheddar cheese over ketchup mixture
+         INGREDIENTS: shredded sharp Cheddar cheese
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  top
+   PARG: beef, onions
+     PREP: with
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: chopped onions
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 7
+SENT: I would transfer pizza to a large baking sheet .
+PREDID: 319
+PRED: transfer
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: a large baking sheet
+     PREP: to
+      NON-INGREDIENT SPAN: a large baking sheet
+
+
+SENTID: 8
+SENT: I would bake in preheated oven until cheese is melted , about 20 minutes .
+PREDID: 352
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is melted , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 9
+SENT: I would top with pickles and allow pizza to cool for 5 minutes .
+PREDID: 406
+PRED: top
+   DOBJ: NULL
+   PARG: pickles
+     PREP: with
+      INGREDIENT SPAN: pickles
+         INGREDIENTS: dill pickle slices
+
+PREDID: 423
+PRED: allow
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   OARG: to cool for 5 minutes
+      NON-INGREDIENT SPAN: to cool for 5 minutes
+
+
+SENTID: 10
+SENT: I would top with shredded lettuce and tomatoes before slicing and serving .
+PREDID: 451
+PRED: top
+   DOBJ: NULL
+   PARG: shredded lettuce, tomatoes
+     PREP: with
+      INGREDIENT SPAN: shredded lettuce
+         INGREDIENTS: shredded lettuce
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: diced tomatoes
+   PARG: slicing, serving
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+      NON-INGREDIENT SPAN:  serving
+
+

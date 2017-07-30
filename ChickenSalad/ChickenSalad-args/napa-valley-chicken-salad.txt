@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: In a small bowl , I would combine the dressing and mustard and stir until well blended .
+PREDID: 13
+PRED: combine
+   DOBJ: the dressing, mustard
+      INGREDIENT SPAN: the dressing
+         INGREDIENTS: Hidden Valley Original Ranch Salad Dressing
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: Dijon mustard
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+PREDID: 44
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the chicken , the grapes , celery , pecans and green onion .
+PREDID: 78
+PRED: combine
+   DOBJ: the chicken , the grapes , celery , pecans, green onion
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped toasted pecans
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: green onions white green parts chopped
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes halved
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked chicken diced
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would add the dressing to the salad and toss until evenly coated .
+PREDID: 130
+PRED: add
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: the salad
+     PREP: to
+      NON-INGREDIENT SPAN: the salad
+
+PREDID: 157
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 3
+SENT: I would chill covered for two hours before serving .
+PREDID: 179
+PRED: chill
+   DOBJ: NULL
+
+PREDID: 184
+PRED: covered
+   DOBJ: NULL
+   PARG: two hours
+     PREP: for
+      NON-INGREDIENT SPAN: two hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil and add potatoes .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 44
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: fingerling potatoes cut large chunks
+
+
+SENTID: 1
+SENT: I would boil until potatoes are tender , 10 to 13 minutes ;
+PREDID: 56
+PRED: boil
+   DOBJ: NULL
+   PARG: potatoes are tender , 10 to 13 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender 
+      NON-INGREDIENT SPAN:  10 to 13 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 97
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would let cool until potatoes are warm .
+PREDID: 103
+PRED: let
+   DOBJ: NULL
+   PARG: potatoes are warm
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are warm
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would whisk yogurt , sour cream , lemon zest , lemon juice , the mustard , the salt , and black pepper together in a bowl .
+PREDID: 131
+PRED: whisk
+   DOBJ: yogurt , sour cream , lemon zest , lemon juice , the mustard , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: coarsegrained mustard more taste
+      INGREDIENT SPAN: yogurt 
+         INGREDIENTS: ounce container lowfat plain yogurt
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  lemon zest 
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN:  lemon juice 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would gently fold potatoes into dressing .
+PREDID: 223
+PRED: fold
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: dressing
+     PREP: into
+      NON-INGREDIENT SPAN: dressing
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would stir arugula leaves into potato mixture and serve .
+PREDID: 248
+PRED: stir
+   DOBJ: arugula leaves
+      INGREDIENT SPAN: arugula leaves
+         INGREDIENTS: torn arugula leaves
+   PARG: potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: potato mixture
+
+

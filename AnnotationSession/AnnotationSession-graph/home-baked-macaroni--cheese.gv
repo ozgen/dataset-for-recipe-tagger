@@ -1,0 +1,42 @@
+digraph recipe {
+E0[label="heat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="prepare (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="spoon (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="top (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake Let (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="serve (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+P0_0[label="PREP: to 375 degrees f.", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="OUTPUT: 
+INPUT: Dinner"]
+D2_ing[label="DOBJ: KRAFT Mozza-Cheddar Shredded Cheese, light sour cream, cayenne pepper
+(text: shredded cheese ,  sour cream, pepper)", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="OUTPUT: 
+INPUT: in 1/4 cup"]
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: into greased 1-1/2", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_ing[label="PREP: with 30% Less Fat RITZ Crackers, non-hydrogenated margarine
+(text: with margarine,  then combined cracker crumbs)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+P4_0_0[label="PREP: with remaining shredded cheese ", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: stand"]
+P5_0_0[label="PREP: before serving", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: with frozen peas
+(text: with peas)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

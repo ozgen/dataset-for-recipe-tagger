@@ -1,0 +1,38 @@
+digraph recipe {
+E0[label="mix (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="toss (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="refrigerate (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: (10 ounce) package frozen peas, finely shredded cabbage, green onion
+(text: the peas , cabbage , and green onion)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1_ing[label="DOBJ: sour cream, white wine vinegar, curry powder, prepared mustard, mayonnaise, salt
+(text:  salt , curry powder, the sour cream ,  vinegar ,  mustard ,  mayonnaise )", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="OUTPUT: 
+INPUT: in a separate bowl"]
+E1 -> E2 [label="OUTPUT: 
+INPUT: the sour cream mixture"]
+P2_0_0[label="PREP: over the cabbage mixture", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: to coat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: with salted peanuts
+(text: with peanuts)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

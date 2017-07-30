@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: In a large bowl combine the beef , I would dry soup mix , the bouillon , the onion and soup .
+PREDID: 65
+PRED: combine dry
+   DOBJ: soup mix , the bouillon , the onion, soup, the beef
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: soup mix 
+         INGREDIENTS: ounce package herb lemon soup mix
+      INGREDIENT SPAN:  soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the bouillon 
+         INGREDIENTS: cube beef bouillon
+      INGREDIENT SPAN:  the beef
+         INGREDIENTS: beef roast cut cubes
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix all together and pour mixture into a lightly greased 9x13 inch baking dish .
+PREDID: 98
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 115
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a lightly greased 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a lightly greased 9x13 inch baking dish
+
+
+SENTID: 3
+SENT: I would cover and bake in the preheated oven for 4 hours .
+PREDID: 164
+PRED: cover and bake
+   DOBJ: NULL
+   PARG: the preheated oven for 4 hours
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 4 hours
+
+
+SENTID: 4
+SENT: I would add mushrooms and wine and bake for another 10 minutes .
+PREDID: 204
+PRED: add
+   DOBJ: mushrooms, wine
+      INGREDIENT SPAN:  wine
+         INGREDIENTS: Burgundy wine
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: ounce mushrooms drained
+
+PREDID: 226
+PRED: bake
+   DOBJ: NULL
+   PARG: another 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 10 minutes
+
+
+SENTID: 5
+SENT: I would add cooked egg noodles and mix all together .
+PREDID: 250
+PRED: add
+   DOBJ: cooked egg noodles
+      INGREDIENT SPAN: cooked egg noodles
+         INGREDIENTS: cooked egg noodles
+
+PREDID: 272
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would serve with fresh bread and a green salad , if desired .
+PREDID: 287
+PRED: serve
+   DOBJ: NULL
+   PARG: fresh bread, a green salad
+     PREP: with
+      NON-INGREDIENT SPAN:  a green salad
+      NON-INGREDIENT SPAN: fresh bread
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

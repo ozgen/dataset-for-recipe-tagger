@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would heat a large soup pot over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large soup pot
+      NON-INGREDIENT SPAN: a large soup pot
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef in the pot until browned and crumbly , 5 to 7 minutes ;
+PREDID: 37
+PRED: cook and stir
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: the pot until browned, crumbly , 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: the pot until browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 95
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would cook and stir onions , jalapeno peppers , habanero peppers , and garlic with the ground beef until onions are slightly softened , about 5 minutes .
+PREDID: 117
+PRED: cook and stir
+   DOBJ: onions , jalapeno peppers , habanero peppers , garlic
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: jalapeno peppers diced
+      INGREDIENT SPAN:  habanero peppers 
+         INGREDIENTS: habanero peppers diced wear gloves
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: yellow onions diced
+   PARG: the ground beef
+     PREP: with
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground cumin
+   PARG: onions are slightly softened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: onions are slightly softened 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would add chili beans , the tomatoes , the water , chili powder , and cumin ;
+PREDID: 238
+PRED: add
+   DOBJ: chili beans , the tomatoes , the water , chili powder , cumin
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: hot chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: ounce water
+      INGREDIENT SPAN: chili beans 
+         INGREDIENTS: ounce chili beans
+      NON-INGREDIENT SPAN:  cumin
+
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 288
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat and simmer until flavors blend , about 1 hour .
+PREDID: 301
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: flavors blend , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: flavors blend 
+
+

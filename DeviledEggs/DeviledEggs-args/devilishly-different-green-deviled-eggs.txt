@@ -1,0 +1,210 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would cover with water .
+PREDID: 21
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 36
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 49
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 67
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 102
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 125
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 4
+SENT: I would stir together mashed avocado , the onion , the tomato , the cilantro , lime juice , jalapeno , and chopped garlic ;
+PREDID: 159
+PRED: stir
+   DOBJ: mashed avocado , the onion , the tomato , the cilantro , lime juice , jalapeno , chopped garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small white onion diced
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN: mashed avocado 
+         INGREDIENTS: avocados halved pitted mashed
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: plum Roma tomato seeded diced
+      INGREDIENT SPAN:  chopped garlic
+         INGREDIENTS: chopped garlic
+      NON-INGREDIENT SPAN:  jalapeno 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would season with salt and pepper .
+PREDID: 243
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: jalapeno pepper seeded minced
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 6
+SENT: I would refrigerate guacamole , tightly covered , for 1 hour .
+PREDID: 267
+PRED: refrigerate
+   DOBJ: guacamole , tightly covered , for 1 hour
+      NON-INGREDIENT SPAN: guacamole 
+      NON-INGREDIENT SPAN:  tightly covered 
+      NON-INGREDIENT SPAN:  for 1 hour
+
+
+SENTID: 7
+SENT: I would drain pickled garlic cloves and minced pickled jalapeno on a plate lined with paper towels .
+PREDID: 312
+PRED: drain
+   DOBJ: pickled garlic cloves
+      INGREDIENT SPAN: pickled garlic cloves
+         INGREDIENTS: pickled garlic cloves such Sonoma Farm TexMex Sweet Hot Garlic
+
+PREDID: 339
+PRED: minced
+   DOBJ: pickled jalapeno
+      INGREDIENT SPAN: pickled jalapeno
+         INGREDIENTS: pickled jalapeno pepper slices minced
+   PARG: a plate lined with paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: a plate lined with paper towels
+
+
+SENTID: 8
+SENT: I would cut each egg in half lengthwise ;
+PREDID: 389
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+
+SENTID: 9
+SENT: I would set yolks aside for another use .
+PREDID: 416
+PRED: set
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: another use
+     PREP: for
+      NON-INGREDIENT SPAN: another use
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: I would clean away any remaining yolk from egg white halves with a wet paper towel .
+PREDID: 443
+PRED: clean
+   DOBJ: any remaining yolk
+      NON-INGREDIENT SPAN: any remaining yolk
+   PARG: egg white halves with a wet paper towel
+     PREP: from
+      NON-INGREDIENT SPAN: egg white halves with a wet paper towel
+   OARG: away
+      NON-INGREDIENT SPAN: away
+
+
+SENTID: 11
+SENT: I would place egg whites cut-side up on a serving platter .
+PREDID: 505
+PRED: place
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: cut-side
+      NON-INGREDIENT SPAN: cut-side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 12
+SENT: I would spoon a generous amount of guacamole into each egg white half ;
+PREDID: 547
+PRED: spoon
+   DOBJ: a generous amount of guacamole
+      NON-INGREDIENT SPAN: a generous amount of guacamole
+   PARG: each egg white half
+     PREP: into
+      NON-INGREDIENT SPAN: each egg white half
+
+
+SENTID: 13
+SENT: I would top each deviled egg with a pickled garlic clove .
+PREDID: 599
+PRED: top
+   DOBJ: each deviled egg
+      NON-INGREDIENT SPAN: each deviled egg
+   PARG: a pickled garlic clove
+     PREP: with
+      INGREDIENT SPAN: a pickled garlic clove
+         INGREDIENTS: Cloves
+
+
+SENTID: 14
+SENT: I would sprinkle minced pickled jalapeno , the salt , and black pepper over deviled eggs .
+PREDID: 640
+PRED: sprinkle
+   DOBJ: minced pickled jalapeno , the salt , black pepper over deviled eggs
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN: minced pickled jalapeno 
+      NON-INGREDIENT SPAN:  black pepper over deviled eggs
+
+

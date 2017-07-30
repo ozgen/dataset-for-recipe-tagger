@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would pour the coleslaw mix into a large bowl .
+PREDID: 0
+PRED: pour
+   DOBJ: the coleslaw mix
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce package shredded coleslaw mix
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would pour in the lime juice , rice vinegar , fish sauce , sesame oil , the honey , and peanuts .
+PREDID: 33
+PRED: pour
+   DOBJ: NULL
+   PARG: the lime juice , rice vinegar , fish sauce , sesame oil , the honey , peanuts
+     PREP: in
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  peanuts
+         INGREDIENTS: chopped peanuts
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+
+
+SENTID: 2
+SENT: I would stir until well blended .
+PREDID: 101
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 3
+SENT: If you have a bowl with a lid , I would put the lid on and shake thoroughly .
+PREDID: 145
+PRED: put
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+   PARG: you have a bowl with a lid
+     PREP: if
+      NON-INGREDIENT SPAN: you have a bowl with a lid
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+PREDID: 159
+PRED: shake
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would taste , and season with salt and pepper .
+PREDID: 175
+PRED: taste
+   DOBJ: NULL
+   OARG: season with salt, pepper
+      INGREDIENT SPAN: season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would refrigerate for a few hours , stirring or shaking occasionally , to allow the flavors to blend before serving .
+PREDID: 208
+PRED: refrigerate stirring
+   DOBJ: NULL
+   PARG: a few hours
+     PREP: for
+      NON-INGREDIENT SPAN: a few hours
+
+PREDID: 242
+PRED: shaking
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+   OARG: to allow the flavors to blend before serving
+      NON-INGREDIENT SPAN: to allow the flavors to blend before serving
+
+

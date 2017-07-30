@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: I would heat olive oil in a heavy 6-quart pot over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a heavy 6-quart pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a heavy 6-quart pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion until soft and pale gold in color , about 15 minutes .
+PREDID: 45
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large yellow onion chopped
+   PARG: soft, pale gold in color , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  pale gold in color 
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 2
+SENT: I would stir chili powder , the cocoa , the garlic , the oregano , the cumin , kosher salt , black pepper , and cayenne pepper into onion .
+PREDID: 104
+PRED: stir
+   DOBJ: chili powder , the cocoa , the garlic , the oregano , the cumin , kosher salt , black pepper , cayenne pepper
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cocoa 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: ground cayenne pepper more taste
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: ancho chili powder
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: onion
+     PREP: into
+      NON-INGREDIENT SPAN: onion
+
+
+SENTID: 3
+SENT: I would cook until fragrant , 1 to 2 minutes .
+PREDID: 196
+PRED: cook
+   DOBJ: NULL
+   PARG: fragrant , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 4
+SENT: I would stir tomatoes and beer into the mixture until well-combined .
+PREDID: 226
+PRED: stir
+   DOBJ: tomatoes, beer
+      INGREDIENT SPAN:  beer
+         INGREDIENTS: ounce bottle lager beer such Corona
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce fireroasted diced tomatoes juice
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+   PARG: well-combined
+     PREP: until
+      NON-INGREDIENT SPAN: well-combined
+
+
+SENTID: 5
+SENT: I would add ranch-style beans , beef brisket , and beef broth ;
+PREDID: 278
+PRED: add
+   DOBJ: ranch-style beans , beef brisket , beef broth
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: beef broth
+      INGREDIENT SPAN:  beef brisket 
+         INGREDIENTS: cooked beef brisket cut 1/4inch cubes
+      INGREDIENT SPAN: ranch-style beans 
+         INGREDIENTS: ounce ranchstyle beans
+
+
+SENTID: 6
+SENT: I would bring to a boil .
+PREDID: 323
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would reduce heat to low , cover , and simmer chili , stirring occasionally , until meat is very tender and flavors have blended , about 30 minutes .
+PREDID: 336
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 361
+PRED: simmer
+   DOBJ: chili , stirring occasionally , until meat is very tender, flavors have blended
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until meat is very tender
+      NON-INGREDIENT SPAN:  flavors have blended
+      NON-INGREDIENT SPAN: chili 
+   PARG: 30 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 8
+SENT: I would season with liquid smoke flavoring , the salt , and black pepper .
+PREDID: 452
+PRED: season
+   DOBJ: NULL
+   PARG: liquid smoke flavoring , the salt , black pepper
+     PREP: with
+      INGREDIENT SPAN: liquid smoke flavoring 
+         INGREDIENTS: liquid smoke flavoring
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 9
+SENT: I would preheat a waffle iron on medium according to manufacturer 's instructions .
+PREDID: 503
+PRED: preheat
+   DOBJ: a waffle iron
+      NON-INGREDIENT SPAN: a waffle iron
+   PARG: medium manufacturer 's instructions
+     PREP: on
+      NON-INGREDIENT SPAN: medium manufacturer 's instructions
+   PARG: to manufacturer 's instructions
+     PREP: according
+      NON-INGREDIENT SPAN: to manufacturer 's instructions
+
+
+SENTID: 10
+SENT: I would whisk corn bread mix , the egg , sour cream , and milk in a bowl to make a batter .
+PREDID: 567
+PRED: whisk
+   DOBJ: corn bread mix , the egg , sour cream , milk
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk needed
+      INGREDIENT SPAN: corn bread mix 
+         INGREDIENTS: ounce package corn bread mix such Jiffy
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: a bowl to make a batter
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl to make a batter
+
+
+SENTID: 11
+SENT: I would pour about 1/2 cup batter , or as needed , onto hot waffle iron , close lid , and bake waffle until golden brown , 2 to 3 minutes .
+PREDID: 627
+PRED: pour
+   DOBJ: about 1/2 cup batter , or as needed
+      NON-INGREDIENT SPAN:  or as needed
+      NON-INGREDIENT SPAN: about 1/2 cup batter 
+   PARG: hot waffle iron
+     PREP: onto
+      NON-INGREDIENT SPAN: hot waffle iron
+
+PREDID: 678
+PRED: close
+   DOBJ: lid
+      NON-INGREDIENT SPAN: lid
+
+PREDID: 690
+PRED: bake
+   DOBJ: waffle
+      NON-INGREDIENT SPAN: waffle
+   PARG: golden brown , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 12
+SENT: I would repeat with remaining batter .
+PREDID: 729
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining batter
+     PREP: with
+      NON-INGREDIENT SPAN: remaining batter
+
+
+SENTID: 13
+SENT: I would serve chili over hot waffles .
+PREDID: 755
+PRED: serve
+   DOBJ: chili
+      NON-INGREDIENT SPAN: chili
+   PARG: hot waffles
+     PREP: over
+      NON-INGREDIENT SPAN: hot waffles
+
+

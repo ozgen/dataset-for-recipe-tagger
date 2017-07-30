@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the orzo , and return to a boil .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the orzo
+     PREP: in
+      INGREDIENT SPAN: the orzo
+         INGREDIENTS: uncooked orzo pasta
+
+PREDID: 109
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 11 minutes .
+PREDID: 123
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 11 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  about 11 minutes
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain well in a colander set in the sink , transfer to a bowl , and let cool in the refrigerator .
+PREDID: 235
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 268
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 287
+PRED: let
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: In a small bowl , I would whisk together the olive oil , red wine vinegar , Dijon mustard , garlic powder , the oregano , the basil , onion powder , the salt , and pepper .
+PREDID: 325
+PRED: whisk
+   DOBJ: the olive oil , red wine vinegar , Dijon mustard , garlic powder , the oregano , the basil , onion powder , the salt , pepper
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell peppers cut half lengthwise seeded, ground black pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell peppers cut half lengthwise seeded, ground black pepper
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: sprigs fresh oregano
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: garlic powder
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: In a large bowl , I would stir together the cooked orzo , the tomatoes , the olives , feta cheese , and chicken breast meat until thoroughly combined .
+PREDID: 445
+PRED: stir
+   DOBJ: the cooked orzo , the tomatoes , the olives , feta cheese , chicken breast meat
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: grape tomatoes cut half
+      INGREDIENT SPAN:  chicken breast meat
+         INGREDIENTS: grilled chicken breast half diced
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: black olives cut half lengthwise
+      NON-INGREDIENT SPAN: the cooked orzo 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would pour the dressing over the orzo mixture , lightly mix to coat all ingredients with dressing , and spoon into the red pepper halves .
+PREDID: 542
+PRED: pour
+   DOBJ: the dressing over the orzo mixture
+      NON-INGREDIENT SPAN: the dressing over the orzo mixture
+
+PREDID: 583
+PRED: mix
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to coat all ingredients with dressing
+      NON-INGREDIENT SPAN: to coat all ingredients with dressing
+
+PREDID: 622
+PRED: spoon
+   DOBJ: NULL
+   PARG: the red pepper halves
+     PREP: into
+      NON-INGREDIENT SPAN: the red pepper halves
+
+
+SENTID: 7
+SENT: I would garnish each serving with an oregano sprig .
+PREDID: 650
+PRED: garnish
+   DOBJ: NULL
+   OARG: each serving with an oregano sprig
+      INGREDIENT SPAN: each serving with an oregano sprig
+         INGREDIENTS: dried oregano
+
+

@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would prepare Dinner as directed on package .
+PREDID: 22
+PRED: prepare
+   DOBJ: Dinner
+      NON-INGREDIENT SPAN: Dinner
+
+
+SENTID: 2
+SENT: I would stir in 1/4 cup shredded cheese , sour cream and pepper .
+PREDID: 55
+PRED: stir
+   DOBJ: shredded cheese , sour cream, pepper
+      INGREDIENT SPAN: shredded cheese 
+         INGREDIENTS: KRAFT Mozza-Cheddar Shredded Cheese
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: light sour cream
+   PARG: 1/4 cup
+     PREP: in
+      NON-INGREDIENT SPAN: 1/4 cup
+
+
+SENTID: 3
+SENT: I would spoon into greased 1-1/2 - L baking dish ;
+PREDID: 101
+PRED: spoon
+   DOBJ: NULL
+   PARG: greased 1-1/2
+     PREP: into
+      NON-INGREDIENT SPAN: greased 1-1/2
+
+
+SENTID: 4
+SENT: I would top with remaining shredded cheese , then combined cracker crumbs and margarine .
+PREDID: 135
+PRED: top
+   DOBJ: NULL
+   PARG: remaining shredded cheese , then combined cracker crumbs, margarine
+     PREP: with
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: non-hydrogenated margarine
+      INGREDIENT SPAN:  then combined cracker crumbs
+         INGREDIENTS: 30% Less Fat RITZ Crackers
+      NON-INGREDIENT SPAN: remaining shredded cheese 
+
+
+SENTID: 5
+SENT: I would bake 20 minutes Let stand 5 minutes before serving .
+PREDID: 204
+PRED: bake Let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 6
+SENT: I would serve with peas .
+PREDID: 247
+PRED: serve
+   DOBJ: NULL
+   PARG: peas
+     PREP: with
+      INGREDIENT SPAN: peas
+         INGREDIENTS: frozen peas
+
+

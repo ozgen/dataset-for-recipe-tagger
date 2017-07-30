@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet over medium high heat , I would saute the ground beef for 5 minutes , or until browned ;
+PREDID: 72
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 2
+SENT: I would drain excess fat .
+PREDID: 117
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 3
+SENT: I would prepare the spaghetti according to package directions ;
+PREDID: 132
+PRED: prepare
+   DOBJ: the spaghetti
+      INGREDIENT SPAN: the spaghetti
+         INGREDIENTS: spaghetti
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 4
+SENT: I would drain water .
+PREDID: 180
+PRED: drain
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 5
+SENT: In a 2 quart casserole , I would combine the browned beef , cooked spaghetti , the tomatoes , onion soup mix , sour cream , the basil , garlic powder and salt and pepper to taste .
+PREDID: 210
+PRED: combine
+   DOBJ: the browned beef , cooked spaghetti , the tomatoes , onion soup mix , sour cream , the basil , garlic powder, salt, pepper
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: packet dry onion soup mix
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  cooked spaghetti 
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: the browned beef 
+   PARG: a 2 quart casserole
+     PREP: in
+      NON-INGREDIENT SPAN: a 2 quart casserole
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: I would mix together well .
+PREDID: 322
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 7
+SENT: I would cover dish and bake in preheated oven for 15 minutes .
+PREDID: 338
+PRED: cover
+   DOBJ: dish, bake
+      NON-INGREDIENT SPAN: dish
+      NON-INGREDIENT SPAN:  bake
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 8
+SENT: I would top with the cheese and bake , uncovered , for 15 more minutes .
+PREDID: 382
+PRED: top
+   DOBJ: NULL
+   PARG: the cheese, bake , uncovered , for 15 more minutes
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  uncovered 
+      NON-INGREDIENT SPAN:  for 15 more minutes
+      NON-INGREDIENT SPAN:  bake 
+
+

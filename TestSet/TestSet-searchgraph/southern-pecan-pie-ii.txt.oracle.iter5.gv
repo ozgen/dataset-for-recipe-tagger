@@ -1,0 +1,108 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cut in
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir in
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="wrap
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="refrigerate
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="roll out
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="place
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="preheat
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="place
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="mix in
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="blend
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="pour
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="bake
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="reduce
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="bake
+16", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: white sugar, allpurpose flour, salt", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: egg yolk", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="COOBJECT:with ice water", shape=box, style=filled, fillcolor=peachpuff]
+P2_0 -> E2
+D9[label="DOBJ: pecan halves", shape=box, style=filled, fillcolor=peachpuff]
+D9 -> E9
+P9_0[label="COOBJECT:in the bottom of pie crust", shape=box, style=filled, fillcolor=white]
+P9_0 -> E9
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: butter", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+O1_1_0[label="OTHER: until mixture resembles coarse crumbs", shape=box, style=filled, fillcolor=white]
+O1_1_0 -> E1
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: until mixture forms a ball", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCATION:in plastic", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: for 1 hour or overnight", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="LOCATION:in a 9 inch pie plate", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+D8_0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D8_0 -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+O8_0_0[label="OTHER: to 450 degrees f (230 degrees c.)", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+D10_ing[label="DOBJ: white sugar", shape=box, style=filled, fillcolor=peachpuff]
+D10_ing -> E10
+E1 -> E10 [label="flour"]
+P10_0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+O10_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_ing[label="COOBJECT: the eggs", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+P11_1_ing[label="COOBJECT: corn light corn syrup", shape=box, style=filled, fillcolor=peachpuff]
+P11_1_ing -> E11
+P11_2_ing[label="COOBJECT: melted butter and", shape=box, style=filled, fillcolor=peachpuff]
+P11_2_ing -> E11
+O11_0_0[label="OTHER: milk", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+O11_1_0[label="OTHER: vanilla", shape=box, style=filled, fillcolor=white]
+O11_1_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+O12_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E9 -> E13 [label="COOBJECT:over pecans in crust"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+E8 -> E14 [label="LOCATION:in the preheated oven"]
+O14_0_0[label="OTHER: for 10 minutes", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+D15_0[label="DOBJ: temperature", shape=box, style=filled, fillcolor=white]
+D15_0 -> E15
+E14 -> E15 [label="IMPLICIT PREP"]
+O15_0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+E15 -> E16 [label="IMPLICIT PREP"]
+O16_0_0[label="OTHER: for 40 to 50 minutes, or until golden brown and filling is set", shape=box, style=filled, fillcolor=white]
+O16_0_0 -> E16
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E16 -> EOR
+}

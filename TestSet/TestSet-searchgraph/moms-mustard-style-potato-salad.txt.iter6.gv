@@ -1,0 +1,108 @@
+digraph recipe {
+E0[label="bring
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="place
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="beat
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="place
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cover
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="bring
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="cover
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="remove
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="let
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="remove
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="cool
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="peel
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="combine
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="blend
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="add
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="mix
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="sprinkle
+19", shape=oval, style=filled, fillcolor=azure]
+E20[label="refrigerate
+20", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: large potatoes  peeled and cubed", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D8[label="DOBJ: water", shape=box, style=filled, fillcolor=white]
+D8 -> E8
+P8_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+D1_0[label="DOBJ: potatoes", shape=box, style=filled, fillcolor=white]
+D1_0 -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="DURATION:until tender but still firm ", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+P2_0_1[label="DURATION:until  about 15 minutes", shape=box, style=filled, fillcolor=white]
+P2_0_1 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCOROBJ:in a large mixing bowl", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+D6_ing[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="IMPLICIT PREP"]
+P6_1_0[label="LOCOROBJ:in a saucepan", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="LOCOROBJ:with cold water", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E7 -> E9 [label="eggs"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_0[label="DURATION:in hot water for 10 to 12 minutes", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E8 -> E12 [label="LOCOROBJ:from hot water"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+D15_ing[label="DOBJ: sweet pickle relish, onion finely, jar pimentos, stalks celery diced", shape=box, style=filled, fillcolor=peachpuff]
+D15_ing -> E15
+D15_0[label="DOBJ: the potatoes ", shape=box, style=filled, fillcolor=white]
+D15_0 -> E15
+E14 -> E15 [label=" eggs "]
+P15_0_0[label="LOCOROBJ:in a mixing bowl", shape=box, style=filled, fillcolor=white]
+P15_0_0 -> E15
+D16_ing[label="DOBJ: creamy salad dressing, prepared mustard", shape=box, style=filled, fillcolor=peachpuff]
+D16_ing -> E16
+E15 -> E16 [label="IMPLICIT PREP"]
+E16 -> E17 [label="IMPLICIT DOBJ"]
+P17_0_0[label="LOCOROBJ:to salad", shape=box, style=filled, fillcolor=white]
+P17_0_0 -> E17
+E17 -> E18 [label="IMPLICIT DOBJ"]
+E18 -> E19 [label="IMPLICIT DOBJ"]
+P19_0_ing[label="COOBJECT: with paprika", shape=box, style=filled, fillcolor=peachpuff]
+P19_0_ing -> E19
+E19 -> E20 [label="IMPLICIT DOBJ"]
+P20_0_0[label="OTHER:until chilled", shape=box, style=filled, fillcolor=white]
+P20_0_0 -> E20
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E20 -> EOR
+}

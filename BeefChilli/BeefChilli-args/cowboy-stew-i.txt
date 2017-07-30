@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would crumble the ground beef into a large skillet or Dutch oven over medium-high heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet or dutch oven over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet or dutch oven over medium-high heat
+
+
+SENTID: 1
+SENT: I would add onion ;
+PREDID: 68
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 2
+SENT: I would cook and stir until beef is no longer pink .
+PREDID: 77
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: beef is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: beef is no longer pink
+
+
+SENTID: 3
+SENT: I would drain off grease .
+PREDID: 112
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would reduce heat to medium-low and stir in the corn , chili with beans , baked beans , tomato sauce and green chilies .
+PREDID: 127
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 152
+PRED: stir
+   DOBJ: NULL
+   PARG: the corn , chili
+     PREP: in
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  chili
+         INGREDIENTS: ounce chili beans
+   PARG: beans , baked beans , tomato sauce, green chilies
+     PREP: with
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce baked beans pork
+      NON-INGREDIENT SPAN:  green chilies
+      NON-INGREDIENT SPAN:  baked beans 
+
+
+SENTID: 5
+SENT: I would cover and simmer for 30 minutes , stirring occasionally .
+PREDID: 219
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

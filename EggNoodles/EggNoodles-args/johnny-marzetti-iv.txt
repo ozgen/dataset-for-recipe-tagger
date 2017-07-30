@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would cook pasta in a large pot of boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of boiling salted water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling salted water until al dente
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 53
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a large skillet , I would cook ground beef , the onion , and mushrooms .
+PREDID: 75
+PRED: cook
+   DOBJ: ground beef , the onion , mushrooms
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce sliced mushrooms
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 3
+SENT: I would drain grease .
+PREDID: 109
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 4
+SENT: I would mix in garlic salt , ground black pepper , the sugar , Worcestershire sauce , and tomato sauce .
+PREDID: 121
+PRED: mix
+   DOBJ: NULL
+   PARG: garlic salt , ground black pepper , the sugar , worcestershire sauce , tomato sauce
+     PREP: in
+      INGREDIENT SPAN: garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  ground black pepper 
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: I would simmer for 30 minutes .
+PREDID: 196
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 6
+SENT: In a greased 2 quart casserole dish , I would layer half of the cooked egg noodles ,
+
+SENTID: 7
+SENT: half of the sauce mixture , followed by half of the grated cheese .
+
+SENTID: 8
+SENT: I would repeat .
+PREDID: 215
+PRED: repeat
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would bake in a preheated 375 degree -LRB- 190 degree C -RRB- oven for 20 to 30 minutes .
+PREDID: 222
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 375 degree -lrb- 190 degree c -rrb- oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 375 degree -lrb- 190 degree c -rrb- oven
+   PARG: 20 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 30 minutes
+
+

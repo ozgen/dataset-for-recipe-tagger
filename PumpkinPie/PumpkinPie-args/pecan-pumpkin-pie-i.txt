@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would combine eggs , the sugars , the flour , the spices and salt .
+PREDID: 0
+PRED: combine
+   DOBJ: eggs , the sugars , the flour , the spices, salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the sugars 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: all-purpose flour
+      NON-INGREDIENT SPAN:  the spices
+
+
+SENTID: 1
+SENT: I would blend in pumpkin .
+PREDID: 39
+PRED: blend
+   DOBJ: NULL
+   PARG: pumpkin
+     PREP: in
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: solid pack pumpkin puree
+
+
+SENTID: 2
+SENT: I would gradually add milk ;
+PREDID: 63
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: ounce sweetened condensed milk
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 71
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would pour into 9-inch pie shell .
+PREDID: 79
+PRED: pour
+   DOBJ: NULL
+   PARG: 9-inch pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: 9-inch pie shell
+
+
+SENTID: 5
+SENT: I would bake in 450 degree F -LRB- 230 degrees C -RRB- oven 10 minutes .
+PREDID: 102
+PRED: bake
+   DOBJ: NULL
+   PARG: 450 degree f -lrb- 230 degrees c -rrb- oven 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: 450 degree f -lrb- 230 degrees c -rrb- oven 10 minutes
+
+
+SENTID: 6
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake 40 to 50 minutes longer .
+PREDID: 145
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 192
+PRED: bake
+   DOBJ: NULL
+   OARG: 40 to 50 minutes longer
+      NON-INGREDIENT SPAN: 40 to 50 minutes longer
+
+
+SENTID: 7
+SENT: I would sprinkle pecan mixture over pie the last 10 minutes before removing from the oven .
+PREDID: 208
+PRED: sprinkle
+   DOBJ: pecan mixture
+      INGREDIENT SPAN: pecan mixture
+         INGREDIENTS: pecan halves
+   PARG: pie
+     PREP: over
+      NON-INGREDIENT SPAN: pie
+   PARG: removing from the oven
+     PREP: before
+      NON-INGREDIENT SPAN: removing from the oven
+   OARG: the last 10 minutes
+      NON-INGREDIENT SPAN: the last 10 minutes
+
+
+SENTID: 8
+SENT: To Make Topping :
+
+SENTID: 9
+SENT: I would combine 2 tablespoons butter , 1 tablespoon grated orange rind , 1/4 cup brown sugar and 3/4 cup whole pecans .
+PREDID: 291
+PRED: combine
+   DOBJ: 2 tablespoons butter , 1 tablespoon grated orange rind , 1/4 cup brown sugar, 3/4 cup whole pecans
+      INGREDIENT SPAN: 2 tablespoons butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  1 tablespoon grated orange rind 
+         INGREDIENTS: orange
+      INGREDIENT SPAN:  1/4 cup brown sugar
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  3/4 cup whole pecans
+
+

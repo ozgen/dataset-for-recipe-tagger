@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: I would preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: an oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would toss the potatoes with 10 tablespoons of vegetable oil ;
+PREDID: 40
+PRED: toss
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: cubed red potatoes
+   PARG: 10 tablespoons of vegetable oil
+     PREP: with
+      INGREDIENT SPAN: 10 tablespoons of vegetable oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 2
+SENT: I would sprinkle with paprika and dill .
+PREDID: 87
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika, dill
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: dried dill weed
+
+
+SENTID: 3
+SENT: I would toss until the potatoes are evenly coated with the spices and spread onto a baking sheet .
+PREDID: 114
+PRED: toss
+   DOBJ: NULL
+   PARG: the potatoes are evenly coated with the spices, spread onto a baking sheet
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are evenly coated with the spices
+      NON-INGREDIENT SPAN:  spread onto a baking sheet
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until the potatoes are easily pierced with a fork , about 25 minutes .
+PREDID: 188
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the potatoes are easily pierced with a fork , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are easily pierced with a fork 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 5
+SENT: While the potatoes are roasting , I would heat the 2 tablespoons of vegetable oil in a large skillet over medium heat .
+PREDID: 295
+PRED: heat
+   DOBJ: the 2 tablespoons of vegetable oil
+      INGREDIENT SPAN: the 2 tablespoons of vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: the potatoes are roasting
+     PREP: while
+      NON-INGREDIENT SPAN: the potatoes are roasting
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 6
+SENT: I would stir in the banana pepper , bell pepper , the celery , and onion ;
+PREDID: 358
+PRED: stir
+   DOBJ: NULL
+   PARG: the banana pepper , bell pepper , the celery , onion
+     PREP: in
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small red onion sliced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: large stalks celery sliced inch wide
+      INGREDIENT SPAN: the banana pepper 
+         INGREDIENTS: banana pepper sliced inch rings
+
+
+SENTID: 7
+SENT: I would cook and stir until the vegetables have softened , about 10 minutes .
+PREDID: 407
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the vegetables have softened
+     PREP: until
+      INGREDIENT SPAN: the vegetables have softened
+         INGREDIENTS: vegetable oil
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 8
+SENT: I would toss the pepper mixture with the roasted potatoes in a bowl .
+PREDID: 464
+PRED: toss
+   DOBJ: the pepper mixture
+      NON-INGREDIENT SPAN: the pepper mixture
+   PARG: the roasted potatoes in a bowl
+     PREP: with
+      NON-INGREDIENT SPAN: the roasted potatoes in a bowl
+
+
+SENTID: 9
+SENT: I would refrigerate until cold , about 1 hour .
+PREDID: 514
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cold , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: cold 
+      NON-INGREDIENT SPAN:  about 1 hour
+
+
+SENTID: 10
+SENT: While the potatoes are cooling , I would whisk together the red wine vinegar , olive oil , and kosher salt .
+PREDID: 573
+PRED: whisk
+   DOBJ: the red wine vinegar , olive oil , kosher salt
+      INGREDIENT SPAN: the red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  kosher salt
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+   PARG: the potatoes are cooling
+     PREP: while
+      NON-INGREDIENT SPAN: the potatoes are cooling
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would toss the potatoes with the salad dressing just before serving .
+PREDID: 627
+PRED: toss
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: the salad dressing just before serving
+     PREP: with
+      NON-INGREDIENT SPAN: the salad dressing just before serving
+
+

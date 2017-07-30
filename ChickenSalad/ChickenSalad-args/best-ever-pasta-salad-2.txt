@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: rotelli pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a medium bowl , I would whisk together the oil , the vinegar , the tarragon , the dill , the salt , the mustard , the pimento , the capers and pepper .
+PREDID: 107
+PRED: whisk
+   DOBJ: the oil , the vinegar , the tarragon , the dill , the salt , the mustard , the pimento , the capers, pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN: the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper seeded diced
+      INGREDIENT SPAN:  the pimento 
+         INGREDIENTS: minced pimento
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared Dijonstyle mustard
+      INGREDIENT SPAN:  the tarragon 
+         INGREDIENTS: dried tarragon
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  the capers
+         INGREDIENTS: minced capers
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would seat aside .
+PREDID: 186
+PRED: seat
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: In a large bowl , I would toss together the pasta , green pepper , the Havarti , green onions and chicken .
+PREDID: 209
+PRED: toss
+   DOBJ: the pasta , green pepper , the Havarti , green onions, chicken
+      INGREDIENT SPAN:  the Havarti 
+         INGREDIENTS: Havarti cheese diced
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions diced
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: boneless chicken breast halves cooked cooled cubed
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: ground black pepper taste
+      NON-INGREDIENT SPAN: the pasta 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would add the dressing to taste and toss to coat .
+PREDID: 272
+PRED: add
+   DOBJ: the dressing to taste, toss to coat
+      NON-INGREDIENT SPAN:  toss to coat
+      NON-INGREDIENT SPAN: the dressing to taste
+
+

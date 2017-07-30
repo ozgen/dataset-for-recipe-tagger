@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place the beef in the bottom of a slow cooker , and season with salt and pepper to taste .
+PREDID: 0
+PRED: place
+   DOBJ: the beef in the bottom of a slow cooker , season with salt, pepper
+      INGREDIENT SPAN: the beef in the bottom of a slow cooker 
+         INGREDIENTS: cube beef bouillon
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 1
+SENT: I would place onion on top of beef , and
+PREDID: 71
+PRED: place
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: top of beef , and
+     PREP: on
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: top of beef 
+
+
+SENTID: 2
+SENT: I would add mushroom soup , the mushrooms , and water .
+PREDID: 96
+PRED: add
+   DOBJ: mushroom soup , the mushrooms , water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce canned mushrooms
+
+
+SENTID: 3
+SENT: I would season with chives , garlic , Worcestershire sauce , and bouillon .
+PREDID: 131
+PRED: season
+   DOBJ: NULL
+   PARG: chives , garlic , worcestershire sauce , bouillon
+     PREP: with
+      INGREDIENT SPAN: chives 
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic minced
+      NON-INGREDIENT SPAN:  bouillon
+
+
+SENTID: 4
+SENT: In a small bowl , I would mix together the wine with the flour .
+PREDID: 200
+PRED: mix
+   DOBJ: the wine with the flour
+      INGREDIENT SPAN: the wine with the flour
+         INGREDIENTS: white wine
+      INGREDIENT SPAN: the with the flour
+         INGREDIENTS: allpurpose flour
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour over the beef .
+PREDID: 231
+PRED: pour
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would cover , and cook on Low for 6 to 7 hours .
+PREDID: 247
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 256
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 6 to 7 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 6 to 7 hours
+
+
+SENTID: 7
+SENT: I would stir in the sour cream and parsley , and continue cooking for 1 hour .
+PREDID: 278
+PRED: stir
+   DOBJ: NULL
+   PARG: the sour cream
+     PREP: in
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: ounce container sour cream
+   OARG: parsley
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley
+
+PREDID: 310
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

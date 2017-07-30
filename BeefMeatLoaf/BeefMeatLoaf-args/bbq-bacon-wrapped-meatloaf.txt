@@ -1,0 +1,202 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x11-inch baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x11-inch baking dish
+      NON-INGREDIENT SPAN: a 9x11-inch baking dish
+
+
+SENTID: 2
+SENT: I would place bacon in a large skillet and cook over medium-high heat until edges just start to curl , 1 to 2 minutes per side .
+PREDID: 65
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 93
+PRED: cook
+   DOBJ: NULL
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: edges just start to curl , 1 to 2 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  1 to 2 minutes per side
+      NON-INGREDIENT SPAN: edges just start to curl 
+
+
+SENTID: 3
+SENT: I would drain the bacon slices on paper towels .
+PREDID: 161
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 4
+SENT: I would reserve about 1 tablespoon bacon drippings in the skillet .
+PREDID: 194
+PRED: reserve
+   DOBJ: about 1 tablespoon bacon drippings
+      NON-INGREDIENT SPAN: about 1 tablespoon bacon drippings
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 5
+SENT: I would cook and stir onion and garlic in the bacon drippings until onion is softened , 6 to 7 minutes .
+PREDID: 244
+PRED: cook and stir
+   DOBJ: onion, garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the bacon drippings until onion is softened , 6 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the bacon drippings until onion is softened 
+      NON-INGREDIENT SPAN:  6 to 7 minutes
+
+
+SENTID: 6
+SENT: I would remove from heat and cool .
+PREDID: 321
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, cool
+     PREP: from
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would mix cooled onion and garlic , ground beef , 1/2 cup barbeque sauce , bread crumbs , the eggs , Worcestershire sauce , Dijon mustard , the oregano , and chili powder together with your hands in a large bowl .
+PREDID: 343
+PRED: mix
+   DOBJ: NULL
+
+PREDID: 346
+PRED: cooled
+   DOBJ: NULL
+   PARG: with your hands in a large bowl
+     PREP: together
+      NON-INGREDIENT SPAN: with your hands in a large bowl
+   OARG: onion, garlic , ground beef , 1/2 cup barbeque sauce , bread crumbs , the eggs , worcestershire sauce , dijon mustard , the oregano , chili powder
+      INGREDIENT SPAN:  1/2 cup barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: soft bread crumbs
+      INGREDIENT SPAN:  dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN: onion
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 8
+SENT: I would form beef mixture into a log-shaped meatloaf ;
+PREDID: 504
+PRED: form
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a log-shaped meatloaf
+     PREP: into
+      NON-INGREDIENT SPAN: a log-shaped meatloaf
+
+
+SENTID: 9
+SENT: I would place in the prepared baking dish .
+PREDID: 543
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 10
+SENT: I would wrap partially-cooked bacon slices around the meatloaf , tucking the ends of bacon underneath the loaf .
+PREDID: 572
+PRED: wrap
+   DOBJ: partially-cooked bacon slices
+      NON-INGREDIENT SPAN: partially-cooked bacon slices
+   PARG: the meatloaf
+     PREP: around
+      NON-INGREDIENT SPAN: the meatloaf
+   OARG: tucking the ends of bacon underneath the loaf
+      NON-INGREDIENT SPAN: tucking the ends of bacon underneath the loaf
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven for 35 minutes .
+PREDID: 660
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 35 minutes
+
+
+SENTID: 12
+SENT: I would brush bacon-wrapped meatloaf with 3 tablespoons barbeque sauce .
+PREDID: 695
+PRED: brush
+   DOBJ: bacon-wrapped meatloaf
+      NON-INGREDIENT SPAN: bacon-wrapped meatloaf
+   PARG: 3 tablespoons barbeque sauce
+     PREP: with
+      NON-INGREDIENT SPAN: 3 tablespoons barbeque sauce
+
+
+SENTID: 13
+SENT: I would continue the baking until no longer pink in the center , about 10 more minutes .
+PREDID: 751
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: no longer pink in the center , about 10 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 more minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 14
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 15
+SENT: I would let stand for 10 minutes before serving .
+PREDID: 813
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

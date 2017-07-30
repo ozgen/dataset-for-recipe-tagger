@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease or line 10 muffin cups .
+PREDID: 45
+PRED: grease or line
+   DOBJ: 10 muffin cups
+      NON-INGREDIENT SPAN: 10 muffin cups
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a medium bowl , I would combine eggs and bananas .
+PREDID: 84
+PRED: combine
+   DOBJ: eggs, bananas
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  bananas
+         INGREDIENTS: ripe bananas mashed
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 3
+SENT: In a separate bowl , I would mix together flour , the salt , the sugar and baking soda .
+PREDID: 122
+PRED: mix
+   DOBJ: flour , the salt , the sugar, baking soda
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir banana mixture into flour mixture .
+PREDID: 163
+PRED: stir
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+
+
+SENTID: 5
+SENT: I would fold in walnuts if desired .
+PREDID: 197
+PRED: fold
+   DOBJ: NULL
+   PARG: walnuts
+     PREP: in
+      NON-INGREDIENT SPAN: walnuts
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 6
+SENT: I would pour batter into prepared muffin cups .
+PREDID: 220
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 20 to 25 minutes , or until a toothpick inserted into center of a muffin comes out clean .
+PREDID: 253
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 to 25 minutes , or until a toothpick inserted into center of a muffin comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 to 25 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into center of a muffin comes out clean
+
+

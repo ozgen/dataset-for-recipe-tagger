@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: In a jar , I would combine lime juice , the sugar , lime zest , rice vinegar , and mustard .
+PREDID: 7
+PRED: combine
+   DOBJ: lime juice , the sugar , lime zest , rice vinegar , mustard
+      INGREDIENT SPAN: lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  lime zest 
+         INGREDIENTS: grated lime
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a jar
+     PREP: in
+      NON-INGREDIENT SPAN: a jar
+
+
+SENTID: 1
+SENT: I would shake well , and set aside .
+PREDID: 62
+PRED: shake
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 75
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a small bowl , I would mix chicken with limeade concentrate and pepper .
+PREDID: 97
+PRED: mix
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut thin strips
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: limeade concentrate, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN: limeade concentrate
+         INGREDIENTS: frozen limeade concentrate
+
+
+SENTID: 3
+SENT: I would heat oil in a skillet over medium high heat .
+PREDID: 139
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium high heat
+
+
+SENTID: 4
+SENT: I would cook and stir chicken 4 to 6 minutes , or until no longer pink , and juices run clear .
+PREDID: 175
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken 4 to 6 minutes , or until no longer pink
+     PREP: for
+      NON-INGREDIENT SPAN: chicken 4 to 6 minutes 
+      NON-INGREDIENT SPAN:  or until no longer pink
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+
+SENTID: 5
+SENT: I would divide lettuce onto 4 salad plates .
+PREDID: 243
+PRED: divide
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: head red leaf lettuce rinsed dried torn
+   PARG: 4 salad plates
+     PREP: onto
+      NON-INGREDIENT SPAN: 4 salad plates
+
+
+SENTID: 6
+SENT: I would top with mandarin orange segments , golden raisins , and walnuts .
+PREDID: 273
+PRED: top
+   DOBJ: NULL
+   PARG: mandarin orange segments , golden raisins , walnuts
+     PREP: with
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  golden raisins 
+         INGREDIENTS: golden raisins
+      INGREDIENT SPAN: mandarin orange segments 
+         INGREDIENTS: ounce mandarin oranges drained
+
+
+SENTID: 7
+SENT: I would place cooked chicken on top , and drizzle lightly with dressing .
+PREDID: 328
+PRED: place
+   DOBJ: cooked chicken
+      NON-INGREDIENT SPAN: cooked chicken
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+PREDID: 355
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

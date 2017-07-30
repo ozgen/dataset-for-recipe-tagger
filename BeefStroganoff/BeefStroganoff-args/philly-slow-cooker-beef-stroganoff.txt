@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would mix meat , the onions and mushrooms in slow cooker .
+PREDID: 0
+PRED: mix
+   DOBJ: meat , the onions, mushrooms
+      INGREDIENT SPAN:  the onions
+         INGREDIENTS: chopped onions
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: chopped mushrooms
+      NON-INGREDIENT SPAN: meat 
+   PARG: slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 1
+SENT: I would add broth ;
+PREDID: 39
+PRED: add
+   DOBJ: broth
+      INGREDIENT SPAN: broth
+         INGREDIENTS: beef broth
+
+
+SENTID: 2
+SENT: I would stir .
+PREDID: 48
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would cover .
+PREDID: 53
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cook on LOW for 6 to 8 hours -LRB- or on HIGH for 3 to 4 hours -RRB- .
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 hours -lrb- or on high for 3 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 hours -lrb- or on high for 3 to 4 hours
+   OARG: on
+      NON-INGREDIENT SPAN: on
+   OARG: low
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would combine cream cheese spread and flour .
+PREDID: 103
+PRED: combine
+   DOBJ: cream cheese spread, flour
+      INGREDIENT SPAN: cream cheese spread
+         INGREDIENTS: PHILADELPHIA Herb Garlic Cream Cheese Spread
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: flour
+
+
+SENTID: 6
+SENT: I would add to meat mixture just before serving ;
+PREDID: 136
+PRED: add
+   DOBJ: NULL
+   PARG: meat mixture
+     PREP: to
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 7
+SENT: I would stir until cream cheese is completely melted and mixture is well blended .
+PREDID: 170
+PRED: stir
+   DOBJ: NULL
+   PARG: cream cheese is completely melted
+     PREP: until
+      NON-INGREDIENT SPAN: cream cheese is completely melted
+   OARG: mixture is well blended
+      NON-INGREDIENT SPAN: mixture is well blended
+
+
+SENTID: 8
+SENT: I would add to hot pasta ;
+PREDID: 232
+PRED: add
+   DOBJ: NULL
+   PARG: hot pasta
+     PREP: to
+      NON-INGREDIENT SPAN: hot pasta
+
+
+SENTID: 9
+SENT: I would toss to coat .
+PREDID: 246
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

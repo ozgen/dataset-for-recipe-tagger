@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: I would whisk mayonnaise , the sugar , the vinegar , the salt , and black pepper in a large salad bowl ;
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , the sugar , the vinegar , the salt , black pepper in a large salad bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  black pepper in a large salad bowl
+
+
+SENTID: 1
+SENT: I would fold in cabbage , the broccoli , red onion , the spinach , and red grapes .
+PREDID: 67
+PRED: fold
+   DOBJ: NULL
+   PARG: cabbage , the broccoli , red onion , the spinach , red grapes
+     PREP: in
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: heads broccoli trimmed cut thin strips
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  red grapes
+         INGREDIENTS: seedless red grapes quartered
+      INGREDIENT SPAN:  the spinach 
+         INGREDIENTS: ounce bag fresh spinach leaves sliced
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: head cabbage sliced
+
+
+SENTID: 2
+SENT: I would stir to coat with dressing .
+PREDID: 120
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+

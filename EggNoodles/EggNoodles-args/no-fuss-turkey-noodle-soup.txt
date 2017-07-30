@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: I would combine chicken stock , summer savory , the basil , thyme , chipotle powder , the salt , black pepper .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken stock , summer savory , the basil , thyme , chipotle powder , the salt , black pepper
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: coarse ground black pepper
+      INGREDIENT SPAN: chicken stock 
+         INGREDIENTS: fluid ounce container chicken stock
+      INGREDIENT SPAN:  summer savory 
+         INGREDIENTS: dried summer savory
+      INGREDIENT SPAN:  chipotle powder 
+         INGREDIENTS: chipotle chile powder
+      NON-INGREDIENT SPAN:  thyme 
+
+
+SENTID: 1
+SENT: I would parsley , and sherry in a stock pot ;
+PREDID: 77
+PRED: parsley
+   DOBJ: NULL
+
+PREDID: 88
+PRED: sherry
+   DOBJ: NULL
+   PARG: a stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a stock pot
+
+
+SENTID: 2
+SENT: I would bring to a boil .
+PREDID: 106
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add carrots , reduce heat to medium-low , and cook until carrots are tender , 5 to 7 minutes .
+PREDID: 119
+PRED: add
+   DOBJ: carrots
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: carrots sliced
+
+PREDID: 130
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 156
+PRED: cook
+   DOBJ: NULL
+   PARG: carrots are tender , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: carrots are tender 
+
+
+SENTID: 4
+SENT: I would melt butter in a skillet .
+PREDID: 194
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+
+SENTID: 5
+SENT: I would cook and stir celery , the onion , and garlic in hot butter until onions are translucent , about 5 minutes ;
+PREDID: 215
+PRED: cook and stir
+   DOBJ: celery , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+   PARG: hot butter
+     PREP: in
+      NON-INGREDIENT SPAN: hot butter
+   PARG: onions are translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: onions are translucent 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would stir into stock mixture .
+PREDID: 299
+PRED: stir
+   DOBJ: NULL
+   PARG: stock mixture
+     PREP: into
+      NON-INGREDIENT SPAN: stock mixture
+
+
+SENTID: 7
+SENT: I would add turkey , reduce heat to low , and cook at a simmer until turkey is hot and has flavored the soup , about 30 minutes .
+PREDID: 320
+PRED: add
+   DOBJ: turkey
+      INGREDIENT SPAN: turkey
+         INGREDIENTS: cubed cooked darkmeat turkey
+
+PREDID: 330
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 349
+PRED: cook
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: turkey is hot, has flavored the soup , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: turkey is hot
+      NON-INGREDIENT SPAN:  has flavored the soup 
+
+
+SENTID: 8
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 415
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 457
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 10
+SENT: I would drain and add to soup .
+PREDID: 558
+PRED: drain and add
+   DOBJ: NULL
+   PARG: soup
+     PREP: to
+      NON-INGREDIENT SPAN: soup
+
+
+SENTID: 11
+SENT: I would season with salt and black pepper to serve .
+PREDID: 576
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  black pepper
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

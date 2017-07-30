@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+
+SENTID: 1
+SENT: I would drain well .
+PREDID: 60
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would meanwhile , in a large skillet cook meat with seasoning salt , black pepper , and garlic powder until brown .
+PREDID: 70
+PRED: meanwhile
+   DOBJ: NULL
+   PARG: a large skillet cook meat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet cook meat
+   PARG: seasoning salt , black pepper , garlic powder until brown
+     PREP: with
+      INGREDIENT SPAN:  garlic powder until brown
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: seasoning salt 
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ounce diced tomatoes green chile peppers, ground black pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ounce diced tomatoes green chile peppers, ground black pepper
+
+
+SENTID: 3
+SENT: I would add the cans of Mexican-style corn , tomatoes with green chilies and mix well .
+PREDID: 159
+PRED: add
+   DOBJ: the cans of Mexican-style corn , tomatoes
+      INGREDIENT SPAN: the cans of Mexican-style corn 
+         INGREDIENTS: ounce Mexicanstyle corn
+      NON-INGREDIENT SPAN:  tomatoes
+   PARG: green chilies
+     PREP: with
+      NON-INGREDIENT SPAN: green chilies
+
+PREDID: 216
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would pour mixture into casserole dish prepared with butter spray .
+PREDID: 224
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: casserole dish prepared with butter spray
+     PREP: into
+      NON-INGREDIENT SPAN: casserole dish prepared with butter spray
+
+
+SENTID: 5
+SENT: I would arrange sliced processed cheese food on top .
+PREDID: 276
+PRED: arrange
+   DOBJ: sliced processed cheese food on top
+      INGREDIENT SPAN: sliced processed cheese food on top
+         INGREDIENTS: processed cheese food Velveeta sliced
+
+
+SENTID: 6
+SENT: I would cover with aluminum foil .
+PREDID: 314
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 7
+SENT: I would bake in a preheated 375 degree F -LRB- 190 degrees C -RRB- oven for 20 to 30 minutes .
+PREDID: 336
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 375 degree f -lrb- 190 degrees c -rrb- oven for 20 to 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 375 degree f -lrb- 190 degrees c -rrb- oven for 20 to 30 minutes
+
+
+SENTID: 8
+SENT: I would stir and serve .
+PREDID: 396
+PRED: stir and serve
+   DOBJ: NULL
+
+

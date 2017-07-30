@@ -1,0 +1,192 @@
+SENTID: 0
+SENT: I would set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 0
+PRED: set
+   DOBJ: oven rack
+      NON-INGREDIENT SPAN: oven rack
+   PARG: 6 inches from the heat source
+     PREP: about
+      NON-INGREDIENT SPAN: 6 inches from the heat source
+
+PREDID: 43
+PRED: preheat
+   DOBJ: the oven 's broiler
+      NON-INGREDIENT SPAN: the oven 's broiler
+
+
+SENTID: 1
+SENT: I would arrange peppers on a baking sheet .
+PREDID: 67
+PRED: arrange
+   DOBJ: peppers
+      INGREDIENT SPAN: peppers
+         INGREDIENTS: poblano peppers
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would broil peppers in the preheated oven until bubbling and skin becomes blackened , 5 to 10 minutes per side .
+
+SENTID: 3
+SENT: I would remove from oven and transfer peppers to a bowl of ice water ;
+PREDID: 183
+PRED: remove
+   DOBJ: NULL
+   PARG: oven, transfer peppers
+     PREP: from
+      NON-INGREDIENT SPAN:  transfer peppers
+      NON-INGREDIENT SPAN: oven
+   PARG: a bowl of ice water
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl of ice water
+
+
+SENTID: 4
+SENT: I would set aside for skin to loosen from peppers , about 10 minutes .
+PREDID: 233
+PRED: set
+   DOBJ: NULL
+   PARG: skin
+     PREP: for
+      NON-INGREDIENT SPAN: skin
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to loosen from peppers , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: to loosen from peppers 
+
+
+SENTID: 5
+SENT: I would remove peppers from water and peel blackened skin from peppers and remove seeds .
+PREDID: 283
+PRED: remove
+   DOBJ: peppers
+      NON-INGREDIENT SPAN: peppers
+   PARG: water
+     PREP: from
+      NON-INGREDIENT SPAN: water
+
+PREDID: 308
+PRED: peel
+   DOBJ: blackened skin from peppers
+      NON-INGREDIENT SPAN: blackened skin from peppers
+
+PREDID: 339
+PRED: remove
+   DOBJ: seeds
+      NON-INGREDIENT SPAN: seeds
+
+
+SENTID: 6
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 351
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 7
+SENT: I would spray a 9x5-inch loaf pan with cooking spray .
+PREDID: 389
+PRED: spray pan
+   DOBJ: a 9x5-inch loaf
+      NON-INGREDIENT SPAN: a 9x5-inch loaf
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 8
+SENT: I would place peppers and dates in a food processor ;
+PREDID: 427
+PRED: place
+   DOBJ: peppers, dates
+      INGREDIENT SPAN:  dates
+         INGREDIENTS: pitted Medjool dates
+      NON-INGREDIENT SPAN: peppers
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+
+
+SENTID: 9
+SENT: I would pulse until evenly combined .
+PREDID: 464
+PRED: pulse
+   DOBJ: NULL
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+
+SENTID: 10
+SENT: I would mix pepper-date mixture , ground beef , goat cheese , 1/4 cup barbeque sauce , bread crumbs and egg together in a bowl or in a stand-mixer until evenly combined .
+PREDID: 489
+PRED: mix
+   DOBJ: pepper-date mixture , ground beef , goat cheese , 1/4 cup barbeque sauce , bread crumbs, egg
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: % lean ground beef
+      INGREDIENT SPAN:  1/4 cup barbeque sauce 
+         INGREDIENTS: barbeque sauce such Jack Daniel
+      INGREDIENT SPAN:  goat cheese 
+         INGREDIENTS: goat cheese
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN: pepper-date mixture 
+   PARG: a bowl or in a stand-mixer
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl or in a stand-mixer
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would pour beef mixture into the prepared loaf pan .
+PREDID: 621
+PRED: pour
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 12
+SENT: I would spread 2 tablespoons barbeque sauce evenly over meat mixture .
+PREDID: 659
+PRED: spread
+   DOBJ: 2 tablespoons
+      NON-INGREDIENT SPAN: 2 tablespoons
+   PARG: meat mixture
+     PREP: over
+      NON-INGREDIENT SPAN: meat mixture
+   OARG: barbeque sauce evenly
+      INGREDIENT SPAN: barbeque sauce evenly
+         INGREDIENTS: barbeque sauce such Jack Daniel
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 712
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 14
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

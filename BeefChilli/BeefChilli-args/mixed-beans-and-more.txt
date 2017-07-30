@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would place black beans , pinto beans , and kidney beans in a large container and cover with several inches of cool water ;
+PREDID: 0
+PRED: place
+   DOBJ: black beans , pinto beans , kidney beans in a large container
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: dried kidney beans rinsed
+      INGREDIENT SPAN: black beans 
+         INGREDIENTS: dried pinto beans rinsed
+      INGREDIENT SPAN:  kidney beans in a large container
+         INGREDIENTS: dried black beans rinsed
+
+PREDID: 61
+PRED: cover
+   DOBJ: NULL
+   PARG: several inches of cool water
+     PREP: with
+      INGREDIENT SPAN: several inches of cool water
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would let stand for at least 12 hours .
+PREDID: 95
+PRED: let
+   DOBJ: NULL
+   PARG: stand for at least 12 hours
+     PREP: for
+      NON-INGREDIENT SPAN: stand for at least 12 hours
+
+
+SENTID: 2
+SENT: Bring beans and water to a boil in a large pot ;
+PREDID: 121
+PRED: bring
+   DOBJ: beans, water
+      NON-INGREDIENT SPAN:  water
+      NON-INGREDIENT SPAN: beans
+   PARG: a boil in a large pot
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a large pot
+
+
+SENTID: 3
+SENT: I would cook until beans are tender and heated through , 30 minutes .
+PREDID: 158
+PRED: cook
+   DOBJ: NULL
+   PARG: beans are tender, heated through , 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  heated through 
+      NON-INGREDIENT SPAN: beans are tender
+      NON-INGREDIENT SPAN:  30 minutes
+
+
+SENTID: 4
+SENT: I would remove pot from heat to cool and drain beans .
+PREDID: 208
+PRED: remove
+   DOBJ: pot
+      NON-INGREDIENT SPAN: pot
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: to cool, drain beans
+      NON-INGREDIENT SPAN:  drain beans
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: I would cook and stir sausage , the beef , the onion , bell pepper , and garlic in a large skillet over medium-high heat until meat is browned , 5 to 10 minutes .
+PREDID: 245
+PRED: cook and stir
+   DOBJ: sausage , the beef , the onion , bell pepper , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: bell pepper chopped
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN: sausage 
+         INGREDIENTS: andouille sausage chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: meat is browned , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: meat is browned 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 6
+SENT: I would drain and discard fat .
+PREDID: 361
+PRED: drain and discard
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 7
+SENT: I would stir beans , sausage mixture , the corn , the salsa , chili sauce , the vinegar , and water together in a slow cooker .
+PREDID: 380
+PRED: stir
+   DOBJ: beans , sausage mixture , the corn , the salsa , chili sauce , the vinegar , water
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: tomatobased chili sauce
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: salsa
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: corn
+      NON-INGREDIENT SPAN:  water
+      NON-INGREDIENT SPAN:  sausage mixture 
+      NON-INGREDIENT SPAN: beans 
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would cook on High for at least 4 hours , stirring occasionally .
+PREDID: 465
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: at least 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 4 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 9
+SENT: I would season with salt and ground black pepper .
+PREDID: 513
+PRED: season
+   DOBJ: NULL
+   PARG: salt, ground black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  ground black pepper
+
+

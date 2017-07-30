@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: In a 13x9 inch casserole dish , I would combine the mushroom and beef onion soups , canned mushrooms and water .
+PREDID: 63
+PRED: combine
+   DOBJ: the mushroom
+      INGREDIENT SPAN: the mushroom
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: a 13x9 inch casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 13x9 inch casserole dish
+
+PREDID: 84
+PRED: beef
+   DOBJ: onion soups , canned mushrooms, water
+      INGREDIENT SPAN:  canned mushrooms
+         INGREDIENTS: ounce mushrooms drained
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: onion soups 
+         INGREDIENTS: ounce package beef onion soup mix
+
+
+SENTID: 2
+SENT: I would mix thoroughly and add beef tips .
+PREDID: 123
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 139
+PRED: add
+   DOBJ: beef tips
+      INGREDIENT SPAN: beef tips
+         INGREDIENTS: sirloin tips cubed
+
+
+SENTID: 3
+SENT: I would turn to coat well .
+PREDID: 151
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would bake in a preheated oven for 1 hour .
+PREDID: 166
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 1 hour
+
+
+SENTID: 5
+SENT: While beef tips are baking , I would bring a large pot of lightly salted water to a boil .
+PREDID: 218
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: beef tips are baking
+     PREP: while
+      NON-INGREDIENT SPAN: beef tips are baking
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 260
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 305
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would serve beef tips and sauce over noodles .
+PREDID: 311
+PRED: serve
+   DOBJ: beef tips, sauce over noodles
+      INGREDIENT SPAN:  sauce over noodles
+         INGREDIENTS: ounce package wide egg noodles
+      NON-INGREDIENT SPAN: beef tips
+
+

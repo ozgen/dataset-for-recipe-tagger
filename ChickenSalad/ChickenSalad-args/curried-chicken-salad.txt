@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 31
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would crumble and set aside .
+PREDID: 70
+PRED: crumble and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine bacon , the chicken , the celery , and grapes .
+PREDID: 102
+PRED: combine
+   DOBJ: bacon , the chicken , the celery , grapes
+      INGREDIENT SPAN:  grapes
+         INGREDIENTS: seedless grapes
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: diced cooked chicken breast meat
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: bacon 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would prepare the dressing in a small bowl by whisking together the mayonnaise , the onion , lemon juice , Worcestershire sauce , the curry and salt and pepper .
+PREDID: 140
+PRED: prepare
+   DOBJ: the dressing in a small bowl
+      NON-INGREDIENT SPAN: the dressing in a small bowl
+   PARG: whisking together the mayonnaise , the onion , lemon juice , worcestershire sauce , the curry, salt, pepper
+     PREP: by
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion minced
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: whisking together the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the curry
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would pour over salad and toss well .
+PREDID: 261
+PRED: pour
+   DOBJ: NULL
+   PARG: salad
+     PREP: over
+      NON-INGREDIENT SPAN: salad
+
+PREDID: 277
+PRED: toss
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+

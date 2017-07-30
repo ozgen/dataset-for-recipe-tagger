@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would mix chicken , 2 tablespoons vegetable oil , the cornstarch , 2 teaspoons soy sauce , 2 teaspoons sherry , the garlic , and ginger in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: chicken , 2 tablespoons vegetable oil , the cornstarch , 2 teaspoons soy sauce , 2 teaspoons sherry , the garlic , ginger in a bowl
+      INGREDIENT SPAN:  2 tablespoons vegetable oil 
+         INGREDIENTS: vegetable oil divided
+      INGREDIENT SPAN:  2 teaspoons sherry 
+         INGREDIENTS: dry sherry
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  2 teaspoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast halves sliced
+      INGREDIENT SPAN:  ginger in a bowl
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+
+
+SENTID: 1
+SENT: I would whisk 3 tablespoons soy sauce , 3 tablespoons sherry , oyster sauce , and sambal oelek in another bowl .
+PREDID: 107
+PRED: whisk
+   DOBJ: 3 tablespoons soy sauce , 3 tablespoons sherry , oyster sauce , sambal oelek in another bowl
+      INGREDIENT SPAN:  3 tablespoons sherry 
+         INGREDIENTS: dry sherry
+      INGREDIENT SPAN:  sambal oelek in another bowl
+         INGREDIENTS: sambal oelek
+      INGREDIENT SPAN: 3 tablespoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  oyster sauce 
+         INGREDIENTS: oyster sauce
+
+
+SENTID: 2
+SENT: I would heat 1 tablespoon vegetable oil in a wok or large skillet over medium-high heat ;
+PREDID: 192
+PRED: heat
+   DOBJ: 1 tablespoon vegetable oil
+      INGREDIENT SPAN: 1 tablespoon vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok or large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet over medium-high heat
+
+
+SENTID: 3
+SENT: I would cook and stir chicken in batches until golden and no longer pink in the center , about 5 minutes .
+PREDID: 259
+PRED: cook and stir
+   DOBJ: chicken in batches
+      NON-INGREDIENT SPAN: chicken in batches
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+   OARG: no longer pink in the center , about 5 minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would transfer cooked chicken to a platter .
+PREDID: 338
+PRED: transfer
+   DOBJ: cooked chicken
+      NON-INGREDIENT SPAN: cooked chicken
+   PARG: a platter
+     PREP: to
+      NON-INGREDIENT SPAN: a platter
+
+
+SENTID: 5
+SENT: I would heat the remaining 1 tablespoon vegetable oil in the same wok or skillet ;
+PREDID: 370
+PRED: heat
+   DOBJ: the remaining 1 tablespoon vegetable oil
+      INGREDIENT SPAN: the remaining 1 tablespoon vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: the same wok or skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same wok or skillet
+
+
+SENTID: 6
+SENT: I would cook and stir broccoli and onion until broccoli is partially cooked but still firm , 2 to 3 minutes .
+PREDID: 479
+PRED: is cooked
+   DOBJ: NULL
+   PARG: broccoli
+     PREP: until
+      INGREDIENT SPAN: broccoli
+         INGREDIENTS: broccoli florets
+   OARG: i would cook, stir broccoli, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: green onions sliced, sliced onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: green onions sliced, sliced onion
+      NON-INGREDIENT SPAN: i would cook
+      NON-INGREDIENT SPAN:  stir broccoli
+   OARG: partially
+      NON-INGREDIENT SPAN: partially
+   OARG: but still
+      NON-INGREDIENT SPAN: but still
+
+
+SENTID: 7
+SENT: I would stir in oyster sauce mixture and continue the cooking until broccoli is tender , about 5 minutes more .
+PREDID: 510
+PRED: stir
+   DOBJ: NULL
+   PARG: oyster sauce mixture
+     PREP: in
+      INGREDIENT SPAN: oyster sauce mixture
+         INGREDIENTS: soy sauce
+
+PREDID: 537
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: broccoli is tender , about 5 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: broccoli is tender 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+
+SENTID: 8
+SENT: I would return chicken to wok and add green onions ;
+PREDID: 592
+PRED: return
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: to wok, add green onions
+      NON-INGREDIENT SPAN:  add green onions
+      NON-INGREDIENT SPAN: to wok
+
+
+SENTID: 9
+SENT: I would toss until heated through and coated with sauce .
+PREDID: 628
+PRED: toss
+   DOBJ: NULL
+   PARG: heated through, coated with sauce
+     PREP: until
+      NON-INGREDIENT SPAN: heated through
+      NON-INGREDIENT SPAN:  coated with sauce
+
+
+SENTID: 10
+SENT: I would season with salt and black pepper .
+PREDID: 669
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would melt butter in a large saucepan over low heat .
+PREDID: 38
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over low heat
+
+
+SENTID: 2
+SENT: I would stir in the flour and heat until bubbly .
+PREDID: 76
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour, heat
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  heat
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+
+SENTID: 3
+SENT: I would slowly add the milk , stirring constantly , until mixture is thickened and smooth .
+PREDID: 115
+PRED: add
+   DOBJ: the milk , stirring constantly
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  stirring constantly
+   PARG: mixture is thickened, smooth
+     PREP: until
+      NON-INGREDIENT SPAN:  smooth
+      NON-INGREDIENT SPAN: mixture is thickened
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 4
+SENT: I would remove from heat and stir in the chicken , the ham , the noodles , the celery , the salt and ground black pepper .
+PREDID: 178
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 195
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken , the ham , the noodles , the celery , the salt, ground black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cooked cubed ham
+      INGREDIENT SPAN:  the noodles 
+         INGREDIENTS: cooked wide egg noodles
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked cubed chicken breast meat
+
+
+SENTID: 5
+SENT: I would transfer this mixture to a 1?1/2 quart casserole dish .
+PREDID: 256
+PRED: transfer
+   DOBJ: this mixture
+      NON-INGREDIENT SPAN: this mixture
+   PARG: a 1?1/2 quart casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 1?1/2 quart casserole dish
+
+
+SENTID: 6
+SENT: I would bake at 400 degrees F -LRB- 200 degrees C -RRB- for 15 minutes .
+PREDID: 302
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees f -lrb- 200 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 200 degrees c
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 7
+SENT: I would remove from oven , sprinkle with the cheese and top with paprika , as desired .
+PREDID: 345
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 360
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+PREDID: 384
+PRED: top
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+
+SENTID: 8
+SENT: I would return to oven and bake for 5 to 10 minutes , or until cheese is bubbly .
+PREDID: 409
+PRED: return
+   DOBJ: NULL
+   OARG: to oven, bake for 5 to 10 minutes , or until cheese is bubbly
+      NON-INGREDIENT SPAN:  or until cheese is bubbly
+      NON-INGREDIENT SPAN: to oven
+      NON-INGREDIENT SPAN:  bake for 5 to 10 minutes 
+
+

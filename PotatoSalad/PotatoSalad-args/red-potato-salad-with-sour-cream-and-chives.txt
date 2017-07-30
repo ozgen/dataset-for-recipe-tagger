@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would scrub potatoes -LRB- do n't peel -RRB- .
+PREDID: 0
+PRED: scrub
+   DOBJ: potatoes -LRB- do n't peel
+      INGREDIENT SPAN: potatoes -LRB- do n't peel
+         INGREDIENTS: large red potatoes
+
+
+SENTID: 1
+SENT: If large , I would cut in half or in quarters .
+PREDID: 33
+PRED: cut
+   DOBJ: NULL
+   PARG: large
+     PREP: if
+      NON-INGREDIENT SPAN: large
+   PARG: half or in quarters
+     PREP: in
+      NON-INGREDIENT SPAN: half or in quarters
+
+
+SENTID: 2
+SENT: I would boil potatoes in their skins until fork-tender .
+PREDID: 55
+PRED: boil
+   DOBJ: potatoes in their skins
+      NON-INGREDIENT SPAN: potatoes in their skins
+   PARG: fork-tender
+     PREP: until
+      NON-INGREDIENT SPAN: fork-tender
+
+
+SENTID: 3
+SENT: I would drain , dry and cut into 1/2 inch cubes .
+PREDID: 96
+PRED: drain and dry
+   DOBJ: NULL
+
+PREDID: 108
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2 inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch cubes
+
+
+SENTID: 4
+SENT: In a salad bowl , I would combine the potatoes , sour cream , the yogurt , and chives ;
+PREDID: 141
+PRED: combine
+   DOBJ: the potatoes , sour cream , the yogurt , chives
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: plain yogurt
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  chives
+         INGREDIENTS: fresh chives chopped
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 5
+SENT: I would toss gently to coat .
+PREDID: 187
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would add salt , and pepper to taste ;
+PREDID: 204
+PRED: add
+   DOBJ: salt , pepper to taste
+      INGREDIENT SPAN:  pepper to taste
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 7
+SENT: I would refrigerate until chilled .
+PREDID: 229
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

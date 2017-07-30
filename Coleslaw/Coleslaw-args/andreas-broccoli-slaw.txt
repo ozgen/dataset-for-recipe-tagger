@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: I would mix mayonnaise , blue cheese , the sugar , olive oil , the mustard , the vinegar , red pepper flakes , onion powder , and celery salt together in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: mayonnaise , blue cheese , the sugar , olive oil , the mustard , the vinegar , red pepper flakes , onion powder , celery salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: stoneground mustard
+      INGREDIENT SPAN:  celery salt
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  blue cheese 
+         INGREDIENTS: crumbled blue cheese more taste
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar more taste
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add cabbage , the carrots , the broccoli , and raisins ;
+PREDID: 118
+PRED: add
+   DOBJ: cabbage , the carrots , the broccoli , raisins
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: chopped broccoli florets
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots grated
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: head cabbage shredded
+
+
+SENTID: 2
+SENT: I would stir to coat .
+PREDID: 157
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would chill in refrigerator at least 2 hours before serving .
+PREDID: 168
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator at least 2 hours
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator at least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

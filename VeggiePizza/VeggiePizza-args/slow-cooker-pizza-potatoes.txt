@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would heat oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir potatoes and onion in oil until the onion is translucent , 7 to 10 minutes ;
+PREDID: 42
+PRED: cook and stir
+   DOBJ: potatoes, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion sliced
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled sliced
+   PARG: oil
+     PREP: in
+      NON-INGREDIENT SPAN: oil
+   PARG: the onion is translucent , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the onion is translucent 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 114
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would put potato mixture in a slow cooker and add mozzarella cheese and pepperoni .
+PREDID: 120
+PRED: put
+   DOBJ: potato mixture
+      NON-INGREDIENT SPAN: potato mixture
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 152
+PRED: add
+   DOBJ: mozzarella cheese, pepperoni
+      INGREDIENT SPAN:  pepperoni
+         INGREDIENTS: sliced pepperoni
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: grated mozzarella cheese
+
+
+SENTID: 4
+SENT: I would pour pizza sauce over the mixture .
+PREDID: 184
+PRED: pour
+   DOBJ: pizza sauce
+      INGREDIENT SPAN: pizza sauce
+         INGREDIENTS: ounce pizza sauce
+   PARG: the mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 5
+SENT: I would cook on Low for 6 to 10 hours .
+PREDID: 213
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 6 to 10 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 6 to 10 hours
+
+

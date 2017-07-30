@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would cook sausage and ground beef in a large pot over medium-high heat until lightly browned and crumbly .
+PREDID: 0
+PRED: cook
+   DOBJ: sausage, ground beef
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: bulk hot Italian sausage
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+   PARG: lightly browned, crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+      NON-INGREDIENT SPAN:  crumbly
+
+
+SENTID: 1
+SENT: When the meat has released its grease , and has begun to brown , drain off accumulated grease , and season with chili powder , the cumin , and coriander .
+PREDID: 135
+PRED: drain
+   DOBJ: NULL
+   PARG: accumulated grease , season with chili powder , the cumin , coriander
+     PREP: off
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  coriander
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  season with chili powder 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN: accumulated grease 
+   OARG: when the meat has released its grease , has begun to brown
+      NON-INGREDIENT SPAN:  has begun to brown
+      NON-INGREDIENT SPAN: when the meat has released its grease 
+
+
+SENTID: 2
+SENT: I would cook and stir for 1 minute until fragrant ,
+PREDID: 205
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+   PARG: fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+
+
+SENTID: 3
+SENT: I would stir in the garlic and onion .
+PREDID: 240
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic, onion
+     PREP: in
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion diced
+      NON-INGREDIENT SPAN: the garlic
+
+
+SENTID: 4
+SENT: I would cook until the onion has softened and turned translucent , about 4 minutes .
+PREDID: 264
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion has softened, turned translucent , about 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 4 minutes
+      NON-INGREDIENT SPAN: the onion has softened
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 5
+SENT: I would stir in the diced tomatoes , tomato sauce , kidney beans , chipotle peppers , the salt , and pepper .
+PREDID: 327
+PRED: stir
+   DOBJ: NULL
+   PARG: the diced tomatoes , tomato sauce , kidney beans , chipotle peppers , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN: the diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  chipotle peppers 
+         INGREDIENTS: minced chipotle peppers adobo sauce
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 6
+SENT: I would bring to a simmer ,
+PREDID: 405
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 7
+SENT: I would pour the chili into a slow cooker .
+PREDID: 420
+PRED: pour
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 8
+SENT: I would cover , and cook on Low for 8 to 10 hours .
+PREDID: 448
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 457
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 8 to 10 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 8 to 10 hours
+
+
+SENTID: 9
+SENT: I would stir in tomato paste an hour before the chili is done .
+PREDID: 480
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste an hour
+     PREP: in
+      INGREDIENT SPAN: tomato paste an hour
+         INGREDIENTS: ounce tomato paste
+   PARG: the chili is done
+     PREP: before
+      NON-INGREDIENT SPAN: the chili is done
+
+

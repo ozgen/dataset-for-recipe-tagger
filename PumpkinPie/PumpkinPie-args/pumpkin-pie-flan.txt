@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would melt 1/2 cup sugar in an aluminum loaf pan and heat over medium heat .
+PREDID: 38
+PRED: melt
+   DOBJ: 1/2 cup sugar
+      INGREDIENT SPAN: 1/2 cup sugar
+         INGREDIENTS: white sugar
+   PARG: an aluminum loaf pan
+     PREP: in
+      NON-INGREDIENT SPAN: an aluminum loaf pan
+
+PREDID: 75
+PRED: heat
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 2
+SENT: Continue to cook until it caramelizes , being careful to not burn the sugar .
+
+SENTID: 3
+SENT: I would fill a large pot of water with about 1 inch of water and place over medium heat .
+PREDID: 94
+PRED: fill
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: about 1 inch of water, place
+     PREP: with
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: about 1 inch of water
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 4
+SENT: I would move the aluminum pan into the large pot and set into the water .
+PREDID: 158
+PRED: move pan
+   DOBJ: the aluminum
+      NON-INGREDIENT SPAN: the aluminum
+   PARG: the large pot
+     PREP: into
+      NON-INGREDIENT SPAN: the large pot
+
+PREDID: 194
+PRED: set
+   DOBJ: NULL
+   PARG: the water
+     PREP: into
+      NON-INGREDIENT SPAN: the water
+
+
+SENTID: 5
+SENT: I would combine the pumpkin pie filling , evaporated milk , condensed milk , the eggs , 1/2 cup sugar , the vanilla , and allspice in a blender , blend until smooth .
+
+SENTID: 6
+SENT: I would pour the mixture into the loaf pan .
+PREDID: 331
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the loaf pan
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until a knife inserted in the center comes out clean , about 1 hour .
+PREDID: 360
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: a knife inserted in the center comes out clean , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: a knife inserted in the center comes out clean 
+
+
+SENTID: 8
+SENT: I would refrigerate for at least 3 hours , or overnight .
+PREDID: 434
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 3 hours , or overnight
+     PREP: for
+      NON-INGREDIENT SPAN:  or overnight
+      NON-INGREDIENT SPAN: at least 3 hours 
+
+
+SENTID: 9
+SENT: I would run a knife along the edge of the loaf pan to loosen the flan .
+PREDID: 474
+PRED: run pan
+   DOBJ: a knife along the edge of the loaf
+      NON-INGREDIENT SPAN: a knife along the edge of the loaf
+   OARG: to loosen the flan
+      NON-INGREDIENT SPAN: to loosen the flan
+
+
+SENTID: 10
+SENT: I would invert the pan onto a serving plate and tap to release the dessert .
+PREDID: 523
+PRED: invert
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: a serving plate
+     PREP: onto
+      NON-INGREDIENT SPAN: a serving plate
+
+PREDID: 555
+PRED: tap
+   DOBJ: NULL
+   OARG: to release the dessert
+      NON-INGREDIENT SPAN: to release the dessert
+
+

@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: I would combine cabbage , the carrot , the mayonnaise , the cranberries , the walnuts , the milk , cider vinegar , and sugar in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: cabbage , the carrot , the mayonnaise , the cranberries , the walnuts , the milk , cider vinegar , sugar in a bowl
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk more needed
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  sugar in a bowl
+         INGREDIENTS: white sugar more taste
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: grated carrot
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: small head red cabbage sliced chopped
+
+
+SENTID: 1
+SENT: I would stir well .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would cover and refrigerate until chilled , about 4 hours .
+PREDID: 96
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: chilled , about 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN: chilled 
+      NON-INGREDIENT SPAN:  about 4 hours
+
+

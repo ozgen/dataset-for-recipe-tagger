@@ -1,0 +1,230 @@
+SENTID: 0
+SENT: In a large bowl , I would sift together the cornmeal , the flour , the salt , black pepper and red pepper .
+PREDID: 13
+PRED: sift
+   DOBJ: the cornmeal , the flour , the salt , black pepper, red pepper
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the cornmeal 
+         INGREDIENTS: yellow cornmeal
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would pour buttermilk in a separate large bowl .
+PREDID: 72
+PRED: pour
+   DOBJ: buttermilk
+      INGREDIENT SPAN: buttermilk
+         INGREDIENTS: buttermilk
+   PARG: a separate large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large bowl
+
+
+SENTID: 2
+SENT: I would heat the oil in a large , deep skillet over medium-high heat .
+PREDID: 107
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large , deep skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet over medium-high heat
+
+
+SENTID: 3
+SENT: I would dip the chicken in the buttermilk ,
+PREDID: 157
+PRED: dip
+   DOBJ: the chicken in the buttermilk
+      INGREDIENT SPAN: the chicken in the buttermilk
+         INGREDIENTS: skinless boneless chicken breast halves
+
+
+SENTID: 4
+SENT: in cornmeal mixture .
+
+SENTID: 5
+SENT: I would coat lightly and cook in hot oil until crispy and golden brown , about 5 minutes .
+PREDID: 186
+PRED: coat
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 200
+PRED: cook
+   DOBJ: NULL
+   PARG: hot oil until crispy, golden brown , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot oil until crispy
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would drain on paper towels ;
+PREDID: 252
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 7
+SENT: I would keep warm .
+PREDID: 271
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 8
+SENT: I would combine the rice , red bell peppers , green bell peppers , the onion , and chicken in medium bowl .
+PREDID: 280
+PRED: combine
+   DOBJ: the rice , red bell peppers , green bell peppers , the onion , chicken in medium bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  red bell peppers 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: the rice 
+         INGREDIENTS: cooked white rice
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  chicken in medium bowl
+
+
+SENTID: 9
+SENT: I would place lettuce on bottom of 4 servings bowls or plates .
+PREDID: 356
+PRED: place
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: head romaine lettuce rinsed dried shredded
+   PARG: bottom of 4 servings bowls or plates
+     PREP: on
+      NON-INGREDIENT SPAN: bottom of 4 servings bowls or plates
+
+
+SENTID: 10
+SENT: I would top with rice and chicken mixture .
+PREDID: 401
+PRED: top
+   DOBJ: NULL
+   PARG: rice, chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: rice
+      NON-INGREDIENT SPAN:  chicken mixture
+
+
+SENTID: 11
+SENT: I would prepare the dressing by placing the bacon in a large , deep skillet .
+PREDID: 430
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: placing the bacon in a large , deep skillet
+     PREP: by
+      INGREDIENT SPAN: placing the bacon in a large 
+         INGREDIENTS: slices bacon
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 12
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 486
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 13
+SENT: I would drain , crumble and set aside .
+PREDID: 525
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 541
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 14
+SENT: I would sprinkle crumbled bacon over chicken mixture .
+PREDID: 550
+PRED: sprinkle
+   DOBJ: crumbled bacon
+      NON-INGREDIENT SPAN: crumbled bacon
+   PARG: chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: chicken mixture
+
+
+SENTID: 15
+SENT: I would pour off all but 2 tablespoons drippings .
+PREDID: 590
+PRED: pour
+   DOBJ: all but 2 tablespoons drippings
+      NON-INGREDIENT SPAN: all but 2 tablespoons drippings
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 16
+SENT: I would add 2 tablespoons water , cider vinegar , the honey , the mustard , the salt and pepper ;
+PREDID: 625
+PRED: add
+   DOBJ: 2 tablespoons water , cider vinegar , the honey , the mustard , the salt, pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: 2 tablespoons water 
+      NON-INGREDIENT SPAN:  the salt
+
+
+SENTID: 17
+SENT: I would heat just to boiling and pour over salad .
+PREDID: 687
+PRED: heat
+   DOBJ: NULL
+   PARG: boiling
+     PREP: to
+      NON-INGREDIENT SPAN: boiling
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 707
+PRED: pour
+   DOBJ: NULL
+   PARG: salad
+     PREP: over
+      NON-INGREDIENT SPAN: salad
+
+

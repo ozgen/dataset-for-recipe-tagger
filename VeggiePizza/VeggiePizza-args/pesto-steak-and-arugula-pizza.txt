@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would combine pesto and lemon juice in small bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: pesto, lemon juice in small bowl
+      INGREDIENT SPAN:  lemon juice in small bowl
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN: pesto
+         INGREDIENTS: basil pesto
+
+
+SENTID: 1
+SENT: I would evenly brush beef steak with 1 tablespoon pesto mixture .
+PREDID: 43
+PRED: brush
+   DOBJ: beef steak
+      INGREDIENT SPAN: beef steak
+         INGREDIENTS: pound boneless beef top sirloin steak cut inch thick
+   PARG: 1 tablespoon pesto mixture
+     PREP: with
+      NON-INGREDIENT SPAN: 1 tablespoon pesto mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 2
+SENT: I would place steaks on grid over medium , ash-covered coals .
+PREDID: 85
+PRED: place
+   DOBJ: steaks
+      NON-INGREDIENT SPAN: steaks
+   PARG: grid over medium , ash-covered coals
+     PREP: on
+      NON-INGREDIENT SPAN:  ash-covered coals
+      NON-INGREDIENT SPAN: grid over medium 
+
+
+SENTID: 3
+SENT: I would grill , covered , 11 to 15 minutes -LRB- over medium heat on preheated gas grill , 13 to 16 minutes -RRB- for medium rare -LRB- 145 degrees F -RRB- to medium -LRB- 160 degrees F -RRB- doneness , turning occasionally .
+PREDID: 130
+PRED: grill
+   DOBJ: NULL
+   OARG: covered , 11 to 15 minutes -lrb- over medium heat on preheated gas grill , 13 to 16 minutes -rrb- for medium rare -lrb- 145 degrees f -rrb- to medium -lrb- 160 degrees f -rrb- doneness
+      NON-INGREDIENT SPAN: covered 
+      NON-INGREDIENT SPAN:  11 to 15 minutes -lrb- over medium heat on preheated gas grill 
+      NON-INGREDIENT SPAN:  13 to 16 minutes -rrb- for medium rare -lrb- 145 degrees f -rrb- to medium -lrb- 160 degrees f -rrb- doneness
+   OARG: turning occasionally
+      NON-INGREDIENT SPAN: turning occasionally
+
+
+SENTID: 4
+SENT: I would meanwhile , preheat oven to 425 degrees F.
+PREDID: 292
+PRED: preheat
+   DOBJ: oven to 425 degrees F.
+      NON-INGREDIENT SPAN: oven to 425 degrees F.
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would spray 10x15-inch rimmed baking sheet with cooking spray .
+PREDID: 317
+PRED: spray
+   DOBJ: 10x15-inch rimmed baking sheet with cooking spray
+      INGREDIENT SPAN: 10x15-inch rimmed baking sheet with cooking spray
+         INGREDIENTS: Nonstick cooking spray
+
+
+SENTID: 6
+SENT: I would place dough on baking sheet and pat dough to edges of baking sheet .
+PREDID: 366
+PRED: place
+   DOBJ: dough
+      INGREDIENT SPAN: dough
+         INGREDIENTS: dough
+   PARG: baking sheet, pat dough to edges of baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN:  pat dough to edges of baking sheet
+      NON-INGREDIENT SPAN: baking sheet
+
+
+SENTID: 7
+SENT: I would spread dough with remaining 3 tablespoons pesto mixture .
+PREDID: 421
+PRED: spread
+   DOBJ: dough with remaining 3 tablespoons pesto mixture
+      NON-INGREDIENT SPAN: dough with remaining 3 tablespoons pesto mixture
+
+
+SENTID: 8
+SENT: I would top with tomatoes and cheese .
+PREDID: 470
+PRED: top
+   DOBJ: NULL
+   PARG: tomatoes, cheese
+     PREP: with
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: yellow red cherry grape tomatoes halved quartered large
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: reducedfat shredded Italian blend cheese
+
+
+SENTID: 9
+SENT: I would bake in 425 degrees F oven , 15 to 18 minutes or until crust is golden brown .
+PREDID: 495
+PRED: bake
+   DOBJ: NULL
+   PARG: 425 degrees
+     PREP: in
+      NON-INGREDIENT SPAN: 425 degrees
+   PARG: f oven , 15 to 18 minutes or until crust is golden brown
+     PREP: for
+      NON-INGREDIENT SPAN: f oven 
+      NON-INGREDIENT SPAN:  15 to 18 minutes or until crust is golden brown
+
+
+SENTID: 10
+SENT: I would carve steak into slices ;
+PREDID: 556
+PRED: carve
+   DOBJ: steak
+      NON-INGREDIENT SPAN: steak
+   PARG: slices
+     PREP: into
+      NON-INGREDIENT SPAN: slices
+
+
+SENTID: 11
+SENT: I would season with salt , if desired .
+PREDID: 577
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 12
+SENT: I would top pizza evenly with arugula and steak slices ;
+PREDID: 602
+PRED: top
+   DOBJ: pizza
+      INGREDIENT SPAN: pizza
+         INGREDIENTS: ounce package refrigerated whole grain whole wheat regular pizza
+   OARG: evenly with arugula, steak slices
+      INGREDIENT SPAN: evenly with arugula
+         INGREDIENTS: arugula baby spinach leaves
+      NON-INGREDIENT SPAN:  steak slices
+
+
+SENTID: 13
+SENT: I would sprinkle with red pepper , as desired .
+PREDID: 642
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: red pepper
+     PREP: with
+      INGREDIENT SPAN: red pepper
+         INGREDIENTS: crushed red pepper more taste
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+

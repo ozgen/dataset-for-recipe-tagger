@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would cook ground beef , the mushrooms , sweet onion , and jalapeno pepper in a large skillet over medium heat until the beef is browned and crumbly and the mushrooms are softened , about 10 minutes .
+PREDID: 41
+PRED: cook
+   DOBJ: ground beef , the mushrooms , sweet onion , jalapeno pepper
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  jalapeno pepper
+         INGREDIENTS: jalapeno pepper diced
+      INGREDIENT SPAN:  sweet onion 
+         INGREDIENTS: small sweet onion diced
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: fresh mushrooms chopped
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the beef is browned, crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is browned
+      NON-INGREDIENT SPAN:  crumbly
+   OARG: the mushrooms are softened , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the mushrooms are softened 
+
+
+SENTID: 2
+SENT: I would drain excess grease and stir in ketchup , yellow mustard , the salt , and black pepper .
+PREDID: 196
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+PREDID: 216
+PRED: stir
+   DOBJ: NULL
+   PARG: ketchup , yellow mustard , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 3
+SENT: I would remove from heat .
+PREDID: 264
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would roll out pizza dough on a floured work surface and cut dough in half .
+PREDID: 279
+PRED: roll
+   DOBJ: pizza dough on a floured work surface
+      INGREDIENT SPAN: pizza dough on a floured work surface
+         INGREDIENTS: ounce container refrigerated pizza dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 320
+PRED: cut
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+
+SENTID: 5
+SENT: I would spoon half the ground beef onto each dough half ;
+PREDID: 335
+PRED: spoon
+   DOBJ: half the ground beef
+      NON-INGREDIENT SPAN: half the ground beef
+   PARG: each dough half
+     PREP: onto
+      NON-INGREDIENT SPAN: each dough half
+
+
+SENTID: 6
+SENT: I would top each with 6 dill pickle slices and half the American-Cheddar cheese blend .
+PREDID: 375
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: 6 dill pickle slices, half the american-cheddar cheese blend
+     PREP: with
+      INGREDIENT SPAN:  half the american-cheddar cheese blend
+         INGREDIENTS: shredded American Cheddar cheese blend
+      INGREDIENT SPAN: 6 dill pickle slices
+         INGREDIENTS: dill pickle slices
+
+
+SENTID: 7
+SENT: I would fold the dough over to enclose filling and press edges together with a fork to seal the calzones .
+PREDID: 441
+PRED: fold
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: to enclose filling, press edges together with a fork to seal the calzones
+      NON-INGREDIENT SPAN:  press edges together with a fork to seal the calzones
+      NON-INGREDIENT SPAN: to enclose filling
+
+
+SENTID: 8
+SENT: I would place calzones onto a baking sheet , brush tops with olive oil , and sprinkle with sesame seeds .
+
+SENTID: 9
+SENT: I would bake in the preheated oven until calzones are golden brown and the cheese has melted , 15 to 20 minutes .
+PREDID: 597
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until calzones are golden brown, the cheese has melted , 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  the cheese has melted 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+      NON-INGREDIENT SPAN: the preheated oven until calzones are golden brown
+
+

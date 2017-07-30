@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would cut each pork tenderloin into 4 pieces and place into a slow cooker ;
+PREDID: 0
+PRED: cut
+   DOBJ: each pork tenderloin
+      INGREDIENT SPAN: each pork tenderloin
+         INGREDIENTS: pound pork tenderloins
+   PARG: 4 pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 4 pieces
+
+PREDID: 35
+PRED: place
+   DOBJ: NULL
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would set to High .
+PREDID: 56
+PRED: set
+   DOBJ: NULL
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 2
+SENT: I would stir onions , barbecue sauce , crushed tomatoes , diet soda , Worcestershire sauce , the garlic , liquid smoke flavoring , the paprika , red pepper flakes , the cinnamon , and nutmeg in a bowl ;
+PREDID: 66
+PRED: stir
+   DOBJ: onions , barbecue sauce , crushed tomatoes , diet soda , Worcestershire sauce , the garlic , liquid smoke flavoring , the paprika , red pepper flakes , the cinnamon , nutmeg in a bowl
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: reducedsodium Worcestershire sauce
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  liquid smoke flavoring 
+         INGREDIENTS: liquid smoke flavoring
+      INGREDIENT SPAN:  nutmeg in a bowl
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  barbecue sauce 
+         INGREDIENTS: ounce bottle hickory smokeflavored barbecue sauce
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  diet soda 
+         INGREDIENTS: fluid ounce bottle diet peppertype soda such Diet Dr
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: chopped onions
+
+
+SENTID: 3
+SENT: I would pour mixture over pork tenderloin pieces .
+PREDID: 214
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pork tenderloin pieces
+     PREP: over
+      NON-INGREDIENT SPAN: pork tenderloin pieces
+
+
+SENTID: 4
+SENT: I would cover and cook until tenderloin pieces begin to shred at the edges , 3 to 4 hours .
+PREDID: 250
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: tenderloin pieces begin to shred at the edges , 3 to 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN: tenderloin pieces begin to shred at the edges 
+      NON-INGREDIENT SPAN:  3 to 4 hours
+
+
+SENTID: 5
+SENT: I would shred meat using 2 forks ;
+PREDID: 316
+PRED: shred
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   OARG: using 2 forks
+      NON-INGREDIENT SPAN: using 2 forks
+
+
+SENTID: 6
+SENT: I would reduce slow cooker setting to Low and cook 1 more hour .
+PREDID: 337
+PRED: reduce
+   DOBJ: slow cooker setting to Low, cook 1 more hour
+      NON-INGREDIENT SPAN: slow cooker setting to Low
+      NON-INGREDIENT SPAN:  cook 1 more hour
+
+

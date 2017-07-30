@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: In a heavy pot or Dutch oven , cook bacon over medium heat until crispy , stirring occasionally .
+
+SENTID: 1
+SENT: I would drain off excess grease , leaving enough to coat the bottom of the pan .
+PREDID: 0
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: leaving enough to coat the bottom of the pan
+      NON-INGREDIENT SPAN: leaving enough to coat the bottom of the pan
+
+
+SENTID: 2
+SENT: I would add onions and garlic ;
+PREDID: 58
+PRED: add
+   DOBJ: NULL
+   OARG: onions, garlic
+      INGREDIENT SPAN: onions
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 3
+SENT: I would cook and stir until the onions are tender .
+PREDID: 77
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onions are tender
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are tender
+
+
+SENTID: 4
+SENT: I would season with oregano , cayenne pepper , the paprika , chili powder and cumin .
+PREDID: 112
+PRED: season
+   DOBJ: NULL
+   PARG: oregano , cayenne pepper , the paprika , chili powder, cumin
+     PREP: with
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: cumin
+      INGREDIENT SPAN: oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+
+
+SENTID: 5
+SENT: I would cook and stir for about 30 seconds to toast the spices .
+PREDID: 172
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 30 seconds
+     PREP: for
+      NON-INGREDIENT SPAN: about 30 seconds
+   OARG: to toast the spices
+      NON-INGREDIENT SPAN: to toast the spices
+
+
+SENTID: 6
+SENT: I would stir in the beef , the water , the beer , chipotle peppers , and cornmeal ;
+PREDID: 217
+PRED: stir
+   DOBJ: NULL
+   PARG: the beef , the water , the beer , chipotle peppers , cornmeal
+     PREP: in
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: boneless beef chuck rump cut 1/2inch cubes
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce beer
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  chipotle peppers 
+         INGREDIENTS: canned Chipotle peppers adobo sauce seeded minced
+      INGREDIENT SPAN:  cornmeal
+         INGREDIENTS: cornmeal
+
+
+SENTID: 7
+SENT: I would bring to a boil .
+PREDID: 270
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would reduce heat to low and simmer , uncovered , until beef is tender , 2?1/2 to 3 hours .
+PREDID: 283
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: beef is tender , 2?1/2 to 3 hours
+     PREP: until
+      NON-INGREDIENT SPAN: beef is tender 
+      NON-INGREDIENT SPAN:  2?1/2 to 3 hours
+
+

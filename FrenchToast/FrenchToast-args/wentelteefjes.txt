@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a large bowl , I would combine milk , the egg , the cinnamon and sugar .
+PREDID: 13
+PRED: combine
+   DOBJ: milk , the egg , the cinnamon, sugar
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would soak bread in the egg mixture .
+PREDID: 46
+PRED: soak
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices dayold bread
+   PARG: the egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 2
+SENT: I would heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 71
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium high heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium high heat
+
+
+SENTID: 3
+SENT: I would cook until bread slices are golden brown on both sides .
+PREDID: 125
+PRED: cook
+   DOBJ: NULL
+   PARG: bread slices are golden brown on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: bread slices are golden brown on both sides
+
+
+SENTID: 4
+SENT: I would sprinkle with brown sugar and serve hot .
+PREDID: 171
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: brown sugar
+     PREP: with
+      INGREDIENT SPAN: brown sugar
+         INGREDIENTS: white sugar
+
+PREDID: 196
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

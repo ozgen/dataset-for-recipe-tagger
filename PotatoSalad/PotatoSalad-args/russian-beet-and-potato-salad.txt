@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil , and cook beets until tender , about 30 minutes .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 32
+PRED: cook
+   DOBJ: beets
+      INGREDIENT SPAN: beets
+         INGREDIENTS: beets
+   PARG: tender , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 1
+SENT: I would bring a separate pot of water to a boil and cook potatoes and carrots until tender , about 20 minutes .
+PREDID: 68
+PRED: bring
+   DOBJ: a separate pot of water
+      NON-INGREDIENT SPAN: a separate pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 102
+PRED: cook
+   DOBJ: potatoes, carrots
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: small carrots
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: small potatoes
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 2
+SENT: I would drain vegetables , cool , and remove skins .
+PREDID: 151
+PRED: drain
+   DOBJ: vegetables
+      INGREDIENT SPAN: vegetables
+         INGREDIENTS: vegetable oil
+
+PREDID: 175
+PRED: remove
+   DOBJ: skins
+      NON-INGREDIENT SPAN: skins
+
+
+SENTID: 3
+SENT: I would dice and place in a large bowl .
+PREDID: 187
+PRED: dice and place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would place the diced pickles in the bowl with beets , the potatoes , and carrots .
+PREDID: 212
+PRED: place
+   DOBJ: the diced pickles in the bowl
+      INGREDIENT SPAN: the diced pickles in the bowl
+         INGREDIENTS: small dill pickles diced
+   PARG: beets , the potatoes , carrots
+     PREP: with
+      NON-INGREDIENT SPAN: beets 
+      NON-INGREDIENT SPAN:  carrots
+      NON-INGREDIENT SPAN:  the potatoes 
+
+
+SENTID: 5
+SENT: I would drizzle the olive oil and vinegar over the mixture and toss to coat .
+PREDID: 271
+PRED: drizzle
+   DOBJ: the olive oil, vinegar over the mixture
+      INGREDIENT SPAN:  vinegar over the mixture
+         INGREDIENTS: champagne vinegar
+      NON-INGREDIENT SPAN: the olive oil
+
+PREDID: 316
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 6
+SENT: I would season with salt .
+PREDID: 327
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 7
+SENT: I would sprinkle with green onions .
+PREDID: 342
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: green onions
+     PREP: with
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: green onions chopped
+
+
+SENTID: 8
+SENT: I would chill completely before serving .
+PREDID: 366
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+

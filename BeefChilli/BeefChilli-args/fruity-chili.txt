@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would combine the tomato sauce , kidney beans , 2 tablespoons chili powder , 1 tablespoon sugar , and cayenne pepper in a large sauce pan ;
+PREDID: 0
+PRED: combine
+   DOBJ: the tomato sauce , kidney beans , 2 tablespoons chili powder , 1 tablespoon sugar , cayenne pepper in a large sauce pan
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  cayenne pepper in a large sauce pan
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  1 tablespoon sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  2 tablespoons chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 1
+SENT: I would bring to a simmer over low heat .
+PREDID: 108
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer over low heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over low heat
+
+
+SENTID: 2
+SENT: I would place a large skillet over medium-high heat ;
+PREDID: 134
+PRED: place
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 3
+SENT: I would place the ground beef in the skillet ;
+PREDID: 172
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would season with 2 tablespoons chili powder , 1 tablespoon sugar , and the cayenne pepper ;
+PREDID: 203
+PRED: season
+   DOBJ: NULL
+   PARG: 2 tablespoons chili powder , 1 tablespoon sugar , the cayenne pepper
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  1 tablespoon sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the cayenne pepper
+         INGREDIENTS: banana pepper chopped
+
+
+SENTID: 5
+SENT: I would cook until brown ;
+PREDID: 274
+PRED: cook
+   DOBJ: NULL
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 6
+SENT: I would add to the sauce mixture .
+PREDID: 289
+PRED: add
+   DOBJ: NULL
+   PARG: the sauce mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the sauce mixture
+
+
+SENTID: 7
+SENT: I would heat the oil in a small skillet over medium-high heat ;
+PREDID: 310
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: cooking oil
+   PARG: a small skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small skillet over medium-high heat
+
+
+SENTID: 8
+SENT: I would cook the onion in the oil until slightly browned ;
+PREDID: 355
+PRED: cook
+   DOBJ: the onion in the oil
+      INGREDIENT SPAN: the onion in the oil
+         INGREDIENTS: red onion chopped
+   PARG: slightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: slightly browned
+
+
+SENTID: 9
+SENT: I would add to the sauce mixture , along with the apple , the peach , and banana pepper .
+PREDID: 396
+PRED: add
+   DOBJ: NULL
+   PARG: the sauce mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the sauce mixture
+   PARG: with the apple , the peach , banana pepper
+     PREP: along
+      INGREDIENT SPAN:  the peach 
+         INGREDIENTS: peach peeled pitted chopped
+      INGREDIENT SPAN: with the apple 
+         INGREDIENTS: apple peeled cored chopped
+      NON-INGREDIENT SPAN:  banana pepper
+
+
+SENTID: 10
+SENT: I would allow to simmer another 1 to 2 minutes until hot .
+PREDID: 457
+PRED: allow
+   DOBJ: NULL
+   OARG: to simmer another 1 to 2 minutes until hot
+      NON-INGREDIENT SPAN: to simmer another 1 to 2 minutes until hot
+
+

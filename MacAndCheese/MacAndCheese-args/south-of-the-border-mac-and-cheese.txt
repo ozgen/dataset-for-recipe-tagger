@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 42
+PRED: cook
+   DOBJ: the rotini
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: rotini pasta
+   PARG: a boil until tender yet firm to the bite , about 8 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 104
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would combine the rotini pasta , evaporated milk , American cheese , Cheddar cheese , canned green chiles , and chili powder in a slow cooker .
+
+SENTID: 4
+SENT: I would cook on High , stirring twice , for 2 hours .
+PREDID: 222
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   OARG: stirring twice , for 2 hours
+      NON-INGREDIENT SPAN: stirring twice 
+      NON-INGREDIENT SPAN:  for 2 hours
+
+
+SENTID: 5
+SENT: I would stir tomatoes and green onions through the pasta mixture .
+PREDID: 257
+PRED: stir
+   DOBJ: tomatoes, green onions
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: tomatoes seeded chopped
+   PARG: the pasta mixture
+     PREP: through
+      NON-INGREDIENT SPAN: the pasta mixture
+
+
+SENTID: 6
+SENT: I would continue the cooking until the tomatoes are hot , 5 to 10 minutes .
+PREDID: 306
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: the tomatoes are hot , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the tomatoes are hot 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+

@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix beef , the pork , 1 cup spaghetti sauce , and dry soup mix together in a bowl .
+PREDID: 38
+PRED: mix
+   DOBJ: beef , the pork , 1 cup spaghetti sauce , dry soup mix
+      INGREDIENT SPAN:  dry soup mix
+         INGREDIENTS: ounce package dry onion mushroom soup mix such Lipton
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN:  1 cup spaghetti sauce 
+         INGREDIENTS: spaghetti sauce such Ragu divided
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add bread crumbs and eggs ;
+PREDID: 99
+PRED: add
+   DOBJ: bread crumbs, eggs
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: Italian seasoned dry bread crumbs
+
+
+SENTID: 3
+SENT: I would stir to incorporate .
+PREDID: 121
+PRED: stir
+   DOBJ: NULL
+   OARG: to incorporate
+      NON-INGREDIENT SPAN: to incorporate
+
+
+SENTID: 4
+SENT: I would divide meat mixture between two loaf pans .
+PREDID: 139
+PRED: divide
+   DOBJ: meat mixture between two loaf pans
+      NON-INGREDIENT SPAN: meat mixture between two loaf pans
+
+
+SENTID: 5
+SENT: I would stir the remaining 1 cup spaghetti sauce and condensed cream of mushroom soup together in a bowl .
+PREDID: 175
+PRED: stir
+   DOBJ: the remaining 1 cup spaghetti sauce, condensed cream of mushroom soup
+      INGREDIENT SPAN: the remaining 1 cup spaghetti sauce
+         INGREDIENTS: spaghetti sauce such Ragu divided
+      INGREDIENT SPAN:  condensed cream of mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would bake meat loaves in the preheated oven for 30 minutes .
+PREDID: 253
+PRED: bake
+   DOBJ: meat loaves
+      NON-INGREDIENT SPAN: meat loaves
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+
+
+SENTID: 7
+SENT: I would pour cream of mushroom soup mixture over the top of each loaf and return to oven .
+PREDID: 298
+PRED: pour
+   DOBJ: cream of mushroom soup mixture over the top of each loaf
+      NON-INGREDIENT SPAN: cream of mushroom soup mixture over the top of each loaf
+
+PREDID: 351
+PRED: return
+   DOBJ: NULL
+   PARG: oven
+     PREP: to
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 8
+SENT: I would continue baking loaves until no longer pink in the center , about 30 minutes more .
+PREDID: 364
+PRED: continue
+   DOBJ: baking loaves
+      NON-INGREDIENT SPAN: baking loaves
+   PARG: no longer pink in the center , about 30 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes more
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 9
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

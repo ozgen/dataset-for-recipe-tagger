@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: I would prepare the dressing 30 minutes ahead of time by combining the brown sugar , soy sauce , sesame oil , salad oil , and rice vinegar in a salad dressing carafe .
+PREDID: 0
+PRED: prepare
+   DOBJ: NULL
+   PARG: the dressing 30 minutes ahead of time
+     PREP: for
+      NON-INGREDIENT SPAN: the dressing 30 minutes ahead of time
+   PARG: combining the brown sugar , soy sauce , sesame oil , salad oil , rice vinegar in a salad dressing carafe
+     PREP: by
+      INGREDIENT SPAN:  sesame 
+         INGREDIENTS: sesame seeds toasted
+      INGREDIENT SPAN:  rice vinegar in a salad dressing carafe
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: combining the brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  salad oil 
+         INGREDIENTS: sesame oil
+
+
+SENTID: 1
+SENT: To prepare the Chinese rice noodles , heat a skillet with a few tablespoons of oil and break off a little bit of the noodles and add them to the skillet and fry them .
+PREDID: 130
+PRED: prepare
+   DOBJ: the Chinese rice noodles
+      INGREDIENT SPAN: the Chinese rice noodles
+         INGREDIENTS: ounce package dried rice noodles
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 159
+PRED: heat
+   DOBJ: a skillet
+      NON-INGREDIENT SPAN: a skillet
+   PARG: a few tablespoons of oil
+     PREP: with
+      NON-INGREDIENT SPAN: a few tablespoons of oil
+
+PREDID: 198
+PRED: break
+   DOBJ: a little bit of the noodles
+      NON-INGREDIENT SPAN: a little bit of the noodles
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 231
+PRED: add
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 253
+PRED: fry
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+
+
+SENTID: 2
+SENT: They will puff up in the skillet , so only add a few at a time .
+
+SENTID: 3
+SENT: As they begin to puff up , I would remove and drain them on paper towels .
+PREDID: 281
+PRED: remove and drain
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: they begin
+     PREP: as
+      NON-INGREDIENT SPAN: they begin
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 4
+SENT: Be sure to cook long enough as the under cooked noodles will be like eating needles .
+
+SENTID: 5
+SENT: Once cooked , I would add them to the salad mixture .
+PREDID: 324
+PRED: add
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: cooked
+     PREP: once
+      INGREDIENT SPAN: cooked
+         INGREDIENTS: boneless chicken breast halves cooked shredded
+   PARG: the salad mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the salad mixture
+
+
+SENTID: 6
+SENT: In a large bowl combine the iceberg lettuce , I would cooked and shredded chicken , green onions and toasted sesame seeds .
+PREDID: 386
+PRED: combine cooked and shredded
+   DOBJ: chicken , green onions, toasted sesame seeds, the iceberg lettuce
+      INGREDIENT SPAN:  the iceberg lettuce
+         INGREDIENTS: head iceberg lettuce rinsed dried chopped
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions chopped
+      NON-INGREDIENT SPAN: chicken 
+      NON-INGREDIENT SPAN:  toasted sesame seeds
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would let chill about 10 minutes , and just before serving add the cooked rice noodles .
+PREDID: 444
+PRED: let
+   DOBJ: NULL
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+   OARG: chill
+      NON-INGREDIENT SPAN: chill
+   OARG: just before serving
+      NON-INGREDIENT SPAN: just before serving
+
+PREDID: 487
+PRED: add
+   DOBJ: the cooked rice noodles
+      NON-INGREDIENT SPAN: the cooked rice noodles
+
+
+SENTID: 8
+SENT: I would serve in salad bowls and offer the dressing in a pourable container so your family can add as much dressing as they want .
+PREDID: 511
+PRED: serve
+   DOBJ: NULL
+   PARG: salad bowls
+     PREP: in
+      NON-INGREDIENT SPAN: salad bowls
+
+PREDID: 531
+PRED: offer
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: a pourable container
+     PREP: in
+      NON-INGREDIENT SPAN: a pourable container
+   PARG: your family can add as much dressing
+     PREP: so
+      NON-INGREDIENT SPAN: your family can add as much dressing
+
+
+SENTID: 9
+SENT: You can also pour the dressing over the top of the salad , toss , and serve immediately .
+

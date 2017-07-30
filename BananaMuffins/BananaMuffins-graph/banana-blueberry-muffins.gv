@@ -1,0 +1,53 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="fold
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: vanilla extract, mashed bananas, egg whites
+(text: the bananas , egg whites , vanilla extract)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+D2[label="DOBJ: baking powder, brown sugar, ground cinnamon, whole wheat flour, baking soda
+(text: the whole wheat flour , brown sugar , the cinnamon , baking powder , baking soda)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: a 12 cup muffin pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E3 -> E4 [label="the banana mixture"]
+E2 -> E4 [label="LOCATION:into the flour mixture"]
+P4_1_0[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: in fresh blueberries
+(text: in the blueberries)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+D6_0[label="DOBJ: the batter", shape=box, style=filled, fillcolor=white]
+D6_0 -> E6
+E1 -> E6 [label="LOCATION:into the prepared muffin pan"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="DURATION:for 16 minutes", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E0 -> E7 [label="LOCATION:in the preheated oven "]
+P7_1_1[label="LOCATION:in  or until a toothpick inserted in the center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+P7_1_1 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

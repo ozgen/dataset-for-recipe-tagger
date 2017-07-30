@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would cook ground beef in a skillet over medium-high heat ;
+PREDID: 0
+PRED: cook
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 44
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would put beef in slow cooker with remaining ingredients .
+PREDID: 50
+PRED: put
+   DOBJ: beef in slow cooker
+      NON-INGREDIENT SPAN: beef in slow cooker
+   PARG: remaining ingredients
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ingredients
+
+
+SENTID: 3
+SENT: I would stir .
+PREDID: 94
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cook covered on low 8 to 10 hours .
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 103
+PRED: covered
+   DOBJ: NULL
+   PARG: low 8 to 10 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low 8 to 10 hours
+
+
+SENTID: 5
+SENT: I would garnish with cheese , sour cream , and/or cilantro .
+PREDID: 126
+PRED: garnish
+   DOBJ: NULL
+   PARG: cheese , sour cream
+     PREP: with
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: Sour cream
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: Shredded Cheddar cheese
+
+

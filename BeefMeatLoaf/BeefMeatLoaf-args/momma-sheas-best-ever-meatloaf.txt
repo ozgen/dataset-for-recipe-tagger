@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place the onion , the carrots , and water into a blender .
+PREDID: 40
+PRED: place
+   DOBJ: the onion , the carrots , water
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onions quartered
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots cut half
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water needed
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 2
+SENT: I would cover , and puree until smooth , adding more water if needed .
+PREDID: 83
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 92
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: adding more water if needed
+      NON-INGREDIENT SPAN: adding more water if needed
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine the ground chuck , the pork , matzo meal , and eggs .
+PREDID: 146
+PRED: combine
+   DOBJ: the ground chuck , the pork , matzo meal , eggs
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN: the ground chuck 
+         INGREDIENTS: ground chuck
+      INGREDIENT SPAN:  matzo meal 
+         INGREDIENTS: matzo meal
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: Stir in the onion and carrot puree a little at a time until the meat mixture holds its shape -LRB- you may not need all the puree -RRB- .
+
+SENTID: 5
+SENT: I would season with garlic , the salt , and black pepper .
+PREDID: 191
+PRED: season
+   DOBJ: NULL
+   PARG: garlic , the salt , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: garlic 
+
+
+SENTID: 6
+SENT: I would shape the meat mixture into a loaf and transfer to a baking dish .
+PREDID: 228
+PRED: shape
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 259
+PRED: transfer
+   DOBJ: NULL
+   PARG: a baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 7
+SENT: I would pour the browning sauce and any remaining onion puree on top of the loaf .
+PREDID: 281
+PRED: pour
+   DOBJ: the browning sauce, any remaining onion puree on top of the loaf
+      INGREDIENT SPAN: the browning sauce
+         INGREDIENTS: fluid ounce bottle browning sauce such GravyMaster
+      NON-INGREDIENT SPAN:  any remaining onion puree on top of the loaf
+
+
+SENTID: 8
+SENT: I would fill baking dish with about 2-inches of water ,
+PREDID: 341
+PRED: fill
+   DOBJ: baking dish
+      NON-INGREDIENT SPAN: baking dish
+   PARG: about 2-inches of water
+     PREP: with
+      NON-INGREDIENT SPAN: about 2-inches of water
+
+
+SENTID: 9
+SENT: I would cover with aluminum foil .
+PREDID: 380
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until loaf is no longer pink in the center , about 1 hour and 20 minutes .
+PREDID: 402
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: loaf is no longer pink in the center , about 1 hour, 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: loaf is no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  20 minutes
+
+
+SENTID: 11
+SENT: I would remove the foil and pour ketchup in a zig-zag shape over the loaf during the last 15 minutes of baking .
+PREDID: 482
+PRED: remove
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+
+PREDID: 498
+PRED: pour
+   DOBJ: ketchup
+      INGREDIENT SPAN: ketchup
+         INGREDIENTS: ketchup
+   PARG: a zig-zag shape over the loaf
+     PREP: in
+      NON-INGREDIENT SPAN: a zig-zag shape over the loaf
+   PARG: the last 15 minutes of baking
+     PREP: during
+      NON-INGREDIENT SPAN: the last 15 minutes of baking
+
+
+SENTID: 12
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 13
+SENT: I would allow the meat loaf to rest for 15 minutes before slicing and serving .
+PREDID: 566
+PRED: allow
+   DOBJ: the meat loaf
+      NON-INGREDIENT SPAN: the meat loaf
+   OARG: to rest for 15 minutes before slicing, serving
+      NON-INGREDIENT SPAN: to rest for 15 minutes before slicing
+      NON-INGREDIENT SPAN:  serving
+
+

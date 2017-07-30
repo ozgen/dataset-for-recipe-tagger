@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: I would place chicken breast halves in a large resealable plastic bag with lemon juice , olive oil , and lemon pepper .
+PREDID: 0
+PRED: place
+   DOBJ: chicken breast halves
+      INGREDIENT SPAN: chicken breast halves
+         INGREDIENTS: boneless skinless chicken breast halves
+   PARG: a large resealable plastic bag with lemon juice , olive oil , lemon pepper
+     PREP: in
+      INGREDIENT SPAN:  lemon pepper
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: a large resealable plastic bag with lemon juice 
+         INGREDIENTS: lemon juice
+
+
+SENTID: 1
+SENT: I would shake to coat , and marinate in the refrigerator for at least 1 hour .
+PREDID: 91
+PRED: shake
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+PREDID: 106
+PRED: marinate
+   DOBJ: NULL
+   PARG: the refrigerator for at least 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for at least 1 hour
+
+
+SENTID: 2
+SENT: I would preheat a grill for high heat .
+PREDID: 147
+PRED: preheat
+   DOBJ: a grill for high heat
+      NON-INGREDIENT SPAN: a grill for high heat
+
+
+SENTID: 3
+SENT: I would lightly oil the grill grate .
+PREDID: 172
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 4
+SENT: I would place the Vidalia onions and mushrooms on the grill , and cook until lightly charred on both sides ;
+PREDID: 196
+PRED: place
+   DOBJ: the Vidalia onions, mushrooms
+      INGREDIENT SPAN: the Vidalia onions
+         INGREDIENTS: Vidalia onions sliced
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: large mushroom caps chopped
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+
+PREDID: 243
+PRED: cook
+   DOBJ: NULL
+   PARG: lightly charred on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: lightly charred on both sides
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 278
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would place chicken onto the grill , and discard marinade .
+PREDID: 287
+PRED: place
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: the grill
+     PREP: onto
+      NON-INGREDIENT SPAN: the grill
+
+PREDID: 315
+PRED: discard
+   DOBJ: marinade
+      NON-INGREDIENT SPAN: marinade
+
+
+SENTID: 7
+SENT: I would cook for 15 minutes , turning once , or until juices run clear .
+PREDID: 331
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes , turning once
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes 
+      NON-INGREDIENT SPAN:  turning once
+
+
+SENTID: 8
+SENT: I would remove from heat , cool , and chop .
+PREDID: 382
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 9
+SENT: In a large bowl , I would thoroughly mix the onions , the mushrooms , the chicken , and mayonnaise .
+PREDID: 433
+PRED: mix
+   DOBJ: the onions , the mushrooms , the chicken , mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN: the onions 
+      NON-INGREDIENT SPAN:  the chicken 
+      NON-INGREDIENT SPAN:  the mushrooms 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 10
+SENT: I would season with hot sauce , the salt , and pepper .
+PREDID: 478
+PRED: season
+   DOBJ: NULL
+   PARG: hot sauce , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: lemon pepper
+      INGREDIENT SPAN: hot sauce 
+         INGREDIENTS: hot sauce taste
+      NON-INGREDIENT SPAN:  the salt 
+
+
+SENTID: 11
+SENT: I would cover , and refrigerate until serving .
+PREDID: 512
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 521
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

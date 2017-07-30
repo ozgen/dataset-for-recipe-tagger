@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large pot over medium high heat , I would saute the ground beef for 5 to 10 minutes , or until browned .
+PREDID: 30
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium high heat
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+
+
+SENTID: 1
+SENT: I would drain the grease , and add the taco seasoning , tomato sauce , diced tomatoes , the corn and kidney beans .
+PREDID: 79
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+
+PREDID: 97
+PRED: add
+   DOBJ: the taco seasoning , tomato sauce , diced tomatoes , the corn, kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes juice
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN: the taco seasoning 
+
+
+SENTID: 2
+SENT: Mix well , reduce heat to low and let simmer for 1 to 2 hours to allow the flavors to mesh .
+PREDID: 170
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: mix well
+      INGREDIENT SPAN: mix well
+         INGREDIENTS: ounce package dry onion soup mix
+
+PREDID: 188
+PRED: let
+   DOBJ: NULL
+   PARG: simmer for 1 to 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: simmer for 1 to 2 hours
+   OARG: to allow the flavors to mesh
+      NON-INGREDIENT SPAN: to allow the flavors to mesh
+
+

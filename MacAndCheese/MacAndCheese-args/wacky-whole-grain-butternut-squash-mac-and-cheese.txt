@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine elbow macaroni and water in the bottom of a 9x11-inch baking dish .
+PREDID: 38
+PRED: combine
+   DOBJ: elbow macaroni, water in the bottom of a 9x11-inch baking dish
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package whole grain elbow macaroni
+      INGREDIENT SPAN:  water in the bottom of a 9x11-inch baking dish
+         INGREDIENTS: water
+
+
+SENTID: 2
+SENT: I would melt butter in a large saucepan over medium heat .
+PREDID: 100
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 3
+SENT: I would whisk flour into melted butter until smooth .
+PREDID: 141
+PRED: whisk
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: melted butter
+     PREP: into
+      NON-INGREDIENT SPAN: melted butter
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would gradually whisk milk into flour mixture ;
+PREDID: 188
+PRED: whisk
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: skim milk
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 5
+SENT: I would bring to a boil and cook , stirring constantly , until smooth and thick , about 2 minutes .
+PREDID: 214
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil, cook
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+      NON-INGREDIENT SPAN:  cook
+   OARG: stirring constantly , until smooth, thick , about 2 minutes
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN:  until smooth
+      NON-INGREDIENT SPAN:  thick 
+
+
+SENTID: 6
+SENT: I would stir Cheddar cheese , American cheese , and Parmesan cheese into milk mixture until cheeses are melted and mixture is smooth .
+PREDID: 287
+PRED: stir
+   DOBJ: Cheddar cheese , American cheese , Parmesan cheese
+      INGREDIENT SPAN: Cheddar cheese 
+         INGREDIENTS: shredded extrasharp Cheddar cheese
+      INGREDIENT SPAN:  American cheese 
+         INGREDIENTS: slices American cheese
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: milk mixture
+     PREP: into
+      NON-INGREDIENT SPAN: milk mixture
+   PARG: cheeses are melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheeses are melted
+   OARG: mixture is smooth
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 7
+SENT: I would gradually stir butternut squash soup into cheese mixture .
+PREDID: 401
+PRED: stir
+   DOBJ: butternut squash soup
+      INGREDIENT SPAN: butternut squash soup
+         INGREDIENTS: butternut squash soup
+   PARG: cheese mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cheese mixture
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 8
+SENT: I would season with salt and pepper to taste .
+PREDID: 442
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 9
+SENT: I would pour cheese mixture over elbow macaroni and stir to combine .
+PREDID: 473
+PRED: pour
+   DOBJ: cheese mixture
+      NON-INGREDIENT SPAN: cheese mixture
+   PARG: elbow macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: elbow macaroni
+
+PREDID: 510
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until top begins to brown , about 50 minutes .
+PREDID: 524
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: top begins to brown , about 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 50 minutes
+      NON-INGREDIENT SPAN: top begins to brown 
+
+
+SENTID: 11
+SENT: I would let cool for 10 minutes before serving .
+PREDID: 583
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool for 10 minutes
+      NON-INGREDIENT SPAN: cool for 10 minutes
+
+

@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix onion , bell pepper , bread crumbs , hot pepper sauce , the egg , the salt , and pepper together in a large bowl .
+PREDID: 38
+PRED: mix
+   DOBJ: onion , bell pepper , bread crumbs , hot pepper sauce , the egg , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italianstyle bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add ground beef ;
+PREDID: 124
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would mix .
+PREDID: 138
+PRED: mix
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would press beef mixture into a loaf pan .
+PREDID: 142
+PRED: press
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 5
+SENT: I would sprinkle brown gravy mix over meat .
+PREDID: 171
+PRED: sprinkle
+   DOBJ: brown gravy mix
+      INGREDIENT SPAN: brown gravy mix
+         INGREDIENTS: ounce packet dry brown gravy mix
+   PARG: meat
+     PREP: over
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 6
+SENT: I would bake in preheated oven until cooked through and browned , 1 hour .
+PREDID: 201
+PRED: bake
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cooked through, browned
+     PREP: until
+      NON-INGREDIENT SPAN:  browned
+      NON-INGREDIENT SPAN: cooked through
+
+
+SENTID: 7
+SENT: I would remove from oven and let rest for 10 minutes before serving .
+PREDID: 255
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 272
+PRED: let
+   DOBJ: NULL
+   PARG: rest for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: rest for 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

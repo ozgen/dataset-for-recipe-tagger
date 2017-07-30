@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would combine the shredded cabbage and cubed chicken in a large mixing bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: the shredded cabbage, cubed chicken in a large mixing bowl
+      INGREDIENT SPAN: the shredded cabbage
+         INGREDIENTS: head cabbage shredded
+      INGREDIENT SPAN:  cubed chicken in a large mixing bowl
+         INGREDIENTS: cooked skinless boneless chicken breast halves cubed
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 59
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would whisk together the vinegar , ramen noodle seasoning , and sugar in a mixing bowl until the sugar has dissolved .
+PREDID: 68
+PRED: whisk
+   DOBJ: the vinegar , ramen noodle seasoning , sugar in a mixing bowl
+      INGREDIENT SPAN:  ramen noodle seasoning 
+         INGREDIENTS: chickenflavored ramen noodle seasoning packets
+      INGREDIENT SPAN:  sugar in a mixing bowl
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the vinegar 
+         INGREDIENTS: balsamic vinegar
+   PARG: the sugar has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: the sugar has dissolved
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would slowly pour the olive oil into the vinegar mixture , whisking quickly to incorporate the oil into the dressing .
+PREDID: 166
+PRED: pour
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: the vinegar mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the vinegar mixture
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+   OARG: whisking quickly to incorporate the oil into the dressing
+      NON-INGREDIENT SPAN: whisking quickly to incorporate the oil into the dressing
+
+
+SENTID: 4
+SENT: I would stir in the green onions ,
+PREDID: 253
+PRED: stir
+   DOBJ: NULL
+   PARG: the green onions
+     PREP: in
+      INGREDIENT SPAN: the green onions
+         INGREDIENTS: green onions chopped
+
+
+SENTID: 5
+SENT: I would pour the dressing over the cabbage mixture .
+PREDID: 274
+PRED: pour
+   DOBJ: the dressing over the cabbage mixture
+      NON-INGREDIENT SPAN: the dressing over the cabbage mixture
+
+
+SENTID: 6
+SENT: I would toss the salad until evenly coated with the dressing .
+PREDID: 311
+PRED: toss
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: evenly coated with the dressing
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated with the dressing
+
+
+SENTID: 7
+SENT: I would sprinkle with almond slices and sesame seeds to serve .
+PREDID: 356
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: almond slices, sesame seeds
+     PREP: with
+      INGREDIENT SPAN: almond slices
+         INGREDIENTS: toasted sliced almonds taste
+      INGREDIENT SPAN:  sesame seeds
+         INGREDIENTS: toasted sesame seeds taste
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

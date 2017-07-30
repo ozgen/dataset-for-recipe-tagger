@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: In a large bowl , I would cream together shortening and sugar .
+PREDID: 97
+PRED: cream
+   DOBJ: shortening, sugar
+      INGREDIENT SPAN: shortening
+         INGREDIENTS: shortening
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat in egg .
+PREDID: 129
+PRED: beat
+   DOBJ: NULL
+   PARG: egg
+     PREP: in
+      INGREDIENT SPAN: egg
+         INGREDIENTS: egg
+
+
+SENTID: 4
+SENT: I would blend until banana is completely mixed in ,
+PREDID: 139
+PRED: blend
+   DOBJ: NULL
+   PARG: banana is completely mixed in
+     PREP: until
+      INGREDIENT SPAN: banana is completely mixed in
+         INGREDIENTS: banana diced
+
+
+SENTID: 5
+SENT: I would add flour , baking powder and baking soda .
+PREDID: 175
+PRED: add
+   DOBJ: flour , baking powder, baking soda
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+
+
+SENTID: 6
+SENT: I would mix batter with spoon .
+PREDID: 210
+PRED: mix
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: spoon
+     PREP: with
+      NON-INGREDIENT SPAN: spoon
+
+
+SENTID: 7
+SENT: I would stir in soy milk ,
+PREDID: 229
+PRED: stir
+   DOBJ: NULL
+   PARG: soy milk
+     PREP: in
+      INGREDIENT SPAN: soy milk
+         INGREDIENTS: soy milk
+
+
+SENTID: 8
+SENT: I would spoon into muffin pan .
+PREDID: 243
+PRED: spoon
+   DOBJ: NULL
+   PARG: muffin pan
+     PREP: into
+      NON-INGREDIENT SPAN: muffin pan
+
+
+SENTID: 9
+SENT: I would spoon batter into prepared muffin cups .
+PREDID: 262
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 15 to 20 minutes , until a toothpick inserted into center of muffin comes out clean .
+PREDID: 296
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+   PARG: a toothpick inserted into center of muffin comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into center of muffin comes out clean
+
+

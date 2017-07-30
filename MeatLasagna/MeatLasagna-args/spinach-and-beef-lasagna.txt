@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat a large pot over medium heat .
+PREDID: 38
+PRED: heat
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir ground beef in the hot pot with garlic , the oregano , and basil until beef is completely browned , 5 to 10 minutes .
+PREDID: 66
+PRED: cook and stir
+   DOBJ: ground beef in the hot pot
+      INGREDIENT SPAN: ground beef in the hot pot
+         INGREDIENTS: lean ground beef
+   PARG: garlic , the oregano
+     PREP: with
+      INGREDIENT SPAN:  the oregano
+         INGREDIENTS: dried oregano
+      NON-INGREDIENT SPAN: garlic 
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+
+PREDID: 123
+PRED: basil
+   DOBJ: NULL
+   PARG: beef is completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: beef is completely browned
+
+
+SENTID: 3
+SENT: I would stir spaghetti sauce and spinach into ground beef mixture ;
+PREDID: 167
+PRED: stir
+   DOBJ: spaghetti sauce, spinach
+      INGREDIENT SPAN: spaghetti sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained
+   PARG: ground beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef mixture
+
+
+SENTID: 4
+SENT: I would simmer until heated through , about 5 minutes .
+PREDID: 217
+PRED: simmer
+   DOBJ: NULL
+   PARG: heated through , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: heated through 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would stir ricotta cheese , 8 ounces mozzarella cheese , the parsley , Parmesan cheese , the salt , and black pepper together in a bowl .
+PREDID: 256
+PRED: stir
+   DOBJ: ricotta cheese , 8 ounces mozzarella cheese , the parsley , Parmesan cheese , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  8 ounces mozzarella cheese 
+         INGREDIENTS: shredded partskim mozzarella cheese taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: ricotta cheese 
+         INGREDIENTS: fatfree ricotta cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would spread a small amount of sauce in the bottom of a 9x13-inch pan .
+PREDID: 356
+PRED: spread
+   DOBJ: a small amount of sauce
+      NON-INGREDIENT SPAN: a small amount of sauce
+   PARG: the bottom of a 9x13-inch pan
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch pan
+
+
+SENTID: 7
+SENT: I would arrange lasagna noodles in a single layer over the sauce .
+PREDID: 408
+PRED: arrange
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles more needed
+   PARG: a single layer over the sauce
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer over the sauce
+
+
+SENTID: 8
+SENT: I would spread another layer of sauce over the top and arrange another layer of lasagna noodles over sauce .
+PREDID: 456
+PRED: spread
+   DOBJ: another layer of sauce
+      NON-INGREDIENT SPAN: another layer of sauce
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+PREDID: 494
+PRED: arrange
+   DOBJ: another layer of lasagna noodles
+      NON-INGREDIENT SPAN: another layer of lasagna noodles
+   PARG: sauce
+     PREP: over
+      NON-INGREDIENT SPAN: sauce
+
+
+SENTID: 9
+SENT: I would spread 1/2 the remaining sauce and 1/2 the cheese mixture over the top .
+PREDID: 539
+PRED: spread
+   DOBJ: 1/2 the remaining sauce, 1/2 the cheese mixture
+      INGREDIENT SPAN:  1/2 the cheese mixture
+         INGREDIENTS: shredded partskim mozzarella cheese taste
+      NON-INGREDIENT SPAN: 1/2 the remaining sauce
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 10
+SENT: I would repeat layers , finishing with sauce .
+PREDID: 598
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: finishing with sauce
+      NON-INGREDIENT SPAN: finishing with sauce
+
+
+SENTID: 11
+SENT: I would cover the pan with aluminum foil .
+PREDID: 630
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven for 55 minutes , remove aluminum foil , sprinkle lasagna with 1/2 cup mozzarella cheese , and bake until noodles are cooked through and sauce is bubbling , about 15 minutes .
+PREDID: 655
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 55 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 55 minutes
+   OARG: sauce is bubbling , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: sauce is bubbling 
+
+PREDID: 690
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 709
+PRED: sprinkle
+   DOBJ: lasagna
+      NON-INGREDIENT SPAN: lasagna
+   PARG: 1/2 cup mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1/2 cup mozzarella cheese
+         INGREDIENTS: shredded partskim mozzarella cheese taste
+
+PREDID: 754
+PRED: bake
+   DOBJ: NULL
+   PARG: noodles are cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: noodles are cooked through
+
+
+SENTID: 13
+SENT: I would cool for 10 minutes before serving .
+PREDID: 820
+PRED: cool
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

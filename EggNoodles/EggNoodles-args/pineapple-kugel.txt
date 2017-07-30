@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would boil noodles in boiling salted water just until softened ;
+PREDID: 0
+PRED: boil
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: boiling salted water just until softened
+     PREP: in
+      NON-INGREDIENT SPAN: boiling salted water just until softened
+
+
+SENTID: 1
+SENT: do not cook through .
+
+SENTID: 2
+SENT: I would rinse , and drain .
+PREDID: 49
+PRED: rinse
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would beat the eggs with the melted butter .
+PREDID: 64
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: the melted butter
+     PREP: with
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: unsalted butter melted
+
+
+SENTID: 4
+SENT: I would mix in sugar , crushed pineapple with juice , the vanilla , and cinnamon .
+PREDID: 95
+PRED: mix
+   DOBJ: NULL
+   PARG: sugar , crushed pineapple with juice , the vanilla , cinnamon
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  crushed pineapple with juice 
+         INGREDIENTS: ounce crushed pineapple juice
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 5
+SENT: I would stir in the noodles .
+PREDID: 152
+PRED: stir
+   DOBJ: NULL
+   PARG: the noodles
+     PREP: in
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 6
+SENT: I would spread into a greased 9 x 13 inch baking pan .
+PREDID: 169
+PRED: spread
+   DOBJ: NULL
+   PARG: a greased 9 x 13 inch baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 9 x 13 inch baking pan
+
+
+SENTID: 7
+SENT: I would place pineapple rings decoratively over the top .
+PREDID: 205
+PRED: place
+   DOBJ: pineapple rings
+      INGREDIENT SPAN: pineapple rings
+         INGREDIENTS: ounce sliced pineapple drained
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   OARG: decoratively
+      NON-INGREDIENT SPAN: decoratively
+
+
+SENTID: 8
+SENT: I would place a cherry in the center of each ring if desired
+PREDID: 247
+PRED: place
+   DOBJ: a cherry
+      NON-INGREDIENT SPAN: a cherry
+   PARG: the center of each ring
+     PREP: in
+      NON-INGREDIENT SPAN: the center of each ring
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 9
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 minutes , or until golden .
+PREDID: 289
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 minutes
+
+

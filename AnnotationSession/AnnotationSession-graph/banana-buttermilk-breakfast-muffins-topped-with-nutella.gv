@@ -1,0 +1,55 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="spray (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="let (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="transfer (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="spread (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 180 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, quick-cooking rolled oats, all-purpose flour, baking soda
+(text: flours , oats , baking powder and baking soda)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT: non-stick muffin pan"]
+P1_0_0[label="PREP: with cooking spray", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+D3_ing[label="DOBJ: eggs, vanilla or maple extract, buttermilk, unsweetened applesauce, over-ripe bananas, granulated sugar
+(text: bananas ,  eggs ,  applesauce ,  sugar ,  buttermilk, vanilla)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT: in another bowl"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: over dry ingredients", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+E1 -> E6 [label="OUTPUT: 
+INPUT: into prepared muffin pan"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_0[label="PREP: for 20 to 25 minutes or until a tester inserted into the center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: for 10 minutes", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+E9 -> E10 [label="OUTPUT: 
+INPUT: each muffin"]
+P10_0_0[label="PREP: with 1 tablespoon -lrb- 15 ml -rrb- of nutella ", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: I would mix cabbage , the pineapple , green onions , and bell pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: cabbage , the pineapple , green onions , bell pepper
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: fresh pineapple peeled cored cut small
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: bell pepper chopped
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: medium head green cabbage chopped
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk vinegar , the mayonnaise , the sugar , the salt , and pepper together in a separate bowl ;
+PREDID: 67
+PRED: whisk
+   DOBJ: vinegar , the mayonnaise , the sugar , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: white vinegar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle over cabbage mixture and toss to coat .
+PREDID: 135
+PRED: drizzle
+   DOBJ: NULL
+   PARG: cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: cabbage mixture
+
+PREDID: 163
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover bowl with plastic wrap and refrigerate at least 2 hours before serving .
+PREDID: 174
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 201
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

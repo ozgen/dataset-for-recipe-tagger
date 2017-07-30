@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would bring a large pot of salted water to a boil , and cook potatoes 10 to 15 minutes , until tender but firm .
+PREDID: 33
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil , cook potatoes 10 to 15 minutes
+     PREP: to
+      INGREDIENT SPAN:  cook potatoes 10 to 15 minutes
+         INGREDIENTS: Yukon Gold potatoes cubed
+      NON-INGREDIENT SPAN: a boil 
+   PARG: tender but firm
+     PREP: until
+      NON-INGREDIENT SPAN: tender but firm
+
+
+SENTID: 2
+SENT: I would drain , and transfer to a medium bowl .
+PREDID: 116
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 125
+PRED: transfer
+   DOBJ: NULL
+   PARG: a medium bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 3
+SENT: In a small bowl , I would mix canola oil , the vinegar , Dijon mustard , celery salt , and pepper .
+PREDID: 160
+PRED: mix
+   DOBJ: canola oil , the vinegar , Dijon mustard , celery salt , pepper
+      INGREDIENT SPAN:  celery salt 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN: canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 4
+SENT: I would toss 1/2 the mixture with the potatoes .
+PREDID: 215
+PRED: toss
+   DOBJ: 1/2 the mixture
+      NON-INGREDIENT SPAN: 1/2 the mixture
+   PARG: the potatoes
+     PREP: with
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: Yukon Gold potatoes cubed
+
+
+SENTID: 5
+SENT: I would arrange potatoes in a single layer on a sheet of foil , and place on the prepared grill .
+PREDID: 248
+PRED: arrange
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes cubed
+   PARG: a single layer on a sheet of foil
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer on a sheet of foil
+
+PREDID: 295
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared grill
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared grill
+
+
+SENTID: 6
+SENT: Turning occasionally , I would cook 7 to 9 minutes , until lightly browned .
+PREDID: 339
+PRED: cook
+   DOBJ: NULL
+   PARG: 7 to 9 minutes , until lightly browned
+     PREP: for
+      NON-INGREDIENT SPAN: 7 to 9 minutes 
+      NON-INGREDIENT SPAN:  until lightly browned
+   OARG: turning occasionally
+      NON-INGREDIENT SPAN: turning occasionally
+
+
+SENTID: 7
+SENT: I would remove from heat , and cool .
+PREDID: 375
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 8
+SENT: I would toss with remaining oil mixture to serve .
+PREDID: 398
+PRED: toss
+   DOBJ: NULL
+   PARG: remaining oil mixture
+     PREP: with
+      NON-INGREDIENT SPAN: remaining oil mixture
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

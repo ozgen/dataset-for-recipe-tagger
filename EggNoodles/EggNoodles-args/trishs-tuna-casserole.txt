@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 40
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 78
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would stir in the egg noodles and return to a boil .
+PREDID: 132
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce packages egg noodles
+      INGREDIENT SPAN: the 
+         INGREDIENTS: undrained
+
+PREDID: 154
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 168
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain well in a colander set in the sink .
+PREDID: 279
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: While the pasta is cooking , I would stir the tuna , condensed soup , peas with mushrooms and onions , the onion , the milk , the salt , and pepper in a bowl until evenly mixed .
+PREDID: 335
+PRED: stir
+   DOBJ: the tuna , condensed soup , peas with mushrooms, onions , the onion , the milk , the salt , pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN: the tuna 
+         INGREDIENTS: ounce tuna undrained
+      INGREDIENT SPAN:  onions 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  condensed soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  peas with mushrooms
+         INGREDIENTS: ounce peas mushrooms pearl onions such Le Sueur
+      NON-INGREDIENT SPAN:  the onion 
+      NON-INGREDIENT SPAN:  pepper in a bowl
+   PARG: the pasta is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the pasta is cooking
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 6
+SENT: I would gently stir in the cooked pasta ,
+PREDID: 443
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked pasta
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked pasta
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would pour the mixture into a 9x13 inch baking dish .
+PREDID: 464
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 8
+SENT: I would sprinkle evenly with dry bread crumbs .
+PREDID: 502
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: dry bread crumbs
+     PREP: with
+      INGREDIENT SPAN: dry bread crumbs
+         INGREDIENTS: dry bread crumbs
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until the casserole is bubbling and the bread crumbs are golden brown , about 20 minutes .
+PREDID: 535
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is bubbling
+   OARG: the bread crumbs are golden brown , about 20 minutes
+      NON-INGREDIENT SPAN: the bread crumbs are golden brown 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

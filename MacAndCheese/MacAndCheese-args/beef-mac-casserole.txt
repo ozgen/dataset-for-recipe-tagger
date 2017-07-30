@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 47
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 73
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 111
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 3
+SENT: Once the water is boiling , I would stir in the shell pasta , and return to a boil .
+PREDID: 165
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the shell pasta
+     PREP: in
+      INGREDIENT SPAN: the shell pasta
+         INGREDIENTS: ounce package uncooked pasta shells
+
+PREDID: 188
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 13 minutes .
+PREDID: 202
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 13 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  about 13 minutes
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 5
+SENT: I would drain well in a colander set in the sink .
+PREDID: 314
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 347
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 7
+SENT: I would cook and stir ground beef , the onion , and green pepper until browned .
+PREDID: 384
+PRED: cook and stir
+   DOBJ: ground beef , the onion , green pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: crushed red pepper flakes
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 8
+SENT: I would drain off excess grease .
+PREDID: 439
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 9
+SENT: I would stir in pepperoni , tomato sauce , tomato juice , the oregano , celery salt , onion powder , garlic salt , the basil , red pepper flakes , and cooked pasta .
+PREDID: 460
+PRED: stir
+   DOBJ: NULL
+   PARG: pepperoni , tomato sauce , tomato juice , the oregano , celery salt , onion powder , garlic salt , the basil , red pepper flakes , cooked pasta
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  celery salt 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: tomato juice
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: pepperoni 
+         INGREDIENTS: ounce package pepperoni sliced
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: chopped onions
+      NON-INGREDIENT SPAN:  cooked pasta
+
+
+SENTID: 10
+SENT: I would pour into the prepared baking dish and cover with aluminum foil .
+PREDID: 579
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+PREDID: 611
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven for 20 minutes .
+PREDID: 633
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 minutes
+
+
+SENTID: 12
+SENT: I would remove casserole from oven and sprinkle with mozzarella cheese .
+PREDID: 668
+PRED: remove
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 694
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 13
+SENT: I would return to the oven and bake until the cheese melts , about 5 minutes .
+PREDID: 723
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 741
+PRED: bake
+   DOBJ: NULL
+   PARG: the cheese melts , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese melts 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+

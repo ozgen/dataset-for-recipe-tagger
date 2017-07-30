@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the egg , the milk , the cheese , the oats and salt .
+PREDID: 51
+PRED: combine
+   DOBJ: the egg , the milk , the cheese , the oats, salt
+      INGREDIENT SPAN: the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the oats
+         INGREDIENTS: quick cooking oats
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would add the ground beef , mixing well , and form this mixture into eight miniature meatloaves .
+PREDID: 89
+PRED: add
+   DOBJ: the ground beef , mixing well
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  mixing well
+
+PREDID: 120
+PRED: form
+   DOBJ: this mixture
+      NON-INGREDIENT SPAN: this mixture
+   PARG: eight miniature meatloaves
+     PREP: into
+      NON-INGREDIENT SPAN: eight miniature meatloaves
+
+
+SENTID: 3
+SENT: I would place these in a lightly greased 9x13 inch baking dish .
+PREDID: 164
+PRED: place
+   DOBJ: these in a lightly greased 9x13 inch baking dish
+      NON-INGREDIENT SPAN: these in a lightly greased 9x13 inch baking dish
+
+
+SENTID: 4
+SENT: In a separate small bowl , I would combine the ketchup , brown sugar and mustard .
+PREDID: 231
+PRED: combine
+   DOBJ: the ketchup , brown sugar, mustard
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+   PARG: a separate small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate small bowl
+
+
+SENTID: 5
+SENT: I would stir thoroughly and spread over each meatloaf .
+PREDID: 270
+PRED: stir
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 287
+PRED: spread
+   DOBJ: each meatloaf
+      NON-INGREDIENT SPAN: each meatloaf
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would bake , uncovered , at 350 degrees F -LRB- 175 degrees C -RRB- for 45 minutes .
+PREDID: 315
+PRED: bake uncovered
+   DOBJ: NULL
+   PARG: 350 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees
+   OARG: f -lrb- 175 degrees c -rrb- for 45 minutes
+      NON-INGREDIENT SPAN: f -lrb- 175 degrees c -rrb- for 45 minutes
+
+

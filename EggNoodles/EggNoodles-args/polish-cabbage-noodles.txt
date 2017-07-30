@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would cook pasta in a large pot of boiling salted water .
+PREDID: 0
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of boiling salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling salted water
+
+
+SENTID: 1
+SENT: I would meanwhile , heat butter or margarine in a skillet over medium heat .
+PREDID: 51
+PRED: heat
+   DOBJ: butter or margarine in a skillet over medium heat
+      INGREDIENT SPAN: butter or margarine in a skillet over medium heat
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  or margarine in a skillet over medium heat
+         INGREDIENTS: medium head shredded cabbage
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 2
+SENT: I would saute cabbage and onions until tender .
+PREDID: 97
+PRED: saute
+   DOBJ: cabbage, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: red onions cut strips
+      NON-INGREDIENT SPAN: cabbage
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 3
+SENT: I would drain pasta , and return to the pot .
+PREDID: 130
+PRED: drain
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+
+PREDID: 144
+PRED: return
+   DOBJ: NULL
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would add cabbage and onion mixture to the noodles , and toss .
+PREDID: 159
+PRED: add
+   DOBJ: cabbage, onion mixture
+      NON-INGREDIENT SPAN: cabbage
+      NON-INGREDIENT SPAN:  onion mixture
+   PARG: the noodles
+     PREP: to
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+
+SENTID: 5
+SENT: I would season with salt and pepper to taste .
+PREDID: 205
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

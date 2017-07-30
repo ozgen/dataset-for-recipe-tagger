@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would chill pasta and chicken thoroughly .
+PREDID: 0
+PRED: chill
+   DOBJ: pasta, chicken
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: cubed cooked chicken meat
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: cooked pasta shape choice
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 1
+SENT: I would mix chicken , the celery , the apples , the grapes , the pineapple , mandarin oranges and pasta in large bowl .
+PREDID: 31
+PRED: mix
+   DOBJ: chicken , the celery , the apples , the grapes , the pineapple , mandarin oranges, pasta
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: large apples peeled cored chopped
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce pineapple tidbits drained
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+      INGREDIENT SPAN:  mandarin oranges
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless grapes halved
+      NON-INGREDIENT SPAN:  pasta
+      NON-INGREDIENT SPAN: chicken 
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 2
+SENT: I would mix the mayonnaise , the milk , the sugar , the salt , dash of pepper and a dash of nutmeg .
+PREDID: 108
+PRED: mix
+   DOBJ: the mayonnaise , the milk , the sugar , the salt , dash of pepper, a dash of nutmeg
+      INGREDIENT SPAN:  a dash of nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  dash of pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 3
+SENT: I would combine mayonnaise and chicken mixtures and toss .
+PREDID: 170
+PRED: combine
+   DOBJ: mayonnaise, chicken mixtures
+      NON-INGREDIENT SPAN:  chicken mixtures
+      NON-INGREDIENT SPAN: mayonnaise
+
+
+SENTID: 4
+SENT: I would store in the refrigerator .
+PREDID: 213
+PRED: store
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+
+

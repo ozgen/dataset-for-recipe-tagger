@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: In a large saucepan , I would heat oil over medium heat .
+PREDID: 17
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would saute mushrooms and onion in oil for 2 to 3 minutes , or until tender .
+PREDID: 39
+PRED: saute
+   DOBJ: mushrooms, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh sliced mushrooms
+   PARG: oil for 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: oil for 2 to 3 minutes
+
+
+SENTID: 2
+SENT: I would mix in water , pizza sauce , the pepperoni , the tomatoes , the sausage and Italian seasoning .
+PREDID: 95
+PRED: mix
+   DOBJ: NULL
+   PARG: water , pizza sauce , the pepperoni , the tomatoes , the sausage, italian seasoning
+     PREP: in
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: chopped tomatoes
+      INGREDIENT SPAN:  the sausage
+         INGREDIENTS: chopped cooked Italian sausage
+      INGREDIENT SPAN:  pizza sauce 
+         INGREDIENTS: pizza sauce
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  italian seasoning
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  the pepperoni 
+         INGREDIENTS: sliced pepperoni sausage slice cut half
+
+
+SENTID: 3
+SENT: I would cover , and bring to a boil .
+PREDID: 163
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 172
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat ;
+PREDID: 185
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would cover , and simmer for 20 minutes , stirring occasionally .
+PREDID: 196
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 205
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 6
+SENT: Before serving , I would stir in Parmesan cheese .
+PREDID: 259
+PRED: stir
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: parmesan cheese
+     PREP: in
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 7
+SENT: I would garnish with mozzarella cheese .
+PREDID: 280
+PRED: garnish
+   DOBJ: NULL
+   PARG: mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: mozzarella cheese
+
+

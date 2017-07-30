@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes diced
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would season water with salt and bring to a boil .
+PREDID: 50
+PRED: water
+   DOBJ: season
+      NON-INGREDIENT SPAN: season
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+PREDID: 66
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until potatoes are tender , about 20 minutes ;
+PREDID: 79
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: potatoes are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 148
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would put potatoes in a slow cooker .
+PREDID: 154
+PRED: put
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 5
+SENT: I would place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 179
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 207
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 6
+SENT: I would remove the bacon slices to a plate lined with paper towels .
+PREDID: 285
+PRED: remove
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a plate lined with paper towels
+     PREP: to
+      NON-INGREDIENT SPAN: a plate lined with paper towels
+
+
+SENTID: 7
+SENT: I would crumble bacon and add to potatoes .
+PREDID: 334
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+
+PREDID: 349
+PRED: add
+   DOBJ: NULL
+   PARG: potatoes
+     PREP: to
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 8
+SENT: I would return skillet to medium heat and reheat bacon drippings .
+PREDID: 363
+PRED: return
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: medium heat, reheat bacon drippings
+     PREP: to
+      NON-INGREDIENT SPAN: medium heat
+      NON-INGREDIENT SPAN:  reheat bacon drippings
+
+
+SENTID: 9
+SENT: I would cook and stir sweet onions in the drippings until translucent , 5 to 7 minutes ;
+PREDID: 412
+PRED: cook and stir
+   DOBJ: sweet onions in the drippings
+      INGREDIENT SPAN: sweet onions in the drippings
+         INGREDIENTS: sweet onions diced
+   PARG: translucent , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: translucent 
+
+
+SENTID: 10
+SENT: I would add garlic and continue cooking until fragrant , 1 to 2 minutes more .
+PREDID: 477
+PRED: add
+   DOBJ: NULL
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+
+PREDID: 489
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: fragrant , 1 to 2 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  1 to 2 minutes more
+      NON-INGREDIENT SPAN: fragrant 
+
+
+SENTID: 11
+SENT: I would pour onion mixture over the potatoes and bacon .
+PREDID: 534
+PRED: pour
+   DOBJ: onion mixture
+      NON-INGREDIENT SPAN: onion mixture
+   PARG: the potatoes, bacon
+     PREP: over
+      NON-INGREDIENT SPAN: the potatoes
+      NON-INGREDIENT SPAN:  bacon
+
+
+SENTID: 12
+SENT: I would stir vinegar , the water , the sugar , and salt together in a bowl ;
+PREDID: 574
+PRED: stir
+   DOBJ: vinegar , the water , the sugar , salt
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: white vinegar
+      NON-INGREDIENT SPAN:  salt
+      NON-INGREDIENT SPAN:  the water 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 13
+SENT: I would pour over the potato mixture .
+PREDID: 621
+PRED: pour
+   DOBJ: NULL
+   PARG: the potato mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the potato mixture
+
+
+SENTID: 14
+SENT: I would stir potatoes gently to mix .
+PREDID: 646
+PRED: stir
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: mix
+     PREP: to
+      NON-INGREDIENT SPAN: mix
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 15
+SENT: I would cook on Low , stirring occasionally , 3 to 4 hours .
+PREDID: 670
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: 3 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

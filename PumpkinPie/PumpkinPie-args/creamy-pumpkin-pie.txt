@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB-
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C.
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C.
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine pumpkin puree , sweetened condensed milk and eggs .
+PREDID: 51
+PRED: combine
+   DOBJ: pumpkin puree , sweetened condensed milk, eggs
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: fresh pumpkin cooked mashed
+      INGREDIENT SPAN:  sweetened condensed milk
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would season with cinnamon , the ginger , the nutmeg and salt .
+PREDID: 101
+PRED: season
+   DOBJ: NULL
+   PARG: cinnamon , the ginger , the nutmeg, salt
+     PREP: with
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: ground nutmeg
+
+
+SENTID: 3
+SENT: I would mix together with a wire whisk until thoroughly blended .
+PREDID: 141
+PRED: mix
+   DOBJ: NULL
+   PARG: with a wire whisk
+     PREP: together
+      NON-INGREDIENT SPAN: with a wire whisk
+   PARG: thoroughly blended
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly blended
+
+
+SENTID: 4
+SENT: I would pour the filling into pie crust .
+PREDID: 189
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch deep dish pie crust
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 15 minutes .
+PREDID: 213
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 6
+SENT: I would reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake another 35 to 40 minutes or until a knife inserted comes out clean .
+PREDID: 245
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 295
+PRED: bake
+   DOBJ: NULL
+   PARG: another 35 to 40 minutes or until a knife inserted comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: another 35 to 40 minutes or until a knife inserted comes out clean
+
+

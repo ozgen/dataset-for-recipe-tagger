@@ -1,0 +1,25 @@
+digraph recipe {
+E0[label="whisk
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="fold
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cover
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="refrigerate
+3", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: seasoned rice wine vinegar, prepared horseradish, white sugar, dry mustard, onion powder, celery salt, ground black pepper, mayonnaise, lemon juice, salt", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a large mixing bowl , stirring to dissolve sugar", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1_ing[label="DOBJ: package coleslaw mix", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_0[label="OTHER:into dressing", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+E1 -> E2 [label="bowl"]
+E2 -> E3 [label="1 hour"]
+P3_0_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E3 -> EOR
+}

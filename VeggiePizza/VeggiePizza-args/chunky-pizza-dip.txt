@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would heat oil and garlic in a large saucepan or Dutch oven until garlic starts to sizzle and turn golden .
+PREDID: 0
+PRED: heat
+   DOBJ: oil, garlic
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a large saucepan or dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan or dutch oven
+   PARG: garlic starts
+     PREP: until
+      NON-INGREDIENT SPAN: garlic starts
+   OARG: to sizzle, turn golden
+      NON-INGREDIENT SPAN: to sizzle
+      NON-INGREDIENT SPAN:  turn golden
+
+
+SENTID: 1
+SENT: I would add tomatoes , tomato paste , the basil and oregano ;
+PREDID: 82
+PRED: add
+   DOBJ: tomatoes , tomato paste , the basil, oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  the basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce petite diced tomatoes
+
+
+SENTID: 2
+SENT: I would bring to a simmer .
+PREDID: 122
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 3
+SENT: I would simmer , uncovered , until sauce is thick enough for dipping , 15 to 20 minutes .
+PREDID: 137
+PRED: simmer
+   DOBJ: NULL
+   PARG: sauce is thick enough for dipping , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is thick enough for dipping 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+
+SENTID: 4
+SENT: I would cool and refrigerate .
+PREDID: 202
+PRED: cool and refrigerate
+   DOBJ: NULL
+
+

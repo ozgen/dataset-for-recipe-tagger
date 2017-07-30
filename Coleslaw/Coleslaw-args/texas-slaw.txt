@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together the coleslaw mix , the corn , Cheddar cheese , jalapeno and cilantro .
+PREDID: 13
+PRED: toss
+   DOBJ: the coleslaw mix , the corn , Cheddar cheese , jalapeno, cilantro
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce Mexicanstyle corn drained
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN: the coleslaw mix 
+         INGREDIENTS: ounce package coleslaw mix
+      NON-INGREDIENT SPAN:  jalapeno
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a separate bowl , I would stir together the Ranch-style dressing , the cumin , the coriander , garlic powder and lime juice .
+PREDID: 95
+PRED: stir
+   DOBJ: the Ranch-style dressing , the cumin , the coriander , garlic powder, lime juice
+      INGREDIENT SPAN:  lime juice
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: the Ranch-style dressing 
+         INGREDIENTS: Ranchstyle salad dressing
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the coleslaw mixture , and toss to coat .
+PREDID: 171
+PRED: pour
+   DOBJ: NULL
+   PARG: the coleslaw mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the coleslaw mixture
+
+PREDID: 201
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would serve right away , or refrigerate until serving .
+PREDID: 212
+PRED: serve
+   DOBJ: NULL
+   OARG: right away
+      NON-INGREDIENT SPAN: right away
+
+PREDID: 229
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: In a large skillet cook the Johnsonville ? Mild Italian Ground Sausage , I would the onion , and garlic until meat is brown .
+
+SENTID: 1
+SENT: I would drain off fat .
+PREDID: 0
+PRED: drain
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: In a 3-1/2 - or 4-quart slow cooker combine Classico ? Tomato and Basil pasta sauce , I would the mushrooms , the pepperoni , and basil .
+
+SENTID: 3
+SENT: I would stir in the sausage mixture .
+PREDID: 12
+PRED: stir
+   DOBJ: NULL
+   PARG: the sausage mixture
+     PREP: in
+      INGREDIENT SPAN: the sausage mixture
+         INGREDIENTS: Johnsonville Mild Italian Ground Sausage
+
+
+SENTID: 4
+SENT: I would cover and cook on low-heat setting for 3 hours .
+PREDID: 36
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low-heat setting for 3 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low-heat setting for 3 hours
+
+
+SENTID: 5
+SENT: If desired , I would stir in ripe olives and sweet pepper ;
+PREDID: 85
+PRED: stir
+   DOBJ: NULL
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   PARG: ripe olives, sweet pepper
+     PREP: in
+      INGREDIENT SPAN:  sweet pepper
+         INGREDIENTS: chopped green sweet pepper
+      INGREDIENT SPAN: ripe olives
+         INGREDIENTS: sliced pitted ripe olives
+
+
+SENTID: 6
+SENT: I would cover and cook for 15 minutes more .
+PREDID: 116
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 15 minutes more
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes more
+
+
+SENTID: 7
+SENT: To serve , spear the dippers with fondue forks and dip into the fondue .
+PREDID: 147
+PRED: serve and spear
+   DOBJ: the dippers
+      INGREDIENT SPAN: the dippers
+         INGREDIENTS: Vegetable dippers mozzarella provolone cheese cubes whole grain bread
+   PARG: fondue forks
+     PREP: with
+      NON-INGREDIENT SPAN: fondue forks
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 186
+PRED: dip
+   DOBJ: NULL
+   PARG: the fondue
+     PREP: into
+      NON-INGREDIENT SPAN: the fondue
+
+

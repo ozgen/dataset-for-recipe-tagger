@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: In a mixing bowl , I would combine the pumpkin , condensed milk , the egg , 3/4 teaspoon cinnamon , the ginger , the nutmeg and salt .
+PREDID: 52
+PRED: combine
+   DOBJ: the pumpkin , condensed milk , the egg , 3/4 teaspoon cinnamon , the ginger , the nutmeg, salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  3/4 teaspoon cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: pumpkin puree
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 2
+SENT: I would pour batter into the pie crust .
+PREDID: 129
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: inch prepared graham cracker crust
+
+
+SENTID: 3
+SENT: I would bake at 425 degrees F -LRB- 220 degrees C -RRB- for 15 minutes .
+PREDID: 155
+PRED: bake
+   DOBJ: NULL
+   PARG: 425 degrees f -lrb- 220 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 425 degrees f -lrb- 220 degrees c
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 4
+SENT: I would reduce oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 198
+PRED: reduce
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 5
+SENT: In a small bowl , I would combine brown sugar , the flour , and remaining 1/2 teaspoon cinnamon .
+PREDID: 259
+PRED: combine
+   DOBJ: brown sugar , the flour
+      INGREDIENT SPAN:  the flour
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: remaining 1/2 teaspoon cinnamon
+      NON-INGREDIENT SPAN: remaining 1/2 teaspoon cinnamon
+
+
+SENTID: 6
+SENT: I would cut in the butter or margarine until the mixture is crumbly .
+PREDID: 315
+PRED: cut
+   DOBJ: NULL
+   PARG: the butter or margarine
+     PREP: in
+      INGREDIENT SPAN: the butter or margarine
+         INGREDIENTS: butter
+   PARG: the mixture is crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is crumbly
+
+
+SENTID: 7
+SENT: I would stir in walnuts .
+PREDID: 365
+PRED: stir
+   DOBJ: NULL
+   PARG: walnuts
+     PREP: in
+      INGREDIENT SPAN: walnuts
+         INGREDIENTS: chopped walnuts
+
+
+SENTID: 8
+SENT: I would sprinkle mixture evenly over the pie .
+PREDID: 379
+PRED: sprinkle
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: evenly over the pie
+      NON-INGREDIENT SPAN: evenly over the pie
+
+
+SENTID: 9
+SENT: I would bake pie for 40 minutes or until a knife inserted one inch from the edge comes out clean .
+PREDID: 411
+PRED: bake
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+
+SENTID: 10
+SENT: I would cool and garnish as desired .
+PREDID: 483
+PRED: cool and garnish
+   DOBJ: NULL
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+

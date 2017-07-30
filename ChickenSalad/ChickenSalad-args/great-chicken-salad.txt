@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: In a food processor , I would combine the chicken , the mayonnaise , coleslaw dressing , lemon juice and celery .
+PREDID: 17
+PRED: combine
+   DOBJ: the chicken , the mayonnaise , coleslaw dressing , lemon juice, celery
+      INGREDIENT SPAN:  coleslaw dressing 
+         INGREDIENTS: cole slaw dressing
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN: the 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked boneless chicken breast halves chopped
+      NON-INGREDIENT SPAN:  lemon juice
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+
+
+SENTID: 1
+SENT: I would blend until well mixed .
+PREDID: 83
+PRED: blend
+   DOBJ: NULL
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 2
+SENT: I would season with salt and pepper to taste and refrigerate until chilled .
+PREDID: 103
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   OARG: to taste, refrigerate until chilled
+      NON-INGREDIENT SPAN: to taste
+      NON-INGREDIENT SPAN:  refrigerate until chilled
+
+

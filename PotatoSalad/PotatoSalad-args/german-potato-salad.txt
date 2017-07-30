@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      INGREDIENT SPAN: a large pot of salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes ;
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+
+SENTID: 2
+SENT: I would cook until tender but still firm , about 15 minutes .
+PREDID: 47
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 3
+SENT: I would drain , cool and chop .
+PREDID: 90
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 108
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 5
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 139
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would drain , crumble and set aside .
+PREDID: 178
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 194
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would reserve bacon fat .
+PREDID: 203
+PRED: reserve
+   DOBJ: bacon fat
+      NON-INGREDIENT SPAN: bacon fat
+
+
+SENTID: 8
+SENT: I would add the flour , the sugar , the water and vinegar to skillet and cook in reserved bacon fat over medium heat until dressing is thick .
+PREDID: 219
+PRED: add
+   DOBJ: the flour , the sugar , the water, vinegar
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the water
+   OARG: to skillet, cook in reserved bacon fat over medium heat until dressing is thick
+      NON-INGREDIENT SPAN: to skillet
+      NON-INGREDIENT SPAN:  cook in reserved bacon fat over medium heat until dressing is thick
+
+
+SENTID: 9
+SENT: I would add bacon , the potatoes and green onions to skillet and stir until coated .
+PREDID: 321
+PRED: add
+   DOBJ: bacon , the potatoes, green onions
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onions
+      NON-INGREDIENT SPAN: bacon 
+      NON-INGREDIENT SPAN:  the potatoes
+   OARG: to skillet, stir until coated
+      NON-INGREDIENT SPAN: to skillet
+      NON-INGREDIENT SPAN:  stir until coated
+
+
+SENTID: 10
+SENT: I would cook until heated and season with salt and pepper .
+PREDID: 380
+PRED: cook
+   DOBJ: NULL
+   PARG: heated, season
+     PREP: until
+      NON-INGREDIENT SPAN:  season
+      NON-INGREDIENT SPAN: heated
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 11
+SENT: I would serve warm .
+PREDID: 422
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

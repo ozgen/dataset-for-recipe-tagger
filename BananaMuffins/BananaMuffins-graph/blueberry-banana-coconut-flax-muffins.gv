@@ -1,0 +1,51 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="whisk (S2,P84)", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk (S3,P175)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P258)", shape=oval, style=filled, fillcolor=azure]
+E5[label="fold (S5,P330)", shape=oval, style=filled, fillcolor=azure]
+E6[label="fill (S6,P348)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S7,P370)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: 24 muffin cups or line", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper muffin liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: sour cream, eggs, vanilla extract, mashed ripe banana, applesauce, melted butter
+(text: bananas , sour cream , applesauce , melted butter , eggs , vanilla in a large bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+O3_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+D2_ing[label="DOBJ: baking powder, white sugar, quick-cooking rolled oats, ground cinnamon, ground flax seed, all-purpose flour, sweetened flaked coconut, baking soda, salt
+(text:  cinnamon ,  coconut ,  flax ,  baking powder , flour ,  salt in a bowl,  sugar ,  oats ,  baking soda )", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="OUTPUT: 
+INPUT: together"]
+E2 -> E4 [label="OUTPUT: 
+INPUT: flour mixture"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: into banana mixture"]
+O4_0_0[label="OTHER: just until all dry ingredients are moistened", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_ing[label="PREP: in fresh blueberries
+(text: in blueberries)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+O6_0_0[label="OTHER: muffin cups 2/3 full", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O7_0_0[label="OTHER: until a toothpick inserted near the center comes out clean ", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_0_1[label="OTHER:  about 20 minutes", shape=box, style=filled, fillcolor=white]
+O7_0_1 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

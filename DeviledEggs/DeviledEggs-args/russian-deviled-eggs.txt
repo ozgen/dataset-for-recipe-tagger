@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: I would place beet in a small saucepan with water to cover ;
+PREDID: 0
+PRED: place
+   DOBJ: beet in a small saucepan
+      INGREDIENT SPAN: beet in a small saucepan
+         INGREDIENTS: small beet peeled
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a simmer and cook until tender , about 15 minutes .
+PREDID: 42
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would drain and cool .
+PREDID: 90
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would grate beet on medium holes of a grater .
+PREDID: 103
+PRED: grate
+   DOBJ: beet
+      NON-INGREDIENT SPAN: beet
+   PARG: medium holes of a grater
+     PREP: on
+      NON-INGREDIENT SPAN: medium holes of a grater
+
+
+SENTID: 4
+SENT: I would place grated beet in a bowl ;
+PREDID: 135
+PRED: place
+   DOBJ: grated beet
+      NON-INGREDIENT SPAN: grated beet
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 5
+SENT: I would stir in mayonnaise , the mustard , and relish .
+PREDID: 158
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , the mustard , relish
+     PREP: in
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  relish
+         INGREDIENTS: sweet pickle relish
+
+
+SENTID: 6
+SENT: I would place eggs in a saucepan ;
+PREDID: 193
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 7
+SENT: I would cover with water .
+PREDID: 214
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 8
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 229
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 242
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 260
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 9
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 295
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 318
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 10
+SENT: I would cut each egg in half lengthwise ;
+PREDID: 352
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+
+SENTID: 11
+SENT: I would place egg yolks in a bowl .
+PREDID: 379
+PRED: place
+   DOBJ: egg yolks
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 12
+SENT: I would mash egg yolks with a fork ;
+PREDID: 400
+PRED: mash
+   DOBJ: egg yolks
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 13
+SENT: I would stir beet mixture into egg yolks .
+PREDID: 422
+PRED: stir
+   DOBJ: beet mixture
+      NON-INGREDIENT SPAN: beet mixture
+   PARG: egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolks
+
+
+SENTID: 14
+SENT: I would season with paprika , the salt , and pepper .
+PREDID: 450
+PRED: season
+   DOBJ: NULL
+   PARG: paprika , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: paprika 
+         INGREDIENTS: ground paprika taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 15
+SENT: I would place egg whites cut-side up on a serving platter .
+PREDID: 483
+PRED: place
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: cut-side
+      NON-INGREDIENT SPAN: cut-side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 16
+SENT: I would spoon yolk mixture into egg white halves ;
+PREDID: 525
+PRED: spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg white halves
+
+
+SENTID: 17
+SENT: I would top with cilantro .
+PREDID: 560
+PRED: top
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: sprigs fresh cilantro
+
+

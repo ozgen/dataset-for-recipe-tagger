@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a large casserole dish .
+PREDID: 48
+PRED: grease
+   DOBJ: a large casserole dish
+      NON-INGREDIENT SPAN: a large casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 74
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would stir in shell pasta and cook 12 minutes , or until tender but still firm .
+PREDID: 116
+PRED: stir
+   DOBJ: NULL
+   PARG: shell pasta, cook 12 minutes
+     PREP: in
+      INGREDIENT SPAN: shell pasta
+         INGREDIENTS: ounce package uncooked pasta shells
+      NON-INGREDIENT SPAN:  cook 12 minutes
+   OARG: still firm
+      NON-INGREDIENT SPAN: still firm
+
+
+SENTID: 4
+SENT: I would drain , and transfer to a large bowl .
+PREDID: 175
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 184
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would mix cream of mushroom soup , Cheddar cheese , and pimentos with the pasta .
+PREDID: 205
+PRED: mix
+   DOBJ: cream of mushroom soup , Cheddar cheese , pimentos
+      INGREDIENT SPAN:  pimentos
+         INGREDIENTS: ounce jar chopped pimentos drained
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: ounce package shredded Cheddar cheese
+      INGREDIENT SPAN: cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: the pasta
+     PREP: with
+      NON-INGREDIENT SPAN: the pasta
+
+
+SENTID: 6
+SENT: I would pour into the prepared casserole dish .
+PREDID: 266
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 7
+SENT: I would top with crushed crackers .
+PREDID: 299
+PRED: top
+   DOBJ: NULL
+   PARG: crushed crackers
+     PREP: with
+      INGREDIENT SPAN: crushed crackers
+         INGREDIENTS: soda crackers crushed
+
+
+SENTID: 8
+SENT: I would cover dish , and bake 30 minutes in the preheated oven .
+PREDID: 322
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+
+PREDID: 335
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+
+
+SENTID: 9
+SENT: I would remove cover , and continue the baking 15 minutes , until cheese is bubbly and crackers are lightly browned .
+PREDID: 367
+PRED: remove
+   DOBJ: cover
+      NON-INGREDIENT SPAN: cover
+
+PREDID: 382
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 15 minutes , until cheese is bubbly
+     PREP: for
+      NON-INGREDIENT SPAN:  until cheese is bubbly
+      NON-INGREDIENT SPAN: the baking 15 minutes 
+
+PREDID: 449
+PRED: are browned
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

@@ -1,0 +1,240 @@
+SENTID: 0
+SENT: I would cake :
+PREDID: 0
+PRED: cake
+   DOBJ: NULL
+
+
+SENTID: 1
+SENT: I would heat oven to 350 degrees F.
+PREDID: 5
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 2
+SENT: I would sift together flour , baking powder , baking soda , the spices and salt in medium bowl ;
+PREDID: 27
+PRED: sift
+   DOBJ: flour , baking powder , baking soda , the spices, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: MAGIC Baking Powder, baking soda
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: MAGIC Baking Powder, baking soda
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: flour
+      NON-INGREDIENT SPAN:  the spices
+      NON-INGREDIENT SPAN:  baking soda 
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 95
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would beat eggs and oil in large bowl with wire whisk until well blended .
+PREDID: 104
+PRED: beat
+   DOBJ: eggs, oil
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: oil
+   PARG: large bowl with wire whisk
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl with wire whisk
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would gradually add granulated sugar , mixing until blended .
+PREDID: 168
+PRED: add
+   DOBJ: granulated sugar
+      INGREDIENT SPAN: granulated sugar
+         INGREDIENTS: granulated sugar
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: mixing until blended
+      NON-INGREDIENT SPAN: mixing until blended
+
+
+SENTID: 6
+SENT: I would add flour mixture , the carrots , the pineapple and walnuts ;
+PREDID: 206
+PRED: add
+   DOBJ: flour mixture , the carrots , the pineapple, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts pecans
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+      NON-INGREDIENT SPAN: flour mixture 
+
+
+SENTID: 7
+SENT: I would mix well .
+PREDID: 250
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would pour into greased and floured 12-cup fluted tube pan or 10-inch -LRB- 3-L -RRB- tube pan .
+PREDID: 258
+PRED: pour
+   DOBJ: NULL
+   PARG: greased, floured 12-cup fluted tube pan or 10-inch -lrb- 3-l -rrb- tube pan
+     PREP: into
+      NON-INGREDIENT SPAN:  floured 12-cup fluted tube pan or 10-inch -lrb- 3-l -rrb- tube pan
+      NON-INGREDIENT SPAN: greased
+
+
+SENTID: 9
+SENT: I would bake 50 min .
+PREDID: 324
+PRED: bake
+   DOBJ: 50 min
+      NON-INGREDIENT SPAN: 50 min
+
+
+SENTID: 10
+SENT: to 1 hour or until wooden toothpick inserted in centre comes out clean .
+PREDID: 379
+PRED: inserted comes
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: to
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: centre
+     PREP: in
+      NON-INGREDIENT SPAN: centre
+   PARG: clean
+     PREP: out
+      NON-INGREDIENT SPAN: clean
+
+
+SENTID: 11
+SENT: I would cool 10 min. ;
+PREDID: 393
+PRED: cool
+   DOBJ: NULL
+   OARG: 10 min
+      NON-INGREDIENT SPAN: 10 min
+
+
+SENTID: 12
+SENT: I would loosen from sides of pan with spatula or knife and gently remove cake .
+PREDID: 404
+PRED: loosen
+   DOBJ: NULL
+   PARG: sides of pan
+     PREP: from
+      NON-INGREDIENT SPAN: sides of pan
+   PARG: spatula or knife
+     PREP: with
+      NON-INGREDIENT SPAN: spatula or knife
+
+PREDID: 451
+PRED: remove
+   DOBJ: cake
+      NON-INGREDIENT SPAN: cake
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 13
+SENT: I would cool completely on wire rack .
+PREDID: 462
+PRED: cool
+   DOBJ: NULL
+   PARG: wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: wire rack
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 14
+SENT: I would icing :
+PREDID: 487
+PRED: icing
+   DOBJ: NULL
+
+
+SENTID: 15
+SENT: I would beat cream cheese and butter in large bowl with electric mixer until well blended .
+PREDID: 493
+PRED: beat
+   DOBJ: cream cheese, butter in large bowl
+      INGREDIENT SPAN:  butter in large bowl
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: g package PHILADELPHIA Brick Cream Cheese softened
+   PARG: electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: electric mixer
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 16
+SENT: I would gradually add icing sugar , the juice and peel , beating until well blended after each addition .
+PREDID: 571
+PRED: add
+   DOBJ: NULL
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: icing sugar , the juice, peel , beating until well blended after each addition
+      INGREDIENT SPAN:  the juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  peel 
+         INGREDIENTS: grated lemon peel
+      INGREDIENT SPAN: icing sugar 
+         INGREDIENTS: icing sugar
+      NON-INGREDIENT SPAN:  beating until well blended after each addition
+
+
+SENTID: 17
+SENT: I would spread on top of cake .
+PREDID: 639
+PRED: spread
+   DOBJ: NULL
+   PARG: top of cake
+     PREP: on
+      NON-INGREDIENT SPAN: top of cake
+
+
+SENTID: 18
+SENT: I would store leftover cake in refrigerator .
+PREDID: 657
+PRED: store
+   DOBJ: leftover cake
+      NON-INGREDIENT SPAN: leftover cake
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

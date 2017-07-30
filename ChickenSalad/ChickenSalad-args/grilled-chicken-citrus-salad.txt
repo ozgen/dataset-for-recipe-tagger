@@ -1,0 +1,177 @@
+SENTID: 0
+SENT: In a mixing bowl , I would whisk together orange juice , lime juice , the shallots , garlic , chili powder , the cumin , and sugar .
+PREDID: 14
+PRED: whisk
+   DOBJ: orange juice , lime juice , the shallots , garlic , chili powder , the cumin , sugar
+      INGREDIENT SPAN:  the shallots 
+         INGREDIENTS: shallots minced
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN: orange 
+         INGREDIENTS: oranges peeled segmented chopped
+      INGREDIENT SPAN: orange juice 
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would pour 1/2 of this mixture into a large , resealable plastic bag , and add the chicken breasts .
+PREDID: 92
+PRED: pour
+   DOBJ: 1/2 of this mixture
+      NON-INGREDIENT SPAN: 1/2 of this mixture
+   PARG: a large , resealable plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  resealable plastic bag
+
+PREDID: 147
+PRED: add
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: ounce skinless boneless chicken breast halves
+
+
+SENTID: 2
+SENT: I would seal , and refrigerate for at least 2 hours .
+PREDID: 168
+PRED: seal
+   DOBJ: NULL
+
+PREDID: 176
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 2 hours
+
+
+SENTID: 3
+SENT: I would refrigerate the remaining dressing .
+PREDID: 204
+PRED: refrigerate
+   DOBJ: the remaining dressing
+      NON-INGREDIENT SPAN: the remaining dressing
+
+
+SENTID: 4
+SENT: I would preheat an outdoor grill for medium-high heat .
+PREDID: 236
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 5
+SENT: In a large salad bowl , I would toss romaine lettuce with oranges , the celery , and green onions .
+PREDID: 294
+PRED: toss
+   DOBJ: romaine lettuce
+      INGREDIENT SPAN: romaine lettuce
+         INGREDIENTS: torn romaine lettuce
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+   PARG: oranges , the celery , green onions
+     PREP: with
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery sliced
+      NON-INGREDIENT SPAN: oranges 
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 346
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would lightly oil grate , and place chicken on grill .
+PREDID: 355
+PRED: lightly
+   DOBJ: oil grate
+      NON-INGREDIENT SPAN: oil grate
+
+PREDID: 374
+PRED: place
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: grill
+     PREP: on
+      NON-INGREDIENT SPAN: grill
+
+
+SENTID: 8
+SENT: I would discard the marinade from the chicken .
+PREDID: 394
+PRED: discard
+   DOBJ: the marinade
+      NON-INGREDIENT SPAN: the marinade
+   PARG: the chicken
+     PREP: from
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 9
+SENT: I would cook for 6 to 8 minutes each side , or until juices run clear when pierced with a fork .
+PREDID: 427
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes each side , or until juices run clear when pierced with a fork
+     PREP: for
+      NON-INGREDIENT SPAN:  or until juices run clear when pierced with a fork
+      NON-INGREDIENT SPAN: 6 to 8 minutes each side 
+
+
+SENTID: 10
+SENT: I would remove chicken from grill , and slice into thin strips .
+PREDID: 496
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: grill
+     PREP: from
+      NON-INGREDIENT SPAN: grill
+
+PREDID: 522
+PRED: slice
+   DOBJ: NULL
+   PARG: thin strips
+     PREP: into
+      NON-INGREDIENT SPAN: thin strips
+
+
+SENTID: 11
+SENT: I would toss salad with reserved dressing , and top with sliced chicken .
+PREDID: 542
+PRED: toss
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: reserved dressing
+     PREP: with
+      NON-INGREDIENT SPAN: reserved dressing
+
+PREDID: 575
+PRED: top
+   DOBJ: NULL
+   PARG: sliced chicken
+     PREP: with
+      NON-INGREDIENT SPAN: sliced chicken
+
+

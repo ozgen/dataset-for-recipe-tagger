@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: In a skillet , I would cook sausage , the onion and garlic until pork is no longer pink and onion is tender ;
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 0
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add marinara sauce and oregano ;
+PREDID: 6
+PRED: add
+   DOBJ: marinara sauce, oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: marinara sauce
+         INGREDIENTS: ounce jar marinara sauce
+
+
+SENTID: 3
+SENT: I would simmer for 5 minutes .
+PREDID: 33
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: In a bowl , I would combine ricotta cheese , the egg , 1/4 cup Parmesan and spinach .
+PREDID: 59
+PRED: combine
+   DOBJ: ricotta cheese , the egg , 1/4 cup Parmesan, spinach
+      INGREDIENT SPAN:  1/4 cup Parmesan
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: fresh spinach chopped
+      INGREDIENT SPAN: ricotta cheese 
+         INGREDIENTS: ounce containers ricotta cheese
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 5
+SENT: In a greased 13-in .
+
+SENTID: 6
+SENT: x 9-in .
+
+SENTID: 7
+SENT: x 2-in .
+
+SENTID: 8
+SENT: baking dish , I would spread 1 cup meat sauce .
+PREDID: 120
+PRED: spread
+   DOBJ: 1 cup meat sauce
+      NON-INGREDIENT SPAN: 1 cup meat sauce
+   OARG: baking dish
+      NON-INGREDIENT SPAN: baking dish
+
+
+SENTID: 9
+SENT: I would arrange 3 noodles over sauce .
+PREDID: 140
+PRED: arrange
+   DOBJ: 3 noodles over sauce
+      INGREDIENT SPAN: 3 noodles over sauce
+         INGREDIENTS: lasagna noodles cooked drained
+
+
+SENTID: 10
+SENT: I would spread one-fourth of the ricotta cheese mixture over the noodles , top with 1 cup of meat sauce .
+PREDID: 165
+PRED: spread
+   DOBJ: one-fourth of the ricotta cheese mixture
+      INGREDIENT SPAN: one-fourth of the ricotta cheese mixture
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the noodles , top
+     PREP: over
+      INGREDIENT SPAN: the noodles 
+         INGREDIENTS: lasagna noodles cooked drained
+      NON-INGREDIENT SPAN:  top
+   PARG: 1 cup of meat sauce
+     PREP: with
+      NON-INGREDIENT SPAN: 1 cup of meat sauce
+
+
+SENTID: 11
+SENT: I would sprinkle with 1/2 cup mozzarella cheese .
+PREDID: 244
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/2 cup mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1/2 cup mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 12
+SENT: I would repeat process 3 times .
+PREDID: 279
+PRED: repeat
+   DOBJ: 3 times
+      NON-INGREDIENT SPAN: 3 times
+   OARG: process
+      NON-INGREDIENT SPAN: process
+
+
+SENTID: 13
+SENT: I would top with remaining Parmesan cheese .
+PREDID: 299
+PRED: top
+   DOBJ: NULL
+   PARG: remaining parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: remaining parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 14
+SENT: I would bake , uncovered , at 350 degrees F for 40 to 45 minutes .
+PREDID: 330
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f for 40 to 45 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f for 40 to 45 minutes
+
+
+SENTID: 15
+SENT: I would let stand for 10 minutes before cutting .
+PREDID: 375
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+
+
+SENTID: 16
+SENT: I would serve .
+PREDID: 409
+PRED: serve
+   DOBJ: NULL
+
+

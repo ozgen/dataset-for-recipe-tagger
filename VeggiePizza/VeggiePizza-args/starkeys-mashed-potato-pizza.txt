@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would cook bacon in a large deep skillet over medium heat until crisp .
+PREDID: 41
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large deep skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large deep skillet over medium heat
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 2
+SENT: I would drain , crumble and set aside .
+PREDID: 94
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 110
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would spread the pizza dough out on a lightly greased baking sheet .
+PREDID: 119
+PRED: spread
+   DOBJ: the pizza dough
+      INGREDIENT SPAN: the pizza dough
+         INGREDIENTS: ounce package fresh thawed frozen pizza dough
+   PARG: a lightly greased baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a lightly greased baking sheet
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would spread mashed potatoes over the dough , leaving a small crust around the outside if you want .
+PREDID: 170
+PRED: spread
+   DOBJ: mashed potatoes
+      INGREDIENT SPAN: mashed potatoes
+         INGREDIENTS: prepared mashed potatoes
+   PARG: the dough
+     PREP: over
+      NON-INGREDIENT SPAN: the dough
+   OARG: leaving a small crust around the outside if you want
+      NON-INGREDIENT SPAN: leaving a small crust around the outside if you want
+
+
+SENTID: 5
+SENT: I would sprinkle the cheese and bacon evenly over the potatoes .
+PREDID: 247
+PRED: sprinkle
+   DOBJ: the cheese, bacon
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  bacon
+   OARG: evenly over the potatoes
+      NON-INGREDIENT SPAN: evenly over the potatoes
+
+
+SENTID: 6
+SENT: I would bake the pizza in the preheated oven until the cheese is melted and bubbly , about 20 minutes .
+PREDID: 294
+PRED: bake
+   DOBJ: the pizza
+      NON-INGREDIENT SPAN: the pizza
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese is melted, bubbly , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbly 
+      NON-INGREDIENT SPAN: the cheese is melted
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 7
+SENT: I would let cool for 2 minutes ,
+PREDID: 371
+PRED: let
+   DOBJ: NULL
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 8
+SENT: I would slice into wedges and top each one with a small dollop of sour cream .
+PREDID: 390
+PRED: slice
+   DOBJ: NULL
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+
+PREDID: 408
+PRED: top
+   DOBJ: each one
+      NON-INGREDIENT SPAN: each one
+   PARG: a small dollop of sour cream
+     PREP: with
+      INGREDIENT SPAN: a small dollop of sour cream
+         INGREDIENTS: sour cream topping
+
+

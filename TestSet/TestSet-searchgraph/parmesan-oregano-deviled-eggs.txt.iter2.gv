@@ -1,0 +1,85 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="bring
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="remove
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="let
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="remove
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cool
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cut
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="place
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="mash
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="season
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="arrange
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="spoon
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="snip
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="sprinkle
+15", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:with water", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="eggs"]
+P2_0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="DURATION:in hot water for 15 minutes", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="eggs"]
+P5_0_ing[label="COOBJECT: from hot pepper sauce", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="OTHER:under cold running water", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="each egg in half lengthwise"]
+E7 -> E8 [label="egg yolks"]
+P8_0_0[label="LOCOROBJ:in a bowl", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="yolks"]
+P9_1_0[label="LOCOROBJ:with a fork", shape=box, style=filled, fillcolor=white]
+P9_1_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: in Dijon mustard, dried oregano, grated Parmesan cheese or to taste, salt and ground black pepper to taste, light mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_0[label="LOCOROBJ:with salt", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+P11_0_1[label="LOCOROBJ:with pepper", shape=box, style=filled, fillcolor=white]
+P11_0_1 -> E11
+E11 -> E12 [label="egg whites"]
+P12_0_0[label="LOCOROBJ:on a serving platter", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+E12 -> E13 [label="yolk mixture"]
+P13_0_0[label="LOCOROBJ:into a resealable plastic bag", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+E13 -> E14 [label="one corner of the bag "]
+D14_1[label="DOBJ: pipe filling into egg white halves", shape=box, style=filled, fillcolor=white]
+D14_1 -> E14
+E14 -> E15 [label="deviled eggs"]
+P15_0_ing[label="COOBJECT: with Cheddar cheese or desired, paprika or desired", shape=box, style=filled, fillcolor=peachpuff]
+P15_0_ing -> E15
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

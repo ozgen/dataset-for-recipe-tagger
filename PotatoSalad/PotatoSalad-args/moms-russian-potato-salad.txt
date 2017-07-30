@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would place the beets , the potatoes , and carrot into a saucepan , fill with water , and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: the beets , the potatoes , carrot
+      INGREDIENT SPAN: the beets 
+         INGREDIENTS: small beets
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: potatoes
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: carrot peeled
+   PARG: a saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 49
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 66
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would reduce heat and simmer until tender , about 20 minutes .
+PREDID: 76
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 2
+SENT: I would remove vegetables and allow to cool ;
+PREDID: 122
+PRED: remove
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 141
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would peel the beets and potatoes .
+PREDID: 153
+PRED: peel
+   DOBJ: the beets, potatoes
+      NON-INGREDIENT SPAN: the beets
+      NON-INGREDIENT SPAN:  potatoes
+
+
+SENTID: 4
+SENT: I would dice the beets , the potatoes , and carrot , and place into a salad bowl .
+PREDID: 177
+PRED: dice
+   DOBJ: the beets , the potatoes , carrot
+      NON-INGREDIENT SPAN: the beets 
+      NON-INGREDIENT SPAN:  the potatoes 
+      NON-INGREDIENT SPAN:  carrot
+
+PREDID: 215
+PRED: place
+   DOBJ: NULL
+   PARG: a salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 5
+SENT: I would stir in onion , the pickle , the sauerkraut , olive oil , and salt .
+PREDID: 232
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , the pickle , the sauerkraut , olive oil , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the pickle 
+         INGREDIENTS: dill pickle chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the sauerkraut 
+         INGREDIENTS: sauerkraut drained
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+
+
+SENTID: 6
+SENT: I would chill the salad for 2 to 3 hours ;
+PREDID: 279
+PRED: chill
+   DOBJ: NULL
+   PARG: the salad for 2 to 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: the salad for 2 to 3 hours
+
+
+SENTID: 7
+SENT: I would serve cold .
+PREDID: 305
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

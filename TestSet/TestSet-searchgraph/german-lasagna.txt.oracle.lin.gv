@@ -1,0 +1,83 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="blend
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cut
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="slice
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="layer
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="repeat
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="top
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="cover
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="bake
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="uncover
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="bake
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="sprinkle
+15", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 375 degrees f (190 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="a large pot of lightly salted water"]
+O1_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="pasta"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: for 8 to 10 minutes or until al dente", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+D5_ing[label="DOBJ: milk, condensed cream chicken soup, condensed cream mushroom soup", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="LOCATION:in a blender or with an electric mixer"]
+O5_0_0[label="OTHER: until smooth", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="sausage"]
+O6_0_0[label="OTHER: in half lengthwise", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: thinly", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+D8_ing[label="DOBJ: lasagna noodles, sauerkraut, condensed cream chicken soup, shredded mozzarella cheese", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="half the sausage"]
+P8_0_0[label="LOCATION:in a 9x13 inch dish", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: with lasagna noodles", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+O11_0_0[label="OTHER: with foil", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+P12_0_0[label="LOCATION:in preheated oven", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+O12_0_0[label="OTHER: 25 minutes", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+O14_0_0[label="OTHER: 15 minutes more", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+P15_0_ing[label="COOBJECT: with shredded mozzarella cheese", shape=box, style=filled, fillcolor=peachpuff]
+P15_0_ing -> E15
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

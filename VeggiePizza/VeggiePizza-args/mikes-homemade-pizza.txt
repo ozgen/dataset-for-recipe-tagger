@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: In a small bowl , I would dissolve yeast in warm water .
+PREDID: 13
+PRED: dissolve
+   DOBJ: yeast
+      INGREDIENT SPAN: yeast
+         INGREDIENTS: ounce envelope active dry yeast
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: warm water
+     PREP: in
+      INGREDIENT SPAN: warm water
+         INGREDIENTS: fluid water
+
+
+SENTID: 1
+SENT: I would let stand until creamy , about 10 minutes .
+PREDID: 38
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: creamy , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: creamy 
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine flour , the salt and shortening .
+PREDID: 86
+PRED: combine
+   DOBJ: flour , the salt, shortening
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  shortening
+         INGREDIENTS: shortening
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would stir in the yeast mixture .
+PREDID: 117
+PRED: stir
+   DOBJ: NULL
+   PARG: the yeast mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the yeast mixture
+
+
+SENTID: 4
+SENT: When the dough has pulled together , turn it out onto a lightly floured surface , and knead until smooth and elastic , about 8 minutes .
+PREDID: 169
+PRED: turn
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a lightly floured surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured surface
+   PARG: about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 minutes
+   OARG: when the dough has pulled together
+      NON-INGREDIENT SPAN: when the dough has pulled together
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 208
+PRED: knead
+   DOBJ: NULL
+   PARG: smooth, elastic
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  elastic
+
+
+SENTID: 5
+SENT: I would lightly oil a large bowl , place the dough in the bowl , and turn to coat with oil .
+PREDID: 249
+PRED: lightly
+   DOBJ: a large bowl
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+
+PREDID: 270
+PRED: place
+   DOBJ: the dough in the bowl
+      NON-INGREDIENT SPAN: the dough in the bowl
+
+PREDID: 296
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: oil
+     PREP: with
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 6
+SENT: I would cover with a damp cloth , and let rise in a warm place until doubled in volume , about 45 minutes .
+PREDID: 314
+PRED: cover
+   DOBJ: NULL
+   PARG: a damp cloth
+     PREP: with
+      NON-INGREDIENT SPAN: a damp cloth
+
+PREDID: 337
+PRED: let
+   DOBJ: rise
+      NON-INGREDIENT SPAN: rise
+   PARG: a warm place
+     PREP: in
+      NON-INGREDIENT SPAN: a warm place
+   PARG: doubled in volume , about 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 45 minutes
+      NON-INGREDIENT SPAN: doubled in volume 
+
+
+SENTID: 7
+SENT: I would heat oil in a small saucepan over medium heat .
+PREDID: 392
+PRED: heat
+   DOBJ: oil
+      NON-INGREDIENT SPAN: oil
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+
+
+SENTID: 8
+SENT: I would saute onion until tender .
+PREDID: 430
+PRED: saute
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 9
+SENT: I would stir in tomato paste and water .
+PREDID: 452
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: lukewarm water
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 10
+SENT: I would season with sugar , the salt , black pepper , garlic powder , the basil , the oregano , the marjoram , the cumin , chili powder and red pepper flakes .
+PREDID: 478
+PRED: season
+   DOBJ: NULL
+   PARG: sugar , the salt , black pepper , garlic powder , the basil , the oregano , the marjoram , the cumin , chili powder, red pepper flakes
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the marjoram 
+         INGREDIENTS: dried marjoram
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the salt 
+
+
+SENTID: 11
+SENT: I would simmer 15 to 20 minutes .
+PREDID: 583
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 12
+SENT: I would recipe the makes 2 -LRB- 12 inch -RRB- pizzas .
+PREDID: 603
+PRED: recipe
+   DOBJ: the makes 2 -LRB- 12 inch -RRB- pizzas
+      NON-INGREDIENT SPAN: the makes 2 -LRB- 12 inch -RRB- pizzas
+
+
+SENTID: 13
+SENT: I would divide dough in half , and spread onto pizza pans .
+PREDID: 636
+PRED: dough
+   DOBJ: NULL
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+   OARG: divide
+      NON-INGREDIENT SPAN: divide
+
+PREDID: 651
+PRED: spread
+   DOBJ: NULL
+   PARG: pizza pans
+     PREP: onto
+      NON-INGREDIENT SPAN: pizza pans
+
+
+SENTID: 14
+SENT: I would cover with sauce , and desired toppings .
+PREDID: 671
+PRED: cover
+   DOBJ: NULL
+   PARG: sauce , desired toppings
+     PREP: with
+      NON-INGREDIENT SPAN: sauce 
+      NON-INGREDIENT SPAN:  desired toppings
+
+
+SENTID: 15
+SENT: I would bake at 400 degrees for 20 minutes , or until crust is golden brown .
+PREDID: 705
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees for 20 minutes , or until crust is golden brown
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees for 20 minutes 
+      NON-INGREDIENT SPAN:  or until crust is golden brown
+
+

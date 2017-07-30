@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would whisk together the mayonnaise , the yogurt , the ginger , lime rind , the salt and pepper .
+PREDID: 0
+PRED: whisk
+   DOBJ: the mayonnaise , the yogurt , the ginger , lime rind , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: white pepper
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: grated fresh ginger
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: vanilla yogurt
+      INGREDIENT SPAN:  lime rind 
+         INGREDIENTS: grated lime
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a mixing bowl , I would combine the snow peas , the chicken , the onion and water chestnuts .
+PREDID: 78
+PRED: combine
+   DOBJ: the snow peas , the chicken , the onion, water chestnuts
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  water chestnuts
+         INGREDIENTS: ounce sliced water chestnuts
+      INGREDIENT SPAN: the snow peas 
+         INGREDIENTS: chopped snow peas
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked diced
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 2
+SENT: I would pour the dressing over salad and mix gently .
+PREDID: 128
+PRED: pour
+   DOBJ: the dressing over salad, mix
+      NON-INGREDIENT SPAN: the dressing over salad
+      NON-INGREDIENT SPAN:  mix
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 3
+SENT: I would cover and refrigerate until chilled .
+PREDID: 162
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

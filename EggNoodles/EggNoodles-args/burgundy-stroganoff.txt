@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would melt margarine in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: margarine
+      INGREDIENT SPAN: margarine
+         INGREDIENTS: margarine
+   PARG: a large skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a large skillet over medium heat
+         INGREDIENTS: medium onion sliced
+
+
+SENTID: 1
+SENT: I would add beef strips , and fry until browned .
+PREDID: 43
+PRED: add
+   DOBJ: beef strips , fry
+      INGREDIENT SPAN: beef strips 
+         INGREDIENTS: beef round steak cut thin strips
+      NON-INGREDIENT SPAN:  fry
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 2
+SENT: I would stir in onion and cook , stirring , for 3 minutes , or until softened .
+PREDID: 76
+PRED: stir
+   DOBJ: NULL
+   PARG: onion, cook , stirring , for 3 minutes , or until softened
+     PREP: in
+      NON-INGREDIENT SPAN:  stirring 
+      NON-INGREDIENT SPAN:  cook 
+      NON-INGREDIENT SPAN:  or until softened
+      NON-INGREDIENT SPAN: onion
+      NON-INGREDIENT SPAN:  for 3 minutes 
+
+
+SENTID: 3
+SENT: I would sprinkle flour over the meat , and stir into the pan juices until blended .
+PREDID: 132
+PRED: sprinkle
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour dusting
+   PARG: the meat
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 160
+PRED: stir
+   DOBJ: NULL
+   PARG: the pan juices
+     PREP: into
+      NON-INGREDIENT SPAN: the pan juices
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 4
+SENT: I would gradually mix in the beef broth , the Burgundy , tomato paste and thyme .
+PREDID: 202
+PRED: mix
+   DOBJ: NULL
+   PARG: the beef broth , the burgundy , tomato paste, thyme
+     PREP: in
+      INGREDIENT SPAN:  the burgundy 
+         INGREDIENTS: Burgundy wine
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN: the beef broth 
+         INGREDIENTS: beef broth
+      NON-INGREDIENT SPAN:  thyme
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 5
+SENT: I would reduce heat to low , and simmer for 40 to 45 minutes .
+PREDID: 249
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 268
+PRED: simmer
+   DOBJ: NULL
+   PARG: 40 to 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 to 45 minutes
+
+
+SENTID: 6
+SENT: During the last 15 minutes of the cooking , I would bring a large pot of lightly salted water to a boil .
+PREDID: 326
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: the last 15 minutes of the cooking
+     PREP: during
+      NON-INGREDIENT SPAN: the last 15 minutes of the cooking
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would add egg noodles , and cook until tender , about 7 minutes .
+PREDID: 368
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 385
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 7 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 8
+SENT: I would remove the burgundy beef from the heat and stir in sour cream .
+PREDID: 415
+PRED: remove
+   DOBJ: the burgundy beef
+      NON-INGREDIENT SPAN: the burgundy beef
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 450
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 9
+SENT: I would serve over hot egg noodles .
+PREDID: 466
+PRED: serve
+   DOBJ: hot egg noodles
+      NON-INGREDIENT SPAN: hot egg noodles
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a baking sheet .
+PREDID: 38
+PRED: grease
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would divide pizza dough into 4 equal parts .
+PREDID: 57
+PRED: divide
+   DOBJ: pizza dough
+      INGREDIENT SPAN: pizza dough
+         INGREDIENTS: prepared pizza dough
+   PARG: 4 equal parts
+     PREP: into
+      NON-INGREDIENT SPAN: 4 equal parts
+
+
+SENTID: 3
+SENT: I would roll each piece into a large oval on a lightly floured surface .
+PREDID: 89
+PRED: roll
+   DOBJ: each piece
+      NON-INGREDIENT SPAN: each piece
+   PARG: a large oval on a lightly floured surface
+     PREP: into
+      NON-INGREDIENT SPAN: a large oval on a lightly floured surface
+
+
+SENTID: 4
+SENT: I would mix spinach , the mushrooms , the zucchini , the cabbage , green bell pepper , fresh tomato , the onion , sun-dried tomatoes , artichoke hearts , the olives , the garlic , and Italian seasoning in a large bowl .
+PREDID: 141
+PRED: mix
+   DOBJ: spinach , the mushrooms , the zucchini , the cabbage , green bell pepper , fresh tomato , the onion , sun-dried tomatoes , artichoke hearts , the olives , the garlic , Italian seasoning in a large bowl
+      INGREDIENT SPAN:  fresh tomato 
+         INGREDIENTS: seeded sliced tomato
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  artichoke hearts 
+         INGREDIENTS: artichoke hearts drained chopped
+      INGREDIENT SPAN:  sun-dried tomatoes 
+         INGREDIENTS: chopped sundried tomatoes
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: chopped cabbage
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: sliced zucchini
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced fresh mushrooms
+      INGREDIENT SPAN: spinach 
+         INGREDIENTS: chopped fresh spinach
+      INGREDIENT SPAN:  Italian seasoning in a large bowl
+         INGREDIENTS: Italian seasoning
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 5
+SENT: I would season with salt and black pepper .
+PREDID: 293
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 6
+SENT: I would divide vegetable mixture over the center of each piece of dough , leaving about a 1-inch border of dough .
+PREDID: 322
+PRED: divide
+   DOBJ: vegetable mixture
+      NON-INGREDIENT SPAN: vegetable mixture
+   PARG: the center of each piece of dough
+     PREP: over
+      NON-INGREDIENT SPAN: the center of each piece of dough
+   OARG: leaving about a 1-inch border of dough
+      NON-INGREDIENT SPAN: leaving about a 1-inch border of dough
+
+
+SENTID: 7
+SENT: I would sprinkle about 1/4 cup mozzarella cheese and about 2 tablespoons Asiago cheese over vegetables
+PREDID: 409
+PRED: sprinkle
+   DOBJ: about 1/4 cup mozzarella cheese, about 2 tablespoons Asiago cheese over vegetables
+      INGREDIENT SPAN: about 1/4 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese divided
+      INGREDIENT SPAN:  about 2 tablespoons Asiago cheese over vegetables
+         INGREDIENTS: grated Asiago cheese divided
+
+
+SENTID: 8
+SENT: I would fold pizza dough in half to create a half-moon ;
+PREDID: 490
+PRED: fold
+   DOBJ: pizza dough in half
+      NON-INGREDIENT SPAN: pizza dough in half
+   OARG: to create a half-moon
+      NON-INGREDIENT SPAN: to create a half-moon
+
+
+SENTID: 9
+SENT: I would pinch and seal the edges of each calzone .
+PREDID: 529
+PRED: pinch and seal
+   DOBJ: the edges of each calzone
+      NON-INGREDIENT SPAN: the edges of each calzone
+
+
+SENTID: 10
+SENT: I would transfer calzones to the prepared baking sheet .
+PREDID: 563
+PRED: transfer
+   DOBJ: calzones
+      NON-INGREDIENT SPAN: calzones
+   PARG: the prepared baking sheet
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+
+SENTID: 11
+SENT: I would cut small holes on the top of each to vent ;
+PREDID: 604
+PRED: cut
+   DOBJ: small holes
+      NON-INGREDIENT SPAN: small holes
+   PARG: the top of each
+     PREP: on
+      NON-INGREDIENT SPAN: the top of each
+   OARG: to vent
+      NON-INGREDIENT SPAN: to vent
+
+
+SENTID: 12
+SENT: I would brush tops with olive oil .
+PREDID: 638
+PRED: brush
+   DOBJ: tops
+      NON-INGREDIENT SPAN: tops
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until lightly browned , about 30 minutes .
+PREDID: 660
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until lightly browned , about 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the preheated oven until lightly browned 
+
+
+SENTID: 14
+SENT: I would sprinkle remaining mozzarella cheese and Asiago cheese evenly over each calzone and continue the baking until cheese is melted and crust is golden brown , 5 to 10 minutes more .
+
+SENTID: 15
+SENT: I would serve with marinara sauce for dipping .
+PREDID: 861
+PRED: serve
+   DOBJ: NULL
+   PARG: marinara sauce for dipping
+     PREP: with
+      INGREDIENT SPAN: marinara sauce for dipping
+         INGREDIENTS: marinara sauce dipping
+
+

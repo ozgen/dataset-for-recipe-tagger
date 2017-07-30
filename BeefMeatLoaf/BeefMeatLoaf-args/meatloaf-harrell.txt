@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place saltine crackers into a large , heavy plastic zipper bag , and gently crush into crumbs by rolling the bag with a rolling pin ;
+PREDID: 38
+PRED: place
+   DOBJ: saltine crackers
+      INGREDIENT SPAN: saltine crackers
+         INGREDIENTS: ounce package saltine crackers
+   PARG: a large , heavy plastic zipper bag
+     PREP: into
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  heavy plastic zipper bag
+
+PREDID: 100
+PRED: crush
+   DOBJ: NULL
+   PARG: crumbs
+     PREP: into
+      NON-INGREDIENT SPAN: crumbs
+   PARG: rolling the bag with a rolling pin
+     PREP: by
+      NON-INGREDIENT SPAN: rolling the bag with a rolling pin
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 2
+SENT: I would alternately , place crackers into the work bowl of a food processor and pulse briefly just to break into crumbs .
+PREDID: 146
+PRED: alternately and place
+   DOBJ: crackers
+      NON-INGREDIENT SPAN: crackers
+   PARG: the work bowl of a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: the work bowl of a food processor
+
+PREDID: 205
+PRED: pulse
+   DOBJ: NULL
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+   OARG: just
+      NON-INGREDIENT SPAN: just
+   OARG: to break into crumbs
+      NON-INGREDIENT SPAN: to break into crumbs
+
+
+SENTID: 3
+SENT: I would two sleeves of crackers should make about 3 cups of crumbs .
+
+SENTID: 4
+SENT: I would reserve 3/4 cup of crumbs ;
+PREDID: 288
+PRED: reserve
+   DOBJ: 3/4 cup of crumbs
+      NON-INGREDIENT SPAN: 3/4 cup of crumbs
+
+
+SENTID: 5
+SENT: I would place 2?1/4 cup of crumbs into a large mixing bowl .
+PREDID: 310
+PRED: place
+   DOBJ: 2?1/4 cup of crumbs
+      NON-INGREDIENT SPAN: 2?1/4 cup of crumbs
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 6
+SENT: I would mix the 2?1/4 cups of cracker crumbs in the mixing bowl with ground beef , Worcestershire sauce , steak sauce , the mustard , black pepper , the soda , the rosemary , cayenne pepper , the cinnamon , garlic powder , dill relish , sweet relish , the egg , self-rising flour , tomato sauce , and onion until thoroughly combined .
+PREDID: 352
+PRED: mix
+   DOBJ: the 2?1/4 cups of cracker crumbs
+      NON-INGREDIENT SPAN: the 2?1/4 cups of cracker crumbs
+   PARG: the mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: the mixing bowl
+   PARG: ground beef , worcestershire sauce , steak sauce , the mustard , black pepper , the soda , the rosemary , cayenne pepper , the cinnamon , garlic powder , dill relish , sweet relish , the egg , self-rising flour , tomato sauce , onion until thoroughly combined
+     PREP: with
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  self-rising flour 
+         INGREDIENTS: selfrising flour
+      INGREDIENT SPAN:  the soda 
+         INGREDIENTS: Dr Pepper soda
+      INGREDIENT SPAN:  sweet relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  steak sauce 
+         INGREDIENTS: steak sauce
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  dill relish 
+         INGREDIENTS: dill pickle relish
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN:  onion until thoroughly combined
+         INGREDIENTS: onion chopped
+
+
+SENTID: 7
+SENT: I would form into a loaf , and place into a 9x12-inch baking dish .
+PREDID: 601
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 618
+PRED: place
+   DOBJ: NULL
+   PARG: a 9x12-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x12-inch baking dish
+
+
+SENTID: 8
+SENT: I would top the loaf with the reserved cracker crumbs .
+PREDID: 648
+PRED: top
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: the reserved cracker crumbs
+     PREP: with
+      NON-INGREDIENT SPAN: the reserved cracker crumbs
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until the loaf is browned , no longer pink inside , and the juices run clear , about 45 minutes to 1 hour , checking after 45 minutes .
+PREDID: 687
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the loaf is browned , no longer pink inside
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink inside
+      NON-INGREDIENT SPAN: the loaf is browned 
+   OARG: the juices run clear , about 45 minutes to 1 hour , checking after 45 minutes
+      NON-INGREDIENT SPAN:  checking after 45 minutes
+      NON-INGREDIENT SPAN: the juices run clear 
+      NON-INGREDIENT SPAN:  about 45 minutes to 1 hour 
+
+
+SENTID: 10
+SENT: An instant-read meat thermometer , inserted into the thickest part of the loaf , should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

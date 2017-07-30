@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: When hot , lightly oil grate .
+
+SENTID: 2
+SENT: I would mix together the ground beef , 2 tablespoons barbeque seasoning , and chipotle peppers in adobo sauce in a bowl ;
+PREDID: 57
+PRED: mix
+   DOBJ: the ground beef , 2 tablespoons barbeque seasoning , chipotle peppers
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  2 tablespoons barbeque seasoning 
+         INGREDIENTS: barbeque seasoning
+      INGREDIENT SPAN:  chipotle peppers
+         INGREDIENTS: pureed chipotle peppers adobo sauce
+   PARG: adobo sauce in a bowl
+     PREP: in
+      INGREDIENT SPAN: adobo sauce in a bowl
+         INGREDIENTS: barbeque sauce
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would divide mixture into two halves ;
+PREDID: 150
+PRED: divide
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: two halves
+     PREP: into
+      NON-INGREDIENT SPAN: two halves
+
+
+SENTID: 4
+SENT: I would form each half into large rectangles , making one larger and thinner than the other ;
+PREDID: 177
+PRED: form
+   DOBJ: each half
+      NON-INGREDIENT SPAN: each half
+   PARG: large rectangles
+     PREP: into
+      NON-INGREDIENT SPAN: large rectangles
+   OARG: making one larger, thinner than the other
+      NON-INGREDIENT SPAN:  thinner than the other
+      NON-INGREDIENT SPAN: making one larger
+
+
+SENTID: 5
+SENT: I would lay the rectangles on large sheets of aluminum foil .
+PREDID: 247
+PRED: lay
+   DOBJ: the rectangles
+      NON-INGREDIENT SPAN: the rectangles
+   PARG: large sheets of aluminum foil
+     PREP: on
+      NON-INGREDIENT SPAN: large sheets of aluminum foil
+
+
+SENTID: 6
+SENT: I would mix together the cream cheese and 1 teaspoon barbeque seasoning ;
+PREDID: 291
+PRED: mix
+   DOBJ: the cream cheese, 1 teaspoon barbeque seasoning
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+      INGREDIENT SPAN:  1 teaspoon barbeque seasoning
+         INGREDIENTS: barbeque seasoning
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would spread on top of the smaller , thicker rectangle of meat .
+PREDID: 346
+PRED: spread
+   DOBJ: NULL
+   PARG: top of the smaller , thicker rectangle
+     PREP: on
+      NON-INGREDIENT SPAN: top of the smaller 
+      NON-INGREDIENT SPAN:  thicker rectangle
+   PARG: meat
+     PREP: of
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 8
+SENT: I would melt the butter in a skillet over medium-high heat .
+PREDID: 393
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+
+SENTID: 9
+SENT: I would cook the onion , bell pepper , the mushrooms , and garlic in the hot butter until the onion has softened ;
+PREDID: 436
+PRED: cook
+   DOBJ: the onion , bell pepper , the mushrooms , garlic
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: bell pepper color chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce package sliced fresh mushrooms
+   PARG: the hot butter
+     PREP: in
+      NON-INGREDIENT SPAN: the hot butter
+   PARG: the onion has softened
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has softened
+
+
+SENTID: 10
+SENT: I would spread atop the cream cheese mixture ;
+PREDID: 518
+PRED: spread
+   DOBJ: NULL
+   PARG: the cream cheese mixture
+     PREP: atop
+      INGREDIENT SPAN: the cream cheese mixture
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 11
+SENT: I would top with the Cheddar cheese .
+PREDID: 550
+PRED: top
+   DOBJ: NULL
+   PARG: the cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the cheddar cheese
+
+
+SENTID: 12
+SENT: I would place the thinner rectangle of meat atop the smaller piece by lifting the aluminum foil beneath it and flipping it onto the cream cheese and vegetable layer .
+PREDID: 574
+PRED: place
+   DOBJ: the thinner rectangle of meat
+      NON-INGREDIENT SPAN: the thinner rectangle of meat
+   PARG: the smaller piece
+     PREP: atop
+      NON-INGREDIENT SPAN: the smaller piece
+   PARG: lifting the aluminum foil beneath it, flipping it onto the cream cheese, vegetable layer
+     PREP: by
+      NON-INGREDIENT SPAN:  vegetable layer
+      NON-INGREDIENT SPAN:  flipping it onto the cream cheese
+      NON-INGREDIENT SPAN: lifting the aluminum foil beneath it
+
+
+SENTID: 13
+SENT: Use your hands to form a seal around the edges of the loaf , making sure the cheese and vegetable mixture will not leak out during cooking .
+
+SENTID: 14
+SENT: I would fold the edges of the aluminum foil beneath the loaf upwards , so as to form a bowl , to keep the grease from leaking onto the grill while cooking .
+PREDID: 705
+PRED: fold
+   DOBJ: the edges of the aluminum foil beneath the loaf upwards
+      NON-INGREDIENT SPAN: the edges of the aluminum foil beneath the loaf upwards
+   OARG: so as to form a bowl
+      NON-INGREDIENT SPAN: so as to form a bowl
+   OARG: to keep the grease from leaking onto the grill while cooking
+      NON-INGREDIENT SPAN: to keep the grease from leaking onto the grill while cooking
+
+
+SENTID: 15
+SENT: I would brush the top of the loaf with barbeque sauce .
+PREDID: 823
+PRED: brush
+   DOBJ: the top of the loaf
+      NON-INGREDIENT SPAN: the top of the loaf
+   PARG: barbeque sauce
+     PREP: with
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: barbeque seasoning
+
+
+SENTID: 16
+SENT: I would cook on the preheated grill until the top of the loaf is cooked completely through , about 30 minutes .
+PREDID: 861
+PRED: cook
+   DOBJ: NULL
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: the top of the loaf is cooked completely through , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the top of the loaf is cooked completely through 
+
+
+SENTID: 17
+SENT: I would slice into six even pieces to serve .
+PREDID: 945
+PRED: slice
+   DOBJ: even pieces to serve
+      NON-INGREDIENT SPAN: even pieces to serve
+   PARG: six
+     PREP: into
+      NON-INGREDIENT SPAN: six
+
+

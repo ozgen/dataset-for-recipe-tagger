@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat, lightly oil grate
+      NON-INGREDIENT SPAN:  lightly oil grate
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would brush beef tip with barbeque sauce and grill 5 to 8 minutes on a side , or to desired doneness , brushing frequently with sauce .
+PREDID: 51
+PRED: brush
+   DOBJ: beef tip
+      INGREDIENT SPAN: beef tip
+         INGREDIENTS: beef tip
+   PARG: barbeque sauce
+     PREP: with
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce
+
+PREDID: 83
+PRED: grill
+   DOBJ: NULL
+   PARG: 5 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 8 minutes
+   PARG: a side
+     PREP: on
+      NON-INGREDIENT SPAN: a side
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 155
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large pot over medium heat , I would cook onion and bell , the habanero , the pepperoncini , the serrano , the cayenne , the pequin and jalapeno peppers until onion is translucent .
+PREDID: 190
+PRED: cook
+   DOBJ: onion, bell , the habanero , the pepperoncini , the serrano , the cayenne , the pequin, jalapeno peppers
+      INGREDIENT SPAN:  jalapeno peppers
+         INGREDIENTS: diced jalapeno chile pepper
+      INGREDIENT SPAN:  the habanero 
+         INGREDIENTS: diced habanero pepper
+      INGREDIENT SPAN:  the pepperoncini 
+         INGREDIENTS: pepperoncini diced
+      INGREDIENT SPAN:  the serrano 
+         INGREDIENTS: diced serrano pepper
+      INGREDIENT SPAN:  the cayenne 
+         INGREDIENTS: diced fresh cayenne pepper
+      INGREDIENT SPAN:  the pequin
+         INGREDIENTS: diced pequin chile pepper
+      INGREDIENT SPAN:  bell 
+         INGREDIENTS: large green bell pepper diced
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion chopped
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onion is translucent
+
+
+SENTID: 4
+SENT: I would stir in cumin , the paprika , the oregano and chili powder and cook until fragrant .
+PREDID: 293
+PRED: stir
+   DOBJ: NULL
+   PARG: cumin , the paprika , the oregano, chili powder
+     PREP: in
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: cumin 
+         INGREDIENTS: ground cumin
+
+PREDID: 343
+PRED: cook
+   DOBJ: NULL
+   PARG: fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+
+
+SENTID: 5
+SENT: I would stir in ground beef and cook until brown .
+PREDID: 355
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef
+     PREP: in
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+PREDID: 374
+PRED: cook
+   DOBJ: NULL
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 6
+SENT: I would drain .
+PREDID: 389
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would stir in tomato sauce , any remaining barbeque sauce and beans .
+PREDID: 395
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato sauce , any remaining barbeque sauce, beans
+     PREP: in
+      INGREDIENT SPAN:  beans
+         INGREDIENTS: ounce pinto beans drained
+      NON-INGREDIENT SPAN: tomato sauce 
+      NON-INGREDIENT SPAN:  any remaining barbeque sauce
+
+
+SENTID: 8
+SENT: I would cut grilled tip steak into bite sized pieces and stir into chili as well .
+PREDID: 447
+PRED: cut
+   DOBJ: grilled tip steak
+      NON-INGREDIENT SPAN: grilled tip steak
+   PARG: bite sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite sized pieces
+
+PREDID: 487
+PRED: stir
+   DOBJ: NULL
+   PARG: chili
+     PREP: into
+      NON-INGREDIENT SPAN: chili
+   OARG: as well
+      NON-INGREDIENT SPAN: as well
+
+
+SENTID: 9
+SENT: I would continue to cook until thickened and flavors have blended and mixture is thoroughly heated .
+PREDID: 507
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until thickened, flavors have blended
+      NON-INGREDIENT SPAN: to cook until thickened
+      NON-INGREDIENT SPAN:  flavors have blended
+   OARG: mixture is thoroughly heated
+      NON-INGREDIENT SPAN: mixture is thoroughly heated
+
+
+SENTID: 10
+SENT: I would thin with water if desired .
+

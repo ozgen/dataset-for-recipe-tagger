@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: I would combine pumpkin , brown sugar , the salt , and spices with a rotary beater .
+PREDID: 0
+PRED: combine
+   DOBJ: pumpkin , brown sugar , the salt , spices
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  spices
+   PARG: a rotary beater
+     PREP: with
+      NON-INGREDIENT SPAN: a rotary beater
+
+
+SENTID: 1
+SENT: I would blend in ice cream .
+PREDID: 58
+PRED: blend
+   DOBJ: NULL
+   PARG: ice cream
+     PREP: in
+      INGREDIENT SPAN: ice cream
+         INGREDIENTS: vanilla ice cream softened
+
+
+SENTID: 2
+SENT: I would pour into pie shell .
+PREDID: 74
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch pie crust baked
+
+
+SENTID: 3
+SENT: I would freeze until firm .
+PREDID: 91
+PRED: freeze
+   DOBJ: NULL
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+
+SENTID: 4
+SENT: I would serve frozen , garnished with whipped cream and walnut halves .
+PREDID: 107
+PRED: serve
+   DOBJ: NULL
+   OARG: frozen
+      NON-INGREDIENT SPAN: frozen
+
+PREDID: 119
+PRED: garnished
+   DOBJ: NULL
+   PARG: whipped cream, walnut halves
+     PREP: with
+      NON-INGREDIENT SPAN:  walnut halves
+      NON-INGREDIENT SPAN: whipped cream
+
+

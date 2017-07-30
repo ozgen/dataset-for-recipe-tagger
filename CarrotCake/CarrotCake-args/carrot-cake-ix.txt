@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease two 9 inch round cake pans .
+PREDID: 41
+PRED: grease
+   DOBJ: two 9 inch round cake pans
+      NON-INGREDIENT SPAN: two 9 inch round cake pans
+
+
+SENTID: 2
+SENT: In a medium bowl , I would stir together the flour , the cinnamon and sugar .
+PREDID: 83
+PRED: stir
+   DOBJ: the flour , the cinnamon, sugar
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: selfrising flour
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add the oil and eggs , mix until blended ,
+PREDID: 121
+PRED: add
+   DOBJ: the oil, eggs , mix
+      INGREDIENT SPAN:  eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  mix
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 4
+SENT: I would stir in the carrots and nuts .
+PREDID: 154
+PRED: stir
+   DOBJ: NULL
+   PARG: the carrots, nuts
+     PREP: in
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: grated carrots
+      NON-INGREDIENT SPAN:  nuts
+
+
+SENTID: 5
+SENT: I would divide the batter evenly between the two prepared pans .
+PREDID: 178
+PRED: divide
+   DOBJ: NULL
+   PARG: the two prepared pans
+     PREP: between
+      NON-INGREDIENT SPAN: the two prepared pans
+   OARG: the batter evenly
+      NON-INGREDIENT SPAN: the batter evenly
+
+
+SENTID: 6
+SENT: I would bake for 25 to 30 minutes in the preheated oven .
+PREDID: 225
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 to 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes in the preheated oven
+
+
+SENTID: 7
+SENT: A toothpick inserted into the cake should come out clean .
+
+SENTID: 8
+SENT: I would cool cakes on wire racks before removing from pans .
+PREDID: 264
+PRED: cool
+   DOBJ: cakes on wire racks
+      NON-INGREDIENT SPAN: cakes on wire racks
+   PARG: removing from pans
+     PREP: before
+      NON-INGREDIENT SPAN: removing from pans
+
+
+SENTID: 9
+SENT: To make the frosting , use the second set of ingredients .
+PREDID: 309
+PRED: make
+   DOBJ: the frosting
+      NON-INGREDIENT SPAN: the frosting
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 325
+PRED: use
+   DOBJ: the second set of ingredients
+      NON-INGREDIENT SPAN: the second set of ingredients
+
+
+SENTID: 10
+SENT: In a medium bowl , I would cream together the butter and cream cheese , add the sugar and cream well .
+PREDID: 368
+PRED: cream
+   DOBJ: the sugar, cream, the butter, cream cheese
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: ounce package cream cheese
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: confectioners sugar
+      NON-INGREDIENT SPAN:  the butter
+      NON-INGREDIENT SPAN:  cream cheese
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 11
+SENT: I would stir in the nuts and vanilla .
+PREDID: 429
+PRED: stir
+   DOBJ: NULL
+   PARG: the nuts, vanilla
+     PREP: in
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN: the nuts
+
+
+SENTID: 12
+SENT: I would use to fill and frost the cooled cake layers .
+PREDID: 453
+PRED: use
+   DOBJ: NULL
+   OARG: to fill, frost the cooled cake layers
+      NON-INGREDIENT SPAN: to fill
+      NON-INGREDIENT SPAN:  frost the cooled cake layers
+
+

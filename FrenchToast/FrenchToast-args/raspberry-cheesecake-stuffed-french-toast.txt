@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: In a bowl , I would whisk milk , the vanilla , the sugar , and cinnamon into the beaten eggs until well blended .
+PREDID: 8
+PRED: whisk
+   DOBJ: milk , the vanilla , the sugar , cinnamon
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: confectioners sugar dusting
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: the beaten eggs
+     PREP: into
+      INGREDIENT SPAN: the beaten eggs
+         INGREDIENTS: eggs beaten
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 77
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a separate bowl , I would cream together raspberry puree and cream cheese until smooth .
+PREDID: 102
+PRED: cream
+   DOBJ: raspberry puree, cream cheese until smooth
+      INGREDIENT SPAN:  cream cheese until smooth
+         INGREDIENTS: cream cheese softened
+      INGREDIENT SPAN: raspberry puree
+         INGREDIENTS: raspberry puree
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would make ` sandwiches ' by cutting each slice of bread in half and spreading raspberry-cheese mixture in the center ,
+PREDID: 155
+PRED: make
+   DOBJ: sandwiches
+      NON-INGREDIENT SPAN: sandwiches
+   PARG: cutting each slice of bread in half, spreading raspberry-cheese mixture in the center
+     PREP: by
+      INGREDIENT SPAN: cutting each slice of bread in half
+         INGREDIENTS: loaf French bread cut inch slices
+      NON-INGREDIENT SPAN:  spreading raspberry-cheese mixture in the center
+
+
+SENTID: 4
+SENT: I would top with the other half .
+PREDID: 249
+PRED: top
+   DOBJ: NULL
+   PARG: the other half
+     PREP: with
+      NON-INGREDIENT SPAN: the other half
+
+
+SENTID: 5
+SENT: I would melt butter over medium heat in a large skillet or griddle .
+PREDID: 269
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: medium heat in a large skillet or griddle
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat in a large skillet or griddle
+
+
+SENTID: 6
+SENT: I would dip bread into egg mixture , coating thoroughly .
+PREDID: 318
+PRED: dip
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: egg mixture , coating
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture 
+      NON-INGREDIENT SPAN:  coating
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 7
+SENT: I would cook until well-browned on both sides , about 5 minutes .
+PREDID: 359
+PRED: cook
+   DOBJ: NULL
+   PARG: well-browned on both sides , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: well-browned on both sides 
+
+
+SENTID: 8
+SENT: I would dust with confectioners ' sugar and nutmeg .
+PREDID: 406
+PRED: dust
+   DOBJ: NULL
+   PARG: confectioners ' sugar, nutmeg
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: nutmeg topping
+
+
+SENTID: 9
+SENT: I would serve immediately .
+PREDID: 443
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

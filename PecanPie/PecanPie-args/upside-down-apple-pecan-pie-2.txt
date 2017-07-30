@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would pREHEAT oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would cOMBINE pecans , melted butter and brown sugar in a 9-inch -LRB- 23cm -RRB- pie plate .
+PREDID: 38
+PRED: combine
+   DOBJ: pecans , melted butter, brown sugar
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: melted butter
+      INGREDIENT SPAN: pecans 
+         INGREDIENTS: pecans
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+   PARG: a 9-inch -lrb- 23cm -rrb- pie plate
+     PREP: in
+      INGREDIENT SPAN: a 9-inch -lrb- 23cm -rrb- pie plate
+         INGREDIENTS: Tenderflake Frozen Deep Dish Pie Shells defrosted
+
+
+SENTID: 2
+SENT: I would remove the first pie shell from the aluminum pie plate and place on top of the pecan mixture .
+PREDID: 101
+PRED: remove
+   DOBJ: the first pie shell
+      NON-INGREDIENT SPAN: the first pie shell
+   PARG: the aluminum pie plate
+     PREP: from
+      NON-INGREDIENT SPAN: the aluminum pie plate
+
+PREDID: 149
+PRED: place
+   DOBJ: NULL
+   PARG: top of the pecan mixture
+     PREP: on
+      NON-INGREDIENT SPAN: top of the pecan mixture
+
+
+SENTID: 3
+SENT: I would hEAT 3 tablespoons -LRB- 45 mL -RRB- of butter in a large skillet over medium-high heat .
+PREDID: 177
+PRED: heat
+   DOBJ: 3 tablespoons -LRB- 45 mL -RRB- of butter
+      INGREDIENT SPAN: 3 tablespoons -LRB- 45 mL -RRB- of butter
+         INGREDIENTS: butter divided
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 4
+SENT: I would add apples and cook , stirring for 2-3 minutes or until soft .
+PREDID: 242
+PRED: add
+   DOBJ: apples
+      INGREDIENT SPAN: apples
+         INGREDIENTS: apples peeled cored sliced
+
+PREDID: 254
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring for 2-3 minutes or until soft
+      NON-INGREDIENT SPAN: stirring for 2-3 minutes or until soft
+
+
+SENTID: 5
+SENT: I would stir in ginger , the cinnamon and brown sugar .
+PREDID: 292
+PRED: stir
+   DOBJ: NULL
+   PARG: ginger , the cinnamon, brown sugar
+     PREP: in
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  brown sugar
+      NON-INGREDIENT SPAN: ginger 
+
+
+SENTID: 6
+SENT: I would aRRANGE the apple mixture on top of the piecrust in the pan .
+PREDID: 327
+PRED: arrange
+   DOBJ: the apple mixture
+      NON-INGREDIENT SPAN: the apple mixture
+   PARG: top of the piecrust in the pan
+     PREP: on
+      NON-INGREDIENT SPAN: top of the piecrust in the pan
+
+
+SENTID: 7
+SENT: I would dot with butter .
+PREDID: 376
+PRED: dot
+   DOBJ: NULL
+   PARG: butter
+     PREP: with
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter divided
+
+
+SENTID: 8
+SENT: I would top the mixture with the second piecrust after removing it from the aluminum foil pan .
+PREDID: 390
+PRED: top
+   DOBJ: the mixture with the second piecrust
+      NON-INGREDIENT SPAN: the mixture with the second piecrust
+   PARG: removing it from the aluminum foil pan
+     PREP: after
+      NON-INGREDIENT SPAN: removing it from the aluminum foil pan
+
+
+SENTID: 9
+SENT: I would flute the edges of the piecrust and cut several slits in the top to allow steam to escape .
+PREDID: 462
+PRED: flute
+   DOBJ: the edges of the piecrust
+      NON-INGREDIENT SPAN: the edges of the piecrust
+
+PREDID: 491
+PRED: cut
+   DOBJ: several slits
+      NON-INGREDIENT SPAN: several slits
+   PARG: the top to allow steam to escape
+     PREP: in
+      NON-INGREDIENT SPAN: the top to allow steam to escape
+
+
+SENTID: 10
+SENT: I would bAKE pie on the middle rack of the preheated oven .
+PREDID: 535
+PRED: bake
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: the middle rack of the preheated oven
+     PREP: on
+      NON-INGREDIENT SPAN: the middle rack of the preheated oven
+
+
+SENTID: 11
+SENT: I would place aluminum foil under the pie plate in case the filling bubbles over .
+
+SENTID: 12
+SENT: I would bake for 35-40 minutes or until golden brown .
+PREDID: 637
+PRED: bake
+   DOBJ: NULL
+   PARG: 35-40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35-40 minutes
+
+
+SENTID: 13
+SENT: I would remove from the oven and immediately invert the pie onto a serving plate .
+PREDID: 675
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 706
+PRED: invert
+   DOBJ: the pie
+      NON-INGREDIENT SPAN: the pie
+   PARG: a serving plate
+     PREP: onto
+      NON-INGREDIENT SPAN: a serving plate
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

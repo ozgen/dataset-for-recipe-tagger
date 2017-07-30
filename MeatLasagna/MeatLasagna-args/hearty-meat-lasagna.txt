@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 180 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 180 degrees C
+
+
+SENTID: 1
+SENT: I would heat oil in a large saucepan or Dutch oven set over medium heat .
+PREDID: 41
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large saucepan or dutch oven set over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan or dutch oven set over medium heat
+
+
+SENTID: 2
+SENT: I would add onion , green pepper , garlic and dried herbs ;
+PREDID: 93
+PRED: add
+   DOBJ: onion , green pepper , garlic, dried herbs
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onions peeled chopped
+      INGREDIENT SPAN:  dried herbs
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper chopped
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 3
+SENT: I would cook for 5 to 10 minutes or until vegetables soften .
+PREDID: 134
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 to 10 minutes or until vegetables soften
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes or until vegetables soften
+
+
+SENTID: 4
+SENT: I would crumble in beef and pork and brown all over , about 5 minutes .
+PREDID: 177
+PRED: crumble
+   DOBJ: NULL
+   PARG: beef, pork
+     PREP: in
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  pork
+         INGREDIENTS: lean ground pork veal crumbled sausage
+
+PREDID: 200
+PRED: brown
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would stir in tomato juice , chili sauce , tomato paste and Worcestershire Sauce ;
+PREDID: 227
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato juice , chili sauce , tomato paste, worcestershire sauce
+     PREP: in
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: Heinz Worcestershire Sauce, ml bottle Heinz Chili Sauce Chunky Sweet Peppers
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: Heinz Worcestershire Sauce, ml bottle Heinz Chili Sauce Chunky Sweet Peppers
+      INGREDIENT SPAN: tomato juice 
+         INGREDIENTS: Heinz Tomato Juice, ml Heinz Tomato Paste
+      INGREDIENT SPAN: tomato juice 
+         INGREDIENTS: Heinz Tomato Juice, ml Heinz Tomato Paste
+      NON-INGREDIENT SPAN:  worcestershire sauce
+      NON-INGREDIENT SPAN:  tomato paste
+
+
+SENTID: 6
+SENT: I would bring to a boil .
+PREDID: 290
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would reduce heat to medium-low and simmer for 10 minutes .
+PREDID: 303
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 8
+SENT: I would spread 1/4 of the sauce in to a 13 - x 9-in -LRB- 3 L -RRB- casserole dish .
+PREDID: 347
+PRED: spread
+   DOBJ: 1/4 of the sauce in to a 13 - x 9-in -LRB- 3 L -RRB- casserole dish
+      NON-INGREDIENT SPAN: 1/4 of the sauce in to a 13 - x 9-in -LRB- 3 L -RRB- casserole dish
+
+
+SENTID: 9
+SENT: I would top with 3 noodles .
+PREDID: 397
+PRED: top
+   DOBJ: NULL
+   PARG: 3 noodles
+     PREP: with
+      INGREDIENT SPAN: 3 noodles
+         INGREDIENTS: ovenready lasagna noodles
+
+
+SENTID: 10
+SENT: I would layer with 1/4 more sauce and 1/3 of the cheese .
+PREDID: 413
+PRED: layer
+   DOBJ: NULL
+   PARG: 1/4 more sauce, 1/3 of the cheese
+     PREP: with
+      INGREDIENT SPAN:  1/3 of the cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN: 1/4 more sauce
+
+
+SENTID: 11
+SENT: I would repeat layers twice , ending with cheese .
+PREDID: 452
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice
+      NON-INGREDIENT SPAN: twice
+   OARG: ending with cheese
+      INGREDIENT SPAN: ending with cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 12
+SENT: I would cover with foil and bake for 1 hour .
+PREDID: 487
+PRED: cover
+   DOBJ: NULL
+   PARG: foil, bake
+     PREP: with
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: foil
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 13
+SENT: I would remove foil and bake for 15 minutes or until golden .
+PREDID: 516
+PRED: remove
+   DOBJ: foil, bake
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: foil
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 14
+SENT: I would let stand for 10 minutes before serving .
+PREDID: 559
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

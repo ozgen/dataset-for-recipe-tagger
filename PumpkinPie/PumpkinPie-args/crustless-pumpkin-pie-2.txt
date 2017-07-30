@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9-inch pie dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9-inch pie dish
+      INGREDIENT SPAN: a 9-inch pie dish
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 2
+SENT: I would combine sweetener and almond flour in a large bowl ;
+PREDID: 59
+PRED: combine
+   DOBJ: sweetener, almond flour
+      INGREDIENT SPAN: sweetener
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN:  almond flour
+         INGREDIENTS: almond flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would beat in eggs until well mixed .
+PREDID: 102
+PRED: beat
+   DOBJ: NULL
+   PARG: eggs
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 4
+SENT: I would stir in pumpkin , half-and-half , vanilla extract , and pumpkin pie spice until smooth .
+PREDID: 127
+PRED: stir
+   DOBJ: NULL
+   PARG: pumpkin , half-and-half , vanilla extract , pumpkin pie spice
+     PREP: in
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  half-and-half 
+         INGREDIENTS: half-and-half
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN:  pumpkin pie spice
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would pour pumpkin mixture into prepared pie dish .
+PREDID: 200
+PRED: pour
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: prepared pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pie dish
+
+
+SENTID: 6
+SENT: I would place pie dish into a large baking pan ;
+PREDID: 238
+PRED: place
+   DOBJ: pie dish
+      NON-INGREDIENT SPAN: pie dish
+   PARG: a large baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a large baking pan
+
+
+SENTID: 7
+SENT: I would fill the baking pan with about 1/2 inch hot water .
+PREDID: 270
+PRED: fill inch
+   DOBJ: hot water, the baking pan with about 1/2
+      INGREDIENT SPAN: hot water
+         INGREDIENTS: hot water needed
+      NON-INGREDIENT SPAN:  the baking pan with about 1/2
+
+
+SENTID: 8
+SENT: I would bake in preheated oven until a knife inserted into the center of the pie comes out clean , 50 to 55 minutes .
+PREDID: 308
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: a knife inserted into the center of the pie comes out clean , 50 to 55 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a knife inserted into the center of the pie comes out clean 
+      NON-INGREDIENT SPAN:  50 to 55 minutes
+
+

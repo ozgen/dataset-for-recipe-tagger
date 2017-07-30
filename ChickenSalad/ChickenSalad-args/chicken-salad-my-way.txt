@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would place the 1-inch piece of ginger and star anise in a pot of water over medium-heat and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: the 1-inch piece of ginger, star anise
+      INGREDIENT SPAN: the 1-inch piece of ginger
+         INGREDIENTS: inch fresh ginger root
+      INGREDIENT SPAN:  star anise
+         INGREDIENTS: star anise pod
+   PARG: a pot of water
+     PREP: in
+      NON-INGREDIENT SPAN: a pot of water
+   PARG: medium-heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-heat
+
+PREDID: 70
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add chicken to the water .
+PREDID: 83
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the water
+     PREP: to
+      NON-INGREDIENT SPAN: the water
+
+
+SENTID: 2
+SENT: I would lower heat to medium-low ;
+PREDID: 104
+PRED: lower
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 3
+SENT: I would simmer until chicken is no longer pink the middle , 10 to 12 minutes .
+
+SENTID: 4
+SENT: I would remove to a plate to cool .
+PREDID: 126
+PRED: remove
+   DOBJ: NULL
+   PARG: a plate to cool
+     PREP: to
+      NON-INGREDIENT SPAN: a plate to cool
+
+
+SENTID: 5
+SENT: Once cool to the touch , I would dice into bite-sized pieces .
+PREDID: 166
+PRED: dice
+   DOBJ: NULL
+   PARG: cool to the touch
+     PREP: once
+      NON-INGREDIENT SPAN: cool to the touch
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 6
+SENT: I would make a dressing by whisking together the mayonnaise , the salt , the pepper , the paprika , and honey ;
+PREDID: 191
+PRED: make
+   DOBJ: a dressing
+      NON-INGREDIENT SPAN: a dressing
+   PARG: whisking together the mayonnaise , the salt , the pepper , the paprika , honey
+     PREP: by
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN: whisking together the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 265
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would combine the diced chicken , the celery , the apple , the onion , the raisins , the walnuts and 2 teaspoons minced ginger in a bowl .
+PREDID: 274
+PRED: combine
+   DOBJ: the diced chicken , the celery , the apple , the onion , the raisins , the walnuts, 2 teaspoons minced ginger
+      INGREDIENT SPAN:  2 teaspoons minced ginger
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: chopped raisins
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: diced apples
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      NON-INGREDIENT SPAN: the diced chicken 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 9
+SENT: I would drizzle the dressing into the chicken mixture ;
+PREDID: 364
+PRED: drizzle
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: the chicken mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken mixture
+
+
+SENTID: 10
+SENT: I would stir until pieces are evenly coated .
+PREDID: 401
+PRED: stir
+   DOBJ: NULL
+   PARG: pieces are evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: pieces are evenly coated
+
+
+SENTID: 11
+SENT: I would cover and refrigerate overnight .
+PREDID: 432
+PRED: cover and refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

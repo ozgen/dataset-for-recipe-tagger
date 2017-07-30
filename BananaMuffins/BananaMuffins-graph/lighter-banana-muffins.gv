@@ -1,0 +1,50 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease or line (S1,P45)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine (S2,P84)", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix (S3,P122)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P163)", shape=oval, style=filled, fillcolor=azure]
+E5[label="fold (S5,P197)", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour (S6,P220)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S7,P253)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: 10 muffin cups", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: eggs, very ripe bananas
+(text: eggs, bananas)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a medium bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D3_ing[label="DOBJ: white sugar, all-purpose flour, baking soda, salt
+(text:  salt , flour ,  sugar,  baking soda)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT: in a separate bowl"]
+O3_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+D4_0[label="DOBJ: banana mixture", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: into flour mixture"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_0[label="PREP: in walnuts", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+O5_0_0[label="OTHER: if desired", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E6 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in preheated oven for 20 to 25 minutes "]
+P7_0_1[label="PREP: in  or until a toothpick inserted into center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+P7_0_1 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

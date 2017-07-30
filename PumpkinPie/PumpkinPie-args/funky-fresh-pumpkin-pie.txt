@@ -1,0 +1,188 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would press pie crust into a 9-inch pie pan .
+PREDID: 38
+PRED: press
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: pastry 9-inch pie crust
+   PARG: a 9-inch pie pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9-inch pie pan
+
+
+SENTID: 2
+SENT: I would whisk pumpkin , sweetened condensed milk , and eggs together in a bowl until smooth , about 30 seconds .
+PREDID: 69
+PRED: whisk
+   DOBJ: pumpkin , sweetened condensed milk , eggs
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: peeled chopped pumpkin
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth , about 30 seconds
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 seconds
+      NON-INGREDIENT SPAN: smooth 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add light brown sugar , the nutmeg , the cinnamon , and ginger ;
+PREDID: 154
+PRED: add
+   DOBJ: light brown sugar , the nutmeg , the cinnamon , ginger
+      INGREDIENT SPAN: light brown sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 4
+SENT: I would whisk until evenly combined .
+PREDID: 199
+PRED: whisk
+   DOBJ: NULL
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+
+SENTID: 5
+SENT: I would pour mixture into prepared pie crust .
+PREDID: 224
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: prepared pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pie crust
+
+
+SENTID: 6
+SENT: I would sprinkle pecans over filling .
+PREDID: 256
+PRED: sprinkle
+   DOBJ: pecans
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+   PARG: filling
+     PREP: over
+      NON-INGREDIENT SPAN: filling
+
+
+SENTID: 7
+SENT: I would place pie on a baking sheet and cover pie with a sheet of aluminum foil .
+PREDID: 282
+PRED: place
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 307
+PRED: cover
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: a sheet of aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: a sheet of aluminum foil
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven for 15 minutes .
+PREDID: 340
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 9
+SENT: I would reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- and remove aluminum foil .
+PREDID: 375
+PRED: reduce
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 429
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 10
+SENT: I would roll aluminum foil into a flattened tube-shape and cover crust with aluminum foil .
+PREDID: 440
+PRED: roll
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+   PARG: a flattened tube-shape
+     PREP: into
+      NON-INGREDIENT SPAN: a flattened tube-shape
+
+PREDID: 483
+PRED: cover
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 11
+SENT: I would bake for 30 minutes .
+PREDID: 510
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 12
+SENT: I would remove aluminum foil and bake until pie is set in the middle and crust is lightly browned , about 5 more minutes .
+PREDID: 527
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 548
+PRED: bake
+   DOBJ: NULL
+   PARG: pie is set in the middle
+     PREP: until
+      NON-INGREDIENT SPAN: pie is set in the middle
+
+PREDID: 593
+PRED: is browned
+   DOBJ: NULL
+   PARG: 5 more minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 more minutes
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

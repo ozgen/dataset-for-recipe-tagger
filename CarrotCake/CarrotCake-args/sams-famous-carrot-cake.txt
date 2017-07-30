@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour an 8x12 inch pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: an 8x12 inch pan
+      NON-INGREDIENT SPAN: an 8x12 inch pan
+
+
+SENTID: 2
+SENT: In a medium bowl , I would sift together flour , baking soda , the salt and cinnamon .
+PREDID: 80
+PRED: sift
+   DOBJ: flour , baking soda , the salt, cinnamon
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 125
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine eggs , the buttermilk , the oil , the sugar and vanilla .
+PREDID: 147
+PRED: combine
+   DOBJ: eggs , the buttermilk , the oil , the sugar, vanilla
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would mix well .
+PREDID: 190
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would add flour mixture and mix well .
+PREDID: 198
+PRED: add
+   DOBJ: flour mixture, mix
+      NON-INGREDIENT SPAN: flour mixture
+      NON-INGREDIENT SPAN:  mix
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: In a medium bowl , I would combine shredded carrots , the coconut , the walnuts , the pineapple and raisins .
+PREDID: 238
+PRED: combine
+   DOBJ: shredded carrots , the coconut , the walnuts , the pineapple, raisins
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: shredded carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  the pineapple
+         INGREDIENTS: ounce crushed pineapple juice
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: flaked coconut
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 8
+SENT: Using a large wooden spoon or a very heavy whisk , add carrot mixture to batter and fold in well .
+PREDID: 344
+PRED: add
+   DOBJ: carrot mixture
+      NON-INGREDIENT SPAN: carrot mixture
+   PARG: well
+     PREP: in
+      NON-INGREDIENT SPAN: well
+   OARG: to batter, fold
+      NON-INGREDIENT SPAN: to batter
+      NON-INGREDIENT SPAN:  fold
+
+
+SENTID: 9
+SENT: I would pour into prepared 8x12 inch pan , and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour .
+PREDID: 375
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared 8x12 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared 8x12 inch pan
+
+PREDID: 406
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 10
+SENT: I would check with toothpick .
+PREDID: 445
+PRED: check
+   DOBJ: NULL
+   PARG: toothpick
+     PREP: with
+      NON-INGREDIENT SPAN: toothpick
+
+
+SENTID: 11
+SENT: I would allow to cool for at least 20 minutes before serving .
+PREDID: 464
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool for at least 20 minutes before serving
+      NON-INGREDIENT SPAN: to cool for at least 20 minutes before serving
+
+

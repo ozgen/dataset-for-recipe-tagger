@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: I would bake sweet potatoes until tender , the peel and mash .
+PREDID: 0
+PRED: bake
+   DOBJ: sweet potatoes
+      INGREDIENT SPAN: sweet potatoes
+         INGREDIENTS: cooked mashed sweet potatoes
+   PARG: tender , the peel, mash
+     PREP: until
+      NON-INGREDIENT SPAN:  the peel
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  mash
+
+
+SENTID: 1
+SENT: I would make sure all lumps are removed , straining if necessary .
+PREDID: 41
+PRED: make
+   DOBJ: NULL
+   OARG: sure all lumps are removed , straining if necessary
+      NON-INGREDIENT SPAN: sure all lumps are removed 
+      NON-INGREDIENT SPAN:  straining if necessary
+
+PREDID: 57
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would lightly beat eggs .
+PREDID: 96
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 3
+SENT: I would blend together eggs and sweet potatoes .
+PREDID: 105
+PRED: blend
+   DOBJ: eggs, sweet potatoes
+      NON-INGREDIENT SPAN: eggs
+      NON-INGREDIENT SPAN:  sweet potatoes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in sugar , the salt , the cinnamon , the ginger , and cloves .
+PREDID: 139
+PRED: stir
+   DOBJ: NULL
+   PARG: sugar , the salt , the cinnamon , the ginger , cloves
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: I would blend in cream .
+PREDID: 182
+PRED: blend
+   DOBJ: NULL
+   PARG: cream
+     PREP: in
+      INGREDIENT SPAN: cream
+         INGREDIENTS: light cream
+
+
+SENTID: 6
+SENT: I would pour into pie shell .
+PREDID: 195
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 7
+SENT: I would bake in preheated oven at 400 degrees F -LRB- 205 degrees C -RRB- 45-55 minutes or until knife inserted halfway between center and edge of pie comes out clean .
+PREDID: 212
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven at 400 degrees f -lrb- 205 degrees c -rrb- 45-55 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven at 400 degrees f -lrb- 205 degrees c -rrb- 45-55 minutes
+   OARG: edge of pie comes out clean
+      NON-INGREDIENT SPAN: edge of pie comes out clean
+
+
+SENTID: 8
+SENT: I would cool completely on rack .
+PREDID: 335
+PRED: cool
+   DOBJ: NULL
+   PARG: rack
+     PREP: on
+      NON-INGREDIENT SPAN: rack
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 9
+SENT: To make Caramelized Pecan Topping :
+
+SENTID: 10
+SENT: I would combine butter or margarine , brown sugar , and pecans .
+PREDID: 386
+PRED: combine
+   DOBJ: butter or margarine , brown sugar , pecans
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN: butter or margarine 
+         INGREDIENTS: butter softened
+
+
+SENTID: 11
+SENT: I would gently drop by spoonfuls over cooled pie to cover top .
+PREDID: 438
+PRED: drop
+   DOBJ: NULL
+   PARG: spoonfuls over cooled pie
+     PREP: by
+      NON-INGREDIENT SPAN: spoonfuls over cooled pie
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to cover top
+      NON-INGREDIENT SPAN: to cover top
+
+
+SENTID: 12
+SENT: I would broil 5 inches below heat until mixture begins to bubble , about 3 minutes .
+PREDID: 477
+PRED: broil
+   DOBJ: 5 inches
+      NON-INGREDIENT SPAN: 5 inches
+   PARG: heat
+     PREP: below
+      NON-INGREDIENT SPAN: heat
+   PARG: mixture begins to bubble , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: mixture begins to bubble 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 13
+SENT: I would watch carefully , if cooked too long , top will turn syrupy .
+PREDID: 539
+PRED: watch turn
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: cooked too long
+     PREP: if
+      NON-INGREDIENT SPAN: cooked too long
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: will
+      NON-INGREDIENT SPAN: will
+   OARG: syrupy
+      NON-INGREDIENT SPAN: syrupy
+
+
+SENTID: 14
+SENT: I would cool on rack .
+PREDID: 588
+PRED: cool
+   DOBJ: NULL
+   PARG: rack
+     PREP: on
+      NON-INGREDIENT SPAN: rack
+
+

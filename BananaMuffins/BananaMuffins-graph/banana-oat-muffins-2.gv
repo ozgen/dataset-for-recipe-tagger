@@ -1,0 +1,111 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="place (S2,P84)", shape=oval, style=filled, fillcolor=azure]
+E3[label="process (S2,P122)", shape=oval, style=filled, fillcolor=azure]
+E4[label="combine (S3,P154)", shape=oval, style=filled, fillcolor=azure]
+E5[label="cream (S4,P263)", shape=oval, style=filled, fillcolor=azure]
+E6[label="beat (S5,P313)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S5,P341)", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir (S6,P367)", shape=oval, style=filled, fillcolor=azure]
+E9[label="mix (S7,P383)", shape=oval, style=filled, fillcolor=azure]
+E10[label="spoon (S8,P417)", shape=oval, style=filled, fillcolor=azure]
+E11[label="combine (S10,P478)", shape=oval, style=filled, fillcolor=azure]
+E12[label="cut (S11,P522)", shape=oval, style=filled, fillcolor=azure]
+E13[label="stir (S12,P567)", shape=oval, style=filled, fillcolor=azure]
+E14[label="sprinkle (S13,P604)", shape=oval, style=filled, fillcolor=azure]
+E15[label="bake (S14,P631)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: 12 muffin cups or line", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper muffin liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D2[label="DOBJ: rolled oats
+(text: 1 cup rolled oats in a food processor)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D11[label="DOBJ: white sugar
+(text: 1/3 cup rolled oats , brown sugar , cinnamon)", shape=box, style=filled, fillcolor=peachpuff]
+D11 -> E11
+P11_0[label="PREP: in a small bowl", shape=box, style=filled, fillcolor=white]
+P11_0 -> E11
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: until ground", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: ground oats"]
+P4_0_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_1_ing[label="PREP: with baking powder, ground cinnamon, chopped walnuts, all-purpose flour, salt
+(text: with  salt,  baking powder , flour ,  chopped walnuts ,  cinnamon)", shape=box, style=filled, fillcolor=peachpuff]
+P4_1_ing -> E4
+P4_1_0[label="PREP: with  1 tablespoon rolled oats ", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+D5_ing[label="DOBJ: brown sugar, butter
+(text:  sugar, the butter)", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="OUTPUT: 
+INPUT: in a separate bowl"]
+P5_1_0[label="PREP: until  fluffy", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+P5_1_1[label="PREP: until light", shape=box, style=filled, fillcolor=white]
+P5_1_1 -> E5
+O5_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: in eggs
+(text: in the eggs one)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+P6_1_0[label="PREP: at a time", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in vanilla extract, mashed ripe banana
+(text: in the banana,  vanilla)", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+O7_0_0[label="OTHER: then", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_ing[label="PREP: in sour cream
+(text: in sour cream)", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: oat/flour mixture"]
+P9_0_0[label="PREP: into egg mixture", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E10 [label="OUTPUT: 
+INPUT: into prepared muffin pans"]
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+P12_0_0[label="PREP: in butter", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+O12_0_0[label="OTHER: until mixture resembles coarse crumbs", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="OUTPUT: 
+INPUT: "]
+P13_0_0[label="PREP: in 1/4 cup chopped walnuts", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+E10 -> E14 [label="OUTPUT: 
+INPUT: muffins"]
+E13 -> E14 [label="OUTPUT: 
+INPUT: with topping"]
+O14_0_0[label="OTHER: generously", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+E14 -> E15 [label="OUTPUT: 
+INPUT: "]
+E0 -> E15 [label="OUTPUT: 
+INPUT: in preheated oven"]
+P15_1_0[label="PREP: for 25 to 30 minutes", shape=box, style=filled, fillcolor=white]
+P15_1_0 -> E15
+O15_0_0[label="OTHER: until golden brown", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+O15_0_1[label="OTHER:  a toothpick inserted into a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+O15_0_1 -> E15
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

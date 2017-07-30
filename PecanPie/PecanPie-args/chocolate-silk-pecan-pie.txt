@@ -1,0 +1,245 @@
+SENTID: 0
+SENT: I would heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would place pie crust in 9-inch glass pie plate as directed on box for One-Crust Filled Pie .
+PREDID: 22
+PRED: place
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: Pillsbury refrigerated pie crust softened directed box
+   PARG: 9-inch glass pie plate
+     PREP: in
+      NON-INGREDIENT SPAN: 9-inch glass pie plate
+   PARG: directed on box for one-crust filled pie
+     PREP: as
+      NON-INGREDIENT SPAN: directed on box for one-crust filled pie
+
+
+SENTID: 2
+SENT: In small bowl , I would beat eggs with electric mixer on medium speed until well blended .
+PREDID: 105
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+   PARG: electric mixer on medium speed
+     PREP: with
+      NON-INGREDIENT SPAN: electric mixer on medium speed
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 3
+SENT: I would add granulated sugar , corn syrup , the butter and salt ;
+PREDID: 160
+PRED: add
+   DOBJ: granulated sugar , corn syrup , the butter, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter margarine melted
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: granulated sugar 
+         INGREDIENTS: powdered sugar
+
+
+SENTID: 4
+SENT: I would beat 1 minute .
+PREDID: 203
+PRED: beat
+   DOBJ: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 5
+SENT: I would stir in pecans .
+PREDID: 215
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 6
+SENT: I would pour into crust-lined pie plate .
+PREDID: 228
+PRED: pour
+   DOBJ: NULL
+   PARG: crust-lined pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: crust-lined pie plate
+
+
+SENTID: 7
+SENT: I would cover crust edge with 2 - to 3-inch-wide strips of foil to prevent excessive browning ;
+PREDID: 256
+PRED: cover
+   DOBJ: crust edge with 2 - to 3-inch-wide strips of foil
+      NON-INGREDIENT SPAN: crust edge with 2 - to 3-inch-wide strips of foil
+   OARG: to prevent excessive browning
+      NON-INGREDIENT SPAN: to prevent excessive browning
+
+
+SENTID: 8
+SENT: I would remove foil during last 15 minutes of bake time .
+PREDID: 328
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+   PARG: last 15 minutes of bake time
+     PREP: during
+      NON-INGREDIENT SPAN: last 15 minutes of bake time
+
+
+SENTID: 9
+SENT: I would bake 40 to 55 minutes or until center of pie is puffed and golden brown .
+PREDID: 368
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 to 55 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 to 55 minutes
+   PARG: center of pie is puffed, golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: center of pie is puffed
+      NON-INGREDIENT SPAN:  golden brown
+
+
+SENTID: 10
+SENT: I would cool 1 hour .
+PREDID: 426
+PRED: cool
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 11
+SENT: I would meanwhile , in blender or food processor , place chocolate filling ingredients .
+PREDID: 471
+PRED: place
+   DOBJ: chocolate filling ingredients
+      INGREDIENT SPAN: chocolate filling ingredients
+         INGREDIENTS: ounce bag semisweet chocolate chips
+   PARG: blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: blender or food processor
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 12
+SENT: I would cover ;
+PREDID: 504
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 13
+SENT: I would blend about 1 minute or until smooth .
+PREDID: 510
+PRED: blend
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: about
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 14
+SENT: Refrigerate until mixture is slightly thickened but not set , about 1 hour 30 minutes .
+
+SENTID: 15
+SENT: I would gently stir chocolate filling ;
+PREDID: 547
+PRED: stir
+   DOBJ: chocolate filling
+      INGREDIENT SPAN: chocolate filling
+         INGREDIENTS: Chocolate curls
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 16
+SENT: I would pour over cooled pecan filling in crust .
+PREDID: 568
+PRED: pour
+   DOBJ: cooled pecan filling in crust
+      NON-INGREDIENT SPAN: cooled pecan filling in crust
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 17
+SENT: I would refrigerate at least 1 hour or until firm before serving .
+PREDID: 602
+PRED: refrigerate
+   DOBJ: hour
+      NON-INGREDIENT SPAN: hour
+   PARG: least 1
+     PREP: at
+      NON-INGREDIENT SPAN: least 1
+   PARG: until firm before serving
+     PREP: or
+      NON-INGREDIENT SPAN: until firm before serving
+
+
+SENTID: 18
+SENT: I would just before serving , in small bowl , beat whipping cream , powdered sugar and 1/4 teaspoon vanilla with mixer on high speed until stiff peaks form .
+PREDID: 680
+PRED: beat
+   DOBJ: whipping cream , powdered sugar, 1/4 teaspoon vanilla with mixer on high speed until stiff peaks form
+      INGREDIENT SPAN:  powdered sugar
+         INGREDIENTS: granulated sugar
+      INGREDIENT SPAN:  1/4 teaspoon vanilla with mixer on high speed until stiff peaks form
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: whipping cream 
+         INGREDIENTS: whipping cream
+   OARG: just before serving , in small bowl
+      NON-INGREDIENT SPAN: just before serving 
+      NON-INGREDIENT SPAN:  in small bowl
+
+
+SENTID: 19
+SENT: I would spoon or pipe whipped cream over filling .
+PREDID: 772
+PRED: spoon or pipe
+   DOBJ: whipped cream
+      NON-INGREDIENT SPAN: whipped cream
+   PARG: filling
+     PREP: over
+      NON-INGREDIENT SPAN: filling
+
+
+SENTID: 20
+SENT: I would garnish with chocolate curls .
+PREDID: 807
+PRED: garnish
+   DOBJ: NULL
+   PARG: chocolate curls
+     PREP: with
+      NON-INGREDIENT SPAN: chocolate curls
+
+
+SENTID: 21
+SENT: I would cover and refrigerate any remaining pie .
+PREDID: 833
+PRED: cover and refrigerate
+   DOBJ: any remaining pie
+      NON-INGREDIENT SPAN: any remaining pie
+
+

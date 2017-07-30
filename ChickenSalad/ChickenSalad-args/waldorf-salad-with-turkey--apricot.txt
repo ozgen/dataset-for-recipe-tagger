@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would combine all dressing ingredients ;
+PREDID: 0
+PRED: combine
+   DOBJ: NULL
+   OARG: all dressing ingredients
+      NON-INGREDIENT SPAN: all dressing ingredients
+
+
+SENTID: 1
+SENT: I would stir until well blended .
+PREDID: 30
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would add turkey or chicken , the apples , the celery and raisins .
+PREDID: 51
+PRED: add
+   DOBJ: turkey or chicken , the apples , the celery, raisins
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: diced unpeeled red apple 1/2inch pieces
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: diced celery 1/4inch pieces
+      INGREDIENT SPAN: turkey or chicken 
+         INGREDIENTS: boneless skinless turkey chicken cooked cubed
+
+
+SENTID: 3
+SENT: I would toss to coat the salad ingredients .
+PREDID: 94
+PRED: toss
+   DOBJ: NULL
+   OARG: to coat the salad ingredients
+      NON-INGREDIENT SPAN: to coat the salad ingredients
+
+
+SENTID: 4
+SENT: I would season with additional salt and pepper , if desired .
+PREDID: 124
+PRED: season
+   DOBJ: NULL
+   PARG: additional salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground pepper
+      INGREDIENT SPAN: additional salt
+         INGREDIENTS: salt
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 5
+SENT: I would place lettuce leaf on each of 6 serving plates .
+PREDID: 168
+PRED: place
+   DOBJ: lettuce leaf
+      INGREDIENT SPAN: lettuce leaf
+         INGREDIENTS: lettuce leaves
+   PARG: each of 6 serving plates
+     PREP: on
+      NON-INGREDIENT SPAN: each of 6 serving plates
+
+
+SENTID: 6
+SENT: I would top each with mound of salad .
+PREDID: 207
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: mound of salad
+     PREP: with
+      NON-INGREDIENT SPAN: mound of salad
+
+
+SENTID: 7
+SENT: I would garnish each salad with chopped fresh parsley or chives .
+PREDID: 231
+PRED: garnish
+   DOBJ: each salad
+      NON-INGREDIENT SPAN: each salad
+   PARG: chopped fresh parsley or chives
+     PREP: with
+      INGREDIENT SPAN: chopped fresh parsley or chives
+         INGREDIENTS: chopped fresh parsley chives
+
+
+SENTID: 8
+SENT: I would deli turkey breast may be used in the recipe .
+PREDID: 279
+PRED: be deli used
+   DOBJ: NULL
+   PARG: the recipe
+     PREP: in
+      NON-INGREDIENT SPAN: the recipe
+   OARG: turkey breast
+      NON-INGREDIENT SPAN: turkey breast
+   OARG: may
+      NON-INGREDIENT SPAN: may
+
+
+SENTID: 9
+SENT: I would ask the deli to slice the turkey into 3/4 - or 1-inch slices ,
+PREDID: 316
+PRED: ask
+   DOBJ: the deli
+      NON-INGREDIENT SPAN: the deli
+   OARG: to slice the turkey into 3/4 - or 1-inch slices
+      NON-INGREDIENT SPAN: to slice the turkey into 3/4 - or 1-inch slices
+
+
+SENTID: 10
+SENT: I would cube the meat at home before adding to this salad .
+PREDID: 365
+PRED: cube
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: home
+     PREP: at
+      NON-INGREDIENT SPAN: home
+   PARG: adding to this salad
+     PREP: before
+      NON-INGREDIENT SPAN: adding to this salad
+
+

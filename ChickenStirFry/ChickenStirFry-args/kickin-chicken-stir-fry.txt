@@ -1,0 +1,174 @@
+SENTID: 0
+SENT: I would combine water , the salt , 2 tablespoons butter , and red chili peppers in a pot over medium-high heat .
+PREDID: 0
+PRED: combine
+   DOBJ: water , the salt , 2 tablespoons butter , red chili peppers
+      INGREDIENT SPAN:  red chili peppers
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  2 tablespoons butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+   PARG: a pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 81
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would stir in rice , cover , and lower heat to medium .
+PREDID: 94
+PRED: stir
+   DOBJ: NULL
+   PARG: rice
+     PREP: in
+      INGREDIENT SPAN: rice
+         INGREDIENTS: uncooked white rice
+
+PREDID: 114
+PRED: lower
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 3
+SENT: I would cook until rice is tender , 15 to 20 minutes , stirring occasionally .
+PREDID: 132
+PRED: cook
+   DOBJ: NULL
+   PARG: rice is tender , 15 to 20 minutes , stirring occasionally
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: rice is tender 
+      NON-INGREDIENT SPAN:  15 to 20 minutes 
+
+
+SENTID: 4
+SENT: I would heat sesame oil in a skillet or wok over medium heat .
+PREDID: 189
+PRED: heat
+   DOBJ: sesame oil
+      INGREDIENT SPAN: sesame oil
+         INGREDIENTS: sesame oil
+   PARG: a skillet or wok over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet or wok over medium heat
+
+
+SENTID: 5
+SENT: I would cook and stir garlic until fragrant , about 1 minute ;
+PREDID: 232
+PRED: cook and stir
+   DOBJ: garlic
+      NON-INGREDIENT SPAN: garlic
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 6
+SENT: I would pour in half the soy sauce .
+PREDID: 276
+PRED: pour
+   DOBJ: NULL
+   PARG: half the soy sauce
+     PREP: in
+      INGREDIENT SPAN: half the soy sauce
+         INGREDIENTS: soy sauce divided
+
+
+SENTID: 7
+SENT: I would cook and stir chicken , the basil , white pepper , dry mustard , and turmeric with garlic until chicken is browned , no longer pink in the center , and juices run clear , 5 to 8 minutes .
+PREDID: 298
+PRED: cook and stir
+   DOBJ: chicken , the basil , white pepper , dry mustard , turmeric
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry ground mustard
+      INGREDIENT SPAN:  white pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast half diced
+      NON-INGREDIENT SPAN:  turmeric
+   PARG: garlic
+     PREP: with
+      NON-INGREDIENT SPAN: garlic
+   PARG: chicken is browned , no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is browned 
+      NON-INGREDIENT SPAN:  no longer pink in the center
+   OARG: juices run clear , 5 to 8 minutes
+      INGREDIENT SPAN: juices run clear 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+
+
+SENTID: 8
+SENT: I would mix the remaining soy sauce into chicken mixture .
+PREDID: 443
+PRED: mix
+   DOBJ: the remaining soy sauce
+      NON-INGREDIENT SPAN: the remaining soy sauce
+   PARG: chicken mixture
+     PREP: into
+      NON-INGREDIENT SPAN: chicken mixture
+
+
+SENTID: 9
+SENT: I would cook and stir 1 tablespoon butter with broccoli , green pepper , red pepper , and onion in a separate skillet until tender , about 10 minutes .
+PREDID: 482
+PRED: cook and stir
+   DOBJ: 1 tablespoon butter with broccoli , green pepper , red pepper , onion
+      INGREDIENT SPAN: 1 tablespoon with broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN: 1 tablespoon butter with broccoli 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: diced red bell pepper
+      NON-INGREDIENT SPAN:  red pepper 
+   PARG: a separate skillet until tender , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: a separate skillet until tender 
+
+
+SENTID: 10
+SENT: I would stir lemon juice into vegetables .
+PREDID: 598
+PRED: stir
+   DOBJ: lemon juice
+      NON-INGREDIENT SPAN: lemon juice
+   PARG: vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: vegetables
+
+
+SENTID: 11
+SENT: I would toss vegetables with chicken .
+PREDID: 627
+PRED: toss
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   PARG: chicken
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+
+

@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: In a medium stock pot brown beef and onion , about 10 minutes ;
+PREDID: 24
+PRED: brown
+   DOBJ: NULL
+   PARG: a medium stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a medium stock pot
+   PARG: beef, onion , about 10 minutes
+     PREP: for
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  about 10 minutes
+
+
+SENTID: 1
+SENT: I would drain grease if needed .
+PREDID: 50
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: needed
+     PREP: if
+      NON-INGREDIENT SPAN: needed
+
+
+SENTID: 2
+SENT: I would add tomatoes , tomato sauce , the water , the beans , the corn and taco seasoning .
+PREDID: 70
+PRED: add
+   DOBJ: tomatoes , tomato sauce , the water , the beans , the corn, taco seasoning
+      INGREDIENT SPAN:  taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce pinto beans drained rinsed
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN: tomatoes 
+
+
+SENTID: 3
+SENT: Bring to boil , I would reduce heat and simmer for 5 minutes .
+PREDID: 139
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: bring to boil
+      NON-INGREDIENT SPAN: bring to boil
+
+
+SENTID: 4
+SENT: I would top with cheese , corn chips , sour cream and olives .
+PREDID: 170
+PRED: top
+   DOBJ: NULL
+   PARG: cheese , corn chips , sour cream, olives
+     PREP: with
+      NON-INGREDIENT SPAN:  sour cream
+      NON-INGREDIENT SPAN:  olives
+      NON-INGREDIENT SPAN: cheese 
+      NON-INGREDIENT SPAN:  corn chips 
+
+

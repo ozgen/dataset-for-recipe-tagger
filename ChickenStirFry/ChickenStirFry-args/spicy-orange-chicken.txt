@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: I would whisk orange juice , brown sugar , rice vinegar , fish sauce , soy sauce , the ginger , and crushed red pepper flakes in a large bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: orange juice , brown sugar , rice vinegar , fish sauce , soy sauce , the ginger , crushed red pepper flakes in a large bowl
+      INGREDIENT SPAN:  crushed red pepper flakes in a large bowl
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: fresh ginger root grated
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN: orange juice 
+         INGREDIENTS: orange juice
+
+
+SENTID: 1
+SENT: I would mix in chicken pieces and toss to evenly coat .
+PREDID: 104
+PRED: mix
+   DOBJ: NULL
+   PARG: chicken pieces
+     PREP: in
+      INGREDIENT SPAN: chicken pieces
+         INGREDIENTS: skinless boneless chicken thighs cut chunks
+
+PREDID: 125
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coat
+     PREP: to
+      NON-INGREDIENT SPAN: evenly coat
+
+
+SENTID: 2
+SENT: I would cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour .
+PREDID: 142
+PRED: cover
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 172
+PRED: marinate
+   DOBJ: NULL
+   PARG: the refrigerator for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for 1 hour
+
+
+SENTID: 3
+SENT: I would remove chicken from refrigerator and drain thoroughly in colander , reserving marinade .
+PREDID: 206
+PRED: remove
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken thighs cut chunks
+   PARG: refrigerator
+     PREP: from
+      NON-INGREDIENT SPAN: refrigerator
+
+PREDID: 238
+PRED: drain
+   DOBJ: NULL
+   PARG: colander
+     PREP: in
+      NON-INGREDIENT SPAN: colander
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+   OARG: reserving marinade
+      NON-INGREDIENT SPAN: reserving marinade
+
+
+SENTID: 4
+SENT: I would heat a large non-stick skillet over high heat .
+PREDID: 282
+PRED: heat
+   DOBJ: a large non-stick skillet
+      NON-INGREDIENT SPAN: a large non-stick skillet
+   PARG: high heat
+     PREP: over
+      NON-INGREDIENT SPAN: high heat
+
+
+SENTID: 5
+SENT: I would cook and stir chicken for 2 minutes ;
+PREDID: 321
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken for 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: chicken for 2 minutes
+
+
+SENTID: 6
+SENT: I would spoon out any excess liquid .
+PREDID: 351
+PRED: spoon
+   DOBJ: any excess liquid
+      NON-INGREDIENT SPAN: any excess liquid
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 7
+SENT: I would continue to cook and stir until chicken caramelizes , 6 to 7 minutes .
+PREDID: 375
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir until chicken caramelizes , 6 to 7 minutes
+      NON-INGREDIENT SPAN:  stir until chicken caramelizes 
+      NON-INGREDIENT SPAN: to cook
+      NON-INGREDIENT SPAN:  6 to 7 minutes
+
+
+SENTID: 8
+SENT: I would stir in white portions of green onions , the garlic , and orange zest ;
+PREDID: 432
+PRED: stir
+   DOBJ: NULL
+   PARG: white portions of green onions , the garlic , orange zest
+     PREP: in
+      INGREDIENT SPAN: white portions of green onions 
+         INGREDIENTS: bunch green onions sliced white parts tops separated
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  orange zest
+
+
+SENTID: 9
+SENT: I would cook and stir 2 to 3 minutes .
+PREDID: 486
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 2 to 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 minutes
+
+
+SENTID: 10
+SENT: I would pour in half of reserved marinade .
+PREDID: 509
+PRED: pour
+   DOBJ: NULL
+   PARG: half of reserved marinade
+     PREP: in
+      NON-INGREDIENT SPAN: half of reserved marinade
+
+
+SENTID: 11
+SENT: I would simmer until reduced and thickened , 3 to 4 minutes .
+PREDID: 538
+PRED: simmer
+   DOBJ: NULL
+   PARG: reduced, thickened , 3 to 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  thickened 
+      NON-INGREDIENT SPAN:  3 to 4 minutes
+      NON-INGREDIENT SPAN: reduced
+
+
+SENTID: 12
+SENT: I would stir in jalapeno pepper , bell pepper , and sugar snap peas ;
+PREDID: 581
+PRED: stir
+   DOBJ: NULL
+   PARG: jalapeno pepper , bell pepper , sugar snap peas
+     PREP: in
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper cut inch
+      INGREDIENT SPAN: jalapeno pepper 
+         INGREDIENTS: fresh jalapeno pepper sliced rings
+      INGREDIENT SPAN:  sugar snap peas
+         INGREDIENTS: sugar snap peas
+
+
+SENTID: 13
+SENT: I would cook and stir until vegetables are warmed , about 2 minutes .
+PREDID: 630
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: vegetables are warmed
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are warmed
+   PARG: 2 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 14
+SENT: I would stir in green portions of green onions ;
+PREDID: 680
+PRED: stir
+   DOBJ: NULL
+   PARG: green portions of green onions
+     PREP: in
+      NON-INGREDIENT SPAN: green portions of green onions
+
+
+SENTID: 15
+SENT: I would cook and stir 1 minute .
+PREDID: 713
+PRED: cook and stir
+   DOBJ: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 16
+SENT: I would remove from heat .
+PREDID: 732
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 17
+SENT: I would garnish with cilantro and serve .
+PREDID: 747
+PRED: garnish
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: bunch cilantro leaves garnish
+
+

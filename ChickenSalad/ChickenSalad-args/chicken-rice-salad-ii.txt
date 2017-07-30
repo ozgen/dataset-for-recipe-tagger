@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would bring the rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: the rice, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: uncooked white rice
+   PARG: a boil in a saucepan over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan over high heat
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , cover , and simmer until the rice is tender , and the liquid has been absorbed , 20 to 25 minutes .
+PREDID: 51
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 83
+PRED: simmer
+   DOBJ: NULL
+   PARG: the rice is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is tender
+
+PREDID: 129
+PRED: been has absorbed
+   DOBJ: NULL
+   PARG: 20 to 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 25 minutes
+
+
+SENTID: 2
+SENT: I would heat the vegetable oil in a large skillet over medium heat .
+PREDID: 152
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook the chicken breasts until no longer pink in the center and the juices run clear , about 25 minutes .
+PREDID: 201
+PRED: cook
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+   OARG: the juices run clear , about 25 minutes
+      NON-INGREDIENT SPAN: the juices run clear 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 4
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 5
+SENT: I would cut the chicken into bite size pieces .
+PREDID: 286
+PRED: cut
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+
+
+SENTID: 6
+SENT: I would toss chicken , the rice , and lettuce in a large bowl .
+PREDID: 318
+PRED: toss
+   DOBJ: chicken , the rice , lettuce in a large bowl
+      INGREDIENT SPAN:  lettuce in a large bowl
+         INGREDIENTS: head lettuce chopped
+      NON-INGREDIENT SPAN:  the rice 
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 7
+SENT: I would serve immediately .
+PREDID: 358
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would heat the oil in a large stock pot over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: canola oil
+   PARG: a large stock pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large stock pot over medium heat
+
+
+SENTID: 1
+SENT: I would crumble the beef and pork into the pot .
+PREDID: 41
+PRED: crumble
+   DOBJ: the beef, pork
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  pork
+         INGREDIENTS: ground pork
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 2
+SENT: I would cook , stirring frequently , until no longer pink .
+PREDID: 73
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently , until no longer pink
+      NON-INGREDIENT SPAN:  until no longer pink
+      NON-INGREDIENT SPAN: stirring frequently 
+
+
+SENTID: 3
+SENT: I would drain off the grease , leaving just a thin layer .
+PREDID: 115
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: leaving just a thin layer
+      NON-INGREDIENT SPAN: leaving just a thin layer
+
+
+SENTID: 4
+SENT: I would cook the onion , the garlic , bell pepper , and serrano pepper in the remaining oil until the onions soften , about 5 minutes .
+PREDID: 155
+PRED: cook
+   DOBJ: the onion , the garlic , bell pepper , serrano pepper
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  serrano pepper
+         INGREDIENTS: serrano peppers chopped
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: the remaining oil until the onions soften , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the remaining oil until the onions soften 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would add the lime juice , chili powder , cayenne pepper , black pepper , the salt , and 1?1/2 bottles of dark beer .
+PREDID: 254
+PRED: add
+   DOBJ: the lime juice , chili powder , cayenne pepper , black pepper , the salt , 1?1/2 bottles of dark beer
+      INGREDIENT SPAN:  1?1/2 bottles of dark beer
+         INGREDIENTS: ounce bottles dark beer
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  black pepper 
+
+
+SENTID: 6
+SENT: I would slowly add the last 1/2 bottle of beer while stirring .
+PREDID: 345
+PRED: add
+   DOBJ: the last 1/2 bottle of beer
+      NON-INGREDIENT SPAN: the last 1/2 bottle of beer
+   PARG: stirring
+     PREP: while
+      NON-INGREDIENT SPAN: stirring
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 7
+SENT: I would stir in the tomatoes and tomato juice .
+PREDID: 384
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomatoes, tomato juice
+     PREP: in
+      INGREDIENT SPAN:  tomato juice
+         INGREDIENTS: fluid tomato juice
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce diced tomatoes
+
+
+SENTID: 8
+SENT: I would reduce heat to low .
+PREDID: 416
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 9
+SENT: I would simmer 1 hour .
+PREDID: 432
+PRED: simmer
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

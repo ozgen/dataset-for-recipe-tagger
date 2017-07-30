@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and cool .
+PREDID: 121
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would chop potatoes and transfer into a large salad bowl .
+PREDID: 134
+PRED: chop
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 149
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 5
+SENT: I would place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 177
+PRED: place
+   DOBJ: the bacon in a large skillet
+      INGREDIENT SPAN: the bacon in a large skillet
+         INGREDIENTS: slices bacon
+
+PREDID: 208
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 6
+SENT: I would drain the bacon slices on paper towels .
+PREDID: 286
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 7
+SENT: I would crumble bacon when cool .
+PREDID: 319
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+
+SENTID: 8
+SENT: I would stir mayonnaise , crumbled bacon , the cucumber , red onion , 3 chopped eggs , the celery , 1/2 cup parsley , and 1 tablespoon paprika into the potatoes until thoroughly combined .
+PREDID: 340
+PRED: stir
+   DOBJ: mayonnaise , crumbled bacon , the cucumber , red onion , 3 chopped eggs , the celery , 1/2 cup parsley , 1 tablespoon paprika
+      INGREDIENT SPAN:  1/2 cup parsley 
+         INGREDIENTS: sprigs fresh parsley desired
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber chopped
+      INGREDIENT SPAN:  1 tablespoon paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery chopped
+      INGREDIENT SPAN:  3 chopped eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      NON-INGREDIENT SPAN:  crumbled bacon 
+   PARG: the potatoes
+     PREP: into
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 9
+SENT: I would season to taste with salt and black pepper .
+PREDID: 481
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 10
+SENT: I would garnish salad with slices of hard-cooked egg , 3 sprigs of fresh parsley , and a pinch of paprika .
+PREDID: 517
+PRED: garnish
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: slices of hard-cooked egg , 3 sprigs of fresh parsley , a pinch of paprika
+     PREP: with
+      INGREDIENT SPAN:  3 sprigs of fresh parsley 
+         INGREDIENTS: sprigs fresh parsley desired
+      INGREDIENT SPAN:  a pinch of paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN: slices of hard-cooked egg 
+         INGREDIENTS: hardcooked egg sliced
+
+

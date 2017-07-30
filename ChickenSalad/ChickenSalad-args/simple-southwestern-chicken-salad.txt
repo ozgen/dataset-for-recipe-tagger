@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: In a medium bowl , I would combine the chicken , the mayonnaise , the celery , the cilantro and seasoning mix .
+PREDID: 14
+PRED: combine
+   DOBJ: the chicken , the mayonnaise , the celery , the cilantro, seasoning mix
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  seasoning mix
+         INGREDIENTS: ounce package taco seasoning mix
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: chopped fresh cilantro taste
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked cubed
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 74
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would cover bowl and refrigerate for 1 hour .
+PREDID: 82
+PRED: cover
+   DOBJ: bowl, refrigerate
+      NON-INGREDIENT SPAN: bowl
+      NON-INGREDIENT SPAN:  refrigerate
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

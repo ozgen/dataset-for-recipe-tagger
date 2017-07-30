@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would melt butter in a 4-quart pot .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a 4-quart pot
+     PREP: in
+      NON-INGREDIENT SPAN: a 4-quart pot
+
+
+SENTID: 1
+SENT: I would add leeks -LRB- strips of the white and pale green parts only -RRB- and celery and cook over medium heat , stirring frequently , 5 to 7 minutes .
+PREDID: 24
+PRED: add
+   DOBJ: NULL
+   PARG: leeks -lrb- strips of the white, pale green parts only -rrb-, celery, cook over medium heat , stirring frequently , 5 to 7 minutes
+     PREP: for
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: celery rib sliced
+      INGREDIENT SPAN: leeks -lrb- strips of the white
+         INGREDIENTS: leeks halved lengthwise cut 1/8inchthick slices
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN:  cook over medium heat 
+      NON-INGREDIENT SPAN:  stirring frequently 
+      NON-INGREDIENT SPAN:  pale green parts only -rrb-
+
+
+SENTID: 2
+SENT: I would add potatoes and broth ;
+PREDID: 133
+PRED: add
+   DOBJ: potatoes, broth
+      INGREDIENT SPAN:  broth
+         INGREDIENTS: fluid chicken broth
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: russet potatoes washed quartered
+
+
+SENTID: 3
+SENT: I would cover and simmer until potatoes are almost tender , about 10 minutes .
+PREDID: 153
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: potatoes are almost tender , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: potatoes are almost tender 
+
+
+SENTID: 4
+SENT: I would stir in corn , the milk , the cream , the salt , and pepper , and nutmeg and cook until potatoes are very tender , about 10 minutes more .
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: corn , the milk , the cream , the salt , pepper , nutmeg
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cream 
+         INGREDIENTS: halfandhalf cream
+      INGREDIENT SPAN:  pepper 
+         INGREDIENTS: Pinch ground black pepper
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: Pinch nutmeg
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: corn
+
+PREDID: 269
+PRED: cook
+   DOBJ: NULL
+   PARG: potatoes are very tender , about 10 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes more
+      NON-INGREDIENT SPAN: potatoes are very tender 
+
+
+SENTID: 5
+SENT: I would meanwhile , brown ground sausage in a large skillet .
+PREDID: 320
+PRED: brown
+   DOBJ: ground sausage in a large skillet
+      INGREDIENT SPAN: ground sausage in a large skillet
+         INGREDIENTS: Hatfield Recipe Essentials Sweet Italian Sausage
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would remove sausage and grease from pot and reserve till later .
+PREDID: 354
+PRED: remove
+   DOBJ: sausage, grease
+      NON-INGREDIENT SPAN: sausage
+      NON-INGREDIENT SPAN:  grease
+   PARG: pot, reserve
+     PREP: from
+      NON-INGREDIENT SPAN:  reserve
+      NON-INGREDIENT SPAN: pot
+   PARG: later
+     PREP: till
+      NON-INGREDIENT SPAN: later
+
+
+SENTID: 7
+SENT: I would stir sausage into soup just before serving .
+PREDID: 403
+PRED: stir
+   DOBJ: sausage
+      NON-INGREDIENT SPAN: sausage
+   PARG: soup
+     PREP: into
+      NON-INGREDIENT SPAN: soup
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

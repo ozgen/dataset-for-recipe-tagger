@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would heat oil in a saucepan over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 1
+SENT: Stir-fry onions , mushrooms , and green pepper until soft but not brown .
+
+SENTID: 2
+SENT: I would add tomatoes , the stock , the pepperoni , and basil .
+PREDID: 33
+PRED: add
+   DOBJ: tomatoes , the stock , the pepperoni , basil
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the pepperoni 
+         INGREDIENTS: sliced pepperoni sausage
+      INGREDIENT SPAN:  the stock 
+         INGREDIENTS: beef stock
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+
+
+SENTID: 3
+SENT: I would cook until heated through .
+PREDID: 70
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 4
+SENT: I would sprinkle cheese over each bowl , and broil to melt .
+PREDID: 93
+PRED: sprinkle
+   DOBJ: cheese
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: each bowl
+     PREP: over
+      NON-INGREDIENT SPAN: each bowl
+
+PREDID: 123
+PRED: broil
+   DOBJ: NULL
+   OARG: to melt
+      NON-INGREDIENT SPAN: to melt
+
+

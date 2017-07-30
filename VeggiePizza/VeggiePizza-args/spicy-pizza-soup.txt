@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: In a large saucepan , I would place the hot Italian sausage , pepperoni sausage , green bell peppers , the onions , the mushrooms , diced tomatoes , tomato sauce , tomato paste and water .
+PREDID: 17
+PRED: place
+   DOBJ: the hot Italian sausage , pepperoni sausage , green bell peppers , the onions , the mushrooms , diced tomatoes , tomato sauce , tomato paste, water
+      INGREDIENT SPAN: the hot Italian sausage 
+         INGREDIENTS: hot Italian sausage sliced
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: crushed tomatoes garlic
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: chopped fresh mushrooms
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell peppers chopped
+      INGREDIENT SPAN:  pepperoni sausage 
+         INGREDIENTS: pepperoni sausage sliced
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 140
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would boil 30 minutes , reduce heat and simmer 90 minutes .
+PREDID: 153
+PRED: boil
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+PREDID: 167
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 180
+PRED: simmer
+   DOBJ: NULL
+   PARG: 90 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 90 minutes
+
+
+SENTID: 3
+SENT: During the final 15 minutes of cooking , I would stir in the elbow macaroni .
+PREDID: 229
+PRED: stir
+   DOBJ: NULL
+   PARG: the final 15 minutes of cooking
+     PREP: during
+      NON-INGREDIENT SPAN: the final 15 minutes of cooking
+   PARG: the elbow macaroni
+     PREP: in
+      INGREDIENT SPAN: the elbow macaroni
+         INGREDIENTS: uncooked elbow macaroni
+
+
+SENTID: 4
+SENT: I would top with mozzarella and serve .
+PREDID: 252
+PRED: top
+   DOBJ: NULL
+   PARG: mozzarella
+     PREP: with
+      INGREDIENT SPAN: mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+
+

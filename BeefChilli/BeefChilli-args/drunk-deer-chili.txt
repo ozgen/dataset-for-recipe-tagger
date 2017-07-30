@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would melt the butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook the venison , the beef , and pork in the melted butter until completely browned .
+PREDID: 39
+PRED: cook
+   DOBJ: the venison , the beef , pork in the melted butter
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: cubes beef bouillon crumbled
+      INGREDIENT SPAN: the venison 
+         INGREDIENTS: ground venison
+      INGREDIENT SPAN:  pork in the melted butter
+         INGREDIENTS: cubed pork stew meat
+   PARG: completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: completely browned
+
+
+SENTID: 2
+SENT: I would add the onion and jalapeno ;
+PREDID: 106
+PRED: add
+   DOBJ: the onion, jalapeno
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+      NON-INGREDIENT SPAN:  jalapeno
+
+
+SENTID: 3
+SENT: I would cook until tender .
+PREDID: 129
+PRED: cook
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 4
+SENT: I would season with chili powder , cayenne pepper , and cumin .
+PREDID: 145
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , cayenne pepper , cumin
+     PREP: with
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+
+
+SENTID: 5
+SENT: I would stir in the stewed tomatoes , tomato sauce , the garlic and beef bouillon .
+PREDID: 190
+PRED: stir
+   DOBJ: NULL
+   PARG: the stewed tomatoes , tomato sauce , the garlic, beef bouillon
+     PREP: in
+      INGREDIENT SPAN:  beef bouillon
+         INGREDIENTS: cubed beef stew meat
+      INGREDIENT SPAN: the stewed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes juice
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  the garlic
+
+
+SENTID: 6
+SENT: I would pour the bourbon , the beer , and water into the mixture and stir .
+PREDID: 248
+PRED: pour
+   DOBJ: the bourbon , the beer , water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce pilsnerstyle beer
+      INGREDIENT SPAN: the bourbon 
+         INGREDIENTS: Kentucky bourbon
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 7
+SENT: Bring the chili to a boil ;
+PREDID: 298
+PRED: bring
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would cover and reduce heat to medium-low ;
+PREDID: 319
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 9
+SENT: I would simmer about 1 hour , stirring frequently .
+PREDID: 350
+PRED: simmer
+   DOBJ: hour
+      NON-INGREDIENT SPAN: hour
+   OARG: about 1
+      NON-INGREDIENT SPAN: about 1
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+

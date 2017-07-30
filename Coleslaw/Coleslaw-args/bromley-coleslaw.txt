@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the mayonnaise and honey .
+PREDID: 13
+PRED: whisk
+   DOBJ: the mayonnaise, honey
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would mix in the coleslaw mix , celery seed , and green onions .
+PREDID: 48
+PRED: mix
+   DOBJ: NULL
+   PARG: the coleslaw mix , celery seed , green onions
+     PREP: in
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: the coleslaw mix 
+         INGREDIENTS: ounce package shredded coleslaw mix
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 94
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would chill in the refrigerator until ready to serve .
+PREDID: 118
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

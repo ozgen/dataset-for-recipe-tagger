@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease 10 muffin cups , or line with muffin papers .
+PREDID: 45
+PRED: grease
+   DOBJ: 10 muffin cups
+      NON-INGREDIENT SPAN: 10 muffin cups
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 66
+PRED: line
+   DOBJ: NULL
+   PARG: muffin papers
+     PREP: with
+      NON-INGREDIENT SPAN: muffin papers
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix together 1?1/2 cups flour , baking soda , baking powder and salt .
+PREDID: 100
+PRED: mix
+   DOBJ: together 1?1/2 cups flour , baking soda , baking powder, salt
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: together 1?1/2 cups flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: In another bowl , I would beat together bananas , the sugar , the egg and melted butter .
+PREDID: 171
+PRED: beat
+   DOBJ: bananas , the sugar , the egg, melted butter
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: bananas mashed
+      INGREDIENT SPAN:  the egg
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir the banana mixture into the flour mixture just until moistened .
+PREDID: 216
+PRED: stir
+   DOBJ: the banana mixture
+      NON-INGREDIENT SPAN: the banana mixture
+   PARG: the flour mixture
+     PREP: into
+      INGREDIENT SPAN: the flour mixture
+         INGREDIENTS: allpurpose flour
+   OARG: just until moistened
+      NON-INGREDIENT SPAN: just until moistened
+
+
+SENTID: 5
+SENT: I would spoon batter into prepared muffin cups .
+PREDID: 274
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix together brown sugar , 2 tablespoons flour and cinnamon .
+PREDID: 321
+PRED: mix
+   DOBJ: brown sugar , 2 tablespoons flour, cinnamon
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  2 tablespoons flour
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would cut in 1 tablespoon butter until mixture resembles coarse cornmeal .
+PREDID: 372
+PRED: cut
+   DOBJ: NULL
+   PARG: 1 tablespoon butter
+     PREP: in
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter
+   PARG: mixture resembles coarse cornmeal
+     PREP: until
+      NON-INGREDIENT SPAN: mixture resembles coarse cornmeal
+
+
+SENTID: 8
+SENT: I would sprinkle the topping over muffins .
+PREDID: 430
+PRED: sprinkle
+   DOBJ: the topping over muffins
+      NON-INGREDIENT SPAN: the topping over muffins
+
+
+SENTID: 9
+SENT: I would bake in preheated oven for 18 to 20 minutes , until a toothpick inserted into center of a muffin comes out clean .
+PREDID: 457
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 18 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 18 to 20 minutes
+   PARG: a toothpick inserted into center of a muffin comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into center of a muffin comes out clean
+
+

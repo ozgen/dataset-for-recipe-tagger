@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together the chicken , the celery , the almonds , the croutons , Cheddar cheese and eggs .
+PREDID: 13
+PRED: toss
+   DOBJ: the chicken , the celery , the almonds , the croutons , Cheddar cheese, eggs
+      INGREDIENT SPAN:  the croutons 
+         INGREDIENTS: small seasoned croutons
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: hardcooked eggs peeled chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: sliced almonds
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: shredded cooked chicken meat
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would mix in salad dressing until the ingredients are evenly coated .
+PREDID: 81
+PRED: mix
+   DOBJ: NULL
+   PARG: salad
+     PREP: in
+      INGREDIENT SPAN: salad
+         INGREDIENTS: creamy salad dressing Whip
+   OARG: dressing until the ingredients are evenly coated
+      NON-INGREDIENT SPAN: dressing until the ingredients are evenly coated
+
+
+SENTID: 2
+SENT: I would cover and refrigerate overnight before serving for best flavor .
+PREDID: 134
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: serving for best flavor
+     PREP: before
+      NON-INGREDIENT SPAN: serving for best flavor
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

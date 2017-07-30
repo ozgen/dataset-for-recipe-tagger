@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5 inch loaf pan , and line with wax paper .
+PREDID: 38
+PRED: grease pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+
+PREDID: 63
+PRED: line
+   DOBJ: NULL
+   PARG: wax paper
+     PREP: with
+      NON-INGREDIENT SPAN: wax paper
+
+
+SENTID: 2
+SENT: I would combine water , the sugar , the raisins , grated carrots , the cinnamon , the cloves , the nutmeg , and butter in a medium saucepan .
+PREDID: 80
+PRED: combine
+   DOBJ: water , the sugar , the raisins , grated carrots , the cinnamon , the cloves , the nutmeg , butter in a medium saucepan
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  butter in a medium saucepan
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  grated carrots 
+         INGREDIENTS: large carrots grated
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 3
+SENT: I would cook over low heat for 5 minutes .
+PREDID: 171
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: low heat for 5 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 4
+SENT: I would cool .
+PREDID: 198
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: In a large bowl , I would stir together flour , baking soda , the nuts , and salt .
+PREDID: 216
+PRED: stir
+   DOBJ: flour , baking soda , the nuts , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      NON-INGREDIENT SPAN:  the nuts 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would stir in carrot mixture .
+PREDID: 258
+PRED: stir
+   DOBJ: NULL
+   PARG: carrot mixture
+     PREP: in
+      NON-INGREDIENT SPAN: carrot mixture
+
+
+SENTID: 7
+SENT: I would pour into prepared pan .
+PREDID: 278
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 8
+SENT: I would bake for 1?1/4 hours , or until a tester inserted in the center comes out clean .
+PREDID: 298
+PRED: bake
+   DOBJ: NULL
+   PARG: 1?1/4 hours , or until a tester inserted in the center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN:  or until a tester inserted in the center comes out clean
+      NON-INGREDIENT SPAN: 1?1/4 hours 
+
+
+SENTID: 9
+SENT: I would cool on wire racks .
+PREDID: 363
+PRED: cool
+   DOBJ: NULL
+   PARG: wire racks
+     PREP: on
+      NON-INGREDIENT SPAN: wire racks
+
+

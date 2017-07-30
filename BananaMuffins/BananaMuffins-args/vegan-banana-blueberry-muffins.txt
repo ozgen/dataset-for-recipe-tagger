@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: muffin cups or line with paper muffin liners
+      NON-INGREDIENT SPAN: muffin cups or line with paper muffin liners
+
+
+SENTID: 2
+SENT: In a large bowl combine mashed bananas , the sugar , baking powder , salt and flours ;
+PREDID: 94
+PRED: combine mashed
+   DOBJ: bananas
+      INGREDIENT SPAN: bananas
+         INGREDIENTS: ripe bananas mashed
+
+
+SENTID: 3
+SENT: I would mix until smooth .
+PREDID: 148
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: 	
+
+SENTID: 5
+SENT: I would stir into banana mixture .
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: banana mixture
+
+
+SENTID: 6
+SENT: I would fold in blueberries .
+PREDID: 185
+PRED: fold
+   DOBJ: NULL
+   PARG: blueberries
+     PREP: in
+      INGREDIENT SPAN: blueberries
+         INGREDIENTS: blueberries
+
+
+SENTID: 7
+SENT: I would spoon batter evenly , about 1/4 cup each , into muffin cups .
+PREDID: 203
+PRED: spoon
+   DOBJ: batter, about 1/4 cup each
+      NON-INGREDIENT SPAN:  about 1/4 cup each
+      NON-INGREDIENT SPAN: batter
+   PARG: muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: muffin cups
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 20 to 25 minutes , or until golden brown .
+PREDID: 252
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 to 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 to 25 minutes
+
+

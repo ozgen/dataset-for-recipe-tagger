@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Using a saute pan over medium heat , I would saute onion in butter until tender .
+PREDID: 29
+PRED: saute
+   DOBJ: onion in butter
+      INGREDIENT SPAN: onion in 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: onion in butter
+         INGREDIENTS: butter
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 1
+SENT: I would add flour and stir , it will form a paste like consistency .
+
+SENTID: 2
+SENT: I would add milk and stir until thickened .
+PREDID: 107
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+PREDID: 117
+PRED: stir
+   DOBJ: NULL
+   PARG: thickened
+     PREP: until
+      NON-INGREDIENT SPAN: thickened
+
+
+SENTID: 3
+SENT: I would add corn , cheese and season with salt and pepper .
+PREDID: 136
+PRED: add
+   DOBJ: corn , cheese, season
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: (15 ounce) cans creamed corn
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded American cheese
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: white pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 4
+SENT: I would heat through , until the cheese melts and then serve hot .
+PREDID: 177
+PRED: heat
+   DOBJ: NULL
+
+

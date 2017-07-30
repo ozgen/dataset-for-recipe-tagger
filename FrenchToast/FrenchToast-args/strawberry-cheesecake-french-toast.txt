@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: I would preheat an oven to 100 degrees F -LRB- 40 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 100 degrees F -LRB- 40 degrees C
+      NON-INGREDIENT SPAN: an oven to 100 degrees F -LRB- 40 degrees C
+
+
+SENTID: 1
+SENT: I would heat mashed strawberries and 1/2 cup white sugar in a saucepan over medium heat .
+PREDID: 39
+PRED: heat
+   DOBJ: mashed strawberries, 1/2 cup white sugar
+      INGREDIENT SPAN:  1/2 cup white sugar
+         INGREDIENTS: confectioners sugar dusting
+      INGREDIENT SPAN: mashed strawberries
+         INGREDIENTS: mashed fresh strawberries
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 2
+SENT: I would mix cornstarch and water together in a bowl ,
+PREDID: 106
+PRED: mix
+   DOBJ: cornstarch, water
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir into the strawberries .
+PREDID: 143
+PRED: stir
+   DOBJ: NULL
+   PARG: the strawberries
+     PREP: into
+      INGREDIENT SPAN: the strawberries
+         INGREDIENTS: sliced fresh strawberries
+
+
+SENTID: 4
+SENT: I would cook and stir until thickened , about 5 minutes .
+PREDID: 167
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: thickened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would reduce heat to low and simmer while preparing remaining ingredients , stirring occasionally .
+PREDID: 207
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: preparing remaining ingredients , stirring occasionally
+     PREP: while
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: preparing remaining ingredients 
+
+
+SENTID: 6
+SENT: I would whisk together the milk and eggs in a bowl ;
+PREDID: 287
+PRED: whisk
+   DOBJ: the milk, eggs in a bowl
+      INGREDIENT SPAN:  eggs in a bowl
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 322
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would mash cream cheese , vanilla extract , and 3/4 cup white sugar in a bowl until smooth .
+PREDID: 331
+PRED: mash
+   DOBJ: cream cheese , vanilla extract , 3/4 cup white sugar
+      INGREDIENT SPAN:  3/4 cup white sugar
+         INGREDIENTS: confectioners sugar dusting
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would spread the cream cheese mixture over a triangle-shaped piece of bread , and top with another piece .
+PREDID: 400
+PRED: spread
+   DOBJ: the cream cheese mixture
+      INGREDIENT SPAN: the cream cheese mixture
+         INGREDIENTS: whipped cream
+   PARG: a triangle-shaped piece of bread
+     PREP: over
+      INGREDIENT SPAN: a triangle-shaped piece of bread
+         INGREDIENTS: slices bread cut half
+
+PREDID: 463
+PRED: top
+   DOBJ: NULL
+   PARG: another piece
+     PREP: with
+      NON-INGREDIENT SPAN: another piece
+
+
+SENTID: 10
+SENT: I would repeat with remaining bread and cream cheese mixture to make 8 triangle-shaped sandwiches .
+PREDID: 483
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining bread, cream cheese mixture to make 8 triangle-shaped sandwiches
+     PREP: with
+      INGREDIENT SPAN: remaining bread
+         INGREDIENTS: slices bread cut half
+      NON-INGREDIENT SPAN:  cream cheese mixture to make 8 triangle-shaped sandwiches
+
+
+SENTID: 11
+SENT: I would heat butter in a large skillet over medium heat .
+PREDID: 561
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 12
+SENT: I would dip the sandwiches into the egg mixture , 2 or 3 at a time , and place in the skillet .
+PREDID: 601
+PRED: dip
+   DOBJ: the sandwiches into the egg mixture , 2 or 3 at a time , place in the skillet
+      NON-INGREDIENT SPAN:  2 or 3 at a time 
+      NON-INGREDIENT SPAN:  place in the skillet
+      NON-INGREDIENT SPAN: the sandwiches into the egg mixture 
+
+
+SENTID: 13
+SENT: I would cook until golden brown on both sides , about 3 minutes per side .
+PREDID: 668
+PRED: cook
+   DOBJ: NULL
+   PARG: golden brown on both sides , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on both sides 
+      NON-INGREDIENT SPAN:  about 3 minutes
+   PARG: side
+     PREP: per
+      NON-INGREDIENT SPAN: side
+
+
+SENTID: 14
+SENT: I would transfer pan-fried sandwiches to a baking sheet and place in the preheated oven to keep warm while cooking remaining sandwiches .
+PREDID: 721
+PRED: transfer
+   DOBJ: pan-fried sandwiches
+      NON-INGREDIENT SPAN: pan-fried sandwiches
+   PARG: a baking sheet, place in the preheated oven
+     PREP: to
+      NON-INGREDIENT SPAN: a baking sheet
+      NON-INGREDIENT SPAN:  place in the preheated oven
+   OARG: to keep warm while cooking remaining sandwiches
+      NON-INGREDIENT SPAN: to keep warm while cooking remaining sandwiches
+
+
+SENTID: 15
+SENT: To serve , top French toast with warm strawberry glaze and sliced fresh strawberries and sprinkle with confectioners ' sugar .
+
+SENTID: 16
+SENT: I would serve with a dollop of whipped cream .
+PREDID: 936
+PRED: serve
+   DOBJ: NULL
+   PARG: a dollop of whipped cream
+     PREP: with
+      NON-INGREDIENT SPAN: a dollop of whipped cream
+
+

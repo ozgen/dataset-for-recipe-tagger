@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would cook pasta according to package directions ;
+PREDID: 0
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: ounce jar Classico Tomato Basil pasta sauce
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 38
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , cook Johnsonville ? Mild Italian Ground Sausage in a 10-inch nonstick skillet until meat is brown ;
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 44
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would set meat aside .
+PREDID: 50
+PRED: set
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would wipe skillet with paper towel .
+PREDID: 63
+PRED: wipe
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: paper towel
+     PREP: with
+      NON-INGREDIENT SPAN: paper towel
+
+
+SENTID: 6
+SENT: I would spread about half of the cooked pasta in the skillet .
+PREDID: 89
+PRED: spread
+   DOBJ: about half of the cooked pasta in the skillet
+      NON-INGREDIENT SPAN: about half of the cooked pasta in the skillet
+
+
+SENTID: 7
+SENT: I would cover with about half of the Classico ? Tomato and Basil pasta sauce .
+PREDID: 133
+PRED: cover
+   DOBJ: NULL
+   PARG: about half of the classico ? tomato, basil pasta sauce
+     PREP: with
+      NON-INGREDIENT SPAN: about half of the classico ? tomato
+      NON-INGREDIENT SPAN:  basil pasta sauce
+
+
+SENTID: 8
+SENT: I would spoon cooked meat over Classico ? Tomato and Basil pasta sauce .
+PREDID: 190
+PRED: spoon
+   DOBJ: cooked meat
+      NON-INGREDIENT SPAN: cooked meat
+   PARG: classico ? tomato, basil pasta sauce
+     PREP: over
+      NON-INGREDIENT SPAN: classico ? tomato
+      NON-INGREDIENT SPAN:  basil pasta sauce
+
+
+SENTID: 9
+SENT: I would sprinkle with 1 cup of the mozzarella cheese .
+PREDID: 243
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1 cup of the mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1 cup of the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 10
+SENT: I would top with remaining pasta and sauce .
+PREDID: 281
+PRED: top
+   DOBJ: NULL
+   PARG: remaining pasta, sauce
+     PREP: with
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: remaining pasta
+
+
+SENTID: 11
+SENT: I would sprinkle the remaining mozzarella and Parmesan cheese over top .
+PREDID: 311
+PRED: sprinkle
+   DOBJ: the remaining mozzarella, Parmesan cheese over top
+      INGREDIENT SPAN:  Parmesan cheese over top
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: the remaining mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 12
+SENT: I would cook , covered , over medium heat for 5 to 7 minutes or until heated through and cheese melts .
+PREDID: 363
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat for 5 to 7 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat for 5 to 7 minutes
+
+
+SENTID: 13
+SENT: I would remove skillet from heat and let stand , covered , for 1 minute .
+PREDID: 439
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 463
+PRED: let
+   DOBJ: stand , covered , for 1 minute
+      NON-INGREDIENT SPAN:  for 1 minute
+      NON-INGREDIENT SPAN:  covered 
+      NON-INGREDIENT SPAN: stand 
+
+

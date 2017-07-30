@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would combine cabbage , green bell pepper , the onion , and carrots in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: cabbage , green bell pepper , the onion , carrots in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small small onion chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  carrots in a large bowl
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: large head cabbage shredded
+
+
+SENTID: 1
+SENT: I would mix boiling water and salt together in a bowl and pour over cabbage mixture .
+PREDID: 60
+PRED: mix
+   DOBJ: boiling water, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: boiling water
+         INGREDIENTS: boiling water
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 100
+PRED: pour
+   DOBJ: NULL
+   PARG: cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: cabbage mixture
+
+
+SENTID: 2
+SENT: I would set aside for salt to draw out extra water from vegetables , about 1 hour .
+PREDID: 123
+PRED: set
+   DOBJ: NULL
+   PARG: salt
+     PREP: for
+      NON-INGREDIENT SPAN: salt
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to draw out extra water from vegetables , about 1 hour
+      INGREDIENT SPAN: to draw out extra water from vegetables 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  about 1 hour
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 183
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would mix sugar , 1 cup water , cider vinegar , and celery seed in a saucepan ;
+PREDID: 193
+PRED: mix
+   DOBJ: sugar , 1 cup water , cider vinegar , celery seed in a saucepan
+      INGREDIENT SPAN:  celery seed in a saucepan
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  1 cup water 
+
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 250
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would cook and stir until sugar is dissolved , about 1 minute .
+PREDID: 263
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: sugar is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar is dissolved
+   PARG: 1 minute
+     PREP: about
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 7
+SENT: I would remove saucepan from heat and cool completely .
+PREDID: 309
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 334
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 8
+SENT: I would pour cooled sugar-vinegar mixture over drained cabbage mixture in a large bowl and toss until slaw is well mixed .
+PREDID: 349
+PRED: pour
+   DOBJ: NULL
+
+PREDID: 353
+PRED: cooled
+   DOBJ: sugar-vinegar mixture
+      NON-INGREDIENT SPAN: sugar-vinegar mixture
+   PARG: drained cabbage mixture in a large bowl
+     PREP: over
+      NON-INGREDIENT SPAN: drained cabbage mixture in a large bowl
+
+PREDID: 419
+PRED: toss
+   DOBJ: NULL
+   PARG: slaw is well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: slaw is well mixed
+
+
+SENTID: 9
+SENT: I would spoon slaw into resealable plastic bags and freeze .
+PREDID: 444
+PRED: spoon
+   DOBJ: slaw
+      NON-INGREDIENT SPAN: slaw
+   PARG: resealable plastic bags
+     PREP: into
+      NON-INGREDIENT SPAN: resealable plastic bags
+
+

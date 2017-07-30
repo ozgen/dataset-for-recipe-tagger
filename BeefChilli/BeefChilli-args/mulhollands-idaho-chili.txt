@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: I would sort and rinse beans ,
+PREDID: 0
+PRED: sort and rinse
+   DOBJ: beans
+      INGREDIENT SPAN: beans
+         INGREDIENTS: dried red beans
+
+
+SENTID: 1
+SENT: I would place into a large pot along with the water , jalapeno peppers , garlic powder , the cumin , and oregano .
+PREDID: 18
+PRED: place
+   DOBJ: NULL
+   PARG: a large pot along with the water , jalapeno peppers , garlic powder , the cumin , oregano
+     PREP: into
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: jalapeno peppers sliced
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: a large pot along with the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+
+
+SENTID: 2
+SENT: I would bring to a boil over high heat ,
+PREDID: 100
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: I would reduce heat to medium-low , cover , and simmer until the beans are tender , 1?1/2 to 2 hours .
+PREDID: 125
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 157
+PRED: simmer
+   DOBJ: NULL
+   PARG: the beans are tender , 1?1/2 to 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  1?1/2 to 2 hours
+      NON-INGREDIENT SPAN: the beans are tender 
+
+
+SENTID: 4
+SENT: I would heat a large skillet over medium-high heat , and stir in the ground beef and onion .
+PREDID: 200
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 240
+PRED: stir
+   DOBJ: NULL
+   PARG: the ground beef, onion
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion chopped
+
+
+SENTID: 5
+SENT: I would cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 268
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 6
+SENT: I would drain and discard any excess grease .
+PREDID: 331
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 7
+SENT: I would stir the beef into the simmering beans along with the salt , diced tomatoes , and tomato paste .
+PREDID: 362
+PRED: stir
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: the simmering beans along with the salt , diced tomatoes , tomato paste
+     PREP: into
+      INGREDIENT SPAN: the simmering beans along with the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 8
+SENT: I would return to a simmer , and cook for 15 minutes .
+PREDID: 440
+PRED: return
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 459
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 9
+SENT: I would remove from the heat , and allow to stand for a few minutes before serving .
+PREDID: 476
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 497
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for a few minutes before serving
+      NON-INGREDIENT SPAN: to stand for a few minutes before serving
+
+

@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring water to boil in a saucepan .
+PREDID: 38
+PRED: bring
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: boil in a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: boil in a saucepan
+
+
+SENTID: 2
+SENT: I would cook macaroni at a boil , stirring occasionally , until tender , 7 to 8 minutes ;
+PREDID: 66
+PRED: cook
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package macaroni cheese dinner mix
+   PARG: a boil
+     PREP: at
+      NON-INGREDIENT SPAN: a boil
+   OARG: stirring occasionally , until tender , 7 to 8 minutes
+      NON-INGREDIENT SPAN:  until tender 
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  7 to 8 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 131
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would return macaroni to the saucepan .
+PREDID: 137
+PRED: return
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: the saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: the saucepan
+
+
+SENTID: 5
+SENT: I would stir cheese sauce mixture from the packet , the margarine , and milk into the macaroni until the margarine melts and the macaroni is evenly coated in sauce .
+PREDID: 165
+PRED: stir
+   DOBJ: cheese sauce mixture from the packet , the margarine
+      INGREDIENT SPAN:  the margarine
+         INGREDIENTS: margarine cut
+      NON-INGREDIENT SPAN: cheese sauce mixture from the packet 
+
+PREDID: 217
+PRED: milk
+   DOBJ: NULL
+   PARG: the macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: the macaroni
+   PARG: the margarine melts
+     PREP: until
+      NON-INGREDIENT SPAN: the margarine melts
+
+PREDID: 280
+PRED: is coated
+   DOBJ: NULL
+   PARG: sauce
+     PREP: in
+      NON-INGREDIENT SPAN: sauce
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would add tuna and mushrooms ;
+PREDID: 291
+PRED: add
+   DOBJ: tuna, mushrooms
+      INGREDIENT SPAN: tuna
+         INGREDIENTS: ounce tuna drained flaked
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce sliced mushrooms drained
+
+
+SENTID: 7
+SENT: I would stir .
+PREDID: 311
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would pour macaroni mixture into a small casserole dish ;
+PREDID: 316
+PRED: pour
+   DOBJ: macaroni mixture
+      NON-INGREDIENT SPAN: macaroni mixture
+   PARG: a small casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a small casserole dish
+
+
+SENTID: 9
+SENT: I would top with bread crumbs .
+PREDID: 359
+PRED: top
+   DOBJ: NULL
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs
+
+
+SENTID: 10
+SENT: I would bake in preheated oven until hot , about 30 minutes .
+PREDID: 378
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: hot , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: hot 
+
+

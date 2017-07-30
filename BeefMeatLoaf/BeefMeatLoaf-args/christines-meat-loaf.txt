@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef , ground turkey , Italian sausage , vegetable soup , the eggs , bread crumbs , barbeque sauce , the ketchup , yellow mustard , garlic , Worcestershire sauce , browning sauce , seasoned salt , and black pepper in a bowl until thoroughly combined .
+PREDID: 38
+PRED: mix
+   DOBJ: ground beef , ground turkey , Italian sausage , vegetable soup , the eggs , bread crumbs , barbeque sauce , the ketchup , yellow mustard , garlic , Worcestershire sauce , browning sauce , seasoned salt , black pepper in a bowl
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: dashes Worcestershire sauce
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: pinches ground black pepper
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: pinches seasoned salt such Johnny Seasoning Salt
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  browning sauce 
+         INGREDIENTS: dashes browning sauce such Kitchen Bouquet
+      INGREDIENT SPAN:  Italian sausage 
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  vegetable soup 
+         INGREDIENTS: ounce vegetable beef soup such Campbell
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  ground turkey 
+         INGREDIENTS: ground turkey
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 2
+SENT: I would form into a loaf and place meat loaf into a 9x13-inch baking dish .
+PREDID: 246
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf, place meat loaf
+     PREP: into
+      NON-INGREDIENT SPAN:  place meat loaf
+      NON-INGREDIENT SPAN: a loaf
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until meat loaf is browned and no longer pink inside , 60 to 75 minutes .
+PREDID: 300
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: meat loaf is browned, no longer pink inside , 60 to 75 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink inside 
+      NON-INGREDIENT SPAN: meat loaf is browned
+      NON-INGREDIENT SPAN:  60 to 75 minutes
+
+
+SENTID: 4
+SENT: An instant-read meat thermometer inserted into the thickest part of the loaf should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 5
+SENT: I would let meat loaf rest for 10 minutes before cutting into 1/2-inch thick slices .
+PREDID: 380
+PRED: let
+   DOBJ: NULL
+   PARG: meat loaf rest for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: meat loaf rest for 10 minutes
+   PARG: cutting into 1/2-inch thick slices
+     PREP: before
+      NON-INGREDIENT SPAN: cutting into 1/2-inch thick slices
+
+

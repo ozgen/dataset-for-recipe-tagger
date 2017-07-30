@@ -1,0 +1,46 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="press (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="lay (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="mix (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spread (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: the oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: small onion, brown sugar, eggs, ground beef, ketchup, crushed butter-flavored crackers
+(text: ground beef , crushed crackers , onion , eggs , 3/4 cup ketchup , and 1/4 cup brown sugar)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="PREP: in a medium bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+P1_1[label="PREP: until well blended", shape=box, style=filled, fillcolor=white]
+P1_1 -> E1
+D3[label="DOBJ: slices bacon
+(text: the two slices of bacon)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="PREP: over the top", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: into a 9x5 inch loaf pan", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E0 -> E4 [label="OUTPUT: 
+INPUT: for 1 hour in the preheated oven "]
+P4_0_1[label="PREP: for  or until cooked through", shape=box, style=filled, fillcolor=white]
+P4_0_1 -> E4
+D5_ing[label="DOBJ: vinegar, prepared yellow mustard, salt
+(text:  salt ,  mustard,  vinegar )", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+D5_0[label="DOBJ: the remaining 1 cup ketchup ", shape=box, style=filled, fillcolor=white]
+D5_0 -> E5
+E2 -> E5 [label="OUTPUT: 
+INPUT: 1/2 cup brown sugar"]
+E4 -> E6 [label="OUTPUT: 
+INPUT: the top of the meat loaf"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: for the last 15 minutes of baking"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: russet potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine the potatoes , the mayonnaise , sweet pickle relish , the sugar , the onion , the mustard , the vinegar , the celery , the pimentos , the carrot , the parsley , the pepper and salt .
+PREDID: 123
+PRED: combine
+   DOBJ: the potatoes , the mayonnaise , sweet pickle relish , the sugar , the onion , the mustard , the vinegar , the celery , the pimentos , the carrot , the parsley , the pepper, salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  sweet pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the pimentos 
+         INGREDIENTS: minced pimento
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped white onion
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: minced celery
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: shredded carrot
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: Mix well , chill and serve .
+PREDID: 252
+PRED: chill and serve
+   DOBJ: NULL
+   OARG: mix well
+      NON-INGREDIENT SPAN: mix well
+
+

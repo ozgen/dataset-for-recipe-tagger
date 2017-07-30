@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would heat the oil in a soup pot set over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a soup pot set over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a soup pot set over medium heat
+
+
+SENTID: 1
+SENT: I would add the ground beef , the garlic , and onion .
+PREDID: 38
+PRED: add
+   DOBJ: the ground beef , the garlic , onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef chuck
+
+
+SENTID: 2
+SENT: I would cook , stirring to crumble the ground beef , until beef is no longer pink .
+PREDID: 71
+PRED: cook
+   DOBJ: NULL
+   PARG: beef is no longer pink
+     PREP: until
+      INGREDIENT SPAN: beef is no longer pink
+         INGREDIENTS: beef bouillon
+
+PREDID: 76
+PRED: stirring
+   DOBJ: NULL
+   OARG: to crumble the ground beef
+      INGREDIENT SPAN: to crumble the ground beef
+         INGREDIENTS: ground nutmeg
+
+
+SENTID: 3
+SENT: I would drain off any excess grease .
+PREDID: 131
+PRED: drain
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would season with salt , the pepper , the nutmeg , beef bouillon , and chili powder .
+PREDID: 155
+PRED: season
+   DOBJ: NULL
+   PARG: salt , the pepper , the nutmeg , beef bouillon , chili powder
+     PREP: with
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  beef bouillon 
+      NON-INGREDIENT SPAN:  the nutmeg 
+      NON-INGREDIENT SPAN:  the pepper 
+
+
+SENTID: 5
+SENT: I would add the sugar , the tomatoes , the light and dark kidney beans and potatoes .
+PREDID: 212
+PRED: add
+   DOBJ: the sugar , the tomatoes , the light, dark kidney beans, potatoes
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  potatoes
+         INGREDIENTS: ounce sliced potatoes drained
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  dark kidney beans
+         INGREDIENTS: ounce dark red kidney beans drained rinsed
+      NON-INGREDIENT SPAN:  the light
+
+
+SENTID: 6
+SENT: I would cover and simmer over medium-low heat for 1 hour , stirring occasionally .
+PREDID: 268
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: medium-low heat for 1 hour
+     PREP: over
+      NON-INGREDIENT SPAN: medium-low heat for 1 hour
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

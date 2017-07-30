@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a medium saucepan over medium high heat , I would saute the carrot and onion for 2 minutes , or until onion is transparent .
+PREDID: 74
+PRED: saute
+   DOBJ: the carrot, onion
+      INGREDIENT SPAN: the carrot
+         INGREDIENTS: carrot grated
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: a medium saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium high heat
+   PARG: 2 minutes , or until onion is transparent
+     PREP: for
+      NON-INGREDIENT SPAN:  or until onion is transparent
+      NON-INGREDIENT SPAN: 2 minutes 
+
+
+SENTID: 2
+SENT: I would add garlic and saute for 2 more minutes .
+PREDID: 134
+PRED: add
+   DOBJ: NULL
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+   OARG: garlic, saute
+      NON-INGREDIENT SPAN:  saute
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 3
+SENT: I would remove from heat and let cool .
+PREDID: 167
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 184
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine the parsley , the beef , the ketchup , 1/2 cup tomato sauce , the bread and eggs , mixing well .
+PREDID: 205
+PRED: combine
+   DOBJ: the parsley , the beef , the ketchup , 1/2 cup tomato sauce , the bread, eggs
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the bread
+         INGREDIENTS: fresh bread crumbs
+      INGREDIENT SPAN: the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  1/2 cup tomato sauce 
+         INGREDIENTS: tomato sauce
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: mixing well
+      NON-INGREDIENT SPAN: mixing well
+
+
+SENTID: 5
+SENT: Add the carrot/onion mixture and continue mixing , but do not over mix , as this will make the meatloaf dry .
+
+SENTID: 6
+SENT: I would transfer mixture to a 9x13 baking dish and form into a loaf .
+PREDID: 278
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 9x13 baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13 baking dish
+
+PREDID: 313
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 7
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 30 to 45 minutes .
+PREDID: 327
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 30 to 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 to 45 minutes
+
+
+SENTID: 8
+SENT: While loaf is baking , I would heat the remaining tomato sauce and sugar in a medium saucepan over medium low heat .
+PREDID: 392
+PRED: heat
+   DOBJ: the remaining tomato sauce, sugar in a medium saucepan over medium low heat
+      INGREDIENT SPAN: the remaining tomato sauce
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  sugar in a medium saucepan over medium low heat
+         INGREDIENTS: white sugar
+   PARG: loaf is baking
+     PREP: while
+      NON-INGREDIENT SPAN: loaf is baking
+
+
+SENTID: 9
+SENT: I would pour over loaf when done .
+PREDID: 462
+PRED: pour
+   DOBJ: NULL
+   PARG: loaf
+     PREP: over
+      NON-INGREDIENT SPAN: loaf
+   OARG: when done
+      NON-INGREDIENT SPAN: when done
+
+

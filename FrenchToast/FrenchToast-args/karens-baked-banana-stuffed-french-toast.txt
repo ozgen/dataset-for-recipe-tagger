@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly spray a cast iron or other ovenproof skillet with cooking spray and
+PREDID: 45
+PRED: spray
+   DOBJ: a cast iron or other ovenproof skillet
+      NON-INGREDIENT SPAN: a cast iron or other ovenproof skillet
+   PARG: cooking spray and
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray and
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would heat over medium heat .
+PREDID: 101
+PRED: heat
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would spread mashed banana on top of 4 slices of bread .
+PREDID: 120
+PRED: spread
+   DOBJ: mashed banana
+      INGREDIENT SPAN: mashed banana
+         INGREDIENTS: ripe bananas mashed
+   PARG: top of 4 slices of bread
+     PREP: on
+      INGREDIENT SPAN: top of 4 slices of bread
+         INGREDIENTS: slices French bread
+
+
+SENTID: 4
+SENT: I would place the remaining four slices on top .
+PREDID: 160
+PRED: place
+   DOBJ: the remaining four slices on top
+      INGREDIENT SPAN: the remaining four slices on top
+         INGREDIENTS: slices French bread
+
+
+SENTID: 5
+SENT: In a bowl , I would whisk together milk , the eggs , the vanilla and cinnamon .
+PREDID: 198
+PRED: whisk
+   DOBJ: milk , the eggs , the vanilla, cinnamon
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would dip bread in egg mixture for 45 seconds on each side
+PREDID: 240
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices French bread
+   PARG: egg mixture for 45 seconds on each side
+     PREP: in
+      NON-INGREDIENT SPAN: egg mixture for 45 seconds on each side
+
+
+SENTID: 7
+SENT: I would place in skillet .
+PREDID: 282
+PRED: place
+   DOBJ: NULL
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 8
+SENT: I would cook bread for two minutes on each side .
+PREDID: 297
+PRED: cook
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: two minutes on each side
+     PREP: for
+      NON-INGREDIENT SPAN: two minutes on each side
+
+
+SENTID: 9
+SENT: I would place bread on an ungreased baking sheet and bake in preheated oven for 8 minutes , until golden .
+PREDID: 330
+PRED: place
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: an ungreased baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: an ungreased baking sheet
+
+PREDID: 367
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 8 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 8 minutes
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+
+
+SENTID: 10
+SENT: I would serve warm .
+PREDID: 410
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

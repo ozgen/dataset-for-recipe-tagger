@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would arrange eggplant rounds on a baking sheet ;
+PREDID: 38
+PRED: arrange
+   DOBJ: eggplant rounds
+      INGREDIENT SPAN: eggplant rounds
+         INGREDIENTS: large eggplant sliced thin rounds
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would lightly coat with olive oil .
+PREDID: 81
+PRED: coat
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: extra virgin olive oil
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 3
+SENT: I would bake eggplant rounds in preheated oven until hot , about 5 minutes .
+PREDID: 98
+PRED: bake
+   DOBJ: eggplant rounds in preheated oven
+      NON-INGREDIENT SPAN: eggplant rounds in preheated oven
+   PARG: hot , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: hot 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would flip the eggplant rounds ;
+PREDID: 154
+PRED: flip
+   DOBJ: the eggplant rounds
+      NON-INGREDIENT SPAN: the eggplant rounds
+
+
+SENTID: 5
+SENT: I would top with Parmesan cheese in an even layer to cover .
+PREDID: 176
+PRED: top
+   DOBJ: NULL
+   PARG: parmesan cheese in an even layer
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese in an even layer
+         INGREDIENTS: grated Parmesan cheese
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 6
+SENT: I would return eggplant to oven and bake until the cheese is melted , about 5 minutes .
+PREDID: 218
+PRED: return
+   DOBJ: NULL
+   OARG: eggplant
+      NON-INGREDIENT SPAN: eggplant
+
+
+SENTID: 7
+SENT: I would drop a dollop of tomato sauce into the center of each eggplant round ;
+PREDID: 282
+PRED: drop
+   DOBJ: a dollop of tomato sauce
+      INGREDIENT SPAN: a dollop of tomato sauce
+         INGREDIENTS: tomato sauce
+   PARG: the center of each eggplant round
+     PREP: into
+      NON-INGREDIENT SPAN: the center of each eggplant round
+
+
+SENTID: 8
+SENT: I would top with Cheddar cheese .
+PREDID: 339
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 9
+SENT: I would bake until Cheddar cheese is bubbling , about 5 minutes more .
+PREDID: 360
+PRED: bake
+   DOBJ: NULL
+   PARG: cheddar cheese is bubbling , about 5 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: cheddar cheese is bubbling 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+
+SENTID: 10
+SENT: I would season with salt and pepper to serve .
+PREDID: 411
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

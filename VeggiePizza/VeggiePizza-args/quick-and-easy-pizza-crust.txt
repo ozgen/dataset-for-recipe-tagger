@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+         INGREDIENTS: warm water degrees F/45 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would dissolve yeast and sugar in warm water .
+PREDID: 52
+PRED: dissolve
+   DOBJ: yeast, sugar
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: yeast
+         INGREDIENTS: ounce package active dry yeast
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: warm water
+     PREP: in
+      INGREDIENT SPAN: warm water
+         INGREDIENTS: warm water degrees F/45 degrees C
+
+
+SENTID: 2
+SENT: I would let stand until creamy , about 10 minutes .
+PREDID: 85
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: creamy , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: creamy 
+
+
+SENTID: 3
+SENT: I would stir in flour , the salt and oil .
+PREDID: 120
+PRED: stir
+   DOBJ: NULL
+   PARG: flour , the salt, oil
+     PREP: in
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: bread flour
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 4
+SENT: I would beat until smooth .
+PREDID: 143
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would let rest for 5 minutes .
+PREDID: 159
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 6
+SENT: I would turn dough out onto a lightly floured surface and pat or roll into a round .
+PREDID: 178
+PRED: turn
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a lightly floured surface, pat
+     PREP: onto
+      NON-INGREDIENT SPAN:  pat
+      NON-INGREDIENT SPAN: a lightly floured surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 224
+PRED: roll
+   DOBJ: NULL
+   PARG: a round
+     PREP: into
+      NON-INGREDIENT SPAN: a round
+
+
+SENTID: 7
+SENT: I would transfer crust to a lightly greased pizza pan or baker 's peel dusted with cornmeal .
+PREDID: 239
+PRED: transfer
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: a lightly greased pizza pan or baker 's peel dusted
+     PREP: to
+      NON-INGREDIENT SPAN: a lightly greased pizza pan or baker 's peel dusted
+   PARG: cornmeal
+     PREP: with
+      NON-INGREDIENT SPAN: cornmeal
+
+
+SENTID: 8
+SENT: I would spread with desired toppings and bake in preheated oven for 15 to 20 minutes , or until golden brown .
+PREDID: 309
+PRED: spread
+   DOBJ: NULL
+   PARG: desired toppings
+     PREP: with
+      NON-INGREDIENT SPAN: desired toppings
+
+PREDID: 337
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 to 20 minutes
+
+
+SENTID: 9
+SENT: I would let baked pizza cool for 5 minutes before serving .
+PREDID: 392
+PRED: let
+   DOBJ: NULL
+   PARG: baked pizza cool for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: baked pizza cool for 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

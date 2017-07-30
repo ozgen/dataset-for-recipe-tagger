@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9 inch pie pan .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9 inch pie pan
+      INGREDIENT SPAN: a 9 inch pie pan
+         INGREDIENTS: pumpkin pie spice
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine sugar and baking mix .
+PREDID: 77
+PRED: combine
+   DOBJ: sugar, baking mix
+      INGREDIENT SPAN:  baking mix
+         INGREDIENTS: biscuit baking mix
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would stir in butter , the milk and eggs .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: butter , the milk, eggs
+     PREP: in
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+
+
+SENTID: 4
+SENT: I would then beat in pumpkin , the spice and vanilla to mixture until smooth .
+PREDID: 131
+PRED: beat
+   DOBJ: NULL
+   PARG: pumpkin , the spice, vanilla
+     PREP: in
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce solid pack pumpkin puree
+      NON-INGREDIENT SPAN:  the spice
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 5
+SENT: I would pour into pie pan .
+PREDID: 181
+PRED: pour
+   DOBJ: NULL
+   PARG: pie pan
+     PREP: into
+      NON-INGREDIENT SPAN: pie pan
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 50 to 55 minutes , or until knife inserted in center comes out clean .
+PREDID: 196
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50 to 55 minutes , or until knife inserted in center comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN:  or until knife inserted in center comes out clean
+      NON-INGREDIENT SPAN: preheated oven for 50 to 55 minutes 
+
+
+SENTID: 7
+SENT: I would refrigerate any remaining pie .
+PREDID: 274
+PRED: refrigerate
+   DOBJ: any remaining pie
+      NON-INGREDIENT SPAN: any remaining pie
+
+
+SENTID: 8
+SENT: I would high altitude directions :
+PREDID: 305
+PRED: altitude
+   DOBJ: directions
+      NON-INGREDIENT SPAN: directions
+   OARG: high
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 9
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 45 to 50 minutes .
+PREDID: 324
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 45 to 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 to 50 minutes
+
+

@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would place eggs in a pot of salted water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a pot of salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a pot of salted water
+
+
+SENTID: 1
+SENT: I would bring the water to a boil , and let eggs cook in boiling water until they are hard boiled , approximately 10 to 15 minutes .
+PREDID: 29
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 53
+PRED: let cook
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water
+   PARG: they are hard boiled
+     PREP: until
+      NON-INGREDIENT SPAN: they are hard boiled
+   PARG: approximately 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 10 to 15 minutes
+
+
+SENTID: 2
+SENT: I would drain eggs , and let cool .
+PREDID: 128
+PRED: drain
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+
+PREDID: 141
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: I would cut eggs in half , lengthwise .
+PREDID: 149
+PRED: cut
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+   OARG: lengthwise
+      NON-INGREDIENT SPAN: lengthwise
+
+
+SENTID: 4
+SENT: I would remove the egg yolks and mash them together in a small mixing bowl .
+PREDID: 174
+PRED: remove
+   DOBJ: the egg yolks
+      NON-INGREDIENT SPAN: the egg yolks
+
+PREDID: 194
+PRED: mash
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a small mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would mix in the paprika , the mayonnaise , and dry mustard .
+PREDID: 229
+PRED: mix
+   DOBJ: NULL
+   PARG: the paprika , the mayonnaise , dry mustard
+     PREP: in
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: mustard powder
+
+
+SENTID: 6
+SENT: I would spoon mixture into the egg whites ;
+PREDID: 270
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: the egg whites
+
+
+SENTID: 7
+SENT: I would cool and serve .
+PREDID: 299
+PRED: cool and serve
+   DOBJ: NULL
+
+

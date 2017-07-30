@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="whisk
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="combine
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="toss
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="refrigerate
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="add
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: packages chicken flavored ramen noodles", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="DURATION:in a bowl of warm water, soak for 15 minutes or until soft", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1_ing[label="DOBJ: vegetable oil, white wine vinegar, white sugar", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="seasoning packs"]
+E1 -> E2 [label="the noodles"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: in water chestnuts, mandarin oranges drained and sliced, bunch green onions, package coleslaw mix, sunflower seeds", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="dressing"]
+P4_0_0[label="LOCOROBJ:over salad", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="DURATION:for 2 to 4 hours", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: cashews", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+P7_1_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

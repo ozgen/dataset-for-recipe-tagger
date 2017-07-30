@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would put coleslaw mix in a large bowl ;
+PREDID: 0
+PRED: put
+   DOBJ: coleslaw mix
+      INGREDIENT SPAN: coleslaw mix
+         INGREDIENTS: ounce package coleslaw mix carrots
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would add crushed ramen noodles , the almonds , sunflower seeds , and green onions .
+PREDID: 27
+PRED: add
+   DOBJ: crushed ramen noodles , the almonds , sunflower seeds , green onions
+      INGREDIENT SPAN: crushed ramen noodles 
+         INGREDIENTS: ounce packages ramen noodles flavor crushed
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: shelled sunflower seeds
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: slivered almonds
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 88
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would pour vinegar into a jar and add seasoning packets from ramen noodles ;
+PREDID: 96
+PRED: pour
+   DOBJ: vinegar
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: vinegar
+   PARG: a jar
+     PREP: into
+      NON-INGREDIENT SPAN: a jar
+
+PREDID: 118
+PRED: add
+   DOBJ: seasoning packets
+      NON-INGREDIENT SPAN: seasoning packets
+   PARG: ramen noodles
+     PREP: from
+      NON-INGREDIENT SPAN: ramen noodles
+
+
+SENTID: 4
+SENT: I would cover jar and shake until seasoning is mixed into vinegar .
+PREDID: 154
+PRED: cover
+   DOBJ: jar
+      NON-INGREDIENT SPAN: jar
+
+PREDID: 165
+PRED: shake
+   DOBJ: NULL
+   PARG: seasoning is mixed into vinegar
+     PREP: until
+      NON-INGREDIENT SPAN: seasoning is mixed into vinegar
+
+
+SENTID: 5
+SENT: I would pour the dressing over coleslaw mixture ;
+PREDID: 203
+PRED: pour
+   DOBJ: the dressing over coleslaw mixture
+      NON-INGREDIENT SPAN: the dressing over coleslaw mixture
+
+
+SENTID: 6
+SENT: I would toss to coat .
+PREDID: 235
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 7
+SENT: I would refrigerate for flavors to blend , about 1 hour .
+PREDID: 246
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: flavors
+     PREP: for
+      NON-INGREDIENT SPAN: flavors
+   OARG: to blend , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: to blend 
+
+

@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would remove corn kernels from the ears of corn .
+PREDID: 0
+PRED: remove
+   DOBJ: corn kernels
+      INGREDIENT SPAN: corn kernels
+         INGREDIENTS: ears fresh corn
+   PARG: the ears of corn
+     PREP: from
+      NON-INGREDIENT SPAN: the ears of corn
+
+
+SENTID: 1
+SENT: I would saute bacon , the onions , and corn in a medium pot until the onions are translucent and the bacon is crispy .
+PREDID: 35
+PRED: saute
+   DOBJ: bacon , the onions , corn
+      INGREDIENT SPAN: bacon 
+         INGREDIENTS: slices bacon diced
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: white onion chopped
+      NON-INGREDIENT SPAN:  corn
+   PARG: a medium pot
+     PREP: in
+      NON-INGREDIENT SPAN: a medium pot
+   PARG: the onions are translucent
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are translucent
+   OARG: the bacon is crispy
+      NON-INGREDIENT SPAN: the bacon is crispy
+
+
+SENTID: 2
+SENT: I would add the heavy cream .
+PREDID: 120
+PRED: add
+   DOBJ: the heavy cream
+      INGREDIENT SPAN: the heavy cream
+         INGREDIENTS: heavy whipping cream
+
+
+SENTID: 3
+SENT: I would heat through over medium low heat .
+PREDID: 137
+PRED: heat
+   DOBJ: NULL
+   PARG: medium low heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium low heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 4
+SENT: I would season with salt and pepper .
+PREDID: 166
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 5
+SENT: I would serve .
+PREDID: 190
+PRED: serve
+   DOBJ: NULL
+
+

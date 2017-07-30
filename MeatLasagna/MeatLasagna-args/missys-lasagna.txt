@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: In a medium size skillet cook ground beef .
+
+SENTID: 1
+SENT: After beef is brown , add chopped onion and green pepper , the mushrooms , and stir until vegetables are tender .
+PREDID: 52
+PRED: brown and add
+   DOBJ: chopped onion, green pepper , the mushrooms
+      INGREDIENT SPAN: chopped onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: ounce mushrooms drained
+   PARG: beef is i
+     PREP: after
+      INGREDIENT SPAN: beef is i
+         INGREDIENTS: lean ground beef
+
+PREDID: 105
+PRED: stir
+   DOBJ: NULL
+   PARG: vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are tender
+
+
+SENTID: 2
+SENT: I would stir in the can of tomato sauce .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: the can of tomato sauce
+     PREP: in
+      INGREDIENT SPAN: the can of tomato sauce
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 3
+SENT: In a large bowl mix the eggs , I would half of the shredded mozzarella cheese , cottage cheese , ricotta cheese , the milk , and bread crumbs .
+
+SENTID: 4
+SENT: To assemble , coat bottom of 9x13 inch casserole dish with a third of the sauce mixture .
+
+SENTID: 5
+SENT: I would layer uncooked noodles on top .
+PREDID: 222
+PRED: layer
+   DOBJ: uncooked noodles
+      INGREDIENT SPAN: uncooked noodles
+         INGREDIENTS: ounce package instant lasagna noodles
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 6
+SENT: I would add another third of the sauce , and
+PREDID: 248
+PRED: add
+   DOBJ: another third of the sauce , and
+      INGREDIENT SPAN: another third of the sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  and
+
+
+SENTID: 7
+SENT: I would half of the cheese mixture .
+
+SENTID: 8
+SENT: I would repeat the layering with noodles , the cheese , and sauce .
+PREDID: 277
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: noodles , the cheese , sauce
+     PREP: with
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: partskim ricotta cheese
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: noodles 
+
+
+SENTID: 9
+SENT: I would sprinkle the remaining shredded mozzarella cheese on top .
+PREDID: 319
+PRED: sprinkle
+   DOBJ: the remaining shredded mozzarella cheese on top
+      INGREDIENT SPAN: the remaining shredded mozzarella cheese on top
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 10
+SENT: I would bake in a preheated 350 degrees F -LRB- 175 degrees C -RRB- oven for 45 minutes .
+PREDID: 366
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 11
+SENT: I would let the stand 10 to 15 minutes before serving .
+PREDID: 423
+PRED: let
+   DOBJ: NULL
+   PARG: the stand 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the stand 10 to 15 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

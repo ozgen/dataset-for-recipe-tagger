@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would combine broccoli coleslaw mix , sunflower seeds , almonds , and ramen noodles together in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: broccoli coleslaw mix , sunflower seeds , almonds , ramen noodles
+      INGREDIENT SPAN:  almonds 
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN: broccoli coleslaw mix 
+         INGREDIENTS: (12 ounce) package broccoli coleslaw mix
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: sunflower seeds
+      INGREDIENT SPAN:  ramen noodles
+         INGREDIENTS: (3 ounce) package Oriental-flavored ramen noodles
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would whisk canola oil , sugar , ramen noodle seasoning packet , and vinegar together in a separate bowl ;
+PREDID: 81
+PRED: whisk
+   DOBJ: canola oil , sugar , ramen noodle seasoning packet
+      INGREDIENT SPAN: canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  ramen noodle seasoning packet
+
+PREDID: 132
+PRED: vinegar
+   DOBJ: NULL
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would pour over slaw mixture .
+PREDID: 163
+PRED: pour
+   DOBJ: NULL
+   PARG: slaw mixture
+     PREP: over
+      NON-INGREDIENT SPAN: slaw mixture
+
+
+SENTID: 3
+SENT: I would fold in green onions .
+PREDID: 183
+PRED: fold
+   DOBJ: NULL
+   PARG: green onions
+     PREP: in
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: green onions
+
+
+SENTID: 4
+SENT: I would chill in refrigerator for 1Ê1/2 hours before serving .
+PREDID: 201
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator for 1Ê1/2 hours
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator for 1Ê1/2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

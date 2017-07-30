@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of water to a boil .
+PREDID: 41
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the egg noodles , and cook until tender , about 8 minutes .
+PREDID: 70
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+PREDID: 90
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would meanwhile , crumble the ground beef and pork into a large skillet over medium heat .
+PREDID: 130
+PRED: crumble
+   DOBJ: the ground beef, pork into a large skillet over medium heat
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  pork into a large skillet over medium heat
+         INGREDIENTS: pork sausage
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would add the onion to the meat once there are juices in the pan .
+PREDID: 189
+PRED: add
+   DOBJ: the onion
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+   PARG: the meat
+     PREP: to
+      NON-INGREDIENT SPAN: the meat
+   PARG: there are juices in the pan
+     PREP: once
+      NON-INGREDIENT SPAN: there are juices in the pan
+
+
+SENTID: 5
+SENT: I would cook and stir until onion is tender and meat is no longer pink .
+PREDID: 236
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onion is tender, meat is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN:  meat is no longer pink
+      NON-INGREDIENT SPAN: onion is tender
+
+
+SENTID: 6
+SENT: I would drain grease .
+PREDID: 287
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 7
+SENT: I would transfer the meat and onion to a 9x13 inch baking dish , and mix in the egg noodles , the cheese , tomato sauce , the corn , green pepper and mushrooms .
+PREDID: 299
+PRED: transfer
+   DOBJ: the meat, onion
+      NON-INGREDIENT SPAN: the meat
+      NON-INGREDIENT SPAN:  onion
+   PARG: a 9x13 inch baking dish , mix in the egg noodles , the cheese , tomato sauce , the corn , green pepper, mushrooms
+     PREP: to
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: pound loaf processed cheese food cubed
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce package frozen corn
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: green bell pepper seeded chopped
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish 
+      NON-INGREDIENT SPAN:  mix in the egg noodles 
+
+
+SENTID: 8
+SENT: I would bake for 45 minutes in the preheated oven , until bubbling hot and lightly browned on the top .
+PREDID: 414
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+   PARG: bubbling hot, lightly browned on the top
+     PREP: until
+      NON-INGREDIENT SPAN: bubbling hot
+      NON-INGREDIENT SPAN:  lightly browned on the top
+
+

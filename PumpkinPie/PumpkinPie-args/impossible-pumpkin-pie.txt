@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease one 9-inch pie pan , and set aside .
+PREDID: 38
+PRED: grease
+   DOBJ: one 9-inch pie pan
+      NON-INGREDIENT SPAN: one 9-inch pie pan
+
+PREDID: 63
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would sift together the flour , baking powder , the salt , the cinnamon , the allspice , the ginger and nutmeg .
+PREDID: 72
+PRED: sift
+   DOBJ: the flour , baking powder , the salt , the cinnamon , the allspice , the ginger, nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: In a large bowl , I would beat together the sugar , the butter and eggs .
+PREDID: 158
+PRED: beat
+   DOBJ: the sugar , the butter, eggs
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would mix in the pumpkin , the milk and vanilla .
+PREDID: 193
+PRED: mix
+   DOBJ: NULL
+   PARG: the pumpkin , the milk, vanilla
+     PREP: in
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+
+
+SENTID: 5
+SENT: I would add the sifted ingredients , and beat until smooth .
+PREDID: 224
+PRED: add
+   DOBJ: the sifted ingredients
+      NON-INGREDIENT SPAN: the sifted ingredients
+
+PREDID: 251
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 6
+SENT: I would pour into the prepared pan .
+PREDID: 267
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 55 minutes , or until a toothpick inserted in center comes out clean .
+PREDID: 290
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- for 50 to 55 minutes , or until a toothpick inserted in center comes out clean
+     PREP: at
+      NON-INGREDIENT SPAN:  or until a toothpick inserted in center comes out clean
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- for 50 to 55 minutes 
+
+

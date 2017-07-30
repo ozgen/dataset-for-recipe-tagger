@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: the oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a muffin pan with non-stick spray or line with paper muffin liners .
+PREDID: 41
+PRED: grease pan
+   DOBJ: a muffin
+      NON-INGREDIENT SPAN: a muffin
+   PARG: non-stick spray or line
+     PREP: with
+      NON-INGREDIENT SPAN: non-stick spray or line
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would sift together the flour , baking powder , the cinnamon and salt ;
+PREDID: 103
+PRED: sift
+   DOBJ: the flour , baking powder , the cinnamon, salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 153
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a medium bowl , I would cream together the sugar , the margarine and egg with an electric mixer until light and fluffy .
+PREDID: 176
+PRED: cream
+   DOBJ: the sugar , the margarine, egg with an electric mixer
+      INGREDIENT SPAN:  egg with an electric mixer
+         INGREDIENTS: egg
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  the margarine
+         INGREDIENTS: reducedcalorie margarine
+   PARG: a medium bowl
+     PREP: in
+      INGREDIENT SPAN: a medium bowl
+         INGREDIENTS: medium ripe bananas mashed
+   PARG: light, fluffy
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy
+      NON-INGREDIENT SPAN: light
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would mix in bananas , the vanilla , the cereal and dates .
+PREDID: 252
+PRED: mix
+   DOBJ: NULL
+   PARG: bananas , the vanilla , the cereal, dates
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cereal
+         INGREDIENTS: bran flakes cereal
+      INGREDIENT SPAN:  dates
+         INGREDIENTS: dates pitted chopped
+      NON-INGREDIENT SPAN: bananas 
+
+
+SENTID: 6
+SENT: I would blend in dry ingredients until just incorporated .
+PREDID: 288
+PRED: blend
+   DOBJ: NULL
+   PARG: dry ingredients
+     PREP: in
+      NON-INGREDIENT SPAN: dry ingredients
+   PARG: just incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: just incorporated
+
+
+SENTID: 7
+SENT: I would spoon into prepared muffin cups to about 2/3 full .
+PREDID: 331
+PRED: spoon
+   DOBJ: NULL
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+   PARG: about 2/3 full
+     PREP: to
+      NON-INGREDIENT SPAN: about 2/3 full
+
+
+SENTID: 8
+SENT: I would bake for 20 to 25 minutes in the preheated oven , until a toothpick inserted into the center comes out clean .
+PREDID: 373
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 to 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 25 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean
+
+
+SENTID: 9
+SENT: I would cool in pan over a wire rack for at least 10 minutes before removing muffins from the pan .
+PREDID: 462
+PRED: cool
+   DOBJ: NULL
+   PARG: pan over a wire rack for at least 10 minutes before removing muffins from the pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan over a wire rack for at least 10 minutes before removing muffins from the pan
+
+

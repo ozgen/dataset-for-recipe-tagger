@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: I would cook ground beef and onion until done .
+PREDID: 0
+PRED: cook
+   DOBJ: ground beef, onion
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: done
+     PREP: until
+      NON-INGREDIENT SPAN: done
+
+
+SENTID: 1
+SENT: In slow cooker or Dutch oven add all ingredients together .
+
+SENTID: 2
+SENT: I would simmer several hours .
+PREDID: 81
+PRED: simmer
+   DOBJ: NULL
+   PARG: several hours
+     PREP: for
+      NON-INGREDIENT SPAN: several hours
+
+

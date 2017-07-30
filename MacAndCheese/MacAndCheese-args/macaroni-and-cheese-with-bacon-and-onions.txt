@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would follow the recipe for Creamy Macaroni and Cheese using Vermont white cheddar .
+PREDID: 0
+PRED: follow
+   DOBJ: the recipe for Creamy Macaroni, Cheese
+      INGREDIENT SPAN: the recipe for Creamy Macaroni
+         INGREDIENTS: recipe Creamy Macaroni Cheese
+      NON-INGREDIENT SPAN:  Cheese
+   OARG: using vermont white cheddar
+      NON-INGREDIENT SPAN: using vermont white cheddar
+
+
+SENTID: 1
+SENT: I would fry bacon in a large skillet over medium-high heat until crisp , about 5 minutes .
+PREDID: 66
+PRED: fry
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: thicksliced bacon cut inch
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: crisp , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: crisp 
+
+
+SENTID: 2
+SENT: I would transfer to a paper towel-lined plate .
+PREDID: 133
+PRED: transfer
+   DOBJ: NULL
+   PARG: a paper towel-lined plate
+     PREP: to
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 3
+SENT: I would pour off all but 3 tablespoons of bacon drippings .
+PREDID: 166
+PRED: pour
+   DOBJ: all but 3 tablespoons of bacon drippings
+      NON-INGREDIENT SPAN: all but 3 tablespoons of bacon drippings
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would add onions and thyme ;
+PREDID: 208
+PRED: add
+   DOBJ: onions, thyme
+      INGREDIENT SPAN: onions
+         INGREDIENTS: large onions sliced
+      NON-INGREDIENT SPAN:  thyme
+
+
+SENTID: 5
+SENT: I would saute until soft and golden brown , 8 to 10 minutes .
+PREDID: 226
+PRED: saute
+   DOBJ: NULL
+   PARG: soft, golden brown , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN: soft
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 6
+SENT: I would stir bacon and onions into macaroni .
+PREDID: 268
+PRED: stir
+   DOBJ: bacon, onions
+      NON-INGREDIENT SPAN:  onions
+      NON-INGREDIENT SPAN: bacon
+   PARG: macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: macaroni
+
+
+SENTID: 7
+SENT: I would serve hot .
+PREDID: 299
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

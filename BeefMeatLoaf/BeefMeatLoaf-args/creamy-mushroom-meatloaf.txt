@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: I would preheat the oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would melt butter in an oven-safe skillet over medium-high heat .
+PREDID: 41
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: an oven-safe skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: an oven-safe skillet over medium-high heat
+
+
+SENTID: 2
+SENT: I would stir in mushrooms and a pinch of salt ;
+PREDID: 91
+PRED: stir
+   DOBJ: NULL
+   PARG: mushrooms, a pinch of salt
+     PREP: in
+      INGREDIENT SPAN:  a pinch of salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: shiitake mushrooms sliced
+
+
+SENTID: 3
+SENT: I would cook and stir until mushrooms begin to brown , about 5 minutes .
+PREDID: 122
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: mushrooms begin to brown , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: mushrooms begin to brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would stir in fresh rosemary .
+PREDID: 174
+PRED: stir
+   DOBJ: NULL
+   PARG: fresh rosemary
+     PREP: in
+      INGREDIENT SPAN: fresh rosemary
+         INGREDIENTS: sprig fresh rosemary chopped
+
+
+SENTID: 5
+SENT: I would add flour and stir to coat the mushrooms ;
+PREDID: 194
+PRED: add
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 205
+PRED: stir
+   DOBJ: NULL
+   OARG: to coat the mushrooms
+      NON-INGREDIENT SPAN: to coat the mushrooms
+
+
+SENTID: 6
+SENT: I would cook and stir for about 3 minutes .
+PREDID: 228
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 3 minutes
+
+
+SENTID: 7
+SENT: I would whisk in beef broth , 1/2 cup at a time , whisking constantly to prevent lumps .
+PREDID: 256
+PRED: whisk
+   DOBJ: NULL
+   PARG: beef broth , 1/2 cup at a time , whisking constantly to prevent lumps
+     PREP: in
+      INGREDIENT SPAN: beef broth 
+         INGREDIENTS: beef broth
+      NON-INGREDIENT SPAN:  1/2 cup at a time 
+      NON-INGREDIENT SPAN:  whisking constantly to prevent lumps
+
+
+SENTID: 8
+SENT: I would turn heat to high and bring the sauce to a simmer .
+PREDID: 320
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 337
+PRED: bring
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 9
+SENT: I would simmer a few minutes until sauce starts to thicken .
+PREDID: 360
+PRED: simmer
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+   PARG: sauce starts
+     PREP: until
+      NON-INGREDIENT SPAN: sauce starts
+
+
+SENTID: 10
+SENT: I would season with salt and pepper to taste .
+PREDID: 403
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 11
+SENT: I would remove from heat and stir in heavy cream .
+PREDID: 434
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 451
+PRED: stir
+   DOBJ: NULL
+   PARG: heavy cream
+     PREP: in
+      INGREDIENT SPAN: heavy cream
+         INGREDIENTS: heavy cream
+
+
+SENTID: 12
+SENT: I would slide prepared meatloaf into the sauce .
+PREDID: 468
+PRED: slide
+   DOBJ: prepared meatloaf
+      INGREDIENT SPAN: prepared meatloaf
+         INGREDIENTS: pound uncooked prepared beef veal pork meatloaf
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+
+SENTID: 13
+SENT: I would spoon sauce over the top of the meatloaf .
+PREDID: 502
+PRED: spoon
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: the top of the meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the meatloaf
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1?1/2 hours .
+PREDID: 536
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 15
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 16
+SENT: I would remove the pan from the oven and gently remove meatloaf to a serving platter .
+PREDID: 603
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 635
+PRED: remove
+   DOBJ: meatloaf
+      NON-INGREDIENT SPAN: meatloaf
+   PARG: a serving platter
+     PREP: to
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 17
+SENT: I would skim off any extra fat from the surface of the sauce .
+PREDID: 664
+PRED: skim
+   DOBJ: any extra fat
+      NON-INGREDIENT SPAN: any extra fat
+   PARG: the surface of the sauce
+     PREP: from
+      NON-INGREDIENT SPAN: the surface of the sauce
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 18
+SENT: I would bring the sauce to a boil over medium-high heat to reduce until thick , about 5 minutes .
+PREDID: 707
+PRED: bring
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: a boil over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-high heat
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   OARG: to reduce until thick
+      NON-INGREDIENT SPAN: to reduce until thick
+
+

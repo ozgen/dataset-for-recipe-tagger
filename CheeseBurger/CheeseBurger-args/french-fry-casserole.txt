@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- , and grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+PREDID: 49
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 1
+SENT: I would heat the oil in a skillet , and cook and stir the ground beef , the onion , and green pepper over medium heat for about 15 minutes , until the meat is crumbly and no longer pink and the onion is translucent .
+PREDID: 67
+PRED: heat
+   DOBJ: the oil in a skillet
+      INGREDIENT SPAN: the oil in a skillet
+         INGREDIENTS: vegetable oil
+   OARG: the onion is translucent
+      INGREDIENT SPAN: the onion is translucent
+         INGREDIENTS: onion diced
+
+PREDID: 91
+PRED: cook and stir
+   DOBJ: the ground beef , the onion , green pepper
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: green bell pepper diced
+      NON-INGREDIENT SPAN:  the onion 
+   PARG: medium heat for about 15 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat for about 15 minutes
+   PARG: the meat is crumbly, no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink
+      NON-INGREDIENT SPAN: the meat is crumbly
+
+
+SENTID: 2
+SENT: I would season with salt and pepper to taste , and stir in the condensed mushroom soup .
+PREDID: 229
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+PREDID: 263
+PRED: stir
+   DOBJ: NULL
+   PARG: the condensed mushroom soup
+     PREP: in
+      INGREDIENT SPAN: the condensed mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+
+SENTID: 3
+SENT: I would bring the mixture to a simmer over medium-low heat .
+PREDID: 294
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a simmer over medium-low heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over medium-low heat
+
+
+SENTID: 4
+SENT: I would scoop the cheese sauce into a microwaveable bowl , and melt on low power for about 30 seconds .
+PREDID: 337
+PRED: scoop
+   DOBJ: the cheese sauce
+      INGREDIENT SPAN: the cheese sauce
+         INGREDIENTS: processed cheese sauce such Cheez Whiz
+   PARG: a microwaveable bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a microwaveable bowl
+
+PREDID: 382
+PRED: melt
+   DOBJ: NULL
+   PARG: low power for about 30 seconds
+     PREP: on
+      NON-INGREDIENT SPAN: low power for about 30 seconds
+
+
+SENTID: 5
+SENT: I would place the ground beef mixture into the bottom of the prepared baking dish , and spread an even layer of the melted cheese sauce over the ground beef .
+PREDID: 414
+PRED: place
+   DOBJ: the ground beef mixture
+      NON-INGREDIENT SPAN: the ground beef mixture
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+PREDID: 479
+PRED: spread
+   DOBJ: an even layer of the melted cheese sauce over the ground beef
+      NON-INGREDIENT SPAN: an even layer of the melted cheese sauce over the ground beef
+
+
+SENTID: 6
+SENT: I would top with frozen shoestring fries .
+PREDID: 536
+PRED: top
+   DOBJ: NULL
+   PARG: frozen shoestring fries
+     PREP: with
+      INGREDIENT SPAN: frozen shoestring fries
+         INGREDIENTS: ounce package frozen shoestring potato fries
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven for about 20 minutes , until the fries are starting to turn golden .
+PREDID: 565
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for about 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for about 20 minutes
+   PARG: the fries are starting
+     PREP: until
+      NON-INGREDIENT SPAN: the fries are starting
+
+

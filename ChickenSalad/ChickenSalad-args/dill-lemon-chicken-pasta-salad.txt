@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a large bowl combine the chicken , I would the celery and pasta and toss together .
+
+SENTID: 1
+SENT: In a separate large bowl , I would combine the mayonnaise , lemon juice and dill weed and mix well ,
+PREDID: 21
+PRED: combine
+   DOBJ: the mayonnaise , lemon juice, dill weed, mix well
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dill weed
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  mix well
+   PARG: a separate large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large bowl
+
+
+SENTID: 2
+SENT: I would stir in buttermilk .
+PREDID: 74
+PRED: stir
+   DOBJ: NULL
+   PARG: buttermilk
+     PREP: in
+      INGREDIENT SPAN: buttermilk
+         INGREDIENTS: buttermilk
+
+
+SENTID: 3
+SENT: I would add lemon dill mixture to chicken mixture and toss to coat .
+PREDID: 91
+PRED: add
+   DOBJ: lemon dill mixture
+      NON-INGREDIENT SPAN: lemon dill mixture
+   PARG: chicken mixture
+     PREP: to
+      INGREDIENT SPAN: chicken mixture
+         INGREDIENTS: skinless boneless chicken breast halves cooked cut bite
+
+PREDID: 129
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would cover bowl , chill for 20 minutes , and serve .
+PREDID: 140
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 150
+PRED: chill
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+

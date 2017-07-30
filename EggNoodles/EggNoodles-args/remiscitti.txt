@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 38
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 76
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 130
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 153
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 167
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain well in a colander set in the sink , and rinse with cold water .
+PREDID: 278
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 314
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 5
+SENT: I would place the bacon into a Dutch oven or enameled casserole dish over medium heat , and cook until just starting to soften , 3 to 4 minutes ;
+PREDID: 333
+PRED: place
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: slices bacon chopped
+   PARG: a dutch oven or enameled casserole dish over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a dutch oven or enameled casserole dish over medium heat
+   OARG: 3 to 4 minutes
+      NON-INGREDIENT SPAN: 3 to 4 minutes
+
+PREDID: 401
+PRED: cook
+   DOBJ: NULL
+   PARG: just starting to soften
+     PREP: until
+      NON-INGREDIENT SPAN: just starting to soften
+
+
+SENTID: 6
+SENT: I would add the ground beef , the onion , and green pepper , and cook and stir until the meat is browned and the vegetables are tender , about 10 minutes .
+PREDID: 443
+PRED: add
+   DOBJ: the ground beef , the onion , green pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: small green bell pepper chopped
+   OARG: the vegetables are tender , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the vegetables are tender 
+
+PREDID: 487
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the meat is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is browned
+
+
+SENTID: 7
+SENT: I would drain excess fat .
+PREDID: 557
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 8
+SENT: I would mix in the cooked noodles , the mushrooms , and diced tomatoes until thoroughly combined .
+PREDID: 572
+PRED: mix
+   DOBJ: NULL
+   PARG: the cooked noodles , the mushrooms , diced tomatoes
+     PREP: in
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes undrained
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN: the cooked noodles 
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 9
+SENT: I would sprinkle the Parmesan cheese over the mixture , and pour the tomato juice over the casserole .
+PREDID: 644
+PRED: sprinkle
+   DOBJ: the Parmesan cheese
+      INGREDIENT SPAN: the Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese taste
+   PARG: the mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the mixture
+
+PREDID: 687
+PRED: pour
+   DOBJ: the tomato juice
+      INGREDIENT SPAN: the tomato juice
+         INGREDIENTS: fluid ounce tomato juice
+   PARG: the casserole
+     PREP: over
+      NON-INGREDIENT SPAN: the casserole
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until browned and bubbling , about 1 hour .
+PREDID: 722
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: browned, bubbling , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  bubbling 
+
+

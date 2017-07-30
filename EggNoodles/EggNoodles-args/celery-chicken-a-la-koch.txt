@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large mixing bowl combine the noodles , I would chicken meat , the soup , 2 cans of the milk and celery .
+PREDID: 74
+PRED: combine chicken
+   DOBJ: meat , the soup , 2 cans of the milk, celery, the noodles
+      INGREDIENT SPAN:  the noodles
+         INGREDIENTS: cooked egg noodles
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed cream celery soup
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: meat 
+         INGREDIENTS: chopped chicken breast meat
+      INGREDIENT SPAN:  2 cans of the milk
+         INGREDIENTS: fluid ounce evaporated milk
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 2
+SENT: I would mix well and spread mixture into the bottom of a 9x13 inch baking dish .
+PREDID: 115
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 125
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 3
+SENT: I would pour the remaining can of milk over all ;
+PREDID: 173
+PRED: pour
+   DOBJ: the remaining can of milk over all
+      INGREDIENT SPAN: the remaining can of milk over all
+         INGREDIENTS: fluid ounce evaporated milk
+
+
+SENTID: 4
+SENT: do not mix in .
+
+SENTID: 5
+SENT: I would then top all with potato chip crumbs .
+PREDID: 210
+PRED: top
+   DOBJ: all with potato chip crumbs
+      INGREDIENT SPAN: all with potato chip crumbs
+         INGREDIENTS: crushed potato chips
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 6
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 minutes .
+PREDID: 237
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 minutes
+
+
+SENTID: 7
+SENT: I would serve hot .
+PREDID: 280
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

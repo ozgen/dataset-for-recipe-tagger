@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would cut a pocket in each slice of bread .
+PREDID: 0
+PRED: cut
+   DOBJ: a pocket
+      NON-INGREDIENT SPAN: a pocket
+   PARG: each slice of bread
+     PREP: in
+      INGREDIENT SPAN: each slice of bread
+         INGREDIENTS: inch thick slices French bread
+
+
+SENTID: 1
+SENT: I would open carefully
+PREDID: 29
+PRED: open
+   DOBJ: NULL
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine the ricotta , cottage cheese and cream cheese .
+PREDID: 55
+PRED: combine
+   DOBJ: the ricotta , cottage cheese, cream cheese
+      INGREDIENT SPAN: the ricotta 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  cottage cheese
+         INGREDIENTS: cottage cheese whipped
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: lowfat cream cheese
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would add the sugar and flavoring extract and beat until smooth .
+PREDID: 101
+PRED: add
+   DOBJ: the sugar, flavoring extract
+      INGREDIENT SPAN:  flavoring extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+
+PREDID: 134
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would spread the mixture evenly into each bread pocket .
+PREDID: 150
+PRED: spread
+   DOBJ: NULL
+   PARG: each bread pocket
+     PREP: into
+      NON-INGREDIENT SPAN: each bread pocket
+   OARG: the mixture evenly
+      NON-INGREDIENT SPAN: the mixture evenly
+
+
+SENTID: 5
+SENT: I would beat together the egg substitutes and milk .
+PREDID: 192
+PRED: beat
+   DOBJ: the egg substitutes, milk
+      INGREDIENT SPAN: the egg substitutes
+         INGREDIENTS: egg substitute
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: evaporated milk
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would dip the slices of bread in the egg mixture .
+PREDID: 229
+PRED: dip
+   DOBJ: the slices of bread
+      NON-INGREDIENT SPAN: the slices of bread
+   PARG: the egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 7
+SENT: I would heat a nonstick pan over medium-high heat .
+PREDID: 264
+PRED: heat pan
+   DOBJ: medium-high heat, a nonstick
+      NON-INGREDIENT SPAN:  a nonstick
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would coat with cooking spray .
+PREDID: 300
+PRED: coat
+   DOBJ: NULL
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 9
+SENT: I would cook the toast on each side for about 3 to 4 minutes per side until golden brown .
+PREDID: 321
+PRED: cook
+   DOBJ: NULL
+   PARG: the toast on each side for about 3 to 4 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: the toast on each side for about 3 to 4 minutes per side
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+

@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat oven to 475 degrees F -LRB- 245 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 475 degrees F -LRB- 245 degrees C
+      NON-INGREDIENT SPAN: oven to 475 degrees F -LRB- 245 degrees C
+
+
+SENTID: 1
+SENT: I would heat 1 teaspoon olive oil in a skillet over medium heat ;
+PREDID: 38
+PRED: heat
+   DOBJ: 1 teaspoon olive oil
+      INGREDIENT SPAN: 1 teaspoon olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir pancetta until fat has been released , 3 to 5 minutes .
+PREDID: 84
+PRED: cook and stir
+   DOBJ: pancetta
+      INGREDIENT SPAN: pancetta
+         INGREDIENTS: slices pancetta
+   PARG: fat has been released , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: fat has been released 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 3
+SENT: I would transfer pancetta to a paper towel-lined plate .
+PREDID: 139
+PRED: transfer
+   DOBJ: pancetta
+      NON-INGREDIENT SPAN: pancetta
+   PARG: a paper towel-lined plate
+     PREP: to
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 4
+SENT: I would pour the remaining 5 teaspoons olive oil into the same skillet ;
+PREDID: 180
+PRED: pour
+   DOBJ: the remaining 5 teaspoons olive oil
+      INGREDIENT SPAN: the remaining 5 teaspoons olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: the same skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the same skillet
+
+
+SENTID: 5
+SENT: I would cook and stir garlic until fragrant , about 20 seconds .
+PREDID: 230
+PRED: cook and stir
+   DOBJ: garlic
+      NON-INGREDIENT SPAN: garlic
+   PARG: fragrant , about 20 seconds
+     PREP: until
+      NON-INGREDIENT SPAN:  about 20 seconds
+      NON-INGREDIENT SPAN: fragrant 
+
+
+SENTID: 6
+SENT: I would add Brussels sprouts to garlic ;
+PREDID: 276
+PRED: add
+   DOBJ: Brussels sprouts
+      INGREDIENT SPAN: Brussels sprouts
+         INGREDIENTS: Brussels sprouts trimmed sliced
+   PARG: garlic
+     PREP: to
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 7
+SENT: I would cook , stirring constantly , until sprouts begin to brown , 5 to 10 minutes .
+PREDID: 303
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring constantly , until sprouts begin to brown , 5 to 10 minutes
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  until sprouts begin to brown 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 8
+SENT: I would transfer sprouts and garlic to a bowl and crumble cooled pancetta over the mixture .
+PREDID: 365
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+   OARG: sprouts, garlic
+      NON-INGREDIENT SPAN: sprouts
+      NON-INGREDIENT SPAN:  garlic
+
+PREDID: 399
+PRED: crumble
+   DOBJ: cooled pancetta
+      NON-INGREDIENT SPAN: cooled pancetta
+   PARG: the mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 9
+SENT: I would add mozzarella cheese and fennel seed ;
+PREDID: 435
+PRED: add
+   DOBJ: mozzarella cheese, fennel seed
+      INGREDIENT SPAN:  fennel seed
+         INGREDIENTS: fennel seed
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese
+
+
+SENTID: 10
+SENT: I would toss to coat .
+PREDID: 468
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 11
+SENT: I would place pizza crust onto a baking sheet and spread Brussels sprouts mixture atop pizza crust .
+PREDID: 479
+PRED: place
+   DOBJ: pizza crust
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: 12inch pizza crust
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 513
+PRED: spread
+   DOBJ: Brussels sprouts mixture
+      NON-INGREDIENT SPAN: Brussels sprouts mixture
+   PARG: pizza crust
+     PREP: atop
+      NON-INGREDIENT SPAN: pizza crust
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until cheese is melted and bubbling , about 10 minutes .
+PREDID: 556
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted, bubbling , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  bubbling 
+
+

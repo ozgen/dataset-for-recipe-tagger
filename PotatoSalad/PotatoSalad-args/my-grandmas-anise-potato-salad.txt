@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place potatoes in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in a saucepan with enough water
+      INGREDIENT SPAN: potatoes in a saucepan with enough water
+         INGREDIENTS: medium baking potatoes peeled cubed
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil over medium heat , and cook until tender , about 8 to 10 minutes .
+PREDID: 47
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium heat
+
+PREDID: 77
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 to 10 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would remove from heat , drain , and run under cold water to cool .
+PREDID: 111
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 135
+PRED: run
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 159
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix together the potatoes , the celery , the onion , the mayonnaise , and anise seed .
+PREDID: 182
+PRED: mix
+   DOBJ: the potatoes , the celery , the onion , the mayonnaise , anise seed
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise taste
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  anise seed
+         INGREDIENTS: anise seed
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would season with salt and pepper to taste .
+PREDID: 242
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: I would refrigerate until cold .
+PREDID: 273
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 7
+SENT: I would garnish with sliced hard-cooked eggs , and dust with paprika , if desired .
+PREDID: 294
+PRED: garnish
+   DOBJ: NULL
+   PARG: sliced hard-cooked eggs , dust with paprika
+     PREP: with
+      INGREDIENT SPAN:  dust with paprika
+         INGREDIENTS: ground paprika
+      INGREDIENT SPAN: sliced hard-cooked eggs 
+         INGREDIENTS: hardcooked eggs sliced garnish
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

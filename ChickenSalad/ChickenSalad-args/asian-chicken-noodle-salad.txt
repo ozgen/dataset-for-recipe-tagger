@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix the noodles , sunflower seeds , and pine nuts with melted butter until evenly coated .
+PREDID: 51
+PRED: mix
+   DOBJ: the noodles , sunflower seeds , pine nuts
+      INGREDIENT SPAN: the noodles 
+         INGREDIENTS: ounce package ramen noodle pasta crushed
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: sunflower seeds
+      INGREDIENT SPAN:  pine nuts
+         INGREDIENTS: pine nuts
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: melted butter
+     PREP: with
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter melted
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 2
+SENT: I would spread the mixture in a thin layer on a baking sheet .
+PREDID: 125
+PRED: spread
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a thin layer on a baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: a thin layer on a baking sheet
+
+
+SENTID: 3
+SENT: I would bake 7 to 10 minutes in the preheated oven , stirring occasionally , until evenly toasted .
+PREDID: 168
+PRED: bake
+   DOBJ: NULL
+   PARG: 7 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 7 to 10 minutes
+   PARG: the preheated oven , stirring occasionally , until evenly toasted
+     PREP: in
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: the preheated oven 
+      NON-INGREDIENT SPAN:  until evenly toasted
+
+
+SENTID: 4
+SENT: I would remove from heat , and cool slightly .
+PREDID: 243
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 261
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 5
+SENT: In a large bowl toss together the noodle mixture , bok choy , green onions , the chicken , water chestnuts , and snow peas .
+PREDID: 308
+PRED: noodle
+   DOBJ: mixture , bok choy , green onions , the chicken , water chestnuts , snow peas
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  bok choy 
+         INGREDIENTS: shredded bok choy
+      INGREDIENT SPAN:  snow peas
+         INGREDIENTS: pods snow peas
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: diced cooked chicken breast meat
+      INGREDIENT SPAN:  water chestnuts 
+         INGREDIENTS: ounce water chestnuts drained
+      NON-INGREDIENT SPAN: mixture 
+   PARG: a large bowl toss
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl toss
+
+
+SENTID: 6
+SENT: I would prepare the dressing by blending the oil , the vinegar , soy sauce , the sugar , and lemon juice .
+PREDID: 370
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: blending the oil , the vinegar , soy sauce , the sugar , lemon juice
+     PREP: by
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN: blending the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 7
+SENT: I would pour over salad , and toss to evenly coat .
+PREDID: 442
+PRED: pour
+   DOBJ: NULL
+   PARG: salad
+     PREP: over
+      NON-INGREDIENT SPAN: salad
+
+PREDID: 459
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coat
+     PREP: to
+      NON-INGREDIENT SPAN: evenly coat
+
+
+SENTID: 8
+SENT: I would serve immediately , or refrigerate until chilled .
+PREDID: 476
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 495
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

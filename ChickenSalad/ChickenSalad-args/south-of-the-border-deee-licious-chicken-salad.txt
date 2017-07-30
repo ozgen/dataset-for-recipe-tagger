@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the chicken , the tomatoes , red onion , the jicama , the cilantro and lime juice .
+PREDID: 13
+PRED: combine
+   DOBJ: the chicken , the tomatoes , red onion , the jicama , the cilantro, lime juice
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: large jicama diced
+      INGREDIENT SPAN:  lime juice
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: small red onion diced
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ripe tomatoes diced
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: bunch fresh cilantro chopped
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breasts cooked diced
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would toss together well .
+PREDID: 77
+PRED: toss
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 2
+SENT: I would garnish with slices of avocado , season with salt and pepper and serve immediately .
+PREDID: 94
+PRED: garnish
+   DOBJ: NULL
+   PARG: slices of avocado , season with salt, pepper
+     PREP: with
+      INGREDIENT SPAN: slices of avocado 
+         INGREDIENTS: avocado peeled seeded sliced
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 147
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

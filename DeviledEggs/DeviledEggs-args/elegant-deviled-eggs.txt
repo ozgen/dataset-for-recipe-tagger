@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would slice eggs in half and remove yolks .
+PREDID: 0
+PRED: slice
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardboiled eggs peeled
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 18
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 1
+SENT: I would mash yolks with fork in medium bowl .
+PREDID: 30
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: fork in medium bowl
+     PREP: with
+      NON-INGREDIENT SPAN: fork in medium bowl
+
+
+SENTID: 2
+SENT: I would add mayonnaise , the salt and pepper .
+PREDID: 60
+PRED: add
+   DOBJ: mayonnaise , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: Dickinson Sweet Hot Pepper Onion Relish, ground black pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: Dickinson Sweet Hot Pepper Onion Relish, ground black pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 3
+SENT: I would blend well .
+PREDID: 88
+PRED: blend
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would fill egg whites with yolk mixture .
+PREDID: 98
+PRED: fill
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: yolk mixture
+
+
+SENTID: 5
+SENT: I would top half the eggs with Pepper and Onion Relish and half with Cranberry Relish .
+PREDID: 127
+PRED: top
+   DOBJ: half the eggs with Pepper, Onion Relish, half with Cranberry Relish
+      INGREDIENT SPAN:  Onion Relish
+         INGREDIENTS: Dickinson Cranberry Relish
+      NON-INGREDIENT SPAN: half the eggs with Pepper
+      NON-INGREDIENT SPAN:  half with Cranberry Relish
+
+
+SENTID: 6
+SENT: I would chill before serving .
+PREDID: 192
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 7
+SENT: I would garnish with cilantro , if desired .
+PREDID: 211
+PRED: garnish
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: Fresh cilantro leaves chopped
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

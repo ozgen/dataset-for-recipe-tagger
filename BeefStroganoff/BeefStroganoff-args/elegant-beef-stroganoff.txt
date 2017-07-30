@@ -1,0 +1,198 @@
+SENTID: 0
+SENT: I would mix steak and red wine together in a bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: steak, red wine
+      INGREDIENT SPAN: steak
+         INGREDIENTS: sirloin steak pounded 1/4inch thickness cut x
+      INGREDIENT SPAN:  red wine
+         INGREDIENTS: red wine
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside to marinate for 15 to 30 minutes .
+PREDID: 34
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to marinate for 15 to 30 minutes
+      NON-INGREDIENT SPAN: to marinate for 15 to 30 minutes
+
+
+SENTID: 2
+SENT: I would combine flour , the salt , the paprika , and black pepper together in a resealable plastic bag .
+PREDID: 69
+PRED: combine
+   DOBJ: flour , the salt , the paprika , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a resealable plastic bag
+     PREP: in
+      NON-INGREDIENT SPAN: a resealable plastic bag
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would remove steak from marinade , reserving red wine for later use ;
+PREDID: 141
+PRED: remove
+   DOBJ: steak
+      NON-INGREDIENT SPAN: steak
+   PARG: marinade
+     PREP: from
+      NON-INGREDIENT SPAN: marinade
+   OARG: reserving red wine for later use
+      NON-INGREDIENT SPAN: reserving red wine for later use
+
+
+SENTID: 4
+SENT: I would add steak to flour mixture and shake to coat .
+PREDID: 193
+PRED: add
+   DOBJ: steak
+      NON-INGREDIENT SPAN: steak
+   PARG: flour mixture
+     PREP: to
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 218
+PRED: shake
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would melt butter in a large skillet over medium-high heat ;
+PREDID: 230
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 6
+SENT: I would cook and stir steak , the onion , and garlic until steak is browned and onion is softened and translucent , 10 to 15 minutes .
+PREDID: 275
+PRED: cook and stir
+   DOBJ: steak , the onion
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: small onion diced
+      NON-INGREDIENT SPAN: steak 
+   OARG: garlic until steak is browned, onion is softened, translucent , 10 to 15 minutes
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN:  onion is softened
+      NON-INGREDIENT SPAN:  translucent 
+      NON-INGREDIENT SPAN: garlic until steak is browned
+
+
+SENTID: 7
+SENT: I would stir mushrooms , beef broth , the water , reserved red wine marinade , Worcestershire sauce , red pepper flakes , and mustard into steak mixture until well mixed ;
+PREDID: 373
+PRED: stir
+   DOBJ: mushrooms , beef broth , the water , reserved red wine marinade , Worcestershire sauce , red pepper flakes , mustard
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  beef broth 
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: canned sliced mushrooms
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      NON-INGREDIENT SPAN:  reserved red wine marinade 
+   PARG: steak mixture
+     PREP: into
+      NON-INGREDIENT SPAN: steak mixture
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 8
+SENT: I would bring to a boil .
+PREDID: 504
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would reduce heat , cover skillet , and simmer until steak is very tender , about 1 hour .
+PREDID: 517
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 528
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 544
+PRED: simmer
+   DOBJ: NULL
+   PARG: steak is very tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: steak is very tender 
+      NON-INGREDIENT SPAN:  about 1 hour
+
+
+SENTID: 10
+SENT: I would stir cream cheese and sour cream into steak mixture ;
+PREDID: 584
+PRED: stir
+   DOBJ: cream cheese, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: cream cheese
+   PARG: steak mixture
+     PREP: into
+      NON-INGREDIENT SPAN: steak mixture
+
+
+SENTID: 11
+SENT: I would cook and stir until warmed , 2 to 3 minutes .
+PREDID: 628
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: warmed , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: warmed 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 12
+SENT: I would serve over cooked noodles .
+PREDID: 663
+PRED: serve
+   DOBJ: NULL
+   PARG: cooked noodles
+     PREP: over
+      INGREDIENT SPAN: cooked noodles
+         INGREDIENTS: hot cooked noodles
+
+

@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a large pot , I would brown the meat , and
+PREDID: 12
+PRED: brown
+   DOBJ: the meat , and
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: the meat 
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+
+SENTID: 1
+SENT: I would add the onion and garlic .
+PREDID: 28
+PRED: add
+   DOBJ: the onion, garlic
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 2
+SENT: I would cook until the onion is soft .
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion is soft
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is soft
+
+
+SENTID: 3
+SENT: I would pour in the tomatoes and water .
+PREDID: 73
+PRED: pour
+   DOBJ: NULL
+   PARG: the tomatoes, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce diced tomatoes
+
+
+SENTID: 4
+SENT: I would add the potatoes .
+PREDID: 99
+PRED: add
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes diced
+
+
+SENTID: 5
+SENT: I would cook for 45 minutes .
+PREDID: 114
+PRED: cook
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 6
+SENT: I would add hot sauce , and cook for an additional 10 minutes .
+PREDID: 131
+PRED: add
+   DOBJ: hot sauce
+      INGREDIENT SPAN: hot sauce
+         INGREDIENTS: hot pepper sauce
+
+PREDID: 146
+PRED: cook
+   DOBJ: NULL
+   PARG: an additional 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 10 minutes
+
+
+SENTID: 7
+SENT: Before serving stir in chopped fresh parsley or dried parsley .
+PREDID: 188
+PRED: serving stir
+   DOBJ: NULL
+   PARG: chopped fresh parsley
+     PREP: in
+      NON-INGREDIENT SPAN: chopped fresh parsley
+   OARG: before
+      NON-INGREDIENT SPAN: before
+
+PREDID: 215
+PRED: dried
+   DOBJ: NULL
+   OARG: parsley
+      NON-INGREDIENT SPAN: parsley
+
+

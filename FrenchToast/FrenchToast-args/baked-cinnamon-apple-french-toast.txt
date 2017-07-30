@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would spray a 9x13-inch casserole dish with cooking spray .
+PREDID: 0
+PRED: spray
+   DOBJ: a 9x13-inch casserole dish
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 1
+SENT: I would mix brown sugar , the butter , and 1 teaspoon cinnamon in the bottom of the prepared casserole dish .
+PREDID: 45
+PRED: mix
+   DOBJ: brown sugar , the butter , 1 teaspoon cinnamon
+      INGREDIENT SPAN:  1 teaspoon cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: light butter melted
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: light brown sugar
+   PARG: the bottom of the prepared casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of the prepared casserole dish
+
+
+SENTID: 2
+SENT: I would add apples , the cranberries , and pecans ;
+PREDID: 124
+PRED: add
+   DOBJ: apples , the cranberries , pecans
+      INGREDIENT SPAN: apples 
+         INGREDIENTS: Granny Smith apples peeled cored sliced
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+
+
+SENTID: 3
+SENT: I would toss to coat .
+PREDID: 156
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would evenly spread apple mixture to cover bottom of dish .
+PREDID: 173
+PRED: spread
+   DOBJ: apple mixture
+      NON-INGREDIENT SPAN: apple mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+   OARG: to cover bottom of dish
+      NON-INGREDIENT SPAN: to cover bottom of dish
+
+
+SENTID: 5
+SENT: I would arrange bread slices atop apple mixture , overlapping slightly until apple layer is completely covered .
+PREDID: 211
+PRED: arrange
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: loaf Italian bread cut 1/2inch slices
+   PARG: apple mixture
+     PREP: atop
+      NON-INGREDIENT SPAN: apple mixture
+   OARG: overlapping slightly until apple layer is completely covered
+      NON-INGREDIENT SPAN: overlapping slightly until apple layer is completely covered
+
+
+SENTID: 6
+SENT: I would whisk egg substitute , skim milk , vanilla extract , and 2 teaspoons cinnamon in a bowl ;
+PREDID: 300
+PRED: whisk
+   DOBJ: egg substitute , skim milk , vanilla extract , 2 teaspoons cinnamon
+      INGREDIENT SPAN: egg substitute 
+         INGREDIENTS: egg substitute
+      INGREDIENT SPAN:  2 teaspoons cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  skim milk 
+         INGREDIENTS: skim milk
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would evenly pour over bread slices .
+PREDID: 378
+PRED: pour
+   DOBJ: bread slices
+      NON-INGREDIENT SPAN: bread slices
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would cover dish with aluminum foil and refrigerate 4 to 24 hours .
+PREDID: 398
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 426
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 4 to 24 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 to 24 hours
+
+
+SENTID: 9
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 448
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 10
+SENT: I would bake the covered casserole dish in the preheated oven for 40 minutes .
+PREDID: 486
+PRED: bake
+   DOBJ: NULL
+   PARG: the covered casserole dish in the preheated oven for 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the covered casserole dish in the preheated oven for 40 minutes
+
+
+SENTID: 11
+SENT: I would remove aluminum foil and continue the baking until lightly browned and egg mixture is set , about 5 more minutes .
+PREDID: 544
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 565
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+
+PREDID: 616
+PRED: is set
+   DOBJ: NULL
+   PARG: 5 more minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 more minutes
+
+
+SENTID: 12
+SENT: I would let cool 5 minutes before serving .
+PREDID: 635
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

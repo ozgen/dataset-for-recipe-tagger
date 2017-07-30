@@ -1,0 +1,40 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="press
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="drain
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="let stand
+6", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: chopped onion, ground black pepper, rolled oats, egg, tomato juice, salt", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E0 -> E2 [label="IMPLICIT PREP"]
+O2_0_0[label="OTHER: lightly but thoroughly", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCATION:into 8x4 inch loaf pan", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: for 1 hour, or until meat is no longer pink and juices run clear", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: 5 minutes before serving", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

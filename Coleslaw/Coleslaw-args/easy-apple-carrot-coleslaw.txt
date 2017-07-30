@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: I would place a large colander into the sink .
+PREDID: 0
+PRED: place
+   DOBJ: a large colander
+      NON-INGREDIENT SPAN: a large colander
+   PARG: the sink
+     PREP: into
+      NON-INGREDIENT SPAN: the sink
+
+
+SENTID: 1
+SENT: I would place the coleslaw mix and red cabbage into the colander .
+PREDID: 31
+PRED: place
+   DOBJ: the coleslaw mix, red cabbage
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce package shredded coleslaw mix
+      INGREDIENT SPAN:  red cabbage
+         INGREDIENTS: shredded red cabbage
+   PARG: the colander
+     PREP: into
+      NON-INGREDIENT SPAN: the colander
+
+
+SENTID: 2
+SENT: I would sprinkle lightly with salt , toss , and allow to stand 15 minutes .
+PREDID: 79
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: coarse kosher salt
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 111
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand 15 minutes
+      NON-INGREDIENT SPAN: to stand 15 minutes
+
+
+SENTID: 3
+SENT: I would pour the vinegar into a large bowl .
+PREDID: 133
+PRED: pour
+   DOBJ: the vinegar
+      INGREDIENT SPAN: the vinegar
+         INGREDIENTS: apple cider vinegar
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would grate apples into the bowl and toss with vinegar to keep from turning brown .
+PREDID: 162
+PRED: grate
+   DOBJ: apples
+      INGREDIENT SPAN: apples
+         INGREDIENTS: large apples cored
+   PARG: the bowl
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl
+
+PREDID: 187
+PRED: toss
+   DOBJ: NULL
+   PARG: vinegar
+     PREP: with
+      NON-INGREDIENT SPAN: vinegar
+   OARG: to keep from turning brown
+      NON-INGREDIENT SPAN: to keep from turning brown
+
+
+SENTID: 5
+SENT: I would stir in the grated carrots , the mayonnaise , sour cream , and celery seed until evenly coated .
+PREDID: 225
+PRED: stir
+   DOBJ: NULL
+   PARG: the grated carrots , the mayonnaise , sour cream , celery seed
+     PREP: in
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: fatfree mayonnaise
+      INGREDIENT SPAN: the grated carrots 
+         INGREDIENTS: large carrots grated
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: fat free sour cream
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 6
+SENT: I would season with black pepper to taste .
+PREDID: 300
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 7
+SENT: I would rinse the coleslaw mix and cabbage with very cold water ;
+PREDID: 329
+PRED: rinse
+   DOBJ: the coleslaw mix, cabbage with very cold water
+      NON-INGREDIENT SPAN: the coleslaw mix
+      NON-INGREDIENT SPAN:  cabbage with very cold water
+
+
+SENTID: 8
+SENT: I would drain , pressing out as much water as possible .
+PREDID: 376
+PRED: drain
+   DOBJ: NULL
+   OARG: pressing out as much water as possible
+      NON-INGREDIENT SPAN: pressing out as much water as possible
+
+
+SENTID: 9
+SENT: I would taste , and if still too salty , repeat the process .
+PREDID: 415
+PRED: taste
+   DOBJ: NULL
+   PARG: if still too salty , repeat the process
+     PREP: and
+      NON-INGREDIENT SPAN: if still too salty 
+      NON-INGREDIENT SPAN:  repeat the process
+
+
+SENTID: 10
+SENT: I would pat dry with paper towels .
+PREDID: 457
+PRED: pat
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: with
+      NON-INGREDIENT SPAN: paper towels
+   OARG: dry
+      NON-INGREDIENT SPAN: dry
+
+
+SENTID: 11
+SENT: I would stir coleslaw and cabbage into apple mixture , and toss to coat evenly with dressing .
+PREDID: 479
+PRED: stir
+   DOBJ: coleslaw, cabbage
+      NON-INGREDIENT SPAN:  cabbage
+      NON-INGREDIENT SPAN: coleslaw
+   PARG: apple mixture
+     PREP: into
+      NON-INGREDIENT SPAN: apple mixture
+
+PREDID: 521
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly with dressing
+      NON-INGREDIENT SPAN: evenly with dressing
+
+
+SENTID: 12
+SENT: I would chill until ready to serve ;
+PREDID: 550
+PRED: chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+
+SENTID: 13
+SENT: I would stir before serving .
+PREDID: 573
+PRED: stir
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

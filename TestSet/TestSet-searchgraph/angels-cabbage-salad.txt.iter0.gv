@@ -1,0 +1,39 @@
+digraph recipe {
+E0[label="whisk
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="toss
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drizzle
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="toss
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="refrigerate
+5", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: package cabbage, raisins, toasted almonds, green onions thinly, sunflower seed kernels", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D0[label="DOBJ: olive oil, white sugar, soy sauce, red wine vinegar", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a small bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="DURATION:until sugar dissolves", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+E1 -> E2 [label="dressing"]
+E0 -> E2 [label="LOCOROBJ:over salad"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_0[label="DOBJ: bowl", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+P4_1_0[label="LOCOROBJ:with plastic wrap", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="IMPLICIT PREP"]
+P5_1_0[label="DURATION:at least 1 hour", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+P5_2_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P5_2_0 -> E5
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: In a medium bowl , I would whisk together sour cream , the mayonnaise , the vinegar and jam .
+PREDID: 14
+PRED: whisk
+   DOBJ: sour cream , the mayonnaise , the vinegar, jam
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  jam
+         INGREDIENTS: apricot jam
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: white vinegar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add green onion , the apricots , the celery and chicken and toss until evenly coated .
+PREDID: 62
+PRED: add
+   DOBJ: green onion , the apricots , the celery, chicken
+      INGREDIENT SPAN:  the apricots 
+         INGREDIENTS: fresh apricots pitted diced
+      INGREDIENT SPAN: green onion 
+         INGREDIENTS: sliced green onion
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: diced cold cooked chicken
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: chopped celery
+
+PREDID: 110
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 2
+SENT: I would chill and serve over lettuce leaves .
+PREDID: 126
+PRED: chill and serve
+   DOBJ: NULL
+   PARG: lettuce leaves
+     PREP: over
+      NON-INGREDIENT SPAN: lettuce leaves
+
+

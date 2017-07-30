@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would cook the bacon pieces in a large skillet over medium heat until the fat has rendered , and the bacon is crispy , about 8 minutes .
+PREDID: 0
+PRED: cook
+   DOBJ: the bacon pieces
+      INGREDIENT SPAN: the bacon pieces
+         INGREDIENTS: thick sliced bacon cut 1/2inch
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the fat has rendered
+     PREP: until
+      NON-INGREDIENT SPAN: the fat has rendered
+   OARG: the bacon is crispy , about 8 minutes
+      INGREDIENT SPAN: the bacon is crispy 
+         INGREDIENTS: thick sliced bacon cut 1/2inch
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 1
+SENT: I would remove the bacon , leaving the grease in the pan .
+PREDID: 104
+PRED: remove
+   DOBJ: the bacon
+      NON-INGREDIENT SPAN: the bacon
+   OARG: leaving the grease in the pan
+      NON-INGREDIENT SPAN: leaving the grease in the pan
+
+
+SENTID: 2
+SENT: I would stir the carrot , the celery , and bay leaf into the bacon grease ;
+PREDID: 144
+PRED: stir
+   DOBJ: the carrot , the celery , bay leaf
+      INGREDIENT SPAN:  bay leaf
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN: the carrot 
+         INGREDIENTS: carrots diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+   PARG: the bacon grease
+     PREP: into
+      NON-INGREDIENT SPAN: the bacon grease
+
+
+SENTID: 3
+SENT: I would cook for 5 minutes .
+PREDID: 194
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would meanwhile , melt the butter in a large pot over medium-low heat .
+PREDID: 220
+PRED: melt
+   DOBJ: the butter in a large pot over medium-low heat
+      INGREDIENT SPAN: the butter in a large pot over medium-low heat
+         INGREDIENTS: butter
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would whisk in the flour , and cook for 5 minutes , stirring constantly .
+PREDID: 263
+PRED: whisk
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: flour
+
+PREDID: 282
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 6
+SENT: I would slowly whisk in the milk , and bring to a simmer over medium-high heat .
+PREDID: 323
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk
+     PREP: in
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+PREDID: 341
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over medium-high heat
+
+
+SENTID: 7
+SENT: Once simmering , I would cook for 5 minutes , whisking frequently .
+PREDID: 389
+PRED: cook
+   DOBJ: NULL
+   PARG: simmering
+     PREP: once
+      NON-INGREDIENT SPAN: simmering
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: whisking frequently
+      NON-INGREDIENT SPAN: whisking frequently
+
+
+SENTID: 8
+SENT: I would add the bacon , cooked vegetables , the potatoes , and corn .
+PREDID: 424
+PRED: add
+   DOBJ: the bacon , cooked vegetables , the potatoes , corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: large potatoes peeled diced
+      NON-INGREDIENT SPAN: the bacon 
+      NON-INGREDIENT SPAN:  cooked vegetables 
+
+
+SENTID: 9
+SENT: I would return to a simmer ,
+PREDID: 470
+PRED: return
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 10
+SENT: I would reduce heat to medium-low , and cook until the potatoes are tender , about 20 minutes more .
+PREDID: 486
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 512
+PRED: cook
+   DOBJ: NULL
+   PARG: the potatoes are tender , about 20 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 20 minutes more
+      NON-INGREDIENT SPAN: the potatoes are tender 
+
+
+SENTID: 11
+SENT: I would use additional milk as needed to to achieve desired consistency .
+PREDID: 561
+PRED: use
+   DOBJ: additional milk
+      NON-INGREDIENT SPAN: additional milk
+   PARG: needed to
+     PREP: as
+      NON-INGREDIENT SPAN: needed to
+
+PREDID: 590
+PRED: achieve
+   DOBJ: desired consistency
+      NON-INGREDIENT SPAN: desired consistency
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 12
+SENT: I would garnish with paprika to serve .
+PREDID: 616
+PRED: garnish
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

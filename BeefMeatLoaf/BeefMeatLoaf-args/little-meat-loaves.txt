@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the eggs , cracker crumbs , the milk , the cheese , the onion , Worcestershire sauce , Italian-style seasoning , garlic salt , ground beef and ground sausage .
+PREDID: 51
+PRED: combine
+   DOBJ: the eggs , cracker crumbs , the milk , the cheese , the onion , Worcestershire sauce , Italian-style seasoning , garlic salt , ground beef, ground sausage
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  ground sausage
+         INGREDIENTS: ground sausage
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  Italian-style seasoning 
+         INGREDIENTS: dried Italianstyle seasoning
+      INGREDIENT SPAN:  cracker crumbs 
+         INGREDIENTS: crushed buttery round crackers
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix this together well and form into individual loaves .
+PREDID: 179
+PRED: mix
+   DOBJ: this
+      NON-INGREDIENT SPAN: this
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 201
+PRED: form
+   DOBJ: NULL
+   PARG: individual loaves
+     PREP: into
+      NON-INGREDIENT SPAN: individual loaves
+
+
+SENTID: 3
+SENT: I would place the loaves in a 9x13 inch baking dish .
+PREDID: 226
+PRED: place
+   DOBJ: the loaves in a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: the loaves in a 9x13 inch baking dish
+
+
+SENTID: 4
+SENT: In a separate small bowl , I would combine the ketchup , brown sugar and Worcestershire sauce .
+PREDID: 283
+PRED: combine
+   DOBJ: the ketchup , brown sugar, Worcestershire sauce
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  Worcestershire sauce
+   PARG: a separate small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate small bowl
+
+
+SENTID: 5
+SENT: I would mix this together well and spoon some of this sauce over each loaf .
+PREDID: 334
+PRED: mix
+   DOBJ: this
+      NON-INGREDIENT SPAN: this
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 356
+PRED: spoon
+   DOBJ: some of this sauce over each loaf
+      NON-INGREDIENT SPAN: some of this sauce over each loaf
+
+
+SENTID: 6
+SENT: I would garnish each loaf with some Parmesan cheese and seasoning to taste .
+PREDID: 389
+PRED: garnish
+   DOBJ: each loaf
+      NON-INGREDIENT SPAN: each loaf
+   PARG: some parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: some parmesan cheese
+
+PREDID: 429
+PRED: seasoning
+   DOBJ: NULL
+   OARG: to taste
+      NON-INGREDIENT SPAN: to taste
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 to 60 minutes .
+PREDID: 446
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 45 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 to 60 minutes
+
+

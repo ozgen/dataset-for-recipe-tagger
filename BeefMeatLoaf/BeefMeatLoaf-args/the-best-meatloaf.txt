@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease an 8?1/2 x 4?1/2 inch loaf pan .
+PREDID: 45
+PRED: grease
+   DOBJ: an 8?1/2 x 4?1/2 inch loaf pan
+      NON-INGREDIENT SPAN: an 8?1/2 x 4?1/2 inch loaf pan
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a mixing bowl , I would combine the ground beef , the salt , the egg , black pepper and bread crumbs .
+PREDID: 90
+PRED: combine
+   DOBJ: the ground beef , the salt , the egg , black pepper, bread crumbs
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: soft bread crumbs
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 3
+SENT: I would pour in the milk , 3 tablespoons of the steak sauce , the onion and green bell pepper .
+PREDID: 146
+PRED: pour
+   DOBJ: NULL
+   PARG: the milk , 3 tablespoons of the steak sauce , the onion, green bell pepper
+     PREP: in
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  3 tablespoons of the steak sauce 
+         INGREDIENTS: steak sauce Heinz
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 4
+SENT: I would place the mixture into the prepared loaf pan and shape into a loaf .
+PREDID: 212
+PRED: place
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+PREDID: 252
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 5
+SENT: I would brush the top with the remaining steak sauce .
+PREDID: 267
+PRED: brush
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: the remaining steak sauce
+     PREP: with
+      INGREDIENT SPAN: the remaining steak sauce
+         INGREDIENTS: steak sauce Heinz
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 1 hour or until done .
+PREDID: 305
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour
+
+
+SENTID: 7
+SENT: I would allow to stand 5 minutes before slicing .
+PREDID: 347
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand 5 minutes before slicing
+      NON-INGREDIENT SPAN: to stand 5 minutes before slicing
+
+

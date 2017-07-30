@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would preheat outdoor grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: outdoor grill
+      NON-INGREDIENT SPAN: outdoor grill
+   PARG: medium-high heat
+     PREP: for
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would lightly oil grill grate , and place about 4 inches from heat source .
+PREDID: 38
+PRED: lightly
+   DOBJ: oil grill grate
+      NON-INGREDIENT SPAN: oil grill grate
+
+PREDID: 62
+PRED: place
+   DOBJ: about 4 inches
+      NON-INGREDIENT SPAN: about 4 inches
+   PARG: heat source
+     PREP: from
+      NON-INGREDIENT SPAN: heat source
+
+
+SENTID: 2
+SENT: I would mix the ground chicken , the onion , garlic , taco seasoning , and egg together in a bowl until thoroughly blended .
+PREDID: 94
+PRED: mix
+   DOBJ: the ground chicken , the onion , garlic , taco seasoning , egg
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN: the ground chicken 
+         INGREDIENTS: ground chicken
+      INGREDIENT SPAN:  taco seasoning 
+         INGREDIENTS: ounce package dry taco seasoning mix
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: minced garlic
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly blended
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would season with salt and pepper to taste .
+PREDID: 185
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: chopped jalapeno pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+   PARG: taste
+     PREP: to
+      INGREDIENT SPAN: taste
+         INGREDIENTS: salsa taste
+
+
+SENTID: 4
+SENT: I would divide chicken mixture evenly and form into 4 soft patties .
+PREDID: 216
+PRED: divide
+   DOBJ: chicken mixture
+      NON-INGREDIENT SPAN: chicken mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+PREDID: 245
+PRED: form
+   DOBJ: NULL
+   PARG: 4 soft patties
+     PREP: into
+      NON-INGREDIENT SPAN: 4 soft patties
+
+
+SENTID: 5
+SENT: I would cook the chicken patties on the preheated grill until meat is no longer pink and juices run clear , 5 to 8 minutes per side , depending on thickness .
+PREDID: 266
+PRED: cook
+   DOBJ: the chicken patties
+      NON-INGREDIENT SPAN: the chicken patties
+   PARG: the preheated grill until meat is no longer pink, juices run clear , 5 to 8 minutes per side , depending on thickness
+     PREP: on
+      NON-INGREDIENT SPAN:  depending on thickness
+      NON-INGREDIENT SPAN:  5 to 8 minutes per side 
+      NON-INGREDIENT SPAN:  juices run clear 
+      NON-INGREDIENT SPAN: the preheated grill until meat is no longer pink
+
+
+SENTID: 6
+SENT: To serve , place each patty on one half of a hamburger bun , top with a slice of cheese , avocado slices , and desired amounts of jalapeno peppers and salsa .
+PREDID: 389
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 395
+PRED: place
+   DOBJ: each patty
+      NON-INGREDIENT SPAN: each patty
+   PARG: one half of a hamburger bun
+     PREP: on
+      INGREDIENT SPAN: one half of a hamburger bun
+         INGREDIENTS: wheat hamburger buns toasted
+
+PREDID: 434
+PRED: top
+   DOBJ: NULL
+   PARG: a slice of cheese , avocado slices , desired amounts of jalapeno peppers, salsa
+     PREP: with
+      INGREDIENT SPAN: a slice of cheese 
+         INGREDIENTS: slices pepperjack cheese
+      INGREDIENT SPAN:  avocado slices 
+         INGREDIENTS: avocado peeled pitted sliced
+      NON-INGREDIENT SPAN:  desired amounts of jalapeno peppers
+      NON-INGREDIENT SPAN:  salsa
+
+
+SENTID: 7
+SENT: I would cover with remaining half of bun .
+PREDID: 513
+PRED: cover
+   DOBJ: NULL
+   PARG: remaining half of bun
+     PREP: with
+      INGREDIENT SPAN: remaining half of bun
+         INGREDIENTS: wheat hamburger buns toasted
+
+

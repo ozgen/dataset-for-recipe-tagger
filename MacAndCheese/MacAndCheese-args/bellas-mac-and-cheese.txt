@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would cook elbow macaroni according to package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package macaroni
+   PARG: to package directions
+     PREP: according
+      INGREDIENT SPAN: to package directions
+         INGREDIENTS: ounce package extra sharp Cheddar cheese
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 46
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , cut up butter , American cheese , and sharp cheese into 1 inch squares for easy melting .
+
+SENTID: 3
+SENT: I would separate butter and cheeses into two equal size portions .
+PREDID: 52
+PRED: separate
+   DOBJ: butter, cheeses
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  cheeses
+         INGREDIENTS: American cheese
+   PARG: two equal size portions
+     PREP: into
+      NON-INGREDIENT SPAN: two equal size portions
+
+
+SENTID: 4
+SENT: I would begin with one of the butter and cheese portions , microwave on 50 % power for 7 minutes .
+PREDID: 101
+PRED: begin
+   DOBJ: NULL
+   PARG: one of the butter, cheese portions , microwave on 50 % power for 7 minutes
+     PREP: with
+      NON-INGREDIENT SPAN:  cheese portions 
+      NON-INGREDIENT SPAN: one of the butter
+      NON-INGREDIENT SPAN:  microwave on 50 % power for 7 minutes
+
+
+SENTID: 5
+SENT: I would remove from microwave and stir well .
+PREDID: 173
+PRED: remove
+   DOBJ: NULL
+   PARG: microwave
+     PREP: from
+      NON-INGREDIENT SPAN: microwave
+
+PREDID: 195
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would add second portion of butter and cheese to melted mixture .
+PREDID: 204
+PRED: add
+   DOBJ: second portion of butter, cheese
+      NON-INGREDIENT SPAN: second portion of butter
+      NON-INGREDIENT SPAN:  cheese
+   PARG: melted mixture
+     PREP: to
+      NON-INGREDIENT SPAN: melted mixture
+
+
+SENTID: 7
+SENT: I would microwave an additional 7 minutes on 50 % power .
+PREDID: 253
+PRED: microwave
+   DOBJ: NULL
+   PARG: an additional 7 minutes on 50 % power
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 7 minutes on 50 % power
+
+
+SENTID: 8
+SENT: I would remove and stir well .
+PREDID: 293
+PRED: remove and stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would pour cheese mixture over cooked macaroni and stir until noodles are coated with butter and cheese mixture .
+PREDID: 311
+PRED: pour
+   DOBJ: cheese mixture
+      NON-INGREDIENT SPAN: cheese mixture
+   PARG: cooked macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: cooked macaroni
+
+PREDID: 349
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles are coated with butter, cheese mixture
+     PREP: until
+      NON-INGREDIENT SPAN:  cheese mixture
+      NON-INGREDIENT SPAN: noodles are coated with butter
+
+
+SENTID: 10
+SENT: I would allow to stand for 10 minutes before serving .
+PREDID: 401
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 10 minutes before serving
+      NON-INGREDIENT SPAN: to stand for 10 minutes before serving
+
+

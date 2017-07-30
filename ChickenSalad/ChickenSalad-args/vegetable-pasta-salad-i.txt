@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would bake chicken breast halves in a preheated oven until the juices run clear .
+PREDID: 38
+PRED: bake
+   DOBJ: chicken breast halves
+      INGREDIENT SPAN: chicken breast halves
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven
+   PARG: the juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: the juices run clear
+
+
+SENTID: 2
+SENT: I would about 30 minutes if thawed , 45 minutes if frozen .
+PREDID: 116
+PRED: thawed
+   DOBJ: NULL
+   PARG: 30 minutes if
+     PREP: about
+      NON-INGREDIENT SPAN: 30 minutes if
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+   PARG: frozen
+     PREP: if
+      NON-INGREDIENT SPAN: frozen
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 141
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would add rotini pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 183
+PRED: add
+   DOBJ: rotini pasta, cook
+      INGREDIENT SPAN: rotini pasta
+         INGREDIENTS: rotini pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 234
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would 4 minutes before the pasta is ready , add frozen vegetables .
+PREDID: 270
+PRED: add
+   DOBJ: frozen vegetables
+      INGREDIENT SPAN: frozen vegetables
+         INGREDIENTS: frozen mixed vegetables
+   OARG: 4 minutes before the pasta is ready
+      NON-INGREDIENT SPAN: 4 minutes before the pasta is ready
+
+
+SENTID: 7
+SENT: When pasta is cooked , remove pasta and vegetables from heat , drain .
+PREDID: 308
+PRED: remove
+   DOBJ: pasta, vegetables
+      NON-INGREDIENT SPAN:  vegetables
+      NON-INGREDIENT SPAN: pasta
+   PARG: heat , drain
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  drain
+   OARG: when pasta is cooked
+      NON-INGREDIENT SPAN: when pasta is cooked
+
+
+SENTID: 8
+SENT: I would cut chicken into small cubes and add to the pasta-vegetable mix .
+PREDID: 347
+PRED: cut
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: small cubes
+     PREP: into
+      NON-INGREDIENT SPAN: small cubes
+
+PREDID: 374
+PRED: add
+   DOBJ: NULL
+   PARG: the pasta-vegetable mix
+     PREP: to
+      NON-INGREDIENT SPAN: the pasta-vegetable mix
+
+
+SENTID: 9
+SENT: I would season with olive oil , the pepper , salt .
+PREDID: 401
+PRED: season
+   DOBJ: NULL
+   PARG: olive oil , the pepper , salt
+     PREP: with
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  salt
+
+

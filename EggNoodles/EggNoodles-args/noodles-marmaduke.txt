@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a large skillet over medium heat
+         INGREDIENTS: medium egg noodles
+
+
+SENTID: 1
+SENT: I would add the onions , the garlic and mushrooms ;
+PREDID: 43
+PRED: add
+   DOBJ: the onions , the garlic, mushrooms
+      INGREDIENT SPAN:  the garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: sliced onion
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+
+
+SENTID: 2
+SENT: I would cook and stir until lightly browned .
+PREDID: 75
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+
+
+SENTID: 3
+SENT: I would crumble in the ground beef , and cook until no longer pink .
+PREDID: 106
+PRED: crumble
+   DOBJ: NULL
+   PARG: the ground beef
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+PREDID: 132
+PRED: cook
+   DOBJ: NULL
+   PARG: no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+
+
+SENTID: 4
+SENT: I would drain excess grease .
+PREDID: 154
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 5
+SENT: I would stir in the Burgundy wine , scraping any bits of food from the bottom of the pan to flavor the sauce .
+PREDID: 172
+PRED: stir
+   DOBJ: NULL
+   PARG: the burgundy wine
+     PREP: in
+      INGREDIENT SPAN: the burgundy wine
+         INGREDIENTS: Burgundy wine
+   OARG: scraping any bits of food from the bottom of the pan to flavor the sauce
+      NON-INGREDIENT SPAN: scraping any bits of food from the bottom of the pan to flavor the sauce
+
+
+SENTID: 6
+SENT: I would then stir in the lemon juice , beef consomme , the salt and pepper .
+PREDID: 257
+PRED: stir
+   DOBJ: NULL
+   PARG: the lemon juice , beef consomme , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  beef consomme 
+         INGREDIENTS: ounce condensed beef consomme
+      INGREDIENT SPAN: the lemon juice 
+         INGREDIENTS: lemon juice
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 7
+SENT: I would simmer uncovered for 15 minutes .
+PREDID: 304
+PRED: simmer
+   DOBJ: NULL
+
+PREDID: 310
+PRED: uncovered
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 8
+SENT: I would mix the uncooked noodles into the skillet .
+PREDID: 332
+PRED: mix
+   DOBJ: the uncooked noodles
+      NON-INGREDIENT SPAN: the uncooked noodles
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 9
+SENT: I would cover , and simmer for 10 minutes , or until noodles are tender .
+PREDID: 368
+PRED: cover
+   DOBJ: NULL
+   OARG: simmer for 10 minutes , or until noodles are tender
+      NON-INGREDIENT SPAN:  or until noodles are tender
+      NON-INGREDIENT SPAN: simmer for 10 minutes 
+
+
+SENTID: 10
+SENT: I would remove from the heat and stir in the sour cream .
+PREDID: 420
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 440
+PRED: stir
+   DOBJ: NULL
+   PARG: the sour cream
+     PREP: in
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 11
+SENT: I would sprinkle parsley over the top and serve .
+PREDID: 459
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   OARG: parsley
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley garnish
+
+

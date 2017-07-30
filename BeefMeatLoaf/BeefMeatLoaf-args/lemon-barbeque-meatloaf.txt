@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13 inch baking dish or a dish of similar size .
+PREDID: 41
+PRED: grease
+   DOBJ: a 9x13 inch baking dish or a dish of similar size
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish or a dish of similar size
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix together the ground beef , lemon juice , the water , the egg , the bread , the onion and seasoning salt until well blended .
+PREDID: 100
+PRED: mix
+   DOBJ: the ground beef , lemon juice , the water , the egg , the bread , the onion, seasoning salt
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  seasoning salt
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  the bread 
+         INGREDIENTS: slices dayold bread torn small
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would shape into 6 individual loaves - I like to make large balls .
+PREDID: 190
+PRED: shape
+   DOBJ: NULL
+   PARG: 6 individual loaves
+     PREP: into
+      NON-INGREDIENT SPAN: 6 individual loaves
+   OARG: i like to make large balls
+      NON-INGREDIENT SPAN: i like to make large balls
+
+
+SENTID: 4
+SENT: I would place them in the prepared baking dish .
+PREDID: 239
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 5
+SENT: I would bake for 15 minutes in the preheated oven while you prepare the topping .
+PREDID: 272
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes in the preheated oven
+   PARG: you prepare the topping
+     PREP: while
+      NON-INGREDIENT SPAN: you prepare the topping
+
+
+SENTID: 6
+SENT: In a small bowl , I would stir together the ketchup , brown sugar , mustard powder , the allspice and cloves .
+PREDID: 345
+PRED: stir
+   DOBJ: the ketchup , brown sugar , mustard powder , the allspice, cloves
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the allspice
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  mustard powder 
+         INGREDIENTS: mustard powder
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would spoon the sauce over the loaves ,
+PREDID: 411
+PRED: spoon
+   DOBJ: the sauce over the loaves
+      NON-INGREDIENT SPAN: the sauce over the loaves
+
+
+SENTID: 8
+SENT: I would top each one with a slice of lemon .
+PREDID: 438
+PRED: top
+   DOBJ: each one
+      NON-INGREDIENT SPAN: each one
+   PARG: a slice of lemon
+     PREP: with
+      INGREDIENT SPAN: a slice of lemon
+         INGREDIENTS: slices lemon
+
+
+SENTID: 9
+SENT: I would return to the oven , and bake for an additional 30 minutes , or until cooked through .
+PREDID: 466
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 485
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 30 minutes , or until cooked through
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 30 minutes 
+      NON-INGREDIENT SPAN:  or until cooked through
+
+

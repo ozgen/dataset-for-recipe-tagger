@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix together the ground beef , the eggs , 3 tablespoons ketchup , onion soup mix and steak seasoning using your hands .
+PREDID: 14
+PRED: mix
+   DOBJ: the ground beef , the eggs , 3 tablespoons ketchup , onion soup mix, steak
+      INGREDIENT SPAN:  steak
+         INGREDIENTS: steak seasoning
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  onion soup mix
+         INGREDIENTS: dry onion soup mix
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  3 tablespoons ketchup 
+         INGREDIENTS: ketchup
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: seasoning using your hands
+      NON-INGREDIENT SPAN: seasoning using your hands
+
+
+SENTID: 1
+SENT: I would pat lightly into the bottom of a slow cooker .
+PREDID: 108
+PRED: pat
+   DOBJ: NULL
+   PARG: the bottom of a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a slow cooker
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would spread the remaining ketchup over the top .
+PREDID: 145
+PRED: spread
+   DOBJ: the remaining ketchup over the top
+      INGREDIENT SPAN: the remaining ketchup over the top
+         INGREDIENTS: ketchup
+
+
+SENTID: 3
+SENT: I would cover , and cook for 6 to 8 hours on Low , or 4 hours on High .
+PREDID: 178
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 187
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 hours on low , or 4 hours on high
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 hours on low 
+      NON-INGREDIENT SPAN:  or 4 hours on high
+
+

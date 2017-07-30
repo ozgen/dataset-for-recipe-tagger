@@ -1,0 +1,30 @@
+digraph recipe {
+E0[label="prepare
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="stir in
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="season
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: idahoan baby reds", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D2[label="DOBJ: mayo, mustards", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D1_ing[label="DOBJ: radishes, celery, hard-boiled egg, pickles, red onion", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E1 -> E3 [label="LOCATION:into mashed potato mixture"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: with pepper, celery seed, salt", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+O4_0_0[label="OTHER: to taste", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

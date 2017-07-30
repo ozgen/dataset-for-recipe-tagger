@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: I would place the bacon in a large pot over medium-high heat , and cook until crisp .
+PREDID: 0
+PRED: place
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: diced bacon
+   PARG: a large pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+
+PREDID: 47
+PRED: cook
+   DOBJ: NULL
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 1
+SENT: I would drain and crumble , reserving about 2 tablespoons drippings in the pot .
+PREDID: 62
+PRED: drain and crumble
+   DOBJ: NULL
+   OARG: reserving about 2 tablespoons drippings in the pot
+      NON-INGREDIENT SPAN: reserving about 2 tablespoons drippings in the pot
+
+
+SENTID: 2
+SENT: I would mix potatoes and onion into the pot with the crumbled bacon and reserved drippings .
+PREDID: 122
+PRED: mix
+   DOBJ: potatoes, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: medium potatoes peeled chopped
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+   PARG: the crumbled bacon, reserved drippings
+     PREP: with
+      NON-INGREDIENT SPAN: the crumbled bacon
+      NON-INGREDIENT SPAN:  reserved drippings
+
+
+SENTID: 3
+SENT: I would cook and stir 5 minutes .
+PREDID: 192
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would pour in the water , and stir in corn .
+PREDID: 212
+PRED: pour
+   DOBJ: NULL
+   PARG: the water
+     PREP: in
+      INGREDIENT SPAN: the water
+         INGREDIENTS: water
+
+PREDID: 230
+PRED: stir
+   DOBJ: NULL
+   PARG: corn
+     PREP: in
+      INGREDIENT SPAN: corn
+         INGREDIENTS: creamstyle corn
+
+
+SENTID: 5
+SENT: I would season with salt and pepper .
+PREDID: 241
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 6
+SENT: I would bring to a boil , reduce heat to low , and cover the pot .
+PREDID: 265
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 278
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 297
+PRED: cover
+   DOBJ: the pot
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 7
+SENT: I would simmer 20 minutes , stirring frequently , until potatoes are tender .
+PREDID: 306
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: stirring frequently , until potatoes are tender
+      NON-INGREDIENT SPAN:  until potatoes are tender
+      NON-INGREDIENT SPAN: stirring frequently 
+
+
+SENTID: 8
+SENT: I would warm the half-and-half in a small saucepan until it bubbles .
+PREDID: 364
+PRED: warm
+   DOBJ: the half-and-half
+      NON-INGREDIENT SPAN: the half-and-half
+   PARG: a small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan
+   PARG: it bubbles
+     PREP: until
+      NON-INGREDIENT SPAN: it bubbles
+
+
+SENTID: 9
+SENT: I would remove from heat before it boils , and mix into the chowder just before serving .
+PREDID: 415
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   PARG: it boils
+     PREP: before
+      NON-INGREDIENT SPAN: it boils
+
+PREDID: 446
+PRED: mix
+   DOBJ: NULL
+   PARG: the chowder
+     PREP: into
+      NON-INGREDIENT SPAN: the chowder
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

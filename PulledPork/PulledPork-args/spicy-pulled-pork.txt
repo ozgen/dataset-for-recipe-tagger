@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would mix flour , chili powder , the paprika , the cumin , adobo seasoning , and cayenne pepper in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: flour , chili powder , the paprika , the cumin , adobo seasoning , cayenne pepper in a large bowl
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: cumin
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  cayenne pepper in a large bowl
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  adobo seasoning 
+         INGREDIENTS: adobo seasoning
+
+
+SENTID: 1
+SENT: I would add pork and toss until coated .
+PREDID: 79
+PRED: add
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pound pork loin roast cut
+
+PREDID: 89
+PRED: toss
+   DOBJ: NULL
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 2
+SENT: I would melt butter in a large skillet over medium heat ;
+PREDID: 105
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would fry pork in batches until browned on all sides , about 10 minutes .
+PREDID: 145
+PRED: fry
+   DOBJ: pork in batches
+      NON-INGREDIENT SPAN: pork in batches
+   PARG: browned on all sides , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: browned on all sides 
+
+
+SENTID: 4
+SENT: I would transfer browned pork to a slow cooker .
+PREDID: 199
+PRED: transfer
+   DOBJ: browned pork
+      NON-INGREDIENT SPAN: browned pork
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 5
+SENT: I would cook and stir onion and garlic in the same skillet until vegetables are fragrant , about 1 minute .
+PREDID: 232
+PRED: cook and stir
+   DOBJ: onion, garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet
+   PARG: vegetables are fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 6
+SENT: I would stir tomatoes , barbeque sauce , brown sugar , and hot sauce into onion mixture and simmer for 5 minutes .
+PREDID: 313
+PRED: stir
+   DOBJ: tomatoes , barbeque sauce , brown sugar , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+   PARG: onion mixture, simmer
+     PREP: into
+      NON-INGREDIENT SPAN: onion mixture
+      NON-INGREDIENT SPAN:  simmer
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 7
+SENT: I would pour sauce over pork .
+PREDID: 399
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: pork
+     PREP: over
+      NON-INGREDIENT SPAN: pork
+
+
+SENTID: 8
+SENT: I would cook on low for 5 to 6 hours .
+PREDID: 417
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: 5 to 6 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 6 hours
+
+
+SENTID: 9
+SENT: I would transfer pork to a plate and shred with 2 forks .
+PREDID: 439
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a plate, shred with 2 forks
+     PREP: to
+      NON-INGREDIENT SPAN:  shred with 2 forks
+      NON-INGREDIENT SPAN: a plate
+
+
+SENTID: 10
+SENT: I would return pork to slow cooker and stir .
+PREDID: 478
+PRED: return
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   OARG: to slow cooker, stir
+      NON-INGREDIENT SPAN: to slow cooker
+      NON-INGREDIENT SPAN:  stir
+
+
+SENTID: 11
+SENT: I would continue to cook , uncovered , until thickened , 10 to 15 minutes .
+PREDID: 508
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook , uncovered , until thickened , 10 to 15 minutes
+      NON-INGREDIENT SPAN:  uncovered 
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: to cook 
+      NON-INGREDIENT SPAN:  until thickened 
+
+

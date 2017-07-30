@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would spread sweet potatoes onto a baking sheet ;
+PREDID: 38
+PRED: spread
+   DOBJ: sweet potatoes
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: sweet potatoes
+         INGREDIENTS: large sweet potatoes cut cubes
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would spray with cooking spray and season with 1/2 teaspoon salt and 1/2 teaspoon black pepper .
+PREDID: 74
+PRED: spray
+   DOBJ: NULL
+   PARG: cooking spray, season with 1/2 teaspoon salt, 1/2 teaspoon black pepper
+     PREP: with
+      INGREDIENT SPAN:  1/2 teaspoon black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+      INGREDIENT SPAN:  season with 1/2 teaspoon salt
+         INGREDIENTS: sea salt
+
+
+SENTID: 3
+SENT: I would roast potatoes in the preheated oven until soft , about 20 minutes .
+PREDID: 149
+PRED: roast
+   DOBJ: potatoes in the preheated oven
+      NON-INGREDIENT SPAN: potatoes in the preheated oven
+   PARG: soft , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: soft 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 4
+SENT: I would transfer potatoes to a plate and refrigerate until cooled completely .
+PREDID: 205
+PRED: transfer
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a plate
+     PREP: to
+      NON-INGREDIENT SPAN: a plate
+
+PREDID: 232
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cooled completely
+     PREP: until
+      NON-INGREDIENT SPAN: cooled completely
+
+
+SENTID: 5
+SENT: I would whisk lemon juice , olive oil , brown sugar , sea salt , and 1/2 teaspoon black pepper together in a bowl ;
+PREDID: 265
+PRED: whisk
+   DOBJ: lemon juice , olive oil , brown sugar , sea salt , 1/2 teaspoon black pepper
+      INGREDIENT SPAN:  sea salt 
+         INGREDIENTS: sea salt
+      INGREDIENT SPAN:  1/2 teaspoon black pepper
+         INGREDIENTS: habanero pepper seeded minced
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN: lemon juice 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would let rest for at least 5 minutes .
+PREDID: 350
+PRED: let
+   DOBJ: NULL
+   PARG: rest for at least 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: rest for at least 5 minutes
+
+
+SENTID: 7
+SENT: I would mix chilled sweet potatoes , the mangoes , the onion , the cilantro , the avocado , green onion , and habanero pepper together in a large bowl .
+PREDID: 376
+PRED: mix
+   DOBJ: NULL
+
+PREDID: 379
+PRED: chilled
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: sweet potatoes , the mangoes , the onion , the cilantro , the avocado , green onion , habanero pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: green onion chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the mangoes 
+         INGREDIENTS: large mangoes peeled seeded chopped
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  habanero pepper
+         INGREDIENTS: habanero pepper seeded minced
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: large avocado peeled pitted chopped
+      NON-INGREDIENT SPAN: sweet potatoes 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would drizzle the dressing over potato mixture and toss to coat .
+PREDID: 480
+PRED: drizzle
+   DOBJ: the dressing over potato mixture
+      NON-INGREDIENT SPAN: the dressing over potato mixture
+
+PREDID: 518
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

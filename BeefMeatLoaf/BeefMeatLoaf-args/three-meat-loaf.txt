@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix 1/4 cup tomato sauce , Worcestershire sauce , spicy mustard , and honey together in a bowl ;
+PREDID: 38
+PRED: mix
+   DOBJ: 1/4 cup tomato sauce , Worcestershire sauce , spicy mustard , honey
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  spicy mustard 
+         INGREDIENTS: spicy mustard
+      INGREDIENT SPAN: 1/4 cup tomato sauce 
+         INGREDIENTS: tomato sauce
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 116
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would mix thoroughly ground beef , ground turkey , ground lamb , 2?1/4 cup tomato sauce , the oats , the egg , sweet onion , the salt , and pepper in a large bowl ;
+PREDID: 125
+PRED: mix
+   DOBJ: ground beef , ground turkey , ground lamb , 2?1/4 cup tomato sauce , the oats , the egg , sweet onion , the salt , pepper in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  2?1/4 cup tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  ground lamb 
+         INGREDIENTS: ground lamb
+      INGREDIENT SPAN:  pepper in a large bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  sweet onion 
+         INGREDIENTS: sweet onion chopped
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  ground turkey 
+         INGREDIENTS: ground turkey
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would divide into halves and form 2 loaves .
+PREDID: 240
+PRED: divide
+   DOBJ: NULL
+   PARG: halves
+     PREP: into
+      NON-INGREDIENT SPAN: halves
+
+PREDID: 259
+PRED: form
+   DOBJ: 2 loaves
+      NON-INGREDIENT SPAN: 2 loaves
+
+
+SENTID: 5
+SENT: I would put loaves into loaf pans .
+PREDID: 271
+PRED: put
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: loaf pans
+     PREP: into
+      NON-INGREDIENT SPAN: loaf pans
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 45 minutes , brush tops with sauce , and continue the baking until no longer pink in the center , about 15 minutes more .
+PREDID: 293
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 minutes
+
+PREDID: 328
+PRED: brush
+   DOBJ: tops
+      NON-INGREDIENT SPAN: tops
+   PARG: sauce
+     PREP: with
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: tomato sauce
+
+PREDID: 350
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+   OARG: about 15 minutes more
+      NON-INGREDIENT SPAN: about 15 minutes more
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 8
+SENT: I would cool slightly in pans before serving .
+PREDID: 412
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: slightly in pans
+      NON-INGREDIENT SPAN: slightly in pans
+
+

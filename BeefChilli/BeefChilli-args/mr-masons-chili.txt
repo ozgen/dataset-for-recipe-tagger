@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would place the ground beef and half the chili powder into a large saucepan over high heat , and cook until meat is browned , breaking the meat apart into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   OARG: half the chili powder into a large saucepan over high heat
+      INGREDIENT SPAN: half the chili powder into a large saucepan over high heat
+         INGREDIENTS: chili powder such Gebhardt
+
+PREDID: 73
+PRED: cook
+   DOBJ: NULL
+   PARG: meat is browned , breaking the meat apart into crumbles as it cooks , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  breaking the meat apart into crumbles as it cooks 
+      NON-INGREDIENT SPAN: meat is browned 
+
+
+SENTID: 1
+SENT: I would mix in the onion , and cook and stir until onion is softened , about 10 more minutes .
+PREDID: 153
+PRED: mix
+   DOBJ: NULL
+   PARG: the onion
+     PREP: in
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+
+PREDID: 170
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onion is softened
+     PREP: until
+      NON-INGREDIENT SPAN: onion is softened
+   PARG: 10 more minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 more minutes
+
+
+SENTID: 2
+SENT: I would stir in garlic , and cook until fragrant , about 2 minutes .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic
+     PREP: in
+      NON-INGREDIENT SPAN: garlic
+
+PREDID: 237
+PRED: cook
+   DOBJ: NULL
+   PARG: fragrant , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: fragrant 
+
+
+SENTID: 3
+SENT: I would stir in remaining chili powder , the cumin , the oregano , tomato paste , and cocoa powder , and cover pan .
+PREDID: 269
+PRED: stir
+   DOBJ: NULL
+   PARG: remaining chili powder , the cumin , the oregano , tomato paste , cocoa powder
+     PREP: in
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: remaining chili powder 
+         INGREDIENTS: unsweetened cocoa powder
+      NON-INGREDIENT SPAN:  cocoa powder
+
+PREDID: 346
+PRED: cover
+   DOBJ: pan
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 4
+SENT: I would reduce heat to a simmer , and cook until meat is tender and flavors have blended , mixing enough water to make a thick chili , about 1?1/2 hours .
+PREDID: 349
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+   OARG: flavors have blended , mixing enough water to make a thick chili , about 1?1/2 hours
+      INGREDIENT SPAN:  mixing enough water to make a thick chili 
+         INGREDIENTS: water needed
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: flavors have blended 
+
+PREDID: 372
+PRED: cook
+   DOBJ: NULL
+   PARG: meat is tender
+     PREP: until
+      NON-INGREDIENT SPAN: meat is tender
+
+
+SENTID: 5
+SENT: I would stir occasionally .
+PREDID: 466
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+

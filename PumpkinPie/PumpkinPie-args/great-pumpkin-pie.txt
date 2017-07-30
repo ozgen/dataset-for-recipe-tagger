@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would arrange pumpkin halves on a baking sheet , cut sides down .
+PREDID: 38
+PRED: arrange
+   DOBJ: pumpkin halves
+      INGREDIENT SPAN: pumpkin halves
+         INGREDIENTS: small sugar pumpkin halved seeded
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 73
+PRED: cut
+   DOBJ: sides
+      NON-INGREDIENT SPAN: sides
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 2
+SENT: I would roast in preheated oven until tender , about 1 hour .
+PREDID: 86
+PRED: roast
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would set aside until cool enough to handle , though still warm .
+PREDID: 129
+PRED: set
+   DOBJ: NULL
+   PARG: cool enough to handle , though still warm
+     PREP: until
+      NON-INGREDIENT SPAN: cool enough to handle 
+      NON-INGREDIENT SPAN:  though still warm
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+PREDID: 154
+PRED: handle
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 4
+SENT: I would adjust oven heat to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 177
+PRED: adjust
+   DOBJ: oven heat
+      NON-INGREDIENT SPAN: oven heat
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+
+
+SENTID: 5
+SENT: I would scoop flesh from pumpkin halves into a bowl ;
+PREDID: 218
+PRED: scoop
+   DOBJ: flesh
+      NON-INGREDIENT SPAN: flesh
+   PARG: pumpkin halves
+     PREP: from
+      INGREDIENT SPAN: pumpkin halves
+         INGREDIENTS: pumpkin pie spice
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: I would mash with potato masher .
+PREDID: 255
+PRED: mash
+   DOBJ: NULL
+   PARG: potato masher
+     PREP: with
+      NON-INGREDIENT SPAN: potato masher
+
+
+SENTID: 7
+SENT: I would measure 2 cups mashed pumpkin into a large mixing bowl ;
+PREDID: 276
+PRED: measure
+   DOBJ: 2 cups mashed pumpkin
+      NON-INGREDIENT SPAN: 2 cups mashed pumpkin
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 8
+SENT: I would add sugar , amber rum , egg yolk , pumpkin pie spice , the butter , dark molasses , and vanilla extract .
+PREDID: 322
+PRED: add
+   DOBJ: sugar , amber rum , egg yolk , pumpkin pie spice , the butter , dark molasses , vanilla extract
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: frozen deep-dish prepared pie crust
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  egg yolk 
+         INGREDIENTS: egg yolk
+      INGREDIENT SPAN:  dark molasses 
+         INGREDIENTS: dark molasses
+      INGREDIENT SPAN:  amber rum 
+         INGREDIENTS: amber rum
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 9
+SENT: I would puree the mixture with an immersion blender or electric hand mixer until smooth and thick .
+PREDID: 402
+PRED: puree
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: an immersion blender or electric hand mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an immersion blender or electric hand mixer
+   PARG: smooth, thick
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  thick
+
+
+SENTID: 10
+SENT: I would pour the puree into the pie crust .
+PREDID: 478
+PRED: pour
+   DOBJ: the puree
+      NON-INGREDIENT SPAN: the puree
+   PARG: the pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: the pie crust
+
+
+SENTID: 11
+SENT: I would bake in preheated oven until a toothpick inserted into the center comes out clean , 50 to 60 minutes .
+PREDID: 506
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 50 to 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  50 to 60 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+

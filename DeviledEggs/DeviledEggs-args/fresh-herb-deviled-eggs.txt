@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would muddle thyme , the sage , the oregano , the rosemary , garlic salt , and salt together with a mortar and pestle .
+PREDID: 0
+PRED: muddle
+   DOBJ: thyme , the sage , the oregano , the rosemary , garlic salt , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: chopped fresh rosemary
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: chopped fresh sage
+      NON-INGREDIENT SPAN: thyme 
+   PARG: with a mortar, pestle
+     PREP: together
+      NON-INGREDIENT SPAN: with a mortar
+      NON-INGREDIENT SPAN:  pestle
+
+
+SENTID: 1
+SENT: I would pour vinegar into mortar bowl and swirl around to mix with herbs .
+PREDID: 81
+PRED: pour
+   DOBJ: vinegar
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: vinegar
+   PARG: mortar bowl
+     PREP: into
+      NON-INGREDIENT SPAN: mortar bowl
+
+PREDID: 109
+PRED: swirl
+   DOBJ: NULL
+   OARG: around
+      NON-INGREDIENT SPAN: around
+   OARG: to mix with herbs
+      NON-INGREDIENT SPAN: to mix with herbs
+
+
+SENTID: 2
+SENT: I would scoop egg yolks from eggs and transfer to a bowl ;
+PREDID: 135
+PRED: scoop
+   DOBJ: egg yolks
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: hardboiled eggs peeled halved
+   PARG: eggs
+     PREP: from
+      NON-INGREDIENT SPAN: eggs
+
+PREDID: 159
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would mash egg yolks using a fork until texture is very fine .
+PREDID: 175
+PRED: mash
+   DOBJ: egg yolks using a fork until texture is very fine
+      NON-INGREDIENT SPAN: egg yolks using a fork until texture is very fine
+
+
+SENTID: 4
+SENT: I would stir chives and black pepper into mashed egg yolks .
+PREDID: 220
+PRED: stir
+   DOBJ: chives, black pepper
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: chives
+         INGREDIENTS: chopped fresh chives
+   PARG: mashed egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: mashed egg yolks
+
+
+SENTID: 5
+SENT: I would pour vinegar-herb mixture into egg yolks and mix well .
+PREDID: 263
+PRED: pour
+   DOBJ: vinegar-herb mixture
+      NON-INGREDIENT SPAN: vinegar-herb mixture
+   PARG: egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolks
+
+PREDID: 301
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would mix mayonnaise , sour cream , the mustard , and sucralose sweetener into egg yolk mixture until smooth .
+PREDID: 309
+PRED: mix
+   DOBJ: mayonnaise , sour cream , the mustard , sucralose sweetener
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard
+      INGREDIENT SPAN:  sucralose sweetener
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: egg yolk mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolk mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would spoon egg yolk mixture into egg whites using a teaspoon .
+PREDID: 392
+PRED: spoon
+   DOBJ: egg yolk mixture
+      NON-INGREDIENT SPAN: egg yolk mixture
+   PARG: egg whites using a teaspoon
+     PREP: into
+      NON-INGREDIENT SPAN: egg whites using a teaspoon
+
+

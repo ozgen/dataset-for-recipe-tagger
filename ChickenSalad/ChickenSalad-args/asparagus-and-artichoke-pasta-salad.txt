@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 31
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain , crumble and set aside .
+PREDID: 70
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 86
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 105
+PRED: bring
+   DOBJ: a large pot of lightly salted water to a boil
+      NON-INGREDIENT SPAN: a large pot of lightly salted water to a boil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would add asparagus and cook until tender , about 1 minute .
+PREDID: 147
+PRED: add
+   DOBJ: asparagus
+      INGREDIENT SPAN: asparagus
+         INGREDIENTS: asparagus spears ends
+
+PREDID: 162
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 5
+SENT: I would strain asparagus out of water and immediately plunge into a bowl filled with ice water ;
+PREDID: 191
+PRED: strain
+   DOBJ: asparagus
+      NON-INGREDIENT SPAN: asparagus
+   PARG: of water
+     PREP: out
+      NON-INGREDIENT SPAN: of water
+
+PREDID: 230
+PRED: plunge
+   DOBJ: NULL
+   PARG: a bowl filled with ice water
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl filled with ice water
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 6
+SENT: I would let the sit in ice water until completely cold ,
+PREDID: 264
+PRED: let
+   DOBJ: the sit in ice water
+      NON-INGREDIENT SPAN: the sit in ice water
+   PARG: completely cold
+     PREP: until
+      NON-INGREDIENT SPAN: completely cold
+
+
+SENTID: 7
+SENT: I would cut into 1 inch pieces .
+PREDID: 300
+PRED: cut
+   DOBJ: NULL
+   PARG: 1 inch pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch pieces
+
+
+SENTID: 8
+SENT: I would next , add pasta to boiling water and cook for 8 to 10 minutes or until al dente ;
+PREDID: 324
+PRED: add
+   DOBJ: pasta to boiling water
+      INGREDIENT SPAN: pasta to boiling water
+         INGREDIENTS: ounce package rotini elbow penne pasta
+   OARG: next
+      NON-INGREDIENT SPAN: next
+
+PREDID: 349
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 9
+SENT: I would drain , rinse with cold water until chilled ,
+PREDID: 383
+PRED: drain
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+   OARG: rinse
+      NON-INGREDIENT SPAN: rinse
+
+
+SENTID: 10
+SENT: I would drain well .
+PREDID: 420
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 11
+SENT: I would stir together mayonnaise , balsamic vinaigrette , lemon juice , and Worcestershire sauce in a large bowl .
+PREDID: 430
+PRED: stir
+   DOBJ: mayonnaise , balsamic vinaigrette , lemon juice , Worcestershire sauce in a large bowl
+      INGREDIENT SPAN:  Worcestershire sauce in a large bowl
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  balsamic vinaigrette 
+         INGREDIENTS: balsamic vinaigrette salad dressing
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: low fat mayonnaise
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would fold in artichoke , the chicken , the cranberries , the almonds , crumbled bacon , and asparagus .
+PREDID: 519
+PRED: fold
+   DOBJ: NULL
+   PARG: artichoke , the chicken , the cranberries , the almonds , crumbled bacon , asparagus
+     PREP: in
+      INGREDIENT SPAN: artichoke 
+         INGREDIENTS: ounce jar marinated artichoke hearts drained chopped
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cooked chicken breast cubed
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: toasted sliced almonds
+      NON-INGREDIENT SPAN:  asparagus
+      NON-INGREDIENT SPAN:  crumbled bacon 
+
+
+SENTID: 13
+SENT: I would season to taste with salt and pepper ,
+PREDID: 590
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 14
+SENT: I would fold in cooked pasta .
+PREDID: 621
+PRED: fold
+   DOBJ: NULL
+   PARG: cooked pasta
+     PREP: in
+      NON-INGREDIENT SPAN: cooked pasta
+
+
+SENTID: 15
+SENT: I would refrigerate for at least 1 hour before serving .
+PREDID: 639
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,223 @@
+SENTID: 0
+SENT: I would place the potatoes into a pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled diced
+   PARG: a pot
+     PREP: into
+      NON-INGREDIENT SPAN: a pot
+
+PREDID: 27
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil , reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 48
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 61
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 93
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 2
+SENT: I would drain and allow to steam dry for a minute or two .
+PREDID: 126
+PRED: drain and allow
+   DOBJ: NULL
+   PARG: steam dry for a minute or two
+     PREP: to
+      NON-INGREDIENT SPAN: steam dry for a minute or two
+
+
+SENTID: 3
+SENT: I would cut the meat from the turkey legs , discarding the bones and tendons .
+PREDID: 165
+PRED: cut
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the turkey legs
+     PREP: from
+      INGREDIENT SPAN: the turkey legs
+         INGREDIENTS: smoked turkey legs
+   OARG: discarding the bones, tendons
+      NON-INGREDIENT SPAN:  tendons
+      NON-INGREDIENT SPAN: discarding the bones
+
+
+SENTID: 4
+SENT: I would chop the turkey meat and set aside .
+PREDID: 222
+PRED: chop
+   DOBJ: the turkey meat
+      NON-INGREDIENT SPAN: the turkey meat
+
+PREDID: 242
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would heat the butter in a soup pot over medium heat ;
+PREDID: 251
+PRED: heat
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a soup pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a soup pot over medium heat
+
+
+SENTID: 6
+SENT: I would cook the onion in the butter until translucent , about 8 minutes .
+PREDID: 289
+PRED: cook
+   DOBJ: the onion
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+   PARG: the butter until translucent , about 8 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the butter until translucent 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 7
+SENT: I would sprinkle the flour over the butter and onion ;
+PREDID: 343
+PRED: sprinkle
+   DOBJ: the flour over the butter, onion
+      INGREDIENT SPAN: the flour over the butter
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  onion
+
+
+SENTID: 8
+SENT: I would stir constantly until the butter and flour form a paste .
+PREDID: 381
+PRED: stir
+   DOBJ: NULL
+   PARG: the butter, flour form a paste
+     PREP: until
+      NON-INGREDIENT SPAN:  flour form a paste
+      NON-INGREDIENT SPAN: the butter
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 9
+SENT: I would allow the paste to fry for about 1 minute .
+PREDID: 428
+PRED: allow
+   DOBJ: the paste to fry for about 1 minute
+      NON-INGREDIENT SPAN: the paste to fry for about 1 minute
+
+
+SENTID: 10
+SENT: I would whisk in the chicken broth , the potatoes , turkey meat , and corn ;
+PREDID: 462
+PRED: whisk
+   DOBJ: NULL
+   PARG: the chicken broth , the potatoes , turkey meat , corn
+     PREP: in
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce package frozen corn
+      INGREDIENT SPAN: the chicken broth 
+         INGREDIENTS: ounce carton chicken broth
+      NON-INGREDIENT SPAN:  the potatoes 
+      NON-INGREDIENT SPAN:  turkey meat 
+
+
+SENTID: 11
+SENT: I would stir until the mixture comes to a low boil and thickens , about 5 minutes .
+PREDID: 513
+PRED: stir
+   DOBJ: NULL
+   PARG: the mixture comes to a low boil, thickens , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture comes to a low boil
+      NON-INGREDIENT SPAN:  thickens 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 12
+SENT: With a potato masher , I would slightly mash the potatoes and vegetables until the potatoes look rounded off .
+PREDID: 599
+PRED: mash
+   DOBJ: the potatoes, vegetables
+      NON-INGREDIENT SPAN: the potatoes
+      NON-INGREDIENT SPAN:  vegetables
+   PARG: a potato masher
+     PREP: with
+      NON-INGREDIENT SPAN: a potato masher
+   PARG: the potatoes look rounded off
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes look rounded off
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 13
+SENT: I would pour in the cream , bring soup back to a simmer , and allow to cook without boiling for 5 minutes , stirring constantly .
+PREDID: 658
+PRED: pour
+   DOBJ: NULL
+   PARG: the cream
+     PREP: in
+      INGREDIENT SPAN: the cream
+         INGREDIENTS: light cream
+
+PREDID: 673
+PRED: bring
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+PREDID: 699
+PRED: allow
+   DOBJ: NULL
+   OARG: to cook without boiling for 5 minutes , stirring constantly
+      NON-INGREDIENT SPAN: to cook without boiling for 5 minutes 
+      NON-INGREDIENT SPAN:  stirring constantly
+
+
+SENTID: 14
+SENT: I would season to taste with salt and black pepper .
+PREDID: 755
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

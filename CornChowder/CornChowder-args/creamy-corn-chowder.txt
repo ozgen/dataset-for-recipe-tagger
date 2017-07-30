@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place potatoes in a large pot of salted water and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes peeled cubed
+   PARG: a large pot of salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of salted water
+
+PREDID: 40
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook until tender , about 30 minutes ;
+PREDID: 53
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 84
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: To the potatoes add corn , bell pepper , the onion , red pepper flakes and vegetable broth .
+
+SENTID: 4
+SENT: I would boil for about 15 minutes ;
+PREDID: 161
+PRED: boil
+   DOBJ: NULL
+   PARG: about 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 minutes
+
+
+SENTID: 5
+SENT: I would remove from heat .
+PREDID: 183
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 6
+SENT: In a food processor or blender puree all but 1?1/2 cups of the vegetable and broth mixture with the tofu .
+
+SENTID: 7
+SENT: I would process in batches if necessary .
+PREDID: 284
+PRED: process
+   DOBJ: NULL
+   PARG: batches
+     PREP: in
+      NON-INGREDIENT SPAN: batches
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+
+
+SENTID: 8
+SENT: I would combine the pureed mixture with the remaining 1?1/2 cups vegetable and broth mixture , and cook over low heat for 5 minutes ;
+PREDID: 312
+PRED: combine
+   DOBJ: the pureed mixture
+      NON-INGREDIENT SPAN: the pureed mixture
+   PARG: the remaining 1?1/2 cups vegetable
+     PREP: with
+      INGREDIENT SPAN: the remaining 1?1/2 cups vegetable
+         INGREDIENTS: vegetable broth
+
+PREDID: 372
+PRED: broth
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 388
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: low heat for 5 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 9
+SENT: do not boil .
+
+SENTID: 10
+SENT: I would season with salt to taste .
+PREDID: 415
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

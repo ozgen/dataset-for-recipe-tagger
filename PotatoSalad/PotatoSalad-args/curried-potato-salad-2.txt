@@ -1,0 +1,235 @@
+SENTID: 0
+SENT: I would place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: red potatoes peeled
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil over high heat ,
+PREDID: 53
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , about 20 minutes .
+PREDID: 78
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 113
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and allow to steam dry for a minute or two .
+PREDID: 143
+PRED: drain and allow
+   DOBJ: NULL
+   PARG: steam dry for a minute or two
+     PREP: to
+      NON-INGREDIENT SPAN: steam dry for a minute or two
+
+
+SENTID: 4
+SENT: I would allow the potatoes to cool ,
+PREDID: 182
+PRED: allow
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: I would cut into chunks .
+PREDID: 205
+PRED: cut
+   DOBJ: NULL
+   PARG: chunks
+     PREP: into
+      INGREDIENT SPAN: chunks
+         INGREDIENTS: red apples cored cut 1/2inch chunks
+
+
+SENTID: 6
+SENT: While the potatoes are cooking , I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 246
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: the potatoes are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the potatoes are cooking
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 288
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 7
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 323
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 342
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 8
+SENT: Once the water is boiling , I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 397
+PRED: remove
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 417
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 9
+SENT: I would pour out the hot water ,
+PREDID: 458
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 10
+SENT: I would cool the eggs under cold running water in the sink .
+PREDID: 477
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water in the sink
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water in the sink
+
+
+SENTID: 11
+SENT: I would peel and chop once cold .
+PREDID: 519
+PRED: peel and chop
+   DOBJ: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 12
+SENT: In a large salad bowl , I would whisk together the mayonnaise and sour cream until smooth ,
+
+SENTID: 13
+SENT: I would stir in the apple chunks , red onion , pickle relish , the celery , green onions , curry powder , and salt and pepper .
+PREDID: 539
+PRED: stir
+   DOBJ: NULL
+   PARG: the apple chunks , red onion , pickle relish , the celery , green onions , curry powder , salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: green onions sliced, chopped red onion
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: green onions sliced, chopped red onion
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+      NON-INGREDIENT SPAN:  green onions 
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: the apple chunks 
+
+
+SENTID: 14
+SENT: I would lightly stir in the potato chunks and eggs , toss to coat with dressing , cover the bowl , and chill at least 3 hours before serving .
+PREDID: 637
+PRED: stir
+   DOBJ: NULL
+   PARG: the potato chunks, eggs
+     PREP: in
+      NON-INGREDIENT SPAN: the potato chunks
+      NON-INGREDIENT SPAN:  eggs
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 666
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+PREDID: 689
+PRED: cover
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+
+PREDID: 705
+PRED: chill
+   DOBJ: NULL
+   PARG: least 3 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 3 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

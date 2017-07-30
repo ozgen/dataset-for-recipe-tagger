@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would finely chop cranberries in food processor or by hand .
+PREDID: 44
+PRED: chop
+   DOBJ: cranberries
+      INGREDIENT SPAN: cranberries
+         INGREDIENTS: cranberries
+   PARG: food processor
+     PREP: in
+      NON-INGREDIENT SPAN: food processor
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+
+SENTID: 2
+SENT: I would spread into bottom of pastry-lined pie pan .
+PREDID: 83
+PRED: spread
+   DOBJ: NULL
+   PARG: bottom of pastry-lined pie pan
+     PREP: into
+      INGREDIENT SPAN: bottom of pastry-lined pie pan
+         INGREDIENTS: inch deep dish pie crust
+
+
+SENTID: 3
+SENT: In a large bowl beat eggs until frothy .
+
+SENTID: 4
+SENT: I would add sugar , corn syrup , melted butter or margarine , the vanilla , the mace , and salt .
+PREDID: 152
+PRED: add
+   DOBJ: sugar , corn syrup , melted butter or margarine , the vanilla , the mace , salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN:  the mace 
+         INGREDIENTS: ground mace
+      INGREDIENT SPAN:  melted butter or margarine 
+         INGREDIENTS: unsalted butter melted
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: I would mix well .
+PREDID: 216
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would pour mixture over cranberry layer .
+PREDID: 224
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: cranberry layer
+     PREP: over
+      NON-INGREDIENT SPAN: cranberry layer
+
+
+SENTID: 7
+SENT: I would neatly arrange pecan halves on top of sugar mixture .
+PREDID: 260
+PRED: arrange
+   DOBJ: pecan halves
+      INGREDIENT SPAN: pecan halves
+         INGREDIENTS: pecan halves
+   PARG: top of sugar mixture
+     PREP: on
+      NON-INGREDIENT SPAN: top of sugar mixture
+   OARG: neatly
+      NON-INGREDIENT SPAN: neatly
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 45 to 50 minutes , until golden and set in center .
+PREDID: 298
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 to 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 to 50 minutes
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+
+PREDID: 348
+PRED: set
+   DOBJ: NULL
+   PARG: center
+     PREP: in
+      NON-INGREDIENT SPAN: center
+
+

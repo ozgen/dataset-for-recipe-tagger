@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add noodles and cook for 8 to 10 minutes or until al dente .
+PREDID: 42
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 55
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain , and transfer to a serving dish .
+PREDID: 89
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 98
+PRED: transfer
+   DOBJ: NULL
+   PARG: a serving dish
+     PREP: to
+      NON-INGREDIENT SPAN: a serving dish
+
+
+SENTID: 3
+SENT: While the pasta is cooking , I would mix together the yogurt and garlic in a medium bowl .
+PREDID: 144
+PRED: mix
+   DOBJ: the yogurt, garlic in a medium bowl
+      INGREDIENT SPAN: the yogurt
+         INGREDIENTS: plain yogurt
+      NON-INGREDIENT SPAN:  garlic in a medium bowl
+   PARG: the pasta is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the pasta is cooking
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would cover , and refrigerate until serving .
+PREDID: 187
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 196
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 5
+SENT: In a large skillet over medium heat , I would brown the ground beef with the onion .
+PREDID: 250
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the onion
+     PREP: with
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 6
+SENT: I would season with cinnamon while cooking .
+PREDID: 281
+PRED: season
+   DOBJ: NULL
+   PARG: cinnamon while cooking
+     PREP: with
+      INGREDIENT SPAN: cinnamon while cooking
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 7
+SENT: I would drain off excess grease , and stir in lemon juice and salt .
+PREDID: 312
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 336
+PRED: stir
+   DOBJ: NULL
+   PARG: lemon juice, salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN: lemon juice
+
+
+SENTID: 8
+SENT: I would adjust the seasoning to taste .
+PREDID: 360
+PRED: adjust
+   DOBJ: the seasoning
+      NON-INGREDIENT SPAN: the seasoning
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 9
+SENT: I would toss the meat mixture with noodles , and serve hot with cold yogurt sauce spooned over .
+PREDID: 383
+PRED: toss
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: noodles
+     PREP: with
+      NON-INGREDIENT SPAN: noodles
+
+PREDID: 416
+PRED: serve
+   DOBJ: NULL
+   PARG: cold yogurt sauce spooned over
+     PREP: with
+      NON-INGREDIENT SPAN: cold yogurt sauce spooned over
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

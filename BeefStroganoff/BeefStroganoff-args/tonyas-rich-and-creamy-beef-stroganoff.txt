@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: I would melt butter in a large heavy pot over medium-high heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large heavy pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large heavy pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion until softened , about 5 minutes .
+PREDID: 46
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion chopped
+   PARG: softened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: softened 
+
+
+SENTID: 2
+SENT: I would stir in mushrooms and continue to cook and stir until mushrooms are soft and liquid has evaporated , about 5 more minutes .
+PREDID: 90
+PRED: stir
+   DOBJ: NULL
+   PARG: mushrooms
+     PREP: in
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+
+PREDID: 108
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir until mushrooms are soft, liquid has evaporated , about 5 more minutes
+      NON-INGREDIENT SPAN:  stir until mushrooms are soft
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN:  liquid has evaporated 
+      NON-INGREDIENT SPAN: to cook
+
+
+SENTID: 3
+SENT: I would transfer onion and mushrooms to a bowl .
+PREDID: 191
+PRED: transfer
+   DOBJ: onion, mushrooms
+      NON-INGREDIENT SPAN: onion
+      NON-INGREDIENT SPAN:  mushrooms
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 4
+SENT: I would cook and stir beef sirloin cubes in the same skillet over medium heat until the cubes are browned on all sides and liquid has evaporated , about 10 minutes .
+PREDID: 224
+PRED: cook and stir
+   DOBJ: beef sirloin cubes in the same skillet
+      INGREDIENT SPAN: beef sirloin cubes in the same skillet
+         INGREDIENTS: beef sirloin cut 1inch cubes
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: the cubes are browned on all sides
+     PREP: until
+      NON-INGREDIENT SPAN: the cubes are browned on all sides
+   OARG: liquid has evaporated , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: liquid has evaporated 
+
+
+SENTID: 5
+SENT: I would pour 2/3 of the beef consomme into the skillet ;
+PREDID: 352
+PRED: pour
+   DOBJ: 2/3 of the beef consomme
+      INGREDIENT SPAN: 2/3 of the beef consomme
+         INGREDIENTS: ounce condensed beef consomme gelatin added divided
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 6
+SENT: I would scrape up and dissolve any brown bits from the bottom of the skillet .
+PREDID: 391
+PRED: scrape
+   DOBJ: NULL
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 402
+PRED: dissolve
+   DOBJ: any brown bits
+      NON-INGREDIENT SPAN: any brown bits
+   PARG: the bottom of the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the bottom of the skillet
+
+
+SENTID: 7
+SENT: Bring mixture to a boil ;
+PREDID: 448
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would set the remaining consomme aside .
+PREDID: 468
+PRED: set
+   DOBJ: the remaining consomme
+      INGREDIENT SPAN: the remaining consomme
+         INGREDIENTS: ounce condensed beef consomme gelatin added divided
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would mix in garlic , the ketchup , Worcestershire sauce , the salt , black pepper , and hot sauce .
+PREDID: 494
+PRED: mix
+   DOBJ: NULL
+   PARG: garlic , the ketchup , worcestershire sauce , the salt , black pepper , hot sauce
+     PREP: in
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: dashes hot pepper sauce such Tabasco taste
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN: garlic 
+
+
+SENTID: 10
+SENT: I would reduce heat to low and simmer beef mixture until tender , at least 30 minutes .
+PREDID: 563
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer beef mixture
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer beef mixture
+      NON-INGREDIENT SPAN: low
+   PARG: tender , at least 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  at least 30 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 11
+SENT: I would simmer longer for more tender beef .
+PREDID: 627
+PRED: simmer
+   DOBJ: NULL
+   OARG: longer for more tender beef
+      NON-INGREDIENT SPAN: longer for more tender beef
+
+
+SENTID: 12
+SENT: I would whisk the remaining 1/3 can beef consomme with flour in a small bowl until smooth ;
+PREDID: 657
+PRED: whisk
+   DOBJ: the remaining 1/3 can beef consomme
+      NON-INGREDIENT SPAN: the remaining 1/3 can beef consomme
+   PARG: flour in a small bowl
+     PREP: with
+      INGREDIENT SPAN: flour in a small bowl
+         INGREDIENTS: allpurpose flour
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 13
+SENT: I would stir into the beef mixture , return to a boil , and simmer the meat and sauce until thickened , 2 to 3 more minutes .
+PREDID: 722
+PRED: stir
+   DOBJ: NULL
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+PREDID: 745
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 762
+PRED: simmer
+   DOBJ: the meat, sauce
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: the meat
+   PARG: thickened , 2 to 3 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  2 to 3 more minutes
+
+
+SENTID: 14
+SENT: I would stir in cooked onion and mushrooms and cook until heated through .
+PREDID: 814
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked onion, mushrooms
+     PREP: in
+      NON-INGREDIENT SPAN: cooked onion
+      NON-INGREDIENT SPAN:  mushrooms
+
+PREDID: 846
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 15
+SENT: I would remove from heat , stir in sour cream , and serve .
+PREDID: 869
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 884
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: ounce container sour cream
+
+

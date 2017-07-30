@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would heat the oil in a wok or large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: the oil in a wok or large skillet
+      INGREDIENT SPAN: the oil in a wok or large skillet
+         INGREDIENTS: vegetable oil
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook the chicken and carrots in the hot oil until the chicken is no longer pink in the center and the carrots are tender , about 5 minutes .
+
+SENTID: 2
+SENT: I would stir in the garlic and ginger ;
+PREDID: 162
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic, ginger
+     PREP: in
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      NON-INGREDIENT SPAN: the garlic
+
+
+SENTID: 3
+SENT: I would cook another 1 minute .
+PREDID: 187
+PRED: cook
+   DOBJ: another 1 minute
+      NON-INGREDIENT SPAN: another 1 minute
+
+
+SENTID: 4
+SENT: I would add the shallots and bell pepper ;
+PREDID: 206
+PRED: add
+   DOBJ: the shallots, bell pepper
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: bell pepper slivered
+      INGREDIENT SPAN: the shallots
+         INGREDIENTS: shallots chopped
+
+
+SENTID: 5
+SENT: I would cook another 1 minute .
+PREDID: 234
+PRED: cook
+   DOBJ: another 1 minute
+      NON-INGREDIENT SPAN: another 1 minute
+
+
+SENTID: 6
+SENT: I would whisk together 3 tablespoons of the reserved liquid from the canned pineapple chunks along with the pineapple chunks , the water , soy sauce , the cornstarch , the vinegar , and pepper flakes ;
+PREDID: 253
+PRED: whisk
+   DOBJ: 3 tablespoons of the reserved liquid from the canned pineapple chunks along with the pineapple chunks , the water , soy sauce , the cornstarch , the vinegar , pepper flakes
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN: 3 tablespoons of the reserved from the canned along with the pineapple chunks 
+         INGREDIENTS: reserved
+      INGREDIENT SPAN: 3 tablespoons of the reserved liquid from the canned pineapple chunks along with the pineapple chunks 
+         INGREDIENTS: ounce pineapple chunks natural juice liquid drained
+      INGREDIENT SPAN:  pepper flakes
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would stir into the chicken and vegetable mixture and bring to a boil , stirring until the sauce thickens .
+PREDID: 406
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken, vegetable mixture
+     PREP: into
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut inch
+      NON-INGREDIENT SPAN:  vegetable mixture
+
+PREDID: 446
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: stirring until the sauce thickens
+      NON-INGREDIENT SPAN: stirring until the sauce thickens
+
+

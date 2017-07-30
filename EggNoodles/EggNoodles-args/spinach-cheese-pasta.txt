@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles and cook for 8 to 10 minutes or until al dente .
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package extra wide egg noodles
+
+PREDID: 58
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain , and return to the pot .
+PREDID: 92
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 101
+PRED: return
+   DOBJ: NULL
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 3
+SENT: I would heat the olive oil in a skillet , and cook the garlic and spinach 3 to 5 minutes , until well coated .
+PREDID: 116
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: extra virgin olive oil
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+PREDID: 145
+PRED: cook
+   DOBJ: NULL
+   PARG: the garlic, spinach 3 to 5 minutes
+     PREP: for
+      INGREDIENT SPAN:  spinach 3 to 5 minutes
+         INGREDIENTS: ounce packages frozen chopped spinach
+      NON-INGREDIENT SPAN: the garlic
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 4
+SENT: I would transfer to the pot with the drained pasta .
+PREDID: 196
+PRED: transfer
+   DOBJ: NULL
+   PARG: the pot with the drained pasta
+     PREP: to
+      NON-INGREDIENT SPAN: the pot with the drained pasta
+
+
+SENTID: 5
+SENT: I would toss in the cottage cheese .
+PREDID: 232
+PRED: toss
+   DOBJ: NULL
+   PARG: the cottage cheese
+     PREP: in
+      INGREDIENT SPAN: the cottage cheese
+         INGREDIENTS: ounce container cottage cheese
+
+
+SENTID: 6
+SENT: I would top with Parmesan cheese to serve .
+PREDID: 255
+PRED: top
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: ounce package grated Parmesan cheese
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

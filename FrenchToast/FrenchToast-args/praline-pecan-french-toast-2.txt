@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would mix half-and-half , the eggs , the vanilla , and 1 tablespoon dark brown sugar together in a large shallow bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: half-and-half , the eggs , the vanilla , 1 tablespoon dark brown sugar
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  1 tablespoon dark brown sugar
+         INGREDIENTS: dark brown sugar
+      NON-INGREDIENT SPAN: half-and-half 
+   PARG: a large shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add French bread .
+PREDID: 86
+PRED: add
+   DOBJ: French bread
+      INGREDIENT SPAN: French bread
+         INGREDIENTS: slices French bread
+
+
+SENTID: 2
+SENT: I would cover bowl with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 101
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 128
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 157
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: I would place butter in a 9x13-inch casserole dish .
+PREDID: 195
+PRED: place
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter more needed
+   PARG: a 9x13-inch casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+
+
+SENTID: 5
+SENT: I would place casserole dish in the preheating oven to melt butter , about 5 minutes .
+PREDID: 232
+PRED: place
+   DOBJ: casserole dish
+      NON-INGREDIENT SPAN: casserole dish
+   PARG: the preheating oven to melt butter , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheating oven to melt butter 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would swirl butter over bottom of the dish .
+PREDID: 296
+PRED: swirl
+   DOBJ: butter
+      NON-INGREDIENT SPAN: butter
+   PARG: bottom of the dish
+     PREP: over
+      NON-INGREDIENT SPAN: bottom of the dish
+
+
+SENTID: 7
+SENT: I would spread brown sugar , maple syrup , and pecans over the melted butter .
+PREDID: 327
+PRED: spread
+   DOBJ: brown sugar , maple syrup , pecans over the melted butter
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  pecans over the melted butter
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: dark brown sugar
+
+
+SENTID: 8
+SENT: I would arrange soaked bread atop pecan mixture .
+PREDID: 384
+PRED: arrange
+   DOBJ: soaked bread
+      NON-INGREDIENT SPAN: soaked bread
+   PARG: pecan mixture
+     PREP: atop
+      NON-INGREDIENT SPAN: pecan mixture
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until French toast is cooked through , 30 to 35 minutes .
+PREDID: 419
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: french toast is cooked through , 30 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: french toast is cooked through 
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+
+
+SENTID: 10
+SENT: I would sprinkle with confectioners ' sugar .
+PREDID: 487
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar more taste
+
+

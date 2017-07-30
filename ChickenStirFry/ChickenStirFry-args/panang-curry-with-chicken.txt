@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would fry the curry paste in the oil in a large skillet or wok over medium heat until fragrant .
+PREDID: 0
+PRED: fry paste
+   DOBJ: the curry
+      INGREDIENT SPAN: the curry
+         INGREDIENTS: Panang curry paste
+   PARG: the oil in a large skillet or wok over medium heat
+     PREP: in
+      INGREDIENT SPAN: the oil in a large skillet or wok over medium heat
+         INGREDIENTS: cooking oil
+   PARG: fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+
+
+SENTID: 1
+SENT: I would stir the coconut milk into the curry paste and bring to a boil .
+PREDID: 72
+PRED: stir
+   DOBJ: the coconut milk
+      INGREDIENT SPAN: the coconut milk
+         INGREDIENTS: coconut milk
+   PARG: the curry paste
+     PREP: into
+      NON-INGREDIENT SPAN: the curry paste
+
+PREDID: 110
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the chicken ;
+PREDID: 123
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast cubed
+
+
+SENTID: 3
+SENT: I would cook and stir until the chicken is nearly cooked through , 10 to 15 minutes .
+PREDID: 137
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken is nearly cooked through , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: the chicken is nearly cooked through 
+
+
+SENTID: 4
+SENT: I would stir the palm sugar , fish sauce , and lime leaves into the mixture ;
+PREDID: 199
+PRED: stir
+   DOBJ: the palm sugar , fish sauce , lime leaves
+      INGREDIENT SPAN:  lime leaves
+         INGREDIENTS: leaves torn
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce taste
+      INGREDIENT SPAN: the palm sugar 
+         INGREDIENTS: palm sugar
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 5
+SENT: I would simmer together for 5 minutes .
+PREDID: 254
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would taste and adjust the saltiness by adding more fish sauce if necessary .
+PREDID: 280
+PRED: taste and adjust
+   DOBJ: the saltiness
+      NON-INGREDIENT SPAN: the saltiness
+   PARG: adding more fish sauce if necessary
+     PREP: by
+      NON-INGREDIENT SPAN: adding more fish sauce if necessary
+
+
+SENTID: 7
+SENT: I would garnish with sliced red chile peppers and Thai basil leaves to serve .
+PREDID: 339
+PRED: garnish
+   DOBJ: NULL
+   PARG: sliced red chile peppers
+     PREP: with
+      INGREDIENT SPAN: sliced red chile peppers
+         INGREDIENTS: fresh red chile peppers sliced
+   OARG: thai basil leaves to serve
+      INGREDIENT SPAN: thai basil leaves to serve
+         INGREDIENTS: fresh Thai basil leaves
+
+

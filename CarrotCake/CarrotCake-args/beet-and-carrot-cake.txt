@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13-inch baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: I would combine flour , brown sugar , the raisins , the coconut , wheat germ , wheat bran , the cinnamon , baking soda , and salt in a bowl .
+PREDID: 65
+PRED: combine
+   DOBJ: flour , brown sugar , the raisins , the coconut , wheat germ , wheat bran , the cinnamon , baking soda , salt in a bowl
+      INGREDIENT SPAN:  wheat bran 
+         INGREDIENTS: wheat bran
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  wheat germ 
+         INGREDIENTS: wheat germ
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: shredded coconut
+
+
+SENTID: 3
+SENT: I would whisk vegetable oil and eggs together in a separate bowl .
+PREDID: 160
+PRED: whisk
+   DOBJ: vegetable oil, eggs
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir oil mixture , the carrots , and beets into flour mixture until just combined .
+PREDID: 208
+PRED: stir
+   DOBJ: oil mixture , the carrots , beets
+      INGREDIENT SPAN:  beets
+         INGREDIENTS: ounce sliced beets drained mashed
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: grated carrots
+      NON-INGREDIENT SPAN: oil mixture 
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 5
+SENT: I would pour batter into prepared baking dish .
+PREDID: 273
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 6
+SENT: I would bake in preheated oven until center of cake bounces back when touched , about 1 hour .
+PREDID: 306
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: center of cake bounces back when touched , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: center of cake bounces back when touched 
+      NON-INGREDIENT SPAN:  about 1 hour
+
+

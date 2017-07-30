@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would scrub and dry potatoes ,
+PREDID: 38
+PRED: scrub and dry
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: Yukon Gold potatoes
+
+
+SENTID: 2
+SENT: I would prick several times with a fork and place onto a baking sheet .
+PREDID: 58
+PRED: prick
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+   PARG: a fork, place
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+      NON-INGREDIENT SPAN:  place
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until the potatoes are easily pierced with a fork , 50 minutes to 1 hour .
+PREDID: 109
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the potatoes are easily pierced with a fork , 50 minutes to 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are easily pierced with a fork 
+      NON-INGREDIENT SPAN:  50 minutes to 1 hour
+
+
+SENTID: 4
+SENT: I would remove , cool , and cut into slices about 1/4-inch thick .
+PREDID: 190
+PRED: remove and cool
+   DOBJ: NULL
+
+PREDID: 205
+PRED: cut
+   DOBJ: NULL
+   PARG: slices about 1/4-inch thick
+     PREP: into
+      NON-INGREDIENT SPAN: slices about 1/4-inch thick
+
+
+SENTID: 5
+SENT: I would sprinkle cornmeal over a half sheet pan .
+PREDID: 237
+PRED: sprinkle
+   DOBJ: cornmeal
+      INGREDIENT SPAN: cornmeal
+         INGREDIENTS: cornmeal
+   PARG: a half sheet pan
+     PREP: over
+      NON-INGREDIENT SPAN: a half sheet pan
+
+
+SENTID: 6
+SENT: I would stretch pizza dough over cornmeal to fit the pan ;
+PREDID: 271
+PRED: stretch
+   DOBJ: pizza dough over cornmeal
+      INGREDIENT SPAN: pizza dough over cornmeal
+         INGREDIENTS: prepared pizza dough
+   OARG: to fit the pan
+      NON-INGREDIENT SPAN: to fit the pan
+
+
+SENTID: 7
+SENT: spread pesto sauce over dough .
+
+SENTID: 8
+SENT: I would lay potatoes over the pesto in a single layer ;
+PREDID: 312
+PRED: lay
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: the pesto in a single layer
+     PREP: over
+      INGREDIENT SPAN: the pesto in a single layer
+         INGREDIENTS: prepared basil pesto sauce
+
+
+SENTID: 9
+SENT: I would season with salt and pepper to taste and sprinkle Parmigiano-Reggiano cheese over potatoes .
+PREDID: 350
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+PREDID: 383
+PRED: sprinkle
+   DOBJ: Parmigiano-Reggiano cheese
+      INGREDIENT SPAN: Parmigiano-Reggiano cheese
+         INGREDIENTS: crumbled feta cheese
+   PARG: potatoes
+     PREP: over
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 10
+SENT: I would sprinkle Fontina cheese , red onion slices , and feta cheese on top .
+PREDID: 429
+PRED: sprinkle
+   DOBJ: Fontina cheese , red onion slices , feta cheese
+      INGREDIENT SPAN: Fontina cheese 
+         INGREDIENTS: shredded Fontina cheese
+      INGREDIENT SPAN:  red onion slices 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: grated ParmigianoReggiano cheese
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven on the bottom rack for 10 minutes .
+PREDID: 485
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven on the bottom rack for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven on the bottom rack for 10 minutes
+
+
+SENTID: 12
+SENT: I would transfer the pan to the middle rack and bake until crust is light golden and crisp , 5 to 7 minutes .
+PREDID: 535
+PRED: transfer
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the middle rack
+     PREP: to
+      NON-INGREDIENT SPAN: the middle rack
+
+PREDID: 567
+PRED: bake
+   DOBJ: NULL
+   PARG: crust is light golden, crisp , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: crust is light golden
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN:  crisp 
+
+

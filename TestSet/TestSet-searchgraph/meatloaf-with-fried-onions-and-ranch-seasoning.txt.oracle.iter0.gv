@@ -1,0 +1,36 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="shape
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="fit
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: Frenchfried onions, eggs, ketchup, herbseasoned dry bread stuffing mix, package dry Ranchstyle dressing mix", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E0 -> E2 [label="IMPLICIT PREP"]
+O2_0_0[label="OTHER: into loaf", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCATION:into 9 x 5 inch loaf pan", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: covered loosely with foil", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+O4_1_0[label="OTHER: at 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O4_1_0 -> E4
+O4_2_0[label="OTHER: for 50 to 60 minutes, or until meat is thoroughly cooked", shape=box, style=filled, fillcolor=white]
+O4_2_0 -> E4
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

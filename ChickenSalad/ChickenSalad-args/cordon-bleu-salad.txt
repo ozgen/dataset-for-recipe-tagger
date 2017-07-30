@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the bow tie pasta and return to a boil .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the bow tie pasta
+     PREP: in
+      INGREDIENT SPAN: the bow tie pasta
+         INGREDIENTS: ounce package farfalle bow tie pasta
+
+PREDID: 115
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes .
+PREDID: 129
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes
+     PREP: for
+      INGREDIENT SPAN:  until the pasta has cooked through 
+         INGREDIENTS: cubed cooked chicken
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 12 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain well in a colander set in the sink .
+PREDID: 241
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would combine pasta , the chicken , the ham , Swiss cheese , and broccoli in a large bowl .
+PREDID: 274
+PRED: combine
+   DOBJ: pasta , the chicken , the ham , Swiss cheese , broccoli in a large bowl
+      INGREDIENT SPAN:  broccoli in a large bowl
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cubed cooked ham
+      INGREDIENT SPAN:  Swiss cheese 
+         INGREDIENTS: cubed Swiss cheese
+      NON-INGREDIENT SPAN: pasta 
+      NON-INGREDIENT SPAN:  the chicken 
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 335
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would blend honey , the mayonnaise , the mustard , the vinegar , the onion , olive oil , the sugar , and garlic salt in a blender .
+PREDID: 344
+PRED: blend
+   DOBJ: honey , the mayonnaise , the mustard , the vinegar , the onion , olive oil , the sugar , garlic salt in a blender
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN: honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  garlic salt in a blender
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 7
+SENT: I would stir in parsley .
+PREDID: 427
+PRED: stir
+   DOBJ: NULL
+   PARG: parsley
+     PREP: in
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped parsley
+
+
+SENTID: 8
+SENT: I would stir the dressing into the pasta , reserving 1/2 cup of dressing .
+PREDID: 441
+PRED: stir
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: the pasta
+     PREP: into
+      NON-INGREDIENT SPAN: the pasta
+   OARG: reserving 1/2 cup of dressing
+      NON-INGREDIENT SPAN: reserving 1/2 cup of dressing
+
+
+SENTID: 9
+SENT: I would chill salad and reserved dressing in the refrigerator for at least 1 hour .
+PREDID: 492
+PRED: chill
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+
+PREDID: 505
+PRED: reserved
+   DOBJ: NULL
+   OARG: dressing in the refrigerator for at least 1 hour
+      NON-INGREDIENT SPAN: dressing in the refrigerator for at least 1 hour
+
+
+SENTID: 10
+SENT: I would stir in the remaining dressing and Parmesan cheese before serving .
+PREDID: 554
+PRED: stir
+   DOBJ: the remaining dressing, Parmesan cheese
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: the remaining dressing
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+

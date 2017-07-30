@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl whisk together egg , I would sugar substitute , and pumpkin pie spice until well blended .
+PREDID: 68
+PRED: sugar
+   DOBJ: substitute , pumpkin pie spice
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      NON-INGREDIENT SPAN: substitute 
+   PARG: a medium bowl whisk together egg
+     PREP: in
+      INGREDIENT SPAN: a medium bowl whisk together egg
+         INGREDIENTS: egg
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would add pumpkin and milk to egg mixture , and stir until smooth .
+PREDID: 119
+PRED: add
+   DOBJ: pumpkin, milk
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: evaporated milk
+   PARG: egg mixture
+     PREP: to
+      NON-INGREDIENT SPAN: egg mixture
+
+PREDID: 152
+PRED: stir
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour mixture into pie shell .
+PREDID: 168
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch pie shell
+
+
+SENTID: 4
+SENT: I would place pie on a baking sheet and bake in preheated oven for 30 minutes , or until set in center .
+PREDID: 192
+PRED: place
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 217
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+

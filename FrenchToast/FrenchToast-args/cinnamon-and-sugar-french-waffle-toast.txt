@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: I would preheat a waffle iron according to the manufacturer 's instructions , and spray with cooking spray .
+PREDID: 0
+PRED: preheat
+   DOBJ: a waffle iron
+      NON-INGREDIENT SPAN: a waffle iron
+   PARG: to the manufacturer 's instructions , spray with cooking spray
+     PREP: according
+      NON-INGREDIENT SPAN:  spray with cooking spray
+      NON-INGREDIENT SPAN: to the manufacturer 's instructions 
+
+
+SENTID: 1
+SENT: In a shallow bowl , I would whisk together the eggs , the milk , vanilla extract , the sugar , and cinnamon .
+PREDID: 99
+PRED: whisk
+   DOBJ: the eggs , the milk , vanilla extract , the sugar , cinnamon
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would dip each piece of white bread into the egg mixture .
+PREDID: 158
+PRED: dip
+   DOBJ: each piece of white bread
+      INGREDIENT SPAN: each piece of white bread
+         INGREDIENTS: slices white bread
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 3
+SENT: I would cook in the preheated waffle iron until golden brown , 1 to 2 minutes .
+PREDID: 200
+PRED: cook
+   DOBJ: NULL
+   PARG: the preheated waffle iron until golden brown , 1 to 2 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated waffle iron until golden brown 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+

@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would stir together all purpose gluten-free flour and 1 teaspoon salt .
+PREDID: 40
+PRED: stir
+   DOBJ: all purpose gluten-free flour, 1 teaspoon salt
+      INGREDIENT SPAN:  1 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: all purpose gluten-free flour
+         INGREDIENTS: gluten-free purpose baking flour
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: In a separate bowl , I would whisk together the vegetable oil and soy creamer until creamy .
+PREDID: 111
+PRED: whisk
+   DOBJ: the vegetable oil, soy creamer
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  soy creamer
+         INGREDIENTS: french vanilla soy creamer
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: creamy
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pour oil mixture into flour mixture , stir with fork until blended .
+PREDID: 164
+PRED: pour
+   DOBJ: oil mixture
+      NON-INGREDIENT SPAN: oil mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 195
+PRED: stir
+   DOBJ: NULL
+   PARG: fork
+     PREP: with
+      NON-INGREDIENT SPAN: fork
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 4
+SENT: I would pat the crust into the bottom and sides of a 9-inch pie pan .
+PREDID: 220
+PRED: pat
+   DOBJ: the crust
+      NON-INGREDIENT SPAN: the crust
+   PARG: the bottom, sides of a 9-inch pie pan
+     PREP: into
+      NON-INGREDIENT SPAN:  sides of a 9-inch pie pan
+      NON-INGREDIENT SPAN: the bottom
+
+
+SENTID: 5
+SENT: I would bake for 15 minutes in preheated oven .
+PREDID: 268
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes in preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes in preheated oven
+
+
+SENTID: 6
+SENT: I would remove and set aside .
+PREDID: 300
+PRED: remove and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would decrease oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 318
+PRED: decrease
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 8
+SENT: I would place pumpkin , soy creamer , brown sugar , the cornstarch , corn syrup , the cinnamon , the ginger , the nutmeg , the salt , and cloves in a blender .
+PREDID: 357
+PRED: place
+   DOBJ: pumpkin , soy creamer , brown sugar , the cornstarch , corn syrup , the cinnamon , the ginger , the nutmeg , the salt , cloves in a blender
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  cloves in a blender
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  soy creamer 
+
+
+SENTID: 9
+SENT: I would blend until combined .
+PREDID: 461
+PRED: blend
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 10
+SENT: I would pour into prebaked pie crust .
+PREDID: 480
+PRED: pour
+   DOBJ: NULL
+   PARG: prebaked pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: prebaked pie crust
+
+
+SENTID: 11
+SENT: I would place the foil around the edges of the pie crust and bake for 60 minutes or until a knife inserted 1 inch from crust comes out clean .
+PREDID: 505
+PRED: place
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+   PARG: the edges of the pie crust
+     PREP: around
+      NON-INGREDIENT SPAN: the edges of the pie crust
+
+PREDID: 547
+PRED: bake
+   DOBJ: NULL
+   PARG: 60 minutes or until a knife inserted 1 inch from crust comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 60 minutes or until a knife inserted 1 inch from crust comes out clean
+
+
+SENTID: 12
+SENT: I would cool pie on counter for 2 hours
+PREDID: 609
+PRED: cool
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: counter for 2 hours
+     PREP: on
+      NON-INGREDIENT SPAN: counter for 2 hours
+
+
+SENTID: 13
+SENT: I would refrigerate overnight before serving .
+PREDID: 634
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

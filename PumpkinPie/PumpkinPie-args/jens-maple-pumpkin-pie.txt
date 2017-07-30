@@ -1,0 +1,303 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would line a baking sheet with parchment paper .
+PREDID: 38
+PRED: line
+   DOBJ: a baking sheet with parchment paper
+      NON-INGREDIENT SPAN: a baking sheet with parchment paper
+
+
+SENTID: 2
+SENT: I would place pumpkin halves , cut-side down , on prepared baking sheet .
+PREDID: 73
+PRED: place
+   DOBJ: pumpkin halves , cut-side down
+      INGREDIENT SPAN: pumpkin halves 
+         INGREDIENTS: pound sugar pumpkin cut half
+      NON-INGREDIENT SPAN:  cut-side down
+   PARG: prepared baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: prepared baking sheet
+
+
+SENTID: 3
+SENT: I would roast pumpkin in the preheated oven until tender , about 1 hour .
+PREDID: 127
+PRED: roast
+   DOBJ: pumpkin in the preheated oven
+      NON-INGREDIENT SPAN: pumpkin in the preheated oven
+   PARG: tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 4
+SENT: I would set aside until cool enough to handle , at least 15 minutes .
+PREDID: 180
+PRED: set
+   DOBJ: NULL
+   PARG: cool enough
+     PREP: until
+      NON-INGREDIENT SPAN: cool enough
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to handle , at least 15 minutes
+      NON-INGREDIENT SPAN: to handle 
+      NON-INGREDIENT SPAN:  at least 15 minutes
+
+
+SENTID: 5
+SENT: I would remove seeds from pumpkin and discard .
+PREDID: 229
+PRED: remove
+   DOBJ: seeds
+      NON-INGREDIENT SPAN: seeds
+   PARG: pumpkin
+     PREP: from
+      NON-INGREDIENT SPAN: pumpkin
+
+
+SENTID: 6
+SENT: I would scoop pumpkin flesh into a food processor and blend until smooth .
+PREDID: 262
+PRED: scoop
+   DOBJ: pumpkin flesh
+      NON-INGREDIENT SPAN: pumpkin flesh
+   PARG: a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: a food processor
+
+PREDID: 300
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would reduce oven temperature to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 317
+PRED: reduce
+   DOBJ: oven temperature
+      INGREDIENT SPAN: oven temperature
+         INGREDIENTS: eggs room temperature
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+
+
+SENTID: 8
+SENT: While pumpkin is roasting , I would roll out pie dough to fit in a 9-inch pie dish .
+PREDID: 388
+PRED: roll
+   DOBJ: pie dough
+      INGREDIENT SPAN: pie dough
+         INGREDIENTS: pie dough single-crust pie
+   PARG: pumpkin is roasting
+     PREP: while
+      NON-INGREDIENT SPAN: pumpkin is roasting
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to fit in a 9-inch pie dish
+      NON-INGREDIENT SPAN: to fit in a 9-inch pie dish
+
+
+SENTID: 9
+SENT: I would crimp edges to form a border .
+PREDID: 425
+PRED: crimp
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+   OARG: to form a border
+      NON-INGREDIENT SPAN: to form a border
+
+
+SENTID: 10
+SENT: I would refrigerate dough until chilled , at least 45 minutes .
+PREDID: 449
+PRED: refrigerate
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: chilled , at least 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chilled 
+      NON-INGREDIENT SPAN:  at least 45 minutes
+
+
+SENTID: 11
+SENT: I would line chilled pie dough with 2 sheets of aluminum foil and pour pie weights into the foil .
+PREDID: 495
+PRED: line
+   DOBJ: chilled pie dough
+      NON-INGREDIENT SPAN: chilled pie dough
+   PARG: 2 sheets of aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: 2 sheets of aluminum foil
+
+PREDID: 542
+PRED: pour
+   DOBJ: pie weights
+      NON-INGREDIENT SPAN: pie weights
+   PARG: the foil
+     PREP: into
+      NON-INGREDIENT SPAN: the foil
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until crust is set on the sides and lightly golden on the border , about 25 minutes .
+PREDID: 568
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: crust is set on the sides, lightly golden on the border , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: crust is set on the sides
+      NON-INGREDIENT SPAN:  lightly golden on the border 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 13
+SENT: I would remove aluminum foil with pie weights .
+PREDID: 658
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+   PARG: pie weights
+     PREP: with
+      NON-INGREDIENT SPAN: pie weights
+
+
+SENTID: 14
+SENT: I would whisk egg white and water together in a small bowl .
+PREDID: 691
+PRED: whisk
+   DOBJ: egg white
+      INGREDIENT SPAN: egg white
+         INGREDIENTS: egg white
+
+PREDID: 707
+PRED: water
+   DOBJ: NULL
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 15
+SENT: I would brush border of pie crust with egg white mixture and return to oven .
+PREDID: 733
+PRED: brush
+   DOBJ: border of pie crust
+      NON-INGREDIENT SPAN: border of pie crust
+   PARG: egg white mixture
+     PREP: with
+      NON-INGREDIENT SPAN: egg white mixture
+
+PREDID: 776
+PRED: return
+   DOBJ: NULL
+   PARG: oven
+     PREP: to
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 16
+SENT: I would bake until bottom of the pie appears dry and set , about 10 minutes more .
+PREDID: 789
+PRED: bake
+   DOBJ: NULL
+   PARG: bottom of the pie appears
+     PREP: until
+      NON-INGREDIENT SPAN: bottom of the pie appears
+
+
+SENTID: 17
+SENT: I would remove crust from oven and reduce temperature to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 848
+PRED: remove
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 870
+PRED: reduce
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 18
+SENT: I would whisk 2 cups pumpkin puree , the cream , the eggs , brown sugar , maple syrup , the flour , the vanilla , the cinnamon , the nutmeg , the cloves , and salt together in a bowl until smooth .
+PREDID: 914
+PRED: whisk
+   DOBJ: 2 cups pumpkin puree , the cream , the eggs , brown sugar , maple syrup , the flour , the vanilla , the cinnamon , the nutmeg , the cloves , salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cream 
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: all-purpose flour
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN: 2 cups pumpkin puree 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 19
+SENT: I would pour pumpkin mixture into baked pie crust .
+PREDID: 1041
+PRED: pour
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: baked pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: baked pie crust
+
+
+SENTID: 20
+SENT: I would bake pie in the preheated oven until just set in the center , about 50 minutes .
+PREDID: 1077
+PRED: bake
+   DOBJ: pie in the preheated oven
+      NON-INGREDIENT SPAN: pie in the preheated oven
+   PARG: just set in the center , about 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 50 minutes
+      NON-INGREDIENT SPAN: just set in the center 
+
+

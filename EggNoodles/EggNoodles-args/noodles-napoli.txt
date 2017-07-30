@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: I would mix beef and sausage into 1 or 2 flat patties .
+PREDID: 0
+PRED: mix
+   DOBJ: beef, sausage
+      INGREDIENT SPAN:  sausage
+         INGREDIENTS: Italian sausage
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: 1 or 2 flat patties
+     PREP: into
+      NON-INGREDIENT SPAN: 1 or 2 flat patties
+
+
+SENTID: 1
+SENT: In a large skillet over medium to medium-high heat , salt patties and brown well on each side .
+
+SENTID: 2
+SENT: I would remove meat and set aside .
+PREDID: 37
+PRED: remove
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+
+PREDID: 50
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would saute onion and garlic in the drippings .
+PREDID: 59
+PRED: saute
+   DOBJ: NULL
+   PARG: the drippings
+     PREP: in
+      NON-INGREDIENT SPAN: the drippings
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove crushed garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 4
+SENT: I would remove with a slotted spoon and add to the platter with the meat .
+PREDID: 93
+PRED: remove
+   DOBJ: NULL
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+PREDID: 119
+PRED: add
+   DOBJ: NULL
+   PARG: the platter with the meat
+     PREP: to
+      NON-INGREDIENT SPAN: the platter with the meat
+
+
+SENTID: 5
+SENT: In the drippings , I would carefully brown a single layer of the raw noodles until golden , remove and do another layer until all are done .
+PREDID: 170
+PRED: brown
+   DOBJ: a single layer of the raw noodles
+      INGREDIENT SPAN: a single layer of the raw noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: the drippings
+     PREP: in
+      NON-INGREDIENT SPAN: the drippings
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+PREDID: 223
+PRED: do
+   DOBJ: another layer
+      NON-INGREDIENT SPAN: another layer
+   PARG: all are done
+     PREP: until
+      NON-INGREDIENT SPAN: all are done
+
+
+SENTID: 6
+SENT: I would return all the noodles to the skillet with the garlic , the onions , the peppers , crushed tomatoes , tomato sauce and water .
+PREDID: 253
+PRED: return
+   DOBJ: all the noodles
+      NON-INGREDIENT SPAN: all the noodles
+   PARG: the skillet with the garlic , the onions , the peppers , crushed tomatoes , tomato sauce, water
+     PREP: to
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  the peppers 
+         INGREDIENTS: ounce jar diced pimento peppers drained
+      NON-INGREDIENT SPAN: the skillet with the garlic 
+      NON-INGREDIENT SPAN:  the onions 
+
+
+SENTID: 7
+SENT: I would break the meat patty into large chunks , gently stir all together and simmer 1/2 hour or so .
+PREDID: 349
+PRED: break
+   DOBJ: the meat patty
+      NON-INGREDIENT SPAN: the meat patty
+   PARG: large chunks
+     PREP: into
+      NON-INGREDIENT SPAN: large chunks
+
+PREDID: 388
+PRED: stir
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 406
+PRED: simmer
+   DOBJ: NULL
+   OARG: 1/2 hour or so
+      NON-INGREDIENT SPAN: 1/2 hour or so
+
+
+SENTID: 8
+SENT: I would add a little water as the noodles absorb the juices .
+PREDID: 424
+PRED: add
+   DOBJ: a little water
+      NON-INGREDIENT SPAN: a little water
+   PARG: the noodles absorb the juices
+     PREP: as
+      NON-INGREDIENT SPAN: the noodles absorb the juices
+
+
+SENTID: 9
+SENT: This should not be soupy , just thick and dry .
+
+SENTID: 10
+SENT: I would stir in the grated cheese and let it melt into the sauce .
+PREDID: 467
+PRED: stir
+   DOBJ: NULL
+   PARG: the grated cheese
+     PREP: in
+      INGREDIENT SPAN: the grated cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+PREDID: 491
+PRED: let melt
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+
+SENTID: 11
+SENT: It sticks easily at this point , so do n't overcook .
+
+SENTID: 12
+SENT: This reheats well in a slow cooker or casserole .
+

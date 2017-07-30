@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would spread four slices of bread with peanut butter and jam .
+PREDID: 0
+PRED: spread
+   DOBJ: four slices of bread
+      INGREDIENT SPAN: four slices of bread
+         INGREDIENTS: slices bread
+   PARG: peanut butter, jam
+     PREP: with
+      INGREDIENT SPAN:  jam
+         INGREDIENTS: flavor fruit jam
+      INGREDIENT SPAN: peanut butter
+         INGREDIENTS: peanut butter
+
+
+SENTID: 1
+SENT: I would cover with remaining four slices of bread .
+PREDID: 46
+PRED: cover
+   DOBJ: NULL
+   PARG: remaining four slices of bread
+     PREP: with
+      INGREDIENT SPAN: remaining four slices of bread
+         INGREDIENTS: slices bread
+
+
+SENTID: 2
+SENT: I would beat together egg , the milk , the sugar and salt .
+PREDID: 82
+PRED: beat
+   DOBJ: egg , the milk , the sugar, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg beaten
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: In a large skillet or frying pan , I would melt butter over medium heat .
+PREDID: 143
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet or frying pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or frying pan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 4
+SENT: I would dip each sandwich into the egg mixture to coat it well and allow the excess to drip off .
+PREDID: 168
+PRED: dip
+   DOBJ: each sandwich
+      NON-INGREDIENT SPAN: each sandwich
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+   OARG: to coat it well, allow the excess to drip off
+      NON-INGREDIENT SPAN: to coat it well
+      NON-INGREDIENT SPAN:  allow the excess to drip off
+
+
+SENTID: 5
+SENT: I would place sandwiches in pan and cook until golden on both sides .
+PREDID: 239
+PRED: place
+   DOBJ: sandwiches
+      NON-INGREDIENT SPAN: sandwiches
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 262
+PRED: cook
+   DOBJ: NULL
+   PARG: golden on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: golden on both sides
+
+
+SENTID: 6
+SENT: I would serve warm .
+PREDID: 289
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

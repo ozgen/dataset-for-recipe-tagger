@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: I would combine the evaporated milk , ice cream , and pumpkin pie filling in a blender and blend until smooth .
+PREDID: 0
+PRED: combine
+   DOBJ: the evaporated milk , ice cream , pumpkin pie filling in a blender
+      INGREDIENT SPAN:  pumpkin pie filling in a blender
+         INGREDIENTS: pumpkin pie filling
+      INGREDIENT SPAN:  ice cream 
+         INGREDIENTS: vanilla ice cream
+      INGREDIENT SPAN: the evaporated milk 
+         INGREDIENTS: evaporated milk
+
+PREDID: 67
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 1
+SENT: I would pour into a glass ;
+PREDID: 84
+PRED: pour
+   DOBJ: NULL
+   PARG: a glass
+     PREP: into
+      NON-INGREDIENT SPAN: a glass
+
+
+SENTID: 2
+SENT: I would top with whipped topping and ground cinnamon to serve .
+PREDID: 99
+PRED: top
+   DOBJ: NULL
+   PARG: whipped topping, ground cinnamon
+     PREP: with
+      INGREDIENT SPAN: whipped topping
+         INGREDIENTS: sweetened whipped cream
+      INGREDIENT SPAN:  ground cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

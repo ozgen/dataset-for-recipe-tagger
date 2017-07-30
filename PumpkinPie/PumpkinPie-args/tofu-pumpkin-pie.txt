@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: an oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would place the tofu , the pumpkin , the sugar , the salt , the cinnamon , the ginger , and clove into a blender .
+PREDID: 40
+PRED: place
+   DOBJ: the tofu , the pumpkin , the sugar , the salt , the cinnamon , the ginger , clove
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN: the tofu 
+         INGREDIENTS: ounce package silken tofu drained
+      INGREDIENT SPAN:  clove
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 2
+SENT: I would puree until smooth .
+PREDID: 109
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour into the pie crust .
+PREDID: 126
+PRED: pour
+   DOBJ: NULL
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven 15 minutes ,
+PREDID: 146
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 15 minutes
+
+
+SENTID: 5
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and continue the baking until a knife inserted into the mixture comes out clean , about 40 minutes more .
+PREDID: 178
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 226
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: a knife inserted into the mixture comes out clean , about 40 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 40 minutes more
+      NON-INGREDIENT SPAN: a knife inserted into the mixture comes out clean 
+
+
+SENTID: 6
+SENT: I would cool before serving .
+PREDID: 298
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

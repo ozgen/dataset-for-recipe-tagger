@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 41
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add egg noodles and cook until tender , about 7 minutes .
+PREDID: 83
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 7 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would drain and return to the pan .
+PREDID: 129
+PRED: drain and return
+   DOBJ: NULL
+   PARG: the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 4
+SENT: I would mix in the cream of chicken soup until noodles are coated .
+PREDID: 152
+PRED: mix
+   DOBJ: NULL
+   PARG: the cream of chicken soup
+     PREP: in
+      INGREDIENT SPAN: the cream of chicken soup
+         INGREDIENTS: ounce condensed cream chicken soup
+   PARG: noodles are coated
+     PREP: until
+      NON-INGREDIENT SPAN: noodles are coated
+
+
+SENTID: 5
+SENT: I would crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 200
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 6
+SENT: I would drain the grease , and stir in the tomato soup , brown sugar , the pepper and salt .
+PREDID: 257
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+
+PREDID: 275
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato soup , brown sugar , the pepper, salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN: the tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 7
+SENT: I would spread half of the beef in the bottom of a greased 2?1/2 quart casserole dish .
+PREDID: 320
+PRED: spread
+   DOBJ: half of the beef in the bottom of a greased 2?1/2 quart casserole dish
+      NON-INGREDIENT SPAN: half of the beef in the bottom of a greased 2?1/2 quart casserole dish
+
+
+SENTID: 8
+SENT: I would arrange 5 slices of cheese over the beef .
+PREDID: 384
+PRED: arrange
+   DOBJ: 5 slices of cheese
+      INGREDIENT SPAN: 5 slices of cheese
+         INGREDIENTS: slices American cheese
+   PARG: the beef
+     PREP: over
+      NON-INGREDIENT SPAN: the beef
+
+
+SENTID: 9
+SENT: I would top with half of the noodles ,
+PREDID: 418
+PRED: top
+   DOBJ: NULL
+   PARG: half of the noodles
+     PREP: with
+      NON-INGREDIENT SPAN: half of the noodles
+
+
+SENTID: 10
+SENT: I would repeat layers ending with cheese on top .
+PREDID: 442
+PRED: repeat
+   DOBJ: layers ending with cheese on top
+      INGREDIENT SPAN: layers ending with cheese on top
+         INGREDIENTS: slices American cheese
+
+
+SENTID: 11
+SENT: I would bake for 35 minutes in the preheated oven , until cheese is browned and sauce is bubbly .
+PREDID: 476
+PRED: bake
+   DOBJ: NULL
+   PARG: 35 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 35 minutes in the preheated oven
+   PARG: cheese is browned
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is browned
+   OARG: sauce is bubbly
+      NON-INGREDIENT SPAN: sauce is bubbly
+
+

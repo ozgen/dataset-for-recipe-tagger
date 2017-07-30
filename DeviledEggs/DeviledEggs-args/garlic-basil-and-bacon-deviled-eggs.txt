@@ -1,0 +1,196 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 149
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 190
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water .
+PREDID: 196
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 229
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 242
+PRED: halve
+   DOBJ: the eggs lengthwise
+      NON-INGREDIENT SPAN: the eggs lengthwise
+
+PREDID: 267
+PRED: scoop
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would mash the yolks together with pressed garlic with a fork .
+PREDID: 290
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: with pressed garlic with a fork
+     PREP: together
+      INGREDIENT SPAN: with pressed garlic with a fork
+         INGREDIENTS: large cloves garlic pressed
+
+
+SENTID: 8
+SENT: I would cook the bacon in a large , deep skillet over medium-high heat until evenly browned , about 10 minutes .
+PREDID: 337
+PRED: cook
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet over medium-high heat until evenly browned , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  deep skillet over medium-high heat until evenly browned 
+
+
+SENTID: 9
+SENT: I would drain on a paper towel-lined plate ;
+PREDID: 422
+PRED: drain
+   DOBJ: NULL
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 10
+SENT: I would chop once cool .
+PREDID: 452
+PRED: chop
+   DOBJ: NULL
+   OARG: once cool
+      NON-INGREDIENT SPAN: once cool
+
+
+SENTID: 11
+SENT: I would add to the mashed egg yolks .
+PREDID: 465
+PRED: add
+   DOBJ: NULL
+   PARG: the mashed egg yolks
+     PREP: to
+      NON-INGREDIENT SPAN: the mashed egg yolks
+
+
+SENTID: 12
+SENT: I would stir the basil , the mayonnaise , red pepper flakes , the salt , and pepper into the mixture until evenly mixed .
+PREDID: 488
+PRED: stir
+   DOBJ: the basil , the mayonnaise , red pepper flakes , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+      NON-INGREDIENT SPAN:  pepper
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 13
+SENT: I would fill the egg white halves with the mixture ;
+PREDID: 573
+PRED: fill
+   DOBJ: NULL
+   OARG: the egg white halves with the mixture
+      NON-INGREDIENT SPAN: the egg white halves with the mixture
+
+
+SENTID: 14
+SENT: I would sprinkle each stuffed egg with a bit of paprika .
+PREDID: 609
+PRED: sprinkle
+   DOBJ: each stuffed egg
+      NON-INGREDIENT SPAN: each stuffed egg
+   PARG: a bit of paprika
+     PREP: with
+      INGREDIENT SPAN: a bit of paprika
+         INGREDIENTS: paprika garnish
+
+

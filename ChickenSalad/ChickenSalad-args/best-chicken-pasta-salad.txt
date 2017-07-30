@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would place breasts into a glass baking dish and marinate in steak sauce for 15 to 60 minutes .
+PREDID: 33
+PRED: place
+   DOBJ: breasts
+      INGREDIENT SPAN: breasts
+         INGREDIENTS: boneless skinless chicken breast halves
+   PARG: a glass baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a glass baking dish
+
+PREDID: 68
+PRED: marinate
+   DOBJ: NULL
+   PARG: steak sauce for 15 to 60 minutes
+     PREP: in
+      INGREDIENT SPAN: steak sauce for 15 to 60 minutes
+         INGREDIENTS: steak sauce
+
+
+SENTID: 2
+SENT: I would grill chicken until no longer pink and the juices run clear .
+PREDID: 105
+PRED: grill
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: cubes chicken bouillon
+   PARG: no longer pink, the juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN:  the juices run clear
+      NON-INGREDIENT SPAN: no longer pink
+
+
+SENTID: 3
+SENT: I would remove from grill , and chop into bite-size pieces .
+PREDID: 155
+PRED: remove
+   DOBJ: NULL
+   PARG: grill
+     PREP: from
+      NON-INGREDIENT SPAN: grill
+
+PREDID: 174
+PRED: chop
+   DOBJ: NULL
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 4
+SENT: To a large pot of boiling water , add bouillon cubes and pasta .
+PREDID: 224
+PRED: add
+   DOBJ: bouillon cubes, pasta
+      INGREDIENT SPAN:  pasta
+         INGREDIENTS: ounce package fusilli pasta
+      NON-INGREDIENT SPAN: bouillon cubes
+   PARG: a large pot of boiling water
+     PREP: to
+      NON-INGREDIENT SPAN: a large pot of boiling water
+
+
+SENTID: 5
+SENT: I would cook pasta until al dente .
+PREDID: 249
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 6
+SENT: I would drain , and rinse under cold water .
+PREDID: 271
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 280
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 7
+SENT: In a large bowl , I would combine chicken , the pasta , the onion , the avocados and tomatoes .
+PREDID: 313
+PRED: combine
+   DOBJ: chicken , the pasta , the onion , the avocados, tomatoes
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Vidalia onion diced
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: halved cherry tomatoes
+      INGREDIENT SPAN:  the avocados
+         INGREDIENTS: avocados peeled pitted diced
+      NON-INGREDIENT SPAN:  the pasta 
+      NON-INGREDIENT SPAN: chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 8
+SENT: I would mix in salad dressing , cover , and refrigerate until chilled .
+PREDID: 360
+PRED: mix
+   DOBJ: NULL
+   PARG: salad dressing
+     PREP: in
+      INGREDIENT SPAN: salad dressing
+         INGREDIENTS: Ranchstyle salad dressing
+
+PREDID: 388
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

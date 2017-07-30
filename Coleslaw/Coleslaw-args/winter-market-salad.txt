@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would place the olive oil , the vinegar , yellow mustard , Dijon mustard , and honey into a screw top jar .
+PREDID: 0
+PRED: place
+   DOBJ: the olive oil , the vinegar , yellow mustard , Dijon mustard , honey
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey taste
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: Dijon mustard taste
+   PARG: a screw top jar
+     PREP: into
+      NON-INGREDIENT SPAN: a screw top jar
+
+
+SENTID: 1
+SENT: I would seal , and shake to blend the salad dressing .
+PREDID: 77
+PRED: seal
+   DOBJ: NULL
+
+PREDID: 85
+PRED: shake
+   DOBJ: NULL
+   OARG: to blend the salad dressing
+      NON-INGREDIENT SPAN: to blend the salad dressing
+
+
+SENTID: 2
+SENT: I would season to taste with salt and pepper .
+PREDID: 114
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would scatter the beet , celery root , the carrot , and apple in layers onto individual salad plates .
+PREDID: 145
+PRED: scatter
+   DOBJ: the beet , celery root , the carrot , apple in layers
+      INGREDIENT SPAN: the beet 
+         INGREDIENTS: beet peeled grated
+      INGREDIENT SPAN:  celery root 
+         INGREDIENTS: small celery root celeriac peeled grated
+      INGREDIENT SPAN:  apple in layers
+         INGREDIENTS: small Macintosh apple peeled cored cubed
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot peeled grated
+   PARG: individual salad plates
+     PREP: onto
+      NON-INGREDIENT SPAN: individual salad plates
+
+
+SENTID: 4
+SENT: I would drizzle with dressing to serve .
+PREDID: 220
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing to serve
+     PREP: with
+      NON-INGREDIENT SPAN: dressing to serve
+
+

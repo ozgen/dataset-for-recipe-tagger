@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would place eggs in a large saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 28
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 47
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 78
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 93
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool and peel .
+PREDID: 140
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water , cool, peel
+     PREP: from
+      NON-INGREDIENT SPAN:  peel
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: hot water 
+
+
+SENTID: 4
+SENT: I would slice eggs in half lengthwise and remove yolks .
+PREDID: 171
+PRED: slice
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 199
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 5
+SENT: I would place yolks in a medium bowl .
+PREDID: 211
+PRED: place
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 6
+SENT: I would mash together with ranch-style salad dressing .
+PREDID: 235
+PRED: mash
+   DOBJ: NULL
+   PARG: with ranch-style salad dressing
+     PREP: together
+      INGREDIENT SPAN: with ranch-style salad dressing
+         INGREDIENTS: Ranchstyle salad dressing
+
+
+SENTID: 7
+SENT: I would mix in the cream cheese ,
+PREDID: 276
+PRED: mix
+   DOBJ: NULL
+   PARG: the cream cheese
+     PREP: in
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+
+
+SENTID: 8
+SENT: the onion and dill pickle .
+
+SENTID: 9
+SENT: I would fill the hollowed egg whites generously with the egg yolk mixture .
+PREDID: 296
+PRED: fill
+   DOBJ: the hollowed egg whites
+      NON-INGREDIENT SPAN: the hollowed egg whites
+   PARG: the egg yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the egg yolk mixture
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 10
+SENT: I would chill in the refrigerator until serving .
+PREDID: 352
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would bring the water , bouillon cubes , and garlic to a boil in a saucepan .
+PREDID: 0
+PRED: bring
+   DOBJ: the water , bouillon cubes , garlic
+      INGREDIENT SPAN: the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  bouillon cubes 
+         INGREDIENTS: cubes chicken bouillon
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic smashed
+   PARG: a boil in a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan
+
+
+SENTID: 1
+SENT: I would stir in the quinoa , reduce heat to medium-low , cover , and simmer until the quinoa is tender and the water has been absorbed , 15 to 20 minutes .
+PREDID: 56
+PRED: stir
+   DOBJ: NULL
+   PARG: the quinoa
+     PREP: in
+      INGREDIENT SPAN: the quinoa
+         INGREDIENTS: uncooked quinoa
+
+PREDID: 72
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 104
+PRED: simmer
+   DOBJ: NULL
+   PARG: the quinoa is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the quinoa is tender
+
+PREDID: 150
+PRED: has been absorbed
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 2
+SENT: I would discard the garlic clove and scrape the quinoa into a large bowl .
+PREDID: 173
+PRED: discard
+   DOBJ: the garlic clove
+      NON-INGREDIENT SPAN: the garlic clove
+
+PREDID: 197
+PRED: scrape
+   DOBJ: the quinoa
+      NON-INGREDIENT SPAN: the quinoa
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would gently stir the chicken , the onion , bell pepper , the olives , feta cheese , the parsley , the chives , and salt into the quinoa .
+PREDID: 233
+PRED: stir
+   DOBJ: the chicken , the onion , bell pepper , the olives , feta cheese , the parsley , the chives , salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large red onion diced
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: large green bell pepper diced
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: chopped kalamata olives
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: large cooked chicken breasts cut bite size
+   PARG: the quinoa
+     PREP: into
+      NON-INGREDIENT SPAN: the quinoa
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 4
+SENT: I would drizzle with the lemon juice , balsamic vinegar , and olive oil .
+PREDID: 319
+PRED: drizzle
+   DOBJ: NULL
+   PARG: the lemon juice , balsamic vinegar , olive oil
+     PREP: with
+      INGREDIENT SPAN:  olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN: the lemon juice 
+         INGREDIENTS: fresh lemon juice
+
+
+SENTID: 5
+SENT: I would stir until evenly mixed .
+PREDID: 372
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 6
+SENT: I would serve warm or refrigerate and serve cold .
+PREDID: 393
+PRED: serve
+   DOBJ: NULL
+   OARG: warm or refrigerate
+      NON-INGREDIENT SPAN: warm or refrigerate
+
+PREDID: 418
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

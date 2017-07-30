@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 151
+PRED: remove
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 171
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would pour out the hot water ,
+PREDID: 212
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water in the sink .
+PREDID: 231
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water in the sink
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water in the sink
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 273
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would slice the cooled eggs in half lengthwise , and scoop out and reserve the yolks .
+PREDID: 286
+PRED: slice
+   DOBJ: the cooled eggs in half lengthwise
+      NON-INGREDIENT SPAN: the cooled eggs in half lengthwise
+
+PREDID: 324
+PRED: scoop
+   DOBJ: NULL
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 335
+PRED: reserve
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+
+SENTID: 7
+SENT: While the eggs are cooking , I would place the cut-up potato into a saucepan with water to cover , bring to a boil , reduce heat , and simmer until the potato pieces are tender , 10 to 15 minutes .
+PREDID: 374
+PRED: place
+   DOBJ: the cut-up potato
+      INGREDIENT SPAN: the cut-up potato
+         INGREDIENTS: large potato chopped
+   PARG: the eggs are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the eggs are cooking
+   PARG: a saucepan with water
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan with water
+   OARG: to cover , bring to a boil , reduce heat , simmer until the potato pieces are tender , 10 to 15 minutes
+      NON-INGREDIENT SPAN:  simmer until the potato pieces are tender 
+      NON-INGREDIENT SPAN:  reduce heat 
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: to cover 
+      NON-INGREDIENT SPAN:  bring to a boil 
+
+
+SENTID: 8
+SENT: I would drain the potato , and let cool .
+PREDID: 501
+PRED: drain
+   DOBJ: the potato
+      NON-INGREDIENT SPAN: the potato
+
+PREDID: 519
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 9
+SENT: In a bowl , I would mash the reserved egg yolks with pickle relish , the mustard , creamy dressing , the salt , and pepper until well combined .
+PREDID: 535
+PRED: mash
+   DOBJ: the reserved egg yolks
+      NON-INGREDIENT SPAN: the reserved egg yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: pickle relish , the mustard , creamy dressing , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard
+      INGREDIENT SPAN: pickle relish 
+         INGREDIENTS: pickle relish
+      INGREDIENT SPAN:  creamy dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 10
+SENT: I would place the potato into a bowl , and coarsely mash with a fork .
+PREDID: 630
+PRED: place
+   DOBJ: the potato
+      NON-INGREDIENT SPAN: the potato
+   PARG: a bowl , coarsely mash with a fork
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl 
+      NON-INGREDIENT SPAN:  coarsely mash with a fork
+
+
+SENTID: 11
+SENT: I would lightly combine the potato with the yolk mixture .
+PREDID: 686
+PRED: combine
+   DOBJ: the potato
+      NON-INGREDIENT SPAN: the potato
+   PARG: the yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the yolk mixture
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 12
+SENT: I would stuff each egg half generously with potato salad , and sprinkle with paprika .
+PREDID: 721
+PRED: stuff
+   DOBJ: each egg half
+      NON-INGREDIENT SPAN: each egg half
+   PARG: potato salad
+     PREP: with
+      NON-INGREDIENT SPAN: potato salad
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+PREDID: 766
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+
+SENTID: 13
+SENT: I would cover and chill until ready to serve , at least 20 minutes .
+PREDID: 786
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve , at least 20 minutes
+      NON-INGREDIENT SPAN:  at least 20 minutes
+      NON-INGREDIENT SPAN: to serve 
+
+

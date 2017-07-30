@@ -1,0 +1,198 @@
+SENTID: 0
+SENT: I would bring the red wine , orange juice , and orange zest to a boil in a small saucepan ;
+PREDID: 0
+PRED: bring
+   DOBJ: the red wine , orange juice , orange zest
+      INGREDIENT SPAN: the red wine 
+         INGREDIENTS: red wine
+      INGREDIENT SPAN:  orange juice 
+         INGREDIENTS: orange juice
+      NON-INGREDIENT SPAN:  orange zest
+   PARG: a boil in a small saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a small saucepan
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low and cook for 5 minutes .
+PREDID: 65
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 90
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 2
+SENT: I would pour in the maple syrup and crushed red pepper flakes .
+PREDID: 106
+PRED: pour
+   DOBJ: NULL
+   PARG: the maple syrup, crushed red pepper flakes
+     PREP: in
+      INGREDIENT SPAN: the maple syrup
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  crushed red pepper flakes
+         INGREDIENTS: crushed red pepper flakes taste
+
+
+SENTID: 3
+SENT: I would continue cooking 5 minutes more ;
+PREDID: 151
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   OARG: 5 minutes more
+      NON-INGREDIENT SPAN: 5 minutes more
+
+
+SENTID: 4
+SENT: I would reduce heat to warm and keep the syrup hot .
+PREDID: 179
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   OARG: to warm, keep the syrup hot
+      NON-INGREDIENT SPAN: to warm
+      NON-INGREDIENT SPAN:  keep the syrup hot
+
+
+SENTID: 5
+SENT: I would meanwhile , spread one side of each slice of bread with the softened cream cheese .
+PREDID: 224
+PRED: spread
+   DOBJ: one side of each slice of bread with the softened cream cheese
+      INGREDIENT SPAN: one side of each slice of bread with the softened cream cheese
+         INGREDIENTS: slices whole wheat bread
+      INGREDIENT SPAN: one side of each slice of with the softened cream cheese
+         INGREDIENTS: softened cream cheese
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would press the blueberries into the cream cheese and sandwich two pieces of bread together with the cream cheese on the inside to form the sandwiches ;
+PREDID: 282
+PRED: press
+   DOBJ: the blueberries
+      INGREDIENT SPAN: the blueberries
+         INGREDIENTS: fresh blueberries
+   PARG: the cream cheese
+     PREP: into
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: softened cream cheese
+
+PREDID: 322
+PRED: sandwich
+   DOBJ: two pieces of bread
+      INGREDIENT SPAN: two pieces of bread
+         INGREDIENTS: slices whole wheat bread
+   PARG: with the cream cheese on the inside to form the sandwiches
+     PREP: together
+      NON-INGREDIENT SPAN: with the cream cheese on the inside to form the sandwiches
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 403
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would beat the eggs in a mixing bowl ;
+PREDID: 412
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 9
+SENT: I would whisk in the milk until smooth .
+PREDID: 437
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk
+     PREP: in
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: I would melt the butter in a large skillet over medium heat .
+PREDID: 463
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 11
+SENT: I would dip the sandwiches into the egg mixture allowing the egg to soak into the bread ;
+PREDID: 506
+PRED: dip
+   DOBJ: the sandwiches
+      NON-INGREDIENT SPAN: the sandwiches
+   PARG: the egg mixture allowing the egg to soak into the bread
+     PREP: into
+      INGREDIENT SPAN: the egg mixture allowing the egg to soak into the bread
+         INGREDIENTS: slices whole wheat bread
+
+
+SENTID: 12
+SENT: I would allow excess egg to drip off .
+PREDID: 572
+PRED: allow
+   DOBJ: excess egg
+      NON-INGREDIENT SPAN: excess egg
+   OARG: to drip off
+      NON-INGREDIENT SPAN: to drip off
+
+
+SENTID: 13
+SENT: I would cook the sandwiches in the hot butter until golden brown on both sides and the bread is no longer soggy , about 5 minutes per side .
+PREDID: 596
+PRED: cook
+   DOBJ: the sandwiches
+      NON-INGREDIENT SPAN: the sandwiches
+   PARG: the hot butter
+     PREP: in
+      NON-INGREDIENT SPAN: the hot butter
+   PARG: golden brown on both sides, the bread is no longer soggy , about 5 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  the bread is no longer soggy 
+      NON-INGREDIENT SPAN: golden brown on both sides
+      NON-INGREDIENT SPAN:  about 5 minutes per side
+
+
+SENTID: 14
+SENT: I would serve with the hot orange maple syrup .
+PREDID: 702
+PRED: serve
+   DOBJ: NULL
+   PARG: the hot orange maple syrup
+     PREP: with
+      INGREDIENT SPAN: the hot orange maple syrup
+         INGREDIENTS: grated orange
+
+

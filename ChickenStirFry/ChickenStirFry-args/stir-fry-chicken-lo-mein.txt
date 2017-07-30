@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would prepare Grilled & Ready ? Frozen Grilled Chicken Breast Strips according to package directions .
+PREDID: 0
+PRED: prepare
+   DOBJ: Grilled & Ready ? Frozen Grilled Chicken Breast Strips according to package directions
+      INGREDIENT SPAN: Grilled & Ready ? Frozen Grilled Chicken Breast Strips according to package directions
+         INGREDIENTS: linguine prepared according package directions
+      INGREDIENT SPAN: Grilled & Ready ? Frozen Grilled Chicken Breast Strips to 
+         INGREDIENTS: Chicken Breast Strips
+
+
+SENTID: 1
+SENT: I would meanwhile , in a large skillet , cook and stir mushrooms in hot oil for 4 minutes .
+PREDID: 108
+PRED: cook and stir
+   DOBJ: mushrooms in hot oil
+      INGREDIENT SPAN: mushrooms in hot oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: mushrooms in hot 
+         INGREDIENTS: sliced fresh mushrooms
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 4 minutes
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 2
+SENT: I would add sweet pepper ;
+PREDID: 148
+PRED: add
+   DOBJ: sweet pepper
+      INGREDIENT SPAN: sweet pepper
+         INGREDIENTS: frozen sweet pepper stirfry
+
+
+SENTID: 3
+SENT: I would cook and stir for 2 minutes .
+PREDID: 163
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 4
+SENT: I would add chicken and stir-fry sauce ;
+PREDID: 186
+PRED: add
+   DOBJ: chicken, stir-fry sauce
+      INGREDIENT SPAN:  stir-fry sauce
+         INGREDIENTS: stirfry sauce
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 5
+SENT: I would cook and stir until heated through .
+PREDID: 213
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would serve over hot cooked linguine .
+PREDID: 243
+PRED: serve
+   DOBJ: NULL
+   PARG: hot cooked linguine
+     PREP: over
+      INGREDIENT SPAN: hot cooked linguine
+         INGREDIENTS: ounce package Tyson Grilled Ready Cooked Frozen Grilled
+
+

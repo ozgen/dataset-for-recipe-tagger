@@ -1,0 +1,57 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="brush
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="season
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="grill
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cool
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="slice
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="combine
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="toss
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: grill", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to medium-high heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1_ing[label="DOBJ: boneless skinless chicken breast halves", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_ing[label="COOBJECT: with Olive oil", shape=box, style=filled, fillcolor=peachpuff]
+P1_1_ing -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: with Salt and ground black pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+O2_0_0[label="OTHER: to taste", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: 8 to 12 minutes or until no longer pink in the center (165 degrees f)", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: turning once", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+E3 -> E4 [label="chicken"]
+O4_0_0[label="OTHER: enough to handle", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into thin strips", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: package DOLE   Extra Veggie   cents Grape Tomatoes, crumbled blue cheese, avocado and, hardcooked egg peeled and chopped, slices bacon drained and crumbled", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="salad blend"]
+D6_1[label="DOBJ: cooked sliced chicken", shape=box, style=filled, fillcolor=white]
+D6_1 -> E6
+P6_0_0[label="LOCATION:in large bowl", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: with Bottled blue cheese dressing to taste", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+O7_0_0[label="OTHER: to taste", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

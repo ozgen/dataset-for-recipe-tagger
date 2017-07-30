@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would bring rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: rice, water
+      INGREDIENT SPAN: rice
+         INGREDIENTS: uncooked white rice
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+   PARG: a boil in a saucepan over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan over high heat
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , the cover , and simmer until the rice is tender and the liquid has been absorbed , 20 to 25 minutes .
+PREDID: 48
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover , simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  the cover 
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  simmer
+   PARG: the rice is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is tender
+
+PREDID: 128
+PRED: has been absorbed
+   DOBJ: NULL
+   PARG: 20 to 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 25 minutes
+
+
+SENTID: 2
+SENT: I would allow rice to stand covered while you finish the remaining steps .
+PREDID: 148
+PRED: allow
+   DOBJ: rice
+      NON-INGREDIENT SPAN: rice
+   OARG: to stand covered while you finish the remaining steps
+      NON-INGREDIENT SPAN: to stand covered while you finish the remaining steps
+
+
+SENTID: 3
+SENT: I would heat olive oil , garlic salt , black pepper , and parsley in a large skillet or wok over medium heat .
+PREDID: 203
+PRED: heat
+   DOBJ: olive oil , garlic salt , black pepper , parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: black pepper
+   PARG: a large skillet or wok over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium heat
+
+
+SENTID: 4
+SENT: I would cook and stir chicken strips in olive oil until no longer pink in the center and juices run clear , 5 to 7 minutes .
+PREDID: 284
+PRED: cook and stir
+   DOBJ: chicken strips in olive oil
+      INGREDIENT SPAN: chicken strips in olive oil
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+   PARG: no longer pink in the center, juices run clear , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN:  juices run clear 
+
+
+SENTID: 5
+SENT: I would stir in broccoli , the carrots , and snap peas ;
+PREDID: 376
+PRED: stir
+   DOBJ: NULL
+   PARG: broccoli , the carrots , snap peas
+     PREP: in
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: sliced carrots
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: chopped broccoli
+      INGREDIENT SPAN:  snap peas
+         INGREDIENTS: sugar snap peas
+
+
+SENTID: 6
+SENT: I would cover the skillet , and cook until carrots are tender , 5 to 8 minutes .
+PREDID: 411
+PRED: cover
+   DOBJ: the skillet
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 430
+PRED: cook
+   DOBJ: NULL
+   PARG: carrots are tender , 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+      NON-INGREDIENT SPAN: carrots are tender 
+
+
+SENTID: 7
+SENT: I would stir condensed Cheddar cheese soup into chicken and vegetables ;
+PREDID: 468
+PRED: stir
+   DOBJ: condensed Cheddar cheese soup
+      INGREDIENT SPAN: condensed Cheddar cheese soup
+         INGREDIENTS: ounce condensed cheddar cheese soup such Campbell
+      INGREDIENT SPAN:  Cheddar 
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: chicken, vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 8
+SENT: I would mix well and bring to a simmer .
+PREDID: 523
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 533
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 9
+SENT: I would cook and stir until chicken and vegetables are coated with sauce .
+PREDID: 548
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken, vegetables are coated with sauce
+     PREP: until
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  vegetables are coated with sauce
+
+
+SENTID: 10
+SENT: To serve , mound cooked rice on a platter , and top with chicken and vegetables in sauce .
+
+SENTID: 11
+SENT: I would sprinkle with shredded Cheddar cheese to serve .
+PREDID: 675
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: shredded cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN: shredded cheddar cheese
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

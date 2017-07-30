@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add the egg noodles and cook until tender , about 7 minutes .
+PREDID: 42
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+PREDID: 61
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 7 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would drain , and set aside .
+PREDID: 91
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 100
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 109
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix together the tomato soup , the corn , the onion , and cream of mushroom soup .
+PREDID: 163
+PRED: mix
+   DOBJ: the tomato soup , the corn , the onion , cream of mushroom soup
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN:  cream of mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce Mexicanstyle corn
+      INGREDIENT SPAN: the tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir in the cooked noodles until well coated .
+PREDID: 222
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked noodles
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked noodles
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 6
+SENT: I would transfer to a 9x13 inch baking dish .
+PREDID: 260
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 9x13 inch baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 7
+SENT: I would place slices of cheese to cover the top .
+PREDID: 290
+PRED: place
+   DOBJ: slices of cheese
+      INGREDIENT SPAN: slices of cheese
+         INGREDIENTS: slices American cheese
+   OARG: to cover the top
+      NON-INGREDIENT SPAN: to cover the top
+
+
+SENTID: 8
+SENT: I would bake for 25 minutes in the preheated oven , or until cheese is melted and lightly browned .
+PREDID: 323
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes in the preheated oven , or until cheese is melted, lightly browned
+     PREP: for
+      NON-INGREDIENT SPAN:  or until cheese is melted
+      NON-INGREDIENT SPAN: 25 minutes in the preheated oven 
+      NON-INGREDIENT SPAN:  lightly browned
+
+

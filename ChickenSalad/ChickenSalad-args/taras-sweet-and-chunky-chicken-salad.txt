@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Without breaking up large chicken pieces , I would empty canned chicken into medium bowl .
+PREDID: 36
+PRED: empty
+   DOBJ: canned chicken
+      INGREDIENT SPAN: canned chicken
+         INGREDIENTS: ounce chunk chicken drained
+   PARG: breaking up large chicken pieces
+     PREP: without
+      NON-INGREDIENT SPAN: breaking up large chicken pieces
+   PARG: medium bowl
+     PREP: into
+      NON-INGREDIENT SPAN: medium bowl
+
+
+SENTID: 1
+SENT: I would stir in mayonnaise , the pickle , the onion , sunflower seeds , and cranberries ;
+PREDID: 69
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , the pickle , the onion , sunflower seeds , cranberries
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the pickle 
+         INGREDIENTS: chopped dill pickle
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: sunflower seeds
+      INGREDIENT SPAN:  cranberries
+         INGREDIENTS: dried cranberries
+
+
+SENTID: 2
+SENT: I would mix until well blended and very large chicken chunks are broken up .
+PREDID: 129
+PRED: mix
+   DOBJ: NULL
+   PARG: well blended, very large chicken chunks are broken up
+     PREP: until
+      NON-INGREDIENT SPAN:  very large chicken chunks are broken up
+      NON-INGREDIENT SPAN: well blended
+
+

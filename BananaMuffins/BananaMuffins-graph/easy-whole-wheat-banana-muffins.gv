@@ -1,0 +1,39 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P95)", shape=oval, style=filled, fillcolor=azure]
+E3[label="batter (S3,P173)", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake (S4,P202)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: white sugar, mashed bananas, creamy salad dressing (such as Miracle Whip®)
+(text: bananas , salad dressing , sugar in a large bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2_ing[label="DOBJ: whole wheat flour, baking soda, salt
+(text:  salt, flour ,  baking soda )", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="OUTPUT: 
+INPUT: into banana mixture"]
+O2_0_0[label="OTHER: until batter is just moistened", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: into 24 muffin cups", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: divide", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E0 -> E4 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O4_0_0[label="OTHER: until a toothpick inserted into the center comes out clean ", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+O4_0_1[label="OTHER:  about 17 minutes", shape=box, style=filled, fillcolor=white]
+O4_0_1 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

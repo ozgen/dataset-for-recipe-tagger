@@ -1,0 +1,241 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would butter a medium baking dish with 1 tablespoon butter .
+PREDID: 38
+PRED: butter
+   DOBJ: a medium baking dish with 1 tablespoon butter
+      INGREDIENT SPAN: a medium baking dish with 1 tablespoon butter
+         INGREDIENTS: ounce package uncooked medium egg noodles
+      INGREDIENT SPAN: a baking dish with 1 tablespoon butter
+         INGREDIENTS: butter melted
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 83
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add egg noodles , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 125
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package uncooked medium egg noodles
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 139
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would melt 1 tablespoon butter in a skillet over medium-low heat .
+PREDID: 181
+PRED: melt
+   DOBJ: 1 tablespoon butter
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter melted
+   PARG: a skillet over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-low heat
+
+
+SENTID: 5
+SENT: I would stir in the onion , the celery , and garlic , and cook 5 minutes , until tender .
+PREDID: 231
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the celery , garlic , cook
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic minced
+      NON-INGREDIENT SPAN:  cook
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 6
+SENT: I would increase heat to medium-high , and mix in mushrooms .
+PREDID: 291
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-high
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high
+
+PREDID: 320
+PRED: mix
+   DOBJ: NULL
+   PARG: mushrooms
+     PREP: in
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: button mushrooms sliced
+
+
+SENTID: 7
+SENT: I would continue to cook and stir 5 minutes , or until most of the liquid has evaporated .
+PREDID: 335
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir 5 minutes , or until most of the liquid has evaporated
+      NON-INGREDIENT SPAN:  stir 5 minutes 
+      NON-INGREDIENT SPAN: to cook
+      NON-INGREDIENT SPAN:  or until most of the liquid has evaporated
+
+
+SENTID: 8
+SENT: I would melt 4 tablespoons butter in a medium saucepan , and whisk in flour until smooth .
+PREDID: 401
+PRED: melt
+   DOBJ: 4 tablespoons butter in a medium saucepan , whisk in flour
+      INGREDIENT SPAN: 4 tablespoons butter in a medium saucepan 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  whisk in flour
+         INGREDIENTS: allpurpose flour
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would gradually whisk in milk , and continue the cooking 5 minutes , until sauce is smooth and slightly thickened .
+PREDID: 477
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+PREDID: 492
+PRED: continue
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: sauce is smooth, slightly thickened
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is smooth
+      NON-INGREDIENT SPAN:  slightly thickened
+   OARG: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+
+SENTID: 10
+SENT: I would season with salt and pepper .
+PREDID: 555
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 11
+SENT: I would stir in tuna , the peas , mushroom mixture , and cooked noodles .
+PREDID: 579
+PRED: stir
+   DOBJ: NULL
+   PARG: tuna , the peas , mushroom mixture , cooked noodles
+     PREP: in
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: frozen peas thawed
+      INGREDIENT SPAN: tuna 
+         INGREDIENTS: ounce tuna drained flaked
+      NON-INGREDIENT SPAN:  mushroom mixture 
+      NON-INGREDIENT SPAN:  cooked noodles
+
+
+SENTID: 12
+SENT: I would transfer to the baking dish .
+PREDID: 628
+PRED: transfer
+   DOBJ: NULL
+   PARG: the baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: the baking dish
+
+
+SENTID: 13
+SENT: I would melt the remaining 2 tablespoons butter in a small bowl , mix with bread crumbs , and sprinkle over the casserole .
+PREDID: 652
+PRED: melt
+   DOBJ: the remaining 2 tablespoons butter
+      INGREDIENT SPAN: the remaining 2 tablespoons butter
+         INGREDIENTS: butter melted
+   PARG: a small bowl , mix with bread crumbs
+     PREP: in
+      INGREDIENT SPAN:  mix with bread crumbs
+         INGREDIENTS: bread crumbs
+      NON-INGREDIENT SPAN: a small bowl 
+
+PREDID: 721
+PRED: sprinkle
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 14
+SENT: I would top with cheese .
+PREDID: 743
+PRED: top
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 15
+SENT: I would bake 25 minutes in the preheated oven , or until bubbly and lightly browned .
+PREDID: 757
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+
+PREDID: 812
+PRED: browned
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

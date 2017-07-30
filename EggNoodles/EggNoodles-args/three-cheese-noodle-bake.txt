@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would cook noodles al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: NULL
+   OARG: noodles al dente
+      INGREDIENT SPAN: noodles al dente
+         INGREDIENTS: egg noodles
+
+
+SENTID: 1
+SENT: I would drain and rinse .
+PREDID: 19
+PRED: drain and rinse
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 33
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large mixing bowl , I would mix together cottage cheese , sour cream , the parmesan , 1 egg , 1 cup cheddar cheese , Worcestershire sauce , the milk , the butter or margarine , and salt and pepper .
+PREDID: 61
+PRED: mix
+   DOBJ: cottage cheese , sour cream , the parmesan , 1 egg , 1 cup cheddar cheese , Worcestershire sauce , the milk , the butter or margarine , salt, pepper
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  1 egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1 cup cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the butter or margarine 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the parmesan 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in cooked noodles .
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked noodles
+     PREP: in
+      NON-INGREDIENT SPAN: cooked noodles
+
+
+SENTID: 5
+SENT: I would spread into a 9 inch square baking dish , top with remaining shredded cheese .
+PREDID: 208
+PRED: spread
+   DOBJ: square baking dish , top with remaining shredded cheese
+      INGREDIENT SPAN:  top with remaining shredded cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: square baking dish 
+   PARG: a 9 inch
+     PREP: into
+      NON-INGREDIENT SPAN: a 9 inch
+
+
+SENTID: 6
+SENT: I would bake at 300 degrees F -LRB- 150 degrees C -RRB- for one hour , or until set .
+PREDID: 272
+PRED: bake
+   DOBJ: NULL
+   PARG: 300 degrees f -lrb- 150 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 300 degrees f -lrb- 150 degrees c
+   PARG: one hour
+     PREP: for
+      NON-INGREDIENT SPAN: one hour
+
+

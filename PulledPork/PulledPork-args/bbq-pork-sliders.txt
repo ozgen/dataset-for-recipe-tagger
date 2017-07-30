@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would cut roast into 3 to 4 pieces .
+PREDID: 0
+PRED: cut
+   DOBJ: roast
+      INGREDIENT SPAN: roast
+         INGREDIENTS: shoulder butt pork roast
+   PARG: 3 to 4 pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 3 to 4 pieces
+
+
+SENTID: 1
+SENT: I would place pork in a greased or lined slow cooker .
+PREDID: 23
+PRED: place
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a greased or lined slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a greased or lined slow cooker
+
+
+SENTID: 2
+SENT: I would combine the remaining ingredients and pour over pork .
+PREDID: 60
+PRED: combine
+   DOBJ: the remaining ingredients
+      NON-INGREDIENT SPAN: the remaining ingredients
+
+PREDID: 93
+PRED: pour
+   DOBJ: NULL
+   PARG: pork
+     PREP: over
+      NON-INGREDIENT SPAN: pork
+
+
+SENTID: 3
+SENT: I would cover and cook on HIGH for 3 to 4 hours or LOW for 6 to 7 hours until pork is very tender .
+PREDID: 103
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high for 3 to 4 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high for 3 to 4 hours
+   PARG: pork is very tender
+     PREP: until
+      NON-INGREDIENT SPAN: pork is very tender
+   OARG: low
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 4
+SENT: I would shred with 2 forks .
+PREDID: 172
+PRED: shred
+   DOBJ: NULL
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+
+
+SENTID: 5
+SENT: I would serve on rolls , topping with coleslaw if desired .
+PREDID: 188
+PRED: serve
+   DOBJ: NULL
+   PARG: rolls , topping with coleslaw
+     PREP: on
+      INGREDIENT SPAN:  topping with coleslaw
+         INGREDIENTS: Optional topping coleslaw
+      INGREDIENT SPAN: rolls 
+         INGREDIENTS: dinner rolls
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

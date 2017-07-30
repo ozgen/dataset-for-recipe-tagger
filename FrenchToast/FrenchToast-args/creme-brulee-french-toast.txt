@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would melt butter in a small saucepan over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: unsalted butter
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would mix in brown sugar and corn syrup , stirring until sugar is dissolved .
+PREDID: 41
+PRED: mix
+   DOBJ: NULL
+   PARG: brown sugar, corn syrup
+     PREP: in
+      INGREDIENT SPAN:  corn syrup
+         INGREDIENTS: corn syrup
+      INGREDIENT SPAN: brown sugar
+         INGREDIENTS: packed brown sugar
+   OARG: stirring until sugar is dissolved
+      NON-INGREDIENT SPAN: stirring until sugar is dissolved
+
+
+SENTID: 2
+SENT: I would pour into a 9x13 inch baking dish .
+PREDID: 99
+PRED: pour
+   DOBJ: NULL
+   PARG: a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 3
+SENT: I would remove crusts from bread , and arrange in the baking dish in a single layer .
+PREDID: 127
+PRED: remove
+   DOBJ: crusts
+      NON-INGREDIENT SPAN: crusts
+   PARG: bread
+     PREP: from
+      INGREDIENT SPAN: bread
+         INGREDIENTS: 1inch thick slices French bread
+
+PREDID: 152
+PRED: arrange
+   DOBJ: NULL
+   PARG: the baking dish in a single layer
+     PREP: in
+      NON-INGREDIENT SPAN: the baking dish in a single layer
+
+
+SENTID: 4
+SENT: In a small bowl , I would whisk together eggs , the half and half , vanilla extract , orange brandy , and salt .
+PREDID: 202
+PRED: whisk
+   DOBJ: eggs , the half, half , vanilla extract , orange brandy , salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN:  orange brandy 
+      NON-INGREDIENT SPAN:  the half
+      NON-INGREDIENT SPAN:  half 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour over the bread .
+PREDID: 268
+PRED: pour
+   DOBJ: the bread
+      NON-INGREDIENT SPAN: the bread
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would cover , and chill at least 8 hours , or overnight .
+PREDID: 285
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 294
+PRED: chill
+   DOBJ: NULL
+   PARG: least 8 hours , or overnight
+     PREP: at
+      NON-INGREDIENT SPAN:  or overnight
+      NON-INGREDIENT SPAN: least 8 hours 
+
+
+SENTID: 7
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 325
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 8
+SENT: I would remove the dish from the refrigerator , and bring to room temperature .
+PREDID: 363
+PRED: remove
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: the refrigerator
+     PREP: from
+      NON-INGREDIENT SPAN: the refrigerator
+
+PREDID: 399
+PRED: bring
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+
+SENTID: 9
+SENT: I would bake uncovered 35 to 40 minutes in the preheated oven , until puffed and lightly browned .
+PREDID: 422
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 426
+PRED: uncovered
+   DOBJ: NULL
+   PARG: 35 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: puffed, lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: puffed
+      NON-INGREDIENT SPAN:  lightly browned
+
+

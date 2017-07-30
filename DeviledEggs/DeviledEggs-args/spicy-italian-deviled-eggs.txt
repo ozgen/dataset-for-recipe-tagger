@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 42
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 73
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 88
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool and peel .
+PREDID: 135
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water , cool, peel
+     PREP: from
+      NON-INGREDIENT SPAN:  peel
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: hot water 
+
+
+SENTID: 4
+SENT: I would slice eggs in half , and remove the yolks .
+PREDID: 166
+PRED: slice
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 185
+PRED: remove
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+
+SENTID: 5
+SENT: I would place the yolks into a medium bowl , and mix with the mustard , Italian dressing , the mayonnaise , and pepper .
+PREDID: 200
+PRED: place
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a medium bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a medium bowl
+
+PREDID: 232
+PRED: mix
+   DOBJ: NULL
+   PARG: the mustard , italian dressing , the mayonnaise , pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: the mustard 
+         INGREDIENTS: spicy brown mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  italian dressing 
+         INGREDIENTS: Italian salad dressing
+
+
+SENTID: 6
+SENT: I would arrange the egg white halves on a plate , and sprinkle with salt .
+PREDID: 287
+PRED: arrange
+   DOBJ: NULL
+   OARG: the egg white halves on a plate
+      NON-INGREDIENT SPAN: the egg white halves on a plate
+
+PREDID: 323
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 7
+SENT: I would spoon the yolk mixture into the egg halves , or use a pastry bag and pipe the filling in for a more professional look .
+PREDID: 340
+PRED: spoon
+   DOBJ: the yolk mixture
+      NON-INGREDIENT SPAN: the yolk mixture
+   PARG: the egg halves
+     PREP: into
+      NON-INGREDIENT SPAN: the egg halves
+
+PREDID: 378
+PRED: use
+   DOBJ: a pastry bag, pipe
+      NON-INGREDIENT SPAN:  pipe
+      NON-INGREDIENT SPAN: a pastry bag
+   PARG: filling in
+     PREP: the
+      NON-INGREDIENT SPAN: filling in
+   PARG: a more professional look
+     PREP: for
+      NON-INGREDIENT SPAN: a more professional look
+
+
+SENTID: 8
+SENT: I would sprinkle with paprika , and refrigerate until serving .
+PREDID: 435
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+PREDID: 458
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

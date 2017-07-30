@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would combine onion , green bell pepper , the milk , 1/4 cup ketchup , and eggs in a blender and puree until smooth .
+PREDID: 38
+PRED: combine
+   DOBJ: onion , green bell pepper , the milk , 1/4 cup ketchup , eggs in a blender
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped yellow onion
+      INGREDIENT SPAN:  eggs in a blender
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  1/4 cup ketchup 
+         INGREDIENTS: ketchup
+
+PREDID: 109
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would stir ground beef , crushed saltine crackers , kosher salt , dry mustard in a large bowl .
+PREDID: 123
+PRED: stir
+   DOBJ: ground beef , crushed saltine crackers , kosher salt , dry mustard in a large bowl
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  dry mustard in a large bowl
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  crushed saltine crackers 
+         INGREDIENTS: crushed saltine crackers
+
+
+SENTID: 3
+SENT: I would add onion and egg mixture ;
+PREDID: 195
+PRED: add
+   DOBJ: onion, egg mixture
+      NON-INGREDIENT SPAN: onion
+      NON-INGREDIENT SPAN:  egg mixture
+
+
+SENTID: 4
+SENT: I would stir to combine .
+PREDID: 217
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 5
+SENT: I would transfer beef mixture to a shallow baking dish and shape into a loaf .
+PREDID: 231
+PRED: transfer
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a shallow baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a shallow baking dish
+
+PREDID: 273
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 6
+SENT: I would drizzle top of the meatloaf with 2 tablespoons ketchup .
+PREDID: 288
+PRED: drizzle
+   DOBJ: top of the meatloaf
+      NON-INGREDIENT SPAN: top of the meatloaf
+   PARG: 2 tablespoons ketchup
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 7
+SENT: I would bake in the preheated over for 45 minutes .
+PREDID: 335
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated
+   PARG: for 45 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: for 45 minutes
+
+
+SENTID: 8
+SENT: I would remove from oven and let meatloaf to rest uncovered for 15 minutes .
+PREDID: 370
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 387
+PRED: let
+   DOBJ: meatloaf
+      NON-INGREDIENT SPAN: meatloaf
+   PARG: rest uncovered for 15 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: rest uncovered for 15 minutes
+
+
+SENTID: 9
+SENT: I would slice and serve .
+PREDID: 426
+PRED: slice and serve
+   DOBJ: NULL
+
+

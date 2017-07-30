@@ -1,0 +1,93 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="crumble
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook and stir
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir in
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="set aside
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="set aside
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="spread
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="spoon
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir together
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="blend in
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="pour
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="bake
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="remove
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="sprinkle
+15", shape=oval, style=filled, fillcolor=azure]
+D10[label="DOBJ: eggs, milk", shape=box, style=filled, fillcolor=peachpuff]
+D10 -> E10
+P10_0[label="LOCATION:in a small bowl", shape=box, style=filled, fillcolor=white]
+P10_0 -> E10
+D0[label="DOBJ: the oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D8[label="DOBJ: cottage cheese", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="LOCATION:into the bottom of a 9 inch pie plate", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+D1[label="DOBJ: lean ground beef", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:into a large skillet", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: over medium-high heat", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D5[label="DOBJ: shredded mozzarella cheese, grated Parmesan cheese", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+O5_0[label="OTHER: for the top", shape=box, style=filled, fillcolor=white]
+O5_0 -> E5
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: until no longer pink", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: the tomato paste", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+P4_1_ing[label="COOBJECT: italian Italian seasoning", shape=box, style=filled, fillcolor=peachpuff]
+P4_1_ing -> E4
+O4_0_0[label="OTHER: salt", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+D6_0[label="DOBJ: the rest", shape=box, style=filled, fillcolor=white]
+D6_0 -> E6
+E4 -> E6 [label="COOBJECT:into the ground beef"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E7 -> E9 [label="the ground beef mixture"]
+E8 -> E9 [label="COOBJECT:over the cheese"]
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_ing[label="COOBJECT: the biscuit baking mix", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+O11_0_0[label="OTHER: until smooth", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E9 -> E12 [label="COOBJECT:over the top of the pie"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E0 -> E13 [label="LOCATION:in the preheated oven"]
+O13_0_0[label="OTHER: until top is browned", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+O13_1_0[label="OTHER: about 30 minutes", shape=box, style=filled, fillcolor=white]
+O13_1_0 -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_0[label="LOCATION:from the oven", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+E14 -> E15 [label="the reserved cheese"]
+E5 -> E15 [label="COOBJECT:over the top"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

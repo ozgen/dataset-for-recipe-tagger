@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a shallow bowl , I would whisk together the eggs , the milk , Swiss cheese and chives .
+PREDID: 15
+PRED: whisk
+   DOBJ: the eggs , the milk , Swiss cheese, chives
+      INGREDIENT SPAN:  Swiss cheese
+         INGREDIENTS: shredded Swiss cheese
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  chives
+         INGREDIENTS: chopped fresh chives
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would melt the butter in a large skillet over medium heat .
+PREDID: 62
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 2
+SENT: I would dip slices of bread into the egg mixture ,
+PREDID: 105
+PRED: dip
+   DOBJ: slices of bread
+      INGREDIENT SPAN: slices of bread
+         INGREDIENTS: French baguette cut inch slices
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 3
+SENT: I would place them in the skillet .
+PREDID: 139
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would cook for 3 to 5 minutes per side , or until golden and crispy .
+PREDID: 161
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 to 5 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 5 minutes per side
+
+
+SENTID: 5
+SENT: I would serve with sliced ham and tomato chutney .
+PREDID: 210
+PRED: serve
+   DOBJ: NULL
+   PARG: sliced ham, tomato chutney
+     PREP: with
+      INGREDIENT SPAN:  tomato chutney
+         INGREDIENTS: tomato chutney
+      INGREDIENT SPAN: sliced ham
+         INGREDIENTS: sliced ham
+
+

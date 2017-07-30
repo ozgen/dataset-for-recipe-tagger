@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would beat eggs lightly in a medium bowl .
+PREDID: 38
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would add pumpkin , the sugar , the cinnamon , the nutmeg , the ginger , and salt .
+PREDID: 67
+PRED: add
+   DOBJ: pumpkin , the sugar , the cinnamon , the nutmeg , the ginger , salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: packed brown sugar
+
+
+SENTID: 3
+SENT: I would blend thoroughly ,
+PREDID: 115
+PRED: blend
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would beat in milk .
+PREDID: 131
+PRED: beat
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: evaporated milk
+
+
+SENTID: 5
+SENT: I would pour into pastry-lined pie plates .
+PREDID: 142
+PRED: pour
+   DOBJ: NULL
+   PARG: pastry-lined pie plates
+     PREP: into
+      INGREDIENT SPAN: pastry-lined pie plates
+         INGREDIENTS: 9-inch pie crusts
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 172
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 7
+SENT: I would reduce the heat to 325 degrees F -LRB- 165 degrees C -RRB- and bake until set , 20 to 30 minutes more .
+PREDID: 204
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+PREDID: 254
+PRED: bake
+   DOBJ: NULL
+   PARG: set
+     PREP: until
+      NON-INGREDIENT SPAN: set
+   OARG: 20 to 30 minutes more
+      NON-INGREDIENT SPAN: 20 to 30 minutes more
+
+
+SENTID: 8
+SENT: I would chill before serving .
+PREDID: 277
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

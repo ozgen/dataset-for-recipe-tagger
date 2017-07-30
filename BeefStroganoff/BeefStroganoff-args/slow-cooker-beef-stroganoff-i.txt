@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a slow cooker , I would combine the meat , the soup , the onion , Worcestershire sauce and water .
+PREDID: 14
+PRED: combine
+   DOBJ: the meat , the soup , the onion , Worcestershire sauce, water
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed golden mushroom soup
+      INGREDIENT SPAN: the meat 
+         INGREDIENTS: cubed beef stew meat
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would cook on Low setting for 8 hours , or on High setting for about 5 hours .
+PREDID: 68
+PRED: cook
+   DOBJ: NULL
+   PARG: low setting for 8 hours , or on high setting for about 5 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low setting for 8 hours 
+      NON-INGREDIENT SPAN:  or on high setting for about 5 hours
+
+
+SENTID: 2
+SENT: I would stir in cream cheese just before serving .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: cream cheese
+     PREP: in
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: cream cheese
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

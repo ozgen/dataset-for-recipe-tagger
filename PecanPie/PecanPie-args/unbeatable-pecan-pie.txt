@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix together flour and 1/2 teaspoon salt .
+PREDID: 14
+PRED: mix
+   DOBJ: flour, 1/2 teaspoon salt
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: Using a pastry blender or two knives , I would cut half of the shortening into flour mixture , until fine crumbs form .
+PREDID: 80
+PRED: cut
+   DOBJ: half of the shortening
+      INGREDIENT SPAN: half of the shortening
+         INGREDIENTS: shortening chilled diced
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: fine crumbs form
+     PREP: until
+      NON-INGREDIENT SPAN: fine crumbs form
+   OARG: using a pastry blender or two knives
+      NON-INGREDIENT SPAN: using a pastry blender or two knives
+
+
+SENTID: 2
+SENT: I would cut in remaining shortening until coarse crumbs form .
+PREDID: 139
+PRED: cut
+   DOBJ: NULL
+   PARG: remaining shortening
+     PREP: in
+      NON-INGREDIENT SPAN: remaining shortening
+   PARG: coarse crumbs form
+     PREP: until
+      NON-INGREDIENT SPAN: coarse crumbs form
+
+
+SENTID: 3
+SENT: I would add water , 1 tablespoon at a time , tossing with fork until a dough forms .
+PREDID: 185
+PRED: add
+   DOBJ: 1 tablespoon at a time, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: ice water
+      NON-INGREDIENT SPAN: 1 tablespoon at a time
+   OARG: tossing with fork until a dough forms
+      NON-INGREDIENT SPAN: tossing with fork until a dough forms
+
+
+SENTID: 4
+SENT: I would shape dough into a disk and wrap in plastic wrap ;
+PREDID: 245
+PRED: shape
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a disk
+     PREP: into
+      NON-INGREDIENT SPAN: a disk
+
+PREDID: 267
+PRED: wrap
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: in
+      NON-INGREDIENT SPAN: plastic wrap
+
+
+SENTID: 5
+SENT: I would chill for 30 minutes .
+PREDID: 285
+PRED: chill
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 6
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 303
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 7
+SENT: On a floured surface , I would using a floured rolling pin , roll dough into an 11-inch circle .
+PREDID: 383
+PRED: roll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a floured surface
+   PARG: an 11-inch circle
+     PREP: into
+      NON-INGREDIENT SPAN: an 11-inch circle
+   OARG: using a floured rolling pin
+      NON-INGREDIENT SPAN: using a floured rolling pin
+
+
+SENTID: 8
+SENT: I would fit dough into a 9-in quiche dish .
+PREDID: 412
+PRED: fit
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a 9-in quiche dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9-in quiche dish
+
+
+SENTID: 9
+SENT: I would trim edges
+PREDID: 440
+PRED: trim
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+
+
+SENTID: 10
+SENT: In a heavy skillet , I would melt 2 tablespoons butter over low heat .
+PREDID: 465
+PRED: melt
+   DOBJ: 2 tablespoons butter over low heat
+      INGREDIENT SPAN: 2 tablespoons butter over low heat
+         INGREDIENTS: butter melted
+   PARG: a heavy skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a heavy skillet
+
+
+SENTID: 11
+SENT: I would add nuts and stir for about 5 minutes , or until nuts begin to color .
+PREDID: 499
+PRED: add
+   DOBJ: nuts
+      NON-INGREDIENT SPAN: nuts
+
+PREDID: 509
+PRED: stir
+   DOBJ: NULL
+   PARG: about 5 minutes , or until nuts begin to color
+     PREP: for
+      NON-INGREDIENT SPAN:  or until nuts begin to color
+      NON-INGREDIENT SPAN: about 5 minutes 
+
+
+SENTID: 12
+SENT: I would let cool for 10 minutes .
+PREDID: 554
+PRED: let
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 13
+SENT: I would mix together beaten egg , maple syrup , the sugar , 1/3 cup melted butter , the vanilla , and 1/2 teaspoon salt .
+PREDID: 574
+PRED: mix
+   DOBJ: beaten egg , maple syrup , the sugar , 1/3 cup melted butter , the vanilla , 1/2 teaspoon salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: real maple syrup
+      INGREDIENT SPAN: beaten egg 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  1/3 cup melted butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 14
+SENT: I would stir in nuts .
+PREDID: 658
+PRED: stir
+   DOBJ: NULL
+   PARG: nuts
+     PREP: in
+      NON-INGREDIENT SPAN: nuts
+
+
+SENTID: 15
+SENT: I would pour the filling into crust .
+PREDID: 669
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: crust
+     PREP: into
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 16
+SENT: I would bake for 45 to 50 minutes , or until filling is set .
+PREDID: 690
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 to 50 minutes , or until filling is set
+     PREP: for
+      NON-INGREDIENT SPAN:  or until filling is set
+      NON-INGREDIENT SPAN: 45 to 50 minutes 
+
+
+SENTID: 17
+SENT: I would transfer the pan to wire rack and cool .
+PREDID: 731
+PRED: transfer
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: wire rack, cool
+     PREP: to
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: wire rack
+
+

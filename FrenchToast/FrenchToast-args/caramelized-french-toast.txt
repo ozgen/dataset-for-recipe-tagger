@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would melt two tablespoons of butter in a frying pan or skillet over medium high heat .
+PREDID: 0
+PRED: melt
+   DOBJ: two tablespoons of butter
+      INGREDIENT SPAN: two tablespoons of butter
+         INGREDIENTS: butter divided
+   PARG: a frying pan
+     PREP: in
+      NON-INGREDIENT SPAN: a frying pan
+
+PREDID: 40
+PRED: skillet
+   DOBJ: NULL
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 1
+SENT: I would beat together eggs , the milk and salt .
+PREDID: 66
+PRED: beat
+   DOBJ: eggs , the milk, salt
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would dip bread one at a time into egg mixture and fry until light brown and egg is cooked .
+PREDID: 95
+PRED: dip
+   DOBJ: bread one at a time
+      INGREDIENT SPAN: bread one at a time
+         INGREDIENTS: slices bread
+   PARG: egg mixture, fry
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+      NON-INGREDIENT SPAN:  fry
+   PARG: light brown, egg is cooked
+     PREP: until
+      NON-INGREDIENT SPAN:  egg is cooked
+      NON-INGREDIENT SPAN: light brown
+
+
+SENTID: 3
+SENT: After 4 slices of bread have been cooked , I would melt the remaining 2 tablespoons butter .
+PREDID: 197
+PRED: melt
+   DOBJ: the remaining 2 tablespoons butter
+      INGREDIENT SPAN: the remaining 2 tablespoons butter
+         INGREDIENTS: butter divided
+   PARG: 4 slices of bread have been cooked
+     PREP: after
+      INGREDIENT SPAN: 4 slices of bread have been cooked
+         INGREDIENTS: slices bread
+
+
+SENTID: 4
+SENT: I would cook the remaining bread slices until light brown on both sides and egg is cooked .
+PREDID: 229
+PRED: cook
+   DOBJ: the remaining bread slices
+      INGREDIENT SPAN: the remaining bread slices
+         INGREDIENTS: slices bread
+   PARG: light brown on both sides, egg is cooked
+     PREP: until
+      NON-INGREDIENT SPAN: light brown on both sides
+      NON-INGREDIENT SPAN:  egg is cooked
+
+
+SENTID: 5
+SENT: After all bread slices have been cooked and removed from pan , I would add brown sugar to pan .
+PREDID: 345
+PRED: add
+   DOBJ: brown sugar
+      INGREDIENT SPAN: brown sugar
+         INGREDIENTS: brown sugar
+   PARG: all bread slices have been cooked, removed from pan
+     PREP: after
+      NON-INGREDIENT SPAN:  removed from pan
+      NON-INGREDIENT SPAN: all bread slices have been cooked
+   OARG: to pan
+      NON-INGREDIENT SPAN: to pan
+
+
+SENTID: 6
+SENT: I would stir until melted and sticky .
+PREDID: 364
+PRED: stir
+   DOBJ: NULL
+   PARG: melted, sticky
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+      NON-INGREDIENT SPAN:  sticky
+
+
+SENTID: 7
+SENT: I would add water and stir .
+PREDID: 389
+PRED: add
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 8
+SENT: I would place French toast in caramel sauce .
+PREDID: 405
+PRED: place
+   DOBJ: French toast
+      NON-INGREDIENT SPAN: French toast
+   PARG: caramel sauce
+     PREP: in
+      NON-INGREDIENT SPAN: caramel sauce
+
+
+SENTID: 9
+SENT: I would turn to coat ,
+PREDID: 436
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 10
+SENT: I would remove from pan .
+PREDID: 447
+PRED: remove
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 11
+SENT: I would serve .
+PREDID: 461
+PRED: serve
+   DOBJ: NULL
+
+

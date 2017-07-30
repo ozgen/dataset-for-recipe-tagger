@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would bring a pot of salted water to boil , place potatoes in water .
+PREDID: 0
+PRED: bring
+   DOBJ: a pot of salted water
+      NON-INGREDIENT SPAN: a pot of salted water
+   PARG: boil , place potatoes in water
+     PREP: to
+      INGREDIENT SPAN:  place potatoes in water
+         INGREDIENTS: potatoes
+      NON-INGREDIENT SPAN: boil 
+
+
+SENTID: 1
+SENT: I would boil until potatoes are tender .
+PREDID: 50
+PRED: boil
+   DOBJ: NULL
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 2
+SENT: I would drain well .
+PREDID: 77
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would let the potatoes cool 30 minutes .
+PREDID: 87
+PRED: let cool
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 4
+SENT: I would peel the skin off of the potatoes and cube them .
+PREDID: 115
+PRED: peel
+   DOBJ: the skin
+      NON-INGREDIENT SPAN: the skin
+   PARG: of the potatoes
+     PREP: off
+      NON-INGREDIENT SPAN: of the potatoes
+
+PREDID: 145
+PRED: cube
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+
+
+SENTID: 5
+SENT: In a medium size mixing bowl combine potatoes , I would the mayonnaise , ranch dressing , the onion , the celery , green pepper , the salt and pepper .
+
+SENTID: 6
+SENT: I would cover and refrigerate until well chilled .
+PREDID: 154
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: well chilled
+     PREP: until
+      NON-INGREDIENT SPAN: well chilled
+
+

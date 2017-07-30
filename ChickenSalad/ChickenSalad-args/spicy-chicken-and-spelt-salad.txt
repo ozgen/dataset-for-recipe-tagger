@@ -1,0 +1,276 @@
+SENTID: 0
+SENT: I would whisk together soy sauce , sesame oil , olive oil , the vinegar , peanut butter , cayenne pepper , the ginger , the garlic , and serrano in a small bowl ;
+PREDID: 0
+PRED: whisk
+   DOBJ: soy sauce , sesame oil , olive oil , the vinegar , peanut butter , cayenne pepper , the ginger , the garlic , serrano in a small bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: grated ginger
+      INGREDIENT SPAN:  peanut butter 
+         INGREDIENTS: creamy peanut butter
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: Asian sesame oil
+      INGREDIENT SPAN:  serrano in a small bowl
+         INGREDIENTS: serrano chile peppers minced
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: grated fresh garlic
+      INGREDIENT SPAN: soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 113
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would toast spelt kernels in a dry skillet on medium-high heat until the kernels are browned and some have popped .
+PREDID: 122
+PRED: toast
+   DOBJ: spelt kernels
+      INGREDIENT SPAN: spelt kernels
+         INGREDIENTS: spelt kernels
+   PARG: a dry skillet on medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a dry skillet on medium-high heat
+   PARG: the kernels are browned
+     PREP: until
+      NON-INGREDIENT SPAN: the kernels are browned
+   OARG: some have popped
+      NON-INGREDIENT SPAN: some have popped
+
+
+SENTID: 3
+SENT: I would remove , place in a mesh strainer , and rinse well with cold water .
+PREDID: 212
+PRED: remove and place
+   DOBJ: NULL
+   PARG: a mesh strainer
+     PREP: in
+      NON-INGREDIENT SPAN: a mesh strainer
+
+PREDID: 243
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      INGREDIENT SPAN: cold water
+         INGREDIENTS: water
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 266
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: Bring 6 cups of water to a boil in a large saucepan ;
+PREDID: 272
+PRED: bring
+   DOBJ: 6 cups of water
+      NON-INGREDIENT SPAN: 6 cups of water
+   PARG: a boil in a large saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a large saucepan
+
+
+SENTID: 6
+SENT: I would add 1/2 teaspoon kosher salt and stir in spelt kernels .
+PREDID: 313
+PRED: add
+   DOBJ: 1/2 teaspoon kosher salt
+      INGREDIENT SPAN: 1/2 teaspoon kosher salt
+         INGREDIENTS: kosher salt
+
+PREDID: 340
+PRED: stir
+   DOBJ: NULL
+   PARG: spelt kernels
+     PREP: in
+      NON-INGREDIENT SPAN: spelt kernels
+
+
+SENTID: 7
+SENT: I would return to a boil
+PREDID: 359
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would cover , reduce heat to low , and simmer until tender , about 1 hour .
+PREDID: 372
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 397
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 9
+SENT: I would drain well and set aside to cool .
+PREDID: 426
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 438
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 10
+SENT: While the spelt is simmering , I would fill a skillet with 1 quart water , 1/2 teaspoon salt , and onion .
+PREDID: 478
+PRED: fill
+   DOBJ: a skillet
+      NON-INGREDIENT SPAN: a skillet
+   PARG: the spelt is simmering
+     PREP: while
+      NON-INGREDIENT SPAN: the spelt is simmering
+   PARG: 1 quart water , 1/2 teaspoon salt , onion
+     PREP: with
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion peeled cut chunks
+      INGREDIENT SPAN:  1/2 teaspoon salt 
+         INGREDIENTS: kosher salt
+      NON-INGREDIENT SPAN: 1 quart water 
+
+
+SENTID: 11
+SENT: I would bring to a boil over high heat .
+PREDID: 531
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 12
+SENT: I would add chicken breasts , reduce the heat to medium-low , cover , and simmer until the chicken is cooked through , about 15 minutes .
+PREDID: 556
+PRED: add
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 574
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 609
+PRED: simmer
+   DOBJ: NULL
+   PARG: the chicken is cooked through , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the chicken is cooked through 
+
+
+SENTID: 13
+SENT: I would remove chicken from liquid and allow to cool .
+PREDID: 661
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: liquid
+     PREP: from
+      NON-INGREDIENT SPAN: liquid
+
+PREDID: 687
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 14
+SENT: Once chicken is cool enough to handle , shred into bite-sized chunks and place in a large bowl .
+PREDID: 719
+PRED: cool
+   DOBJ: NULL
+   PARG: chicken is i
+     PREP: once
+      NON-INGREDIENT SPAN: chicken is i
+   OARG: enough
+      NON-INGREDIENT SPAN: enough
+
+
+SENTID: 15
+SENT: I would stir in spelt , bell pepper , green onions , the parsley , the cilantro , the carrots , and cabbage .
+PREDID: 777
+PRED: stir
+   DOBJ: NULL
+   PARG: spelt , bell pepper , green onions , the parsley , the cilantro , the carrots , cabbage
+     PREP: in
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: bunch green onions sliced
+      INGREDIENT SPAN:  cabbage
+         INGREDIENTS: sliced red cabbage
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrot sliced
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      NON-INGREDIENT SPAN: spelt 
+
+
+SENTID: 16
+SENT: I would pour sauce over salad and stir well to combine .
+PREDID: 848
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: salad
+     PREP: over
+      NON-INGREDIENT SPAN: salad
+
+PREDID: 869
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+

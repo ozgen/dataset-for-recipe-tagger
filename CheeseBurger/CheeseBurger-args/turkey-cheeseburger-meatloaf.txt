@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat vegetable oil in a large skillet over medium heat and cook turkey bacon until browned and crisp , about 5 minutes per side .
+PREDID: 38
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: about 5 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes per side
+
+PREDID: 86
+PRED: cook
+   DOBJ: turkey bacon
+      INGREDIENT SPAN: turkey bacon
+         INGREDIENTS: slices turkey bacon more taste
+   PARG: browned, crisp
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crisp
+
+
+SENTID: 2
+SENT: I would drain bacon on paper towels ;
+PREDID: 143
+PRED: drain
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 3
+SENT: I would crumble when cool .
+PREDID: 167
+PRED: crumble
+   DOBJ: NULL
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+
+SENTID: 4
+SENT: I would mix cooked bacon with ground turkey , Cheddar cheese , the egg , the onion , crumbled French bread , Worcestershire sauce , garlic powder , and black pepper ;
+PREDID: 183
+PRED: mix
+   DOBJ: cooked bacon
+      NON-INGREDIENT SPAN: cooked bacon
+   PARG: ground turkey , cheddar cheese , the egg , the onion , crumbled french bread , worcestershire sauce , garlic powder , black pepper
+     PREP: with
+      INGREDIENT SPAN:  cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN: ground turkey 
+         INGREDIENTS: extra lean ground turkey
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  crumbled french bread 
+         INGREDIENTS: slice French bread crumbled
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce more taste
+
+
+SENTID: 5
+SENT: I would turn the turkey meatloaf mixture into a 9x13-inch baking dish and form into a loaf shape in the middle of the dish .
+PREDID: 306
+PRED: turn
+   DOBJ: the turkey meatloaf mixture
+      NON-INGREDIENT SPAN: the turkey meatloaf mixture
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+PREDID: 361
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf shape in the middle of the dish
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape in the middle of the dish
+
+
+SENTID: 6
+SENT: I would mix ketchup , yellow mustard , and brown sugar together in a bowl , stirring to dissolve brown sugar .
+PREDID: 400
+PRED: mix
+   DOBJ: ketchup , yellow mustard , brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+   PARG: a bowl , stirring to dissolve brown sugar
+     PREP: in
+      NON-INGREDIENT SPAN:  stirring to dissolve brown sugar
+      NON-INGREDIENT SPAN: a bowl 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would spread the mixture over the turkey loaf .
+PREDID: 483
+PRED: spread
+   DOBJ: the mixture over the turkey loaf
+      NON-INGREDIENT SPAN: the mixture over the turkey loaf
+
+
+SENTID: 8
+SENT: I would bake the turkey loaf in the preheated oven until the juices run clear , loaf is no longer pink in the middle , and an instant-read meat thermometer inserted into the thickest part of the loaf reads at least 160 degrees F -LRB- 70 degrees F -RRB- , 45 minutes to 1 hour .
+

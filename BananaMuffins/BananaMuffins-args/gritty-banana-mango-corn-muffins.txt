@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would whisk together the cornmeal , the couscous , brown sugar , baking powder , baking soda , and salt in a bowl .
+PREDID: 38
+PRED: whisk
+   DOBJ: the cornmeal , the couscous , brown sugar , baking powder , baking soda , salt in a bowl
+      INGREDIENT SPAN: the cornmeal 
+         INGREDIENTS: cornmeal
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the couscous 
+         INGREDIENTS: couscous
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in the dried mango .
+PREDID: 122
+PRED: stir
+   DOBJ: NULL
+   PARG: the dried mango
+     PREP: in
+      INGREDIENT SPAN: the dried mango
+         INGREDIENTS: chopped dried mango
+
+
+SENTID: 3
+SENT: I would whisk together the mashed bananas , the eggs , vegetable oil , vanilla extract , and buttermilk .
+PREDID: 142
+PRED: whisk
+   DOBJ: the mashed bananas , the eggs , vegetable oil , vanilla extract , buttermilk
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the mashed bananas 
+         INGREDIENTS: ripe bananas mashed
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  buttermilk
+         INGREDIENTS: buttermilk
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir the cornmeal mixture into the banana mixture , and let the batter rest until the couscous absorbs some of the moisture , about 5 minutes .
+PREDID: 219
+PRED: stir
+   DOBJ: the cornmeal mixture
+      NON-INGREDIENT SPAN: the cornmeal mixture
+   PARG: the banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the banana mixture
+
+PREDID: 265
+PRED: let
+   DOBJ: the batter rest
+      NON-INGREDIENT SPAN: the batter rest
+   PARG: the couscous absorbs some of the moisture , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the couscous absorbs some of the moisture 
+
+
+SENTID: 5
+SENT: I would spoon the batter into ungreased muffin cups , filling them 2/3 full .
+PREDID: 336
+PRED: spoon
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: ungreased muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: ungreased muffin cups
+   OARG: filling them 2/3 full
+      NON-INGREDIENT SPAN: filling them 2/3 full
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until lightly browned , and a toothpick inserted into the center comes out clean , about 15 minutes .
+PREDID: 393
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+   OARG: a toothpick inserted into the center comes out clean , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+
+SENTID: 7
+SENT: I would cool in the pans for 10 minutes before removing .
+PREDID: 498
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing
+     PREP: before
+      NON-INGREDIENT SPAN: removing
+
+
+SENTID: 8
+SENT: I would serve warm or at room temperature .
+PREDID: 538
+PRED: serve
+   DOBJ: NULL
+   OARG: warm or at room temperature
+      NON-INGREDIENT SPAN: warm or at room temperature
+
+

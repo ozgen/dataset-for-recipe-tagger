@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: I would toss the cabbage and tomato together in a bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: the cabbage, tomato
+      INGREDIENT SPAN: the cabbage
+         INGREDIENTS: shredded cabbage
+      INGREDIENT SPAN:  tomato
+         INGREDIENTS: small tomato diced
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would pour the orange juice and lime juice over the mixture .
+PREDID: 39
+PRED: pour
+   DOBJ: the orange juice, lime juice over the mixture
+      INGREDIENT SPAN:  lime juice over the mixture
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN: the orange juice
+         INGREDIENTS: fresh orange juice
+
+
+SENTID: 2
+SENT: I would season with salt and pepper ;
+PREDID: 84
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would stir .
+PREDID: 108
+PRED: stir
+   DOBJ: NULL
+
+

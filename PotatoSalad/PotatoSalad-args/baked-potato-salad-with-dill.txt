@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat over to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: NULL
+   PARG: to 400 degrees f -lrb- 200 degrees c
+     PREP: over
+      NON-INGREDIENT SPAN: to 400 degrees f -lrb- 200 degrees c
+
+
+SENTID: 1
+SENT: I would pierce the potatoes with a fork , and bake in the preheated over for about an hour , or until tender .
+PREDID: 38
+PRED: pierce
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: baking potatoes
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 68
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated over for about an hour , or until tender
+     PREP: in
+      NON-INGREDIENT SPAN:  or until tender
+      NON-INGREDIENT SPAN: the preheated over for about an hour 
+
+
+SENTID: 2
+SENT: I would remove from oven , let cool , and
+PREDID: 119
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 134
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: I would chill until cold .
+PREDID: 145
+PRED: chill
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 4
+SENT: I would peel and cube the potatoes , and
+PREDID: 160
+PRED: peel and cube
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+
+SENTID: 5
+SENT: I would add to a large bowl along with the bean sprouts , the walnuts , the celery , the radishes , dill weed and parsley .
+PREDID: 186
+PRED: add
+   DOBJ: NULL
+   PARG: a large bowl along with the bean sprouts , the walnuts , the celery , the radishes , dill weed, parsley
+     PREP: to
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: a large bowl along with the bean sprouts 
+         INGREDIENTS: fresh bean sprouts
+      INGREDIENT SPAN:  dill weed
+         INGREDIENTS: chopped fresh dill weed
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: radishes sliced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery sliced
+
+
+SENTID: 6
+SENT: I would whisk together the mayonnaise , lemon juice , the mustard and curry powder .
+PREDID: 268
+PRED: whisk
+   DOBJ: the mayonnaise , lemon juice , the mustard, curry powder
+      INGREDIENT SPAN:  curry powder
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: Dijonstyle prepared mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour the dressing over potato mixture ;
+PREDID: 328
+PRED: pour
+   DOBJ: the dressing over potato mixture
+      NON-INGREDIENT SPAN: the dressing over potato mixture
+
+
+SENTID: 8
+SENT: I would toss to coat .
+PREDID: 358
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 9
+SENT: I would cover and refrigerate until ready to serve .
+PREDID: 369
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

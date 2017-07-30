@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would brown ground beef together with onion , crushed red pepper , garlic powder , and seasoned pepper .
+PREDID: 30
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: with onion , crushed red pepper , garlic powder , seasoned pepper
+     PREP: together
+      INGREDIENT SPAN:  seasoned pepper
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: with onion 
+         INGREDIENTS: large onion diced
+      INGREDIENT SPAN:  crushed red pepper 
+         INGREDIENTS: jalapeno chile peppers diced, crushed red pepper
+      INGREDIENT SPAN:  crushed red pepper 
+         INGREDIENTS: jalapeno chile peppers diced, crushed red pepper
+
+
+SENTID: 1
+SENT: I would drain off the fat , and place the mixture into a slow cooker .
+PREDID: 111
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 129
+PRED: place
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 2
+SENT: I would stir mushrooms , baked beans , kidney beans with liquid , tomato paste , the sugar , the carrots , the celery , the peppers , the beer , and barbeque sauce into the slow cooker .
+PREDID: 160
+PRED: stir
+   DOBJ: mushrooms , baked beans , kidney beans with liquid , tomato paste , the sugar , the carrots , the celery , the peppers , the beer , barbeque sauce
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots sliced
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: ounce mushroom pieces drained
+      INGREDIENT SPAN:  barbeque sauce
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: Canadian beer
+      INGREDIENT SPAN:  baked beans 
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN:  kidney beans with liquid 
+         INGREDIENTS: ounce baked beans
+      INGREDIENT SPAN:  the peppers 
+         INGREDIENTS: red bell pepper diced
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 3
+SENT: I would season with hot sauce and more crushed red pepper .
+PREDID: 287
+PRED: season
+   DOBJ: NULL
+   PARG: hot sauce, more crushed red pepper
+     PREP: with
+      INGREDIENT SPAN:  more crushed red pepper
+         INGREDIENTS: seasoned pepper
+      INGREDIENT SPAN: hot sauce
+         INGREDIENTS: hot sauce
+
+
+SENTID: 4
+SENT: I would cover , and cook on Low for 4 to 5 hours .
+PREDID: 329
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 338
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 4 to 5 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 4 to 5 hours
+
+

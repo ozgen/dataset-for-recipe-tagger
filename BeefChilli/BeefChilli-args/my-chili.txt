@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would combine ground beef , the onion , and garlic in large stockpot .
+PREDID: 0
+PRED: combine
+   DOBJ: ground beef , the onion , garlic in large stockpot
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  garlic in large stockpot
+
+
+SENTID: 1
+SENT: I would cook and stir over medium heat until beef is brown .
+PREDID: 49
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: beef is brown
+     PREP: until
+      NON-INGREDIENT SPAN: beef is brown
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 91
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would stir in chili powder , the salt , the oregano , the tomatoes , and tomato sauce ;
+PREDID: 97
+PRED: stir
+   DOBJ: NULL
+   PARG: chili powder , the salt , the oregano , the tomatoes , tomato sauce
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+
+
+SENTID: 4
+SENT: I would break up tomatoes while stirring .
+PREDID: 152
+PRED: break
+   DOBJ: tomatoes
+      NON-INGREDIENT SPAN: tomatoes
+   PARG: stirring
+     PREP: while
+      NON-INGREDIENT SPAN: stirring
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 5
+SENT: I would heat to boiling , reduce heat to simmer , and cover .
+PREDID: 181
+PRED: heat
+   DOBJ: NULL
+   PARG: boiling
+     PREP: to
+      NON-INGREDIENT SPAN: boiling
+
+PREDID: 195
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: simmer
+     PREP: to
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 6
+SENT: I would cook , stirring occasionally , for 1 hour .
+PREDID: 223
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally , for 1 hour
+      NON-INGREDIENT SPAN:  for 1 hour
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 7
+SENT: I would stir in beans .
+PREDID: 258
+PRED: stir
+   DOBJ: NULL
+   PARG: beans
+     PREP: in
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce kidney beans liquid
+
+
+SENTID: 8
+SENT: I would simmer , uncovered , for 20 minutes ;
+PREDID: 270
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+
+SENTID: 9
+SENT: I would stir occasionally .
+PREDID: 300
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+

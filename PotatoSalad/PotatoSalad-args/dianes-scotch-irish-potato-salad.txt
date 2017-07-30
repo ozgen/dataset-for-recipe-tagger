@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would place potatoes in a large pot , cover with water , and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 25
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 43
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , about 20 minutes .
+PREDID: 56
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 91
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 2
+SENT: I would drain and allow to cool .
+PREDID: 121
+PRED: drain and allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would remove skins from potatoes and cut into chunks .
+PREDID: 141
+PRED: remove
+   DOBJ: skins
+      NON-INGREDIENT SPAN: skins
+   PARG: potatoes
+     PREP: from
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 167
+PRED: cut
+   DOBJ: NULL
+   PARG: chunks
+     PREP: into
+      NON-INGREDIENT SPAN: chunks
+
+
+SENTID: 4
+SENT: I would place in a large bowl .
+PREDID: 181
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would lightly stir celery , red onion , the eggs , black olives , green olives , dill pickle relish , sweet pickle relish , and paprika with potatoes until thoroughly combined .
+PREDID: 206
+PRED: stir
+   DOBJ: celery , red onion , the eggs , black olives , green olives , dill pickle relish , sweet pickle relish , paprika
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardboiled eggs peeled chopped
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  sweet pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  green olives 
+         INGREDIENTS: sliced green olives pimentos
+      INGREDIENT SPAN:  dill pickle relish 
+         INGREDIENTS: dill pickle relish
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: smoked paprika
+   PARG: potatoes
+     PREP: with
+      NON-INGREDIENT SPAN: potatoes
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 6
+SENT: I would mix in mustard , the vinegar , and mayonnaise ;
+PREDID: 336
+PRED: mix
+   DOBJ: NULL
+   PARG: mustard , the vinegar , mayonnaise
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar needed
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise needed
+      INGREDIENT SPAN: mustard 
+         INGREDIENTS: prepared mustard needed
+
+
+SENTID: 7
+SENT: I would stir lightly until all ingredients are coated and moist .
+PREDID: 371
+PRED: stir
+   DOBJ: NULL
+   PARG: all ingredients are coated, moist
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are coated
+      NON-INGREDIENT SPAN:  moist
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: If salad is n't moist enough , stir up to 1/2 cup more mayonnaise into salad .
+
+SENTID: 9
+SENT: I would season with salt and ground black pepper to taste .
+PREDID: 481
+PRED: season
+   DOBJ: NULL
+   PARG: salt, ground black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  ground black pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 10
+SENT: For best flavor , I would make the day before and refrigerate overnight .
+PREDID: 537
+PRED: make
+   DOBJ: NULL
+   PARG: best flavor
+     PREP: for
+      NON-INGREDIENT SPAN: best flavor
+   OARG: the day
+      NON-INGREDIENT SPAN: the day
+   OARG: before
+      NON-INGREDIENT SPAN: before
+
+PREDID: 556
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

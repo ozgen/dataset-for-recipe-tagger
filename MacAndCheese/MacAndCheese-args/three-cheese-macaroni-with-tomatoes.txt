@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium baking dish
+      NON-INGREDIENT SPAN: a medium baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 69
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would place macaroni in the pot , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 111
+PRED: place
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: elbow macaroni
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 133
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: In the baking dish , I would mix the cooked macaroni , Colby-Jack cheese , Cheddar cheese , white Cheddar cheese , and tomatoes with juice .
+PREDID: 191
+PRED: mix
+   DOBJ: the cooked macaroni , Colby-Jack cheese , Cheddar cheese , white Cheddar cheese , tomatoes
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: Cheddar cheese cubed
+      INGREDIENT SPAN:  Colby-Jack cheese 
+         INGREDIENTS: white Cheddar cheese cubed
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce stewed tomatoes undrained crushed
+      INGREDIENT SPAN:  white Cheddar cheese 
+         INGREDIENTS: ColbyJack cheese cubed
+      NON-INGREDIENT SPAN: the cooked macaroni 
+   PARG: the baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the baking dish
+   PARG: juice
+     PREP: with
+      NON-INGREDIENT SPAN: juice
+
+
+SENTID: 5
+SENT: I would sprinkle bread crumbs evenly over top .
+PREDID: 283
+PRED: sprinkle
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+   OARG: evenly over top
+      NON-INGREDIENT SPAN: evenly over top
+
+
+SENTID: 6
+SENT: I would bake 30 minutes in the preheated oven , until bubbly and lightly brown .
+PREDID: 316
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+   OARG: lightly brown
+      NON-INGREDIENT SPAN: lightly brown
+
+

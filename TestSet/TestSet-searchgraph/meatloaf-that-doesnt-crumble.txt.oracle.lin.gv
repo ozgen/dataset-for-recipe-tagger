@@ -1,0 +1,77 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="process
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="add
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="mix
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="transfer
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="form
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cover
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="serve
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="refrigerate
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="slice
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="serve
+13", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: the oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1_ing[label="DOBJ: medium onion roughly, small stalks celery, ground black pepper", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="LOCATION:in a food processor or blender"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: until finely chopped, but not liquid", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCATION:to a large bowl", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_ing[label="DOBJ: ground beef, dried sage, milk, cracker crumbs, envelope dry onion soup mix, green bell pepper and, mild pork sausage, salt", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+O5_1_0[label="OTHER: using your hands, or if you have a stand mixer, mix using the paddle attachment", shape=box, style=filled, fillcolor=white]
+O5_1_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCATION:to a 9x5 inch loaf pan", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: into a loaf, mounding in the center", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_ing[label="COOBJECT: with ketchup", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCATION:in the preheated oven", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+O9_0_0[label="OTHER: for 1 1/2 hours", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+O10_0_0[label="OTHER: hot", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E10 -> E11 [label="leftovers"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_0[label="COOBJECT:in sandwiches", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+O13_0_0[label="OTHER: cold", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E13 -> EOR
+}

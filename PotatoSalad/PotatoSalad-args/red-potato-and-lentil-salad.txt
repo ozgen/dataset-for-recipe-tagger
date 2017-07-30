@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would toss potatoes , 1 tablespoon olive oil , and salt together in a 9x13-inch baking dish until coated .
+PREDID: 38
+PRED: toss
+   DOBJ: potatoes , 1 tablespoon olive oil , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: red potatoes cut wedges
+      INGREDIENT SPAN:  1 tablespoon olive oil 
+         INGREDIENTS: olive oil
+   PARG: a 9x13-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would bake until the potatoes are easily pierced with a fork , about 35 minutes .
+PREDID: 120
+PRED: bake
+   DOBJ: NULL
+   PARG: the potatoes are easily pierced with a fork , about 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are easily pierced with a fork 
+      NON-INGREDIENT SPAN:  about 35 minutes
+
+
+SENTID: 3
+SENT: I would meanwhile , bring lentils , the water , and salt to a boil in a saucepan .
+PREDID: 191
+PRED: bring
+   DOBJ: lentils , the water , salt to a boil in a saucepan
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN: lentils 
+         INGREDIENTS: dried lentils
+      NON-INGREDIENT SPAN:  salt to a boil in a saucepan
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would reduce heat to medium-low and simmer until lentils are tender , about 20 minutes .
+PREDID: 236
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: lentils are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: lentils are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 304
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would combine potatoes , the lentils , red bell pepper , and green onions in a large bowl .
+PREDID: 310
+PRED: combine
+   DOBJ: potatoes , the lentils , red bell pepper , green onions in a large bowl
+      INGREDIENT SPAN:  green onions in a large bowl
+         INGREDIENTS: sliced green onions
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: diced red bell pepper
+      NON-INGREDIENT SPAN: potatoes 
+      NON-INGREDIENT SPAN:  the lentils 
+
+
+SENTID: 7
+SENT: I would whisk yogurt , Dijon mustard , cider vinegar , 2 tablespoons olive oil , and turbinado sugar together ;
+PREDID: 375
+PRED: whisk
+   DOBJ: yogurt , Dijon mustard , cider vinegar , 2 tablespoons olive oil , turbinado sugar
+      INGREDIENT SPAN: yogurt 
+         INGREDIENTS: plain lowfat yogurt
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  2 tablespoons olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  turbinado sugar
+         INGREDIENTS: turbinado sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would drizzle over potato mixture and toss to combine .
+PREDID: 460
+PRED: drizzle
+   DOBJ: NULL
+   PARG: potato mixture
+     PREP: over
+      NON-INGREDIENT SPAN: potato mixture
+
+PREDID: 487
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 9
+SENT: I would season with salt and black pepper .
+PREDID: 501
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      NON-INGREDIENT SPAN: salt
+
+

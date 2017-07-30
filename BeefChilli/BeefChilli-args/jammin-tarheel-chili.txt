@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook beef until brown .
+PREDID: 30
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 49
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a large pot over medium heat , I would cook celery , onions and garlic in olive oil until onion is translucent .
+PREDID: 81
+PRED: cook
+   DOBJ: NULL
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: olive oil
+     PREP: in
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: onion is translucent
+     PREP: until
+      INGREDIENT SPAN: onion is translucent
+         INGREDIENTS: large onions diced
+   OARG: celery , onions, garlic
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: stalks celery diced
+      NON-INGREDIENT SPAN:  onions
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 3
+SENT: I would stir in beef , tomato sauce , the tomatoes , the mushrooms , the beer , chili beans , kidney beans , the cumin , chili powder , the coriander , the cayenne and Worcestershire .
+PREDID: 141
+PRED: stir
+   DOBJ: NULL
+   PARG: beef , tomato sauce , the tomatoes , the mushrooms , the beer , chili beans , kidney beans , the cumin , chili powder , the coriander , the cayenne, worcestershire
+     PREP: in
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN:  worcestershire
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: dark beer
+      INGREDIENT SPAN:  the cayenne
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN: beef 
+
+
+SENTID: 4
+SENT: I would simmer over low heat 3 hours , until flavors are well blended .
+PREDID: 264
+PRED: simmer
+   DOBJ: NULL
+   PARG: 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 hours
+   PARG: flavors are well blended
+     PREP: until
+      NON-INGREDIENT SPAN: flavors are well blended
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: low heat
+      NON-INGREDIENT SPAN: low heat
+
+

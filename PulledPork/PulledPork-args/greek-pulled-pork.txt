@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would place pork tenderloin into a slow cooker , sprinkle meat generously with Greek seasoning , and pour the jar of peperoncini peppers with their juice over the pork .
+PREDID: 0
+PRED: place
+   DOBJ: pork tenderloin
+      INGREDIENT SPAN: pork tenderloin
+         INGREDIENTS: pound pork tenderloin fat trimmed
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 35
+PRED: sprinkle
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: greek seasoning
+     PREP: with
+      INGREDIENT SPAN: greek seasoning
+         INGREDIENTS: Greek seasoning such Cavender more taste
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+PREDID: 79
+PRED: pour
+   DOBJ: the jar of peperoncini peppers
+      INGREDIENT SPAN: the jar of peperoncini peppers
+         INGREDIENTS: ounce jar peperoncini peppers such Mezzetta
+   PARG: their juice over the pork
+     PREP: with
+      NON-INGREDIENT SPAN: their juice over the pork
+
+
+SENTID: 1
+SENT: I would cook 4 hours on High .
+PREDID: 135
+PRED: cook
+   DOBJ: NULL
+   PARG: 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 2
+SENT: I would shred the pork using 2 forks and allow to cook 10 to 15 more minutes .
+PREDID: 152
+PRED: shred
+   DOBJ: the pork using 2 forks
+      NON-INGREDIENT SPAN: the pork using 2 forks
+
+PREDID: 178
+PRED: allow
+   DOBJ: NULL
+   OARG: to cook 10 to 15 more minutes
+      NON-INGREDIENT SPAN: to cook 10 to 15 more minutes
+
+

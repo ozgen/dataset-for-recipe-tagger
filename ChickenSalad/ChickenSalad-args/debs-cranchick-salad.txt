@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: In a large skillet , I would heat olive oil over medium heat .
+PREDID: 16
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would add chopped chicken and cook until chicken is cooked through .
+PREDID: 43
+PRED: add
+   DOBJ: chopped chicken
+      INGREDIENT SPAN: chopped chicken
+         INGREDIENTS: skinless boneless chicken breast halves chopped
+
+PREDID: 63
+PRED: cook
+   DOBJ: NULL
+   PARG: chicken is cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is cooked through
+
+
+SENTID: 2
+SENT: I would remove from heat and set aside to cool .
+PREDID: 95
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 112
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: In a large bowl , I would stir together the celery , the walnuts , the cranberries , the onion , the mayonnaise , the vinegar , the salt and pepper and lemon juice .
+PREDID: 140
+PRED: stir
+   DOBJ: the celery , the walnuts , the cranberries , the onion , the mayonnaise , the vinegar , the salt, pepper, lemon juice
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  lemon juice
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would add cooled chicken , and stir until well combined .
+PREDID: 234
+PRED: add
+   DOBJ: cooled chicken
+      NON-INGREDIENT SPAN: cooled chicken
+
+PREDID: 254
+PRED: stir
+   DOBJ: NULL
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 5
+SENT: I would cover and chill about 6 hours and serve on top of spinach leaves , if desired .
+PREDID: 276
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: about 6 hours
+     PREP: for
+      NON-INGREDIENT SPAN: about 6 hours
+
+PREDID: 303
+PRED: serve
+   DOBJ: NULL
+   PARG: top of spinach leaves
+     PREP: on
+      INGREDIENT SPAN: top of spinach leaves
+         INGREDIENTS: leaves spinach rinsed stemmed dried
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

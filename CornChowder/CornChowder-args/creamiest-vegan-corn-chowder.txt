@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: I would heat olive oil in a large soup pot over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: a large soup pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion , the celery , and carrots in the hot oil until softened , 5 to 7 minutes .
+PREDID: 42
+PRED: cook and stir
+   DOBJ: onion , the celery , carrots
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: ribs celery chopped
+   PARG: the hot oil until softened , 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil until softened 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 2
+SENT: I would stir potatoes , the cauliflower , bay leaves , the thyme , and oregano into vegetables ;
+PREDID: 113
+PRED: stir
+   DOBJ: potatoes , the cauliflower , bay leaves , the thyme , oregano
+      INGREDIENT SPAN:  bay leaves 
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cauliflower 
+         INGREDIENTS: head cauliflower cut bitesize
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: russet potatoes peeled diced
+      NON-INGREDIENT SPAN:  the thyme 
+   PARG: vegetables
+     PREP: into
+      INGREDIENT SPAN: vegetables
+         INGREDIENTS: vegetable broth
+
+
+SENTID: 3
+SENT: I would cook about 5 minutes more .
+PREDID: 179
+PRED: cook
+   DOBJ: NULL
+   OARG: about 5 minutes more
+      NON-INGREDIENT SPAN: about 5 minutes more
+
+
+SENTID: 4
+SENT: I would pour vegetable broth and 6 cups corn kernels and into vegetable mixture and bring mixture to a boil .
+PREDID: 201
+PRED: pour
+   DOBJ: corn kernels, into vegetable mixture
+      INGREDIENT SPAN: corn kernels
+         INGREDIENTS: fresh corn kernels divided
+      NON-INGREDIENT SPAN:  into vegetable mixture
+   OARG: vegetable broth, 6 cups
+      NON-INGREDIENT SPAN: vegetable broth
+      NON-INGREDIENT SPAN:  6 cups
+
+PREDID: 264
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat to low and simmer until vegetables are tender , 35 to 40 minutes .
+PREDID: 284
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: vegetables are tender , 35 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+      NON-INGREDIENT SPAN: vegetables are tender 
+
+
+SENTID: 6
+SENT: I would remove and discard bay leaves .
+PREDID: 347
+PRED: remove and discard
+   DOBJ: bay leaves
+      NON-INGREDIENT SPAN: bay leaves
+
+
+SENTID: 7
+SENT: I would place the remaining 2 cups corn kernels , the cashews , and nutritional yeast into a blender and add several large spoonfuls of simmering broth to blender .
+PREDID: 373
+PRED: place
+   DOBJ: the remaining 2 cups corn kernels , the cashews , nutritional yeast
+      INGREDIENT SPAN:  the cashews 
+         INGREDIENTS: cashews
+      INGREDIENT SPAN:  nutritional yeast
+         INGREDIENTS: nutritional yeast
+      NON-INGREDIENT SPAN: the remaining 2 cups corn kernels 
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+PREDID: 452
+PRED: add
+   DOBJ: several large spoonfuls of simmering broth to blender
+      NON-INGREDIENT SPAN: several large spoonfuls of simmering broth to blender
+
+
+SENTID: 8
+SENT: I would work in batches if necessary , filling blender no more than half full per batch .
+PREDID: 496
+PRED: work
+   DOBJ: NULL
+   PARG: batches if necessary , filling blender no more than half full per batch
+     PREP: in
+      NON-INGREDIENT SPAN: batches if necessary 
+      NON-INGREDIENT SPAN:  filling blender no more than half full per batch
+
+
+SENTID: 9
+SENT: I would cover lid with a dish towel and hold lid down ;
+PREDID: 562
+PRED: cover
+   DOBJ: lid
+      NON-INGREDIENT SPAN: lid
+   PARG: a dish towel
+     PREP: with
+      NON-INGREDIENT SPAN: a dish towel
+
+PREDID: 587
+PRED: hold
+   DOBJ: lid
+      NON-INGREDIENT SPAN: lid
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 10
+SENT: I would pulse a few times before leaving on to blend until smooth .
+PREDID: 599
+PRED: pulse
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   PARG: leaving on to blend until smooth
+     PREP: before
+      NON-INGREDIENT SPAN: leaving on to blend until smooth
+
+
+SENTID: 11
+SENT: I would stir cashew mixture into soup pot ;
+PREDID: 647
+PRED: stir
+   DOBJ: cashew mixture
+      NON-INGREDIENT SPAN: cashew mixture
+   PARG: soup pot
+     PREP: into
+      NON-INGREDIENT SPAN: soup pot
+
+
+SENTID: 12
+SENT: I would season with salt and black pepper .
+PREDID: 676
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

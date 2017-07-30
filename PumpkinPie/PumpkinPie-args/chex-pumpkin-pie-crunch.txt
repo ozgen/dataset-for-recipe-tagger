@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: In small bowl , I would mix brown sugar and pumpkin pie spice ;
+PREDID: 12
+PRED: mix
+   DOBJ: brown sugar, pumpkin pie spice
+      INGREDIENT SPAN: brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 44
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In small microwave-safe dish , I would microwave butter on High about 30 seconds or until melted .
+PREDID: 79
+PRED: microwave
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: small microwave-safe dish
+     PREP: in
+      NON-INGREDIENT SPAN: small microwave-safe dish
+   PARG: high about 30 seconds
+     PREP: on
+      NON-INGREDIENT SPAN: high about 30 seconds
+
+
+SENTID: 3
+SENT: I would stir in vanilla .
+PREDID: 128
+PRED: stir
+   DOBJ: NULL
+   PARG: vanilla
+     PREP: in
+      INGREDIENT SPAN: vanilla
+         INGREDIENTS: vanilla
+
+
+SENTID: 4
+SENT: In large microwaveable bowl , I would mix all cereals and pecans .
+PREDID: 167
+PRED: mix
+   DOBJ: all cereals, pecans
+      INGREDIENT SPAN: all cereals
+         INGREDIENTS: Wheat Chex cereal
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: pecans
+   PARG: large microwaveable bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large microwaveable bowl
+
+
+SENTID: 5
+SENT: I would pour butter mixture over cereal mixture , stirring until evenly distributed .
+PREDID: 190
+PRED: pour
+   DOBJ: butter mixture over cereal mixture
+      INGREDIENT SPAN: butter mixture over cereal mixture
+         INGREDIENTS: Honey Nut Chex cereal
+   OARG: stirring until evenly distributed
+      NON-INGREDIENT SPAN: stirring until evenly distributed
+
+
+SENTID: 6
+SENT: I would add sugar and spice mixture and stir until coated .
+PREDID: 256
+PRED: add
+   DOBJ: sugar, spice mixture
+      NON-INGREDIENT SPAN:  spice mixture
+      NON-INGREDIENT SPAN: sugar
+
+PREDID: 282
+PRED: stir
+   DOBJ: NULL
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 7
+SENT: I would microwave uncovered on High 5 minutes or until mixture begins to brown , stirring every minute .
+PREDID: 298
+PRED: microwave
+   DOBJ: NULL
+   OARG: uncovered on high 5 minutes or until mixture begins to brown , stirring every minute
+      NON-INGREDIENT SPAN: uncovered on high 5 minutes or until mixture begins to brown 
+      NON-INGREDIENT SPAN:  stirring every minute
+
+PREDID: 352
+PRED: brown
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 8
+SENT: I would spread on wax paper or a cookie sheet to cool .
+PREDID: 378
+PRED: spread
+   DOBJ: NULL
+   PARG: wax paper or a cookie sheet
+     PREP: on
+      NON-INGREDIENT SPAN: wax paper or a cookie sheet
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 9
+SENT: I would store in airtight container .
+PREDID: 415
+PRED: store
+   DOBJ: NULL
+   PARG: airtight container
+     PREP: in
+      NON-INGREDIENT SPAN: airtight container
+
+

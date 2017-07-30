@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground sirloin , the bacon , the onion , bell pepper , the oats , Cheddar cheese , sour cream , Worcestershire sauce , and Cajun seasoning salt in a large bowl ;
+PREDID: 38
+PRED: mix
+   DOBJ: ground sirloin , the bacon , the onion , bell pepper , the oats , Cheddar cheese , sour cream , Worcestershire sauce , Cajun
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: ground sirloin 
+         INGREDIENTS: ground sirloin
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: quickcooking oats
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: slices cooked bacon crumbled
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  Cajun
+   OARG: seasoning salt in a large bowl
+      INGREDIENT SPAN: seasoning salt in a large bowl
+         INGREDIENTS: Cajun seasoning salt
+
+
+SENTID: 2
+SENT: I would shape into a loaf .
+PREDID: 161
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would line 1?1/2 - quart loaf pan with bread slices .
+PREDID: 176
+PRED: line
+   DOBJ: 1?1/2
+      NON-INGREDIENT SPAN: 1?1/2
+   OARG: quart loaf pan with bread slices
+      INGREDIENT SPAN: quart loaf pan with bread slices
+         INGREDIENTS: slices oatnut bread
+
+
+SENTID: 4
+SENT: I would put loaf atop the bread .
+PREDID: 214
+PRED: put
+   DOBJ: loaf
+      NON-INGREDIENT SPAN: loaf
+   PARG: the bread
+     PREP: atop
+      NON-INGREDIENT SPAN: the bread
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until no longer pink in the center , about 15 minutes .
+PREDID: 234
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 6
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 7
+SENT: I would stir tomato sauce and brown sugar together in a saucepan over medium heat ;
+PREDID: 300
+PRED: stir
+   DOBJ: tomato sauce, brown sugar
+      INGREDIENT SPAN: tomato sauce
+         INGREDIENTS: ounce seasoned tomato sauce
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would simmer until the sugar dissolves .
+PREDID: 362
+PRED: simmer
+   DOBJ: NULL
+   PARG: the sugar dissolves
+     PREP: until
+      NON-INGREDIENT SPAN: the sugar dissolves
+
+
+SENTID: 9
+SENT: I would add Cheddar cheese in small batches , stirring to melt each batch before adding the next .
+PREDID: 391
+PRED: add
+   DOBJ: Cheddar cheese in small batches , stirring to melt each batch before adding the next
+      INGREDIENT SPAN: Cheddar cheese in small batches 
+         INGREDIENTS: ounce package shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  stirring to melt each batch before adding the next
+
+
+SENTID: 10
+SENT: I would stir onion and parsley into the sauce and continue cooking until hot , about 5 minutes .
+PREDID: 465
+PRED: stir
+   DOBJ: onion, parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: bunch parsley chopped
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion taste
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+PREDID: 499
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: hot , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: hot 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 11
+SENT: I would pour sauce over the meatloaf .
+PREDID: 537
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: the meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: the meatloaf
+
+

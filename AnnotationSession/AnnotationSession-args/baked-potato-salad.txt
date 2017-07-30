@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would place the potatoes into a large pot and cover with lightly salted water .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cover
+   DOBJ: NULL
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until just tender , about 15 minutes .
+
+SENTID: 2
+SENT: I would drain the potatoes , and allow to cool to room temperature .
+PREDID: 158
+PRED: drain
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 178
+PRED: allow
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would dice once cooled .
+PREDID: 207
+PRED: dice
+   DOBJ: NULL
+
+PREDID: 215
+PRED: cooled
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 222
+PRED: place
+   DOBJ: the bacon in a large , deep skillet
+      INGREDIENT SPAN: the bacon in a large 
+         INGREDIENTS: slices bacon
+      NON-INGREDIENT SPAN:  deep skillet
+
+PREDID: 259
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 5
+SENT: I would drain the bacon slices on a paper towel-lined plate .
+PREDID: 337
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 6
+SENT: I would allow to cool , and crumble the bacon into a large bowl .
+PREDID: 381
+PRED: allow
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would place the cooled potatoes into the bowl with the bacon , and mix in the sour cream , mayonnaise , Cheddar cheese , chives , salt , and pepper .
+PREDID: 426
+PRED: place
+   DOBJ: the cooled potatoes
+      NON-INGREDIENT SPAN: the cooled potatoes
+   PARG: the bowl with the bacon
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl with the bacon
+
+PREDID: 475
+PRED: mix
+   DOBJ: NULL
+   PARG: the sour cream , mayonnaise , cheddar cheese , chives , salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: (16 ounce) container reduced-fat sour cream
+      INGREDIENT SPAN:  chives 
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  mayonnaise 
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 8
+SENT: I would refrigerate overnight before serving .
+PREDID: 540
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

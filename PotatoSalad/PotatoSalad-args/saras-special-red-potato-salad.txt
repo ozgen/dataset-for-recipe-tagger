@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook for 15 minutes or until tender but firm .
+PREDID: 42
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: peeled diced red potatoes
+
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 2
+SENT: I would drain the potatoes and transfer to a large bowl .
+PREDID: 93
+PRED: drain
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 112
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: In a large mixing bowl , I would toss together the vanilla yogurt , green onions , lemon , the celery , the carrots , bean sprouts , red onion , the salt , the pepper and garlic salt .
+PREDID: 152
+PRED: toss
+   DOBJ: the vanilla yogurt , green onions , lemon , the celery , the carrots , bean sprouts , red onion , the salt , the pepper, garlic salt
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: minced red onion
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  bean sprouts 
+         INGREDIENTS: fresh bean sprouts
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: the vanilla yogurt 
+         INGREDIENTS: vanilla yogurt
+      NON-INGREDIENT SPAN:  garlic salt
+      NON-INGREDIENT SPAN:  lemon 
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would pour the mixture over the potatoes .
+PREDID: 260
+PRED: pour
+   DOBJ: the mixture over the potatoes
+      NON-INGREDIENT SPAN: the mixture over the potatoes
+
+
+SENTID: 5
+SENT: Mix gently , thoroughly coating but not mashing the potatoes .
+
+SENTID: 6
+SENT: I would refrigerate until serving .
+PREDID: 290
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

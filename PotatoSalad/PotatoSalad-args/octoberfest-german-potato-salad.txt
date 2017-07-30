@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add peeled and cut potatoes ;
+PREDID: 35
+PRED: add
+   DOBJ: peeled, cut potatoes
+      INGREDIENT SPAN: peeled
+         INGREDIENTS: potatoes peeled sliced
+      NON-INGREDIENT SPAN:  cut potatoes
+
+
+SENTID: 2
+SENT: I would cook until tender but still firm , about 15 minutes .
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 3
+SENT: I would drain , and transfer to a large bowl .
+PREDID: 102
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 111
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would add onions .
+PREDID: 132
+PRED: add
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onion
+
+
+SENTID: 5
+SENT: In a large bowl , I would whisk together the mayonnaise , the oil , the vinegar , the sugar , the parsley , the salt and pepper .
+PREDID: 155
+PRED: whisk
+   DOBJ: the mayonnaise , the oil , the vinegar , the sugar , the parsley , the salt, pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would gently stir in the potatoes and onion .
+PREDID: 228
+PRED: stir
+   DOBJ: NULL
+   PARG: the potatoes, onion
+     PREP: in
+      NON-INGREDIENT SPAN: the potatoes
+      NON-INGREDIENT SPAN:  onion
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would let stand for 1 hour before serving to enhance flavors .
+PREDID: 254
+PRED: let
+   DOBJ: stand for 1 hour
+      NON-INGREDIENT SPAN: stand for 1 hour
+   PARG: serving to enhance flavors
+     PREP: before
+      NON-INGREDIENT SPAN: serving to enhance flavors
+
+

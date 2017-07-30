@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine meat , the eggs , the ketchup , stuffing mix , ranch dressing mix and fried onions .
+PREDID: 51
+PRED: combine
+   DOBJ: meat , the eggs , the ketchup , stuffing mix , ranch dressing mix, fried onions
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  stuffing mix 
+         INGREDIENTS: herbseasoned dry bread stuffing mix
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  fried onions
+         INGREDIENTS: ounce Frenchfried onions
+      INGREDIENT SPAN:  ranch dressing mix
+         INGREDIENTS: ounce package dry Ranchstyle dressing mix
+      NON-INGREDIENT SPAN: meat 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would shape into loaf and fit into 9 x 5 inch loaf pan .
+PREDID: 119
+PRED: shape
+   DOBJ: NULL
+   PARG: loaf
+     PREP: into
+      NON-INGREDIENT SPAN: loaf
+
+PREDID: 135
+PRED: fit
+   DOBJ: NULL
+   PARG: 9 x 5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: 9 x 5 inch loaf pan
+
+
+SENTID: 3
+SENT: I would bake , covered loosely with foil , at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 60 minutes , or until meat is thoroughly cooked .
+PREDID: 157
+PRED: bake or covered
+   DOBJ: NULL
+   PARG: 50 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 60 minutes
+   OARG: loosely with foil , at 350 degrees f -lrb- 175 degrees c
+      NON-INGREDIENT SPAN: loosely with foil 
+      NON-INGREDIENT SPAN:  at 350 degrees f -lrb- 175 degrees c
+
+PREDID: 259
+PRED: is cooked
+   DOBJ: NULL
+   PARG: meat
+     PREP: until
+      NON-INGREDIENT SPAN: meat
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+

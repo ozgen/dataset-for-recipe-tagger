@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would cook rice according to package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: rice
+      INGREDIENT SPAN: rice
+         INGREDIENTS: ounce package wild rice
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would remove from heat and set aside to cool .
+PREDID: 37
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 54
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 2
+SENT: In a medium bowl , I would whisk together the mayonnaise , the vinegar , the sugar , the salt and pepper .
+PREDID: 83
+PRED: whisk
+   DOBJ: the mayonnaise , the vinegar , the sugar , the salt, pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in rice , the turkey , the onion and grapes until evenly coated with dressing .
+PREDID: 138
+PRED: stir
+   DOBJ: NULL
+   PARG: rice , the turkey , the onion, grapes
+     PREP: in
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: diced green onion
+      INGREDIENT SPAN:  grapes
+         INGREDIENTS: seedless red grapes
+      INGREDIENT SPAN:  the turkey 
+         INGREDIENTS: cooked cubed turkey meat
+      NON-INGREDIENT SPAN: rice 
+   PARG: evenly coated with dressing
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated with dressing
+
+
+SENTID: 4
+SENT: I would cover and refrigerate for 1 to 2 hours .
+PREDID: 200
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 1 to 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 2 hours
+
+
+SENTID: 5
+SENT: Before serving , I would sprinkle slivered almonds over the top of the salad .
+PREDID: 246
+PRED: sprinkle
+   DOBJ: slivered almonds
+      INGREDIENT SPAN: slivered almonds
+         INGREDIENTS: blanched slivered almonds
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: the top of the salad
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the salad
+
+

@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: In a bowl , I would stir together the chicken broth , soy sauce , the cornstarch , and garlic until the cornstarch is smooth , and set aside .
+PREDID: 8
+PRED: stir
+   DOBJ: the chicken broth , soy sauce , the cornstarch , garlic
+      INGREDIENT SPAN: the chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: the cornstarch is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: the cornstarch is smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 98
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would heat the oil in a wok or large skillet over medium-high heat until shimmering , and cook and stir the chicken until cooked through and no longer pink in the center , about 5 minutes .
+PREDID: 104
+PRED: heat
+   DOBJ: the oil in a wok or large skillet over medium-high heat
+      INGREDIENT SPAN: the oil in a wok or large skillet over medium-high heat
+         INGREDIENTS: vegetable oil
+   PARG: shimmering
+     PREP: until
+      NON-INGREDIENT SPAN: shimmering
+
+PREDID: 172
+PRED: cook and stir
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+   PARG: cooked through, no longer pink in the center , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: cooked through
+      NON-INGREDIENT SPAN:  no longer pink in the center 
+
+
+SENTID: 2
+SENT: I would remove from the wok and set aside .
+PREDID: 252
+PRED: remove
+   DOBJ: NULL
+   PARG: the wok
+     PREP: from
+      NON-INGREDIENT SPAN: the wok
+
+PREDID: 271
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would place the snow peas into the hot wok , and cook and stir until bright green and still crisp , about 3 minutes .
+PREDID: 280
+PRED: place
+   DOBJ: the snow peas
+      INGREDIENT SPAN: the snow peas
+         INGREDIENTS: snow peas
+   PARG: the hot wok
+     PREP: into
+      NON-INGREDIENT SPAN: the hot wok
+
+PREDID: 313
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: bright green, still crisp
+     PREP: until
+      NON-INGREDIENT SPAN: bright green
+      NON-INGREDIENT SPAN:  still crisp
+   PARG: 3 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 4
+SENT: I would stir in the mushrooms and green onions , and toss with the snow peas in the hot oil until the mushrooms are tender and have given up their juice , about 5 minutes .
+PREDID: 368
+PRED: stir
+   DOBJ: NULL
+   PARG: the mushrooms, green onions
+     PREP: in
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunches green onions cut 1inch
+      INGREDIENT SPAN: the mushrooms
+         INGREDIENTS: cremini mushrooms stems discarded caps sliced
+
+PREDID: 404
+PRED: toss
+   DOBJ: NULL
+   PARG: the snow peas in the hot oil
+     PREP: with
+      NON-INGREDIENT SPAN: the snow peas in the hot oil
+   PARG: the mushrooms are tender
+     PREP: until
+      NON-INGREDIENT SPAN: the mushrooms are tender
+
+PREDID: 467
+PRED: have given
+   DOBJ: NULL
+   PARG: their juice , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: their juice 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 5
+SENT: I would pour off excess juices , if any .
+PREDID: 499
+PRED: pour
+   DOBJ: NULL
+   PARG: excess juices
+     PREP: off
+      NON-INGREDIENT SPAN: excess juices
+   PARG: any
+     PREP: if
+      NON-INGREDIENT SPAN: any
+
+
+SENTID: 6
+SENT: I would return the chicken to the wok , and stir briefly over medium heat to combine with the cooked vegetables .
+PREDID: 525
+PRED: return
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the wok
+     PREP: to
+      NON-INGREDIENT SPAN: the wok
+
+PREDID: 553
+PRED: stir
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+   OARG: to combine with the cooked vegetables
+      NON-INGREDIENT SPAN: to combine with the cooked vegetables
+
+
+SENTID: 7
+SENT: I would stir the reserved sauce ingredients to recombine , if needed , and add to the wok .
+PREDID: 611
+PRED: stir
+   DOBJ: the reserved sauce ingredients
+      NON-INGREDIENT SPAN: the reserved sauce ingredients
+   PARG: recombine
+     PREP: to
+      NON-INGREDIENT SPAN: recombine
+   PARG: needed
+     PREP: if
+      NON-INGREDIENT SPAN: needed
+
+PREDID: 666
+PRED: add
+   DOBJ: NULL
+   PARG: the wok
+     PREP: to
+      NON-INGREDIENT SPAN: the wok
+
+
+SENTID: 8
+SENT: I would gently stir in the avocado , and let the mixture bubble until the sauce thickens , about 3 minutes .
+PREDID: 684
+PRED: stir
+   DOBJ: NULL
+   PARG: the avocado
+     PREP: in
+      INGREDIENT SPAN: the avocado
+         INGREDIENTS: large ripe firm avocados peeled pitted cut large chunks
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 704
+PRED: let
+   DOBJ: the mixture bubble
+      NON-INGREDIENT SPAN: the mixture bubble
+   PARG: the sauce thickens , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce thickens 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 9
+SENT: I would stir gently to coat everything in sauce , and serve .
+PREDID: 759
+PRED: stir
+   DOBJ: NULL
+   PARG: coat everything in sauce
+     PREP: to
+      NON-INGREDIENT SPAN: coat everything in sauce
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

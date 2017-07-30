@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would crumble ground beef into a skillet over medium heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would stir garlic , oregano , chili powder , and basil into the beef ;
+PREDID: 44
+PRED: stir
+   DOBJ: garlic , oregano , chili powder
+      INGREDIENT SPAN:  oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN: garlic 
+
+PREDID: 78
+PRED: basil
+   DOBJ: NULL
+   PARG: the beef
+     PREP: into
+      NON-INGREDIENT SPAN: the beef
+
+
+SENTID: 2
+SENT: I would cook and stir until beef is completely browned , 7 to 10 minutes .
+PREDID: 95
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: beef is completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: beef is completely browned 
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+
+
+SENTID: 3
+SENT: I would combine light red kidney beans , dark red kidney beans , diced tomatoes , and corn in crock of a slow cooker .
+PREDID: 148
+PRED: combine
+   DOBJ: light red kidney beans , dark red kidney beans , diced tomatoes , corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce corn
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  dark red kidney beans 
+         INGREDIENTS: ounce light red kidney beans drained rinsed
+      INGREDIENT SPAN: light red kidney beans 
+         INGREDIENTS: ounce dark red kidney beans drained rinsed
+   PARG: crock of a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: crock of a slow cooker
+
+
+SENTID: 4
+SENT: I would stir cooked ground beef into the bean mixture .
+PREDID: 236
+PRED: stir
+   DOBJ: cooked ground beef
+      INGREDIENT SPAN: cooked ground beef
+         INGREDIENTS: salt ground black pepper taste
+   PARG: the bean mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bean mixture
+
+
+SENTID: 5
+SENT: I would cook on Medium-Low for 2 hours .
+PREDID: 275
+PRED: cook
+   DOBJ: NULL
+   PARG: medium-low for 2 hours
+     PREP: on
+      NON-INGREDIENT SPAN: medium-low for 2 hours
+
+
+SENTID: 6
+SENT: I would stir sugar into the chili and continue cooking as long as you can wait , at least 6 hours .
+PREDID: 301
+PRED: stir
+   DOBJ: sugar
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: the chili
+     PREP: into
+      NON-INGREDIENT SPAN: the chili
+
+PREDID: 325
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   OARG: as long as you can wait , at least 6 hours
+      NON-INGREDIENT SPAN:  at least 6 hours
+      NON-INGREDIENT SPAN: as long as you can wait 
+
+
+SENTID: 7
+SENT: I would season with salt and black pepper to serve .
+PREDID: 373
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: salt
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

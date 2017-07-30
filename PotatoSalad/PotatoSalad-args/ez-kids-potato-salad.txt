@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: I would whisk together the salad dressing , apple juice , onion flakes , the dill , the mustard and salt and pepper .
+PREDID: 0
+PRED: whisk
+   DOBJ: the salad dressing , apple juice , onion flakes , the dill , the mustard, salt, pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN: the salad dressing 
+         INGREDIENTS: creamy salad dressing
+      INGREDIENT SPAN:  apple juice 
+         INGREDIENTS: apple juice
+      INGREDIENT SPAN:  onion flakes 
+         INGREDIENTS: dried minced onion
+      NON-INGREDIENT SPAN:  pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would pour over potatoes and toss to coat .
+PREDID: 82
+PRED: pour
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: ounce sliced potatoes drained
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 101
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

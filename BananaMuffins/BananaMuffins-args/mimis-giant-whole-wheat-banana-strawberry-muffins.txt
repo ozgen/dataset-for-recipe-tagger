@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 large muffin cups , or line with paper liners .
+PREDID: 41
+PRED: grease
+   DOBJ: 12 large muffin cups
+      NON-INGREDIENT SPAN: 12 large muffin cups
+
+PREDID: 67
+PRED: line
+   DOBJ: NULL
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: In a large bowl , I would whisk together the eggs , the applesauce , the oil , brown sugar , the vanilla and bananas .
+PREDID: 100
+PRED: whisk
+   DOBJ: the eggs , the applesauce , the oil , brown sugar , the vanilla, bananas
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: unsweetened applesauce
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  bananas
+         INGREDIENTS: bananas mashed
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would combine the flour , baking soda and cinnamon ;
+PREDID: 165
+PRED: combine
+   DOBJ: the flour , baking soda, cinnamon
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 4
+SENT: I would stir into the banana mixture until moistened .
+PREDID: 203
+PRED: stir
+   DOBJ: NULL
+   PARG: the banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the banana mixture
+   PARG: moistened
+     PREP: until
+      NON-INGREDIENT SPAN: moistened
+
+
+SENTID: 5
+SENT: I would stir in the strawberries until evenly distributed .
+PREDID: 242
+PRED: stir
+   DOBJ: NULL
+   PARG: the strawberries
+     PREP: in
+      INGREDIENT SPAN: the strawberries
+         INGREDIENTS: frozen sliced strawberries
+   PARG: evenly distributed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly distributed
+
+
+SENTID: 6
+SENT: I would spoon batter into muffin cups until completely filled .
+PREDID: 286
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: muffin cups
+   PARG: completely filled
+     PREP: until
+      NON-INGREDIENT SPAN: completely filled
+
+
+SENTID: 7
+SENT: I would bake for 20 minutes in the preheated oven , or until the tops of the muffins spring back when pressed lightly .
+PREDID: 333
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes in the preheated oven
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when pressed lightly
+      NON-INGREDIENT SPAN: back when pressed lightly
+
+
+SENTID: 8
+SENT: I would cool before removing from the muffin tins .
+PREDID: 423
+PRED: cool
+   DOBJ: NULL
+   PARG: removing from the muffin tins
+     PREP: before
+      NON-INGREDIENT SPAN: removing from the muffin tins
+
+

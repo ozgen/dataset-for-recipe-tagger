@@ -1,0 +1,85 @@
+digraph recipe {
+E0[label="wash
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="peel
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cut
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="bring
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="add
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cook
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="slice
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="chop
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="put
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="add
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="mix
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="add
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="stir
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="place
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="enjoy
+15", shape=oval, style=filled, fillcolor=azure]
+D7[label="DOBJ: medium high heat", shape=box, style=filled, fillcolor=white]
+D7 -> E7
+P7_0[label="LOCOROBJ:in a large , deep skillet", shape=box, style=filled, fillcolor=white]
+P7_0 -> E7
+P7_1[label="OTHER:until evenly brown", shape=box, style=filled, fillcolor=white]
+P7_1 -> E7
+D6[label="DOBJ: bacon", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="COOBJECT:into small green onions", shape=box, style=filled, fillcolor=peachpuff]
+P6_0 -> E6
+D3[label="DOBJ: a large pot of salted water", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+P3_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+D8[label="DOBJ: radishes, stalks celery, stuffed green olives", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="COOBJECT:into small green onions", shape=box, style=filled, fillcolor=peachpuff]
+P8_0 -> E8
+D0[label="DOBJ: potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:into 1/2 to 3/4 inch pieces", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E4 [label="the potatoes"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E3 -> E5 [label="IMPLICIT PREP"]
+P5_1_0[label="DURATION:until tender but still firm ", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+P5_1_1[label="DURATION:until  about 10 minutes", shape=box, style=filled, fillcolor=white]
+P5_1_1 -> E5
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCOROBJ:into a large bowl", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E5 -> E10 [label="the potatoes"]
+E6 -> E10 [label="bacon"]
+E9 -> E10 [label="IMPLICIT PREP"]
+E10 -> E11 [label="IMPLICIT DOBJ"]
+D12_ing[label="DOBJ: mayonnaise, lemon juice", shape=box, style=filled, fillcolor=peachpuff]
+D12_ing -> E12
+E11 -> E12 [label="LOCOROBJ:to taste"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E7 -> E13 [label="IMPLICIT PREP"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_0[label="DURATION:in the refrigerator for a few hours", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+D15_0[label="DOBJ: !!!", shape=box, style=filled, fillcolor=white]
+D15_0 -> E15
+E14 -> E15 [label="IMPLICIT PREP"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

@@ -1,0 +1,237 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would crumble ground beef into skillet ;
+PREDID: 32
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: skillet
+     PREP: into
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 2
+SENT: I would add salami , the pepperoni , and onion .
+PREDID: 61
+PRED: add
+   DOBJ: salami , the pepperoni , onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion minced
+      INGREDIENT SPAN: salami 
+         INGREDIENTS: salami chopped
+      INGREDIENT SPAN:  the pepperoni 
+         INGREDIENTS: pepperoni sausage chopped
+
+
+SENTID: 3
+SENT: I would cook and stir mixture until beef is completely browned , 7 to 10 minutes .
+PREDID: 90
+PRED: cook and stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: beef is completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: beef is completely browned 
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain grease from skillet .
+PREDID: 150
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 5
+SENT: I would transfer meat mixture to a slow cooker ;
+PREDID: 173
+PRED: transfer
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 6
+SENT: I would stir stewed tomatoes , tomato sauce , tomato paste , garlic powder , the oregano , the salt , and pepper into the meat mixture .
+PREDID: 206
+PRED: stir
+   DOBJ: stewed tomatoes , tomato sauce , tomato paste , garlic powder , the oregano , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN: stewed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+
+
+SENTID: 7
+SENT: I would cook mixture in slow cooker on Low for 2 hours .
+PREDID: 303
+PRED: cook
+   DOBJ: mixture in slow cooker
+      NON-INGREDIENT SPAN: mixture in slow cooker
+   PARG: low for 2 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 2 hours
+
+
+SENTID: 8
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 341
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would cook lasagna noodles in boiling water until cooked through but firm to the bite , about 8 minutes ;
+PREDID: 383
+PRED: cook
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water
+   PARG: cooked through but firm to the bite , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 10
+SENT: I would drain .
+PREDID: 464
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 470
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 12
+SENT: I would spread a thin layer of the sauce from the meat mixture into the bottom of a baking dish .
+PREDID: 508
+PRED: spread
+   DOBJ: a thin layer of the sauce from the meat mixture
+      NON-INGREDIENT SPAN: a thin layer of the sauce from the meat mixture
+   PARG: the bottom of a baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a baking dish
+
+
+SENTID: 13
+SENT: I would layer about 1/3 of the noodles into the bottom of the dish ;
+PREDID: 579
+PRED: layer
+   DOBJ: about 1/3 of the noodles
+      NON-INGREDIENT SPAN: about 1/3 of the noodles
+   PARG: the bottom of the dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the dish
+
+
+SENTID: 14
+SENT: I would top with about 1?1/3 cup mozzarella cheese , 2/3 cup cottage cheese , 3 slices white American cheese , and 4 teaspoons grated parmesan cheese .
+PREDID: 627
+PRED: top
+   DOBJ: NULL
+   PARG: about 1?1/3 cup mozzarella cheese , 2/3 cup cottage cheese , 3 slices white american cheese , 4 teaspoons grated parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  3 slices white american cheese 
+         INGREDIENTS: slices white American cheese
+      INGREDIENT SPAN:  2/3 cup cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN: about 1?1/3 cup mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  4 teaspoons grated parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 15
+SENT: I would spread about 1/3 of the meat mixture over the cheese layer .
+PREDID: 745
+PRED: spread
+   DOBJ: about 1/3 of the meat mixture
+      NON-INGREDIENT SPAN: about 1/3 of the meat mixture
+   PARG: the cheese layer
+     PREP: over
+      INGREDIENT SPAN: the cheese layer
+         INGREDIENTS: cottage cheese
+
+
+SENTID: 16
+SENT: I would repeat layers twice more .
+PREDID: 794
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice more
+      NON-INGREDIENT SPAN: twice more
+
+
+SENTID: 17
+SENT: I would bake in preheated oven until the cheese melts throughout the lasagna , about 30 minutes .
+PREDID: 816
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the cheese melts throughout the lasagna , about 30 minutes
+     PREP: until
+      INGREDIENT SPAN: the cheese melts throughout the lasagna 
+         INGREDIENTS: slices white American cheese
+      NON-INGREDIENT SPAN:  about 30 minutes
+
+
+SENTID: 18
+SENT: I would let cool 10 minutes before cutting to serve .
+PREDID: 890
+PRED: let
+   DOBJ: NULL
+   PARG: cutting to serve
+     PREP: before
+      NON-INGREDIENT SPAN: cutting to serve
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

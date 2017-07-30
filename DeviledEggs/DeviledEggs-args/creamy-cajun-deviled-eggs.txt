@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would place eggs into a saucepan , cover with cold water , and place over high heat .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: large eggs
+   PARG: a saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 45
+PRED: place
+   DOBJ: NULL
+   PARG: high heat
+     PREP: over
+      NON-INGREDIENT SPAN: high heat
+
+
+SENTID: 1
+SENT: When water is boiling , cover saucepan with a lid , reduce heat to low , and simmer for 18 minutes .
+PREDID: 82
+PRED: cover
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+   OARG: when water is boiling
+      NON-INGREDIENT SPAN: when water is boiling
+
+PREDID: 104
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 123
+PRED: simmer
+   DOBJ: NULL
+   PARG: 18 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 18 minutes
+
+
+SENTID: 2
+SENT: I would remove from heat and cool eggs under cold running water until eggs can be handled .
+PREDID: 142
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 159
+PRED: cool
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+   PARG: eggs can be handled
+     PREP: until
+      NON-INGREDIENT SPAN: eggs can be handled
+
+
+SENTID: 3
+SENT: I would peel eggs .
+PREDID: 210
+PRED: peel
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+
+
+SENTID: 4
+SENT: I would cut eggs in half lengthwise and scoop yolks into a mixing bowl .
+PREDID: 219
+PRED: cut
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 245
+PRED: scoop
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 5
+SENT: I would beat yolks , cream cheese , creamy salad dressing , pickle relish , hot sauce , the salt , and black pepper until mixture is creamy and smooth .
+PREDID: 271
+PRED: beat
+   DOBJ: yolks , cream cheese , creamy salad dressing , pickle relish , hot sauce , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: ounce package cream cheese room temperature
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN:  creamy salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip needed
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: yolks 
+   PARG: mixture is creamy, smooth
+     PREP: until
+      NON-INGREDIENT SPAN:  smooth
+      NON-INGREDIENT SPAN: mixture is creamy
+
+
+SENTID: 6
+SENT: I would spoon yolk mixture into egg white halves .
+PREDID: 384
+PRED: spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg white halves
+
+
+SENTID: 7
+SENT: I would sprinkle each deviled egg half lightly with Cajun seasoning .
+PREDID: 419
+PRED: sprinkle
+   DOBJ: each deviled egg half
+      NON-INGREDIENT SPAN: each deviled egg half
+   PARG: cajun seasoning
+     PREP: with
+      INGREDIENT SPAN: cajun seasoning
+         INGREDIENTS: Cajun seasoning taste
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: I would chill before serving .
+PREDID: 471
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

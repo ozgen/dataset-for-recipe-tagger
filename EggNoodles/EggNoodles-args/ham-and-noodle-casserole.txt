@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2-quart casserole .
+PREDID: 40
+PRED: grease
+   DOBJ: a 2-quart casserole
+      NON-INGREDIENT SPAN: a 2-quart casserole
+
+
+SENTID: 2
+SENT: I would bring water to a full rolling boil in a pot .
+PREDID: 64
+PRED: bring
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: a full rolling boil in a pot
+     PREP: to
+      NON-INGREDIENT SPAN: a full rolling boil in a pot
+
+
+SENTID: 3
+SENT: .
+
+SENTID: 4
+SENT: I would cook the egg noodles in the boiling water , stirring occasionally , for 3 minutes ;
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+   PARG: the egg noodles in the boiling water , stirring occasionally , for 3 minutes
+     PREP: for
+      INGREDIENT SPAN: the egg noodles in the boiling water 
+         INGREDIENTS: uncooked egg noodles
+      NON-INGREDIENT SPAN:  for 3 minutes
+      NON-INGREDIENT SPAN:  stirring occasionally 
+
+
+SENTID: 5
+SENT: I would remove from heat , cover , and let stand until the noodles are tender , about 10 minutes .
+PREDID: 167
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 191
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: the noodles are tender , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the noodles are tender 
+
+
+SENTID: 6
+SENT: I would drain .
+PREDID: 239
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would stir the noodles , the onion , sour cream , chicken soup , the ham , and Swiss cheese together in a large bowl .
+PREDID: 245
+PRED: stir
+   DOBJ: the noodles , the onion , sour cream , chicken soup , the ham , Swiss cheese
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  chicken soup 
+         INGREDIENTS: ounce condensed cream chicken soup
+      INGREDIENT SPAN:  Swiss cheese
+         INGREDIENTS: shredded Swiss cheese
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: diced cooked ham
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN: the noodles 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 327
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 9
+SENT: I would spoon into the prepared casserole .
+PREDID: 351
+PRED: spoon
+   DOBJ: NULL
+   PARG: the prepared casserole
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared casserole
+
+
+SENTID: 10
+SENT: I would sprinkle the top with bread crumbs .
+PREDID: 381
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until the casserole is bubbling and the bread crumbs have browned , about 40 minutes .
+PREDID: 411
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is bubbling
+   OARG: the bread crumbs have browned , about 40 minutes
+      NON-INGREDIENT SPAN: the bread crumbs have browned 
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+

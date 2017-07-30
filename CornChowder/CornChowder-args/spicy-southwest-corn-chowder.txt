@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: I would heat oil in large saucepan over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: large saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large saucepan over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion , jalapeno peppers , and garlic in the hot oil until the onion is tender , 5 to 7 minutes ;
+PREDID: 42
+PRED: cook and stir
+   DOBJ: onion , jalapeno peppers , garlic
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: cayenne pepper taste
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the hot oil
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil
+   PARG: the onion is tender , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: the onion is tender 
+
+
+SENTID: 2
+SENT: I would season with cumin and cayenne pepper .
+PREDID: 129
+PRED: season
+   DOBJ: NULL
+   PARG: cumin, cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: jalapeno peppers chopped
+      INGREDIENT SPAN: cumin
+         INGREDIENTS: ground cumin
+
+
+SENTID: 3
+SENT: I would add corn , chicken broth , and diced chicken .
+PREDID: 161
+PRED: add
+   DOBJ: corn , chicken broth , diced chicken
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  diced chicken
+         INGREDIENTS: skinless boneless chicken breast cut small cubes
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: ounce whole kernel corn drained
+
+
+SENTID: 4
+SENT: I would bring the soup to a boil .
+PREDID: 198
+PRED: bring
+   DOBJ: the soup
+      NON-INGREDIENT SPAN: the soup
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat to low , place a cover on the saucepan , and cook at a simmer until the chicken is cooked through , about 15 minutes .
+PREDID: 218
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 234
+PRED: place
+   DOBJ: a cover
+      NON-INGREDIENT SPAN: a cover
+   PARG: the saucepan
+     PREP: on
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 262
+PRED: cook
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: the chicken is cooked through , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the chicken is cooked through 
+
+
+SENTID: 6
+SENT: I would remove saucepan from heat and let soup cool .
+PREDID: 321
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 346
+PRED: let
+   DOBJ: soup cool
+      NON-INGREDIENT SPAN: soup cool
+
+
+SENTID: 7
+SENT: I would pour soup into a blender no more than half full .
+PREDID: 358
+PRED: pour
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   PARG: a blender no more than half
+     PREP: into
+      NON-INGREDIENT SPAN: a blender no more than half
+   OARG: full
+      NON-INGREDIENT SPAN: full
+
+
+SENTID: 8
+SENT: I would cover and hold lid down ;
+PREDID: 397
+PRED: cover and hold
+   DOBJ: lid
+      NON-INGREDIENT SPAN: lid
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 9
+SENT: I would pulse a few times before leaving on to blend .
+PREDID: 417
+PRED: pulse
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   PARG: leaving on to blend
+     PREP: before
+      NON-INGREDIENT SPAN: leaving on to blend
+
+
+SENTID: 10
+SENT: I would puree in batches until smooth .
+PREDID: 454
+PRED: puree
+   DOBJ: NULL
+   PARG: batches
+     PREP: in
+      NON-INGREDIENT SPAN: batches
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 11
+SENT: I would return pureed soup to the saucepan .
+PREDID: 480
+PRED: return
+   DOBJ: pureed soup
+      NON-INGREDIENT SPAN: pureed soup
+   PARG: the saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: the saucepan
+
+
+SENTID: 12
+SENT: I would place saucepan over low heat ;
+PREDID: 510
+PRED: place
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+
+
+SENTID: 13
+SENT: I would warm soup , stirring occasionally , until hot , about 5 minutes .
+PREDID: 535
+PRED: warm
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   OARG: stirring occasionally , until hot , about 5 minutes
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  until hot 
+
+
+SENTID: 14
+SENT: I would garnish servings with lime wedges , the cilantro , and sour cream .
+PREDID: 588
+PRED: garnish
+   DOBJ: servings
+      NON-INGREDIENT SPAN: servings
+   PARG: lime wedges , the cilantro , sour cream
+     PREP: with
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN: lime wedges 
+         INGREDIENTS: lime cut wedges
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+
+

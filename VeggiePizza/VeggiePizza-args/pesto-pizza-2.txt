@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would spread pesto on pizza crust .
+PREDID: 38
+PRED: spread
+   DOBJ: pesto
+      INGREDIENT SPAN: pesto
+         INGREDIENTS: pesto
+   PARG: pizza crust
+     PREP: on
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: inch prebaked pizza crust
+
+
+SENTID: 2
+SENT: I would top with tomatoes , bell peppers , the olives , red onions , artichoke hearts and feta cheese .
+PREDID: 62
+PRED: top
+   DOBJ: NULL
+   PARG: tomatoes , bell peppers , the olives , red onions , artichoke hearts, feta cheese
+     PREP: with
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  red onions 
+         INGREDIENTS: small red onion chopped
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce chopped black olives drained
+      INGREDIENT SPAN:  artichoke hearts
+         INGREDIENTS: ounce artichoke hearts drained sliced
+      NON-INGREDIENT SPAN: tomatoes 
+
+
+SENTID: 3
+SENT: I would bake for 8 to 10 minutes , or until cheese is melted and browned .
+PREDID: 136
+PRED: bake
+   DOBJ: NULL
+   PARG: 8 to 10 minutes , or until cheese is melted, browned
+     PREP: for
+      NON-INGREDIENT SPAN:  browned
+      NON-INGREDIENT SPAN:  or until cheese is melted
+      NON-INGREDIENT SPAN: 8 to 10 minutes 
+
+

@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix the ground beef , the eggs , sour cream , Worcestershire sauce , dry onion soup mix , Parmesan cheese , salad dressing , bread crumbs , and spinach .
+PREDID: 51
+PRED: mix
+   DOBJ: the ground beef , the eggs , sour cream , Worcestershire sauce , dry onion soup mix , Parmesan cheese , salad dressing , bread crumbs , spinach
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: chopped fresh spinach
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: Italian salad dressing
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  dry onion soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would transfer to a 5x9 inch pan , and cover with aluminum foil .
+PREDID: 171
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 5x9 inch pan
+     PREP: to
+      NON-INGREDIENT SPAN: a 5x9 inch pan
+
+PREDID: 196
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 3
+SENT: I would bake 45 minutes in the preheated oven .
+PREDID: 218
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 4
+SENT: I would remove foil , and continue the baking 15 minutes , to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 250
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 264
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 15 minutes , to a minimum internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN:  to a minimum internal temperature of 160 degrees f -lrb- 70 degrees c
+      NON-INGREDIENT SPAN: the baking 15 minutes 
+
+
+SENTID: 5
+SENT: I would let stand 5 minutes before slicing .
+PREDID: 343
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

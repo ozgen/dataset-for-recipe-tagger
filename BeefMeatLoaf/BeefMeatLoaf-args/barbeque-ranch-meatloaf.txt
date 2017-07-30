@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix sausage and ground sirloin in a large bowl until thoroughly combined ;
+PREDID: 38
+PRED: mix
+   DOBJ: sausage, ground sirloin in a large bowl
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: bulk pork sausage
+      INGREDIENT SPAN:  ground sirloin in a large bowl
+         INGREDIENTS: ground beef sirloin
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 2
+SENT: I would add eggs , bread crumbs , the onion , and ranch dressing ;
+PREDID: 100
+PRED: add
+   DOBJ: eggs , bread crumbs , the onion , ranch dressing
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  ranch dressing
+         INGREDIENTS: reducedfat ranch dressing
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 143
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would form into a loaf and place into the center of a 9x13-inch baking dish .
+PREDID: 151
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 167
+PRED: place
+   DOBJ: NULL
+   PARG: the center of a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the center of a 9x13-inch baking dish
+
+
+SENTID: 5
+SENT: I would arrange the fingerling potatoes and baby carrots around meatloaf and cover dish with foil .
+PREDID: 208
+PRED: arrange
+   DOBJ: the fingerling potatoes, baby carrots
+      INGREDIENT SPAN:  baby carrots
+         INGREDIENTS: ounce package baby carrots
+      INGREDIENT SPAN: the fingerling potatoes
+         INGREDIENTS: fingerling potatoes
+   PARG: meatloaf
+     PREP: around
+      NON-INGREDIENT SPAN: meatloaf
+
+PREDID: 267
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 1 hour ;
+PREDID: 282
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour
+
+
+SENTID: 7
+SENT: I would remove foil and brush meatloaf with barbeque sauce .
+PREDID: 313
+PRED: remove
+   DOBJ: foil, brush meatloaf
+      NON-INGREDIENT SPAN: foil
+      NON-INGREDIENT SPAN:  brush meatloaf
+   PARG: barbeque sauce
+     PREP: with
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: barbeque sauce
+
+
+SENTID: 8
+SENT: I would bake uncovered until an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 30 more minutes .
+
+SENTID: 9
+SENT: I would let meatloaf rest 5 to 10 minutes before slicing .
+PREDID: 489
+PRED: let
+   DOBJ: NULL
+   PARG: meatloaf rest 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: meatloaf rest 5 to 10 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

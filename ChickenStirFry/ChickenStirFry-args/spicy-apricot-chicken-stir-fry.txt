@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would stir together apricot juice , soy sauce , the cornstarch , garlic powder , onion powder , and red pepper flakes in a small bowl until the cornstarch has dissolved ;
+PREDID: 0
+PRED: stir
+   DOBJ: apricot juice , soy sauce , the cornstarch , garlic powder , onion powder , red pepper flakes in a small bowl
+      INGREDIENT SPAN:  red pepper flakes in a small bowl
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN: apricot juice 
+         INGREDIENTS: ounce apricot halves drained chopped juice reserved
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: green onion sliced
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: garlic powder
+   PARG: the cornstarch has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: the cornstarch has dissolved
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 131
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat vegetable oil in a wok over high heat .
+PREDID: 140
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok over high heat
+
+
+SENTID: 3
+SENT: I would stir in ginger , and cook until it begins turns golden brown , about 10 seconds .
+
+SENTID: 4
+SENT: I would add the chicken ;
+PREDID: 240
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast meat cut strips
+
+
+SENTID: 5
+SENT: I would cook and stir until the chicken turns white and begins to firm .
+PREDID: 254
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken turns white, begins to firm
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken turns white
+      NON-INGREDIENT SPAN:  begins to firm
+
+
+SENTID: 6
+SENT: I would stir in the stir-fry vegetables , and continue the cooking until the chicken is no longer pink in the center and the vegetables are hot .
+PREDID: 306
+PRED: stir
+   DOBJ: NULL
+   PARG: the stir-fry vegetables
+     PREP: in
+      INGREDIENT SPAN: the stir-fry vegetables
+         INGREDIENTS: ounce package frozen stirfry vegetables thawed
+   OARG: the vegetables are hot
+      NON-INGREDIENT SPAN: the vegetables are hot
+
+PREDID: 337
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: the chicken is no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is no longer pink in the center
+
+
+SENTID: 7
+SENT: I would stir in the apricots , pineapple chunks , and apricot juice mixture .
+PREDID: 415
+PRED: stir
+   DOBJ: NULL
+   PARG: the apricots , pineapple chunks , apricot juice mixture
+     PREP: in
+      INGREDIENT SPAN:  pineapple chunks 
+         INGREDIENTS: ounce pineapple chunks drained
+      NON-INGREDIENT SPAN:  apricot juice mixture
+      NON-INGREDIENT SPAN: the apricots 
+
+
+SENTID: 8
+SENT: Bring to a boil , I would stirring constantly ;
+PREDID: 485
+PRED: stirring
+   DOBJ: NULL
+   OARG: bring to a boil
+      NON-INGREDIENT SPAN: bring to a boil
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 9
+SENT: I would cook until the sauce thickens and clears , about 1 minute .
+PREDID: 504
+PRED: cook
+   DOBJ: NULL
+   PARG: the sauce thickens, clears
+     PREP: until
+      NON-INGREDIENT SPAN:  clears
+      NON-INGREDIENT SPAN: the sauce thickens
+   PARG: 1 minute
+     PREP: about
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 10
+SENT: I would stir in green onion before serving .
+PREDID: 552
+PRED: stir
+   DOBJ: NULL
+   PARG: green onion
+     PREP: in
+      NON-INGREDIENT SPAN: green onion
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would thoroughly mix together the ground beef , half of one can of tomato soup , instant rice , the onion , garlic , Italian seasoning , the egg , and green bell pepper ;
+PREDID: 61
+PRED: mix
+   DOBJ: the ground beef , half of one can of tomato soup , instant rice , the onion , garlic , Italian seasoning , the egg , green bell pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  instant rice 
+         INGREDIENTS: uncooked instant rice
+      INGREDIENT SPAN:  half of one can of tomato soup 
+         INGREDIENTS: ounce condensed tomato soup divided
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with salt and black pepper .
+PREDID: 176
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 3
+SENT: I would reserve the remaining tomato soup .
+PREDID: 205
+PRED: reserve
+   DOBJ: the remaining tomato soup
+      INGREDIENT SPAN: the remaining tomato soup
+         INGREDIENTS: ounce condensed tomato soup divided
+
+
+SENTID: 4
+SENT: I would form the meat mixture into a loaf , and place into a 9x13-inch baking dish .
+PREDID: 232
+PRED: form
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 263
+PRED: place
+   DOBJ: NULL
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 5
+SENT: I would bake the loaf in the preheated oven until browned and an instant-read meat thermometer reads 160 degrees F -LRB- 70 degrees C -RRB- , about 30 minutes .
+
+SENTID: 6
+SENT: I would remove from oven , and cover the loaf with the remaining 1?1/2 cans of tomato soup .
+PREDID: 410
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 428
+PRED: cover
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: the remaining 1?1/2 cans of tomato soup
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining 1?1/2 cans of tomato soup
+
+
+SENTID: 7
+SENT: I would return to oven , and bake until the soup is hot and beginning to form a glaze on the meat , about 10 minutes .
+PREDID: 478
+PRED: return
+   DOBJ: NULL
+   PARG: oven
+     PREP: to
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 494
+PRED: bake
+   DOBJ: NULL
+   PARG: the soup is hot, beginning
+     PREP: until
+      NON-INGREDIENT SPAN: the soup is hot
+      NON-INGREDIENT SPAN:  beginning
+
+PREDID: 529
+PRED: form
+   DOBJ: a glaze
+      NON-INGREDIENT SPAN: a glaze
+   PARG: the meat , about 10 minutes
+     PREP: on
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the meat 
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+

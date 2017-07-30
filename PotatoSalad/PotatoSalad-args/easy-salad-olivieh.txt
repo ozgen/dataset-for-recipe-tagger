@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: large potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil ,
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low , cover , and simmer until tender enough to pierce with a fork , about 30 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 95
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+   OARG: enough
+      NON-INGREDIENT SPAN: enough
+
+
+SENTID: 3
+SENT: I would drain and allow cool ,
+PREDID: 151
+PRED: drain and allow
+   DOBJ: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would peel and dice .
+PREDID: 169
+PRED: peel and dice
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would place the diced potatoes into a large mixing bowl and refrigerate until cold .
+PREDID: 181
+PRED: place
+   DOBJ: the diced potatoes
+      NON-INGREDIENT SPAN: the diced potatoes
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+PREDID: 225
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 6
+SENT: I would once cold , fold in the mayonnaise , the celery , the eggs , the chicken , the mustard , the olives , the salt , and pickles .
+PREDID: 255
+PRED: fold
+   DOBJ: NULL
+   PARG: the mayonnaise , the celery , the eggs , the chicken , the mustard , the olives , the salt , pickles
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard
+      INGREDIENT SPAN:  pickles
+         INGREDIENTS: large dill pickles chopped
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: chopped pitted green olives
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: whole rotisserie roast chicken pulled diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery diced
+   OARG: once
+      NON-INGREDIENT SPAN: once
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 7
+SENT: I would refrigerate 2 hours before serving .
+PREDID: 326
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

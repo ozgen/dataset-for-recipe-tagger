@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Mix the chicken , I would 1 tablespoon of cornstarch , the salt , the pepper , and 1 pinch of five-spice powder together in a bowl until the chicken is coated , and set aside .
+
+SENTID: 1
+SENT: I would whisk together water , soy sauce , brown sugar , sesame oil , 1 tablespoon of cornstarch , rice vinegar , and 1 pinch of five-spice powder in a bowl until the mixture is smooth , and set aside .
+PREDID: 0
+PRED: whisk
+   DOBJ: water , soy sauce , brown sugar , sesame oil , 1 tablespoon of cornstarch , rice vinegar , 1 pinch of five-spice powder in a bowl
+      INGREDIENT SPAN:  1 pinch of five-spice powder in a bowl
+         INGREDIENTS: Chinese fivespice powder
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  sesame 
+         INGREDIENTS: Asian toasted sesame oil
+      INGREDIENT SPAN:  1 tablespoon of cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: vegetable oil divided
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+   PARG: the mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 146
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would place 1 tablespoon of oil in a wok or large skillet over medium-high heat , and cook and stir the chicken mixture until the chicken is browned , about 5 minutes .
+PREDID: 155
+PRED: place
+   DOBJ: 1 tablespoon of oil
+      NON-INGREDIENT SPAN: 1 tablespoon of oil
+   PARG: a wok or large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 219
+PRED: cook and stir
+   DOBJ: the chicken mixture
+      INGREDIENT SPAN: the chicken mixture
+         INGREDIENTS: skinless boneless chicken breast halves cut cubes
+   PARG: the chicken is browned , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is browned 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would remove the chicken from the wok , and set aside .
+PREDID: 286
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the wok
+     PREP: from
+      NON-INGREDIENT SPAN: the wok
+
+PREDID: 316
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would pour 1 more tablespoon of oil into the heated wok , and stir in the onion , the celery , the garlic , and red pepper flakes .
+PREDID: 325
+PRED: pour
+   DOBJ: 1 more tablespoon of oil
+      NON-INGREDIENT SPAN: 1 more tablespoon of oil
+   PARG: the heated wok
+     PREP: into
+      NON-INGREDIENT SPAN: the heated wok
+
+PREDID: 369
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the celery , the garlic , red pepper flakes
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery diced
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes taste
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 5
+SENT: I would cook and stir the vegetables until they start to become tender , about 3 minutes .
+PREDID: 417
+PRED: cook and stir
+   DOBJ: the vegetables
+      NON-INGREDIENT SPAN: the vegetables
+   PARG: they start
+     PREP: until
+      NON-INGREDIENT SPAN: they start
+
+
+SENTID: 6
+SENT: I would pour in the cornstarch mixture , and cook and stir until the sauce thickens , about 1 minute .
+PREDID: 484
+PRED: pour
+   DOBJ: NULL
+   PARG: the cornstarch mixture
+     PREP: in
+      INGREDIENT SPAN: the cornstarch mixture
+         INGREDIENTS: cornstarch
+
+PREDID: 514
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the sauce thickens , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce thickens 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 7
+SENT: I would remove the wok from the heat , lightly stir in the cooked chicken and peanuts , and serve .
+PREDID: 560
+PRED: remove
+   DOBJ: the wok
+      NON-INGREDIENT SPAN: the wok
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 591
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked chicken, peanuts
+     PREP: in
+      INGREDIENT SPAN:  peanuts
+         INGREDIENTS: roasted peanuts taste
+      NON-INGREDIENT SPAN: the cooked chicken
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

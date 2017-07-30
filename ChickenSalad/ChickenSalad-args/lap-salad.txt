@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: I would combine chicken , the nuts , the onion , the sugar , sesame seeds , the noodles and their flavor packet and cabbage in large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken , the nuts , the onion , the sugar , sesame seeds , the noodles, their flavor packet, cabbage
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  cabbage
+         INGREDIENTS: medium head cabbage shredded
+      INGREDIENT SPAN:  the noodles
+         INGREDIENTS: ounce package ramen noodles crushed
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: boneless chicken breast halves cooked diced
+      INGREDIENT SPAN:  sesame seeds 
+         INGREDIENTS: sesame seeds
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  their flavor packet
+      NON-INGREDIENT SPAN:  the nuts 
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 1
+SENT: In small bowl combine oil , I would the salt , the pepper and vinegar .
+
+SENTID: 2
+SENT: I would pour oil mixture over noodle mixture .
+PREDID: 93
+PRED: pour
+   DOBJ: oil mixture
+      INGREDIENT SPAN: oil mixture
+         INGREDIENTS: vegetable oil
+   PARG: noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: noodle mixture
+
+
+SENTID: 3
+SENT: I would let the stand overnight in refrigerator and serve .
+PREDID: 125
+PRED: let
+   DOBJ: the stand
+      NON-INGREDIENT SPAN: the stand
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

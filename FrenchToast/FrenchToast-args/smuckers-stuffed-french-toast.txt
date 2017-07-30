@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would heat oven to 225 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 225 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 225 degrees f.
+
+
+SENTID: 1
+SENT: I would spray griddle with no-stick cooking spray .
+PREDID: 27
+PRED: griddle
+   DOBJ: NULL
+   PARG: no-stick cooking spray
+     PREP: with
+      INGREDIENT SPAN: no-stick cooking spray
+         INGREDIENTS: serving Crisco Original NoStick Cooking Spray
+   OARG: spray
+      NON-INGREDIENT SPAN: spray
+
+
+SENTID: 2
+SENT: I would blend together filling ingredients in small bowl until light and fluffy .
+PREDID: 59
+PRED: blend
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: filling ingredients in small bowl until light, fluffy
+      NON-INGREDIENT SPAN: filling ingredients in small bowl until light
+      NON-INGREDIENT SPAN:  fluffy
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 121
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would cut bread into 10 to 12 slices , approximately 1-1/2 inch thick .
+PREDID: 130
+PRED: cut
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: pound loaf French bread
+   PARG: 10 to 12 slices , approximately 1-1/2 inch thick
+     PREP: into
+      NON-INGREDIENT SPAN:  approximately 1-1/2 inch thick
+      NON-INGREDIENT SPAN: 10 to 12 slices 
+
+
+SENTID: 5
+SENT: I would cut a small slice along the top of each piece , creating a pocket in the middle .
+PREDID: 183
+PRED: cut
+   DOBJ: a small slice
+      NON-INGREDIENT SPAN: a small slice
+   PARG: the top of each piece
+     PREP: along
+      NON-INGREDIENT SPAN: the top of each piece
+   OARG: creating a pocket in the middle
+      NON-INGREDIENT SPAN: creating a pocket in the middle
+
+
+SENTID: 6
+SENT: I would fill with a heaping tablespoon of filling .
+PREDID: 247
+PRED: fill
+   DOBJ: NULL
+   PARG: a heaping tablespoon of filling
+     PREP: with
+      NON-INGREDIENT SPAN: a heaping tablespoon of filling
+
+
+SENTID: 7
+SENT: I would mix together the eggs , the half-and-half , the vanilla and nutmeg .
+PREDID: 283
+PRED: mix
+   DOBJ: the eggs , the half-and-half , the vanilla, nutmeg
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: large eggs beaten
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: nutmeg
+      NON-INGREDIENT SPAN:  the half-and-half 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would dip bread in egg mixture and cook on prepared griddle until both sides are golden brown , being careful to keep the filling in bread pocket .
+PREDID: 333
+PRED: dip
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: egg mixture
+
+PREDID: 356
+PRED: cook
+   DOBJ: NULL
+   PARG: prepared griddle
+     PREP: on
+      NON-INGREDIENT SPAN: prepared griddle
+   PARG: both sides are golden brown , being careful
+     PREP: until
+      NON-INGREDIENT SPAN: both sides are golden brown 
+      NON-INGREDIENT SPAN:  being careful
+
+PREDID: 420
+PRED: keep
+   DOBJ: the filling in bread pocket
+      NON-INGREDIENT SPAN: the filling in bread pocket
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 9
+SENT: I would place cooked slices on baking sheet and place in oven to keep warm .
+PREDID: 445
+PRED: place
+   DOBJ: cooked slices
+      NON-INGREDIENT SPAN: cooked slices
+   PARG: baking sheet, place
+     PREP: on
+      NON-INGREDIENT SPAN: baking sheet
+      NON-INGREDIENT SPAN:  place
+   PARG: oven
+     PREP: in
+      NON-INGREDIENT SPAN: oven
+   OARG: to keep warm
+      NON-INGREDIENT SPAN: to keep warm
+
+
+SENTID: 10
+SENT: I would heat preserves in small saucepan until melted .
+PREDID: 500
+PRED: heat
+   DOBJ: preserves in small saucepan
+      INGREDIENT SPAN: preserves in small saucepan
+         INGREDIENTS: Smucker Apricot Preserves
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 11
+SENT: I would stir in orange juice and almond extract .
+PREDID: 540
+PRED: stir
+   DOBJ: NULL
+   PARG: orange juice, almond extract
+     PREP: in
+      INGREDIENT SPAN:  almond extract
+         INGREDIENTS: almond extract
+      INGREDIENT SPAN: orange juice
+         INGREDIENTS: orange juice
+
+
+SENTID: 12
+SENT: To serve , drizzle over French toast .
+PREDID: 576
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 582
+PRED: drizzle
+   DOBJ: NULL
+   PARG: french toast
+     PREP: over
+      NON-INGREDIENT SPAN: french toast
+
+

@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would blend together the cream cheese , 1 egg , 1/2 cup sugar , the salt and vanilla .
+PREDID: 38
+PRED: blend
+   DOBJ: the cream cheese , 1 egg , 1/2 cup sugar , the salt, vanilla
+      INGREDIENT SPAN:  1 egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1/2 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would gently stir in pineapple , pour into pie crust .
+PREDID: 104
+PRED: stir
+   DOBJ: NULL
+   PARG: pineapple
+     PREP: in
+      INGREDIENT SPAN: pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 120
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 3
+SENT: I would sprinkle pecans over cream cheese mixture .
+PREDID: 137
+PRED: sprinkle
+   DOBJ: pecans
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+   PARG: cream cheese mixture
+     PREP: over
+      NON-INGREDIENT SPAN: cream cheese mixture
+
+
+SENTID: 4
+SENT: I would blend together the 3 eggs , corn syrup , 1/4 cup sugar and vanilla .
+PREDID: 174
+PRED: blend
+   DOBJ: the 3 eggs , corn syrup , 1/4 cup sugar, vanilla
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN: the 3 eggs 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  1/4 cup sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  vanilla
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour over pecan layer .
+PREDID: 228
+PRED: pour
+   DOBJ: NULL
+   PARG: pecan layer
+     PREP: over
+      NON-INGREDIENT SPAN: pecan layer
+
+
+SENTID: 6
+SENT: I would place on lower rack of oven and bake for 40 to 45 minutes or until center is firm .
+PREDID: 247
+PRED: place
+   DOBJ: NULL
+   PARG: lower rack of oven
+     PREP: on
+      NON-INGREDIENT SPAN: lower rack of oven
+
+PREDID: 272
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 to 45 minutes or until center is firm
+     PREP: for
+      NON-INGREDIENT SPAN: 40 to 45 minutes or until center is firm
+
+

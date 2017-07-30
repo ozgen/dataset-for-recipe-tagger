@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: I would combine broccoli , the chicken , the walnuts , and green onions in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: broccoli , the chicken , the walnuts , green onions in a large bowl
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  green onions in a large bowl
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cooked skinless boneless chicken breast halves cubed
+
+
+SENTID: 1
+SENT: I would whisk mayonnaise , the vinegar , and sugar together in a bowl until well blended .
+PREDID: 59
+PRED: whisk
+   DOBJ: mayonnaise , the vinegar , sugar
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour mayonnaise dressing over broccoli mixture ;
+PREDID: 123
+PRED: pour
+   DOBJ: mayonnaise dressing over broccoli mixture
+      NON-INGREDIENT SPAN: mayonnaise dressing over broccoli mixture
+
+
+SENTID: 3
+SENT: I would toss to coat .
+PREDID: 165
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would cover and refrigerate until chilled , if desired .
+PREDID: 176
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 5
+SENT: I would sprinkle with crumbled bacon to serve .
+PREDID: 218
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crumbled bacon
+     PREP: with
+      INGREDIENT SPAN: crumbled bacon
+         INGREDIENTS: crumbled cooked bacon
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

@@ -1,0 +1,43 @@
+digraph recipe {
+E0[label="brown
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="bring
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="reduce
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="simmer
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="top
+6", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: beef, onion", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a medium stock pot", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: about 10 minutes", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="grease"]
+E0 -> E1 [label="IMPLICIT PREP"]
+O1_0_0[label="OTHER: if needed", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+D2_ing[label="DOBJ: water, taco seasoning, tomato sauce, beans, tomatoes, corn", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: to boil", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+D4_0[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: for 5 minutes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: with sour cream, corn chips, cheese, olives", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

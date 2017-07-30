@@ -1,0 +1,18 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="toss
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="serve
+2", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: mandarin oranges, chopped celery, seedless green grapes, creamy cucumber salad dressing, chopped pecans, chicken chunks", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a salad bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="!"]
+P1_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E2 -> EOR
+}

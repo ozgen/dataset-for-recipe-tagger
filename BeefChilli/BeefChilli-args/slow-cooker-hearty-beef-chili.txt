@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would brown meat ;
+PREDID: 0
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 10
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add to slow cooker with remaining ingredients except cheese ;
+PREDID: 16
+PRED: add
+   DOBJ: NULL
+   OARG: to slow cooker with remaining ingredients except cheese
+      INGREDIENT SPAN: to slow cooker with remaining ingredients except cheese
+         INGREDIENTS: KRAFT Tex Mex Shredded Cheese
+
+
+SENTID: 3
+SENT: I would stir .
+PREDID: 68
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cover with lid .
+PREDID: 73
+PRED: cover
+   DOBJ: NULL
+   PARG: lid
+     PREP: with
+      NON-INGREDIENT SPAN: lid
+
+
+SENTID: 5
+SENT: I would cook on LOW 5 to 6 hours -LRB- or on HIGH 3 to 4 hours -RRB- .
+PREDID: 86
+PRED: cook
+   DOBJ: NULL
+   PARG: low 5 to 6 hours -lrb- or on high 3 to 4 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low 5 to 6 hours -lrb- or on high 3 to 4 hours
+
+
+SENTID: 6
+SENT: I would stir just before serving .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 7
+SENT: I would serve topped with the cheese .
+PREDID: 146
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 151
+PRED: topped
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the cheese
+
+

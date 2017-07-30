@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would heat cheese sauce in microwave , 1 minute .
+PREDID: 131
+PRED: heat
+   DOBJ: cheese sauce
+      INGREDIENT SPAN: cheese sauce
+         INGREDIENTS: process cheese sauce
+   PARG: microwave , 1 minute
+     PREP: in
+      NON-INGREDIENT SPAN: microwave 
+      NON-INGREDIENT SPAN:  1 minute
+
+
+SENTID: 5
+SENT: In 8 x 8 inch baking dish , combine cooked pasta , cheese sauce , sliced frankfurters , the Parmesan and oregano .
+PREDID: 193
+PRED: combine
+   DOBJ: cooked pasta , cheese sauce , sliced frankfurters , the Parmesan, oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  sliced frankfurters 
+         INGREDIENTS: frankfurters sliced
+      INGREDIENT SPAN:  cheese sauce 
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  the Parmesan
+      NON-INGREDIENT SPAN: cooked pasta 
+   PARG: 8 x 8 inch
+     PREP: in
+      NON-INGREDIENT SPAN: 8 x 8 inch
+   OARG: baking dish
+      NON-INGREDIENT SPAN: baking dish
+
+
+SENTID: 6
+SENT: I would top with crumbled crackers and bake 10 minutes .
+PREDID: 255
+PRED: top
+   DOBJ: NULL
+   PARG: crumbled crackers
+     PREP: with
+      INGREDIENT SPAN: crumbled crackers
+         INGREDIENTS: buttery round crackers crushed
+
+PREDID: 281
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+

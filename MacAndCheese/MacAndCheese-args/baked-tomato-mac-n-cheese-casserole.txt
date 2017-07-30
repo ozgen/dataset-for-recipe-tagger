@@ -1,0 +1,259 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would butter a baking dish .
+PREDID: 38
+PRED: butter
+   DOBJ: a baking dish
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 56
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes ;
+PREDID: 98
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain , return macaroni to pot , and stir tomatoes into the macaroni .
+PREDID: 197
+PRED: drain and return
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: pot
+     PREP: to
+      NON-INGREDIENT SPAN: pot
+
+PREDID: 226
+PRED: stir
+   DOBJ: tomatoes
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce petite diced tomatoes
+   PARG: the macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: the macaroni
+
+
+SENTID: 5
+SENT: I would cook over medium heat until the macaroni absorbs some of the liquid from the tomatoes , about 4 minutes .
+PREDID: 254
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: the macaroni absorbs some of the liquid from the tomatoes , about 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the macaroni absorbs some of the liquid from the tomatoes 
+      NON-INGREDIENT SPAN:  about 4 minutes
+
+
+SENTID: 6
+SENT: I would remove from heat .
+PREDID: 340
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would melt butter in a large saucepan over medium-high heat .
+PREDID: 355
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium-high heat
+
+
+SENTID: 8
+SENT: I would stir flour into melted butter and cook until bubbly , 1 to 2 minutes .
+PREDID: 401
+PRED: stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: flour
+   PARG: melted butter
+     PREP: into
+      NON-INGREDIENT SPAN: melted butter
+
+PREDID: 429
+PRED: cook
+   DOBJ: NULL
+   PARG: bubbly , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 9
+SENT: I would slowly stream half-and-half and chicken broth into the butter mixture while stirring .
+PREDID: 463
+PRED: stream
+   DOBJ: half-and-half, chicken broth
+      INGREDIENT SPAN:  chicken broth
+         INGREDIENTS: chicken broth
+      NON-INGREDIENT SPAN: half-and-half
+   PARG: the butter mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the butter mixture
+   PARG: stirring
+     PREP: while
+      NON-INGREDIENT SPAN: stirring
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 10
+SENT: I would bring the mixture to a boil and continue to cook while stirring continually until thickened and bubbly , 2 to 3 minutes .
+PREDID: 531
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 556
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook while stirring continually until thickened, bubbly , 2 to 3 minutes
+      NON-INGREDIENT SPAN: to cook while stirring continually until thickened
+      NON-INGREDIENT SPAN:  bubbly 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 11
+SENT: I would remove saucepan from heat .
+PREDID: 630
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 12
+SENT: I would melt mild Cheddar cheese and sharp Cheddar cheese into the butter mixture one handful at a time , stirring to incorporate each addition before adding the next .
+PREDID: 653
+PRED: melt
+   DOBJ: mild Cheddar cheese, sharp Cheddar cheese
+      INGREDIENT SPAN: mild Cheddar cheese
+         INGREDIENTS: shredded sharp white Cheddar cheese
+      INGREDIENT SPAN:  sharp Cheddar cheese
+         INGREDIENTS: shredded mild Cheddar cheese
+   PARG: the butter mixture one handful at a time , stirring to incorporate each addition before adding the next
+     PREP: into
+      NON-INGREDIENT SPAN:  stirring to incorporate each addition before adding the next
+      NON-INGREDIENT SPAN: the butter mixture one handful at a time 
+
+
+SENTID: 13
+SENT: I would season the cheese mixture with pepper and pour over the macaroni ;
+PREDID: 786
+PRED: season
+   DOBJ: the cheese mixture
+      NON-INGREDIENT SPAN: the cheese mixture
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: fresh ground black pepper taste
+
+PREDID: 821
+PRED: pour
+   DOBJ: the macaroni
+      NON-INGREDIENT SPAN: the macaroni
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 14
+SENT: I would stir to coat pasta evenly .
+PREDID: 841
+PRED: stir
+   DOBJ: NULL
+   PARG: coat pasta
+     PREP: to
+      NON-INGREDIENT SPAN: coat pasta
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 15
+SENT: I would transfer the mixture to the prepared baking dish and top with crushed crackers .
+PREDID: 863
+PRED: transfer
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+PREDID: 907
+PRED: top
+   DOBJ: NULL
+   PARG: crushed crackers
+     PREP: with
+      INGREDIENT SPAN: crushed crackers
+         INGREDIENTS: sleeve buttery round crackers such Ritz crushed
+
+
+SENTID: 16
+SENT: I would bake in preheated oven until crust is golden brown and the liquid is bubbling , 15 to 20 minutes .
+PREDID: 930
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: crust is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: crust is golden brown
+   OARG: the liquid is bubbling , 15 to 20 minutes
+      NON-INGREDIENT SPAN: the liquid is bubbling 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 17
+SENT: I would cool 10 minutes before serving .
+PREDID: 1009
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

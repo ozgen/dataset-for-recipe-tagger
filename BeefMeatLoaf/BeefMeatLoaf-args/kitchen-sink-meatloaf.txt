@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 5x9 inch loaf pan .
+PREDID: 45
+PRED: grease pan
+   DOBJ: a 5x9 inch loaf
+      NON-INGREDIENT SPAN: a 5x9 inch loaf
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a bowl , I would stir together the egg , the ketchup , barbeque sauce , steak sauce , Worcestershire sauce , brown sugar , onion , and garlic , seasoned salt , and salt and pepper .
+PREDID: 75
+PRED: stir
+   DOBJ: the egg , the ketchup , barbeque sauce , steak sauce , Worcestershire sauce , brown sugar , onion , garlic , seasoned salt , salt, pepper
+      INGREDIENT SPAN: the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  steak sauce 
+         INGREDIENTS: steak sauce
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in ground beef , bread crumbs , and Cheddar cheese .
+PREDID: 204
+PRED: mix
+   DOBJ: NULL
+   PARG: ground beef , bread crumbs , cheddar cheese
+     PREP: in
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+
+
+SENTID: 4
+SENT: I would spread into the loaf pan .
+PREDID: 249
+PRED: spread
+   DOBJ: NULL
+   PARG: the loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the loaf pan
+
+
+SENTID: 5
+SENT: I would bake 55 minutes in the preheated oven , to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 270
+PRED: bake
+   DOBJ: NULL
+   PARG: 55 minutes in the preheated oven , to a minimum internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN:  to a minimum internal temperature of 160 degrees f -lrb- 70 degrees c
+      NON-INGREDIENT SPAN: 55 minutes in the preheated oven 
+
+

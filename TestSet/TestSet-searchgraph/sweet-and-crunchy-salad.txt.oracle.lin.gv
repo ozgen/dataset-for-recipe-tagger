@@ -1,0 +1,55 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="soak
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="whisk
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="combine
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="toss
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="refrigerate
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="add
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="serving
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: packages chicken flavored ramen noodles", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="COOBJECT:in a bowl of warm water", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: for 15 minutes or until soft", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+D2_ing[label="DOBJ: vegetable oil, white wine vinegar, white sugar", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="seasoning packs"]
+O2_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="the noodles"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_1_ing[label="COOBJECT: with water chestnuts", shape=box, style=filled, fillcolor=peachpuff]
+P4_1_ing -> E4
+E4 -> E5 [label="dressing"]
+P5_0_0[label="COOBJECT:over salad", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: to coat evenly", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: for 2 to 4 hours", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+D8_ing[label="DOBJ: cashews", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

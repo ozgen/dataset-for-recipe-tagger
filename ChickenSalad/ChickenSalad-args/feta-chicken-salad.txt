@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: In a serving bowl , I would mix together the chicken , the celery , and red onion .
+PREDID: 15
+PRED: mix
+   DOBJ: the chicken , the celery , red onion
+      INGREDIENT SPAN:  red onion
+         INGREDIENTS: red onion diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: large stalks celery diced
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: diced cooked chicken
+   PARG: a serving bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a serving bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a separate bowl , I would stir together the mayonnaise , sour cream , feta cheese , and dill .
+PREDID: 72
+PRED: stir
+   DOBJ: the mayonnaise , sour cream , feta cheese , dill
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: ounce package feta cheese crumbled
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the chicken mixture , and stir to blend .
+PREDID: 127
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 156
+PRED: stir
+   DOBJ: NULL
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+
+SENTID: 3
+SENT: I would taste , and season with salt and pepper as needed .
+PREDID: 168
+PRED: taste
+   DOBJ: NULL
+   OARG: season with salt, pepper as needed
+      INGREDIENT SPAN:  pepper as needed
+         INGREDIENTS: red bell pepper seeded diced
+      INGREDIENT SPAN: season with salt
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 4
+SENT: I would serve immediately , or refrigerate until serving .
+PREDID: 209
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 228
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

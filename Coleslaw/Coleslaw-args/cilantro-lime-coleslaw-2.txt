@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: I would whisk mayonnaise , lime zest , lime juice , rice vinegar , the garlic , sweet chili sauce , and sugar in a large bowl , stirring to dissolve sugar .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , lime zest , lime juice , rice vinegar , the garlic , sweet chili sauce , sugar
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  lime zest 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  sweet chili sauce 
+         INGREDIENTS: sweet chili sauce
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime zested
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: stirring to dissolve sugar
+      NON-INGREDIENT SPAN: stirring to dissolve sugar
+
+
+SENTID: 1
+SENT: I would mix cilantro and red onion into dressing .
+PREDID: 115
+PRED: mix
+   DOBJ: cilantro, red onion
+      INGREDIENT SPAN:  red onion
+         INGREDIENTS: red onion diced more taste
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: chopped fresh cilantro
+   PARG: dressing
+     PREP: into
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 2
+SENT: I would stir cabbage into dressing mixture , about 1 cup at a time , until all cabbage is coated .
+PREDID: 150
+PRED: stir
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: shredded green cabbage more taste
+   PARG: dressing mixture , about 1 cup at a time , until all cabbage is coated
+     PREP: into
+      NON-INGREDIENT SPAN: dressing mixture 
+      NON-INGREDIENT SPAN:  until all cabbage is coated
+      NON-INGREDIENT SPAN:  about 1 cup at a time 
+
+

@@ -1,0 +1,231 @@
+SENTID: 0
+SENT: To make tomato sauce , heat olive oil in a saucepan over medium-low heat ;
+
+SENTID: 1
+SENT: I would cook and stir the onion , green pepper , and celery in the hot oil until the onion is soft , about 5 minutes .
+PREDID: 60
+PRED: cook and stir
+   DOBJ: the onion , green pepper , celery
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: cayenne pepper
+   PARG: the hot oil
+     PREP: in
+      INGREDIENT SPAN: the hot oil
+         INGREDIENTS: olive oil
+   PARG: the onion is soft , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the onion is soft 
+
+
+SENTID: 2
+SENT: I would pour the undrained whole tomatoes , tomato sauce , 1?1/2 teaspoons Italian seasoning , the sugar , the oregano , 3/4 teaspoon garlic powder , Worcestershire sauce , and water into a blender and blend until smooth .
+PREDID: 146
+PRED: pour
+   DOBJ: the undrained whole tomatoes , tomato sauce , 1?1/2 teaspoons Italian seasoning , the sugar , the oregano , 3/4 teaspoon garlic powder , Worcestershire sauce , water
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  3/4 teaspoon garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  1?1/2 teaspoons Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the undrained whole tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes juice
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+PREDID: 306
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour the tomato mixture into the saucepan and simmer over low heat for 1?1/2 hours , stirring occasionally .
+PREDID: 317
+PRED: pour
+   DOBJ: the tomato mixture
+      NON-INGREDIENT SPAN: the tomato mixture
+   PARG: the saucepan, simmer over low heat for 1?1/2 hours , stirring occasionally
+     PREP: into
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: the saucepan
+      NON-INGREDIENT SPAN:  simmer over low heat for 1?1/2 hours 
+
+
+SENTID: 4
+SENT: I would stir in 1/4 cup parsley .
+PREDID: 407
+PRED: stir
+   DOBJ: NULL
+   PARG: 1/4 cup
+     PREP: in
+      NON-INGREDIENT SPAN: 1/4 cup
+   OARG: parsley
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 427
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 436
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 7
+SENT: I would grease a 9x13-inch baking dish .
+PREDID: 474
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 8
+SENT: In a bowl , I would mix together the ground beef , bread crumbs , 1 teaspoon garlic powder , Creole seasoning , cayenne pepper , and salt until the mixture is thoroughly combined ;
+PREDID: 509
+PRED: mix
+   DOBJ: the ground beef , bread crumbs , 1 teaspoon garlic powder , Creole seasoning , cayenne pepper , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef chuck
+      INGREDIENT SPAN:  1 teaspoon garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  Creole seasoning 
+         INGREDIENTS: Creole seasoning
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: the mixture is thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would spread into the bottom of the prepared baking dish .
+PREDID: 641
+PRED: spread
+   DOBJ: NULL
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+
+SENTID: 10
+SENT: I would scatter the mozzarella cheese over the meat ;
+PREDID: 684
+PRED: scatter
+   DOBJ: the mozzarella cheese
+      INGREDIENT SPAN: the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the meat
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+
+
+SENTID: 11
+SENT: I would spread 1/4 cup of the sauce over the cheese .
+PREDID: 722
+PRED: spread
+   DOBJ: 1/4 cup of the sauce over the cheese
+      NON-INGREDIENT SPAN: 1/4 cup of the sauce over the cheese
+
+
+SENTID: 12
+SENT: I would sprinkle the sauce with 1/4 cup chopped parsley and 2 teaspoons of Italian seasoning .
+PREDID: 758
+PRED: sprinkle
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: 1/4 cup chopped parsley, 2 teaspoons of italian seasoning
+     PREP: with
+      INGREDIENT SPAN:  2 teaspoons of italian seasoning
+         INGREDIENTS: Italian seasoning
+      NON-INGREDIENT SPAN: 1/4 cup chopped parsley
+
+
+SENTID: 13
+SENT: I would pick up one end of the meat layer -LRB- short side -RRB- , and gently roll the meat around the filling .
+PREDID: 830
+PRED: pick
+   DOBJ: one end of the meat layer -LRB- short side
+      NON-INGREDIENT SPAN: one end of the meat layer -LRB- short side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 885
+PRED: roll
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the filling
+     PREP: around
+      NON-INGREDIENT SPAN: the filling
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 14
+SENT: I would reposition the meat roll in the center of the dish , and pour the remaining tomato sauce over the roll .
+PREDID: 905
+PRED: reposition
+   DOBJ: the meat roll
+      NON-INGREDIENT SPAN: the meat roll
+   PARG: the center of the dish
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the dish
+
+PREDID: 950
+PRED: pour
+   DOBJ: the remaining tomato sauce over the roll
+      NON-INGREDIENT SPAN: the remaining tomato sauce over the roll
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven until the roll is no longer pink in the center , 45 minutes to 1 hour .
+PREDID: 989
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the roll is no longer pink in the center , 45 minutes to 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  45 minutes to 1 hour
+      NON-INGREDIENT SPAN: the roll is no longer pink in the center 
+
+
+SENTID: 16
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

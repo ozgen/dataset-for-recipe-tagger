@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would combine flour , the oats , the sugar , baking powder , the soda , and salt .
+PREDID: 0
+PRED: combine
+   DOBJ: flour , the oats , the sugar , baking powder , the soda , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 1
+SENT: In a large bowl , I would beat the egg lightly .
+PREDID: 63
+PRED: beat
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would stir in the milk , the oil , and vanilla .
+PREDID: 81
+PRED: stir
+   DOBJ: NULL
+   PARG: the milk , the oil , vanilla
+     PREP: in
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 3
+SENT: I would add the mashed banana , and combine thoroughly .
+PREDID: 110
+PRED: add
+   DOBJ: the mashed banana
+      INGREDIENT SPAN: the mashed banana
+         INGREDIENTS: mashed bananas
+
+PREDID: 132
+PRED: combine
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would stir the flour mixture into the banana mixture until just combined .
+PREDID: 150
+PRED: stir
+   DOBJ: the flour mixture
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: the banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the banana mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 5
+SENT: I would line a 12-cup muffin tin with paper bake cups , and divide the batter among them .
+PREDID: 207
+PRED: line
+   DOBJ: a 12-cup muffin tin
+      NON-INGREDIENT SPAN: a 12-cup muffin tin
+   PARG: paper bake cups
+     PREP: with
+      NON-INGREDIENT SPAN: paper bake cups
+
+PREDID: 248
+PRED: divide
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: them
+     PREP: among
+      NON-INGREDIENT SPAN: them
+
+
+SENTID: 6
+SENT: I would bake at 400 degrees F -LRB- 205 degrees C -RRB- for 18 to 20 minutes .
+PREDID: 273
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees f -lrb- 205 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 205 degrees c
+   PARG: 18 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 18 to 20 minutes
+
+

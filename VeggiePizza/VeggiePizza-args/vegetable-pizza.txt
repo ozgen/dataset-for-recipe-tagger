@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spread crescent roll dough out into an 11x14-inch jelly roll pan ;
+PREDID: 38
+PRED: spread
+   DOBJ: crescent roll dough
+      INGREDIENT SPAN: crescent roll dough
+         INGREDIENTS: ounce packages refrigerated crescent rolls
+   PARG: an 11x14-inch jelly roll pan
+     PREP: into
+      NON-INGREDIENT SPAN: an 11x14-inch jelly roll pan
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would pinch perforations and seams together to make a crust .
+PREDID: 93
+PRED: pinch
+   DOBJ: perforations, seams
+      NON-INGREDIENT SPAN: perforations
+      NON-INGREDIENT SPAN:  seams
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: to make a crust
+      NON-INGREDIENT SPAN: to make a crust
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until crust is lightly golden brown , about 10 minutes .
+PREDID: 139
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: crust is lightly golden brown , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: crust is lightly golden brown 
+
+
+SENTID: 4
+SENT: I would let cool completely .
+PREDID: 207
+PRED: let
+   DOBJ: NULL
+   OARG: cool completely
+      NON-INGREDIENT SPAN: cool completely
+
+
+SENTID: 5
+SENT: I would mix cream cheese , the mayonnaise , and vegetable soup mix together in a bowl .
+PREDID: 225
+PRED: mix
+   DOBJ: cream cheese , the mayonnaise , vegetable soup mix
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  vegetable soup mix
+         INGREDIENTS: ounce package dry vegetable soup mix such Knorr
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce packages cream cheese softened
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would spread cream cheese mixture over the crust .
+PREDID: 286
+PRED: spread
+   DOBJ: cream cheese mixture over the crust
+      NON-INGREDIENT SPAN: cream cheese mixture over the crust
+
+
+SENTID: 7
+SENT: I would sprinkle pizza with radishes , green , red , and yellow bell pepper , the broccoli , the cauliflower , the carrot , and celery , pressing vegetables into the cream cheese mixture .
+PREDID: 323
+PRED: sprinkle
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: radishes , green , red
+     PREP: with
+      INGREDIENT SPAN: radishes 
+         INGREDIENTS: radishes sliced
+      NON-INGREDIENT SPAN:  green 
+      NON-INGREDIENT SPAN:  red
+   OARG: yellow bell pepper , the broccoli , the cauliflower , the carrot , celery , pressing vegetables into the cream cheese mixture
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  the cauliflower 
+         INGREDIENTS: cauliflower florets
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: yellow bell pepper 
+         INGREDIENTS: chopped yellow bell pepper
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: chopped carrot
+      NON-INGREDIENT SPAN:  pressing vegetables into the cream cheese mixture
+
+
+SENTID: 8
+SENT: I would cut pizza into squares , cover with plastic wrap , and refrigerate overnight to blend flavors .
+PREDID: 461
+PRED: cut
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: squares
+     PREP: into
+      NON-INGREDIENT SPAN: squares
+
+PREDID: 481
+PRED: cover
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 505
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+   OARG: to blend flavors
+      NON-INGREDIENT SPAN: to blend flavors
+
+

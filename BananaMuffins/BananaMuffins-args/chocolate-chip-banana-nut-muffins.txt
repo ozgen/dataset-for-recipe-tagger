@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups with butter or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+   PARG: butter or line
+     PREP: with
+      INGREDIENT SPAN: butter or line
+         INGREDIENTS: butter greasing needed
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would stir sugar , the oil , the mayonnaise , and eggs together until creamy and light yellow .
+PREDID: 94
+PRED: stir
+   DOBJ: sugar , the oil , the mayonnaise , eggs
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: creamy, light yellow
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+      NON-INGREDIENT SPAN:  light yellow
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in bananas until incorporated .
+PREDID: 160
+PRED: mix
+   DOBJ: NULL
+   PARG: bananas
+     PREP: in
+      INGREDIENT SPAN: bananas
+         INGREDIENTS: bananas mashed
+   PARG: incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: incorporated
+
+
+SENTID: 4
+SENT: I would stir flour , the oats , the flax , wheat germ , baking soda , baking powder , and salt into banana mixture until smooth .
+PREDID: 190
+PRED: stir
+   DOBJ: flour , the oats , the flax , wheat germ , baking soda , baking powder , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: quick cooking oats
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  wheat germ 
+         INGREDIENTS: wheat germ
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the flax 
+         INGREDIENTS: ground flax
+   PARG: banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would mix in chocolate chips and walnuts .
+PREDID: 280
+PRED: mix
+   DOBJ: NULL
+   PARG: chocolate chips, walnuts
+     PREP: in
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: walnuts chopped
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: miniature semisweet chocolate chips
+
+
+SENTID: 6
+SENT: I would spoon batter into prepared pans .
+PREDID: 310
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared pans
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pans
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until golden and the tops spring back when lightly pressed , about 25 minutes .
+PREDID: 338
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until golden, the tops
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until golden
+      NON-INGREDIENT SPAN:  the tops
+   PARG: 25 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 25 minutes
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when lightly pressed
+      NON-INGREDIENT SPAN: back when lightly pressed
+
+

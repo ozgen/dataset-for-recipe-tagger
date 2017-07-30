@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a medium sized stock pot , I would brown ground beef in oil .
+PREDID: 23
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a medium sized stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a medium sized stock pot
+   PARG: oil
+     PREP: in
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 1
+SENT: I would add undrained pinto beans , undrained kidney beans , diced tomatoes , tomato sauce , the onion , green bell pepper , taco seasoning mix and ranch salad dressing mix .
+PREDID: 44
+PRED: add
+   DOBJ: undrained pinto beans , undrained kidney beans , diced tomatoes , tomato sauce , the onion , green bell pepper , taco seasoning mix, ranch salad
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  undrained kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  taco seasoning mix
+         INGREDIENTS: ounce package taco seasoning mix
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: undrained pinto beans 
+         INGREDIENTS: ounce pinto beans
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  ranch salad
+         INGREDIENTS: ounce package ranch dressing mix
+   OARG: dressing mix
+      NON-INGREDIENT SPAN: dressing mix
+
+
+SENTID: 2
+SENT: I would bring to a boil and
+PREDID: 177
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil and
+     PREP: to
+      NON-INGREDIENT SPAN: a boil and
+
+
+SENTID: 3
+SENT: I would simmer for 10 to 15 minutes , or until heated through .
+PREDID: 192
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

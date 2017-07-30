@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet over medium-high heat , I would brown the ground beef , and stir in the taco seasoning and tomatoes .
+PREDID: 73
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+PREDID: 95
+PRED: stir
+   DOBJ: NULL
+   PARG: the taco seasoning, tomatoes
+     PREP: in
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce peeled diced tomatoes juice
+      INGREDIENT SPAN: the taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix
+
+
+SENTID: 2
+SENT: I would line a 9x13-inch baking dish with half the tortillas .
+PREDID: 129
+PRED: line
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: half the tortillas
+     PREP: with
+      INGREDIENT SPAN: half the tortillas
+         INGREDIENTS: inch corn tortillas
+
+
+SENTID: 3
+SENT: I would spoon the beef mixture into the dish ,
+PREDID: 174
+PRED: spoon
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the dish
+     PREP: into
+      NON-INGREDIENT SPAN: the dish
+
+
+SENTID: 4
+SENT: I would top with the remaining tortillas .
+PREDID: 205
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining tortillas
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining tortillas
+
+
+SENTID: 5
+SENT: I would spread salsa over the tortillas and sprinkle with the cheese .
+PREDID: 234
+PRED: spread
+   DOBJ: salsa
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: prepared salsa
+   PARG: the tortillas
+     PREP: over
+      NON-INGREDIENT SPAN: the tortillas
+
+PREDID: 264
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Colby cheese
+
+
+SENTID: 6
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 to 30 minutes , or until cheese is melted and bubbly .
+PREDID: 286
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- for 20 to 30 minutes , or until cheese is melted, bubbly
+     PREP: at
+      NON-INGREDIENT SPAN:  or until cheese is melted
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- for 20 to 30 minutes 
+
+

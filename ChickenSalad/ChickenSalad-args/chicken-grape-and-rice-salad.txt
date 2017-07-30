@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Bring water and margarine to a boil in a saucepan ;
+PREDID: 0
+PRED: bring
+   DOBJ: water, margarine
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine
+   PARG: a boil in a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan
+
+
+SENTID: 1
+SENT: I would reduce heat to low and stir in long grain and wild rice mix .
+PREDID: 41
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 59
+PRED: stir
+   DOBJ: NULL
+   PARG: long grain, wild rice mix
+     PREP: in
+      INGREDIENT SPAN: long grain
+         INGREDIENTS: ounce package grain wild rice mix such Mahatma
+      NON-INGREDIENT SPAN:  wild rice mix
+
+
+SENTID: 2
+SENT: I would cover and simmer until rice is tender , about 25 minutes .
+PREDID: 89
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: rice is tender , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: rice is tender 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 3
+SENT: I would fluff with fork and allow rice mix to cool thoroughly .
+PREDID: 136
+PRED: fluff
+   DOBJ: NULL
+   PARG: fork
+     PREP: with
+      NON-INGREDIENT SPAN: fork
+
+PREDID: 152
+PRED: allow
+   DOBJ: rice mix
+      NON-INGREDIENT SPAN: rice mix
+   OARG: to cool thoroughly
+      NON-INGREDIENT SPAN: to cool thoroughly
+
+
+SENTID: 4
+SENT: I would mix cooled rice mix with chicken , red onion , the grapes , the cashews , and mayonnaise .
+PREDID: 181
+PRED: mix
+   DOBJ: cooled rice mix
+      NON-INGREDIENT SPAN: cooled rice mix
+   PARG: chicken , red onion , the grapes , the cashews , mayonnaise
+     PREP: with
+      INGREDIENT SPAN:  the cashews 
+         INGREDIENTS: cashews
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion chopped taste
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cooked chicken breast halves chopped
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes quartered
+
+
+SENTID: 5
+SENT: I would serve immediately or chill before serving .
+PREDID: 247
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 265
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

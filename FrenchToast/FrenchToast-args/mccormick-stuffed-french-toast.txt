@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: I would mix cream cheese , brown sugar , 2 teaspoons of the cinnamon and 1 teaspoon of the vanilla in small bowl until well blended .
+PREDID: 0
+PRED: mix
+   DOBJ: cream cheese , brown sugar , 2 teaspoons of the cinnamon, 1 teaspoon of the vanilla in small bowl
+      INGREDIENT SPAN:  2 teaspoons of the cinnamon
+         INGREDIENTS: McCormick Cinnamon Ground divided
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  1 teaspoon of the vanilla in small bowl
+         INGREDIENTS: McCormick Pure Vanilla Extract divided
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce tub whipped cream cheese
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 1
+SENT: I would spread 2 tablespoons of cream cheese mixture on each of 8 slices of bread .
+PREDID: 101
+PRED: spread
+   DOBJ: 2 tablespoons of cream cheese mixture
+      NON-INGREDIENT SPAN: 2 tablespoons of cream cheese mixture
+   PARG: each of 8 slices of bread
+     PREP: on
+      INGREDIENT SPAN: each of 8 slices of bread
+         INGREDIENTS: inch thick slices Italian bread
+
+
+SENTID: 2
+SENT: I would spread 1 tablespoon of preserves on each of the remaining 8 slices of bread .
+PREDID: 162
+PRED: spread
+   DOBJ: 1 tablespoon of preserves
+      INGREDIENT SPAN: 1 tablespoon of preserves
+         INGREDIENTS: apricot preserves jam
+   PARG: each of the remaining 8 slices of bread
+     PREP: on
+      INGREDIENT SPAN: each of the remaining 8 slices of bread
+         INGREDIENTS: inch thick slices Italian bread
+
+
+SENTID: 3
+SENT: I would press one each of the bread slices together to form 8 sandwiches .
+PREDID: 225
+PRED: press
+   DOBJ: one each of the bread slices together to form 8 sandwiches
+      INGREDIENT SPAN: one each of the bread slices together to form 8 sandwiches
+         INGREDIENTS: inch thick slices Italian bread
+
+
+SENTID: 4
+SENT: I would beat eggs with wire whisk in 13x9-inch baking dish .
+PREDID: 279
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: wire whisk in 13x9-inch baking dish
+     PREP: with
+      NON-INGREDIENT SPAN: wire whisk in 13x9-inch baking dish
+
+
+SENTID: 5
+SENT: I would stir in milk , remaining 1 teaspoon cinnamon and remaining 1/2 teaspoon vanilla until well blended .
+PREDID: 322
+PRED: stir remaining
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: 1 teaspoon cinnamon
+      INGREDIENT SPAN: 1 teaspoon cinnamon
+         INGREDIENTS: McCormick Cinnamon Ground divided
+
+PREDID: 362
+PRED: remaining
+   DOBJ: NULL
+   OARG: 1/2 teaspoon vanilla until well blended
+      INGREDIENT SPAN: 1/2 teaspoon vanilla until well blended
+         INGREDIENTS: McCormick Pure Vanilla Extract divided
+
+
+SENTID: 6
+SENT: I would dip sandwiches in egg mixture , soaking for 2 minutes on each side .
+PREDID: 406
+PRED: dip
+   DOBJ: sandwiches in egg mixture
+      NON-INGREDIENT SPAN: sandwiches in egg mixture
+   OARG: soaking for 2 minutes on each side
+      NON-INGREDIENT SPAN: soaking for 2 minutes on each side
+
+
+SENTID: 7
+SENT: I would melt 1 tablespoon of the butter in large nonstick skillet or griddle on medium-low heat .
+PREDID: 461
+PRED: melt
+   DOBJ: 1 tablespoon of the butter in large nonstick skillet
+      INGREDIENT SPAN: 1 tablespoon of the butter in large nonstick skillet
+         INGREDIENTS: butter divided
+
+PREDID: 511
+PRED: griddle
+   DOBJ: NULL
+   PARG: medium-low heat
+     PREP: on
+      NON-INGREDIENT SPAN: medium-low heat
+
+
+SENTID: 8
+SENT: I would place 4 of the sandwiches in skillet .
+PREDID: 535
+PRED: place
+   DOBJ: 4 of the sandwiches in skillet
+      NON-INGREDIENT SPAN: 4 of the sandwiches in skillet
+
+
+SENTID: 9
+SENT: I would cook 4 to 5 minutes per side or until golden brown .
+PREDID: 566
+PRED: cook
+   DOBJ: 4
+      NON-INGREDIENT SPAN: 4
+   PARG: 5 minutes per side
+     PREP: to
+      NON-INGREDIENT SPAN: 5 minutes per side
+
+
+SENTID: 10
+SENT: I would repeat with remaining sandwiches , melting remaining tablespoon butter in skillet .
+PREDID: 607
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining sandwiches
+     PREP: with
+      NON-INGREDIENT SPAN: remaining sandwiches
+   OARG: melting remaining tablespoon butter in skillet
+      INGREDIENT SPAN: melting remaining tablespoon butter in skillet
+         INGREDIENTS: butter divided
+
+
+SENTID: 11
+SENT: I would serve French toast with maple syrup , if desired .
+PREDID: 679
+PRED: serve
+   DOBJ: French toast
+      NON-INGREDIENT SPAN: French toast
+   PARG: maple syrup
+     PREP: with
+      NON-INGREDIENT SPAN: maple syrup
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

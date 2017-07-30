@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: In a large bowl , I would mix together 1/4 cup of the tomato soup , ground beef , bread crumbs , the egg , the onion , the salt and pepper using your hands .
+PREDID: 13
+PRED: mix
+   DOBJ: 1/4 cup of the tomato soup , ground beef , bread crumbs , the egg , the onion , the salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: 1/4 cup of the tomato soup 
+         INGREDIENTS: ounce condensed tomato soup divided
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: using your hands
+      NON-INGREDIENT SPAN: using your hands
+
+
+SENTID: 1
+SENT: I would shape firmly into two loaves .
+PREDID: 107
+PRED: shape
+   DOBJ: NULL
+   PARG: two loaves
+     PREP: into
+      NON-INGREDIENT SPAN: two loaves
+   OARG: firmly
+      NON-INGREDIENT SPAN: firmly
+
+
+SENTID: 2
+SENT: I would heat a large deep skillet over medium-high heat .
+PREDID: 132
+PRED: heat
+   DOBJ: a large deep skillet
+      NON-INGREDIENT SPAN: a large deep skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 3
+SENT: I would brown the meatloaves in the hot skillet ,
+PREDID: 173
+PRED: brown
+   DOBJ: the meatloaves
+      NON-INGREDIENT SPAN: the meatloaves
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+
+
+SENTID: 4
+SENT: I would reduce heat to medium and cover with a lid .
+PREDID: 207
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 228
+PRED: cover
+   DOBJ: NULL
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+
+
+SENTID: 5
+SENT: I would simmer for about 25 minutes , or until meat is cooked through .
+PREDID: 242
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 25 minutes , or until meat is cooked through
+     PREP: for
+      NON-INGREDIENT SPAN: about 25 minutes 
+      NON-INGREDIENT SPAN:  or until meat is cooked through
+
+
+SENTID: 6
+SENT: I would spoon the fat from the skillet , and stir in the remaining soup , the water , and mustard .
+PREDID: 293
+PRED: spoon
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 322
+PRED: stir
+   DOBJ: NULL
+   PARG: the remaining soup , the water , mustard
+     PREP: in
+      INGREDIENT SPAN: the remaining soup 
+         INGREDIENTS: ounce condensed tomato soup divided
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+
+
+SENTID: 7
+SENT: I would top with mozzarella cheese , and let simmer uncovered for 10 minutes , stirring sauce occasionally .
+PREDID: 362
+PRED: top
+   DOBJ: NULL
+   PARG: mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+PREDID: 389
+PRED: let
+   DOBJ: NULL
+   PARG: simmer uncovered for 10 minutes , stirring sauce occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring sauce occasionally
+      NON-INGREDIENT SPAN: simmer uncovered for 10 minutes 
+
+

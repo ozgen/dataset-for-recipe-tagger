@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or fill with paper liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+
+PREDID: 58
+PRED: fill
+   DOBJ: NULL
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would mix almond meal , all-purpose flour , whole wheat flour , baking powder , baking soda , the cinnamon , and salt together in a bowl .
+PREDID: 78
+PRED: mix
+   DOBJ: almond meal , all-purpose flour , whole wheat flour , baking powder , baking soda , the cinnamon , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  all-purpose flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: almond meal 
+         INGREDIENTS: almond meal
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  whole wheat flour 
+         INGREDIENTS: whole wheat flour
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat butter and sugar together in a separate bowl until light and fluffy .
+PREDID: 181
+PRED: beat
+   DOBJ: butter, sugar
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter room temperature
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: light, fluffy
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy
+      NON-INGREDIENT SPAN: light
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would add eggs , one by one , beating until each is incorporated .
+PREDID: 242
+PRED: add
+   DOBJ: NULL
+   OARG: eggs , one by one , beating until each is incorporated
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  one by one 
+      NON-INGREDIENT SPAN:  beating until each is incorporated
+
+
+SENTID: 5
+SENT: I would stir vanilla into the butter mixture .
+PREDID: 290
+PRED: stir
+   DOBJ: vanilla
+      INGREDIENT SPAN: vanilla
+         INGREDIENTS: vanilla extract
+   PARG: the butter mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the butter mixture
+
+
+SENTID: 6
+SENT: I would mix milk and yogurt together in a separate bowl .
+PREDID: 322
+PRED: mix
+   DOBJ: milk, yogurt
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  yogurt
+         INGREDIENTS: plain yogurt
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would add butter mixture , alternating with milk mixture , to the flour mixture until just incorporated .
+PREDID: 362
+PRED: add
+   DOBJ: butter mixture , alternating with milk mixture
+      NON-INGREDIENT SPAN: butter mixture 
+      NON-INGREDIENT SPAN:  alternating with milk mixture
+   PARG: the flour mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: just incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: just incorporated
+
+
+SENTID: 8
+SENT: I would stir mashed banana into batter ;
+PREDID: 445
+PRED: stir
+   DOBJ: mashed banana
+      INGREDIENT SPAN: mashed banana
+         INGREDIENTS: ripe banana mashed
+   PARG: batter
+     PREP: into
+      NON-INGREDIENT SPAN: batter
+
+
+SENTID: 9
+SENT: I would fold in raspberries and chocolate chips .
+PREDID: 472
+PRED: fold
+   DOBJ: NULL
+   PARG: raspberries, chocolate chips
+     PREP: in
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: dark chocolate chips
+      INGREDIENT SPAN: raspberries
+         INGREDIENTS: fresh raspberries cut small
+
+
+SENTID: 10
+SENT: I would fill muffin cups 3/4-full with batter .
+PREDID: 507
+PRED: fill
+   DOBJ: NULL
+   OARG: muffin cups 3/4-full with batter
+      NON-INGREDIENT SPAN: muffin cups 3/4-full with batter
+
+
+SENTID: 11
+SENT: I would bake on the middle rack in the preheated oven until a toothpick inserted in the middle of the muffins comes out clean , 18 to 25 minutes .
+PREDID: 540
+PRED: bake
+   DOBJ: NULL
+   PARG: the middle rack in the preheated oven
+     PREP: on
+      NON-INGREDIENT SPAN: the middle rack in the preheated oven
+   PARG: a toothpick inserted in the middle of the muffins comes out clean , 18 to 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  18 to 25 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted in the middle of the muffins comes out clean 
+
+

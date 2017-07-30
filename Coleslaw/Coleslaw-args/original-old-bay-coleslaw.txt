@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: I would whisk mayonnaise , the onion , the vinegar , the sugar , and seafood seasoning in a salad bowl until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , the onion , the vinegar , the sugar , seafood seasoning
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  seafood seasoning
+         INGREDIENTS: seafood seasoning such Old Bay
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+   PARG: sugar has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar has dissolved
+
+
+SENTID: 1
+SENT: I would stir cabbage , the carrots , and green bell pepper into dressing until coated .
+PREDID: 90
+PRED: stir
+   DOBJ: cabbage , the carrots , green bell pepper
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: shredded cabbage
+   PARG: dressing until coated
+     PREP: into
+      NON-INGREDIENT SPAN: dressing until coated
+
+

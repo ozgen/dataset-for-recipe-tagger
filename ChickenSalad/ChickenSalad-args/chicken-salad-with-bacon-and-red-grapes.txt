@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would cook bacon in a large , deep skillet over medium-high heat until crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet over medium-high heat
+   PARG: crisp , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: crisp 
+
+
+SENTID: 1
+SENT: I would drain bacon slices on a paper towel-lined plate and allow to cool ;
+PREDID: 74
+PRED: drain
+   DOBJ: bacon slices
+      NON-INGREDIENT SPAN: bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+PREDID: 117
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 2
+SENT: I would crumble .
+PREDID: 129
+PRED: crumble
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would mix cooked chicken , crumbled bacon , water chestnuts , the celery , and red grapes in a large salad bowl .
+
+SENTID: 4
+SENT: I would whisk mayonnaise , dried parsley , lime juice , onion powder , ground ginger , Worcestershire sauce , the salt , and black pepper together to make a smooth dressing .
+PREDID: 220
+PRED: whisk
+   DOBJ: mayonnaise , dried parsley , lime juice , onion powder , ground ginger , Worcestershire sauce , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  ground ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dried parsley 
+         INGREDIENTS: dried parsley flakes
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      NON-INGREDIENT SPAN:  black pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: to make a smooth dressing
+      NON-INGREDIENT SPAN: to make a smooth dressing
+
+
+SENTID: 5
+SENT: I would pour the dressing over chicken mixture and stir to coat .
+PREDID: 353
+PRED: pour
+   DOBJ: the dressing over chicken mixture
+      INGREDIENT SPAN: the dressing over chicken mixture
+         INGREDIENTS: diced cooked chicken
+
+PREDID: 389
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 6
+SENT: I would cover the bowl and refrigerate until cold , at least 30 minutes .
+PREDID: 397
+PRED: cover
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+
+PREDID: 412
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cold , at least 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cold 
+      NON-INGREDIENT SPAN:  at least 30 minutes
+
+

@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would whisk together pumpkin puree , egg yolks , and egg in a large bowl until smooth .
+PREDID: 38
+PRED: whisk
+   DOBJ: pumpkin puree , egg yolks , egg in a large bowl
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  egg yolks 
+         INGREDIENTS: egg yolks
+      INGREDIENT SPAN:  egg in a large bowl
+         INGREDIENTS: large egg
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add sweetened condensed milk , the cinnamon , the ginger , the salt , the nutmeg , and Chinese 5-spice powder ;
+PREDID: 103
+PRED: add
+   DOBJ: sweetened condensed milk , the cinnamon , the ginger , the salt , the nutmeg , Chinese 5-spice powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: fine salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  Chinese 5-spice powder
+         INGREDIENTS: Chinese 5-spice powder
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: grated nutmeg
+      INGREDIENT SPAN: sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: I would whisk until thoroughly combined .
+PREDID: 181
+PRED: whisk
+   DOBJ: NULL
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 4
+SENT: I would fit pie crust in a 9-inch pie plate and crimp edges .
+PREDID: 210
+PRED: fit
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: 9-inch unbaked pie crust see footnote recipe link
+   PARG: a 9-inch pie plate
+     PREP: in
+      NON-INGREDIENT SPAN: a 9-inch pie plate
+
+PREDID: 241
+PRED: crimp
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+
+
+SENTID: 5
+SENT: I would pour the filling into the pie shell and lightly tap on the work surface to release any air bubbles .
+PREDID: 252
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: the pie shell
+
+PREDID: 291
+PRED: tap
+   DOBJ: NULL
+   PARG: the work surface
+     PREP: on
+      NON-INGREDIENT SPAN: the work surface
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to release any air bubbles
+      NON-INGREDIENT SPAN: to release any air bubbles
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 15 minutes .
+PREDID: 330
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 7
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake until just set in the middle , 30 to 40 minutes .
+PREDID: 365
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 412
+PRED: bake
+   DOBJ: NULL
+   PARG: just set in the middle , 30 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: just set in the middle 
+
+
+SENTID: 8
+SENT: A paring knife inserted into the filling , 1 inch from the crust , should come out clean .
+
+SENTID: 9
+SENT: I would allow to cool completely before serving .
+PREDID: 446
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely before serving
+      NON-INGREDIENT SPAN: to cool completely before serving
+
+

@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place butternut squash , cut-side down , on a baking sheet .
+PREDID: 38
+PRED: place
+   DOBJ: butternut squash , cut-side down , on a baking sheet
+      INGREDIENT SPAN: butternut squash 
+         INGREDIENTS: butternut squash halved lengthwise seeded
+      NON-INGREDIENT SPAN:  cut-side down 
+      NON-INGREDIENT SPAN:  on a baking sheet
+
+
+SENTID: 2
+SENT: I would roast squash in the preheated oven until soft , 40 to 50 minutes .
+PREDID: 92
+PRED: squash
+   DOBJ: NULL
+   PARG: the preheated oven until soft , 40 to 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  40 to 50 minutes
+      NON-INGREDIENT SPAN: the preheated oven until soft 
+   OARG: roast
+      NON-INGREDIENT SPAN: roast
+
+
+SENTID: 3
+SENT: I would remove squash flesh from skin and set aside .
+PREDID: 140
+PRED: remove
+   DOBJ: squash flesh
+      NON-INGREDIENT SPAN: squash flesh
+   PARG: skin
+     PREP: from
+      NON-INGREDIENT SPAN: skin
+
+PREDID: 168
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would reduce oven temperature to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 177
+PRED: reduce
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+
+
+SENTID: 5
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 225
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 267
+PRED: cook
+   DOBJ: the rotini
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: ounce package rotini pasta
+   PARG: a boil until tender yet firm to the bite , about 8 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 329
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would melt butter in a large saucepan over medium heat .
+PREDID: 335
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 9
+SENT: I would whisk flour and mustard into melted butter until smooth , about 1 minute .
+PREDID: 376
+PRED: whisk
+   DOBJ: flour, mustard
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: dry mustard
+   PARG: melted butter
+     PREP: into
+      NON-INGREDIENT SPAN: melted butter
+   PARG: smooth , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: smooth 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 10
+SENT: I would gradually whisk milk into flour mixture until the mixture has the texture of heavy cream , 5 to 7 minutes .
+PREDID: 446
+PRED: whisk
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: the mixture has the texture of heavy cream , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: the mixture has the texture of heavy cream 
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 11
+SENT: I would remove from heat .
+PREDID: 524
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 12
+SENT: I would stir butternut squash , white Cheddar cheese , and Cheddar cheese into milk mixture until cheese is melted .
+PREDID: 539
+PRED: stir
+   DOBJ: butternut squash , white Cheddar cheese , Cheddar cheese
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: shredded white Cheddar cheese
+      INGREDIENT SPAN:  white Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: butternut squash 
+   PARG: milk mixture
+     PREP: into
+      NON-INGREDIENT SPAN: milk mixture
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 13
+SENT: I would stir rotini into cheese mixture .
+PREDID: 629
+PRED: stir
+   DOBJ: rotini
+      NON-INGREDIENT SPAN: rotini
+   PARG: cheese mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cheese mixture
+
+
+SENTID: 14
+SENT: I would pour cheese mixture into a 9x13-inch baking dish .
+PREDID: 657
+PRED: pour
+   DOBJ: cheese mixture
+      NON-INGREDIENT SPAN: cheese mixture
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 15
+SENT: I would top with bread crumbs .
+PREDID: 699
+PRED: top
+   DOBJ: NULL
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: seasoned dry bread crumbs needed
+
+
+SENTID: 16
+SENT: I would bake in the preheated oven until bread crumbs are golden , about 10 minutes .
+PREDID: 718
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: bread crumbs are golden , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: bread crumbs are golden 
+
+

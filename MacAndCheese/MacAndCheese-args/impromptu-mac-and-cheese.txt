@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would fill a pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a pot
+      NON-INGREDIENT SPAN: a pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 33
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the macaroni , and return to a boil .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: uncooked macaroni
+
+PREDID: 108
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 122
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain well in a colander set in the sink .
+PREDID: 233
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would slice up the sausage , place on a microwave-safe plate , and heat the sausage just until hot , about 30 seconds .
+PREDID: 266
+PRED: slice
+   DOBJ: the sausage
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: link precooked chicken cheese sausage
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 284
+PRED: place
+   DOBJ: NULL
+   PARG: a microwave-safe plate
+     PREP: on
+      NON-INGREDIENT SPAN: a microwave-safe plate
+
+PREDID: 315
+PRED: heat
+   DOBJ: the sausage
+      NON-INGREDIENT SPAN: the sausage
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+   PARG: 30 seconds
+     PREP: about
+      NON-INGREDIENT SPAN: 30 seconds
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 5
+SENT: I would mix the sausage slices into the hot macaroni , and stir in the milk , the butter , Parmesan cheese , and mozzarella cheese .
+PREDID: 357
+PRED: mix
+   DOBJ: the sausage slices
+      NON-INGREDIENT SPAN: the sausage slices
+   PARG: the hot macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: the hot macaroni
+
+PREDID: 398
+PRED: stir
+   DOBJ: NULL
+   PARG: the milk , the butter , parmesan cheese , mozzarella cheese
+     PREP: in
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+
+
+SENTID: 6
+SENT: I would stir until the cheese is melted , and serve .
+PREDID: 454
+PRED: stir
+   DOBJ: NULL
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+
+

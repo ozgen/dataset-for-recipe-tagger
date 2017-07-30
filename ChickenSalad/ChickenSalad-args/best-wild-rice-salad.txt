@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: In a medium saucepan , I would cover wild rice with three inches -LRB- 7.5 cm -RRB- of salted water .
+PREDID: 18
+PRED: cover
+   DOBJ: wild rice
+      INGREDIENT SPAN: wild rice
+         INGREDIENTS: uncooked wild rice
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+   PARG: three inches -lrb- 7.5 cm -rrb- of salted water
+     PREP: with
+      INGREDIENT SPAN: three inches -lrb- 7.5 cm -rrb- of salted water
+         INGREDIENTS: sliced water chestnuts drained
+
+
+SENTID: 1
+SENT: I would bring to a boil and boil , uncovered , for 30 minutes , or until tender .
+PREDID: 67
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil, boil , uncovered
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+      NON-INGREDIENT SPAN:  boil 
+      NON-INGREDIENT SPAN:  uncovered
+
+
+SENTID: 2
+SENT: I would drain the excess water , turn heat to lowest setting , cover rice and let steam for 15-20 minutes , or until the grains split open .
+PREDID: 124
+PRED: drain
+   DOBJ: the excess water
+      INGREDIENT SPAN: the excess water
+         INGREDIENTS: sliced water chestnuts drained
+
+PREDID: 144
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: lowest setting
+     PREP: to
+      NON-INGREDIENT SPAN: lowest setting
+
+PREDID: 168
+PRED: cover
+   DOBJ: rice
+      NON-INGREDIENT SPAN: rice
+
+PREDID: 180
+PRED: let
+   DOBJ: steam
+      NON-INGREDIENT SPAN: steam
+   PARG: 15-20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15-20 minutes
+
+
+SENTID: 3
+SENT: I would remove from heat and let cool .
+PREDID: 230
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 247
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: In a medium skillet over medium heat , I would saute the chicken lightly in the butter and oil , cooking gently and thoroughly .
+PREDID: 286
+PRED: saute
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast half
+   PARG: a medium skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet over medium heat
+   PARG: the butter, oil , cooking gently, thoroughly
+     PREP: in
+      INGREDIENT SPAN:  oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  thoroughly
+      NON-INGREDIENT SPAN:  cooking gently
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 5
+SENT: Do not overcook the chicken .
+
+SENTID: 6
+SENT: I would cool and shred the chicken into bite-size pieces .
+PREDID: 353
+PRED: cool and shred
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 7
+SENT: In a medium bowl , I would mix together the rice , the chicken and water chestnuts .
+PREDID: 409
+PRED: mix
+   DOBJ: the rice , the chicken, water chestnuts
+      NON-INGREDIENT SPAN:  water chestnuts
+      NON-INGREDIENT SPAN: the rice 
+      NON-INGREDIENT SPAN:  the chicken
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would set aside .
+PREDID: 453
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: For the dressing , I would whisk together the walnut oil , the vinegar , the salt and pepper .
+PREDID: 477
+PRED: whisk
+   DOBJ: the walnut oil , the vinegar , the salt, pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the walnut oil 
+         INGREDIENTS: walnut oil
+      NON-INGREDIENT SPAN:  pepper
+   PARG: the dressing
+     PREP: for
+      NON-INGREDIENT SPAN: the dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would pour over the wild rice mixture and combine .
+PREDID: 525
+PRED: pour
+   DOBJ: the wild rice mixture
+      NON-INGREDIENT SPAN: the wild rice mixture
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 11
+SENT: To serve , place 2-3 romaine leaves on each plate and spoon the wild rice mixture onto the leaves .
+PREDID: 564
+PRED: serve and place
+   DOBJ: 2-3 romaine leaves
+      INGREDIENT SPAN: 2-3 romaine leaves
+         INGREDIENTS: head romaine lettuce rinsed dried
+   PARG: each plate
+     PREP: on
+      NON-INGREDIENT SPAN: each plate
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 605
+PRED: spoon
+   DOBJ: the wild rice mixture
+      NON-INGREDIENT SPAN: the wild rice mixture
+   PARG: the leaves
+     PREP: onto
+      NON-INGREDIENT SPAN: the leaves
+
+

@@ -1,0 +1,33 @@
+digraph recipe {
+E0[label="saute (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="add (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="heat (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: milk
+(text: milk)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D0[label="DOBJ: butter, chopped onion
+(text: onion in butter)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: until tender", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: until thickened", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D3_ing[label="DOBJ: shredded American cheese, (15 ounce) cans creamed corn
+(text: corn ,  cheese)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E0 -> E3 [label="OUTPUT: 
+INPUT: season"]
+P3_0_ing[label="PREP: with white pepper, salt
+(text: with pepper, salt)", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT:  "]
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would crumble ground beef into a large skillet .
+PREDID: 38
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 2
+SENT: I would saute over medium heat 1 minute ,
+PREDID: 73
+PRED: saute
+   DOBJ: NULL
+   PARG: medium heat 1 minute
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat 1 minute
+
+
+SENTID: 3
+SENT: I would add onion and green pepper .
+PREDID: 100
+PRED: add
+   DOBJ: onion, green pepper
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+
+
+SENTID: 4
+SENT: I would continue to saute until onion begins to brown , about 5 minutes .
+PREDID: 123
+PRED: continue
+   DOBJ: NULL
+   OARG: to saute until onion begins to brown , about 5 minutes
+      NON-INGREDIENT SPAN: to saute until onion begins to brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would mix in 1/2 cup tomato sauce , bread crumbs , and seasoning salt .
+PREDID: 176
+PRED: mix
+   DOBJ: NULL
+   PARG: 1/2 cup tomato sauce , bread crumbs , seasoning salt
+     PREP: in
+      INGREDIENT SPAN: 1/2 cup tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  seasoning salt
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dried bread crumbs seasoned
+
+
+SENTID: 6
+SENT: I would spoon mixture into pastry shell .
+PREDID: 228
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pastry shell
+     PREP: into
+      INGREDIENT SPAN: pastry shell
+         INGREDIENTS: inch pie shell
+
+
+SENTID: 7
+SENT: In a medium bowl , I would mix together cheese , the egg , the milk , Worcestershire sauce , and white pepper .
+PREDID: 270
+PRED: mix
+   DOBJ: cheese , the egg , the milk , Worcestershire sauce , white pepper
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  white pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would spread mixture over meat filling .
+PREDID: 332
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: meat filling
+     PREP: over
+      NON-INGREDIENT SPAN: meat filling
+
+
+SENTID: 9
+SENT: I would cover edges of crust with strips of aluminum foil .
+PREDID: 361
+PRED: cover
+   DOBJ: edges of crust
+      NON-INGREDIENT SPAN: edges of crust
+   PARG: strips of aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: strips of aluminum foil
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 15 minutes .
+PREDID: 403
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 11
+SENT: I would remove the foil and bake an additional 15 minutes , until topping is puffy and lightly browned .
+PREDID: 435
+PRED: remove
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+
+PREDID: 451
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 15 minutes , until topping is puffy, lightly browned
+     PREP: for
+      NON-INGREDIENT SPAN:  until topping is puffy
+      NON-INGREDIENT SPAN: an additional 15 minutes 
+      NON-INGREDIENT SPAN:  lightly browned
+
+
+SENTID: 12
+SENT: I would allow to set 10 to 15 minutes before serving .
+PREDID: 511
+PRED: allow
+   DOBJ: NULL
+   OARG: to set 10 to 15 minutes before serving
+      NON-INGREDIENT SPAN: to set 10 to 15 minutes before serving
+
+
+SENTID: 13
+SENT: I would make garnish sauce by mixing together 1/2 cup tomato sauce and cocktail sauce .
+PREDID: 548
+PRED: make
+   DOBJ: garnish sauce
+      INGREDIENT SPAN: garnish sauce
+         INGREDIENTS: tomato sauce
+   PARG: mixing together 1/2 cup tomato sauce, cocktail sauce
+     PREP: by
+      INGREDIENT SPAN: mixing together 1/2 cup tomato sauce
+         INGREDIENTS: cocktail sauce
+      NON-INGREDIENT SPAN:  cocktail sauce
+
+
+SENTID: 14
+SENT: I would garnish each slice of pie with a spoonful of sauce .
+PREDID: 614
+PRED: garnish
+   DOBJ: each slice of pie
+      NON-INGREDIENT SPAN: each slice of pie
+   PARG: a spoonful of sauce
+     PREP: with
+      INGREDIENT SPAN: a spoonful of sauce
+         INGREDIENTS: cocktail sauce
+
+

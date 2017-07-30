@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9 inch square baking dish or 9 inch Bundt pan .
+PREDID: 41
+PRED: grease and flour
+   DOBJ: a 9 inch square baking dish or 9 inch Bundt pan
+      INGREDIENT SPAN: a 9 inch square baking dish or 9 inch Bundt pan
+         INGREDIENTS: baking powder
+
+
+SENTID: 2
+SENT: In a large bowl , I would whip egg yolks and sugar with an electric mixer until light and fluffy .
+PREDID: 106
+PRED: whip
+   DOBJ: egg yolks, sugar with an electric mixer
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: egg yolks
+      INGREDIENT SPAN:  sugar with an electric mixer
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: light, fluffy
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy
+      NON-INGREDIENT SPAN: light
+
+
+SENTID: 3
+SENT: I would stir in the almonds , carrots ,1 lemon 's juice and zest , the flour and baking powder .
+
+SENTID: 4
+SENT: In a separate bowl with a clean beater , I would whip egg whites with a pinch of salt until they can hold a peak .
+PREDID: 264
+PRED: whip
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a separate bowl with a clean beater
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl with a clean beater
+   PARG: a pinch of salt
+     PREP: with
+      INGREDIENT SPAN: a pinch of salt
+         INGREDIENTS: salt
+   PARG: they can hold a peak
+     PREP: until
+      NON-INGREDIENT SPAN: they can hold a peak
+
+
+SENTID: 5
+SENT: I would fold egg whites into the carrot batter .
+PREDID: 315
+PRED: fold
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: the carrot batter
+     PREP: into
+      INGREDIENT SPAN: the carrot batter
+         INGREDIENTS: grated carrots
+
+
+SENTID: 6
+SENT: I would pour into the prepared cake pan .
+PREDID: 348
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared cake pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared cake pan
+
+
+SENTID: 7
+SENT: I would bake for 50 minutes , or until a small knife inserted into the center comes out clean .
+PREDID: 375
+PRED: bake
+   DOBJ: NULL
+   PARG: 50 minutes , or until a small knife inserted into the center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN:  or until a small knife inserted into the center comes out clean
+      NON-INGREDIENT SPAN: 50 minutes 
+
+
+SENTID: 8
+SENT: For icing , I would mix the remaining lemon 's juice with confectioners ' sugar until it can be drizzled easily from a spoon .
+PREDID: 454
+PRED: mix
+   DOBJ: the remaining lemon 's juice
+      NON-INGREDIENT SPAN: the remaining lemon 's juice
+   PARG: icing
+     PREP: for
+      NON-INGREDIENT SPAN: icing
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar needed
+   PARG: it can be drizzled easily from a spoon
+     PREP: until
+      NON-INGREDIENT SPAN: it can be drizzled easily from a spoon
+
+
+SENTID: 9
+SENT: I would pour over the cake while warm or cooled .
+PREDID: 541
+PRED: pour
+   DOBJ: the cake
+      NON-INGREDIENT SPAN: the cake
+   PARG: warm
+     PREP: while
+      NON-INGREDIENT SPAN: warm
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 10
+SENT: If making in a Bundt pan , I would remove from the pan before glazing .
+PREDID: 594
+PRED: remove
+   DOBJ: NULL
+   PARG: making in a bundt pan
+     PREP: if
+      NON-INGREDIENT SPAN: making in a bundt pan
+   PARG: the pan
+     PREP: from
+      NON-INGREDIENT SPAN: the pan
+   PARG: glazing
+     PREP: before
+      NON-INGREDIENT SPAN: glazing
+
+

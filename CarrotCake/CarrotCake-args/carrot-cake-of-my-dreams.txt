@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a fluted tube pan -LRB- such as Bundt ? -RRB- .
+PREDID: 38
+PRED: grease
+   DOBJ: a fluted tube pan
+      NON-INGREDIENT SPAN: a fluted tube pan
+   PARG: as bundt ?
+     PREP: such
+      NON-INGREDIENT SPAN: as bundt ?
+
+
+SENTID: 2
+SENT: I would combine flour , white sugar , the cinnamon , baking soda , baking powder , the salt , and ginger in a large bowl .
+PREDID: 73
+PRED: combine
+   DOBJ: flour , white sugar , the cinnamon , baking soda , baking powder , the salt , ginger in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  ginger in a large bowl
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: I would whisk drained pineapple , brown sugar , egg substitute , vegetable oil , and vanilla extract together in a separate bowl until smooth .
+PREDID: 157
+PRED: whisk
+   DOBJ: drained pineapple , brown sugar , egg substitute , vegetable oil , vanilla
+      INGREDIENT SPAN: drained pineapple 
+         INGREDIENTS: ounce crushed pineapple juice drained juice reserved
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  egg substitute 
+         INGREDIENTS: ounce carton egg substitute such Egg Beaters
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+
+PREDID: 227
+PRED: extract
+   DOBJ: NULL
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir pineapple mixture , the carrots , the zucchini , and raisins into flour mixture just until flour is moistened .
+PREDID: 269
+PRED: stir
+   DOBJ: pineapple mixture , the carrots , the zucchini , raisins
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: shredded zucchini
+      NON-INGREDIENT SPAN: pineapple mixture 
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   OARG: just until flour is moistened
+      NON-INGREDIENT SPAN: just until flour is moistened
+
+
+SENTID: 5
+SENT: I would pour batter into the prepared pan .
+PREDID: 359
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until a toothpick inserted in the cake comes out clean , 55 to 65 minutes .
+PREDID: 388
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the cake comes out clean , 55 to 65 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted in the cake comes out clean 
+      NON-INGREDIENT SPAN:  55 to 65 minutes
+
+
+SENTID: 7
+SENT: I would cool in the pan for 10 minutes ;
+PREDID: 470
+PRED: cool
+   DOBJ: NULL
+   PARG: the pan for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pan for 10 minutes
+
+
+SENTID: 8
+SENT: I would remove cake from pan and cool completely on a wire rack , about 30 minutes .
+PREDID: 495
+PRED: remove
+   DOBJ: cake
+      NON-INGREDIENT SPAN: cake
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 515
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack , about 30 minutes
+     PREP: on
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: a wire rack 
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 9
+SENT: I would whisk reserved pineapple juice , 1 tablespoon at a time , with confectioners ' sugar until a spreadable glaze forms .
+PREDID: 556
+PRED: whisk
+   DOBJ: reserved pineapple juice , 1 tablespoon at a time
+      NON-INGREDIENT SPAN:  1 tablespoon at a time
+      NON-INGREDIENT SPAN: reserved pineapple juice 
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar
+   PARG: a spreadable glaze forms
+     PREP: until
+      NON-INGREDIENT SPAN: a spreadable glaze forms
+
+
+SENTID: 10
+SENT: I would drizzle over cooled cake .
+PREDID: 653
+PRED: drizzle
+   DOBJ: NULL
+   PARG: cooled cake
+     PREP: over
+      NON-INGREDIENT SPAN: cooled cake
+
+

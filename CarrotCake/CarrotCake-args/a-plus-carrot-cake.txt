@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would coat a 10x15x2 inch baking dish or 10 inch Bundt pan with cooking spray .
+PREDID: 41
+PRED: coat
+   DOBJ: a 10x15x2 inch baking dish or 10 inch Bundt pan with cooking spray
+      INGREDIENT SPAN: a 10x15x2 inch baking dish or 10 inch Bundt pan with cooking spray
+         INGREDIENTS: baking powder
+
+
+SENTID: 2
+SENT: In a medium bowl , I would stir together the flour , baking powder , baking soda , the salt , the cinnamon and nutmeg .
+PREDID: 114
+PRED: stir
+   DOBJ: the flour , baking powder , baking soda , the salt , the cinnamon, nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 182
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a separate larger bowl , I would mix together the eggs , the sugar and vanilla by hand .
+PREDID: 213
+PRED: mix
+   DOBJ: the eggs , the sugar, vanilla
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+   PARG: a separate larger bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate larger bowl
+   PARG: hand
+     PREP: by
+      NON-INGREDIENT SPAN: hand
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir in the oil ;
+PREDID: 254
+PRED: stir
+   DOBJ: NULL
+   PARG: the oil
+     PREP: in
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 6
+SENT: the mixture should resemble pudding .
+
+SENTID: 7
+SENT: I would gradually stir in the dry ingredients ,
+PREDID: 276
+PRED: stir
+   DOBJ: NULL
+   PARG: the dry ingredients
+     PREP: in
+      NON-INGREDIENT SPAN: the dry ingredients
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 8
+SENT: I would fold in the carrots , pineapple coconut , the walnuts and raisins .
+PREDID: 300
+PRED: fold
+   DOBJ: NULL
+   PARG: the carrots , pineapple coconut , the walnuts, raisins
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: the carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  pineapple coconut 
+         INGREDIENTS: sweetened flaked coconut
+
+
+SENTID: 9
+SENT: I would pour the batter into the prepared pan , and spread evenly .
+PREDID: 352
+PRED: pour
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+PREDID: 387
+PRED: spread
+   DOBJ: NULL
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 10
+SENT: I would bake for 55 to 60 minutes in the preheated oven , or until a small knife inserted into the cake comes out clean .
+PREDID: 400
+PRED: bake
+   DOBJ: NULL
+   PARG: 55 to 60 minutes in the preheated oven , or until a small knife inserted into the cake comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 55 to 60 minutes in the preheated oven 
+      NON-INGREDIENT SPAN:  or until a small knife inserted into the cake comes out clean
+
+

@@ -1,0 +1,267 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would coat Bundt pan with vegetable oil spray .
+PREDID: 38
+PRED: coat
+   DOBJ: Bundt pan with vegetable oil spray
+      INGREDIENT SPAN: Bundt pan with vegetable oil spray
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 2
+SENT: I would flour pan and tap out excess flour .
+PREDID: 77
+PRED: pan and tap
+   DOBJ: excess flour
+      INGREDIENT SPAN: excess flour
+         INGREDIENTS: allpurpose flour
+   OARG: flour
+      NON-INGREDIENT SPAN: flour
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 3
+SENT: In a medium bowl , I would sift together flour , the salt , the soda and pumpkin pie spice .
+PREDID: 115
+PRED: sift
+   DOBJ: flour , the salt , the soda, pumpkin pie spice
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      NON-INGREDIENT SPAN: flour 
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 161
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: In a separate bowl , I would combine coconut , the walnuts and raisins .
+PREDID: 186
+PRED: combine
+   DOBJ: coconut , the walnuts, raisins
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: coconut 
+         INGREDIENTS: flaked coconut
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 219
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would grate carrots -LRB- to make 3 cups -RRB- .
+PREDID: 228
+PRED: grate
+   DOBJ: carrots -LRB- to make 3 cups
+      INGREDIENT SPAN: carrots -LRB- to make 3 cups
+         INGREDIENTS: carrots
+
+
+SENTID: 8
+SENT: I would set aside .
+PREDID: 254
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: In a large bowl , I would combine sugar , pineapple with juice , the oil and applesauce .
+PREDID: 276
+PRED: combine
+   DOBJ: sugar , pineapple with juice , the oil, applesauce
+      INGREDIENT SPAN:  applesauce
+         INGREDIENTS: unsweetened applesauce
+      INGREDIENT SPAN:  pineapple with juice 
+         INGREDIENTS: ounce crushed pineapple juice
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the oil
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: I would beat on high speed for 3 minutes .
+PREDID: 325
+PRED: beat
+   DOBJ: NULL
+   PARG: high speed for 3 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: high speed for 3 minutes
+
+
+SENTID: 11
+SENT: I would beat in eggs one at a time .
+PREDID: 352
+PRED: beat
+   DOBJ: NULL
+   PARG: eggs one at a time
+     PREP: in
+      INGREDIENT SPAN: eggs one at a time
+         INGREDIENTS: eggs
+
+
+SENTID: 12
+SENT: I would add vanilla and carrots .
+PREDID: 373
+PRED: add
+   DOBJ: vanilla, carrots
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots
+      INGREDIENT SPAN: vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 13
+SENT: I would add flour mixture and beat on low speed until combined .
+PREDID: 394
+PRED: add
+   DOBJ: flour mixture
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 412
+PRED: beat
+   DOBJ: NULL
+   PARG: low speed
+     PREP: on
+      NON-INGREDIENT SPAN: low speed
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 14
+SENT: I would add coconut , the walnuts and raisins and combine .
+PREDID: 440
+PRED: add
+   DOBJ: coconut , the walnuts, raisins
+      NON-INGREDIENT SPAN: coconut 
+      NON-INGREDIENT SPAN:  the walnuts
+      NON-INGREDIENT SPAN:  raisins
+
+
+SENTID: 15
+SENT: I would put batter into 10 inch Bundt pan .
+PREDID: 479
+PRED: put
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: 10 inch bundt pan
+     PREP: into
+      NON-INGREDIENT SPAN: 10 inch bundt pan
+
+
+SENTID: 16
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 60 to 70 minutes , or until toothpick inserted into center of cake comes out clean .
+PREDID: 507
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- for 60 to 70 minutes , or until toothpick inserted into center of cake comes out clean
+     PREP: at
+      NON-INGREDIENT SPAN:  or until toothpick inserted into center of cake comes out clean
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- for 60 to 70 minutes 
+
+
+SENTID: 17
+SENT: I would cool in pan on wire rack .
+PREDID: 608
+PRED: cool
+   DOBJ: NULL
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+   PARG: wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: wire rack
+
+
+SENTID: 18
+SENT: I would invert onto serving plate .
+PREDID: 628
+PRED: invert
+   DOBJ: NULL
+   PARG: serving plate
+     PREP: onto
+      NON-INGREDIENT SPAN: serving plate
+
+
+SENTID: 19
+SENT: I would frost , and refrigerate one hour .
+PREDID: 651
+PRED: frost
+   DOBJ: NULL
+
+PREDID: 660
+PRED: refrigerate
+   DOBJ: one hour
+      NON-INGREDIENT SPAN: one hour
+
+
+SENTID: 20
+SENT: To make the frosting :
+
+SENTID: 21
+SENT: In a large bowl , I would combine cream cheese , the butter , confectioners sugar , orange zest and juice .
+PREDID: 710
+PRED: combine
+   DOBJ: cream cheese , the butter , confectioners sugar , orange zest, juice
+      INGREDIENT SPAN:  juice
+         INGREDIENTS: fresh orange juice
+      INGREDIENT SPAN:  confectioners sugar 
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: unsalted butter softened
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese
+      NON-INGREDIENT SPAN:  orange zest
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 22
+SENT: I would beat until smooth .
+PREDID: 774
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+

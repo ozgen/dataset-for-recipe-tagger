@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix together ground beef , bread crumbs , the egg , 1/2 a chopped onion , the milk , Worcestershire sauce in a bowl ;
+PREDID: 38
+PRED: mix
+   DOBJ: ground beef , bread crumbs , the egg , 1/2 a chopped onion , the milk , Worcestershire sauce in a bowl
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  Worcestershire sauce in a bowl
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  1/2 a chopped onion 
+         INGREDIENTS: onion chopped
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with garlic , Italian seasoning , dry mustard , the salt , and black pepper .
+PREDID: 125
+PRED: season
+   DOBJ: NULL
+   PARG: garlic , italian seasoning , dry mustard , the salt , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: garlic 
+         INGREDIENTS: chopped fresh garlic
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: Italian seasoning
+
+
+SENTID: 3
+SENT: I would transfer the meat mixture to a piece of waxed paper or aluminum foil and flatten to a 1/2-inch thick rectangle .
+PREDID: 190
+PRED: transfer
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a piece of waxed paper or aluminum foil
+     PREP: to
+      NON-INGREDIENT SPAN: a piece of waxed paper or aluminum foil
+
+PREDID: 249
+PRED: flatten
+   DOBJ: NULL
+   PARG: a 1/2-inch thick rectangle
+     PREP: to
+      NON-INGREDIENT SPAN: a 1/2-inch thick rectangle
+
+
+SENTID: 4
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 282
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 5
+SENT: I would cook and stir yellow onion and mushrooms in melted butter until the onion is translucent and mushrooms soft , about 5 minutes .
+
+SENTID: 6
+SENT: I would remove from heat to cool .
+PREDID: 317
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 7
+SENT: I would spread the filling mixture into center of meat rectangle .
+PREDID: 338
+PRED: spread
+   DOBJ: the filling mixture
+      NON-INGREDIENT SPAN: the filling mixture
+   PARG: center of meat rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: center of meat rectangle
+
+
+SENTID: 8
+SENT: I would sprinkle Cheddar cheese over filling , leaving a bit of space at one end for easier rolling and sealing .
+PREDID: 384
+PRED: sprinkle
+   DOBJ: Cheddar cheese
+      INGREDIENT SPAN: Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: filling , leaving a bit of space at one end for easier rolling, sealing
+     PREP: over
+      NON-INGREDIENT SPAN: filling 
+      NON-INGREDIENT SPAN:  leaving a bit of space at one end for easier rolling
+      NON-INGREDIENT SPAN:  sealing
+
+
+SENTID: 9
+SENT: I would pick up the edge of the waxed paper or foil to roll the flattened meat into a log around the filling .
+PREDID: 470
+PRED: pick
+   DOBJ: the edge of the waxed paper
+      NON-INGREDIENT SPAN: the edge of the waxed paper
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 500
+PRED: foil
+   DOBJ: NULL
+   OARG: to roll the flattened meat into a log around the filling
+      NON-INGREDIENT SPAN: to roll the flattened meat into a log around the filling
+
+
+SENTID: 10
+SENT: I would seal the ends and seam and place the loaf into a 9x5-inch loaf pan .
+PREDID: 551
+PRED: seal
+   DOBJ: the ends
+      NON-INGREDIENT SPAN: the ends
+
+PREDID: 565
+PRED: seam and place
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: a 9x5-inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until oil from the cheese begins to pool , about 30 minutes .
+PREDID: 605
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: oil from the cheese begins to pool , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: oil from the cheese begins to pool 
+
+
+SENTID: 12
+SENT: I would drain oil and continue the baking until the meat is no longer pink in the center , about 30 to 60 minutes more .
+PREDID: 676
+PRED: drain
+   DOBJ: oil
+      NON-INGREDIENT SPAN: oil
+
+PREDID: 687
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: the meat is no longer pink in the center , about 30 to 60 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 to 60 minutes more
+      NON-INGREDIENT SPAN: the meat is no longer pink in the center 
+
+
+SENTID: 13
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

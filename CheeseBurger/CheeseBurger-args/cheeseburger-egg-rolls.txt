@@ -1,0 +1,250 @@
+SENTID: 0
+SENT: I would place the ground beef and onion in a skillet over medium heat , and cook and stir for about 10 minutes , breaking up the beef into crumbles as it cooks .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+PREDID: 21
+PRED: onion
+   DOBJ: NULL
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 54
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+   OARG: breaking up the beef into crumbles as it cooks
+      NON-INGREDIENT SPAN: breaking up the beef into crumbles as it cooks
+
+
+SENTID: 1
+SENT: I would drain the meat and transfer to a bowl .
+PREDID: 122
+PRED: drain
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 137
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would stir in the chopped pickles , shredded cheese , and mustard , and mix together well .
+PREDID: 153
+PRED: stir
+   DOBJ: NULL
+   PARG: the chopped pickles , shredded cheese , mustard
+     PREP: in
+      INGREDIENT SPAN: the chopped pickles 
+         INGREDIENTS: chopped dill pickles sweet pickles
+      INGREDIENT SPAN:  shredded cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard taste
+
+PREDID: 206
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 3
+SENT: I would line a baking sheet with parchment paper .
+PREDID: 222
+PRED: line
+   DOBJ: a baking sheet with parchment paper
+      NON-INGREDIENT SPAN: a baking sheet with parchment paper
+
+
+SENTID: 4
+SENT: I would place a bowl of water next to your work surface .
+PREDID: 257
+PRED: place
+   DOBJ: a bowl of water
+      NON-INGREDIENT SPAN: a bowl of water
+   PARG: to your work surface
+     PREP: next
+      NON-INGREDIENT SPAN: to your work surface
+
+
+SENTID: 5
+SENT: I would remove an egg roll wrapper from the stack , and cover the remaining wrappers with a damp paper towel to prevent them from drying out .
+PREDID: 296
+PRED: remove
+   DOBJ: an egg roll wrapper
+      INGREDIENT SPAN: an egg roll wrapper
+         INGREDIENTS: ounce package egg roll wrappers
+   PARG: the stack
+     PREP: from
+      NON-INGREDIENT SPAN: the stack
+
+PREDID: 334
+PRED: cover
+   DOBJ: the remaining wrappers
+      NON-INGREDIENT SPAN: the remaining wrappers
+   PARG: a damp paper towel
+     PREP: with
+      NON-INGREDIENT SPAN: a damp paper towel
+   OARG: to prevent them from drying out
+      NON-INGREDIENT SPAN: to prevent them from drying out
+
+
+SENTID: 6
+SENT: I would place the wrapper on the work surface with a corner facing towards you .
+PREDID: 405
+PRED: place
+   DOBJ: the wrapper on the work surface
+      NON-INGREDIENT SPAN: the wrapper on the work surface
+   PARG: a corner facing towards you
+     PREP: with
+      NON-INGREDIENT SPAN: a corner facing towards you
+
+
+SENTID: 7
+SENT: I would place about 1/4 cup of filling on the wrapper , and fold the top corner down over the filling .
+PREDID: 464
+PRED: place
+   DOBJ: about 1/4 cup of filling on the wrapper
+      NON-INGREDIENT SPAN: about 1/4 cup of filling on the wrapper
+
+PREDID: 505
+PRED: fold
+   DOBJ: the top corner
+      NON-INGREDIENT SPAN: the top corner
+   PARG: the filling
+     PREP: over
+      NON-INGREDIENT SPAN: the filling
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 8
+SENT: I would tightly roll the wrapper into a cylinder , tucking in the corners as you roll , until the wrapper completely encloses the filling .
+PREDID: 547
+PRED: roll
+   DOBJ: the wrapper
+      NON-INGREDIENT SPAN: the wrapper
+   PARG: a cylinder , tucking in the corners as you roll
+     PREP: into
+      NON-INGREDIENT SPAN:  tucking in the corners as you roll
+      NON-INGREDIENT SPAN: a cylinder 
+   PARG: the wrapper completely encloses the filling
+     PREP: until
+      NON-INGREDIENT SPAN: the wrapper completely encloses the filling
+   OARG: tightly
+      NON-INGREDIENT SPAN: tightly
+
+
+SENTID: 9
+SENT: I would moisten the last corner with a little water , and finish the wrapping so the moistened corner tightly seals to the egg roll , and there are no gaps to let the filling leak out .
+PREDID: 648
+PRED: moisten
+   DOBJ: the last corner
+      NON-INGREDIENT SPAN: the last corner
+   PARG: a little water
+     PREP: with
+      NON-INGREDIENT SPAN: a little water
+
+PREDID: 688
+PRED: finish
+   DOBJ: the wrapping so the moistened corner tightly seals
+      NON-INGREDIENT SPAN: the wrapping so the moistened corner tightly seals
+   PARG: the egg roll
+     PREP: to
+      NON-INGREDIENT SPAN: the egg roll
+
+PREDID: 758
+PRED: are
+   DOBJ: NULL
+   OARG: there
+      NON-INGREDIENT SPAN: there
+   OARG: no gaps
+      NON-INGREDIENT SPAN: no gaps
+
+
+SENTID: 10
+SENT: I would place filled egg rolls on the parchment-lined baking sheet , covered with a slightly damp paper towel , while you finish making the egg rolls .
+PREDID: 787
+PRED: place
+   DOBJ: NULL
+
+PREDID: 792
+PRED: filled
+   DOBJ: egg rolls
+      NON-INGREDIENT SPAN: egg rolls
+   PARG: the parchment-lined baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: the parchment-lined baking sheet
+   PARG: you finish making the egg rolls
+     PREP: while
+      NON-INGREDIENT SPAN: you finish making the egg rolls
+
+PREDID: 838
+PRED: covered
+   DOBJ: NULL
+   PARG: a slightly damp paper towel
+     PREP: with
+      NON-INGREDIENT SPAN: a slightly damp paper towel
+
+
+SENTID: 11
+SENT: I would heat the oil in a deep saucepan or deep fryer until a thermometer registers 365 degrees F -LRB- 185 degrees C -RRB- .
+PREDID: 905
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil frying
+   PARG: a deep saucepan or deep fryer
+     PREP: in
+      NON-INGREDIENT SPAN: a deep saucepan or deep fryer
+   PARG: a thermometer registers 365 degrees f -lrb- 185 degrees c
+     PREP: until
+      NON-INGREDIENT SPAN: a thermometer registers 365 degrees f -lrb- 185 degrees c
+
+
+SENTID: 12
+SENT: I would carefully place 2 or 3 egg rolls at a time into the hot oil , and fry for about 4 or 5 minutes , turning the egg rolls over once , until golden brown .
+PREDID: 1001
+PRED: place
+   DOBJ: 2 or 3 egg rolls
+      NON-INGREDIENT SPAN: 2 or 3 egg rolls
+   PARG: a time into the hot oil , fry for about 4 or 5 minutes
+     PREP: at
+      NON-INGREDIENT SPAN:  fry for about 4 or 5 minutes
+      NON-INGREDIENT SPAN: a time into the hot oil 
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: turning the egg rolls over once , until golden brown
+      NON-INGREDIENT SPAN:  until golden brown
+      NON-INGREDIENT SPAN: turning the egg rolls over once 
+
+
+SENTID: 13
+SENT: I would remove the egg rolls with a tongs , and drain on paper towels .
+PREDID: 1109
+PRED: remove
+   DOBJ: the egg rolls
+      NON-INGREDIENT SPAN: the egg rolls
+   PARG: a tongs
+     PREP: with
+      NON-INGREDIENT SPAN: a tongs
+
+PREDID: 1140
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+

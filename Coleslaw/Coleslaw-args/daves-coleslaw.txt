@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: In a large bowl , I would mix the cabbage , the carrot , sweet onion , green onions , and dill pickle .
+PREDID: 13
+PRED: mix
+   DOBJ: the cabbage , the carrot , sweet onion , green onions , dill pickle
+      INGREDIENT SPAN:  dill pickle
+         INGREDIENTS: dill pickle juice
+      INGREDIENT SPAN:  sweet onion 
+         INGREDIENTS: green onions minced, sweet onion minced
+      INGREDIENT SPAN:  sweet onion 
+         INGREDIENTS: green onions minced, sweet onion minced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head cabbage cored chopped
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot grated
+      NON-INGREDIENT SPAN:  green onions 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a separate bowl , I would whisk together the mayonnaise , the buttermilk , dill pickle juice , the vinegar , the mustard , the sugar , cayenne pepper , and 3/4 teaspoon salt .
+PREDID: 87
+PRED: whisk
+   DOBJ: the mayonnaise , the buttermilk , dill pickle juice , the vinegar , the mustard , the sugar , cayenne pepper , 3/4 teaspoon salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  3/4 teaspoon salt
+         INGREDIENTS: salt divided
+      INGREDIENT SPAN:  dill pickle juice 
+         INGREDIENTS: dill pickle minced
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would mash together the remaining salt and garlic , and whisk into the dressing .
+PREDID: 196
+PRED: mash
+   DOBJ: the remaining salt, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic
+      INGREDIENT SPAN: the remaining salt
+         INGREDIENTS: salt divided
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 237
+PRED: whisk
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: into
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 3
+SENT: I would drizzle the dressing over the slaw , and toss to coat .
+PREDID: 258
+PRED: drizzle
+   DOBJ: the dressing over the slaw
+      NON-INGREDIENT SPAN: the dressing over the slaw
+
+PREDID: 291
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would cover and refrigerate 8 hours , or overnight , before serving .
+PREDID: 299
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: before serving
+     PREP: or
+      NON-INGREDIENT SPAN: before serving
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

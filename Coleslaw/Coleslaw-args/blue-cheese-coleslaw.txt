@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the mayonnaise , the mustard , the cheese , SPLENDA ? Granulated Sweetener , and vinegar .
+PREDID: 13
+PRED: whisk
+   DOBJ: the mayonnaise , the mustard , the cheese , SPLENDA ? Granulated Sweetener , vinegar
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: crumbled blue cheese
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared Dijonstyle mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  SPLENDA ? Granulated Sweetener 
+         INGREDIENTS: SPLENDA No Calorie Sweetener Granulated
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: cider vinegar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the coleslaw mix , the grapes , and carrots and stir until evenly coated .
+PREDID: 94
+PRED: add
+   DOBJ: the coleslaw mix , the grapes , carrots
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: shredded carrot
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes halved
+      INGREDIENT SPAN: the coleslaw mix 
+         INGREDIENTS: ounce package shredded coleslaw mix
+
+PREDID: 135
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 2
+SENT: I would chill until serving .
+PREDID: 154
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

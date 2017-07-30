@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: I would mix chicken , the bacon , the mayonnaise , the dates , and pecans together in a bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: chicken , the bacon , the mayonnaise , the dates , pecans
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the dates 
+         INGREDIENTS: dates chopped
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: crumbled cooked bacon
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubed cooked chicken
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would season with salt and pepper .
+PREDID: 59
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

@@ -1,0 +1,244 @@
+SENTID: 0
+SENT: I would place apples in a bowl and drizzle with lemon juice to keep from browning .
+PREDID: 0
+PRED: place
+   DOBJ: apples
+      INGREDIENT SPAN: apples
+         INGREDIENTS: apples peeled sliced
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 21
+PRED: drizzle
+   DOBJ: NULL
+   PARG: lemon juice
+     PREP: with
+      INGREDIENT SPAN: lemon juice
+         INGREDIENTS: lemon juice needed
+   OARG: to keep from browning
+      NON-INGREDIENT SPAN: to keep from browning
+
+
+SENTID: 1
+SENT: I would melt 1/2 cup butter in a large saucepan over medium heat ;
+PREDID: 61
+PRED: melt
+   DOBJ: 1/2 cup butter
+      INGREDIENT SPAN: 1/2 cup butter
+         INGREDIENTS: frozen butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 2
+SENT: I would remove from heat .
+PREDID: 108
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 3
+SENT: I would stir flour into melted butter until smooth .
+PREDID: 123
+PRED: stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: melted butter
+     PREP: into
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: frozen butter
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would return saucepan to low heat ;
+PREDID: 160
+PRED: return
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: low heat
+     PREP: to
+      NON-INGREDIENT SPAN: low heat
+
+
+SENTID: 5
+SENT: I would stir in brown sugar , white sugar , and water until sugars dissolve and mixture is smooth , 3 to 5 minutes .
+PREDID: 184
+PRED: stir
+   DOBJ: NULL
+   PARG: brown sugar , white sugar , water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: sugars dissolve, mixture is smooth , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  mixture is smooth 
+      NON-INGREDIENT SPAN: sugars dissolve
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 6
+SENT: I would increase heat to medium ;
+PREDID: 270
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 7
+SENT: I would cook and stir mixture until boiling .
+PREDID: 291
+PRED: cook and stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: boiling
+     PREP: until
+      NON-INGREDIENT SPAN: boiling
+
+
+SENTID: 8
+SENT: I would reduce heat to low and add apples .
+PREDID: 322
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 340
+PRED: add
+   DOBJ: apples
+      NON-INGREDIENT SPAN: apples
+
+
+SENTID: 9
+SENT: I would simmer mixture until apples are cooked but slightly tender , 20 to 25 minutes .
+PREDID: 350
+PRED: simmer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: apples are cooked but slightly tender , 20 to 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: apples are cooked but slightly tender 
+      NON-INGREDIENT SPAN:  20 to 25 minutes
+
+
+SENTID: 10
+SENT: I would preheat griddle to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 415
+PRED: preheat
+   DOBJ: griddle
+      NON-INGREDIENT SPAN: griddle
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 11
+SENT: I would whisk eggs , the milk , the cinnamon , and vanilla extract together in a bowl .
+PREDID: 456
+PRED: whisk
+   DOBJ: eggs , the milk , the cinnamon , vanilla
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+
+PREDID: 496
+PRED: extract
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would dip bread slices into egg mixture until completely coated .
+PREDID: 513
+PRED: dip
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: loaf thickcut bread
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: completely coated
+     PREP: until
+      NON-INGREDIENT SPAN: completely coated
+
+
+SENTID: 13
+SENT: I would grease heated griddle with frozen butter .
+PREDID: 563
+PRED: grease
+   DOBJ: heated griddle
+      NON-INGREDIENT SPAN: heated griddle
+   PARG: frozen butter
+     PREP: with
+      INGREDIENT SPAN: frozen butter
+         INGREDIENTS: butter
+
+
+SENTID: 14
+SENT: I would cook dipped bread slices on the hot buttered griddle until browned , 2 to 3 minutes per side .
+PREDID: 599
+PRED: cook
+   DOBJ: dipped bread slices
+      NON-INGREDIENT SPAN: dipped bread slices
+   PARG: the hot buttered griddle
+     PREP: on
+      NON-INGREDIENT SPAN: the hot buttered griddle
+   PARG: browned , 2 to 3 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  2 to 3 minutes per side
+      NON-INGREDIENT SPAN: browned 
+
+
+SENTID: 15
+SENT: I would repeat with remaining frozen butter and dipped bread .
+PREDID: 675
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining frozen butter
+     PREP: with
+      NON-INGREDIENT SPAN: remaining frozen butter
+
+PREDID: 709
+PRED: dipped
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+
+
+SENTID: 16
+SENT: I would serve French toast with apple mixture ladled over top .
+PREDID: 721
+PRED: serve
+   DOBJ: French toast
+      NON-INGREDIENT SPAN: French toast
+   PARG: apple mixture ladled over top
+     PREP: with
+      NON-INGREDIENT SPAN: apple mixture ladled over top
+
+

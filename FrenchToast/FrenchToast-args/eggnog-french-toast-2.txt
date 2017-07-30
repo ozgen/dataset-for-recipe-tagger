@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would whisk the eggs .
+PREDID: 0
+PRED: whisk
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 1
+SENT: I would eggnog , cinnamon , and pumpkin pie spice together in a mixing bowl until well blended .
+PREDID: 13
+PRED: eggnog
+   DOBJ: pie spice
+      INGREDIENT SPAN: pie spice
+         INGREDIENTS: pumpkin pie spice
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: cinnamon
+      INGREDIENT SPAN: cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the mixture into a shallow dish .
+PREDID: 85
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a shallow dish
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow dish
+
+
+SENTID: 3
+SENT: I would preheat an electric skillet to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 116
+PRED: preheat
+   DOBJ: an electric skillet to 300 degrees F -LRB- 150 degrees C
+      NON-INGREDIENT SPAN: an electric skillet to 300 degrees F -LRB- 150 degrees C
+
+
+SENTID: 4
+SENT: I would lightly grease the skillet .
+PREDID: 174
+PRED: grease
+   DOBJ: the skillet
+      NON-INGREDIENT SPAN: the skillet
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 5
+SENT: I would dip one slice of bread at a time into the eggnog mixture , being sure to coat each side of the bread thoroughly .
+PREDID: 191
+PRED: dip
+   DOBJ: one slice of bread
+      INGREDIENT SPAN: one slice of bread
+         INGREDIENTS: slices French bread
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   PARG: the eggnog mixture
+     PREP: into
+      INGREDIENT SPAN: the eggnog mixture
+         INGREDIENTS: eggnog
+   OARG: being sure to coat each side of the bread thoroughly
+      INGREDIENT SPAN: being sure to coat each side of the bread thoroughly
+         INGREDIENTS: slices French bread
+
+
+SENTID: 6
+SENT: I would place the prepared bread slices into the preheated skillet , and cook , turning once , until golden brown on each side .
+PREDID: 281
+PRED: place
+   DOBJ: the prepared bread slices
+      NON-INGREDIENT SPAN: the prepared bread slices
+   PARG: the preheated skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the preheated skillet
+
+PREDID: 340
+PRED: turning
+   DOBJ: NULL
+   PARG: golden brown on each side
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on each side
+   OARG: once
+      NON-INGREDIENT SPAN: once
+
+
+SENTID: 7
+SENT: I would place cooked slices on a serving plate and cover with foil to keep warm until all French toast is cooked .
+PREDID: 379
+PRED: place
+   DOBJ: cooked slices
+      NON-INGREDIENT SPAN: cooked slices
+   PARG: a serving plate
+     PREP: on
+      NON-INGREDIENT SPAN: a serving plate
+
+PREDID: 414
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+   OARG: to keep warm until all french toast is cooked
+      NON-INGREDIENT SPAN: to keep warm until all french toast is cooked
+
+
+SENTID: 8
+SENT: I would serve immediately .
+PREDID: 465
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

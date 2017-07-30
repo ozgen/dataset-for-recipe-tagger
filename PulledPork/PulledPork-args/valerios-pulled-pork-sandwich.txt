@@ -1,0 +1,377 @@
+SENTID: 0
+SENT: I would combine brown sugar , garlic powder , 2 tablespoons black pepper , red pepper flakes , 2 tablespoons salt , and paprika in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: brown sugar , garlic powder , 2 tablespoons black pepper , red pepper flakes , 2 tablespoons salt , paprika in a bowl
+      INGREDIENT SPAN:  paprika in a bowl
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  2 tablespoons black pepper 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  2 tablespoons salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 1
+SENT: I would rub the spice mixture over pork butt , cover , and refrigerate 5 hours or overnight .
+PREDID: 106
+PRED: rub
+   DOBJ: the spice mixture
+      NON-INGREDIENT SPAN: the spice mixture
+   PARG: pork butt
+     PREP: over
+      INGREDIENT SPAN: pork butt
+         INGREDIENTS: pork butt roast bone
+
+PREDID: 146
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 5 hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: 5 hours or overnight
+
+
+SENTID: 2
+SENT: I would pour beef stock and 1/2 cup hot sauce in a pressure cooker .
+PREDID: 175
+PRED: pour
+   DOBJ: beef stock, 1/2 cup hot sauce
+      INGREDIENT SPAN: beef stock
+         INGREDIENTS: beef stock
+      INGREDIENT SPAN:  1/2 cup hot sauce
+         INGREDIENTS: hot sauce
+   PARG: a pressure cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a pressure cooker
+
+
+SENTID: 3
+SENT: I would stir in 3 tablespoons honey , 1 tablespoon molasses , maple syrup , and 4 crushed garlic cloves .
+PREDID: 223
+PRED: stir
+   DOBJ: NULL
+   PARG: 3 tablespoons honey , 1 tablespoon molasses , maple syrup , 4 crushed garlic cloves
+     PREP: in
+      INGREDIENT SPAN:  1 tablespoon molasses 
+         INGREDIENTS: molasses
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN: 3 tablespoons honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  4 crushed garlic cloves
+         INGREDIENTS: cloves garlic minced
+
+
+SENTID: 4
+SENT: I would place the pork butt in the pressure cooker , seal the lid , and bring up to low pressure over high heat .
+PREDID: 302
+PRED: place
+   DOBJ: the pork butt
+      NON-INGREDIENT SPAN: the pork butt
+   PARG: the pressure cooker
+     PREP: in
+      NON-INGREDIENT SPAN: the pressure cooker
+
+PREDID: 338
+PRED: seal
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+
+PREDID: 352
+PRED: bring
+   DOBJ: NULL
+   PARG: low pressure over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: low pressure over high heat
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 5
+SENT: I would reduce the heat to low , maintaining low pressure , and cook for 2 hours .
+PREDID: 385
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: maintaining low pressure
+      NON-INGREDIENT SPAN: maintaining low pressure
+
+PREDID: 430
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 6
+SENT: While the pork is cooking , I would make the coleslaw .
+PREDID: 466
+PRED: make
+   DOBJ: the coleslaw
+      INGREDIENT SPAN: the coleslaw
+         INGREDIENTS: ounce bag coleslaw mix
+   PARG: the pork is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the pork is cooking
+
+
+SENTID: 7
+SENT: I would mix mayonnaise , Dijon mustard , 1 teaspoon hot sauce , white vinegar , 1 teaspoon salt , and 1 teaspoon black pepper in a bowl .
+PREDID: 482
+PRED: mix
+   DOBJ: mayonnaise , Dijon mustard , 1 teaspoon hot sauce , white vinegar , 1 teaspoon salt , 1 teaspoon black pepper in a bowl
+      INGREDIENT SPAN:  white vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  1 teaspoon salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  1 teaspoon black pepper in a bowl
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  1 teaspoon hot sauce 
+         INGREDIENTS: hot sauce
+
+
+SENTID: 8
+SENT: I would add the coleslaw mix and toss to coat .
+PREDID: 585
+PRED: add
+   DOBJ: the coleslaw mix
+      NON-INGREDIENT SPAN: the coleslaw mix
+
+PREDID: 605
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 9
+SENT: I would cover and refrigerate .
+PREDID: 616
+PRED: cover and refrigerate
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would turn off the heat and let the pressure reduce naturally ;
+PREDID: 636
+PRED: turn
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 653
+PRED: let reduce
+   DOBJ: the pressure
+      NON-INGREDIENT SPAN: the pressure
+   OARG: naturally
+      NON-INGREDIENT SPAN: naturally
+
+
+SENTID: 11
+SENT: I would remove the lid and let the pork rest for 5 minutes .
+PREDID: 683
+PRED: remove
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+
+PREDID: 698
+PRED: let
+   DOBJ: the pork rest
+      NON-INGREDIENT SPAN: the pork rest
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 12
+SENT: The meat should shred easily with a fork ;
+
+SENTID: 13
+SENT: if it does n't fall off the bone , I would reseal the lid , turn on the heat , return the pressure cooker to low pressure , and cook for another 30 minutes .
+PREDID: 750
+PRED: reseal
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+   PARG: it does n't fall off the bone
+     PREP: if
+      NON-INGREDIENT SPAN: it does n't fall off the bone
+
+PREDID: 763
+PRED: turn
+   DOBJ: NULL
+   PARG: the heat
+     PREP: on
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 777
+PRED: return
+   DOBJ: the pressure cooker
+      NON-INGREDIENT SPAN: the pressure cooker
+   PARG: low pressure
+     PREP: to
+      NON-INGREDIENT SPAN: low pressure
+
+PREDID: 817
+PRED: cook
+   DOBJ: NULL
+   PARG: another 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 30 minutes
+
+
+SENTID: 14
+SENT: I would remove meat from the pressure cooker , reserving 1/4 cup cooking liquid .
+PREDID: 841
+PRED: remove
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: the pressure cooker
+     PREP: from
+      NON-INGREDIENT SPAN: the pressure cooker
+   OARG: reserving 1/4 cup cooking liquid
+      NON-INGREDIENT SPAN: reserving 1/4 cup cooking liquid
+
+
+SENTID: 15
+SENT: I would shred the meat using two forks and set aside .
+PREDID: 902
+PRED: shred
+   DOBJ: the meat using two forks
+      NON-INGREDIENT SPAN: the meat using two forks
+
+PREDID: 930
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 16
+SENT: I would heat vegetable oil in a saucepan over medium heat .
+PREDID: 939
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 17
+SENT: I would stir in 5 cloves of garlic ;
+PREDID: 981
+PRED: stir
+   DOBJ: NULL
+   PARG: 5 cloves of garlic
+     PREP: in
+      INGREDIENT SPAN: 5 cloves of garlic
+         INGREDIENTS: cloves garlic minced
+
+
+SENTID: 18
+SENT: I would cook and stir until the garlic is fragrant and just starting to turn brown , about 3 minutes .
+PREDID: 1003
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the garlic is fragrant, just starting
+     PREP: until
+      NON-INGREDIENT SPAN: the garlic is fragrant
+      NON-INGREDIENT SPAN:  just starting
+
+PREDID: 1055
+PRED: turn
+   DOBJ: NULL
+   PARG: brown , about 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: brown 
+      NON-INGREDIENT SPAN:  about 3 minutes
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 19
+SENT: I would remove from heat and stir in ketchup , 1/2 cup honey , 2 tablespoons hot sauce , 2 tablespoons molasses , cider vinegar , and reserved cooking liquid .
+PREDID: 1079
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 1096
+PRED: stir
+   DOBJ: NULL
+   PARG: ketchup , 1/2 cup honey , 2 tablespoons hot sauce , 2 tablespoons molasses , cider vinegar , reserved cooking liquid
+     PREP: in
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  2 tablespoons molasses 
+         INGREDIENTS: molasses
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  2 tablespoons hot sauce 
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN:  1/2 cup honey 
+         INGREDIENTS: honey
+      NON-INGREDIENT SPAN:  reserved cooking liquid
+
+
+SENTID: 20
+SENT: I would season with salt and black pepper to taste .
+PREDID: 1202
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+   PARG: taste
+     PREP: to
+      INGREDIENT SPAN: taste
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 21
+SENT: I would bring the sauce to a simmer over medium heat .
+PREDID: 1238
+PRED: bring
+   DOBJ: the sauce
+      INGREDIENT SPAN: the sauce
+         INGREDIENTS: hot sauce
+   PARG: a simmer over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over medium heat
+
+
+SENTID: 22
+SENT: I would fill each Kaiser roll with two big forkfuls of pork , two tablespoons of barbeque sauce , and 2 spoonfuls of coleslaw .
+PREDID: 1275
+PRED: fill
+   DOBJ: each Kaiser roll
+      INGREDIENT SPAN: each Kaiser roll
+         INGREDIENTS: Kaiser rolls split
+   PARG: two big forkfuls of pork , two tablespoons of barbeque sauce , 2 spoonfuls of coleslaw
+     PREP: with
+      NON-INGREDIENT SPAN: two big forkfuls of pork 
+      NON-INGREDIENT SPAN:  2 spoonfuls of coleslaw
+      NON-INGREDIENT SPAN:  two tablespoons of barbeque sauce 
+
+

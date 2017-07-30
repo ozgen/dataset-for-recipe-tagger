@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In large saucepan over medium heat , I would combine mushroom soup , processed cheese , the butter , the milk , garlic powder , the salt and pepper .
+PREDID: 123
+PRED: combine
+   DOBJ: mushroom soup , processed cheese , the butter , the milk , garlic powder , the salt, pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  processed cheese 
+         INGREDIENTS: cubed processed cheese
+      NON-INGREDIENT SPAN:  pepper
+   PARG: large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: large saucepan over medium heat
+
+
+SENTID: 4
+SENT: I would stir until cheese is melted .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 5
+SENT: I would stir in noodles and heat through .
+PREDID: 222
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles, heat
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles
+      NON-INGREDIENT SPAN:  heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

@@ -1,0 +1,295 @@
+SENTID: 0
+SENT: I would cook and stir ground beef , Italian sausage , the onion , and garlic in a large skillet over medium heat until the meat is crumbly and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef , Italian sausage , the onion , garlic
+      INGREDIENT SPAN:  Italian sausage 
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the meat is crumbly, no longer pink , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  no longer pink 
+      NON-INGREDIENT SPAN: the meat is crumbly
+
+
+SENTID: 1
+SENT: I would drain grease and stir basil , the oregano , brown sugar , red pepper flakes , 1 teaspoon salt , black pepper , the tomatoes , and tomato paste into the meat .
+PREDID: 133
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+PREDID: 147
+PRED: stir
+   DOBJ: basil , the oregano , brown sugar , red pepper flakes , 1 teaspoon salt , black pepper , the tomatoes , tomato paste
+      INGREDIENT SPAN: basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN:  1 teaspoon salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes taste
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: the meat
+     PREP: into
+      NON-INGREDIENT SPAN: the meat
+
+
+SENTID: 2
+SENT: I would bring to a boil , reduce heat to low , and simmer meat sauce for 30 minutes .
+PREDID: 253
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 266
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 285
+PRED: simmer
+   DOBJ: meat sauce
+      NON-INGREDIENT SPAN: meat sauce
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 3
+SENT: I would stir occasionally .
+PREDID: 313
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 4
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 330
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 5
+SENT: I would grease a 9x13-inch baking dish .
+PREDID: 368
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 6
+SENT: I would mix eggs , ricotta cheese , 1 cup Parmesan cheese , the parsley , and 1 teaspoon salt in a bowl until thoroughly combined .
+PREDID: 395
+PRED: mix
+   DOBJ: eggs , ricotta cheese , 1 cup Parmesan cheese , the parsley , 1 teaspoon salt in a bowl
+      INGREDIENT SPAN:  1 teaspoon salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  1 cup Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: ricotta cheese
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 7
+SENT: I would pare several slices of skin lengthwise from zucchini , alternating with strips of remaining skin .
+PREDID: 491
+PRED: pare
+   DOBJ: several slices of skin lengthwise
+      NON-INGREDIENT SPAN: several slices of skin lengthwise
+   PARG: zucchini
+     PREP: from
+      INGREDIENT SPAN: zucchini
+         INGREDIENTS: large zucchini trimmed
+   OARG: alternating with strips of remaining skin
+      NON-INGREDIENT SPAN: alternating with strips of remaining skin
+
+
+SENTID: 8
+SENT: I would cut zucchini into long strips to resemble lasagna noodles .
+PREDID: 574
+PRED: cut
+   DOBJ: zucchini
+      NON-INGREDIENT SPAN: zucchini
+   PARG: long strips
+     PREP: into
+      NON-INGREDIENT SPAN: long strips
+   OARG: to resemble lasagna noodles
+      NON-INGREDIENT SPAN: to resemble lasagna noodles
+
+
+SENTID: 9
+SENT: I would discard seedy middle strips .
+PREDID: 624
+PRED: discard
+   DOBJ: seedy middle strips
+      NON-INGREDIENT SPAN: seedy middle strips
+
+
+SENTID: 10
+SENT: I would place 1/3 of the zucchini strips into bottom of the prepared baking dish , filling in any gaps with scrap pieces of zucchini .
+PREDID: 649
+PRED: place
+   DOBJ: 1/3 of the zucchini strips
+      NON-INGREDIENT SPAN: 1/3 of the zucchini strips
+   PARG: bottom of the prepared baking dish , filling in any gaps with scrap pieces of zucchini
+     PREP: into
+      NON-INGREDIENT SPAN:  filling in any gaps with scrap pieces of zucchini
+      NON-INGREDIENT SPAN: bottom of the prepared baking dish 
+
+
+SENTID: 11
+SENT: I would spread half the ricotta mixture over zucchini ;
+PREDID: 752
+PRED: spread
+   DOBJ: half the ricotta mixture
+      NON-INGREDIENT SPAN: half the ricotta mixture
+   PARG: zucchini
+     PREP: over
+      NON-INGREDIENT SPAN: zucchini
+
+
+SENTID: 12
+SENT: I would spread 1 cup of mozzarella cheese over ricotta mixture ;
+PREDID: 792
+PRED: spread
+   DOBJ: 1 cup of mozzarella cheese
+      INGREDIENT SPAN: 1 cup of mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: ricotta mixture
+     PREP: over
+      NON-INGREDIENT SPAN: ricotta mixture
+
+
+SENTID: 13
+SENT: spread 1/3 of the meat sauce over mozzarella cheese .
+
+SENTID: 14
+SENT: I would repeat layers once more , layering 1/3 of zucchini strips , remaining half of the ricotta mixture , 1 more cup of mozzarella cheese , and 1/3 of the meat sauce .
+PREDID: 839
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: once more
+      NON-INGREDIENT SPAN: once more
+   OARG: layering 1/3 of zucchini strips , remaining half of the ricotta mixture , 1 more cup of mozzarella cheese , 1/3 of the meat sauce
+      INGREDIENT SPAN:  1 more cup of mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese divided
+      NON-INGREDIENT SPAN:  1/3 of the meat sauce
+      NON-INGREDIENT SPAN:  remaining half of the ricotta mixture 
+      NON-INGREDIENT SPAN: layering 1/3 of zucchini strips 
+
+
+SENTID: 15
+SENT: I would make a third layer of remaining zucchini strips , remaining meat sauce , and 2 tablespoons Parmesan cheese sprinkled on top .
+PREDID: 969
+PRED: make
+   DOBJ: a third layer of remaining zucchini strips , remaining meat sauce
+      NON-INGREDIENT SPAN:  remaining meat sauce
+      NON-INGREDIENT SPAN: a third layer of remaining zucchini strips 
+   OARG: 2 tablespoons parmesan cheese sprinkled on top
+      INGREDIENT SPAN: 2 tablespoons parmesan cheese sprinkled on top
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 16
+SENT: I would bake in the preheated oven until lasagna is bubbling and top is browned , about 1 hour .
+PREDID: 1073
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: lasagna is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: lasagna is bubbling
+   OARG: top is browned , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: top is browned 
+
+
+SENTID: 17
+SENT: If top is browning too quickly , I would cover dish with aluminum foil during last 15 minutes of baking time .
+PREDID: 1170
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: top is browning too quickly
+     PREP: if
+      NON-INGREDIENT SPAN: top is browning too quickly
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+   PARG: last 15 minutes of baking time
+     PREP: during
+      NON-INGREDIENT SPAN: last 15 minutes of baking time
+
+
+SENTID: 18
+SENT: I would spread 1 cup mozzarella cheese on top of the casserole and bake until mozzarella cheese topping is melted , 5 to 10 more minutes .
+PREDID: 1227
+PRED: spread
+   DOBJ: 1 cup mozzarella cheese
+      INGREDIENT SPAN: 1 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: top of the casserole
+     PREP: on
+      NON-INGREDIENT SPAN: top of the casserole
+   PARG: minutes
+     PREP: for
+      NON-INGREDIENT SPAN: minutes
+
+PREDID: 1275
+PRED: bake
+   DOBJ: NULL
+   PARG: mozzarella cheese topping is melted , 5 to 10 more
+     PREP: until
+      INGREDIENT SPAN: mozzarella cheese topping is melted 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  5 to 10 more
+
+
+SENTID: 19
+SENT: I would let casserole stand 10 minutes before serving .
+PREDID: 1333
+PRED: let
+   DOBJ: casserole stand
+      NON-INGREDIENT SPAN: casserole stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

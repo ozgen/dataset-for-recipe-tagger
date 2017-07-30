@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: To Make Crust :
+
+SENTID: 2
+SENT: In a medium bowl combine flour and salt .
+
+SENTID: 3
+SENT: Stir well , I would 
+PREDID: 83
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cut in butter until mixture is the size of small peas .
+PREDID: 92
+PRED: cut
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter chilled diced
+   PARG: mixture is the size of small peas
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is the size of small peas
+
+
+SENTID: 5
+SENT: I would add ice water and mix just until dough forms a ball .
+PREDID: 136
+PRED: add
+   DOBJ: a ball, ice water
+      INGREDIENT SPAN:  ice water
+         INGREDIENTS: ice water
+      NON-INGREDIENT SPAN: a ball
+
+PREDID: 150
+PRED: mix
+   DOBJ: NULL
+   PARG: dough forms
+     PREP: until
+      NON-INGREDIENT SPAN: dough forms
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 6
+SENT: I would allow dough to rest in refrigerator for 20 minutes ,
+PREDID: 178
+PRED: allow
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   OARG: to rest in refrigerator for 20 minutes
+      NON-INGREDIENT SPAN: to rest in refrigerator for 20 minutes
+
+
+SENTID: 7
+SENT: I would roll out and fit into a 9-inch pie plate .
+PREDID: 221
+PRED: roll
+   DOBJ: NULL
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 231
+PRED: fit
+   DOBJ: NULL
+   PARG: a 9-inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: a 9-inch pie plate
+
+
+SENTID: 8
+SENT: I would set aside .
+PREDID: 254
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: To Make Filling :
+
+SENTID: 10
+SENT: In a medium bowl mix eggs and sugar .
+PREDID: 286
+PRED: bowl
+   DOBJ: NULL
+   PARG: a medium
+     PREP: in
+      NON-INGREDIENT SPAN: a medium
+   OARG: mix eggs, sugar
+      INGREDIENT SPAN: mix eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 11
+SENT: I would add corn syrup and melted butter or margarine .
+PREDID: 306
+PRED: add
+   DOBJ: corn syrup, melted butter or margarine
+      INGREDIENT SPAN:  melted butter or margarine
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: corn syrup
+         INGREDIENTS: light corn syrup
+
+
+SENTID: 12
+SENT: I would mix until all ingredients are thoroughly combined .
+PREDID: 345
+PRED: mix
+   DOBJ: NULL
+   PARG: all ingredients are thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are thoroughly combined
+
+
+SENTID: 13
+SENT: I would spread chocolate chips and pecan pieces across bottom of pie shell .
+PREDID: 389
+PRED: spread
+   DOBJ: chocolate chips, pecan pieces
+      INGREDIENT SPAN:  pecan pieces
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+   PARG: bottom of pie shell
+     PREP: across
+      NON-INGREDIENT SPAN: bottom of pie shell
+
+
+SENTID: 14
+SENT: I would pour egg mixture over chocolate chip and pecan layer .
+PREDID: 446
+PRED: pour
+   DOBJ: egg mixture
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: chocolate chip, pecan layer
+     PREP: over
+      INGREDIENT SPAN:  pecan layer
+         INGREDIENTS: chopped pecans
+      NON-INGREDIENT SPAN: chocolate chip
+
+
+SENTID: 15
+SENT: I would bake in preheated oven for 35 minutes .
+PREDID: 491
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 35 minutes
+
+
+SENTID: 16
+SENT: I would serve warm or cool with a dollop of whipped cream and a sprinkling of chocolate chips if desired .
+PREDID: 523
+PRED: serve
+   DOBJ: NULL
+   PARG: a dollop of whipped cream, a sprinkling of chocolate chips
+     PREP: with
+      NON-INGREDIENT SPAN:  a sprinkling of chocolate chips
+      NON-INGREDIENT SPAN: a dollop of whipped cream
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   OARG: warm or cool
+      NON-INGREDIENT SPAN: warm or cool
+
+

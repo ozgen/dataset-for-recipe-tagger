@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: In a Dutch oven , I would over medium heat , cook and stir the ground beef , the onion , the pepper , and garlic until beef is no longer pink and the vegetables are crisp tender -LRB- 8 to 9 minutes -RRB- .
+PREDID: 23
+PRED: heat and cook
+   DOBJ: the ground beef , the onion , the pepper , garlic until beef is no longer pink
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  garlic until beef is no longer pink
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: % lean ground beef
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: chopped bell peppers orange red yellow green, cracked black pepper
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: chopped bell peppers orange red yellow green, cracked black pepper
+   PARG: a dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven
+   OARG: over medium
+      NON-INGREDIENT SPAN: over medium
+   OARG: the vegetables are crisp tender -lrb- 8 to 9 minutes
+      NON-INGREDIENT SPAN: the vegetables are crisp tender -lrb- 8 to 9 minutes
+
+
+SENTID: 1
+SENT: I would add the chili powder , the cumin and pepper to the Dutch oven .
+PREDID: 142
+PRED: add
+   DOBJ: the chili powder , the cumin, pepper
+      INGREDIENT SPAN: the chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  pepper
+   PARG: the dutch oven
+     PREP: to
+      NON-INGREDIENT SPAN: the dutch oven
+
+
+SENTID: 2
+SENT: I would continue cooking for 1 minute .
+PREDID: 189
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 3
+SENT: I would add the kidney beans , tomato sauce , diced tomatoes , and water to the Dutch oven .
+PREDID: 215
+PRED: add
+   DOBJ: the kidney beans , tomato sauce , diced tomatoes , water
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the kidney beans 
+         INGREDIENTS: ounce light kidney beans rinsed drained
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+   PARG: the dutch oven
+     PREP: to
+      NON-INGREDIENT SPAN: the dutch oven
+
+
+SENTID: 4
+SENT: I would cook and stir until the chili comes to a boil -LRB- 5 to 6 minutes -RRB- .
+PREDID: 282
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chili comes to a boil -lrb- 5 to 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the chili comes to a boil -lrb- 5 to 6 minutes
+
+
+SENTID: 5
+SENT: I would reduce the heat to medium low .
+PREDID: 332
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+
+SENTID: 6
+SENT: I would continue cooking , stirring occasionally , for 25 to 30 minutes .
+PREDID: 357
+PRED: continue
+   DOBJ: cooking , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: cooking 
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+
+
+SENTID: 7
+SENT: I would serve individual bowls of chili with a dollop of Daisy Sour Cream .
+PREDID: 411
+PRED: serve
+   DOBJ: individual bowls of chili
+      NON-INGREDIENT SPAN: individual bowls of chili
+   PARG: a dollop of daisy sour cream
+     PREP: with
+      INGREDIENT SPAN: a dollop of daisy sour cream
+         INGREDIENTS: Daisy Brand Light Sour Cream
+
+
+SENTID: 8
+SENT: I would garnish with shredded cheese , avocado slices , and a few dashes of hot pepper sauce if desired .
+PREDID: 466
+PRED: garnish
+   DOBJ: NULL
+   PARG: shredded cheese , avocado slices , a few dashes of hot pepper sauce
+     PREP: with
+      NON-INGREDIENT SPAN: shredded cheese 
+      NON-INGREDIENT SPAN:  a few dashes of hot pepper sauce
+      NON-INGREDIENT SPAN:  avocado slices 
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

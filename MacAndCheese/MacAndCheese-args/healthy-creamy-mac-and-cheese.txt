@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer .
+PREDID: 38
+PRED: place
+   DOBJ: a steamer insert
+      NON-INGREDIENT SPAN: a steamer insert
+   PARG: a saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 73
+PRED: fill
+   DOBJ: NULL
+   PARG: water to just below the bottom of the steamer
+     PREP: with
+      NON-INGREDIENT SPAN: water to just below the bottom of the steamer
+
+
+SENTID: 2
+SENT: I would bring water to a boil .
+PREDID: 119
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add cauliflower , the cover , and steam until tender , about 25 minutes .
+PREDID: 137
+PRED: add
+   DOBJ: cauliflower , the cover , steam
+      INGREDIENT SPAN: cauliflower 
+         INGREDIENTS: head cauliflower chopped
+      NON-INGREDIENT SPAN:  the cover 
+      NON-INGREDIENT SPAN:  steam
+   PARG: tender , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 4
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 193
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 235
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 6
+SENT: I would drain and transfer to a 9x13-inch casserole dish .
+PREDID: 334
+PRED: drain and transfer
+   DOBJ: NULL
+   PARG: a 9x13-inch casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+
+
+SENTID: 7
+SENT: I would blend cauliflower , the yogurt , chicken broth , and olive oil in a blender until smooth ;
+PREDID: 376
+PRED: blend
+   DOBJ: cauliflower , the yogurt , chicken broth , olive oil in a blender
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: lowsodium chicken broth
+      INGREDIENT SPAN:  olive oil in a blender
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: Greek yogurt
+      NON-INGREDIENT SPAN: cauliflower 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would pour cauliflower mixture into a saucepan over medium heat .
+PREDID: 446
+PRED: pour
+   DOBJ: cauliflower mixture
+      NON-INGREDIENT SPAN: cauliflower mixture
+   PARG: a saucepan over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 9
+SENT: I would stir Cheddar cheese , nutritional yeast , mustard powder , garlic powder , cayenne pepper , and nutmeg into cauliflower mixture ;
+PREDID: 496
+PRED: stir
+   DOBJ: Cheddar cheese , nutritional yeast , mustard powder , garlic powder , cayenne pepper , nutmeg
+      INGREDIENT SPAN: Cheddar cheese 
+         INGREDIENTS: reducedfat Cheddar cheese cubed
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  nutritional yeast 
+         INGREDIENTS: nutritional yeast flakes
+      INGREDIENT SPAN:  mustard powder 
+         INGREDIENTS: mustard powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+   PARG: cauliflower mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cauliflower mixture
+
+
+SENTID: 10
+SENT: I would cook and stir until cheese sauce is smooth , about 5 minutes .
+PREDID: 604
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: cheese sauce is smooth
+     PREP: until
+      INGREDIENT SPAN: cheese sauce is smooth
+         INGREDIENTS: grated Parmesan cheese
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 11
+SENT: I would pour cheese sauce over macaroni ;
+PREDID: 654
+PRED: pour
+   DOBJ: cheese sauce
+      NON-INGREDIENT SPAN: cheese sauce
+   PARG: macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: macaroni
+
+
+SENTID: 12
+SENT: I would toss to coat .
+PREDID: 682
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven for 15 minutes .
+PREDID: 693
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 14
+SENT: I would mix Parmesan cheese and panko crumbs together in a bowl ;
+PREDID: 728
+PRED: mix
+   DOBJ: Parmesan cheese, panko crumbs
+      INGREDIENT SPAN:  panko crumbs
+         INGREDIENTS: panko bread crumbs
+      NON-INGREDIENT SPAN: Parmesan cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 15
+SENT: I would sprinkle over macaroni .
+PREDID: 775
+PRED: sprinkle
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 16
+SENT: I would bake until Parmesan cheese is melted , 3 to 5 minutes .
+PREDID: 796
+PRED: bake
+   DOBJ: NULL
+   PARG: parmesan cheese is melted , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: parmesan cheese is melted 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+

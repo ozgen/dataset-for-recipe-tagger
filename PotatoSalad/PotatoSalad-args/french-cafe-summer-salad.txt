@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: I would place the potatoes in a large pot with enough lightly salted water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes in a large pot
+      INGREDIENT SPAN: the potatoes in a large pot
+         INGREDIENTS: medium red potatoes
+   PARG: enough lightly salted water to cover
+     PREP: with
+      NON-INGREDIENT SPAN: enough lightly salted water to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil over medium-high heat , and cook until tender , but still firm .
+PREDID: 63
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-high heat
+
+PREDID: 98
+PRED: cook
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+PREDID: 122
+PRED: firm
+   DOBJ: NULL
+   OARG: still
+      NON-INGREDIENT SPAN: still
+
+
+SENTID: 2
+SENT: It will take about 20 minutes .
+
+SENTID: 3
+SENT: I would drain , cool and cut into bite-size pieces .
+PREDID: 127
+PRED: drain and cool
+   DOBJ: NULL
+
+PREDID: 140
+PRED: cut
+   DOBJ: NULL
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 4
+SENT: In a large salad bowl , I would whisk together the olive oil , the garlic , and Dijon mustard .
+PREDID: 181
+PRED: whisk
+   DOBJ: the olive oil , the garlic , Dijon mustard
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  Dijon mustard
+         INGREDIENTS: Dijon mustard
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would add the cabbage , the corn , red onion , red pepper , green pepper , yellow pepper , and cucumber .
+PREDID: 229
+PRED: add
+   DOBJ: the cabbage , the corn , red onion , red pepper , green pepper , yellow pepper , cucumber
+      INGREDIENT SPAN:  cucumber
+         INGREDIENTS: cucumber diced
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: large red onion diced
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  yellow pepper 
+         INGREDIENTS: yellow bell pepper diced
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded red cabbage
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: red bell pepper diced
+
+
+SENTID: 6
+SENT: I would add kidney beans , if desired .
+PREDID: 304
+PRED: add
+   DOBJ: kidney beans
+      INGREDIENT SPAN: kidney beans
+         INGREDIENTS: ounce white kidney cannelini beans rinsed drained
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 7
+SENT: I would mix in the cooled potatoes .
+PREDID: 329
+PRED: mix
+   DOBJ: NULL
+   PARG: the cooled potatoes
+     PREP: in
+      NON-INGREDIENT SPAN: the cooled potatoes
+
+
+SENTID: 8
+SENT: I would wash your hands , and use them to mix everything together until well coated with the dressing .
+PREDID: 352
+PRED: wash
+   DOBJ: your hands
+      NON-INGREDIENT SPAN: your hands
+
+PREDID: 369
+PRED: use
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   OARG: to mix everything together until well coated with the dressing
+      NON-INGREDIENT SPAN: to mix everything together until well coated with the dressing
+
+
+SENTID: 9
+SENT: I would gently stir in the Romano cheese , and season with salt and pepper to taste .
+PREDID: 436
+PRED: stir
+   DOBJ: NULL
+   PARG: the romano cheese
+     PREP: in
+      INGREDIENT SPAN: the romano cheese
+         INGREDIENTS: grated Romano cheese
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: season with salt, pepper to taste
+      INGREDIENT SPAN: season with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper to taste
+
+
+SENTID: 10
+SENT: I would chill for one hour before serving .
+PREDID: 492
+PRED: chill
+   DOBJ: NULL
+   PARG: one hour
+     PREP: for
+      NON-INGREDIENT SPAN: one hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

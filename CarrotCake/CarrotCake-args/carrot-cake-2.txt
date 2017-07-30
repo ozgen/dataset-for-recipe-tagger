@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13 inch baking pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13 inch baking pan
+      INGREDIENT SPAN: a 9x13 inch baking pan
+         INGREDIENTS: baking soda
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 63
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix together sugar , the oil , the eggs , the vanilla , and buttermilk .
+PREDID: 85
+PRED: mix
+   DOBJ: sugar , the oil , the eggs , the vanilla , buttermilk
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  buttermilk
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in carrots , the coconut , the vanilla , and pineapple .
+PREDID: 133
+PRED: stir
+   DOBJ: NULL
+   PARG: carrots , the coconut , the vanilla , pineapple
+     PREP: in
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: flaked coconut
+      NON-INGREDIENT SPAN:  the vanilla 
+
+
+SENTID: 5
+SENT: In a separate bowl , I would combine flour , baking soda , the cinnamon , and salt ;
+PREDID: 192
+PRED: combine
+   DOBJ: flour , baking soda , the cinnamon , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  baking soda 
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 6
+SENT: I would gently stir into carrot mixture .
+PREDID: 239
+PRED: stir
+   DOBJ: NULL
+   PARG: carrot mixture
+     PREP: into
+      NON-INGREDIENT SPAN: carrot mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would stir in chopped nuts .
+PREDID: 261
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped nuts
+     PREP: in
+      INGREDIENT SPAN: chopped nuts
+         INGREDIENTS: chopped walnuts
+
+
+SENTID: 8
+SENT: I would spread batter into prepared pan .
+PREDID: 279
+PRED: spread
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 9
+SENT: I would bake for 55 minutes or until toothpick inserted into cake comes out clean .
+PREDID: 307
+PRED: bake
+   DOBJ: NULL
+   PARG: 55 minutes or until toothpick inserted into cake comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 55 minutes or until toothpick inserted into cake comes out clean
+
+
+SENTID: 10
+SENT: I would remove from oven , and set aside to cool .
+PREDID: 369
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 387
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 11
+SENT: In a medium mixing bowl , I would combine butter or margarine , cream cheese , the vanilla , and confectioners sugar .
+PREDID: 422
+PRED: combine
+   DOBJ: butter or margarine , cream cheese , the vanilla , confectioners sugar
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: ounce package cream cheese
+      INGREDIENT SPAN:  confectioners sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN: butter or margarine 
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  the vanilla 
+   PARG: a medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium mixing bowl
+
+
+SENTID: 12
+SENT: I would blend until creamy .
+PREDID: 489
+PRED: blend
+   DOBJ: NULL
+   PARG: creamy
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+
+
+SENTID: 13
+SENT: I would frost cake while still in the pan .
+PREDID: 506
+PRED: frost
+   DOBJ: cake while
+      NON-INGREDIENT SPAN: cake while
+   PARG: the pan
+     PREP: in
+      NON-INGREDIENT SPAN: the pan
+   OARG: still
+      NON-INGREDIENT SPAN: still
+
+

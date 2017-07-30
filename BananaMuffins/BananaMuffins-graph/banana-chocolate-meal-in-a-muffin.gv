@@ -1,0 +1,64 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="spray
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="mix
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="fold
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="distribute
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: a 12-cup muffin tin", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="COOBJECT:with cooking spray
+(text: with cooking spray)", shape=box, style=filled, fillcolor=peachpuff]
+P1_0 -> E1
+D7[label="DOBJ: chocolate chips, chopped walnuts
+(text: chocolate chips, walnuts)", shape=box, style=filled, fillcolor=peachpuff]
+D7 -> E7
+P7_0[label="LOCATION:into batter", shape=box, style=filled, fillcolor=white]
+P7_0 -> E7
+D8[label="DOBJ: batter", shape=box, style=filled, fillcolor=white]
+D8 -> E8
+P8_0[label="LOCATION:into the muffin cups", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+D2[label="DOBJ: brown sugar, bananas
+(text: mashed bananas, brown sugar)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+D3[label="DOBJ: olive oil, eggs, vanilla extract
+(text: eggs , olive oil , vanilla extract)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D5[label="DOBJ: baking powder, ground cinnamon, whole wheat flour, cocoa powder
+(text: flour , cocoa powder , baking powder , cinnamon in a separate bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E2 -> E6 [label="banana mixture"]
+E5 -> E6 [label="LOCATION:into flour mixture"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+E0 -> E9 [label="LOCATION:in the preheated oven"]
+P9_1_0[label="DURATION:until  35 to 40 minutes", shape=box, style=filled, fillcolor=white]
+P9_1_0 -> E9
+P9_1_1[label="DURATION:until a toothpick inserted in the center of a muffin comes out clean ", shape=box, style=filled, fillcolor=white]
+P9_1_1 -> E9
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

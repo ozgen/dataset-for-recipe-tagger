@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large mixing bowl , I would combine the ground beef , the eggs , stuffing mix , hickory smoke flavored barbeque sauce , the onion , the garlic and milk .
+PREDID: 90
+PRED: combine
+   DOBJ: the ground beef , the eggs , stuffing mix , hickory smoke flavored barbeque sauce , the onion , the garlic, milk
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  hickory smoke flavored barbeque sauce 
+         INGREDIENTS: hickory smoke flavored barbeque sauce
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  stuffing mix 
+         INGREDIENTS: ounce package herbseasoned dry bread stuffing mix
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 3
+SENT: I would mix thoroughly and place into the prepared baking dish .
+PREDID: 182
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 198
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 4
+SENT: I would shape into 2 loaves .
+PREDID: 229
+PRED: shape
+   DOBJ: NULL
+   PARG: 2 loaves
+     PREP: into
+      NON-INGREDIENT SPAN: 2 loaves
+
+
+SENTID: 5
+SENT: In a small bowl , I would combine the barbeque sauce and brown sugar ;
+PREDID: 259
+PRED: combine
+   DOBJ: the barbeque sauce, brown sugar
+      INGREDIENT SPAN: the barbeque sauce
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 6
+SENT: I would blend well .
+PREDID: 296
+PRED: blend
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would pour the glaze over the 2 meatloaves .
+PREDID: 306
+PRED: pour
+   DOBJ: the glaze over the 2 meatloaves
+      NON-INGREDIENT SPAN: the glaze over the 2 meatloaves
+
+
+SENTID: 8
+SENT: I would cover the baking dish and bake in the preheated oven for 60 to 90 minutes .
+PREDID: 337
+PRED: cover
+   DOBJ: the baking dish
+      NON-INGREDIENT SPAN: the baking dish
+
+PREDID: 358
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 60 to 90 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 60 to 90 minutes
+
+
+SENTID: 9
+SENT: I would uncover the last 15 minutes of bake time .
+PREDID: 397
+PRED: uncover
+   DOBJ: NULL
+   PARG: the last 15 minutes of bake time
+     PREP: for
+      NON-INGREDIENT SPAN: the last 15 minutes of bake time
+
+
+SENTID: 10
+SENT: I would let the sit for 15 minutes before slicing .
+PREDID: 431
+PRED: let
+   DOBJ: NULL
+   PARG: the sit for 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the sit for 15 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

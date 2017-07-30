@@ -1,0 +1,22 @@
+SENTID: 0
+SENT: I would combine all ingredients except chicken .
+PREDID: 0
+PRED: combine
+   DOBJ: all ingredients
+      NON-INGREDIENT SPAN: all ingredients
+   PARG: chicken
+     PREP: except
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken breasts grilled cut 1/4inchthick
+
+
+SENTID: 1
+SENT: I would top with chicken .
+PREDID: 35
+PRED: top
+   DOBJ: NULL
+   PARG: chicken
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+
+

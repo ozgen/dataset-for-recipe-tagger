@@ -1,0 +1,222 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x14 inch baking dish .
+PREDID: 40
+PRED: grease
+   DOBJ: a 9x14 inch baking dish
+      NON-INGREDIENT SPAN: a 9x14 inch baking dish
+
+
+SENTID: 2
+SENT: I would fill a large pot with lightly-salted water and bring to a boil ;
+PREDID: 66
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly-salted water
+     PREP: with
+      INGREDIENT SPAN: lightly-salted water
+         INGREDIENTS: fluid water
+
+PREDID: 105
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would stir in the egg noodles and return to a boil .
+PREDID: 118
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 140
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: Stirring occasionally , I would boil uncovered until the pasta is cooked yet still firm to the bite , about 5 minutes .
+PREDID: 175
+PRED: boil
+   DOBJ: NULL
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+PREDID: 179
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the pasta is cooked yet still firm to the bite , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta is cooked yet still firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would drain well in a colander set in the sink .
+PREDID: 245
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would place a large skillet over medium-high heat ;
+PREDID: 278
+PRED: place
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 7
+SENT: I would cook and stir the ground beef in the skillet until completely browned .
+PREDID: 316
+PRED: cook and stir
+   DOBJ: the ground beef in the skillet
+      INGREDIENT SPAN: the ground beef in the skillet
+         INGREDIENTS: ground beef
+   PARG: completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: completely browned
+
+
+SENTID: 8
+SENT: I would add the onion and garlic ;
+PREDID: 375
+PRED: add
+   DOBJ: the onion, garlic
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 9
+SENT: I would continue the cooking and stirring until the onion is translucent .
+PREDID: 396
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+PREDID: 417
+PRED: stirring
+   DOBJ: NULL
+   PARG: the onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is translucent
+
+
+SENTID: 10
+SENT: I would pour all of the tomato sauce , the water , and red wine into the mixture .
+PREDID: 449
+PRED: pour
+   DOBJ: all of the tomato sauce , the water , red wine
+      INGREDIENT SPAN:  red wine
+         INGREDIENTS: red wine
+      INGREDIENT SPAN: all of the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  the water 
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 11
+SENT: I would season with cumin , the oregano , and cayenne pepper .
+PREDID: 504
+PRED: season
+   DOBJ: NULL
+   PARG: cumin , the oregano , cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: cumin 
+         INGREDIENTS: ground cumin
+
+
+SENTID: 12
+SENT: I would bring the mixture to a simmer .
+PREDID: 545
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 13
+SENT: I would mix the cooked pasta into the sauce ;
+PREDID: 570
+PRED: mix
+   DOBJ: the cooked pasta
+      NON-INGREDIENT SPAN: the cooked pasta
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+
+SENTID: 14
+SENT: I would transfer the mixture to the prepared baking dish .
+PREDID: 600
+PRED: transfer
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 15
+SENT: I would sprinkle the Cheddar cheese over the top of the pasta and sauce .
+PREDID: 642
+PRED: sprinkle
+   DOBJ: the Cheddar cheese
+      INGREDIENT SPAN: the Cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+   PARG: the top of the pasta, sauce
+     PREP: over
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: the top of the pasta
+
+
+SENTID: 16
+SENT: I would bake in the preheated oven until the cheese is melted and the sauce has absorbed into the dish , about 20 minutes .
+PREDID: 695
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+   OARG: the sauce has absorbed into the dish , about 20 minutes
+      NON-INGREDIENT SPAN:  about 20 minutes
+      NON-INGREDIENT SPAN: the sauce has absorbed into the dish 
+
+

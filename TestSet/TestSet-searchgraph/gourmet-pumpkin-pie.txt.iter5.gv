@@ -1,0 +1,50 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="making
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="blend
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="combine
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="let
+8", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 375 degrees f -lrb- 190 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: pumpkin puree, sweetened condensed milk, egg", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D1[label="DOBJ: inch unbaked pie shell", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D2_ing[label="DOBJ: chopped pecans", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+P2_1_0[label="OTHER:before mixing", shape=box, style=filled, fillcolor=white]
+P2_1_0 -> E2
+E3 -> E4 [label="mixture"]
+E2 -> E4 [label="LOCOROBJ:into the unbaked pie shell"]
+D5_ing[label="DOBJ: ground cinnamon, butter, allpurpose flour, packed brown sugar", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label=" chopped pecans "]
+P5_0_0[label="OTHER:until crumbly", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="streusel mixture"]
+P6_0_0[label="LOCOROBJ:on top of pumpkin mixture", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E0 -> E7 [label="IMPLICIT PREP"]
+P7_1_0[label="DURATION:at 375 degrees f -lrb- 190 degrees c -rrb- for 50 to 55 minutes or until a knife inserted in near the center comes out clean", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+E7 -> E8 [label="pie cool"]
+P8_0_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

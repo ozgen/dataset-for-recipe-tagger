@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place the bacon in a large pot and cook over medium-high heat , stirring occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the bacon in a large pot
+      INGREDIENT SPAN: the bacon in a large pot
+         INGREDIENTS: bacon diced
+
+PREDID: 27
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  until evenly browned 
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 1
+SENT: I would drain the bacon on a paper towel-lined plate .
+PREDID: 106
+PRED: drain
+   DOBJ: the bacon
+      NON-INGREDIENT SPAN: the bacon
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 2
+SENT: I would stir in the onion , the celery , bell pepper , and carrots .
+PREDID: 144
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the celery , bell pepper , carrots
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrot chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+
+
+SENTID: 3
+SENT: I would cook and stir until the onions have softened and turned translucent , about 8 minutes .
+PREDID: 188
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onions have softened, turned translucent , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onions have softened
+      NON-INGREDIENT SPAN:  turned translucent 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 4
+SENT: I would add the cream-style corn , whole kernel corn , chicken broth , and potatoes .
+PREDID: 260
+PRED: add
+   DOBJ: the cream-style corn , whole kernel corn , chicken broth , potatoes
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: ounce carton chicken broth
+      INGREDIENT SPAN:  whole kernel corn 
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN:  potatoes
+         INGREDIENTS: potatoes peeled cubed
+      INGREDIENT SPAN: the cream-style corn 
+         INGREDIENTS: ounce creamstyle corn
+
+
+SENTID: 5
+SENT: Bring to a boil ;
+PREDID: 323
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat to medium-low , cover , and simmer until the potatoes are tender , about 20 minutes .
+PREDID: 336
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 368
+PRED: simmer
+   DOBJ: NULL
+   PARG: the potatoes are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 7
+SENT: I would stir in the diced bacon and season with salt and pepper to taste before serving .
+PREDID: 415
+PRED: stir
+   DOBJ: NULL
+   PARG: the diced bacon, season with salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: the diced bacon
+   OARG: to taste before serving
+      NON-INGREDIENT SPAN: to taste before serving
+
+

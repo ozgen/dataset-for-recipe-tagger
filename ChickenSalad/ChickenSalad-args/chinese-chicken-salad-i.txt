@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would pour sweet and sour sauce into a large bowl .
+PREDID: 0
+PRED: pour
+   DOBJ: sweet, sour sauce
+      INGREDIENT SPAN:  sour sauce
+         INGREDIENTS: sweet sour sauce
+      NON-INGREDIENT SPAN: sweet
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would sprinkle ground ginger into the bowl and mix it thoroughly with the sauce .
+PREDID: 36
+PRED: sprinkle
+   DOBJ: ground ginger
+      INGREDIENT SPAN: ground ginger
+         INGREDIENTS: ground ginger
+   PARG: the bowl
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl
+
+PREDID: 70
+PRED: mix
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the sauce
+     PREP: with
+      NON-INGREDIENT SPAN: the sauce
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 2
+SENT: I would place romaine lettuce and bean sprouts into the bowl of sauce and toss it a few times .
+PREDID: 98
+PRED: place
+   DOBJ: romaine lettuce, bean sprouts
+      INGREDIENT SPAN:  bean sprouts
+         INGREDIENTS: fresh bean sprouts
+      INGREDIENT SPAN: romaine lettuce
+         INGREDIENTS: romaine lettuce torn washed dried
+   PARG: the bowl of sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl of sauce
+
+PREDID: 152
+PRED: toss
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   OARG: it
+      NON-INGREDIENT SPAN: it
+
+
+SENTID: 3
+SENT: I would add the shredded chicken to the bowl and toss it thoroughly with the lettuce and bean sprouts .
+PREDID: 168
+PRED: add
+   DOBJ: the shredded chicken
+      INGREDIENT SPAN: the shredded chicken
+         INGREDIENTS: boneless chicken breast halves cooked shredded
+   PARG: the bowl
+     PREP: to
+      NON-INGREDIENT SPAN: the bowl
+
+PREDID: 201
+PRED: toss
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the lettuce, bean sprouts
+     PREP: with
+      NON-INGREDIENT SPAN:  bean sprouts
+      NON-INGREDIENT SPAN: the lettuce
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would transfer the salad into a large serving bowl or 4 separate serving bowls .
+PREDID: 246
+PRED: transfer
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: a large serving bowl or 4 separate serving bowls
+     PREP: into
+      NON-INGREDIENT SPAN: a large serving bowl or 4 separate serving bowls
+
+
+SENTID: 5
+SENT: I would top with cornflakes , the almonds and a pinch of black ground pepper .
+PREDID: 307
+PRED: top
+   DOBJ: NULL
+   PARG: cornflakes , the almonds, a pinch of black ground pepper
+     PREP: with
+      INGREDIENT SPAN:  the almonds
+         INGREDIENTS: toasted sliced almonds
+      INGREDIENT SPAN: cornflakes 
+         INGREDIENTS: cornflakes cereal
+      INGREDIENT SPAN:  a pinch of black ground pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 6
+SENT: I would sprinkle with sesame seeds , if desired .
+PREDID: 361
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sesame seeds
+     PREP: with
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: sesame seeds
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

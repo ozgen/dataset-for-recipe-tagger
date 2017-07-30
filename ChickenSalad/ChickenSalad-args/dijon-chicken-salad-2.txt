@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: I would mix together the chicken , the celery , green grapes , red grapes , the cranberries , and chives in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: the chicken , the celery , green grapes , red grapes , the cranberries , chives in a bowl
+      INGREDIENT SPAN:  chives in a bowl
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  red grapes 
+         INGREDIENTS: halved seedless green grapes
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  green grapes 
+         INGREDIENTS: halved seedless red grapes
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: ounce chunk chicken
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk together the honey , the mustard , the mayonnaise , the salt , and pepper in a separate bowl .
+PREDID: 80
+PRED: whisk
+   DOBJ: the honey , the mustard , the mayonnaise , the salt , pepper in a separate bowl
+      INGREDIENT SPAN:  pepper in a separate bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the honey 
+         INGREDIENTS: honey
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add the mustard mixture to the chicken mixture , stir to coat .
+PREDID: 151
+PRED: add
+   DOBJ: the mustard mixture
+      NON-INGREDIENT SPAN: the mustard mixture
+   PARG: the chicken mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 191
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

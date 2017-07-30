@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line muffin cups with paper liners .
+PREDID: 38
+PRED: line
+   DOBJ: muffin cups
+      NON-INGREDIENT SPAN: muffin cups
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would blend mango , the bananas , brown sugar , and juice of 1/2 lime in a blender until smooth .
+PREDID: 68
+PRED: blend
+   DOBJ: mango , the bananas , brown sugar , juice of 1/2 lime in a blender
+      INGREDIENT SPAN:  juice of 1/2 lime in a blender
+         INGREDIENTS: lime juice taste
+      INGREDIENT SPAN:  the bananas 
+         INGREDIENTS: ripe bananas
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: mango 
+         INGREDIENTS: ripe mango peeled pitted
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would whisk flour , baking soda , baking powder , the cinnamon , the nutmeg , and allspice together in a bowl .
+PREDID: 137
+PRED: whisk
+   DOBJ: flour , baking soda , baking powder , the cinnamon , the nutmeg , allspice
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  allspice
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would mix butter , the eggs , and mango-banana mixture into flour mixture until just combined .
+PREDID: 215
+PRED: mix
+   DOBJ: butter , the eggs , mango-banana mixture
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter room temperature
+      NON-INGREDIENT SPAN:  mango-banana mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 5
+SENT: I would pour batter into the prepared muffin cups .
+PREDID: 286
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin cups
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , 25 to 30 minutes .
+PREDID: 322
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the center of a muffin comes out clean , 25 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted in the center of a muffin comes out clean 
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+
+
+SENTID: 7
+SENT: I would cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 415
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+
+SENTID: 8
+SENT: I would whisk confectioners ' sugar , the water , and 1 teaspoon lime juice together until glaze is smooth and thick ;
+PREDID: 482
+PRED: whisk
+   DOBJ: confectioners ' sugar , the water
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water needed
+      INGREDIENT SPAN: confectioners ' sugar 
+         INGREDIENTS: confectioners sugar needed
+   OARG: 1 teaspoon lime juice together until glaze is smooth, thick
+      INGREDIENT SPAN: 1 teaspoon lime juice together until glaze is smooth
+         INGREDIENTS: lime juice taste
+      NON-INGREDIENT SPAN:  thick
+
+
+SENTID: 9
+SENT: I would spoon onto cooled muffins .
+PREDID: 569
+PRED: spoon
+   DOBJ: NULL
+   PARG: cooled muffins
+     PREP: onto
+      NON-INGREDIENT SPAN: cooled muffins
+
+

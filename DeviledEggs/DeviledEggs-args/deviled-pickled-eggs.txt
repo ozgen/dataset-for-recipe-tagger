@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: I would measure 1 cup beet juice from reserved juice .
+PREDID: 0
+PRED: measure
+   DOBJ: 1 cup beet juice
+      INGREDIENT SPAN: 1 cup beet juice
+         INGREDIENTS: ounce sliced beets drained liquid reserved
+   PARG: reserved juice
+     PREP: from
+      INGREDIENT SPAN: reserved juice
+         INGREDIENTS: ounce sliced beets drained liquid reserved
+
+
+SENTID: 1
+SENT: I would combine 1 cup beet juice , the sugar , the vinegar , the cloves , the salt , the pepper , and bay leaves in a saucepan ;
+PREDID: 38
+PRED: combine
+   DOBJ: 1 cup beet juice , the sugar , the vinegar , the cloves , the salt , the pepper , bay leaves in a saucepan
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bay leaves in a saucepan
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: whole cloves
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: 1 cup beet juice 
+
+
+SENTID: 2
+SENT: I would bring to a boil .
+PREDID: 116
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce heat and simmer until sugar is dissolved , about 5 minutes .
+PREDID: 129
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: sugar is dissolved , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: sugar is dissolved 
+
+
+SENTID: 4
+SENT: I would place beets and eggs into a large bowl .
+PREDID: 184
+PRED: place
+   DOBJ: beets, eggs
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: hardboiled eggs peeled
+      NON-INGREDIENT SPAN: beets
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would pour beet juice mixture over beets and eggs .
+PREDID: 216
+PRED: pour
+   DOBJ: beet juice mixture over beets, eggs
+      NON-INGREDIENT SPAN: beet juice mixture over beets
+      NON-INGREDIENT SPAN:  eggs
+
+
+SENTID: 6
+SENT: I would refrigerate for 3 days .
+PREDID: 253
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 3 days
+     PREP: for
+      NON-INGREDIENT SPAN: 3 days
+
+
+SENTID: 7
+SENT: I would drain and discard pickling liquid .
+PREDID: 273
+PRED: drain and discard
+   DOBJ: pickling liquid
+      NON-INGREDIENT SPAN: pickling liquid
+
+
+SENTID: 8
+SENT: I would cut each egg in half lengthwise and scoop yolks into a bowl .
+PREDID: 303
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+PREDID: 332
+PRED: scoop
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 9
+SENT: I would mix mayonnaise , the relish , and mustard into egg yolks until smooth .
+PREDID: 352
+PRED: mix
+   DOBJ: mayonnaise , the relish , mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: sweet pickle relish
+   PARG: egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: I would spoon egg yolk filling back into each egg white .
+PREDID: 407
+PRED: spoon
+   DOBJ: egg yolk filling back into each egg white
+      NON-INGREDIENT SPAN: egg yolk filling back into each egg white
+
+
+SENTID: 11
+SENT: I would serve beets and eggs on a platter .
+PREDID: 447
+PRED: serve
+   DOBJ: beets, eggs
+      NON-INGREDIENT SPAN: beets
+      NON-INGREDIENT SPAN:  eggs
+   PARG: a platter
+     PREP: on
+      NON-INGREDIENT SPAN: a platter
+
+

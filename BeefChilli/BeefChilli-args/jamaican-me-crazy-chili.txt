@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: I would place ground round in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: ground round
+      INGREDIENT SPAN: ground round
+         INGREDIENTS: ground round
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 37
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain and set aside .
+PREDID: 76
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would coat a large Dutch oven with cooking spray , and place over medium-high heat .
+PREDID: 93
+PRED: coat
+   DOBJ: a large Dutch oven
+      NON-INGREDIENT SPAN: a large Dutch oven
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+PREDID: 132
+PRED: place
+   DOBJ: NULL
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 4
+SENT: When pan is hot , cook the onion and garlic in olive oil until the onion is tender .
+PREDID: 170
+PRED: cook
+   DOBJ: the onion, garlic in olive oil
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  garlic in olive oil
+         INGREDIENTS: olive oil
+   PARG: the onion is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is tender
+   OARG: when pan is hot
+      NON-INGREDIENT SPAN: when pan is hot
+
+
+SENTID: 5
+SENT: I would add the yellow pepper , and cook until tender .
+PREDID: 223
+PRED: add
+   DOBJ: the yellow pepper
+      INGREDIENT SPAN: the yellow pepper
+         INGREDIENTS: chopped yellow bell pepper
+
+PREDID: 245
+PRED: cook
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 6
+SENT: I would season with cumin , the paprika , chile powder , the sugar , the salt , and cloves .
+PREDID: 261
+PRED: season
+   DOBJ: NULL
+   PARG: cumin , the paprika , chile powder , the sugar , the salt , cloves
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: hot paprika
+      INGREDIENT SPAN:  chile powder 
+         INGREDIENTS: chile powder
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: cumin 
+         INGREDIENTS: ground cumin
+
+
+SENTID: 7
+SENT: I would stir in the stewed tomatoes , kidney beans , black beans , and cannellini beans .
+PREDID: 318
+PRED: stir
+   DOBJ: NULL
+   PARG: the stewed tomatoes , kidney beans , black beans , cannellini beans
+     PREP: in
+      INGREDIENT SPAN:  cannellini beans
+         INGREDIENTS: ounce cannellini beans
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN: the stewed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+
+
+SENTID: 8
+SENT: I would pour in water to cover .
+PREDID: 384
+PRED: pour
+   DOBJ: NULL
+   PARG: water
+     PREP: in
+      NON-INGREDIENT SPAN: water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 9
+SENT: I would bring to a boil ,
+PREDID: 403
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 10
+SENT: I would stir in the meat and tomato paste .
+PREDID: 416
+PRED: stir
+   DOBJ: NULL
+   PARG: the meat, tomato paste
+     PREP: in
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+      NON-INGREDIENT SPAN: the meat
+
+
+SENTID: 11
+SENT: I would bring to a boil , and simmer for 30 minutes .
+PREDID: 444
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil , simmer for 30 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer for 30 minutes
+      NON-INGREDIENT SPAN: a boil 
+
+
+SENTID: 12
+SENT: I would remove from heat , stir in the vinegar and serve hot topped with fresh cilantro .
+PREDID: 479
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 494
+PRED: stir
+   DOBJ: NULL
+   PARG: the vinegar
+     PREP: in
+      INGREDIENT SPAN: the vinegar
+         INGREDIENTS: balsamic vinegar
+
+PREDID: 513
+PRED: serve
+   DOBJ: hot topped
+      NON-INGREDIENT SPAN: hot topped
+   PARG: fresh cilantro
+     PREP: with
+      INGREDIENT SPAN: fresh cilantro
+         INGREDIENTS: chopped fresh cilantro
+
+

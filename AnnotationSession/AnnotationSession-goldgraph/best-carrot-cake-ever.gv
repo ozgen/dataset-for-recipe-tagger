@@ -1,0 +1,100 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="set aside
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir in
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="preheat
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="grease
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="flour
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="beat
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="beat in
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir in
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="combine
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="stir in
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="pour
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="bake
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="cool
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="removing
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="frost
+16", shape=oval, style=filled, fillcolor=azure]
+D9[label="DOBJ: the flour, cinnamon, salt, baking soda", shape=box, style=filled, fillcolor=peachpuff]
+D9 -> E9
+D3[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+O3_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+D4[label="DOBJ: two 10 inch cake pans", shape=box, style=filled, fillcolor=white]
+D4 -> E4
+D6[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P6_0 -> E6
+O6_0[label="OTHER: until light", shape=box, style=filled, fillcolor=white]
+O6_0 -> E6
+D0[label="DOBJ: grated carrots, brown sugar", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: for 60 minutes", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+D2_ing[label="DOBJ: raisins", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+D7_ing[label="DOBJ: the white sugar, vanilla, oil", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+O7_0_0[label="OTHER: gradually", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+D8_ing[label="DOBJ: the pineapple", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+E8 -> E10 [label="COOBJECT:into the wet mixture"]
+O10_0_0[label="OTHER: until absorbed", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+D11_ing[label="DOBJ: the walnuts", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E2 -> E11 [label="the carrot mixture"]
+E10 -> E11 [label="IMPLICIT PREP"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E5 -> E12 [label="LOCATION:into the prepared pans"]
+O12_0_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E3 -> E13 [label="LOCATION:in the preheated oven"]
+O13_0_0[label="OTHER: for 45 to 50 minutes", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+O13_1_0[label="OTHER: until cake tests done with a toothpick", shape=box, style=filled, fillcolor=white]
+O13_1_0 -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+O14_0_0[label="OTHER: for 10 minutes", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+P15_0_0[label="LOCATION:from pan", shape=box, style=filled, fillcolor=white]
+P15_0_0 -> E15
+E15 -> E16 [label="IMPLICIT DOBJ"]
+P16_0_ing[label="COOBJECT: with cream cheese frosting", shape=box, style=filled, fillcolor=peachpuff]
+P16_0_ing -> E16
+O16_0_0[label="OTHER: when completely cooled", shape=box, style=filled, fillcolor=white]
+O16_0_0 -> E16
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E16 -> EOR
+}

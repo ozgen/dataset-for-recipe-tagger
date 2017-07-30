@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef in the hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 37
+PRED: cook and stir
+   DOBJ: beef in the hot skillet
+      INGREDIENT SPAN: beef in the hot skillet
+         INGREDIENTS: lean ground beef
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 102
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would pour mild picante sauce and hot picante sauce over the ground beef ;
+PREDID: 124
+PRED: pour
+   DOBJ: mild picante sauce, hot picante sauce
+      INGREDIENT SPAN:  hot picante sauce
+         INGREDIENTS: ounce jar mild picante sauce such Pace
+      INGREDIENT SPAN: mild picante sauce
+         INGREDIENTS: ounce jar hot picante sauce such Pace less taste
+   PARG: the ground beef
+     PREP: over
+      NON-INGREDIENT SPAN: the ground beef
+
+
+SENTID: 4
+SENT: I would stir .
+PREDID: 180
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would add processed cheese food and Colby cheese , reduce heat to low , and cook until the cheese is completely melted , about 15 minutes .
+PREDID: 185
+PRED: add
+   DOBJ: processed cheese food, Colby cheese
+      INGREDIENT SPAN: processed cheese food
+         INGREDIENTS: pound package processed cheese food such Velveeta cut cubes
+      INGREDIENT SPAN:  Colby cheese
+         INGREDIENTS: shredded Colby cheese more taste
+
+PREDID: 222
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 241
+PRED: cook
+   DOBJ: NULL
+   PARG: the cheese is completely melted , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is completely melted 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spread pizza crusts out onto baking sheets or pizza pans .
+PREDID: 41
+PRED: spread
+   DOBJ: pizza crusts
+      INGREDIENT SPAN: pizza crusts
+         INGREDIENTS: unbaked pizza crusts
+   PARG: baking sheets or pizza pans
+     PREP: onto
+      NON-INGREDIENT SPAN: baking sheets or pizza pans
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would place the spinach and Alfredo sauce in a saucepan , and warm over medium heat .
+PREDID: 89
+PRED: place
+   DOBJ: the spinach, Alfredo sauce in a saucepan
+      INGREDIENT SPAN:  Alfredo sauce in a saucepan
+         INGREDIENTS: ounce container Alfredo Sauce
+      INGREDIENT SPAN: the spinach
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained
+
+PREDID: 134
+PRED: warm
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would stir occasionally .
+PREDID: 153
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 4
+SENT: I would spread 1tablespoon of olive oil onto each pizza crust .
+PREDID: 170
+PRED: spread
+   DOBJ: 1tablespoon of olive oil
+      INGREDIENT SPAN: 1tablespoon of olive oil
+         INGREDIENTS: olive oil
+   PARG: each pizza crust
+     PREP: onto
+      NON-INGREDIENT SPAN: each pizza crust
+
+
+SENTID: 5
+SENT: I would spoon half of the Alfredo and spinach onto each crust ,
+PREDID: 216
+PRED: spoon
+   DOBJ: half of the Alfredo
+      NON-INGREDIENT SPAN: half of the Alfredo
+
+PREDID: 240
+PRED: spinach
+   DOBJ: NULL
+   PARG: each crust
+     PREP: onto
+      NON-INGREDIENT SPAN: each crust
+
+
+SENTID: 6
+SENT: I would arrange artichoke hearts over the sauce layer .
+PREDID: 261
+PRED: arrange
+   DOBJ: artichoke hearts
+      INGREDIENT SPAN: artichoke hearts
+         INGREDIENTS: ounce artichoke hearts drained quartered
+   PARG: the sauce layer
+     PREP: over
+      NON-INGREDIENT SPAN: the sauce layer
+
+
+SENTID: 7
+SENT: I would top each pizza with half of the mozzarella cheese and Parmesan cheese .
+PREDID: 301
+PRED: top
+   DOBJ: each pizza
+      NON-INGREDIENT SPAN: each pizza
+   PARG: half of the mozzarella cheese, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: half of the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 8
+SENT: I would sprinkle mushrooms and black olives on top .
+PREDID: 360
+PRED: sprinkle
+   DOBJ: mushrooms, black olives
+      INGREDIENT SPAN:  black olives
+         INGREDIENTS: ounce sliced black olives
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: ounce sliced mushrooms drained
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 9
+SENT: I would bake the pizzas one at a time for 20 minutes in the preheated oven , or until the bottom is nicely browned .
+PREDID: 397
+PRED: bake
+   DOBJ: the pizzas one
+      NON-INGREDIENT SPAN: the pizzas one
+   PARG: a time for 20 minutes in the preheated oven
+     PREP: at
+      NON-INGREDIENT SPAN: a time for 20 minutes in the preheated oven
+
+PREDID: 475
+PRED: is browned
+   DOBJ: NULL
+   PARG: the bottom
+     PREP: until
+      NON-INGREDIENT SPAN: the bottom
+   OARG: nicely
+      NON-INGREDIENT SPAN: nicely
+
+

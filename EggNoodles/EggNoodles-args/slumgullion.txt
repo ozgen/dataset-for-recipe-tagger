@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a large skillet , I would cook and stir ground meat until browned .
+PREDID: 16
+PRED: cook and stir
+   DOBJ: ground meat
+      INGREDIENT SPAN: ground meat
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would drain off excess fat .
+PREDID: 50
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would stir in corn and tomato soup .
+PREDID: 68
+PRED: stir
+   DOBJ: NULL
+   PARG: corn, tomato soup
+     PREP: in
+      INGREDIENT SPAN:  tomato soup
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN: corn
+         INGREDIENTS: ounce whole kernel corn
+
+
+SENTID: 3
+SENT: I would simmer while the noodles are cooking , about 10 minutes .
+PREDID: 92
+PRED: simmer
+   DOBJ: NULL
+   PARG: the noodles are cooking , about 10 minutes
+     PREP: while
+      INGREDIENT SPAN: the noodles are cooking 
+         INGREDIENTS: ounce package wide egg noodles
+      NON-INGREDIENT SPAN:  about 10 minutes
+
+
+SENTID: 4
+SENT: I would cook pasta in a large pot of boiling water until al dente .
+PREDID: 139
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of boiling water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water until al dente
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 186
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would stir noodles into ground beef mixture , and sprinkle parmesan cheese on top .
+PREDID: 192
+PRED: stir
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: ground beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef mixture
+
+PREDID: 228
+PRED: sprinkle
+   DOBJ: parmesan cheese
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 7
+SENT: I would serve immediately .
+PREDID: 256
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

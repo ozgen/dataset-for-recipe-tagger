@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would place the pork tenderloin in a slow cooker ;
+PREDID: 0
+PRED: place
+   DOBJ: the pork tenderloin
+      INGREDIENT SPAN: the pork tenderloin
+         INGREDIENTS: pound pork tenderloin
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would pour the root beer over the meat .
+PREDID: 36
+PRED: pour
+   DOBJ: the root beer
+      INGREDIENT SPAN: the root beer
+         INGREDIENTS: fluid ounce bottle root beer
+   PARG: the meat
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+
+
+SENTID: 2
+SENT: I would cover and cook on low until well cooked and the pork shreds easily , 6 to 7 hours .
+PREDID: 63
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low until well cooked, the pork shreds easily , 6 to 7 hours
+     PREP: for
+      NON-INGREDIENT SPAN: low until well cooked
+      NON-INGREDIENT SPAN:  the pork shreds easily 
+      NON-INGREDIENT SPAN:  6 to 7 hours
+
+
+SENTID: 3
+SENT: I would note :
+PREDID: 128
+PRED: note
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: the actual length of time may vary according to individual slow cooker .
+
+SENTID: 5
+SENT: I would drain well .
+PREDID: 133
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would stir in barbecue sauce .
+PREDID: 143
+PRED: stir
+   DOBJ: NULL
+   PARG: barbecue sauce
+     PREP: in
+      INGREDIENT SPAN: barbecue sauce
+         INGREDIENTS: ounce bottle favorite barbecue sauce
+
+
+SENTID: 7
+SENT: I would serve over hamburger buns .
+PREDID: 163
+PRED: serve
+   DOBJ: hamburger buns
+      INGREDIENT SPAN: hamburger buns
+         INGREDIENTS: hamburger buns split toasted
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

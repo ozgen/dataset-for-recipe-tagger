@@ -1,0 +1,266 @@
+SENTID: 0
+SENT: I would cook meat in a large skillet over medium-high heat until brown , stirring occasionally with a wooden spoon and breaking up the meat .
+PREDID: 0
+PRED: cook
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: brown , stirring occasionally with a wooden spoon, breaking up the meat
+     PREP: until
+      NON-INGREDIENT SPAN: brown 
+      NON-INGREDIENT SPAN:  stirring occasionally with a wooden spoon
+      NON-INGREDIENT SPAN:  breaking up the meat
+
+
+SENTID: 1
+SENT: I would remove skillet from heat .
+PREDID: 110
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 2
+SENT: I would place colander over bowl .
+PREDID: 132
+PRED: place
+   DOBJ: colander
+      NON-INGREDIENT SPAN: colander
+   PARG: bowl
+     PREP: over
+      NON-INGREDIENT SPAN: bowl
+
+
+SENTID: 3
+SENT: I would spoon meat into colander and let fat drain into bowl .
+PREDID: 154
+PRED: spoon
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: colander
+     PREP: into
+      NON-INGREDIENT SPAN: colander
+
+PREDID: 178
+PRED: let
+   DOBJ: fat drain
+      NON-INGREDIENT SPAN: fat drain
+   PARG: bowl
+     PREP: into
+      NON-INGREDIENT SPAN: bowl
+
+
+SENTID: 4
+SENT: I would return meat to skillet .
+PREDID: 198
+PRED: return
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: skillet
+     PREP: to
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 5
+SENT: I would discard fat .
+PREDID: 218
+PRED: discard
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 6
+SENT: I would spoon 1 cup of Classico ? Four Cheese pasta sauce in the bottom of a 2-quart rectangular baking dish .
+PREDID: 229
+PRED: spoon
+   DOBJ: 1 cup of Classico ? Four Cheese pasta sauce
+      INGREDIENT SPAN: 1 cup of Classico ? Four Cheese pasta sauce
+         INGREDIENTS: Classico Cheese pasta sauce
+   PARG: the bottom of a 2-quart rectangular baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 2-quart rectangular baking dish
+
+
+SENTID: 7
+SENT: I would stir the remaining Classico ? Four Cheese pasta sauce into meat in skillet .
+PREDID: 312
+PRED: stir
+   DOBJ: the remaining Classico ? Four Cheese pasta sauce
+      INGREDIENT SPAN: the remaining Classico ? Four Cheese pasta sauce
+         INGREDIENTS: Classico Cheese pasta sauce
+   PARG: meat in skillet
+     PREP: into
+      NON-INGREDIENT SPAN: meat in skillet
+
+
+SENTID: 8
+SENT: I would cook over medium heat until hot , stirring occasionally with a wooden spoon .
+PREDID: 372
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+   OARG: stirring occasionally with a wooden spoon
+      NON-INGREDIENT SPAN: stirring occasionally with a wooden spoon
+
+
+SENTID: 9
+SENT: I would remove meat mixture from heat .
+PREDID: 436
+PRED: remove
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 10
+SENT: I would place 2 uncooked noodles on sauce in bottom of dish .
+PREDID: 462
+PRED: place
+   DOBJ: 2 uncooked noodles on sauce
+      INGREDIENT SPAN: 2 uncooked noodles on sauce
+         INGREDIENTS: lasagna noodles
+   PARG: bottom of dish
+     PREP: in
+      NON-INGREDIENT SPAN: bottom of dish
+
+
+SENTID: 11
+SENT: I would spread one-third of the meat mixture on top of noodles .
+PREDID: 505
+PRED: spread
+   DOBJ: one-third of the meat mixture
+      NON-INGREDIENT SPAN: one-third of the meat mixture
+   PARG: top of noodles
+     PREP: on
+      INGREDIENT SPAN: top of noodles
+         INGREDIENTS: lasagna noodles
+
+
+SENTID: 12
+SENT: I would spread 3/4 cup of the cottage cheese over meat .
+PREDID: 551
+PRED: spread
+   DOBJ: 3/4 cup of the cottage cheese
+      INGREDIENT SPAN: 3/4 cup of the cottage cheese
+         INGREDIENTS: cottage cheese
+   PARG: meat
+     PREP: over
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 13
+SENT: I would sprinkle 1/2 cup of the mozzarella cheese over cottage cheese .
+PREDID: 590
+PRED: sprinkle
+   DOBJ: 1/2 cup of the mozzarella cheese
+      INGREDIENT SPAN: 1/2 cup of the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: cottage cheese
+     PREP: over
+      INGREDIENT SPAN: cottage cheese
+         INGREDIENTS: cottage cheese
+
+
+SENTID: 14
+SENT: I would add another layer of 2 uncooked noodles , one-third of the meat mixture , the rest of the cottage cheese , and 1/2 cup of the mozzarella cheese .
+PREDID: 643
+PRED: add
+   DOBJ: another layer of 2 uncooked noodles , one-third of the meat mixture , the rest of the cottage cheese , 1/2 cup of the mozzarella cheese
+      INGREDIENT SPAN:  the rest of the cottage cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  1/2 cup of the mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  one-third of the meat mixture 
+      NON-INGREDIENT SPAN: another layer of 2 uncooked noodles 
+
+
+SENTID: 15
+SENT: I would layer remaining uncooked noodles , meat mixture , and mozzarella cheese .
+PREDID: 760
+PRED: layer
+   DOBJ: remaining uncooked noodles , meat mixture , mozzarella cheese
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: remaining uncooked noodles 
+      NON-INGREDIENT SPAN:  meat mixture 
+
+
+SENTID: 16
+SENT: I would finally , sprinkle Parmesan cheese over top , if you like .
+
+SENTID: 17
+SENT: I would cover the baking dish with foil .
+PREDID: 870
+PRED: cover
+   DOBJ: the baking dish with foil
+      NON-INGREDIENT SPAN: the baking dish with foil
+
+
+SENTID: 18
+SENT: I would bake in a 350 degree F oven for 1 hour .
+PREDID: 894
+PRED: bake
+   DOBJ: NULL
+   PARG: a 350 degree f oven
+     PREP: in
+      NON-INGREDIENT SPAN: a 350 degree f oven
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 19
+SENT: I would remove from oven and let stand on a cooling rack with foil cover in place for 15 minutes .
+PREDID: 924
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 941
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: a cooling rack with foil cover in place for 15 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: a cooling rack with foil cover in place for 15 minutes
+
+
+SENTID: 20
+SENT: I would carefully remove foil from dish so steam escapes away from you .
+PREDID: 1005
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+   PARG: dish
+     PREP: from
+      NON-INGREDIENT SPAN: dish
+   PARG: steam escapes away from you
+     PREP: so
+      NON-INGREDIENT SPAN: steam escapes away from you
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 21
+SENT: I would makes 6 servings .
+PREDID: 1049
+PRED: makes
+   DOBJ: 6 servings
+      NON-INGREDIENT SPAN: 6 servings
+
+

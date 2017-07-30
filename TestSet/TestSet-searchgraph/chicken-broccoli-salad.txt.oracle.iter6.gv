@@ -1,0 +1,40 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="whisk
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="toss
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="refrigerate
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle
+6", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: white sugar, apple cider vinegar, mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: until well blended", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: cooked skinless boneless chicken breast halves, broccoli florets, chopped walnuts, green onions", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E1 -> E2 [label="mayonnaise dressing"]
+E0 -> E2 [label="COOBJECT:over broccoli mixture"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: to coat", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: until chilled", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: with cooked bacon", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

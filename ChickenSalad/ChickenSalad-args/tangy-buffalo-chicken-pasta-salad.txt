@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 42
+PRED: cook
+   DOBJ: the rotini
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: ounce package rotini pasta
+   PARG: a boil until tender yet firm to the bite , about 8 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 2
+SENT: I would drain and cool .
+PREDID: 104
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would mix pasta , the chicken , the celery , roasted red pepper , and 1 tablespoon of reserved roasted red pepper juice in a salad bowl .
+PREDID: 117
+PRED: mix
+   DOBJ: pasta , the chicken , the celery , roasted red pepper , 1 tablespoon of reserved roasted red pepper juice
+      INGREDIENT SPAN:  1 tablespoon of reserved roasted red pepper juice
+         INGREDIENTS: jarred roasted red pepper drained reserve juice chopped
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN:  roasted red pepper 
+         INGREDIENTS: hot pepper sauce such Frank RedHot taste
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+      NON-INGREDIENT SPAN: pasta 
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 4
+SENT: I would stir mayonnaise , hot sauce , Gorgonzola cheese , and Worcestershire sauce together in a separate bowl until thoroughly combined .
+PREDID: 216
+PRED: stir
+   DOBJ: mayonnaise , hot sauce , Gorgonzola cheese , Worcestershire sauce
+      INGREDIENT SPAN:  Gorgonzola cheese 
+         INGREDIENTS: crumbled Gorgonzola cheese
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise such Hellmann Best Foods
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  Worcestershire sauce
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour the dressing over pasta mixture and toss lightly to coat .
+PREDID: 326
+PRED: pour
+   DOBJ: the dressing over pasta mixture
+      NON-INGREDIENT SPAN: the dressing over pasta mixture
+
+PREDID: 360
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 6
+SENT: I would chill before serving .
+PREDID: 375
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

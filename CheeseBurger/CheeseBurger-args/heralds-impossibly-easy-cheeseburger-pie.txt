@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 10 inch deep dish pie plate .
+PREDID: 38
+PRED: grease
+   DOBJ: a 10 inch deep dish pie plate
+      NON-INGREDIENT SPAN: a 10 inch deep dish pie plate
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium heat .
+PREDID: 68
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would add ground beef , the onion , and garlic ;
+PREDID: 100
+PRED: add
+   DOBJ: ground beef , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 4
+SENT: I would cook and stir until beef is brown .
+PREDID: 130
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: beef is brown
+     PREP: until
+      NON-INGREDIENT SPAN: beef is brown
+
+
+SENTID: 5
+SENT: I would drain off fat .
+PREDID: 158
+PRED: drain
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 6
+SENT: I would spread into prepared pie plate .
+PREDID: 170
+PRED: spread
+   DOBJ: NULL
+   PARG: prepared pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pie plate
+
+
+SENTID: 7
+SENT: I would sprinkle meat with salt , black pepper , and oregano .
+PREDID: 197
+PRED: sprinkle
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: salt , black pepper , oregano
+     PREP: with
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: garlic salt
+
+
+SENTID: 8
+SENT: I would arrange tomato slices over meat , spread shredded cheese on top .
+PREDID: 241
+PRED: arrange
+   DOBJ: tomato slices
+      INGREDIENT SPAN: tomato slices
+         INGREDIENTS: tomato sliced
+   PARG: meat , spread shredded cheese on top
+     PREP: over
+      INGREDIENT SPAN:  spread shredded cheese on top
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: meat 
+
+
+SENTID: 9
+SENT: In a small bowl , I would mix together baking mix , the milk and eggs .
+PREDID: 308
+PRED: mix
+   DOBJ: baking mix , the milk, eggs
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: baking mix 
+         INGREDIENTS: buttermilk baking mix
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would pour over cheese .
+PREDID: 341
+PRED: pour
+   DOBJ: NULL
+   PARG: cheese
+     PREP: over
+      NON-INGREDIENT SPAN: cheese
+
+
+SENTID: 11
+SENT: I would bake for about 25 minutes , or until knife inserted in center comes out clean .
+PREDID: 356
+PRED: bake
+   DOBJ: NULL
+   PARG: about 25 minutes , or until knife inserted in center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: about 25 minutes 
+      NON-INGREDIENT SPAN:  or until knife inserted in center comes out clean
+
+
+SENTID: 12
+SENT: I would cool for 5 minutes before serving .
+PREDID: 420
+PRED: cool
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

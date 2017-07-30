@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: I would heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would fry the zucchini in the oil until golden brown , 5 to 8 minutes on each side .
+PREDID: 40
+PRED: fry
+   DOBJ: NULL
+   PARG: the zucchini in the oil until golden brown , 5 to 8 minutes
+     PREP: for
+      INGREDIENT SPAN: the zucchini in the until golden brown 
+         INGREDIENTS: zucchini sliced rounds
+      INGREDIENT SPAN: the zucchini in the oil until golden brown 
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+
+
+SENTID: 2
+SENT: I would remove from heat and set aside .
+PREDID: 101
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 118
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 127
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 4
+SENT: I would spray an 8-inch pizza pan with cooking spray .
+PREDID: 165
+PRED: spray pan
+   DOBJ: an 8-inch pizza
+      INGREDIENT SPAN: an 8-inch pizza
+         INGREDIENTS: prepared pizza sauce
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 5
+SENT: I would combine the flour , the yeast , the sugar , and salt in a bowl .
+PREDID: 203
+PRED: combine
+   DOBJ: the flour , the yeast , the sugar , salt in a bowl
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the yeast 
+         INGREDIENTS: active dry yeast
+
+
+SENTID: 6
+SENT: I would slowly stir in the vegetable oil and warm water .
+PREDID: 252
+PRED: stir
+   DOBJ: NULL
+   PARG: the vegetable oil, warm water
+     PREP: in
+      INGREDIENT SPAN:  warm water
+         INGREDIENTS: warm water
+      NON-INGREDIENT SPAN: the vegetable oil
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 7
+SENT: I would knead the dough until well blended .
+PREDID: 286
+PRED: knead
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 8
+SENT: On a floured surface , I would roll the dough out with a rolling pin to fit the prepared pizza pan .
+PREDID: 334
+PRED: roll
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a floured surface
+   PARG: a rolling pin
+     PREP: with
+      NON-INGREDIENT SPAN: a rolling pin
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to fit the prepared pizza pan
+      NON-INGREDIENT SPAN: to fit the prepared pizza pan
+
+
+SENTID: 9
+SENT: I would roll the crust thin , and fold over the edges to form a rim .
+PREDID: 389
+PRED: roll
+   DOBJ: NULL
+   OARG: the crust thin
+      NON-INGREDIENT SPAN: the crust thin
+
+PREDID: 409
+PRED: fold
+   DOBJ: the edges
+      NON-INGREDIENT SPAN: the edges
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: to form a rim
+      NON-INGREDIENT SPAN: to form a rim
+
+
+SENTID: 10
+SENT: I would spread the pizza sauce over the dough , and sprinkle the mozzarella cheese on top .
+PREDID: 436
+PRED: spread
+   DOBJ: the pizza sauce
+      NON-INGREDIENT SPAN: the pizza sauce
+   PARG: the dough
+     PREP: over
+      NON-INGREDIENT SPAN: the dough
+
+PREDID: 471
+PRED: sprinkle
+   DOBJ: the mozzarella cheese
+      INGREDIENT SPAN: the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 11
+SENT: I would arrange the zucchini slices over the cheese .
+PREDID: 504
+PRED: arrange
+   DOBJ: the zucchini slices over the cheese
+      INGREDIENT SPAN: the zucchini slices over the cheese
+         INGREDIENTS: mascarpone cheese
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until the cheese is melted and the crust is browned , about 15 minutes .
+PREDID: 542
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+   OARG: the crust is browned , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the crust is browned 
+
+
+SENTID: 13
+SENT: I would spoon dollops of mascarpone cheese over the pizza .
+PREDID: 622
+PRED: spoon
+   DOBJ: dollops of mascarpone cheese
+      NON-INGREDIENT SPAN: dollops of mascarpone cheese
+   PARG: the pizza
+     PREP: over
+      NON-INGREDIENT SPAN: the pizza
+
+
+SENTID: 14
+SENT: The cheese will melt onto the pizza and spread naturally .
+
+SENTID: 15
+SENT: I would allow the pizza to cool for 5 to 10 minutes before slicing and serving .
+PREDID: 665
+PRED: allow
+   DOBJ: NULL
+   PARG: the pizza to cool for 5 to 10 minutes before slicing, serving
+     PREP: for
+      NON-INGREDIENT SPAN: the pizza to cool for 5 to 10 minutes before slicing
+      NON-INGREDIENT SPAN:  serving
+
+

@@ -1,0 +1,30 @@
+SENTID: 0
+SENT: In a small bowl , I would mix together cinnamon , the nutmeg , the ginger and cloves .
+PREDID: 13
+PRED: mix
+   DOBJ: cinnamon , the nutmeg , the ginger, cloves
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would store in an airtight container .
+PREDID: 56
+PRED: store
+   DOBJ: NULL
+   PARG: an airtight container
+     PREP: in
+      NON-INGREDIENT SPAN: an airtight container
+
+

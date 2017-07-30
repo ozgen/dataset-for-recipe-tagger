@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: I would combine the ice cream , the ice , the pumpkin , the half-and-half , the rum , and 1/4 teaspoon pumpkin pie spice in a blender ;
+PREDID: 0
+PRED: combine
+   DOBJ: the ice cream , the ice , the pumpkin , the half-and-half , the rum , 1/4 teaspoon pumpkin pie spice in a blender
+      INGREDIENT SPAN:  the ice 
+         INGREDIENTS: crushed ice
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  the half-and-half 
+         INGREDIENTS: fluid half-and-half
+      INGREDIENT SPAN: the ice cream 
+         INGREDIENTS: vanilla ice cream
+      INGREDIENT SPAN:  the rum 
+         INGREDIENTS: fluid spiced rum
+      INGREDIENT SPAN:  1/4 teaspoon pumpkin pie spice in a blender
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 1
+SENT: I would blend until smooth .
+PREDID: 89
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would pour into a serving glass ;
+PREDID: 106
+PRED: pour
+   DOBJ: NULL
+   PARG: a serving glass
+     PREP: into
+      NON-INGREDIENT SPAN: a serving glass
+
+
+SENTID: 3
+SENT: I would top with whipped topping , sprinkle with pinch of pumpkin pie spice .
+PREDID: 128
+PRED: top
+   DOBJ: NULL
+   PARG: whipped topping , sprinkle
+     PREP: with
+      INGREDIENT SPAN: whipped topping 
+         INGREDIENTS: whipped topping
+      NON-INGREDIENT SPAN:  sprinkle
+   PARG: pinch of pumpkin pie spice
+     PREP: with
+      NON-INGREDIENT SPAN: pinch of pumpkin pie spice
+
+

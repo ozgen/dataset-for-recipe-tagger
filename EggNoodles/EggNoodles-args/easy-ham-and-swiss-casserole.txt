@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 47
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 73
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      INGREDIENT SPAN: lightly salted water
+         INGREDIENTS: water
+
+PREDID: 111
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 3
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 165
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: uncooked egg noodles
+
+PREDID: 188
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 202
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN:  until the pasta has cooked through 
+         INGREDIENTS: chopped cooked ham
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 5
+SENT: I would drain well in a colander set in the sink .
+PREDID: 313
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would combine the cream of mushroom soup , white wine , and water in a large bowl .
+PREDID: 346
+PRED: combine
+   DOBJ: the cream of mushroom soup , white wine , water
+      INGREDIENT SPAN: the cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  white wine 
+         INGREDIENTS: white wine
+      NON-INGREDIENT SPAN:  water
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would stir in the cooked egg noodles , the ham , and Swiss cheese .
+PREDID: 407
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked egg noodles , the ham , swiss cheese
+     PREP: in
+      INGREDIENT SPAN:  swiss cheese
+         INGREDIENTS: shredded Swiss cheese
+      NON-INGREDIENT SPAN:  the ham 
+      NON-INGREDIENT SPAN: the cooked egg noodles 
+
+
+SENTID: 8
+SENT: I would pour the mixture into the prepared baking dish .
+PREDID: 452
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 9
+SENT: I would sprinkle the dry stuffing mix over the dish .
+PREDID: 492
+PRED: sprinkle
+   DOBJ: the dry stuffing mix
+      INGREDIENT SPAN: the dry stuffing mix
+         INGREDIENTS: seasoned stuffing mix coarsecrumb style
+   PARG: the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the dish
+
+
+SENTID: 10
+SENT: I would bake uncovered until the casserole is bubbling and browned , about 30 minutes .
+PREDID: 529
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 533
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the casserole is bubbling, browned , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the casserole is bubbling
+      NON-INGREDIENT SPAN:  browned 
+
+

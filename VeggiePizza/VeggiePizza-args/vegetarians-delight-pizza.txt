@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place the pizza crust on a large cookie tray or pizza pan .
+PREDID: 41
+PRED: place
+   DOBJ: the pizza crust
+      INGREDIENT SPAN: the pizza crust
+         INGREDIENTS: inch prebaked pizza crust
+   PARG: a large cookie tray or pizza pan
+     PREP: on
+      NON-INGREDIENT SPAN: a large cookie tray or pizza pan
+
+
+SENTID: 2
+SENT: I would brush the crust evenly with olive oil .
+PREDID: 88
+PRED: brush
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   OARG: the crust evenly
+      NON-INGREDIENT SPAN: the crust evenly
+
+
+SENTID: 3
+SENT: I would spread tomato sauce over it with a spatula or back of a spoon .
+PREDID: 120
+PRED: spread
+   DOBJ: tomato sauce over it
+      INGREDIENT SPAN: tomato sauce over it
+         INGREDIENTS: seasoned tomato sauce
+   PARG: a spatula or back of a spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a spatula or back of a spoon
+
+
+SENTID: 4
+SENT: I would sprinkle vegetables evenly over the sauce , and top with cheese .
+PREDID: 170
+PRED: sprinkle
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   OARG: evenly over the sauce
+      NON-INGREDIENT SPAN: evenly over the sauce
+
+PREDID: 210
+PRED: top
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 5
+SENT: I would bake for 10 to 12 minutes , or until cheese has melted and is bubbly .
+PREDID: 224
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 to 12 minutes , or until cheese has melted, is bubbly
+     PREP: for
+      NON-INGREDIENT SPAN:  or until cheese has melted
+      NON-INGREDIENT SPAN:  is bubbly
+      NON-INGREDIENT SPAN: 10 to 12 minutes 
+
+
+SENTID: 6
+SENT: I would let cool for 2 to 3 minutes before cutting .
+PREDID: 279
+PRED: let
+   DOBJ: NULL
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+   OARG: cool for 2 to 3 minutes
+      NON-INGREDIENT SPAN: cool for 2 to 3 minutes
+
+

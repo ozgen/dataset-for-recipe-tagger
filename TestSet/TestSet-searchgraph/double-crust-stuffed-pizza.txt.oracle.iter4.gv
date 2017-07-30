@@ -1,0 +1,216 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="sprinkle
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="let stand
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="mix
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir in
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="turn
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="knead
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="oil
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="place
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="turn
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="cover
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="let rise
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="combine
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="cover
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="cook
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="preheat
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="deflate
+19", shape=oval, style=filled, fillcolor=azure]
+E20[label="turn
+20", shape=oval, style=filled, fillcolor=azure]
+E21[label="cut
+21", shape=oval, style=filled, fillcolor=azure]
+E22[label="roll
+22", shape=oval, style=filled, fillcolor=azure]
+E23[label="roll
+23", shape=oval, style=filled, fillcolor=azure]
+E24[label="place
+24", shape=oval, style=filled, fillcolor=azure]
+E25[label="sprinkle
+25", shape=oval, style=filled, fillcolor=azure]
+E26[label="shape
+26", shape=oval, style=filled, fillcolor=azure]
+E27[label="place
+27", shape=oval, style=filled, fillcolor=azure]
+E28[label="layer
+28", shape=oval, style=filled, fillcolor=azure]
+E29[label="top
+29", shape=oval, style=filled, fillcolor=azure]
+E30[label="pinch
+30", shape=oval, style=filled, fillcolor=azure]
+E31[label="cut
+31", shape=oval, style=filled, fillcolor=azure]
+E32[label="spread
+32", shape=oval, style=filled, fillcolor=azure]
+E33[label="bake
+33", shape=oval, style=filled, fillcolor=azure]
+E34[label="let
+34", shape=oval, style=filled, fillcolor=azure]
+E35[label="cutting
+35", shape=oval, style=filled, fillcolor=azure]
+E36[label="serving
+36", shape=oval, style=filled, fillcolor=azure]
+O17_0[label="OTHER: over low heat", shape=box, style=filled, fillcolor=white]
+O17_0 -> E17
+O17_1[label="OTHER: until tomatoes start to break down, about 30 minutes", shape=box, style=filled, fillcolor=white]
+O17_1 -> E17
+D4[label="DOBJ: salt", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="COOBJECT:into allpurpose flour", shape=box, style=filled, fillcolor=peachpuff]
+P4_0 -> E4
+D10[label="DOBJ: a large bowl", shape=box, style=filled, fillcolor=white]
+D10 -> E10
+D26[label="DOBJ: bulk Italian sausage", shape=box, style=filled, fillcolor=peachpuff]
+D26 -> E26
+O26_0[label="OTHER: into a 9 inch patty", shape=box, style=filled, fillcolor=white]
+O26_0 -> E26
+D22[label="DOBJ: one piece", shape=box, style=filled, fillcolor=white]
+D22 -> E22
+O22_0[label="OTHER: into a 12 inch thin circle", shape=box, style=filled, fillcolor=white]
+O22_0 -> E22
+D0[label="DOBJ: warm water degrees F/40 degrees C, white sugar", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large bowl or in the work bowl of a stand mixer", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D16[label="DOBJ: pan", shape=box, style=filled, fillcolor=white]
+D16 -> E16
+D31[label="DOBJ: several 1/2 inch vent holes", shape=box, style=filled, fillcolor=white]
+D31 -> E31
+P31_0[label="COOBJECT:in the top crust", shape=box, style=filled, fillcolor=white]
+P31_0 -> E31
+D1_ing[label="DOBJ: active dry yeast", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_ing[label="COOBJECT: over packed brown sugar", shape=box, style=filled, fillcolor=peachpuff]
+P1_1_ing -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: for 5 minutes until the yeast softens and begins to form a creamy foam", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+D3_ing[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="COOBJECT:into the yeast mixture"]
+E4 -> E5 [label="half of the flour mixture"]
+E3 -> E5 [label="COOBJECT:into the yeast water"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: until no dry spots remain", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: the allpurpose flour", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+O7_0_0[label="OTHER: a 1/2 cup at a time", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: mixing well after each addition", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+E7 -> E8 [label="it"]
+P8_0_0[label="LOCATION:onto a lightly floured surface", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+O8_0_0[label="OTHER: when the dough has pulled together,", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: out", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+O9_0_0[label="OTHER: until smooth and elastic, about 8 minutes (or mix with dough hook in stand mixer)", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E11 [label="the dough"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+P12_0_0[label="COOBJECT:with oil", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+O12_0_0[label="OTHER: to coat", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+O13_0_0[label="OTHER: with a light cloth", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_0[label="LOCATION:in a warm place", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+O14_0_0[label="OTHER: until doubled in volume, about 1 hour", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+D15_ing[label="DOBJ: olive oil, garlic powder, crushed tomatoes", shape=box, style=filled, fillcolor=peachpuff]
+D15_ing -> E15
+E14 -> E15 [label="brown sugar"]
+D15_1[label="DOBJ: salt", shape=box, style=filled, fillcolor=white]
+D15_1 -> E15
+P15_0_0[label="LOCATION:in small saucepan", shape=box, style=filled, fillcolor=white]
+P15_0_0 -> E15
+D18_0[label="DOBJ: an oven", shape=box, style=filled, fillcolor=white]
+D18_0 -> E18
+E17 -> E18 [label="IMPLICIT PREP"]
+O18_0_0[label="OTHER: to 450 degrees f (230 degrees c)", shape=box, style=filled, fillcolor=white]
+O18_0_0 -> E18
+E15 -> E19 [label="the dough"]
+E19 -> E20 [label="it"]
+P20_0_0[label="LOCATION:onto a lightly floured surface", shape=box, style=filled, fillcolor=white]
+P20_0_0 -> E20
+O20_0_0[label="OTHER: out", shape=box, style=filled, fillcolor=white]
+O20_0_0 -> E20
+E20 -> E21 [label="the dough"]
+O21_0_0[label="OTHER: into 2 equal pieces", shape=box, style=filled, fillcolor=white]
+O21_0_0 -> E21
+E22 -> E23 [label="the other half"]
+O23_0_0[label="OTHER: into a thicker, 9 inch circle", shape=box, style=filled, fillcolor=white]
+O23_0_0 -> E23
+E21 -> E24 [label="the 12 inch dough round"]
+E23 -> E24 [label="IMPLICIT PREP"]
+E16 -> E24 [label="LOCATION:into an ungreased 9 inch springform pan"]
+E24 -> E25 [label="dough"]
+P25_0_ing[label="COOBJECT: with shredded mozzarella cheese divided", shape=box, style=filled, fillcolor=peachpuff]
+P25_0_ing -> E25
+E26 -> E27 [label="IMPLICIT DOBJ"]
+P27_0_0[label="LOCATION:in pan", shape=box, style=filled, fillcolor=white]
+P27_0_0 -> E27
+E25 -> E27 [label="COOBJECT:on top of the cheese"]
+D28_ing[label="DOBJ: red bell pepper, green bell pepper, package fresh mushrooms, shredded mozzarella cheese divided, package pepperoni", shape=box, style=filled, fillcolor=peachpuff]
+D28_ing -> E28
+E27 -> E28 [label="COOBJECT:on top of sausage patty"]
+E28 -> E29 [label="IMPLICIT DOBJ"]
+P29_0_0[label="COOBJECT:with the 9 inch dough round", shape=box, style=filled, fillcolor=white]
+P29_0_0 -> E29
+E29 -> E30 [label="edges"]
+O30_0_0[label="OTHER: to seal", shape=box, style=filled, fillcolor=white]
+O30_0_0 -> E30
+D32_0[label="DOBJ: sauce", shape=box, style=filled, fillcolor=white]
+D32_0 -> E32
+E31 -> E32 [label="IMPLICIT PREP"]
+E30 -> E32 [label="COOBJECT:on the top crust"]
+O32_0_0[label="OTHER: leaving a 1/2 inch border at the edges", shape=box, style=filled, fillcolor=white]
+O32_0_0 -> E32
+E32 -> E33 [label="pizza"]
+E18 -> E33 [label="LOCATION:in the preheated oven"]
+O33_0_0[label="OTHER: until the crust is set, the cheese is melted, and the sausage is cooked through, 40 to 45 minutes", shape=box, style=filled, fillcolor=white]
+O33_0_0 -> E33
+E33 -> E34 [label="hot pizza"]
+E10 -> E34 [label="IMPLICIT PREP"]
+O34_0_0[label="OTHER: rest", shape=box, style=filled, fillcolor=white]
+O34_0_0 -> E34
+O34_1_0[label="OTHER: for 15 minutes", shape=box, style=filled, fillcolor=white]
+O34_1_0 -> E34
+E34 -> E35 [label="IMPLICIT DOBJ"]
+O35_0_0[label="OTHER: into wedges", shape=box, style=filled, fillcolor=white]
+O35_0_0 -> E35
+E35 -> E36 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E36 -> EOR
+}

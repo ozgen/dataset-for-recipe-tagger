@@ -1,0 +1,226 @@
+SENTID: 0
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would spray a baking sheet with nonstick cooking spray .
+PREDID: 40
+PRED: spray
+   DOBJ: a baking sheet with nonstick cooking spray
+      NON-INGREDIENT SPAN: a baking sheet with nonstick cooking spray
+
+
+SENTID: 2
+SENT: I would place the beef , the bread , the egg , liquid seasoning , Worcestershire sauce , the pepper , and seasoned salt in a bowl , and mix well .
+PREDID: 82
+PRED: place
+   DOBJ: the beef , the bread , the egg , liquid seasoning , Worcestershire sauce , the pepper , seasoned salt in a bowl
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the bread 
+         INGREDIENTS: slices dayold white bread torn small
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  liquid seasoning 
+         INGREDIENTS: wheatbased liquid seasoning such Maggi Seasoning
+      INGREDIENT SPAN:  seasoned salt in a bowl
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+PREDID: 183
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: Using about 2 tablespoons of meat mixture per meatball , I would form into about 40 meatballs .
+PREDID: 229
+PRED: form
+   DOBJ: NULL
+   PARG: about 40 meatballs
+     PREP: into
+      NON-INGREDIENT SPAN: about 40 meatballs
+   OARG: using about 2 tablespoons of meat mixture per meatball
+      NON-INGREDIENT SPAN: using about 2 tablespoons of meat mixture per meatball
+
+
+SENTID: 4
+SENT: I would place the meatballs onto the prepared baking sheet , and bake for about 15 minutes , until the meatballs are no longer pink .
+PREDID: 254
+PRED: place
+   DOBJ: the meatballs
+      NON-INGREDIENT SPAN: the meatballs
+   PARG: the prepared baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+PREDID: 301
+PRED: bake
+   DOBJ: NULL
+   PARG: about 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 minutes
+   PARG: the meatballs are no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the meatballs are no longer pink
+
+
+SENTID: 5
+SENT: I would remove the meatballs , place them into a large baking dish with a cover , and set aside .
+PREDID: 356
+PRED: remove
+   DOBJ: the meatballs
+      NON-INGREDIENT SPAN: the meatballs
+
+PREDID: 375
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a large baking dish with a cover
+     PREP: into
+      NON-INGREDIENT SPAN: a large baking dish with a cover
+
+PREDID: 418
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would reduce the oven heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 427
+PRED: reduce
+   DOBJ: the oven heat
+      NON-INGREDIENT SPAN: the oven heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 7
+SENT: I would whisk the cornstarch into 1/4 cup water in a bowl until smooth .
+PREDID: 471
+PRED: whisk
+   DOBJ: the cornstarch
+      INGREDIENT SPAN: the cornstarch
+         INGREDIENTS: cornstarch
+   PARG: 1/4 cup water in a bowl
+     PREP: into
+      INGREDIENT SPAN: 1/4 cup water in a bowl
+         INGREDIENTS: water divided
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would place 2 cups of water , the onion , beef bouillon granules , and 1/4 teaspoon black pepper in a small saucepan over medium heat , and bring to a boil .
+PREDID: 523
+PRED: place
+   DOBJ: 2 cups of water , the onion , beef bouillon granules , 1/4 teaspoon black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: 2 cups of water 
+         INGREDIENTS: water divided
+      INGREDIENT SPAN:  beef bouillon granules 
+         INGREDIENTS: beef bouillon granules
+      NON-INGREDIENT SPAN:  1/4 teaspoon black pepper
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+
+PREDID: 630
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would whisk the cornstarch mixture into the hot bouillon mixture , and return to a simmer .
+PREDID: 640
+PRED: whisk
+   DOBJ: the cornstarch mixture
+      NON-INGREDIENT SPAN: the cornstarch mixture
+   PARG: the hot bouillon mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the hot bouillon mixture
+
+PREDID: 694
+PRED: return
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 10
+SENT: I would reduce the heat to low , stir in the mushrooms , the soup , the parsley , and sour cream , and bring back just to a simmer .
+PREDID: 710
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 729
+PRED: stir
+   DOBJ: NULL
+   PARG: the mushrooms , the soup , the parsley , sour cream
+     PREP: in
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: the mushrooms 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      NON-INGREDIENT SPAN:  the soup 
+
+PREDID: 783
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+   OARG: back
+      NON-INGREDIENT SPAN: back
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 11
+SENT: I would pour the hot sour cream sauce over the meatballs , cover the baking dish , and bake for about 30 minutes , until the sauce is bubbling and thickened .
+PREDID: 800
+PRED: pour
+   DOBJ: the hot sour cream sauce over the meatballs
+      NON-INGREDIENT SPAN: the hot sour cream sauce over the meatballs
+
+PREDID: 841
+PRED: cover
+   DOBJ: the baking dish
+      NON-INGREDIENT SPAN: the baking dish
+
+PREDID: 863
+PRED: bake
+   DOBJ: NULL
+   PARG: about 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 30 minutes
+   PARG: the sauce is bubbling, thickened
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce is bubbling
+      NON-INGREDIENT SPAN:  thickened
+
+

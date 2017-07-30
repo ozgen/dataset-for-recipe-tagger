@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: I would heat the olive oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would stir in the garlic , the onion , red bell pepper , and jalapeno peppers .
+PREDID: 41
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic , the onion , red bell pepper , jalapeno peppers
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  jalapeno peppers
+         INGREDIENTS: jalapeno peppers seeded sliced
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: cloves minced garlic
+
+
+SENTID: 2
+SENT: I would cook and stir until the onion is tender , about 7 minutes .
+PREDID: 96
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion is tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is tender 
+      NON-INGREDIENT SPAN:  about 7 minutes
+
+
+SENTID: 3
+SENT: I would add the tomato sauce , crushed tomatoes , maple syrup , and kidney beans .
+PREDID: 143
+PRED: add
+   DOBJ: the tomato sauce , crushed tomatoes , maple syrup , kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN: the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+
+
+SENTID: 4
+SENT: I would season with black pepper and chili powder .
+PREDID: 203
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper, chili powder
+     PREP: with
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: coarse ground black pepper
+
+
+SENTID: 5
+SENT: I would bring to a boil ,
+PREDID: 239
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat to a simmer .
+PREDID: 252
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 7
+SENT: I would meanwhile , heat a large skillet over medium-high heat and stir in the ground beef .
+PREDID: 282
+PRED: heat
+   DOBJ: a large skillet over medium-high heat
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+PREDID: 321
+PRED: stir
+   DOBJ: NULL
+   PARG: the ground beef
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef chuck
+
+
+SENTID: 8
+SENT: I would sprinkle beef with salt .
+PREDID: 341
+PRED: sprinkle
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 9
+SENT: I would cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 362
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 10
+SENT: I would drain and discard any excess grease ;
+PREDID: 425
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 11
+SENT: I would stir into the chili along with 1 beer .
+PREDID: 456
+PRED: stir
+   DOBJ: NULL
+   PARG: the chili along with 1 beer
+     PREP: into
+      INGREDIENT SPAN: the chili along with 1 beer
+         INGREDIENTS: ounce bottles beer such Heineken needed
+
+
+SENTID: 12
+SENT: I would cook and stir for 1 hour , stirring frequently .
+PREDID: 487
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+
+SENTID: 13
+SENT: I would season to taste with salt , and thin to desired consistency with 1 beer before serving .
+

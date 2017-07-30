@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would cook and stir ground beef in a skillet over medium heat until no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef in a skillet over medium heat
+      INGREDIENT SPAN: ground beef in a skillet over medium heat
+         INGREDIENTS: ground beef
+   PARG: no longer pink , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: no longer pink 
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 78
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would transfer ground beef to a slow cooker .
+PREDID: 84
+PRED: transfer
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground black pepper
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 3
+SENT: I would stir in kidney beans , diced tomatoes , the onion , half the green bell peppers , half the red bell peppers , chili powder , the garlic , the salt , and ground black pepper until well combined .
+PREDID: 116
+PRED: stir
+   DOBJ: NULL
+   PARG: kidney beans , diced tomatoes , the onion , half the green bell peppers , half the red bell peppers , chili powder , the garlic , the salt , ground black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  half the green bell peppers 
+         INGREDIENTS: red bell pepper chopped divided
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes undrained
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: kidney beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  half the red bell peppers 
+         INGREDIENTS: green bell peppers chopped divided
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  ground black pepper
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 4
+SENT: I would place remaining green bell peppers and red bell peppers on top of mixture .
+PREDID: 262
+PRED: place
+   DOBJ: remaining green bell peppers, red bell peppers
+      NON-INGREDIENT SPAN: remaining green bell peppers
+      NON-INGREDIENT SPAN:  red bell peppers
+   PARG: top of mixture
+     PREP: on
+      NON-INGREDIENT SPAN: top of mixture
+
+
+SENTID: 5
+SENT: I would cover the cooker and cook on High setting until vegetables are soft and the flavors have blended , about 2 hours .
+PREDID: 324
+PRED: cover
+   DOBJ: the cooker
+      NON-INGREDIENT SPAN: the cooker
+   OARG: the flavors have blended , about 2 hours
+      NON-INGREDIENT SPAN: the flavors have blended 
+      NON-INGREDIENT SPAN:  about 2 hours
+
+PREDID: 341
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   OARG: setting until vegetables are soft
+      NON-INGREDIENT SPAN: setting until vegetables are soft
+
+
+SENTID: 6
+SENT: I would stir chili and cook on Low setting for 6 more hours .
+PREDID: 417
+PRED: stir
+   DOBJ: chili
+      NON-INGREDIENT SPAN: chili
+
+PREDID: 429
+PRED: cook
+   DOBJ: NULL
+   PARG: low setting for 6 more hours
+     PREP: on
+      NON-INGREDIENT SPAN: low setting for 6 more hours
+
+
+SENTID: 7
+SENT: I would serve in bowls ;
+PREDID: 459
+PRED: serve
+   DOBJ: NULL
+   PARG: bowls
+     PREP: in
+      NON-INGREDIENT SPAN: bowls
+
+
+SENTID: 8
+SENT: I would garnish each serving with 1 tablespoon of shredded Cheddar cheese .
+PREDID: 472
+PRED: garnish
+   DOBJ: NULL
+   OARG: each serving with 1 tablespoon of shredded cheddar cheese
+      INGREDIENT SPAN: each serving with 1 tablespoon of shredded cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese garnish
+
+

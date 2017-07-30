@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups , or line with paper muffin liners .
+PREDID: 40
+PRED: grease
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+
+PREDID: 61
+PRED: line
+   DOBJ: NULL
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would whisk the flour , baking soda , and salt together in a bowl ;
+PREDID: 87
+PRED: whisk
+   DOBJ: the flour , baking soda , salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 135
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would beat the bananas , the butter , and sugar with an electric mixer in a large bowl until smooth .
+PREDID: 144
+PRED: beat
+   DOBJ: the bananas , the butter , sugar
+      INGREDIENT SPAN: the bananas 
+         INGREDIENTS: ripe bananas
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: softened unsalted butter
+   PARG: an electric mixer in a large bowl
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer in a large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would beat in the egg , vanilla extract , and whiskey .
+PREDID: 217
+PRED: beat
+   DOBJ: NULL
+   PARG: the egg , vanilla extract , whiskey
+     PREP: in
+      INGREDIENT SPAN: the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  whiskey
+         INGREDIENTS: whiskey such Jack Daniel
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 6
+SENT: I would mix in the flour mixture until just incorporated .
+PREDID: 256
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: just incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: just incorporated
+
+
+SENTID: 7
+SENT: I would fold in the coconut and chocolate chips , mixing just enough to evenly combine .
+PREDID: 298
+PRED: fold
+   DOBJ: NULL
+   PARG: the coconut, chocolate chips
+     PREP: in
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: mini chocolate chips
+      INGREDIENT SPAN: the coconut
+         INGREDIENTS: unsweetened flaked coconut
+   OARG: mixing just enough to evenly combine
+      NON-INGREDIENT SPAN: mixing just enough to evenly combine
+
+
+SENTID: 8
+SENT: I would pour into muffin pan .
+PREDID: 364
+PRED: pour
+   DOBJ: NULL
+   PARG: muffin pan
+     PREP: into
+      NON-INGREDIENT SPAN: muffin pan
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , about 25 minutes .
+PREDID: 382
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 10
+SENT: I would cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 469
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+

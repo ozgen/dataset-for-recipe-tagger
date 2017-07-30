@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line a 12 cup muffin pan with paper liners or coat with cooking spray .
+PREDID: 41
+PRED: line pan
+   DOBJ: a 12 cup muffin
+      NON-INGREDIENT SPAN: a 12 cup muffin
+   PARG: paper liners or coat
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners or coat
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: In a large bowl , I would stir together the bananas , brown sugar , the egg , the vanilla and oil .
+PREDID: 111
+PRED: stir
+   DOBJ: the bananas , brown sugar , the egg , the vanilla, oil
+      INGREDIENT SPAN: the bananas 
+         INGREDIENTS: ripe bananas mashed
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would combine the whole wheat flour , the oats , the cinnamon , the ginger , baking powder and baking soda ;
+PREDID: 163
+PRED: combine
+   DOBJ: the whole wheat flour , the oats , the cinnamon , the ginger , baking powder, baking soda
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ginger
+      INGREDIENT SPAN: the whole wheat flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+
+
+SENTID: 4
+SENT: I would stir into the banana mixture until blended .
+PREDID: 236
+PRED: stir
+   DOBJ: NULL
+   PARG: the banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the banana mixture
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 5
+SENT: I would spoon the batter into the prepared muffin cups .
+PREDID: 273
+PRED: spoon
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin cups
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until the tops spring back when lightly pressed , about 25 minutes .
+PREDID: 313
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until the tops
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until the tops
+   PARG: 25 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 25 minutes
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when lightly pressed
+      NON-INGREDIENT SPAN: back when lightly pressed
+
+
+SENTID: 7
+SENT: I would cool for a few minutes in the pan before attempting to remove them .
+PREDID: 391
+PRED: cool
+   DOBJ: NULL
+   PARG: a few minutes in the pan
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes in the pan
+   PARG: attempting to remove them
+     PREP: before
+      NON-INGREDIENT SPAN: attempting to remove them
+
+

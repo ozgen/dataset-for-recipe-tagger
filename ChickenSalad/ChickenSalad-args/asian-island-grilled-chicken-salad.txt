@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would combine pineapple juice , soy sauce , brown sugar and garlic with 1 tablespoon provided sesame ginger dressing in small sauce pan .
+PREDID: 0
+PRED: combine
+   DOBJ: pineapple juice , soy sauce , brown sugar, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic chopped
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: pineapple juice 
+         INGREDIENTS: DOLE Pineapple Juice
+   PARG: 1 tablespoon provided sesame ginger dressing in small sauce pan
+     PREP: with
+      NON-INGREDIENT SPAN: 1 tablespoon provided sesame ginger dressing in small sauce pan
+
+
+SENTID: 1
+SENT: I would bring to boil and reduce to 1/3 .
+PREDID: 109
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+PREDID: 123
+PRED: reduce
+   DOBJ: NULL
+   PARG: 1/3
+     PREP: to
+      NON-INGREDIENT SPAN: 1/3
+
+
+SENTID: 2
+SENT: I would heat the grill or grill pan over medium-high heat ;
+PREDID: 135
+PRED: heat
+   DOBJ: the grill or grill pan over medium-high heat
+      NON-INGREDIENT SPAN: the grill or grill pan over medium-high heat
+
+
+SENTID: 3
+SENT: I would brush grill lightly with oil or spray with non-stick vegetable cooking spray .
+PREDID: 177
+PRED: brush
+   DOBJ: NULL
+   PARG: oil or spray
+     PREP: with
+      NON-INGREDIENT SPAN: oil or spray
+   PARG: non-stick vegetable cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: non-stick vegetable cooking spray
+   OARG: grill
+      NON-INGREDIENT SPAN: grill
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 4
+SENT: I would baste chicken with pineapple mixture .
+PREDID: 243
+PRED: baste
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: ounce boneless skinless chicken breasts
+   PARG: pineapple mixture
+     PREP: with
+      NON-INGREDIENT SPAN: pineapple mixture
+
+
+SENTID: 5
+SENT: I would grill chicken , turning once -LRB- and continuing to baste -RRB- , 10 to 12 minutes or until no longer pink in center .
+PREDID: 276
+PRED: grill
+   DOBJ: NULL
+   PARG: chicken , turning once -lrb-, continuing to baste -rrb- , 10 to 12 minutes or until no longer pink in center
+     PREP: for
+      NON-INGREDIENT SPAN:  turning once -lrb-
+      NON-INGREDIENT SPAN:  10 to 12 minutes or until no longer pink in center
+      NON-INGREDIENT SPAN: chicken 
+      NON-INGREDIENT SPAN:  continuing to baste -rrb- 
+
+
+SENTID: 6
+SENT: I would slice chicken .
+PREDID: 364
+PRED: slice
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 7
+SENT: I would place salad blend in large bowl with provided accompaniments and toss with remaining dressing .
+PREDID: 377
+PRED: place
+   DOBJ: salad blend
+      INGREDIENT SPAN: salad blend
+         INGREDIENTS: ounce package DOLE Asian Island Crunch Salad Kit
+   PARG: large bowl with provided accompaniments
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl with provided accompaniments
+
+PREDID: 432
+PRED: toss
+   DOBJ: NULL
+   PARG: remaining dressing
+     PREP: with
+      NON-INGREDIENT SPAN: remaining dressing
+
+
+SENTID: 8
+SENT: I would arrange salad on plates ;
+PREDID: 458
+PRED: arrange
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: plates
+     PREP: on
+      NON-INGREDIENT SPAN: plates
+
+
+SENTID: 9
+SENT: I would top with bell pepper , the onion , and chicken .
+PREDID: 479
+PRED: top
+   DOBJ: NULL
+   PARG: bell pepper , the onion , chicken
+     PREP: with
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: DOLE Red Onion sliced
+      INGREDIENT SPAN: bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      NON-INGREDIENT SPAN:  chicken
+
+

@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would prepare a muffin tin with paper liners .
+PREDID: 25
+PRED: prepare
+   DOBJ: a muffin tin
+      INGREDIENT SPAN: a muffin tin
+         INGREDIENTS: ounce box banana quick bread muffin mix such Pillsbury
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would prepare muffins according to package instructions using water , the eggs and oil , but use only 1/4 cup oil instead of 1/2 cup , and add 1/4 cup applesauce .
+PREDID: 58
+PRED: prepare
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: to package instructions using water , the eggs, oil
+     PREP: according
+      INGREDIENT SPAN: to package instructions using water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+
+PREDID: 130
+PRED: use
+   DOBJ: only 1/4 cup oil instead of 1/2 cup
+      NON-INGREDIENT SPAN: only 1/4 cup oil instead of 1/2 cup
+
+PREDID: 165
+PRED: add
+   DOBJ: 1/4 cup applesauce
+      INGREDIENT SPAN: 1/4 cup applesauce
+         INGREDIENTS: cinnamonflavored applesauce
+
+
+SENTID: 3
+SENT: I would stir in banana , 3/4 cup almonds and chocolate .
+PREDID: 182
+PRED: stir
+   DOBJ: NULL
+   PARG: banana , 3/4 cup almonds, chocolate
+     PREP: in
+      INGREDIENT SPAN:  chocolate
+         INGREDIENTS: semisweet chocolate chips chopped dark chocolate
+      INGREDIENT SPAN: banana 
+         INGREDIENTS: medium banana diced
+      INGREDIENT SPAN:  3/4 cup almonds
+         INGREDIENTS: sliced California Almonds divided
+
+
+SENTID: 4
+SENT: I would divide evenly among muffin cups and sprinkle with remaining 1/4 cup almonds .
+PREDID: 221
+PRED: divide
+   DOBJ: NULL
+   PARG: muffin cups
+     PREP: among
+      NON-INGREDIENT SPAN: muffin cups
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+PREDID: 251
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining 1/4 cup almonds
+     PREP: with
+      INGREDIENT SPAN: remaining 1/4 cup almonds
+         INGREDIENTS: sliced California Almonds divided
+
+
+SENTID: 5
+SENT: I would bake 15-20 minutes , until a tester comes out clean .
+PREDID: 286
+PRED: bake
+   DOBJ: NULL
+   PARG: 15-20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15-20 minutes
+   PARG: a tester comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a tester comes out clean
+
+
+SENTID: 6
+SENT: I would cool muffin tin on a rack for 10 minutes ,
+PREDID: 329
+PRED: cool
+   DOBJ: muffin tin
+      NON-INGREDIENT SPAN: muffin tin
+   PARG: a rack for 10 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: a rack for 10 minutes
+
+
+SENTID: 7
+SENT: I would remove muffins and continue the cooling on rack .
+PREDID: 362
+PRED: remove
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+
+PREDID: 378
+PRED: continue
+   DOBJ: the cooling
+      NON-INGREDIENT SPAN: the cooling
+   PARG: rack
+     PREP: on
+      NON-INGREDIENT SPAN: rack
+
+
+SENTID: 8
+SENT: I would store air tight at room temperature for up to 4 days .
+PREDID: 400
+PRED: store
+   DOBJ: air
+      NON-INGREDIENT SPAN: air
+   PARG: room temperature for up to 4 days
+     PREP: at
+      NON-INGREDIENT SPAN: room temperature for up to 4 days
+   OARG: tight
+      NON-INGREDIENT SPAN: tight
+
+

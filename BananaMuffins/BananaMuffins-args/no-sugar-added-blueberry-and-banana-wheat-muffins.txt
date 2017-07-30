@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 18 muffin cups , or line with paper muffin liners .
+PREDID: 40
+PRED: grease
+   DOBJ: 18 muffin cups
+      NON-INGREDIENT SPAN: 18 muffin cups
+
+PREDID: 61
+PRED: line
+   DOBJ: NULL
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would mix together mashed bananas , the egg , the water , and oil in a large bowl .
+PREDID: 87
+PRED: mix
+   DOBJ: mashed bananas , the egg , the water , oil in a large bowl
+      INGREDIENT SPAN: mashed bananas 
+         INGREDIENTS: mashed bananas
+      INGREDIENT SPAN:  oil in a large bowl
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in flour , baking soda , and baking powder until mostly smooth -LRB- you will still see the lumps from the banana , but that 's okay ! -RRB-
+PREDID: 141
+PRED: mix
+   DOBJ: NULL
+   PARG: flour , baking soda , baking powder
+     PREP: in
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: wheat flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: mostly smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mostly smooth
+   OARG: you will still see the lumps from the banana , but that 's okay
+      NON-INGREDIENT SPAN:  but that 's okay
+      NON-INGREDIENT SPAN: you will still see the lumps from the banana 
+
+
+SENTID: 4
+SENT: .
+
+SENTID: 5
+SENT: I would gently fold the blueberries into the batter .
+PREDID: 251
+PRED: fold
+   DOBJ: the blueberries
+      INGREDIENT SPAN: the blueberries
+         INGREDIENTS: fresh frozen blueberries
+   PARG: the batter
+     PREP: into
+      NON-INGREDIENT SPAN: the batter
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until golden and the tops spring back when lightly pressed , about 15 minutes .
+PREDID: 283
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until golden, the tops
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until golden
+      NON-INGREDIENT SPAN:  the tops
+   PARG: 15 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 15 minutes
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when lightly pressed
+      NON-INGREDIENT SPAN: back when lightly pressed
+
+
+SENTID: 7
+SENT: I would remove muffins from tins , and cool on a wire rack .
+PREDID: 370
+PRED: remove
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: tins
+     PREP: from
+      NON-INGREDIENT SPAN: tins
+
+PREDID: 395
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+
+

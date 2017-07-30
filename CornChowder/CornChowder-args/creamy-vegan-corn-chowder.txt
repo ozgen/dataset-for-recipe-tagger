@@ -1,0 +1,205 @@
+SENTID: 0
+SENT: I would heat oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would stir in onions and celery ;
+PREDID: 37
+PRED: stir
+   DOBJ: NULL
+   PARG: onions, celery
+     PREP: in
+      INGREDIENT SPAN: onions
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: celery chopped
+
+
+SENTID: 2
+SENT: I would cook until just slightly golden .
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: just slightly golden
+     PREP: until
+      NON-INGREDIENT SPAN: just slightly golden
+
+
+SENTID: 3
+SENT: I would stir in carrots and garlic ;
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: carrots, garlic
+     PREP: in
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: carrots chopped
+
+
+SENTID: 4
+SENT: I would cook until garlic is slightly golden .
+PREDID: 110
+PRED: cook
+   DOBJ: NULL
+   PARG: garlic is slightly golden
+     PREP: until
+      NON-INGREDIENT SPAN: garlic is slightly golden
+
+
+SENTID: 5
+SENT: I would meanwhile , bring water to a boil over high heat .
+PREDID: 152
+PRED: bring
+   DOBJ: water to a boil over high heat
+      INGREDIENT SPAN: water to a boil over high heat
+         INGREDIENTS: water
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would stir in bouillon , and reduce heat to medium .
+PREDID: 182
+PRED: stir
+   DOBJ: NULL
+   PARG: bouillon
+     PREP: in
+      INGREDIENT SPAN: bouillon
+         INGREDIENTS: cubes vegetable bouillon
+
+PREDID: 200
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 7
+SENT: When bouillon cubes have dissolved , add corn and the vegetables from the skillet .
+PREDID: 250
+PRED: add
+   DOBJ: corn, the vegetables
+      INGREDIENT SPAN: corn
+         INGREDIENTS: corn
+      NON-INGREDIENT SPAN:  the vegetables
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+   OARG: when bouillon cubes have dissolved
+      NON-INGREDIENT SPAN: when bouillon cubes have dissolved
+
+
+SENTID: 8
+SENT: I would cook until vegetables are tender .
+PREDID: 288
+PRED: cook
+   DOBJ: NULL
+   PARG: vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are tender
+
+
+SENTID: 9
+SENT: I would add water , if necessary .
+PREDID: 317
+PRED: add
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+
+
+SENTID: 10
+SENT: I would reduce heat to low , and pour in 1 cup soy milk .
+PREDID: 338
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 357
+PRED: pour
+   DOBJ: NULL
+   PARG: 1 cup soy milk
+     PREP: in
+      INGREDIENT SPAN: 1 cup soy milk
+         INGREDIENTS: soy milk
+
+
+SENTID: 11
+SENT: I would stir soup well ,
+PREDID: 375
+PRED: stir
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 12
+SENT: I would stir in remaining 1 cup soy milk .
+PREDID: 388
+PRED: stir
+   DOBJ: NULL
+   PARG: remaining 1 cup soy milk
+     PREP: in
+      INGREDIENT SPAN: remaining 1 cup soy milk
+         INGREDIENTS: soy milk
+
+
+SENTID: 13
+SENT: I would quickly whisk in flour .
+PREDID: 422
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: flour
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+
+
+SENTID: 14
+SENT: I would stir in parsley , garlic powder , the salt , and pepper .
+PREDID: 435
+PRED: stir
+   DOBJ: NULL
+   PARG: parsley , garlic powder , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: parsley 
+         INGREDIENTS: dried parsley
+
+
+SENTID: 15
+SENT: I would cook , stirring constantly , until chowder thickens , about 15 to 20 minutes .
+PREDID: 477
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring constantly , until chowder thickens , about 15 to 20 minutes
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  about 15 to 20 minutes
+      NON-INGREDIENT SPAN:  until chowder thickens 
+
+

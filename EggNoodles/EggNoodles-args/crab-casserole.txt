@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large pot of salted boiling water , I would cook pasta until al dente .
+PREDID: 70
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of salted boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of salted boiling water
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 2
+SENT: I would drain , and transfer to a large bowl .
+PREDID: 92
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 101
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would add mayonnaise , Worcestershire sauce , the ketchup , and onion to the noodles ;
+PREDID: 122
+PRED: add
+   DOBJ: mayonnaise , Worcestershire sauce , the ketchup , onion
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onions
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: lowfat mayonnaise
+   PARG: the noodles
+     PREP: to
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: ounce package egg noodles
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 185
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would stir in green pepper , the crab , the shrimp and celery .
+PREDID: 193
+PRED: stir
+   DOBJ: NULL
+   PARG: green pepper , the crab , the shrimp, celery
+     PREP: in
+      INGREDIENT SPAN:  the shrimp
+         INGREDIENTS: ounce small shrimp drained
+      INGREDIENT SPAN: green pepper 
+         INGREDIENTS: large green bell pepper chopped
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: diced celery
+      NON-INGREDIENT SPAN:  the crab 
+
+
+SENTID: 6
+SENT: I would salt and pepper to taste .
+
+SENTID: 7
+SENT: I would spoon mixture into an 8x8 inch casserole dish .
+PREDID: 232
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: an 8x8 inch casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: an 8x8 inch casserole dish
+
+
+SENTID: 8
+SENT: I would sprinkle bread crumbs to taste over the casserole .
+PREDID: 271
+PRED: sprinkle
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+   OARG: to taste over the casserole
+      INGREDIENT SPAN: to taste over the casserole
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 9
+SENT: I would bake 35 minutes in the preheated oven , until brown and bubbly .
+PREDID: 314
+PRED: bake
+   DOBJ: NULL
+   PARG: 35 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 35 minutes in the preheated oven
+   PARG: brown, bubbly
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: brown
+
+

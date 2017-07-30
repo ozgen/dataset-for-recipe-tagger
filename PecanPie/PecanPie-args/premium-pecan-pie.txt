@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: I would par-bake your favorite pie crust -LRB- either homemade or store-bought -RRB- in a 350-degree oven for about 20 minutes or until it just barely starts to brown .
+PREDID: 0
+PRED: par-bake
+   DOBJ: NULL
+   PARG: brown
+     PREP: to
+      NON-INGREDIENT SPAN: brown
+   OARG: your favorite pie crust -lrb- either homemade or store-bought -rrb- in a 350-degree oven for about 20 minutes or until it just barely starts
+      INGREDIENT SPAN: your favorite pie crust -lrb- either homemade or store-bought -rrb- in a 350-degree oven for about 20 minutes or until it just barely starts
+         INGREDIENTS: unbaked inch pie crust
+
+
+SENTID: 1
+SENT: I would preheat the oven to 350 degrees .
+PREDID: 125
+PRED: preheat
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 350 degrees
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees
+
+
+SENTID: 2
+SENT: In a bowl of a stand mixer , I would fitted with the whisk attachment , beat the eggs on medium speed for about 30 seconds , until foamy .
+PREDID: 173
+PRED: fitted
+   DOBJ: NULL
+   PARG: a bowl of a stand mixer
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl of a stand mixer
+   PARG: the whisk attachment
+     PREP: with
+      NON-INGREDIENT SPAN: the whisk attachment
+   PARG: foamy
+     PREP: until
+      NON-INGREDIENT SPAN: foamy
+
+PREDID: 202
+PRED: beat
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: medium speed for about 30 seconds
+     PREP: on
+      NON-INGREDIENT SPAN: medium speed for about 30 seconds
+
+
+SENTID: 3
+SENT: I would add the Karo syrups , maple syrup , the salt and vanilla , and beat for about one minute on medium speed until well combined .
+PREDID: 255
+PRED: add
+   DOBJ: the Karo syrups , maple syrup , the salt, vanilla
+      INGREDIENT SPAN: the syrups 
+         INGREDIENTS: Karo Dark Corn Syrup, maple syrup
+      INGREDIENT SPAN: the syrups 
+         INGREDIENTS: Karo Dark Corn Syrup, maple syrup
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: the Karo syrups 
+         INGREDIENTS: Karo Light Corn Syrup
+      NON-INGREDIENT SPAN:  maple syrup 
+
+PREDID: 304
+PRED: beat
+   DOBJ: NULL
+   PARG: about one minute on medium speed
+     PREP: for
+      NON-INGREDIENT SPAN: about one minute on medium speed
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 4
+SENT: I would add the flour and melted butter
+PREDID: 353
+PRED: add
+   DOBJ: the flour, melted butter
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: unsalted butter melted
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 5
+SENT: I would place the pecans in the par-baked pie crust and pour the mixture over the pecans .
+PREDID: 379
+PRED: place
+   DOBJ: the pecans
+      INGREDIENT SPAN: the pecans
+         INGREDIENTS: pecans halves pieces
+   PARG: the par-baked pie crust
+     PREP: in
+      NON-INGREDIENT SPAN: the par-baked pie crust
+
+PREDID: 418
+PRED: pour
+   DOBJ: the mixture over the pecans
+      NON-INGREDIENT SPAN: the mixture over the pecans
+
+
+SENTID: 6
+SENT: I would bake the pie for 40 minutes .
+PREDID: 446
+PRED: bake
+   DOBJ: NULL
+   PARG: the pie for 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the pie for 40 minutes
+
+
+SENTID: 7
+SENT: I would tIP :
+PREDID: 469
+PRED: tip
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: To determine when the pie is ready , gently move the pie .
+PREDID: 475
+PRED: determine
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+   OARG: when the pie is ready
+      NON-INGREDIENT SPAN: when the pie is ready
+
+PREDID: 508
+PRED: move
+   DOBJ: the pie
+      NON-INGREDIENT SPAN: the pie
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 9
+SENT: If the center is firm and does not wiggle ,
+
+SENTID: 10
+SENT: it is ready .
+

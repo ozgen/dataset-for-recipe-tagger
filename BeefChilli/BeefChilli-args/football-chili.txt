@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would heat a large stockpot over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large stockpot
+      NON-INGREDIENT SPAN: a large stockpot
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef in the hot stockpot until browned and crumbly , 5 to 7 minutes ;
+PREDID: 38
+PRED: cook and stir
+   DOBJ: beef in the hot stockpot
+      INGREDIENT SPAN: beef in the hot stockpot
+         INGREDIENTS: lean ground beef
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 104
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would add green bell pepper and onion to ground beef ;
+PREDID: 110
+PRED: add
+   DOBJ: green bell pepper
+      INGREDIENT SPAN: green bell pepper
+         INGREDIENTS: green bell pepper diced
+
+PREDID: 131
+PRED: onion
+   DOBJ: NULL
+   PARG: ground beef
+     PREP: to
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground allspice
+
+
+SENTID: 4
+SENT: I would saute until vegetables are tender , 5 to 10 minutes .
+PREDID: 149
+PRED: saute
+   DOBJ: NULL
+   PARG: vegetables are tender , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+      NON-INGREDIENT SPAN: vegetables are tender 
+
+
+SENTID: 5
+SENT: I would stir tomato juice , mild chili beans , hot chili beans , the beer , chili powder , garlic salt , the vinegar , the allspice , red pepper flakes , and bay leaves into ground beef mixture .
+PREDID: 192
+PRED: stir
+   DOBJ: tomato juice , mild chili beans , hot chili beans , the beer , chili powder , garlic salt , the vinegar , the allspice , red pepper flakes , bay leaves
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  mild chili beans 
+         INGREDIENTS: ounce hot chili beans such Brooks
+      INGREDIENT SPAN: tomato juice 
+         INGREDIENTS: fluid ounce tomato juice
+      INGREDIENT SPAN:  bay leaves
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  hot chili beans 
+         INGREDIENTS: ounce mild chili beans such Brooks
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle dark beer
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      NON-INGREDIENT SPAN:  the allspice 
+   PARG: ground beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef mixture
+
+
+SENTID: 6
+SENT: I would cover stockpot with a lid and simmer at least 2 hours .
+PREDID: 332
+PRED: cover
+   DOBJ: stockpot
+      NON-INGREDIENT SPAN: stockpot
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+
+PREDID: 356
+PRED: simmer
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+
+

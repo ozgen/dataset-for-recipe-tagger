@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine the sirloin , the tomato , the mushrooms , green bell pepper , red bell pepper , orange bell pepper , garlic , green onion , 1/2 cup bread crumbs , the egg , the cilantro , and Worcestershire sauce in a large mixing bowl ;
+PREDID: 40
+PRED: combine
+   DOBJ: the sirloin , the tomato , the mushrooms , green bell pepper , red bell pepper , orange bell pepper , garlic , green onion , 1/2 cup bread crumbs , the egg , the cilantro , Worcestershire sauce in a large mixing bowl
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: bunch cilantro chopped
+      INGREDIENT SPAN:  1/2 cup bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: small green bell pepper diced
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: small red bell pepper diced
+      INGREDIENT SPAN: the sirloin 
+         INGREDIENTS: ground sirloin
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: bunch green onions diced
+      INGREDIENT SPAN:  orange bell pepper 
+         INGREDIENTS: small orange bell pepper diced
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  Worcestershire sauce in a large mixing bowl
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: mushrooms diced
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: tomato diced
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 2
+SENT: I would mix together with your hands until evenly incorporated .
+PREDID: 212
+PRED: mix
+   DOBJ: NULL
+   PARG: with your hands
+     PREP: together
+      NON-INGREDIENT SPAN: with your hands
+   PARG: evenly incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly incorporated
+
+
+SENTID: 3
+SENT: I would shape the mixture into a cylinder about the size of a loaf pan .
+PREDID: 260
+PRED: shape
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a cylinder about the size of a loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a cylinder about the size of a loaf pan
+
+
+SENTID: 4
+SENT: I would create a center channel in the loaf ;
+PREDID: 311
+PRED: create
+   DOBJ: a center channel
+      NON-INGREDIENT SPAN: a center channel
+   PARG: the loaf
+     PREP: in
+      NON-INGREDIENT SPAN: the loaf
+
+
+SENTID: 5
+SENT: I would load the goat cheese and diced habanero pepper into the middle of the channel and roll it up , folding the cheese and pepper into the center of the loaf .
+PREDID: 341
+PRED: load
+   DOBJ: the goat cheese, diced habanero pepper
+      INGREDIENT SPAN: the goat cheese
+         INGREDIENTS: goat cheese
+      INGREDIENT SPAN:  diced habanero pepper
+         INGREDIENTS: habanero pepper diced
+   PARG: the middle of the channel
+     PREP: into
+      NON-INGREDIENT SPAN: the middle of the channel
+
+PREDID: 408
+PRED: roll
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 417
+PRED: folding
+   DOBJ: the cheese
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: ounce package extra sharp Cheddar cheese sliced
+
+PREDID: 436
+PRED: pepper
+   DOBJ: NULL
+   PARG: the center of the loaf
+     PREP: into
+      NON-INGREDIENT SPAN: the center of the loaf
+
+
+SENTID: 6
+SENT: I would place the loaf into a loaf pan .
+PREDID: 465
+PRED: place
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: a loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 7
+SENT: I would sprinkle 1/4 cup bread crumbs over the top of the loaf .
+PREDID: 490
+PRED: sprinkle
+   DOBJ: 1/4 cup bread crumbs
+      INGREDIENT SPAN: 1/4 cup bread crumbs
+         INGREDIENTS: bread crumbs
+   PARG: the top of the loaf
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the loaf
+
+
+SENTID: 8
+SENT: I would place the Cheddar cheese slices around the edges of the pan .
+PREDID: 535
+PRED: place
+   DOBJ: the Cheddar cheese slices
+      NON-INGREDIENT SPAN: the Cheddar cheese slices
+   PARG: the edges of the pan
+     PREP: around
+      NON-INGREDIENT SPAN: the edges of the pan
+
+
+SENTID: 9
+SENT: I would arrange the jalapeno pepper slices on the top of the loaf .
+PREDID: 585
+PRED: arrange
+   DOBJ: the jalapeno pepper slices
+      INGREDIENT SPAN: the jalapeno pepper slices
+         INGREDIENTS: jalapeno peppers sliced
+   PARG: the top of the loaf
+     PREP: on
+      NON-INGREDIENT SPAN: the top of the loaf
+
+
+SENTID: 10
+SENT: I would bake the meat loaf in the preheated oven until cooked completely through and no longer pink , about 1 hour .
+PREDID: 633
+PRED: bake
+   DOBJ: the meat loaf in the preheated oven
+      NON-INGREDIENT SPAN: the meat loaf in the preheated oven
+   PARG: cooked completely through, no longer pink , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  no longer pink 
+      NON-INGREDIENT SPAN: cooked completely through
+
+
+SENTID: 11
+SENT: An instant-read thermometer inserted into the center should read 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 12
+SENT: I would allow to rest 7 to 10 minutes before slicing to serve .
+PREDID: 721
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest 7 to 10 minutes before slicing to serve
+      NON-INGREDIENT SPAN: to rest 7 to 10 minutes before slicing to serve
+
+

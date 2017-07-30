@@ -1,0 +1,58 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P41)", shape=oval, style=filled, fillcolor=azure]
+E2[label="line (S1,P65)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S2,P104)", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix (S3,P193)", shape=oval, style=filled, fillcolor=azure]
+E5[label="add (S4,P243)", shape=oval, style=filled, fillcolor=azure]
+E6[label="mix (S4,P275)", shape=oval, style=filled, fillcolor=azure]
+E7[label="fill (S5,P295)", shape=oval, style=filled, fillcolor=azure]
+E8[label="bake (S6,P325)", shape=oval, style=filled, fillcolor=azure]
+E9[label="allow (S7,P407)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a 12 cup muffin tin", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D0[label="DOBJ: the oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: baking powder, ground cinnamon, all-purpose flour, baking soda
+(text: the flour , sugar substitute , baking powder , baking soda , cinnamon)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+O3_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: with paper muffin liners", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D4_ing[label="DOBJ: mashed ripe banana, applesauce, egg whites
+(text:  applesauce,  mashed banana, the egg whites )", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: in a separate bowl"]
+O4_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: the wet ingredients"]
+P5_0_0[label="PREP: to the dry", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: until just blended", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+O7_0_0[label="OTHER: prepared muffin cups 3/4 full", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+E0 -> E8 [label="OUTPUT: 
+INPUT: for 15 to 18 minutes in the preheated oven "]
+P8_0_1[label="PREP: for  or until the top springs back when lightly touched", shape=box, style=filled, fillcolor=white]
+P8_0_1 -> E8
+E2 -> E9 [label="OUTPUT: 
+INPUT: muffins"]
+E8 -> E9 [label="OUTPUT: 
+INPUT: to cool in the pan over a wire rack for a little while before tapping them out of the pan"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

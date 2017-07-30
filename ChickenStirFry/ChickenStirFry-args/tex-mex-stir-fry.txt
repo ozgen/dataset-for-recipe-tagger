@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would heat 1 teaspoon of olive oil in a skillet over medium-high heat until the oil is very hot , and cook and stir the green and red bell pepper until they are starting to become tender , about 5 minutes .
+PREDID: 0
+PRED: heat
+   DOBJ: 1 teaspoon of olive oil
+      INGREDIENT SPAN: 1 teaspoon of olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+   PARG: the oil is very hot
+     PREP: until
+      INGREDIENT SPAN: the oil is very hot
+         INGREDIENTS: olive oil
+   PARG: they are starting
+     PREP: until
+      NON-INGREDIENT SPAN: they are starting
+
+PREDID: 76
+PRED: cook and stir
+   DOBJ: the green, red bell pepper
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: green bell pepper chopped
+      NON-INGREDIENT SPAN: the green
+
+
+SENTID: 1
+SENT: I would set the peppers aside .
+PREDID: 160
+PRED: set
+   DOBJ: the peppers
+      INGREDIENT SPAN: the peppers
+         INGREDIENTS: red bell pepper chopped
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would mix flour and taco seasoning in a bowl , and stir in chicken pieces , a few at a time , to thoroughly coat with the flour mixture .
+PREDID: 179
+PRED: mix
+   DOBJ: flour, taco seasoning
+      INGREDIENT SPAN:  taco seasoning
+         INGREDIENTS: ounce packet taco seasoning mix
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour needed
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: a few at a time , to thoroughly coat with the flour mixture
+      NON-INGREDIENT SPAN: a few at a time 
+      NON-INGREDIENT SPAN:  to thoroughly coat with the flour mixture
+
+PREDID: 214
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken pieces
+     PREP: in
+      INGREDIENT SPAN: chicken pieces
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+
+
+SENTID: 3
+SENT: I would heat 2 teaspoons of olive oil in a large skillet over medium-high heat , and cook and stir the chicken until no longer pink and the coating is browned , about 5 minutes .
+PREDID: 282
+PRED: heat
+   DOBJ: 2 teaspoons of olive oil
+      NON-INGREDIENT SPAN: 2 teaspoons of olive oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+PREDID: 344
+PRED: cook and stir
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+   PARG: no longer pink, the coating is browned , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  the coating is browned 
+
+
+SENTID: 4
+SENT: I would stir in the bell peppers , black beans , and salsa , and let the mixture simmer for about 5 minutes to blend the flavors .
+PREDID: 419
+PRED: stir
+   DOBJ: NULL
+   PARG: the bell peppers , black beans , salsa
+     PREP: in
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  salsa
+         INGREDIENTS: prepared salsa
+      NON-INGREDIENT SPAN: the bell peppers 
+
+PREDID: 463
+PRED: let
+   DOBJ: NULL
+   PARG: the mixture simmer for about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the mixture simmer for about 5 minutes
+   OARG: to blend the flavors
+      NON-INGREDIENT SPAN: to blend the flavors
+
+
+SENTID: 5
+SENT: To serve , sprinkle each portion with Cheddar cheese .
+PREDID: 518
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 524
+PRED: sprinkle
+   DOBJ: each portion with Cheddar cheese
+      INGREDIENT SPAN: each portion with Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+

@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: whole eggs shell
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 42
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 73
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 88
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 97
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool , and peel .
+PREDID: 136
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: I would slice eggs in half , and remove yolks to a mixing bowl .
+PREDID: 168
+PRED: slice
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 187
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a mixing bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 5
+SENT: In the bowl with the yolks , I would combine the avocado , the cilantro , green onion , and jalapeno .
+PREDID: 234
+PRED: combine
+   DOBJ: the avocado , the cilantro , green onion , jalapeno
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN: the avocado 
+         INGREDIENTS: avocados peeled pitted mashed
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: minced green onion
+      NON-INGREDIENT SPAN:  jalapeno
+   PARG: the bowl with the yolks
+     PREP: in
+      NON-INGREDIENT SPAN: the bowl with the yolks
+
+
+SENTID: 6
+SENT: I would stir in the lime juice , and season with salt , hot sauce , Worcestershire sauce , and mustard .
+PREDID: 284
+PRED: stir
+   DOBJ: NULL
+   PARG: the lime juice , season with salt , hot sauce , worcestershire sauce , mustard
+     PREP: in
+      INGREDIENT SPAN:  season with salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: Dijonstyle prepared mustard
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: Worcestershire sauce taste
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: hot pepper sauce taste
+
+
+SENTID: 7
+SENT: I would mix well , and fill empty egg white halves .
+PREDID: 361
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 372
+PRED: fill
+   DOBJ: empty egg white halves
+      NON-INGREDIENT SPAN: empty egg white halves
+
+
+SENTID: 8
+SENT: I would chill until serving .
+PREDID: 396
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 9
+SENT: I would sprinkle with paprika just before serving .
+PREDID: 414
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: In a large saucepan , I would melt butter over medium high heat .
+PREDID: 17
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 1
+SENT: I would cook onion , red and green bell peppers , and carrots until tender .
+PREDID: 46
+PRED: cook
+   DOBJ: onion , red, green bell peppers , carrots
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots chopped
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell pepper chopped
+      NON-INGREDIENT SPAN:  red
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 2
+SENT: I would stir in thawed corn , potato flakes , the salt , ground peppers , and 3 cups water .
+PREDID: 101
+PRED: stir
+   DOBJ: NULL
+   PARG: thawed corn , potato flakes , the salt , ground peppers , 3 cups water
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: thawed corn 
+         INGREDIENTS: ounce packages frozen corn kernels thawed
+      INGREDIENT SPAN:  potato flakes 
+         INGREDIENTS: dry potato flakes
+      INGREDIENT SPAN:  ground peppers 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN:  3 cups water
+         INGREDIENTS: water
+
+
+SENTID: 3
+SENT: I would bring to boil .
+PREDID: 164
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 4
+SENT: I would reduce heat .
+PREDID: 176
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would cover , and simmer for 10 minutes .
+PREDID: 187
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 196
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 6
+SENT: I would stir in milk and half and half .
+PREDID: 215
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, half, half
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  half
+
+
+SENTID: 7
+SENT: I would warm only .
+PREDID: 240
+PRED: warm
+   DOBJ: NULL
+   OARG: only
+      NON-INGREDIENT SPAN: only
+
+
+SENTID: 8
+SENT: Do not boil .
+
+SENTID: 9
+SENT: I would serve sprinkled with grated cheese .
+PREDID: 249
+PRED: serve
+   DOBJ: sprinkled
+      NON-INGREDIENT SPAN: sprinkled
+   PARG: grated cheese
+     PREP: with
+      INGREDIENT SPAN: grated cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+

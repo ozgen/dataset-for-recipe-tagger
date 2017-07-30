@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a bowl , I would mix the veal , bread crumbs , the egg , baby carrots , 1/2 cup ketchup , the garlic , and onion .
+PREDID: 46
+PRED: mix
+   DOBJ: the veal , bread crumbs , the egg , baby carrots , 1/2 cup ketchup , the garlic , onion
+      INGREDIENT SPAN:  baby carrots 
+         INGREDIENTS: shredded baby carrots
+      INGREDIENT SPAN:  1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: chopped garlic
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN: the veal 
+         INGREDIENTS: ground veal
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would season with salt , the parsley , chili powder , and pepper .
+PREDID: 115
+PRED: season
+   DOBJ: NULL
+   PARG: salt , the parsley , chili powder , pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would transfer to an 8x8 inch pan , and form into a loaf shape .
+PREDID: 160
+PRED: transfer
+   DOBJ: NULL
+   PARG: an 8x8 inch pan
+     PREP: to
+      NON-INGREDIENT SPAN: an 8x8 inch pan
+
+PREDID: 186
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+
+SENTID: 4
+SENT: I would top with remaining ketchup .
+PREDID: 205
+PRED: top
+   DOBJ: NULL
+   PARG: remaining ketchup
+     PREP: with
+      INGREDIENT SPAN: remaining ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 5
+SENT: I would cover , and bake 45 minutes in the preheated oven .
+PREDID: 229
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 238
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 6
+SENT: I would remove cover , and continue the baking 15 minutes , or to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 270
+PRED: remove
+   DOBJ: cover
+      NON-INGREDIENT SPAN: cover
+
+PREDID: 285
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 15 minutes , or to an internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 15 minutes 
+      NON-INGREDIENT SPAN:  or to an internal temperature of 160 degrees f -lrb- 70 degrees c
+
+
+SENTID: 7
+SENT: I would let the sit 10 minutes before serving .
+PREDID: 360
+PRED: let
+   DOBJ: the sit
+      NON-INGREDIENT SPAN: the sit
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

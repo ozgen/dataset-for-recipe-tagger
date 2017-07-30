@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would thoroughly mix beef , the pork , the lamb , the mushrooms , bread crumbs , the eggs , the garlic , thyme , soy sauce , soup base , the parsley , and sage in a large bowl ;
+PREDID: 48
+PRED: mix
+   DOBJ: beef , the pork , the lamb , the mushrooms , bread crumbs , the eggs , the garlic , thyme , soy sauce , soup base , the parsley , sage in a large bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sage in a large bowl
+         INGREDIENTS: dried sage
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef chuck
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: chopped button mushrooms
+      INGREDIENT SPAN:  the lamb 
+         INGREDIENTS: ground lamb
+      INGREDIENT SPAN:  soup base 
+         INGREDIENTS: mushroomflavored soup base
+      NON-INGREDIENT SPAN:  thyme 
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 2
+SENT: I would shape into 2 loaves .
+PREDID: 152
+PRED: shape
+   DOBJ: NULL
+   PARG: 2 loaves
+     PREP: into
+      NON-INGREDIENT SPAN: 2 loaves
+
+
+SENTID: 3
+SENT: I would wrap bacon strips around the loaves to cover completely .
+PREDID: 169
+PRED: wrap
+   DOBJ: bacon strips
+      INGREDIENT SPAN: bacon strips
+         INGREDIENTS: bacon strips
+   PARG: the loaves
+     PREP: around
+      NON-INGREDIENT SPAN: the loaves
+   OARG: to cover completely
+      NON-INGREDIENT SPAN: to cover completely
+
+
+SENTID: 4
+SENT: I would place loaves on a baking sheet .
+PREDID: 217
+PRED: place
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until the loaves are no longer pink in the center , 90 minutes to 2 hours .
+PREDID: 243
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the loaves are no longer pink in the center , 90 minutes to 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: the loaves are no longer pink in the center 
+      NON-INGREDIENT SPAN:  90 minutes to 2 hours
+
+
+SENTID: 6
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

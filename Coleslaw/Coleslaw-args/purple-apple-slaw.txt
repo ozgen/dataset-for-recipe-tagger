@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a large serving bowl , I would toss together the cabbage , the onion , and apples .
+PREDID: 20
+PRED: toss
+   DOBJ: the cabbage , the onion , apples
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: minced white onion
+      INGREDIENT SPAN:  apples
+         INGREDIENTS: Fuji apples peeled cored diced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: medium head red cabbage shredded
+   PARG: a large serving bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large serving bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a small bowl , I would whisk together the mayonnaise , the salt , the pepper , the sugar , lemon juice , and milk .
+PREDID: 72
+PRED: whisk
+   DOBJ: the mayonnaise , the salt , the pepper , the sugar , lemon juice , milk
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: pepper
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the dressing over the cabbage mixture , and toss to coat .
+PREDID: 136
+PRED: pour
+   DOBJ: the dressing over the cabbage mixture
+      NON-INGREDIENT SPAN: the dressing over the cabbage mixture
+
+PREDID: 176
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would chill until serving .
+PREDID: 184
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

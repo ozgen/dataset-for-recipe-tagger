@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would crumble beef into a large pot over medium-high heat ;
+PREDID: 0
+PRED: crumble
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would add onion and garlic .
+PREDID: 44
+PRED: add
+   DOBJ: NULL
+   OARG: onion, garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 2
+SENT: I would cook and stir beef until completely browned , 7 to 10 minutes .
+PREDID: 62
+PRED: cook and stir
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: beef broth
+   PARG: completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: completely browned 
+
+
+SENTID: 3
+SENT: I would drain and discard excess grease .
+PREDID: 113
+PRED: drain and discard
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 4
+SENT: I would return pot to medium-high heat .
+PREDID: 141
+PRED: return
+   DOBJ: pot
+      NON-INGREDIENT SPAN: pot
+   PARG: medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 5
+SENT: I would stir diced tomatoes , beef broth , diced green chilies , chili powder , brown sugar , the oregano , the cumin , and salt through the beef mixture .
+PREDID: 168
+PRED: stir
+   DOBJ: diced tomatoes , beef broth , diced green chilies , chili powder , brown sugar , the oregano , the cumin , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      NON-INGREDIENT SPAN:  beef broth 
+      NON-INGREDIENT SPAN:  diced green chilies 
+   PARG: the beef mixture
+     PREP: through
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 6
+SENT: I would add beans and bring to a boil .
+PREDID: 280
+PRED: add
+   DOBJ: beans
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce ranchstyle beans
+
+PREDID: 291
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would reduce heat to medium-low , place a cover on the pot , and simmer for 1 hour .
+PREDID: 304
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 327
+PRED: place
+   DOBJ: a cover
+      NON-INGREDIENT SPAN: a cover
+   PARG: the pot
+     PREP: on
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 350
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

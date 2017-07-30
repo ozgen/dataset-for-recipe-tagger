@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: I would mix canola oil , red wine vinegar , soy sauce , and sugar in a large bowl , mixing until sugar has dissolved .
+PREDID: 0
+PRED: mix
+   DOBJ: canola oil , red wine vinegar , soy sauce , sugar
+      INGREDIENT SPAN: canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: mixing until sugar has dissolved
+      NON-INGREDIENT SPAN: mixing until sugar has dissolved
+
+
+SENTID: 1
+SENT: I would toss cabbage , green onions , the almonds , and sunflower seed kernels into the dressing .
+PREDID: 87
+PRED: toss
+   DOBJ: cabbage , green onions , the almonds , sunflower seed kernels
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  sunflower seed kernels
+         INGREDIENTS: sunflower seed kernels
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: ounce package shredded cabbage
+   PARG: the dressing
+     PREP: into
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 2
+SENT: I would cover bowl and refrigerate at least 1 hour before serving ;
+PREDID: 158
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 170
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 3
+SENT: I would slaw tastes better when chilled overnight .
+PREDID: 207
+PRED: slaw
+   DOBJ: tastes
+      NON-INGREDIENT SPAN: tastes
+   OARG: better when chilled overnight
+      NON-INGREDIENT SPAN: better when chilled overnight
+
+

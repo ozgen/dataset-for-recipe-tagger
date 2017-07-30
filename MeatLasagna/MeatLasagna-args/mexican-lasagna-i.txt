@@ -1,0 +1,175 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine beef , the beans , the oregano , the cumin and garlic powder .
+PREDID: 51
+PRED: combine
+   DOBJ: beef , the beans , the oregano , the cumin, garlic powder
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce refried beans
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would place 4 uncooked noodles in bottom of a 9x13 inch pan .
+PREDID: 98
+PRED: place
+   DOBJ: 4 uncooked noodles
+      INGREDIENT SPAN: 4 uncooked noodles
+         INGREDIENTS: uncooked lasagna noodles
+   PARG: bottom of a 9x13 inch pan
+     PREP: in
+      NON-INGREDIENT SPAN: bottom of a 9x13 inch pan
+
+
+SENTID: 3
+SENT: I would spread half of beef mixure over noodles .
+PREDID: 142
+PRED: spread
+   DOBJ: half of beef mixure
+      NON-INGREDIENT SPAN: half of beef mixure
+   PARG: noodles
+     PREP: over
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked lasagna noodles
+
+
+SENTID: 4
+SENT: I would top with 4 noodles .
+PREDID: 176
+PRED: top
+   DOBJ: NULL
+   PARG: 4 noodles
+     PREP: with
+      NON-INGREDIENT SPAN: 4 noodles
+
+
+SENTID: 5
+SENT: I would spread with remaining mixure , and top with remaining noodles .
+PREDID: 192
+PRED: spread
+   DOBJ: NULL
+   PARG: remaining mixure
+     PREP: with
+      NON-INGREDIENT SPAN: remaining mixure
+
+PREDID: 221
+PRED: top
+   DOBJ: NULL
+   PARG: remaining noodles
+     PREP: with
+      NON-INGREDIENT SPAN: remaining noodles
+
+
+SENTID: 6
+SENT: In a medium bowl , I would mix water and picante sauce .
+PREDID: 259
+PRED: mix
+   DOBJ: water, picante sauce
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  picante sauce
+         INGREDIENTS: picante sauce
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 7
+SENT: I would pour evenly over layers .
+PREDID: 283
+PRED: pour
+   DOBJ: NULL
+   PARG: layers
+     PREP: over
+      NON-INGREDIENT SPAN: layers
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 8
+SENT: I would cover tightly with foil .
+PREDID: 304
+PRED: cover
+   DOBJ: NULL
+   OARG: tightly with foil
+      NON-INGREDIENT SPAN: tightly with foil
+
+
+SENTID: 9
+SENT: I would bake 1?1/2 hours in the preheated oven , or until noodles are tender .
+PREDID: 325
+PRED: bake
+   DOBJ: NULL
+   PARG: 1?1/2 hours in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours in the preheated oven
+   OARG: noodles are tender
+      NON-INGREDIENT SPAN: noodles are tender
+
+
+SENTID: 10
+SENT: I would blend sour cream and olives in a medium bowl .
+PREDID: 382
+PRED: blend
+   DOBJ: sour cream, olives
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: ounce sliced black olives
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 11
+SENT: I would spoon over lasagna , and top with Jack and Cheddar cheese .
+PREDID: 419
+PRED: spoon
+   DOBJ: NULL
+   PARG: lasagna
+     PREP: over
+      NON-INGREDIENT SPAN: lasagna
+
+PREDID: 439
+PRED: top
+   DOBJ: NULL
+   PARG: jack, cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: jack
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 12
+SENT: I would bake uncovered until cheese melts , about 5 to 10 minutes .
+PREDID: 467
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 471
+PRED: uncovered
+   DOBJ: NULL
+   PARG: cheese melts , about 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 to 10 minutes
+      NON-INGREDIENT SPAN: cheese melts 
+
+

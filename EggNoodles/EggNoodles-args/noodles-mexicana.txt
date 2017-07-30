@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook the ground beef , onion , and garlic until beef is evenly brown .
+PREDID: 30
+PRED: cook
+   DOBJ: the ground beef , onion , garlic
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: beef is evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: beef is evenly brown
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 86
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would mix the corn , the olives , the tomatoes , chili beans , and green onions into the skillet .
+PREDID: 92
+PRED: mix
+   DOBJ: the corn , the olives , the tomatoes , chili beans , green onions
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce whole kernel corn liquid
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce tomatoes juice chopped
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce sliced black olives liquid
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 3
+SENT: I would season with taco seasoning and salt .
+PREDID: 159
+PRED: season
+   DOBJ: NULL
+   PARG: taco seasoning, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix
+
+
+SENTID: 4
+SENT: I would cover , and cook 15 minutes .
+PREDID: 190
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 199
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 5
+SENT: I would mix the egg noodles into the skillet .
+PREDID: 213
+PRED: mix
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 6
+SENT: I would cover , and continue the cooking 12 minutes , or until egg noodles are tender .
+PREDID: 244
+PRED: cover
+   DOBJ: NULL
+   OARG: egg noodles are tender
+      NON-INGREDIENT SPAN: egg noodles are tender
+
+PREDID: 253
+PRED: continue
+   DOBJ: NULL
+   PARG: 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 12 minutes
+   OARG: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+
+SENTID: 7
+SENT: I would top each serving with a dollop of sour cream .
+PREDID: 305
+PRED: top
+   DOBJ: NULL
+   OARG: each serving with a dollop of sour cream
+      INGREDIENT SPAN: each serving with a dollop of sour cream
+         INGREDIENTS: sour cream topping
+
+

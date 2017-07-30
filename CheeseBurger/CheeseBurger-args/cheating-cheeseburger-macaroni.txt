@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add penne , and cook for 8 to 10 minutes , or until tender .
+PREDID: 42
+PRED: add
+   DOBJ: penne
+      INGREDIENT SPAN: penne
+         INGREDIENTS: ounce package dry penne pasta
+
+PREDID: 54
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 88
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 94
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 4
+SENT: I would add ground beef and onion ;
+PREDID: 131
+PRED: add
+   DOBJ: ground beef, onion
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+
+
+SENTID: 5
+SENT: I would cook , stirring to crumble the beef , until evenly browned .
+PREDID: 153
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring to crumble the beef , until evenly browned
+      NON-INGREDIENT SPAN: stirring to crumble the beef 
+      NON-INGREDIENT SPAN:  until evenly browned
+
+
+SENTID: 6
+SENT: I would drain off excess grease , and mix in the cream of onion soup , cream of chicken soup , and Cheddar cheese soup , along with the water and sour cream .
+PREDID: 202
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 226
+PRED: mix
+   DOBJ: NULL
+   PARG: the cream of onion soup , cream of chicken soup , cheddar cheese soup , along with the water, sour cream
+     PREP: in
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the cream of onion soup 
+         INGREDIENTS: ounce condensed cream onion soup
+      INGREDIENT SPAN:  cheddar cheese soup 
+         INGREDIENTS: ounce condensed Cheddar cheese soup
+      INGREDIENT SPAN:  cream of chicken soup 
+         INGREDIENTS: ounce condensed cream chicken soup herbs
+      NON-INGREDIENT SPAN:  along with the water
+
+
+SENTID: 7
+SENT: I would simmer over medium heat for a few minutes .
+PREDID: 321
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium heat for a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: medium heat for a few minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would stir in the cooked pasta , and serve immediately .
+PREDID: 356
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked pasta
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked pasta
+
+PREDID: 380
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

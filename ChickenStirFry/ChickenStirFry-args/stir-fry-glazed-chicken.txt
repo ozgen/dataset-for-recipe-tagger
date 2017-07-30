@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: In a small bowl , I would whisk together the condensed milk , the mayonnaise , the sugar , the vinegar , and honey until combined into a sauce ;
+PREDID: 13
+PRED: whisk
+   DOBJ: the condensed milk , the mayonnaise , the sugar , the vinegar , honey
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the condensed milk 
+         INGREDIENTS: sweetened condensed milk
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: combined into a sauce
+     PREP: until
+      NON-INGREDIENT SPAN: combined into a sauce
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 100
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would combine the diced chicken and beaten eggs in a bowl and set aside .
+PREDID: 109
+PRED: combine
+   DOBJ: the diced chicken
+      INGREDIENT SPAN: the diced chicken
+         INGREDIENTS: skinless boneless chicken breast halves diced
+
+PREDID: 134
+PRED: beaten
+   DOBJ: eggs in a bowl
+      INGREDIENT SPAN: eggs in a bowl
+         INGREDIENTS: eggs beaten
+
+PREDID: 154
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would spread the flour in a shallow dish .
+PREDID: 163
+PRED: spread
+   DOBJ: the flour in a shallow dish
+      INGREDIENT SPAN: the flour in a shallow dish
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 4
+SENT: I would dredge the chicken pieces in the flour until evenly coated .
+PREDID: 192
+PRED: dredge
+   DOBJ: the chicken pieces
+      NON-INGREDIENT SPAN: the chicken pieces
+   PARG: the flour
+     PREP: in
+      NON-INGREDIENT SPAN: the flour
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 5
+SENT: I would heat the canola oil in a skillet over medium-high heat .
+PREDID: 242
+PRED: heat
+   DOBJ: the canola oil
+      INGREDIENT SPAN: the canola oil
+         INGREDIENTS: canola oil
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+
+SENTID: 6
+SENT: I would cook the chicken in the heated oil for about 2 minutes , turning occasionally to brown evenly .
+PREDID: 288
+PRED: cook
+   DOBJ: NULL
+   PARG: the chicken in the heated oil for about 2 minutes , turning occasionally to brown evenly
+     PREP: for
+      NON-INGREDIENT SPAN:  turning occasionally to brown evenly
+      NON-INGREDIENT SPAN: the chicken in the heated oil for about 2 minutes 
+
+
+SENTID: 7
+SENT: I would stir in the sauce until the chicken is completely coated .
+PREDID: 366
+PRED: stir
+   DOBJ: NULL
+   PARG: the sauce
+     PREP: in
+      NON-INGREDIENT SPAN: the sauce
+   PARG: the chicken is completely coated
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is completely coated
+
+
+SENTID: 8
+SENT: I would cook and stir until chicken is golden brown on the outside and no longer pink inside , 12 to 15 minutes .
+PREDID: 414
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken is golden brown on the outside, no longer pink inside , 12 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink inside 
+      NON-INGREDIENT SPAN: chicken is golden brown on the outside
+      NON-INGREDIENT SPAN:  12 to 15 minutes
+
+

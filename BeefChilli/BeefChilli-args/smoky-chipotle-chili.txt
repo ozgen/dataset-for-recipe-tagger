@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would cook beef , the garlic and chili powder in saucepot until browned .
+PREDID: 0
+PRED: cook
+   DOBJ: beef , the garlic, chili powder in saucepot
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  chili powder in saucepot
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN:  the garlic
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would pour off fat .
+PREDID: 52
+PRED: pour
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would add beans , the salsa , the corn and broth .
+PREDID: 63
+PRED: add
+   DOBJ: beans , the salsa , the corn, broth
+      INGREDIENT SPAN:  broth
+         INGREDIENTS: ounce Swanson Seasoned Beef Broth Onion
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: frozen whole kernel corn
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: Pace Chipotle Chunky Salsa
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce red kidney beans rinsed drained
+
+
+SENTID: 3
+SENT: I would heat to a boil .
+PREDID: 91
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook over low heat 15 minutes .
+PREDID: 103
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 5
+SENT: I would serve with Cornbread Squares .
+PREDID: 128
+PRED: serve
+   DOBJ: NULL
+   PARG: cornbread squares
+     PREP: with
+      INGREDIENT SPAN: cornbread squares
+         INGREDIENTS: Cornbread Squares
+
+

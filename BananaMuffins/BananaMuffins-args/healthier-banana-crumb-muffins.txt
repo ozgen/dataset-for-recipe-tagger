@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease 10 muffin cups or line with muffin papers .
+PREDID: 45
+PRED: grease
+   DOBJ: 10 muffin cups or line
+      NON-INGREDIENT SPAN: 10 muffin cups or line
+   PARG: muffin papers
+     PREP: with
+      NON-INGREDIENT SPAN: muffin papers
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would mix 1?1/2 cups flour , baking soda , baking powder , and salt in a large bowl .
+PREDID: 86
+PRED: mix
+   DOBJ: 1?1/2 cups flour , baking soda , baking powder , salt in a large bowl
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: 1?1/2 cups flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt in a large bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+
+
+SENTID: 3
+SENT: I would beat bananas , the sugar , the egg , and melted butter in another bowl .
+PREDID: 148
+PRED: beat
+   DOBJ: bananas , the sugar , the egg , melted butter in another bowl
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: bananas mashed
+      INGREDIENT SPAN:  melted butter in another bowl
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would stir banana mixture into flour mixture just until moistened .
+PREDID: 199
+PRED: stir
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: into
+      INGREDIENT SPAN: flour mixture
+         INGREDIENTS: allpurpose flour
+   OARG: just until moistened
+      NON-INGREDIENT SPAN: just until moistened
+
+
+SENTID: 5
+SENT: I would spoon batter into prepared muffin cups .
+PREDID: 251
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+
+
+SENTID: 6
+SENT: I would combine brown sugar , 2 tablespoons flour , and cinnamon in a small bowl .
+PREDID: 285
+PRED: combine
+   DOBJ: brown sugar , 2 tablespoons flour , cinnamon in a small bowl
+      INGREDIENT SPAN:  cinnamon in a small bowl
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  2 tablespoons flour 
+
+
+SENTID: 7
+SENT: I would blend in 1 tablespoon butter until mixture resembles coarse cornmeal .
+PREDID: 345
+PRED: blend
+   DOBJ: NULL
+   PARG: 1 tablespoon butter
+     PREP: in
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter
+   PARG: mixture resembles coarse cornmeal
+     PREP: until
+      NON-INGREDIENT SPAN: mixture resembles coarse cornmeal
+
+
+SENTID: 8
+SENT: I would sprinkle the topping over muffins .
+PREDID: 405
+PRED: sprinkle
+   DOBJ: the topping over muffins
+      NON-INGREDIENT SPAN: the topping over muffins
+
+
+SENTID: 9
+SENT: I would bake in preheated oven until golden and tops spring back when lightly pressed , 18 to 20 minutes .
+PREDID: 432
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: golden, tops spring back when lightly pressed , 18 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  18 to 20 minutes
+      NON-INGREDIENT SPAN:  tops spring back when lightly pressed 
+      NON-INGREDIENT SPAN: golden
+
+

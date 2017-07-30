@@ -1,0 +1,478 @@
+SENTID: 0
+SENT: For the pasta dough :
+
+SENTID: 1
+SENT: I would steam the spinach in a steamer or over boiling water until bright green , 2 minutes .
+PREDID: 0
+PRED: steam
+   DOBJ: the spinach
+      INGREDIENT SPAN: the spinach
+         INGREDIENTS: spinach rinsed stemmed dried
+   PARG: a steamer
+     PREP: in
+      NON-INGREDIENT SPAN: a steamer
+
+
+SENTID: 2
+SENT: I would squeeze to remove excess moisture and process in a food processor to make a paste .
+PREDID: 69
+PRED: squeeze
+   DOBJ: NULL
+   OARG: to remove excess moisture, process in a food processor to make a paste
+      INGREDIENT SPAN:  process in a food processor to make a paste
+         INGREDIENTS: tomato paste
+      NON-INGREDIENT SPAN: to remove excess moisture
+
+
+SENTID: 3
+SENT: I would combine spinach with eggs , the semolina , and salt and process until smooth .
+PREDID: 137
+PRED: combine
+   DOBJ: spinach
+      NON-INGREDIENT SPAN: spinach
+   PARG: eggs , the semolina , salt, process
+     PREP: with
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the semolina 
+         INGREDIENTS: semolina flour
+      NON-INGREDIENT SPAN:  process
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would stir in enough of the flour to make a smooth dough .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: enough of the flour
+     PREP: in
+      INGREDIENT SPAN: enough of the flour
+         INGREDIENTS: allpurpose flour
+   OARG: to make a smooth dough
+      NON-INGREDIENT SPAN: to make a smooth dough
+
+
+SENTID: 5
+SENT: I would knead briefly , cover and set aside .
+PREDID: 239
+PRED: knead
+   DOBJ: NULL
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+
+PREDID: 260
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: For the ragu :
+
+SENTID: 7
+SENT: In a large skillet , I would melt butter over medium-high heat .
+PREDID: 285
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 8
+SENT: I would saute bacon , the carrot , the celery and onion until onion is translucent .
+PREDID: 315
+PRED: saute
+   DOBJ: bacon , the carrot , the celery, onion
+      INGREDIENT SPAN: bacon 
+         INGREDIENTS: slices bacon diced
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: stalk celery diced
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot diced
+   PARG: onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onion is translucent
+
+
+SENTID: 9
+SENT: I would stir in ground pork , ground beef and minced ham , and cook until browned .
+PREDID: 371
+PRED: stir
+   DOBJ: NULL
+   PARG: ground pork , ground beef, minced ham
+     PREP: in
+      INGREDIENT SPAN:  minced ham
+         INGREDIENTS: minced ham
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN: ground pork 
+         INGREDIENTS: lean ground pork
+
+PREDID: 414
+PRED: cook
+   DOBJ: NULL
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 10
+SENT: I would stir in tomato paste , the oregano and beef stock .
+PREDID: 431
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste , the oregano, beef stock
+     PREP: in
+      INGREDIENT SPAN:  the oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  beef stock
+         INGREDIENTS: beef stock
+      NON-INGREDIENT SPAN: tomato paste 
+
+
+SENTID: 11
+SENT: -LRB- Reserve the chicken livers for later .
+
+SENTID: 12
+SENT: I would -RRB- Season with salt and pepper , reduce heat to low , cover and simmer 20 minutes .
+PREDID: 507
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 531
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 555
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 13
+SENT: For the bechamel :
+
+SENTID: 14
+SENT: While the ragu is simmering , I would combine 2 tablespoons butter and 2 tablespoons flour in a medium saucepan over medium-low heat .
+PREDID: 591
+PRED: combine
+   DOBJ: butter, 2 tablespoons flour in a medium saucepan over medium-low heat
+      NON-INGREDIENT SPAN:  2 tablespoons flour in a medium saucepan over medium-low heat
+      NON-INGREDIENT SPAN: butter
+   PARG: the ragu is simmering
+     PREP: while
+      INGREDIENT SPAN: the ragu is simmering
+         INGREDIENTS: RAGU
+   OARG: 2 tablespoons
+      NON-INGREDIENT SPAN: 2 tablespoons
+
+
+SENTID: 15
+SENT: I would whisk to make a roux .
+PREDID: 672
+PRED: whisk
+   DOBJ: NULL
+   OARG: to make a roux
+      NON-INGREDIENT SPAN: to make a roux
+
+
+SENTID: 16
+SENT: I would remove from heat , let rest one minute ,
+PREDID: 689
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 704
+PRED: let
+   DOBJ: rest one minute
+      NON-INGREDIENT SPAN: rest one minute
+
+
+SENTID: 17
+SENT: I would whisk in warm milk .
+PREDID: 721
+PRED: whisk
+   DOBJ: NULL
+   PARG: warm milk
+     PREP: in
+      INGREDIENT SPAN: warm milk
+         INGREDIENTS: warm milk
+
+
+SENTID: 18
+SENT: I would return to heat , simmer 10 minutes , stirring constantly , until thickened .
+PREDID: 737
+PRED: return
+   DOBJ: NULL
+   OARG: to heat , simmer 10 minutes , stirring constantly , until thickened
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN: to heat 
+      NON-INGREDIENT SPAN:  until thickened
+      NON-INGREDIENT SPAN:  simmer 10 minutes 
+
+
+SENTID: 19
+SENT: I would season with salt and nutmeg .
+PREDID: 800
+PRED: season
+   DOBJ: NULL
+   PARG: salt, nutmeg
+     PREP: with
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 20
+SENT: I would remove from heat .
+PREDID: 824
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 21
+SENT: To cook pasta :
+
+SENTID: 22
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 839
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 23
+SENT: On a floured surface , I would divide pasta dough into three portions .
+PREDID: 899
+PRED: divide
+   DOBJ: pasta dough
+      INGREDIENT SPAN: pasta dough
+         INGREDIENTS: PASTA
+   PARG: a floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a floured surface
+   PARG: three portions
+     PREP: into
+      NON-INGREDIENT SPAN: three portions
+
+
+SENTID: 24
+SENT: I would roll each portion out to a thin sheet .
+PREDID: 933
+PRED: roll
+   DOBJ: each portion
+      NON-INGREDIENT SPAN: each portion
+   PARG: a thin sheet
+     PREP: to
+      NON-INGREDIENT SPAN: a thin sheet
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 25
+SENT: I would have ready an ice water bath .
+PREDID: 964
+PRED: have
+   DOBJ: ready an ice water bath
+      NON-INGREDIENT SPAN: ready an ice water bath
+
+
+SENTID: 26
+SENT: I would cook each sheet 3 minutes in the boiling water ;
+PREDID: 988
+PRED: cook
+   DOBJ: each sheet
+      NON-INGREDIENT SPAN: each sheet
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: 3 minutes
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 27
+SENT: I would remove from the boiling water and dip in the ice water ;
+PREDID: 1027
+PRED: remove
+   DOBJ: NULL
+   PARG: the boiling water
+     PREP: from
+      NON-INGREDIENT SPAN: the boiling water
+
+PREDID: 1055
+PRED: dip
+   DOBJ: NULL
+   PARG: the ice water
+     PREP: in
+      NON-INGREDIENT SPAN: the ice water
+
+
+SENTID: 28
+SENT: I would drain and dry on a clean , dry cloth .
+PREDID: 1072
+PRED: drain and dry
+   DOBJ: NULL
+   PARG: a clean , dry cloth
+     PREP: on
+      NON-INGREDIENT SPAN:  dry cloth
+      NON-INGREDIENT SPAN: a clean 
+
+
+SENTID: 29
+SENT: To finish the ragu :
+
+SENTID: 30
+SENT: I would stir the chicken livers into the simmering sauce .
+PREDID: 1117
+PRED: stir
+   DOBJ: the chicken livers
+      INGREDIENT SPAN: the chicken livers
+         INGREDIENTS: chicken livers trimmed chopped
+   PARG: the simmering sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the simmering sauce
+
+
+SENTID: 31
+SENT: I would cook 1 minute , remove from heat and set aside .
+PREDID: 1159
+PRED: cook
+   DOBJ: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+PREDID: 1171
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 1188
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 32
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 1197
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 33
+SENT: I would grease a 9x13 baking dish .
+PREDID: 1235
+PRED: grease
+   DOBJ: a 9x13 baking dish
+      NON-INGREDIENT SPAN: a 9x13 baking dish
+
+
+SENTID: 34
+SENT: To assemble lasagna :
+
+SENTID: 35
+SENT: I would place one pasta sheet in bottom of prepared baking dish .
+PREDID: 1275
+PRED: place
+   DOBJ: one pasta sheet
+      NON-INGREDIENT SPAN: one pasta sheet
+   PARG: bottom of prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: bottom of prepared baking dish
+
+
+SENTID: 36
+SENT: I would spread one-third of the ragu , one-quarter of the bechamel , one-third of the ricotta , and one-quarter of the parmesan over the pasta .
+PREDID: 1322
+PRED: spread
+   DOBJ: one-third of the ragu , one-quarter of the bechamel , one-third of the ricotta , one-quarter of the parmesan over the pasta
+      INGREDIENT SPAN:  one-third of the ricotta 
+         INGREDIENTS: pint ricotta cheese
+      INGREDIENT SPAN:  one-quarter of the bechamel 
+         INGREDIENTS: BECHAMEL
+      INGREDIENT SPAN:  one-quarter of the parmesan over the pasta
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: one-third of the ragu 
+
+
+SENTID: 37
+SENT: I would repeat layers twice .
+PREDID: 1434
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice
+      NON-INGREDIENT SPAN: twice
+
+
+SENTID: 38
+SENT: I would top with remaining bechamel and parmesan and dot with butter .
+PREDID: 1452
+PRED: top
+   DOBJ: NULL
+   PARG: remaining bechamel, parmesan
+     PREP: with
+      NON-INGREDIENT SPAN: remaining bechamel
+      NON-INGREDIENT SPAN:  parmesan
+
+PREDID: 1490
+PRED: dot
+   DOBJ: NULL
+   PARG: butter
+     PREP: with
+      NON-INGREDIENT SPAN: butter
+
+
+SENTID: 39
+SENT: I would bake in preheated oven 30 minutes , until top is golden brown .
+PREDID: 1504
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: top is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: top is golden brown
+
+

@@ -1,0 +1,241 @@
+SENTID: 0
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would place the sweet potatoes into a 9x13 inch baking dish , drizzle with 1 tablespoon of corn oil , and season with salt and pepper .
+PREDID: 40
+PRED: place
+   DOBJ: the sweet potatoes
+      INGREDIENT SPAN: the sweet potatoes
+         INGREDIENTS: sweet potatoes peeled cubed
+   PARG: a 9x13 inch baking dish , drizzle with 1 tablespoon of corn oil , season with salt, pepper
+     PREP: into
+      INGREDIENT SPAN:  drizzle with 1 tablespoon of corn oil 
+         INGREDIENTS: corn oil
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish 
+
+
+SENTID: 2
+SENT: I would stir to coat the sweet potatoes in oil .
+PREDID: 144
+PRED: stir
+   DOBJ: NULL
+   OARG: to coat the sweet potatoes in oil
+      INGREDIENT SPAN: to coat the sweet potatoes in oil
+         INGREDIENTS: corn oil
+
+
+SENTID: 3
+SENT: I would roast in the preheated oven until the sweet potatoes are golden and tender , 15 to 20 minutes .
+PREDID: 176
+PRED: roast
+   DOBJ: NULL
+   PARG: the preheated oven until the sweet potatoes are golden, tender , 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  tender 
+      NON-INGREDIENT SPAN: the preheated oven until the sweet potatoes are golden
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 4
+SENT: I would stir occasionally as they cook so the sweet potatoes cook evenly .
+PREDID: 253
+PRED: stir
+   DOBJ: NULL
+   PARG: they cook
+     PREP: as
+      NON-INGREDIENT SPAN: they cook
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 5
+SENT: I would meanwhile , measure out 1 cup of corn kernels and set aside .
+
+SENTID: 6
+SENT: I would place the remaining corn into a blender , and puree with the water until smooth ;
+PREDID: 308
+PRED: place
+   DOBJ: the remaining corn
+      INGREDIENT SPAN: the remaining corn
+         INGREDIENTS: ounce package frozen corn kernels thawed
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+PREDID: 345
+PRED: puree
+   DOBJ: NULL
+   PARG: the water
+     PREP: with
+      INGREDIENT SPAN: the water
+         INGREDIENTS: water
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 374
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would heat the remaining 1 tablespoon of corn oil in a large saucepan over medium heat .
+PREDID: 383
+PRED: heat
+   DOBJ: the remaining 1 tablespoon of corn oil in a large saucepan over medium heat
+      NON-INGREDIENT SPAN: the remaining 1 tablespoon of corn oil in a large saucepan over medium heat
+
+
+SENTID: 9
+SENT: I would stir in the celery , the onion , and shallot .
+PREDID: 450
+PRED: stir
+   DOBJ: NULL
+   PARG: the celery , the onion , shallot
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  shallot
+         INGREDIENTS: shallot minced
+
+
+SENTID: 10
+SENT: I would cook and stir until the onion has softened , about 5 minutes .
+PREDID: 483
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion has softened
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has softened
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 11
+SENT: I would stir in the tomato paste and dried thyme leaves ;
+PREDID: 533
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato paste
+     PREP: in
+      INGREDIENT SPAN: the tomato paste
+         INGREDIENTS: tomato paste
+
+PREDID: 556
+PRED: dried
+   DOBJ: thyme leaves
+      INGREDIENT SPAN: thyme leaves
+         INGREDIENTS: dried thyme leaves
+
+
+SENTID: 12
+SENT: I would cook 1 minute more .
+PREDID: 573
+PRED: cook
+   DOBJ: NULL
+   OARG: 1 minute more
+      NON-INGREDIENT SPAN: 1 minute more
+
+
+SENTID: 13
+SENT: I would pour in the vegetable broth , corn puree , bay leaf , the salt , and cubed potato .
+PREDID: 589
+PRED: pour
+   DOBJ: NULL
+   PARG: the vegetable broth , corn puree , bay leaf , the salt , cubed potato
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the vegetable broth 
+         INGREDIENTS: vegetable broth
+      INGREDIENT SPAN:  cubed potato
+         INGREDIENTS: potato peeled cubed
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      NON-INGREDIENT SPAN:  corn puree 
+
+
+SENTID: 14
+SENT: I would bring to a boil over medium-high heat ,
+PREDID: 651
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-high heat
+
+
+SENTID: 15
+SENT: I would reduce the heat to medium-low , cover , and simmer until the potato is tender , 25 to 35 minutes .
+PREDID: 683
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 718
+PRED: simmer
+   DOBJ: NULL
+   PARG: the potato is tender , 25 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potato is tender 
+      NON-INGREDIENT SPAN:  25 to 35 minutes
+
+
+SENTID: 16
+SENT: Once the potato is tender , I would remove and discard the bay leaf .
+PREDID: 783
+PRED: remove and discard
+   DOBJ: the bay leaf
+      NON-INGREDIENT SPAN: the bay leaf
+   PARG: the potato is tender
+     PREP: once
+      NON-INGREDIENT SPAN: the potato is tender
+
+
+SENTID: 17
+SENT: I would stir in the whole corn kernels , sweet potato , and chopped parsley .
+PREDID: 810
+PRED: stir
+   DOBJ: NULL
+   PARG: the whole corn kernels , sweet potato , chopped parsley
+     PREP: in
+      INGREDIENT SPAN:  chopped parsley
+         INGREDIENTS: chopped fresh parsley
+      NON-INGREDIENT SPAN:  sweet potato 
+      NON-INGREDIENT SPAN: the whole corn kernels 
+
+
+SENTID: 18
+SENT: I would return to a simmer and season to taste with salt and pepper before serving .
+PREDID: 866
+PRED: return
+   DOBJ: NULL
+   PARG: a simmer, season
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+      NON-INGREDIENT SPAN:  season
+   OARG: to taste with salt, pepper before serving
+      NON-INGREDIENT SPAN: to taste with salt
+      NON-INGREDIENT SPAN:  pepper before serving
+
+

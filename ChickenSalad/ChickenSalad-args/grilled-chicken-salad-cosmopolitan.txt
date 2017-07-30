@@ -1,0 +1,261 @@
+SENTID: 0
+SENT: In a small saucepan over low heat , I would combine the cranberry sauce and orange marmalade .
+PREDID: 28
+PRED: combine
+   DOBJ: the cranberry sauce, orange marmalade
+      INGREDIENT SPAN:  orange marmalade
+         INGREDIENTS: orange marmalade
+      INGREDIENT SPAN: the cranberry sauce
+         INGREDIENTS: jellied cranberry sauce
+   PARG: a small saucepan over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over low heat
+
+
+SENTID: 1
+SENT: I would warm and stir until melted and well blended .
+PREDID: 71
+PRED: warm and stir
+   DOBJ: NULL
+   PARG: melted, well blended
+     PREP: until
+      NON-INGREDIENT SPAN:  well blended
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 2
+SENT: I would remove from the heat and stir in the lime juice , orange juice and vegetable oil .
+PREDID: 108
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 128
+PRED: stir
+   DOBJ: NULL
+   PARG: the lime juice , orange juice, vegetable oil
+     PREP: in
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  vegetable oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  orange juice
+         INGREDIENTS: fresh orange juice
+
+
+SENTID: 3
+SENT: I would remove 1/2 cup of the mixture and set aside in the refrigerator for later .
+PREDID: 174
+PRED: remove
+   DOBJ: 1/2 cup of the mixture
+      NON-INGREDIENT SPAN: 1/2 cup of the mixture
+
+PREDID: 201
+PRED: set
+   DOBJ: NULL
+   PARG: the refrigerator for later
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for later
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would allow the mixture to cool
+PREDID: 235
+PRED: allow
+   DOBJ: the mixture to cool
+      NON-INGREDIENT SPAN: the mixture to cool
+
+
+SENTID: 5
+SENT: I would stir in the lemon vodka and transfer to a large resealable bag .
+PREDID: 256
+PRED: stir
+   DOBJ: NULL
+   PARG: the lemon vodka
+     PREP: in
+      INGREDIENT SPAN: the lemon vodka
+         INGREDIENTS: lemon flavored vodka
+
+PREDID: 278
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large resealable bag
+     PREP: to
+      INGREDIENT SPAN: a large resealable bag
+         INGREDIENTS: ounce bag European blend salad greens
+
+
+SENTID: 6
+SENT: I would season the chicken pieces with salt and lemon pepper ;
+PREDID: 308
+PRED: season
+   DOBJ: the chicken pieces
+      INGREDIENT SPAN: the chicken pieces
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: salt, lemon pepper
+     PREP: with
+      INGREDIENT SPAN:  lemon pepper
+         INGREDIENTS: lemon pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 7
+SENT: I would place them into the bag with the marinade .
+PREDID: 353
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the bag with the marinade
+     PREP: into
+      NON-INGREDIENT SPAN: the bag with the marinade
+
+
+SENTID: 8
+SENT: I would seal the bag and marinate in the refrigerator for at least 1 hour , turning occasionally .
+PREDID: 388
+PRED: seal
+   DOBJ: the bag, marinate in the refrigerator for at least 1 hour , turning occasionally
+      NON-INGREDIENT SPAN:  turning occasionally
+      NON-INGREDIENT SPAN: the bag
+      NON-INGREDIENT SPAN:  marinate in the refrigerator for at least 1 hour 
+
+
+SENTID: 9
+SENT: I would preheat a grill for medium heat .
+PREDID: 462
+PRED: preheat
+   DOBJ: a grill for medium heat
+      NON-INGREDIENT SPAN: a grill for medium heat
+
+
+SENTID: 10
+SENT: I would remove the chicken from the plastic bag , discarding the marinade .
+PREDID: 489
+PRED: remove
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the plastic bag
+     PREP: from
+      NON-INGREDIENT SPAN: the plastic bag
+   OARG: discarding the marinade
+      NON-INGREDIENT SPAN: discarding the marinade
+
+
+SENTID: 11
+SENT: I would place the chicken pieces on the preheated grill and cook for 4 to 5 minutes on each side , or until firm and no longer pink in the center .
+PREDID: 545
+PRED: place
+   DOBJ: the chicken pieces
+      NON-INGREDIENT SPAN: the chicken pieces
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+
+PREDID: 588
+PRED: cook
+   DOBJ: NULL
+   PARG: 4 to 5 minutes on each side
+     PREP: for
+      NON-INGREDIENT SPAN: 4 to 5 minutes on each side
+   OARG: no longer pink in the center
+      NON-INGREDIENT SPAN: no longer pink in the center
+
+
+SENTID: 12
+SENT: If you have a meat thermometer , I would it should measure 160 degrees F -LRB- 70 degrees C -RRB- when measured in the thickest part .
+
+SENTID: 13
+SENT: I would remove chicken to a cutting board and allow to rest for about 5 minutes .
+PREDID: 749
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+PREDID: 780
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest for about 5 minutes
+      NON-INGREDIENT SPAN: to rest for about 5 minutes
+
+
+SENTID: 14
+SENT: While the chicken is resting , combine the salad greens , the cranberries , and orange segments .
+PREDID: 840
+PRED: combine
+   DOBJ: the salad greens , the cranberries , orange segments
+      INGREDIENT SPAN:  orange segments
+         INGREDIENTS: diced orange segments
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      NON-INGREDIENT SPAN: the salad greens 
+   PARG: the chicken is
+     PREP: while
+      NON-INGREDIENT SPAN: the chicken is
+
+
+SENTID: 15
+SENT: I would pour the reserved citrus marinade over the salad and toss lightly to coat .
+PREDID: 885
+PRED: pour
+   DOBJ: the reserved citrus marinade over the salad
+      NON-INGREDIENT SPAN: the reserved citrus marinade over the salad
+
+PREDID: 929
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 16
+SENT: I would divide the salad between four serving plates .
+PREDID: 947
+PRED: divide
+   DOBJ: the salad between four
+      NON-INGREDIENT SPAN: the salad between four
+   OARG: serving plates
+      NON-INGREDIENT SPAN: serving plates
+
+
+SENTID: 17
+SENT: I would slice each piece of chicken crosswise into 1/2 inch strips .
+PREDID: 986
+PRED: slice
+   DOBJ: each piece of chicken crosswise
+      NON-INGREDIENT SPAN: each piece of chicken crosswise
+   PARG: 1/2 inch strips
+     PREP: into
+      INGREDIENT SPAN: 1/2 inch strips
+         INGREDIENTS: orange zest strips
+
+
+SENTID: 18
+SENT: I would arrange over the tops of the salads and sprinkle with orange zest strips .
+PREDID: 1036
+PRED: arrange
+   DOBJ: the tops of the salads
+      NON-INGREDIENT SPAN: the tops of the salads
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 1068
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: orange zest strips
+     PREP: with
+      INGREDIENT SPAN: orange zest strips
+         INGREDIENTS: orange zest strips
+
+

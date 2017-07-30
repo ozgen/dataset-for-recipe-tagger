@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: I would fill a large pot with water and bring to a rolling boil ;
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 25
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 1
+SENT: I would add the corn and boil 15 to 20 minutes .
+PREDID: 45
+PRED: add
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+   OARG: the corn, boil
+      INGREDIENT SPAN: the corn
+         INGREDIENTS: ears corn
+      NON-INGREDIENT SPAN:  boil
+
+
+SENTID: 2
+SENT: I would remove the corn and allow to cool until cool enough to handle .
+PREDID: 76
+PRED: remove
+   DOBJ: the corn
+      NON-INGREDIENT SPAN: the corn
+
+PREDID: 92
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool until cool enough to handle
+      NON-INGREDIENT SPAN: to cool until cool enough to handle
+
+
+SENTID: 3
+SENT: I would cut the corn off of the cob and place into a large mixing bowl ;
+PREDID: 127
+PRED: cut
+   DOBJ: the corn
+      NON-INGREDIENT SPAN: the corn
+   PARG: of the cob
+     PREP: off
+      NON-INGREDIENT SPAN: of the cob
+
+PREDID: 151
+PRED: place
+   DOBJ: NULL
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 177
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would place the tomatillos , the cilantro , jalapeno , the onion , the garlic , the salt , and 4 teaspoons of lime juice into a blender .
+PREDID: 186
+PRED: place
+   DOBJ: the tomatillos , the cilantro , jalapeno , the onion , the garlic , the salt , 4 teaspoons of lime juice
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large white onion chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: bunch fresh cilantro leaves
+      INGREDIENT SPAN: the tomatillos 
+         INGREDIENTS: tomatillos husked
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic chopped
+      INGREDIENT SPAN:  4 teaspoons of lime juice
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN:  jalapeno 
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 6
+SENT: I would pulse until the vegetables have been finely chopped ;
+PREDID: 278
+PRED: pulse
+   DOBJ: NULL
+   PARG: the vegetables have been finely chopped
+     PREP: until
+      INGREDIENT SPAN: the vegetables have been finely chopped
+         INGREDIENTS: red bell pepper chopped
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 323
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would toss the avocado with 1 teaspoon of lime juice and mix with the corn , the cabbage , black beans , and bell pepper .
+PREDID: 332
+PRED: toss
+   DOBJ: the avocado
+      INGREDIENT SPAN: the avocado
+         INGREDIENTS: avocado peeled pitted diced
+   PARG: 1 teaspoon of lime juice, mix
+     PREP: with
+      INGREDIENT SPAN: 1 teaspoon of lime juice
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN:  mix
+   PARG: the corn , the cabbage , black beans , bell pepper
+     PREP: with
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: medium head red cabbage chopped
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: jalapeno chile pepper chopped
+      NON-INGREDIENT SPAN: the corn 
+
+
+SENTID: 9
+SENT: I would preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 421
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat, lightly oil the grate
+      NON-INGREDIENT SPAN:  lightly oil the grate
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 10
+SENT: I would season the chicken breasts with Cajun seasoning .
+PREDID: 482
+PRED: season
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: cajun seasoning
+     PREP: with
+      INGREDIENT SPAN: cajun seasoning
+         INGREDIENTS: Cajun seasoning taste
+
+
+SENTID: 11
+SENT: I would cook the chicken breasts on the preheated grill until no longer pink in the center and the juices run clear , about 6 minutes .
+PREDID: 524
+PRED: cook
+   DOBJ: the chicken breasts
+      NON-INGREDIENT SPAN: the chicken breasts
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: no longer pink in the center, the juices run clear , about 6 minutes
+     PREP: until
+      INGREDIENT SPAN:  the juices run clear 
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 12
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 13
+SENT: I would set the breasts aside until cool enough to handle ;
+PREDID: 627
+PRED: set
+   DOBJ: the breasts
+      NON-INGREDIENT SPAN: the breasts
+   PARG: cool enough
+     PREP: until
+      NON-INGREDIENT SPAN: cool enough
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to handle
+      NON-INGREDIENT SPAN: to handle
+
+
+SENTID: 14
+SENT: I would cut into bite sized pieces .
+PREDID: 669
+PRED: cut
+   DOBJ: NULL
+   PARG: bite sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite sized pieces
+
+
+SENTID: 15
+SENT: I would divide the lettuce leaves onto 4 plates .
+PREDID: 692
+PRED: divide
+   DOBJ: the lettuce leaves
+      INGREDIENT SPAN: the lettuce leaves
+         INGREDIENTS: head green leaf lettuce
+   PARG: 4 plates
+     PREP: onto
+      NON-INGREDIENT SPAN: 4 plates
+
+
+SENTID: 16
+SENT: I would mound the avocado mixture on top of the lettuce , followed by the chicken .
+PREDID: 726
+PRED: mound
+   DOBJ: the avocado mixture
+      NON-INGREDIENT SPAN: the avocado mixture
+   PARG: top of the lettuce , followed by the chicken
+     PREP: on
+      NON-INGREDIENT SPAN:  followed by the chicken
+      NON-INGREDIENT SPAN: top of the lettuce 
+
+
+SENTID: 17
+SENT: I would sprinkle with cotija cheese and garnish with lime wedges to serve .
+PREDID: 787
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cotija cheese
+     PREP: with
+      INGREDIENT SPAN: cotija cheese
+         INGREDIENTS: crumbled cotija cheese
+
+PREDID: 814
+PRED: garnish
+   DOBJ: NULL
+   PARG: lime wedges
+     PREP: with
+      INGREDIENT SPAN: lime wedges
+         INGREDIENTS: lime cut wedges
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

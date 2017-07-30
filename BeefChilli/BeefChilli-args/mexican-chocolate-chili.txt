@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would combine ground round and onion in a large saucepan over medium-high heat .
+PREDID: 0
+PRED: combine
+   DOBJ: ground round, onion in a large saucepan over medium-high heat
+      INGREDIENT SPAN:  onion in a large saucepan over medium-high heat
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: ground round
+         INGREDIENTS: ground round
+
+
+SENTID: 1
+SENT: I would cook , stirring , until beef is browned , about 5 minutes .
+PREDID: 62
+PRED: cook
+   DOBJ: NULL
+   PARG: beef is browned , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: beef is browned 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+
+SENTID: 2
+SENT: I would transfer cooked beef and onions to slow cooker .
+PREDID: 109
+PRED: transfer
+   DOBJ: NULL
+
+PREDID: 117
+PRED: cooked
+   DOBJ: beef, onions
+      NON-INGREDIENT SPAN:  onions
+      NON-INGREDIENT SPAN: beef
+   OARG: to slow cooker
+      NON-INGREDIENT SPAN: to slow cooker
+
+
+SENTID: 3
+SENT: I would stir in water , the tomatoes , kidney beans , black beans , the corn , chocolate chips , chili powder , the cumin , the oregano , and salt .
+PREDID: 149
+PRED: stir
+   DOBJ: NULL
+   PARG: water , the tomatoes , kidney beans , black beans , the corn , chocolate chips , chili powder , the cumin , the oregano , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes garlic undrained
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  chocolate chips 
+         INGREDIENTS: semisweet chocolate chips
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN: water 
+         INGREDIENTS: hot water
+
+
+SENTID: 4
+SENT: I would cook on High until chili begins to bubble , about 20 minutes .
+PREDID: 247
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: chili begins to bubble , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 20 minutes
+      NON-INGREDIENT SPAN: chili begins to bubble 
+
+
+SENTID: 5
+SENT: I would reduce heat to Low , and cook until thick , about 2 hours .
+PREDID: 297
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 316
+PRED: cook
+   DOBJ: NULL
+   PARG: thick , about 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: thick 
+      NON-INGREDIENT SPAN:  about 2 hours
+
+

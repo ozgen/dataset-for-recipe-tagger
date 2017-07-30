@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would scoop egg yolks into a bowl and set egg whites aside .
+PREDID: 0
+PRED: scoop
+   DOBJ: egg yolks
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: hardcooked eggs halved
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 25
+PRED: set
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would mash yolks , the mayonnaise , the vinegar , 1/2 teaspoon chopped dill , Dijon mustard , garlic powder , and salt .
+PREDID: 43
+PRED: mash
+   DOBJ: yolks , the mayonnaise , the vinegar , 1/2 teaspoon chopped dill , Dijon mustard , garlic powder , salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  1/2 teaspoon chopped dill 
+         INGREDIENTS: chopped fresh dill
+      NON-INGREDIENT SPAN: yolks 
+
+
+SENTID: 2
+SENT: I would spoon yolk mixture into egg whites .
+PREDID: 129
+PRED: spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: egg whites
+
+
+SENTID: 3
+SENT: I would garnish with dill sprigs .
+PREDID: 159
+PRED: garnish
+   DOBJ: NULL
+   PARG: dill sprigs
+     PREP: with
+      INGREDIENT SPAN: dill sprigs
+         INGREDIENTS: sprigs fresh dill
+
+
+SENTID: 4
+SENT: I would refrigerate until ready to serve .
+PREDID: 181
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

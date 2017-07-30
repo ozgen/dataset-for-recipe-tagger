@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: I would combine potatoes , the onion , the celery , green bell pepper , the oil , the vinegar , the salt , and pepper in a slow cooker .
+PREDID: 0
+PRED: combine
+   DOBJ: potatoes , the onion , the celery , green bell pepper , the oil , the vinegar , the salt , pepper in a slow cooker
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: cooking oil
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: potatoes peeled sliced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      NON-INGREDIENT SPAN:  pepper in a slow cooker
+
+
+SENTID: 1
+SENT: I would cook on Low 5 to 6 hours .
+PREDID: 85
+PRED: cook
+   DOBJ: NULL
+   PARG: low 5
+     PREP: on
+      NON-INGREDIENT SPAN: low 5
+   PARG: 6 hours
+     PREP: to
+      NON-INGREDIENT SPAN: 6 hours
+
+
+SENTID: 2
+SENT: I would garnish with bacon and parsley .
+PREDID: 104
+PRED: garnish
+   DOBJ: NULL
+   PARG: bacon, parsley
+     PREP: with
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices cooked bacon crumbled
+
+

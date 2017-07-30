@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would lightly coat the bottom of a nonstick skillet or wok with oil .
+PREDID: 7
+PRED: coat
+   DOBJ: the bottom of a nonstick skillet
+      NON-INGREDIENT SPAN: the bottom of a nonstick skillet
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 40
+PRED: wok
+   DOBJ: NULL
+   PARG: oil
+     PREP: with
+      INGREDIENT SPAN: oil
+         INGREDIENTS: extra virgin olive oil
+
+
+SENTID: 1
+SENT: Over medium heat , I would cook and stir the chicken strips until lightly brown .
+PREDID: 66
+PRED: cook and stir
+   DOBJ: the chicken strips
+      INGREDIENT SPAN: the chicken strips
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: lightly brown
+     PREP: until
+      NON-INGREDIENT SPAN: lightly brown
+
+
+SENTID: 2
+SENT: I would add carrots and onion , and cook for 3 minutes .
+PREDID: 111
+PRED: add
+   DOBJ: carrots, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: julienned carrots
+
+PREDID: 133
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 3
+SENT: I would add mushrooms , the zucchini , and squash .
+PREDID: 149
+PRED: add
+   DOBJ: mushrooms , the zucchini , squash
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: fresh sliced mushrooms
+      INGREDIENT SPAN:  squash
+         INGREDIENTS: yellow summer squash peeled sliced inch
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini squash peeled cut inch rounds
+
+
+SENTID: 4
+SENT: I would cook until squash begins to soften .
+PREDID: 181
+PRED: cook
+   DOBJ: NULL
+   PARG: squash begins
+     PREP: until
+      NON-INGREDIENT SPAN: squash begins
+
+
+SENTID: 5
+SENT: I would add pecans , and sprinkle season with pepper .
+PREDID: 211
+PRED: add
+   DOBJ: pecans
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecan halves
+
+PREDID: 224
+PRED: sprinkle
+   DOBJ: season
+      NON-INGREDIENT SPAN: season
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: coarse ground black pepper
+
+
+SENTID: 6
+SENT: I would toss in pan for 2 to 3 minutes and serve .
+PREDID: 249
+PRED: toss
+   DOBJ: NULL
+   PARG: pan for 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pan for 2 to 3 minutes
+
+

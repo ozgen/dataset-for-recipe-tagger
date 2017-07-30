@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would snip bacon into small pieces with a scissors and cook in a large skillet over medium heat until crisp , stirring often , about 10 minutes .
+PREDID: 0
+PRED: snip
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon
+   PARG: small pieces with a scissors
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces with a scissors
+
+PREDID: 40
+PRED: cook
+   DOBJ: NULL
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: crisp , stirring often , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  stirring often 
+      NON-INGREDIENT SPAN: crisp 
+
+
+SENTID: 1
+SENT: I would cook and stir onion with bacon until translucent , about 5 more minutes ;
+PREDID: 113
+PRED: cook and stir
+   DOBJ: onion with bacon
+      INGREDIENT SPAN: onion with bacon
+         INGREDIENTS: onion diced
+   PARG: translucent , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN: translucent 
+
+
+SENTID: 2
+SENT: I would set bacon and onion aside , leaving drippings in the skillet .
+PREDID: 173
+PRED: set
+   DOBJ: bacon, onion
+      NON-INGREDIENT SPAN:  onion
+      NON-INGREDIENT SPAN: bacon
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: leaving drippings in the skillet
+      NON-INGREDIENT SPAN: leaving drippings in the skillet
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 224
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 266
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 367
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would transfer bacon and onion mixture with drippings into the pot used to cook the noodles and cook and stir cabbage until coated with drippings .
+PREDID: 373
+PRED: transfer
+   DOBJ: bacon, onion mixture
+      NON-INGREDIENT SPAN:  onion mixture
+      NON-INGREDIENT SPAN: bacon
+   PARG: drippings
+     PREP: with
+      NON-INGREDIENT SPAN: drippings
+   PARG: the pot used to cook the noodles, cook, stir cabbage until coated with drippings
+     PREP: into
+      INGREDIENT SPAN:  stir cabbage until coated with drippings
+         INGREDIENTS: head cabbage sliced
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: the pot used to cook the noodles
+
+
+SENTID: 7
+SENT: I would cover the pot and cook until cabbage is tender , 10 to 12 minutes , stirring occasionally .
+PREDID: 490
+PRED: cover
+   DOBJ: the pot
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 504
+PRED: cook
+   DOBJ: NULL
+   PARG: cabbage is tender , 10 to 12 minutes , stirring occasionally
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN:  10 to 12 minutes 
+      NON-INGREDIENT SPAN: cabbage is tender 
+
+
+SENTID: 8
+SENT: I would gently stir in noodles and season to taste with salt and black pepper .
+PREDID: 567
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles, season
+     PREP: in
+      NON-INGREDIENT SPAN: noodles
+      NON-INGREDIENT SPAN:  season
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

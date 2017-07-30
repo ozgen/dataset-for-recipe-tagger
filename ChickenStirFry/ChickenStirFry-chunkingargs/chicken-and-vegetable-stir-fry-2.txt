@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Mix cornstarch , broth and soy .
+PREDID: 0
+PRED: mix
+  DOBJ: cornstarch , broth and soy
+
+
+SENTID: 1
+SENT: Spray nonstick skillet with vegetable cooking spray and heat 1 minute .
+PREDID: 1
+PRED: spray
+  DOBJ: nonstick skillet
+  PARG: vegetable cooking spray and heat 1 minute
+    PREP: with
+
+
+SENTID: 2
+SENT: Add chicken and stir-fry until browned .
+PREDID: 2
+PRED: add
+  DOBJ: chicken
+
+
+SENTID: 3
+SENT: Remove chicken .
+PREDID: 3
+PRED: remove
+  DOBJ: chicken
+
+
+SENTID: 4
+SENT: Add vegetables , ginger and garlic powder and stir-fry until tender-crisp .
+PREDID: 4
+PRED: add
+  DOBJ: vegetables , ginger and garlic powder and stir-fry
+  PARG: tender-crisp
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir cornstarch mixture and add .
+PREDID: 5
+PRED: stir
+  DOBJ: cornstarch mixture
+
+PREDID: 6
+PRED: add
+
+
+SENTID: 6
+SENT: Cook and stir until mixture boils and thickens .
+PREDID: 7
+PRED: cook
+
+PREDID: 8
+PRED: stir
+  PARG: mixture boils
+    PREP: until
+
+
+SENTID: 7
+SENT: Return chicken to skillet and heat through .
+PREDID: 9
+PRED: return
+  DOBJ: chicken
+  PARG: skillet
+    PREP: to
+
+PREDID: 10
+PRED: heat
+
+
+SENTID: 8
+SENT: Serve over rice .
+PREDID: 11
+PRED: serve
+  DOBJ: over rice
+
+

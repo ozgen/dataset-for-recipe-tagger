@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the rotini , and return to a boil .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the rotini
+     PREP: in
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: ounce package uncooked rotini pasta
+
+PREDID: 111
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 125
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 129
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+     PREP: until
+      INGREDIENT SPAN: the pasta has cooked through 
+         INGREDIENTS: frozen cooked chicken strips defrosted diced
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 3
+SENT: I would drain well in a colander set in the sink .
+PREDID: 228
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would stir together the mayonnaise , blue cheese dressing , buffalo wing sauce , the salt and pepper in a large bowl .
+PREDID: 261
+PRED: stir
+   DOBJ: the mayonnaise , blue cheese dressing , buffalo wing sauce , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  buffalo wing sauce 
+         INGREDIENTS: buffalo wing sauce
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  blue cheese dressing 
+         INGREDIENTS: chunky blue cheese dressing
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would add the chicken , bell peppers , red onion , and cooked pasta and toss to coat with the dressing .
+PREDID: 349
+PRED: add
+   DOBJ: the chicken , bell peppers , red onion , cooked pasta
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion diced
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: red bell pepper diced
+      NON-INGREDIENT SPAN:  cooked pasta
+      NON-INGREDIENT SPAN: the chicken 
+
+PREDID: 401
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 6
+SENT: I would cover and chill at least 1 hour in the refrigerator before serving .
+PREDID: 427
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

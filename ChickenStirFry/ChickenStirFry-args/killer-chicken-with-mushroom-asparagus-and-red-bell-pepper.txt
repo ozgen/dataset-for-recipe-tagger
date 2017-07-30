@@ -1,0 +1,209 @@
+SENTID: 0
+SENT: I would bring the rice and water to a boil together in a saucepan .
+PREDID: 0
+PRED: bring
+   DOBJ: the rice, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: basmati rice
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , the cover , and simmer until the rice is tender and the liquid has been absorbed , 35 to 40 minutes .
+PREDID: 47
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover , simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  the cover 
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  simmer
+   PARG: the rice is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is tender
+
+PREDID: 127
+PRED: been has absorbed
+   DOBJ: NULL
+   PARG: 35 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes
+
+
+SENTID: 2
+SENT: When the rice is nearly done cooking , heat the oil in a large skillet over high heat .
+PREDID: 178
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over high heat
+   OARG: when the rice is nearly done cooking
+      NON-INGREDIENT SPAN: when the rice is nearly done cooking
+
+
+SENTID: 3
+SENT: I would cook the onion in the hot oil until softened , 2 to 3 minutes .
+PREDID: 216
+PRED: cook
+   DOBJ: the onion
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: red onion cut 1/2inch slices
+   PARG: the hot oil until softened , 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil until softened 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 4
+SENT: I would add the chicken , the garlic , and ginger to the skillet and continue the cooking and stirring until the chicken is completely browned , 7 to 10 minutes .
+PREDID: 265
+PRED: add
+   DOBJ: the chicken , the garlic , ginger
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: skinless boneless chicken thighs cut 2inch strips
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 313
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+PREDID: 334
+PRED: stirring
+   DOBJ: NULL
+   PARG: the chicken is completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the chicken is completely browned 
+
+
+SENTID: 5
+SENT: I would fold the mushrooms , the asparagus , bell peppers , and fish sauce into the chicken mixture ;
+PREDID: 384
+PRED: fold
+   DOBJ: the mushrooms , the asparagus , bell peppers , fish sauce
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: small red bell peppers cut 1/2inch strips
+      INGREDIENT SPAN:  fish sauce
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN: the mushrooms 
+         INGREDIENTS: cremini mushrooms cut half
+      INGREDIENT SPAN:  the asparagus 
+         INGREDIENTS: fresh asparagus trimmed cut 2inch
+   PARG: the chicken mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken mixture
+
+
+SENTID: 6
+SENT: I would continue the cooking just until hot , about 5 minutes .
+PREDID: 457
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 7
+SENT: I would crack the egg , and scramble it into the mixture .
+PREDID: 499
+PRED: crack
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg
+
+PREDID: 514
+PRED: scramble
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 8
+SENT: I would add the basil leaves to the mixture ;
+PREDID: 539
+PRED: add
+   DOBJ: the basil leaves
+      INGREDIENT SPAN: the basil leaves
+         INGREDIENTS: fresh basil leaves
+   PARG: the mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 9
+SENT: I would cook until the leaves wilt slightly , about 30 seconds .
+PREDID: 569
+PRED: cook
+   DOBJ: NULL
+   PARG: the leaves wilt slightly , about 30 seconds
+     PREP: until
+      INGREDIENT SPAN: the leaves wilt slightly 
+         INGREDIENTS: fresh cilantro leaves chopped
+      NON-INGREDIENT SPAN:  about 30 seconds
+
+
+SENTID: 10
+SENT: I would remove the pan from heat immediately .
+PREDID: 615
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 11
+SENT: I would serve over the basmati rice ;
+PREDID: 644
+PRED: serve
+   DOBJ: the basmati rice
+      NON-INGREDIENT SPAN: the basmati rice
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 12
+SENT: I would garnish with the cilantro and sesame seeds and a drizzle of the tamari soy sauce .
+PREDID: 668
+PRED: garnish
+   DOBJ: NULL
+   PARG: the cilantro, sesame seeds, a drizzle of the tamari soy sauce
+     PREP: with
+      INGREDIENT SPAN:  a drizzle of the tamari soy sauce
+         INGREDIENTS: tamari soy sauce taste
+      INGREDIENT SPAN:  sesame seeds
+         INGREDIENTS: sesame seeds garnish
+      NON-INGREDIENT SPAN: the cilantro
+
+

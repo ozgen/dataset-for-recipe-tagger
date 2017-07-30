@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium mixing bowl , I would cream together butter or margarine and brown sugar .
+PREDID: 58
+PRED: cream
+   DOBJ: butter or margarine, brown sugar
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: unsalted butter
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+   PARG: a medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would mix in cinnamon , the cloves , and salt .
+PREDID: 102
+PRED: mix
+   DOBJ: NULL
+   PARG: cinnamon , the cloves , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN: cinnamon 
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: I would add corn syrup and blend until smooth .
+PREDID: 131
+PRED: add
+   DOBJ: corn syrup
+      INGREDIENT SPAN: corn syrup
+         INGREDIENTS: dark corn syrup
+
+PREDID: 146
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would add eggs one at a time , mixing after each addition .
+PREDID: 163
+PRED: add
+   DOBJ: eggs one at a time
+      INGREDIENT SPAN: eggs one at a time
+         INGREDIENTS: eggs
+   OARG: mixing after each addition
+      NON-INGREDIENT SPAN: mixing after each addition
+
+
+SENTID: 5
+SENT: I would gently stir in cereal .
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: cereal
+     PREP: in
+      INGREDIENT SPAN: cereal
+         INGREDIENTS: wheat barley flake cereal
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would pour mixture into pastry shell .
+PREDID: 224
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pastry shell
+     PREP: into
+      NON-INGREDIENT SPAN: pastry shell
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 45 minutes , until knife inserted in center comes out clean .
+PREDID: 251
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+   PARG: knife inserted in center comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: knife inserted in center comes out clean
+
+
+SENTID: 8
+SENT: I would cool before serving .
+PREDID: 323
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would bring a pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a pot of lightly salted water
+      INGREDIENT SPAN: a pot of lightly salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would place the egg noodles in the pot , cook 6 to 8 minutes , until al dente , and drain .
+PREDID: 37
+PRED: place
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 64
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes
+
+
+SENTID: 2
+SENT: I would heat the oil in a skillet over medium heat .
+PREDID: 102
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 3
+SENT: I would place the turkey and onion in the skillet and cook until turkey is evenly brown and onion is tender .
+PREDID: 137
+PRED: place
+   DOBJ: the turkey, onion in the skillet
+      INGREDIENT SPAN:  onion in the skillet
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN: the turkey
+         INGREDIENTS: ground turkey
+   OARG: onion is tender
+      NON-INGREDIENT SPAN: onion is tender
+
+PREDID: 174
+PRED: cook
+   DOBJ: NULL
+   PARG: turkey is evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: turkey is evenly brown
+
+
+SENTID: 4
+SENT: I would mix in the bouillon .
+PREDID: 219
+PRED: mix
+   DOBJ: NULL
+   PARG: the bouillon
+     PREP: in
+      INGREDIENT SPAN: the bouillon
+         INGREDIENTS: cube chicken bouillon crumbled
+
+
+SENTID: 5
+SENT: I would stir the cream of mushroom soup and water into the skillet .
+PREDID: 236
+PRED: stir
+   DOBJ: the cream of mushroom soup, water
+      INGREDIENT SPAN: the cream of mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      NON-INGREDIENT SPAN:  water
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 6
+SENT: I would cook and stir until heated through .
+PREDID: 285
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 7
+SENT: I would season with paprika and salt .
+PREDID: 315
+PRED: season
+   DOBJ: NULL
+   PARG: paprika, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 8
+SENT: I would serve over the cooked egg noodles .
+PREDID: 340
+PRED: serve
+   DOBJ: the cooked egg noodles
+      NON-INGREDIENT SPAN: the cooked egg noodles
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , I would saute the bacon and onions together until onions are tender , about 7 minutes .
+PREDID: 31
+PRED: saute
+   DOBJ: the bacon, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: slices bacon diced
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+   PARG: onions are tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: onions are tender 
+      NON-INGREDIENT SPAN:  about 7 minutes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the corn , the potatoes , the soup , the milk , and salt and pepper .
+PREDID: 96
+PRED: add
+   DOBJ: the corn , the potatoes , the soup , the milk , salt, pepper
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: cubed potatoes
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 2
+SENT: I would raise heat to high and bring to a boil .
+PREDID: 143
+PRED: raise
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 161
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce heat to low , the cover and simmer about 25 to 35 minutes or until the potatoes are tender , stirring occasionally .
+PREDID: 174
+PRED: reduce
+   DOBJ: NULL
+   PARG: heat to low , the cover, simmer about 25 to 35 minutes or until the potatoes are tender , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN: heat to low 
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN:  the cover
+      NON-INGREDIENT SPAN:  simmer about 25 to 35 minutes or until the potatoes are tender 
+
+

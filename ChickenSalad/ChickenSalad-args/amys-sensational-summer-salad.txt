@@ -1,0 +1,188 @@
+SENTID: 0
+SENT: I would place the chicken breasts and Italian dressing into a resealable plastic bag .
+PREDID: 0
+PRED: place
+   DOBJ: NULL
+   OARG: the chicken breasts, italian dressing into a resealable plastic bag
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: ounce skinless boneless chicken breast halves
+      INGREDIENT SPAN:  italian dressing into a resealable plastic bag
+         INGREDIENTS: Italianstyle salad dressing
+
+
+SENTID: 1
+SENT: I would mix together to coat the chicken with the dressing , squeeze out excess air , and seal the bag .
+PREDID: 66
+PRED: mix
+   DOBJ: the chicken with the dressing
+      NON-INGREDIENT SPAN: the chicken with the dressing
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 109
+PRED: squeeze
+   DOBJ: excess air
+      NON-INGREDIENT SPAN: excess air
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 132
+PRED: seal
+   DOBJ: the bag
+      NON-INGREDIENT SPAN: the bag
+
+
+SENTID: 2
+SENT: I would marinate in the refrigerator for 1 hour .
+PREDID: 143
+PRED: marinate
+   DOBJ: NULL
+   PARG: the refrigerator for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for 1 hour
+
+
+SENTID: 3
+SENT: I would preheat an outdoor grill for medium-high heat , and lightly oil grate .
+PREDID: 177
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+   OARG: lightly oil grate
+      NON-INGREDIENT SPAN: lightly oil grate
+
+
+SENTID: 4
+SENT: I would remove the chicken from the marinade , and shake off excess .
+PREDID: 236
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the marinade
+     PREP: from
+      NON-INGREDIENT SPAN: the marinade
+
+PREDID: 271
+PRED: shake
+   DOBJ: excess
+      NON-INGREDIENT SPAN: excess
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 5
+SENT: I would discard the remaining marinade .
+PREDID: 286
+PRED: discard
+   DOBJ: the remaining marinade
+      NON-INGREDIENT SPAN: the remaining marinade
+
+
+SENTID: 6
+SENT: I would grill the chicken breasts until no longer pink in the center , or to an internal temperature of 165 degrees F -LRB- 74 degrees C -RRB- , about 3 minutes per side .
+PREDID: 314
+PRED: grill
+   DOBJ: the chicken breasts
+      NON-INGREDIENT SPAN: the chicken breasts
+   PARG: no longer pink in the center , or to an internal temperature of 165 degrees f -lrb- 74 degrees c -rrb- , about 3 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 3 minutes per side
+      NON-INGREDIENT SPAN:  or to an internal temperature of 165 degrees f -lrb- 74 degrees c -rrb- 
+
+
+SENTID: 7
+SENT: I would set aside to cool while preparing the ingredients for salad ,
+PREDID: 437
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool while preparing the ingredients for salad
+      NON-INGREDIENT SPAN: to cool while preparing the ingredients for salad
+
+
+SENTID: 8
+SENT: I would dice .
+PREDID: 488
+PRED: dice
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would toss the diced apple with the lemon juice in a large mixing bowl until well coated ;
+PREDID: 493
+PRED: toss
+   DOBJ: the diced apple
+      INGREDIENT SPAN: the diced apple
+         INGREDIENTS: Granny Smith apple cored diced
+   PARG: the lemon juice in a large mixing bowl
+     PREP: with
+      INGREDIENT SPAN: the lemon juice in a large mixing bowl
+         INGREDIENTS: lemon juice
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 10
+SENT: I would drain and discard any excess lemon juice .
+PREDID: 561
+PRED: drain and discard
+   DOBJ: any excess lemon juice
+      NON-INGREDIENT SPAN: any excess lemon juice
+
+
+SENTID: 11
+SENT: I would place the lettuce into the mixing bowl ,
+PREDID: 596
+PRED: place
+   DOBJ: the lettuce
+      INGREDIENT SPAN: the lettuce
+         INGREDIENTS: head romaine lettuce chopped
+   PARG: the mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: the mixing bowl
+
+
+SENTID: 12
+SENT: I would sprinkle with the diced chicken , the avocado , feta cheese , the strawberries , and cranberries .
+PREDID: 629
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the diced chicken , the avocado , feta cheese , the strawberries , cranberries
+     PREP: with
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: feta cheese crumbled
+      INGREDIENT SPAN:  the strawberries 
+         INGREDIENTS: diced fresh strawberries
+      INGREDIENT SPAN:  cranberries
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: avocado diced
+      NON-INGREDIENT SPAN: the diced chicken 
+
+
+SENTID: 13
+SENT: I would gently toss the salad with the balsamic vinaigrette , and serve immediately .
+PREDID: 710
+PRED: toss
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: the balsamic vinaigrette
+     PREP: with
+      INGREDIENT SPAN: the balsamic vinaigrette
+         INGREDIENTS: balsamic vinaigrette taste
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 752
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

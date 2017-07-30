@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would preheat oven to Grill/Broil .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: grill/broil
+     PREP: to
+      NON-INGREDIENT SPAN: grill/broil
+
+
+SENTID: 1
+SENT: I would heat oil in a skillet over medium high heat .
+PREDID: 25
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: oil frying
+   PARG: a skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium high heat
+
+
+SENTID: 2
+SENT: I would add chicken and garlic and saute until chicken juices run clear , about 7 to 10 minutes .
+PREDID: 61
+PRED: add
+   DOBJ: chicken, garlic
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cubed
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+
+PREDID: 83
+PRED: saute
+   DOBJ: NULL
+   PARG: chicken juices run clear , about 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken juices run clear 
+      NON-INGREDIENT SPAN:  about 7 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain fat from skillet and stir in sauce .
+PREDID: 133
+PRED: drain
+   DOBJ: NULL
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+PREDID: 155
+PRED: stir
+   DOBJ: NULL
+   PARG: sauce
+     PREP: in
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: fluid ounce bottle classicstyle stirfry sauce
+
+
+SENTID: 4
+SENT: I would place chicken mixture on a cookie sheet and broil in the preheated oven for about 10 minutes , or until browned .
+PREDID: 167
+PRED: place
+   DOBJ: chicken mixture
+      NON-INGREDIENT SPAN: chicken mixture
+   PARG: a cookie sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a cookie sheet
+
+PREDID: 203
+PRED: broil
+   DOBJ: NULL
+   PARG: the preheated oven for about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for about 10 minutes
+
+
+SENTID: 5
+SENT: I would let the sit about 5 minutes to allow sauce to thicken .
+PREDID: 259
+PRED: let
+   DOBJ: NULL
+   PARG: the sit about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the sit about 5 minutes
+   OARG: to allow sauce to thicken
+      NON-INGREDIENT SPAN: to allow sauce to thicken
+
+

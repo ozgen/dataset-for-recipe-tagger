@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would grill the al fresco Spinach & Feta Chicken Sausage over a medium-high grill , 5 minutes per side .
+PREDID: 0
+PRED: grill
+   DOBJ: NULL
+   PARG: the al fresco spinach & feta chicken sausage over a medium-high grill , 5 minutes per side
+     PREP: for
+      INGREDIENT SPAN: the spinach & feta chicken sausage over a medium-high grill 
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN: the al fresco spinach & feta chicken sausage over a medium-high grill 
+         INGREDIENTS: ounce package al fresco Spinach Feta Chicken Sausage
+      NON-INGREDIENT SPAN:  5 minutes per side
+
+
+SENTID: 1
+SENT: I would slice the sausage on the diagonal into 1/4 inch thick slices .
+PREDID: 80
+PRED: slice
+   DOBJ: the sausage on the diagonal
+      NON-INGREDIENT SPAN: the sausage on the diagonal
+   PARG: 1/4 inch thick slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1/4 inch thick slices
+
+
+SENTID: 2
+SENT: I would set up the salad in a serving bowl or platter and arrange the grilled sausage slices over the romaine lettuce .
+PREDID: 131
+PRED: set
+   DOBJ: the salad in a serving bowl or platter
+      INGREDIENT SPAN: the salad in a serving bowl or platter
+         INGREDIENTS: Greek Goddess salad dressing
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 170
+PRED: arrange
+   DOBJ: the grilled sausage slices
+      NON-INGREDIENT SPAN: the grilled sausage slices
+   PARG: the romaine lettuce
+     PREP: over
+      INGREDIENT SPAN: the romaine lettuce
+         INGREDIENTS: romaine lettuce hearts cut torn bite size
+
+
+SENTID: 3
+SENT: I would top with the cucumber , the olives , feta cheese , red onions , tomatoes .
+PREDID: 222
+PRED: top
+   DOBJ: NULL
+   PARG: the cucumber , the olives , feta cheese , red onions , tomatoes
+     PREP: with
+      INGREDIENT SPAN: the cucumber 
+         INGREDIENTS: cucumber skinned cut diagonal
+      INGREDIENT SPAN:  red onions 
+         INGREDIENTS: red onion sliced strips
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: medium tomatoes cut wedges
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: pitted kalamata olives
+      NON-INGREDIENT SPAN:  feta cheese 
+
+
+SENTID: 4
+SENT: I would toss with Greek Goddess Dressing .
+PREDID: 278
+PRED: toss
+   DOBJ: NULL
+   PARG: greek goddess dressing
+     PREP: with
+      NON-INGREDIENT SPAN: greek goddess dressing
+
+
+SENTID: 5
+SENT: I would serve immediately .
+PREDID: 307
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

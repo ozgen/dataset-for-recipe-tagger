@@ -1,0 +1,210 @@
+SENTID: 0
+SENT: I would mix cider vinegar , 1/4 cup vegetable oil , seasoned salt , red pepper flakes , monosodium glutamate , black pepper , and salt in a resealable plastic bag .
+PREDID: 0
+PRED: mix
+   DOBJ: cider vinegar , 1/4 cup vegetable oil , seasoned salt , red pepper flakes , monosodium glutamate , black pepper , salt in a resealable plastic bag
+      INGREDIENT SPAN:  monosodium glutamate 
+         INGREDIENTS: monosodium glutamate such Ac cent
+      INGREDIENT SPAN:  1/4 cup vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  salt in a resealable plastic bag
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN: cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 1
+SENT: I would place chicken pieces into marinade , seal bag , and marinate in refrigerator for 1 hour .
+PREDID: 127
+PRED: place
+   DOBJ: chicken pieces
+      INGREDIENT SPAN: chicken pieces
+         INGREDIENTS: skinless boneless chicken breast halves cut chunks
+   PARG: marinade
+     PREP: into
+      NON-INGREDIENT SPAN: marinade
+
+PREDID: 158
+PRED: seal
+   DOBJ: bag
+      NON-INGREDIENT SPAN: bag
+
+PREDID: 169
+PRED: marinate
+   DOBJ: NULL
+   PARG: refrigerator for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator for 1 hour
+
+
+SENTID: 2
+SENT: I would heat 2 tablespoons vegetable oil in a large skillet over medium heat .
+PREDID: 200
+PRED: heat
+   DOBJ: 2 tablespoons vegetable oil in a large skillet over medium heat
+      INGREDIENT SPAN: 2 tablespoons vegetable oil in a large skillet over medium heat
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 3
+SENT: I would remove chicken from marinade ;
+PREDID: 258
+PRED: remove
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut chunks
+   PARG: marinade
+     PREP: from
+      NON-INGREDIENT SPAN: marinade
+
+
+SENTID: 4
+SENT: I would discard used marinade .
+PREDID: 284
+PRED: discard
+   DOBJ: used marinade
+      NON-INGREDIENT SPAN: used marinade
+
+
+SENTID: 5
+SENT: I would cook chicken in hot oil until browned and no longer pink inside , about 10 minutes .
+PREDID: 304
+PRED: cook
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: hot oil until browned, no longer pink inside , about 10 minutes
+     PREP: in
+      INGREDIENT SPAN: hot oil until browned
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  no longer pink inside 
+      NON-INGREDIENT SPAN:  about 10 minutes
+
+
+SENTID: 6
+SENT: I would stir frequently .
+PREDID: 372
+PRED: stir
+   DOBJ: NULL
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 7
+SENT: I would transfer chicken to a bowl with a slotted spoon , leaving accumulated juices in skillet .
+PREDID: 387
+PRED: transfer
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a bowl with a slotted spoon
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl with a slotted spoon
+   OARG: leaving accumulated juices in skillet
+      NON-INGREDIENT SPAN: leaving accumulated juices in skillet
+
+
+SENTID: 8
+SENT: I would whisk whipping cream into pan juices and cook until cream has started to thicken , about 5 minutes .
+PREDID: 461
+PRED: whisk
+   DOBJ: whipping cream
+      INGREDIENT SPAN: whipping cream
+         INGREDIENTS: heavy whipping cream
+   PARG: pan juices
+     PREP: into
+      NON-INGREDIENT SPAN: pan juices
+
+PREDID: 495
+PRED: cook
+   DOBJ: NULL
+   PARG: cream has started to thicken , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: cream has started to thicken 
+
+
+SENTID: 9
+SENT: I would stir chicken back into skillet and reduce heat to low .
+PREDID: 543
+PRED: stir
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet
+     PREP: into
+      NON-INGREDIENT SPAN: skillet
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+PREDID: 572
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 10
+SENT: I would simmer chicken in cream sauce until sauce is thick , 15 to 20 minutes .
+PREDID: 588
+PRED: simmer
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: cream sauce until sauce is thick , 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: cream sauce until sauce is thick 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 11
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 645
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 12
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 687
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 13
+SENT: I would drain .
+PREDID: 788
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 14
+SENT: I would gently stir cooked noodles into skillet with chicken and cream sauce .
+PREDID: 800
+PRED: stir
+   DOBJ: cooked noodles
+      NON-INGREDIENT SPAN: cooked noodles
+   PARG: skillet with chicken, cream sauce
+     PREP: into
+      NON-INGREDIENT SPAN: skillet with chicken
+      NON-INGREDIENT SPAN:  cream sauce
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

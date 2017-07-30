@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would place the rice and water in a saucepan and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: the rice, water in a saucepan
+      INGREDIENT SPAN:  water in a saucepan
+         INGREDIENTS: sliced water chestnuts
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: brown rice
+
+PREDID: 34
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would reduce heat to low , cover , and simmer until water is absorbed , about 45 minutes .
+PREDID: 47
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 72
+PRED: simmer
+   DOBJ: NULL
+   PARG: water is absorbed , about 45 minutes
+     PREP: until
+      INGREDIENT SPAN: water is absorbed 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  about 45 minutes
+
+
+SENTID: 2
+SENT: I would set aside to cool .
+PREDID: 114
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: To make the dressing , whisk together the oil , lemon juice , soy sauce , the ginger , and teriyaki sauce in a small bowl .
+
+SENTID: 4
+SENT: I would season with salt and pepper .
+PREDID: 223
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: diced red bell pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt black pepper taste
+
+
+SENTID: 5
+SENT: In a large bowl , I would mix together the cooked rice and chicken .
+PREDID: 260
+PRED: mix
+   DOBJ: the cooked rice, chicken
+      INGREDIENT SPAN: the cooked rice
+         INGREDIENTS: chopped cooked chicken breast meat
+      NON-INGREDIENT SPAN:  chicken
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would stir in celery , water chestnuts , the mushrooms , green onion , and red pepper .
+PREDID: 295
+PRED: stir
+   DOBJ: NULL
+   PARG: celery , water chestnuts , the mushrooms , green onion , red pepper
+     PREP: in
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: diced green onion
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced fresh mushrooms
+      NON-INGREDIENT SPAN:  red pepper
+      NON-INGREDIENT SPAN:  water chestnuts 
+
+
+SENTID: 7
+SENT: I would mix with the dressing to coat .
+PREDID: 357
+PRED: mix
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 8
+SENT: I would cover and refrigerate 8 hours or overnight .
+PREDID: 382
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 8 hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours or overnight
+
+
+SENTID: 9
+SENT: I would toss gently before serving .
+PREDID: 419
+PRED: toss
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

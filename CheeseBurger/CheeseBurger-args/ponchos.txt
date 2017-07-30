@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine ground beef and onion in a large skillet over medium-high heat .
+PREDID: 40
+PRED: combine
+   DOBJ: ground beef, onion in a large skillet over medium-high heat
+      INGREDIENT SPAN:  onion in a large skillet over medium-high heat
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 2
+SENT: I would cook and stir until meat is well browned and onion is soft .
+PREDID: 100
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: meat is well browned
+     PREP: until
+      NON-INGREDIENT SPAN: meat is well browned
+   OARG: onion is soft
+      NON-INGREDIENT SPAN: onion is soft
+
+
+SENTID: 3
+SENT: I would drain grease .
+PREDID: 148
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 4
+SENT: I would cut each French roll into quarters .
+PREDID: 160
+PRED: cut
+   DOBJ: each French roll
+      INGREDIENT SPAN: each French roll
+         INGREDIENTS: inch French sandwich rolls
+   PARG: quarters
+     PREP: into
+      NON-INGREDIENT SPAN: quarters
+
+
+SENTID: 5
+SENT: I would spread the processed cheese sauce on cut sides of each piece ;
+PREDID: 190
+PRED: spread
+   DOBJ: the processed cheese sauce on cut sides of each piece
+      INGREDIENT SPAN: the processed cheese sauce on cut sides of each piece
+         INGREDIENTS: ounce jar processed cheese sauce such Cheez Whiz
+
+
+SENTID: 6
+SENT: I would place on a baking sheet .
+PREDID: 241
+PRED: place
+   DOBJ: NULL
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 7
+SENT: I would evenly spoon the cooked beef onto the cheese topped rolls .
+PREDID: 267
+PRED: spoon
+   DOBJ: the cooked beef
+      NON-INGREDIENT SPAN: the cooked beef
+   PARG: the cheese topped rolls
+     PREP: onto
+      INGREDIENT SPAN: the cheese topped rolls
+         INGREDIENTS: ounce jar processed cheese sauce such Cheez Whiz
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 8
+SENT: I would top each roll with a dab of ketchup .
+PREDID: 310
+PRED: top
+   DOBJ: each roll
+      NON-INGREDIENT SPAN: each roll
+   PARG: a dab of ketchup
+     PREP: with
+      INGREDIENT SPAN: a dab of ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 9
+SENT: I would bake in preheated oven until rolls are crisp and filling is hot , about 20 minutes .
+

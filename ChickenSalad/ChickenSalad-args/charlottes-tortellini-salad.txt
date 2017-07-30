@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would cook pasta in a large pot of boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of boiling salted water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling salted water until al dente
+
+
+SENTID: 1
+SENT: I would drain and cool under cold water .
+PREDID: 53
+PRED: drain and cool
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 2
+SENT: I would refrigerate until chilled .
+PREDID: 80
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 3
+SENT: I would prepare the dressing in a small bowl by whisking together the olive oil , lemon zest , lemon juice , the walnuts , and honey .
+PREDID: 104
+PRED: prepare
+   DOBJ: the dressing in a small bowl
+      NON-INGREDIENT SPAN: the dressing in a small bowl
+   PARG: whisking together the olive oil , lemon zest , lemon juice , the walnuts , honey
+     PREP: by
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: ground walnuts
+      INGREDIENT SPAN: whisking together the olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  lemon zest 
+
+
+SENTID: 4
+SENT: I would refrigerate until chilled .
+PREDID: 202
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 5
+SENT: In a salad bowl , I would combine pasta , the peppers , red onion , the olives , and chicken .
+PREDID: 239
+PRED: combine
+   DOBJ: pasta , the peppers , red onion , the olives , chicken
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: small red onion julienned
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: boneless chicken breast half cooked sliced thin strips
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the peppers 
+         INGREDIENTS: red bell pepper julienned
+      NON-INGREDIENT SPAN: pasta 
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 6
+SENT: I would add lemon dressing and feta cheese , toss and serve .
+PREDID: 287
+PRED: add
+   DOBJ: lemon dressing, feta cheese
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: crumbled feta cheese
+      NON-INGREDIENT SPAN: lemon dressing
+
+

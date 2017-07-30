@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat grill for medium heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: grill for medium heat, lightly oil
+      INGREDIENT SPAN:  lightly 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN:  lightly oil
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN: grill for medium heat
+   OARG: the grate
+      NON-INGREDIENT SPAN: the grate
+
+
+SENTID: 1
+SENT: I would season chicken breasts with salt and black pepper .
+PREDID: 47
+PRED: season
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: garlic salt taste
+
+
+SENTID: 2
+SENT: I would cook chicken breasts on the preheated grill until no longer pink in the center and the juices run clear , about 30 minutes .
+PREDID: 90
+PRED: cook
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: no longer pink in the center, the juices run clear , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN:  the juices run clear 
+
+
+SENTID: 3
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 4
+SENT: I would cut chicken into cubes .
+PREDID: 191
+PRED: cut
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: cubes
+     PREP: into
+      NON-INGREDIENT SPAN: cubes
+
+
+SENTID: 5
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 211
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 253
+PRED: cook
+   DOBJ: the rotini
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: ounce package rotini pasta
+   PARG: a boil until tender yet firm to the bite , about 8 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 315
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would season pasta with garlic salt .
+PREDID: 321
+PRED: season
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: garlic salt
+     PREP: with
+      NON-INGREDIENT SPAN: garlic salt
+
+
+SENTID: 9
+SENT: I would whisk vegetable oil , lemon juice , the basil , and Parmesan cheese together in a large bowl .
+PREDID: 347
+PRED: whisk
+   DOBJ: vegetable oil , lemon juice , the basil , Parmesan cheese
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: fresh basil chopped
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese taste
+      NON-INGREDIENT SPAN: vegetable oil 
+      NON-INGREDIENT SPAN:  lemon juice 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would add pasta , the chicken , and spinach leaves .
+PREDID: 420
+PRED: add
+   DOBJ: pasta , the chicken , spinach leaves
+      INGREDIENT SPAN:  spinach leaves
+         INGREDIENTS: ounce package baby spinach leaves
+      NON-INGREDIENT SPAN: pasta 
+      NON-INGREDIENT SPAN:  the chicken 
+
+
+SENTID: 11
+SENT: I would toss to coat .
+PREDID: 454
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 12
+SENT: I would cover and chill for 2 hours before serving .
+PREDID: 465
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

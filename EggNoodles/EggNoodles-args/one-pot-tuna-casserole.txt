@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook pasta in boiling water until al dente , adding peas for the final 3 minutes of cooking ;
+PREDID: 42
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: boiling water until al dente , adding peas for the final 3 minutes of cooking
+     PREP: in
+      INGREDIENT SPAN:  adding peas for the final 3 minutes of cooking
+         INGREDIENTS: ounce package frozen green peas thawed
+      NON-INGREDIENT SPAN: boiling water until al dente 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 117
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would melt the butter in the same pot over medium heat .
+PREDID: 123
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: the same pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: the same pot over medium heat
+
+
+SENTID: 4
+SENT: I would add the mushroom soup , the tuna , the milk , and Cheddar cheese .
+PREDID: 163
+PRED: add
+   DOBJ: the mushroom soup , the tuna , the milk , Cheddar cheese
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN: the mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 5
+SENT: I would stir until cheese is melted , and the mixture is smooth .
+PREDID: 209
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+   OARG: the mixture is smooth
+      NON-INGREDIENT SPAN: the mixture is smooth
+
+
+SENTID: 6
+SENT: I would stir in the pasta and peas until evenly coated .
+PREDID: 255
+PRED: stir
+   DOBJ: NULL
+   PARG: the pasta, peas
+     PREP: in
+      INGREDIENT SPAN:  peas
+         INGREDIENTS: ounce package frozen green peas thawed
+      NON-INGREDIENT SPAN: the pasta
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+

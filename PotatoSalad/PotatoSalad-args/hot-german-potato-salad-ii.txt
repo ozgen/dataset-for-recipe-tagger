@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would place bacon and onion in a large , deep skillet .
+PREDID: 110
+PRED: place
+   DOBJ: bacon, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon cubed
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 4
+SENT: I would cook over medium heat until bacon is evenly brown .
+PREDID: 149
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: bacon is evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: bacon is evenly brown
+
+
+SENTID: 5
+SENT: I would drain excess grease from skillet .
+PREDID: 191
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 6
+SENT: I would add the sugar and vinegar to the bacon and onion mixture and bring to a boil .
+PREDID: 220
+PRED: add
+   DOBJ: the sugar, vinegar
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+   PARG: the bacon, onion mixture
+     PREP: to
+      NON-INGREDIENT SPAN:  onion mixture
+      NON-INGREDIENT SPAN: the bacon
+
+PREDID: 269
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would pour the mixture over the potatoes and stir .
+PREDID: 282
+PRED: pour
+   DOBJ: the mixture over the potatoes
+      NON-INGREDIENT SPAN: the mixture over the potatoes
+
+

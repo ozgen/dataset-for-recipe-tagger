@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would bring a pot of water to a boil , reduce heat , and simmer ;
+PREDID: 0
+PRED: bring
+   DOBJ: a pot of water
+      NON-INGREDIENT SPAN: a pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 24
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 1
+SENT: I would add rosemary .
+PREDID: 45
+PRED: add
+   DOBJ: NULL
+   OARG: rosemary
+      INGREDIENT SPAN: rosemary
+         INGREDIENTS: chopped fresh rosemary
+
+
+SENTID: 2
+SENT: I would poach chicken in the hot water until no longer pink in the center , 5 to 10 minutes .
+PREDID: 57
+PRED: poach
+   DOBJ: chicken in the hot water
+      INGREDIENT SPAN: chicken in the hot water
+         INGREDIENTS: skinless boneless chicken thighs
+   PARG: no longer pink in the center , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 3
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 4
+SENT: I would remove chicken with a slotted spoon and allow to cool .
+PREDID: 124
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+PREDID: 157
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: I would discard broth .
+PREDID: 169
+PRED: discard
+   DOBJ: broth
+      NON-INGREDIENT SPAN: broth
+
+
+SENTID: 6
+SENT: I would chop chicken into chunks .
+PREDID: 182
+PRED: chop
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: chunks
+     PREP: into
+      NON-INGREDIENT SPAN: chunks
+
+
+SENTID: 7
+SENT: I would mix chicken , the apple , the celery , red onion , the mayonnaise , the chutney , lime juice , curry powder , the salt , and black pepper in a bowl .
+PREDID: 204
+PRED: mix
+   DOBJ: chicken , the apple , the celery , red onion , the mayonnaise , the chutney , lime juice , curry powder , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: hot curry powder
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: apple chopped
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: Major Grey mango chutney
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  black pepper in a bowl
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 8
+SENT: I would chill in refrigerator to allow flavors to blend , at least 2 hours .
+PREDID: 305
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator to allow flavors to blend , at least 2 hours
+     PREP: in
+      NON-INGREDIENT SPAN:  at least 2 hours
+      NON-INGREDIENT SPAN: refrigerator to allow flavors to blend 
+
+
+SENTID: 9
+SENT: I would serve cold or at room temperature .
+PREDID: 360
+PRED: serve
+   DOBJ: NULL
+   OARG: cold or at room temperature
+      NON-INGREDIENT SPAN: cold or at room temperature
+
+

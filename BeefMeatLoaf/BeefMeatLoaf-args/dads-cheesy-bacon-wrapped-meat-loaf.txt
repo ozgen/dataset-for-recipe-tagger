@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would combine ground beef , the eggs and 2 tablespoons of ketchup in a large bowl .
+PREDID: 40
+PRED: combine
+   DOBJ: ground beef , the eggs, 2 tablespoons of ketchup
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  2 tablespoons of ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: Mix well , I would 
+
+SENTID: 3
+SENT: I would add bread crumbs , Parmesan cheese , garlic powder , the salt , the oregano , the basil , the pepper , and onion .
+PREDID: 99
+PRED: add
+   DOBJ: bread crumbs , Parmesan cheese , garlic powder , the salt , the oregano , the basil , the pepper , onion
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: Parmesan cheese
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small yellow onion diced
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 4
+SENT: I would set mixture aside .
+PREDID: 177
+PRED: set
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would line the bottom of a 9x13 inch pan with bacon , widthwise .
+PREDID: 193
+PRED: line pan
+   DOBJ: the bottom of a 9x13 inch
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch
+   PARG: bacon
+     PREP: with
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+
+
+SENTID: 6
+SENT: I would place half of the meat mixture across the top of the bacon .
+PREDID: 240
+PRED: place
+   DOBJ: half of the meat mixture
+      NON-INGREDIENT SPAN: half of the meat mixture
+   PARG: the top of the bacon
+     PREP: across
+      NON-INGREDIENT SPAN: the top of the bacon
+
+
+SENTID: 7
+SENT: I would lay 3 of the 4 pieces of Cheddar cheese across the center of the meat , lengthwise .
+PREDID: 288
+PRED: lay
+   DOBJ: 3 of the 4 pieces of Cheddar cheese
+      INGREDIENT SPAN: 3 of the 4 pieces of Cheddar cheese
+         INGREDIENTS: sharp Cheddar cheese cut quarters
+   PARG: the center of the meat
+     PREP: across
+      NON-INGREDIENT SPAN: the center of the meat
+   OARG: lengthwise
+      NON-INGREDIENT SPAN: lengthwise
+
+
+SENTID: 8
+SENT: I would cover the cheese with the second half of the meat mixture and mold the meat into a loaf shape .
+PREDID: 355
+PRED: cover
+   DOBJ: the cheese
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: sharp Cheddar cheese cut quarters
+   PARG: the second half of the meat mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the second half of the meat mixture
+
+PREDID: 405
+PRED: mold
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+
+SENTID: 9
+SENT: I would pull the ends of the bacon up and around the loaf .
+PREDID: 431
+PRED: pull
+   DOBJ: the ends of the bacon up, around the loaf
+      NON-INGREDIENT SPAN: the ends of the bacon up
+      NON-INGREDIENT SPAN:  around the loaf
+
+
+SENTID: 10
+SENT: I would spread 1 tablespoon of ketchup thinly over the loaf .
+PREDID: 471
+PRED: spread
+   DOBJ: 1 tablespoon of ketchup thinly over the loaf
+      INGREDIENT SPAN: 1 tablespoon of ketchup thinly over the loaf
+         INGREDIENTS: ketchup
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until no longer pink in the center , about 60 minutes .
+PREDID: 515
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 60 minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 12
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 13
+SENT: I would remove from the oven .
+PREDID: 581
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+
+SENTID: 14
+SENT: I would cut the final piece of Cheddar cheese into slices and place on top of the meat loaf .
+PREDID: 599
+PRED: cut
+   DOBJ: the final piece of Cheddar cheese
+      NON-INGREDIENT SPAN: the final piece of Cheddar cheese
+   PARG: slices, place
+     PREP: into
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: slices
+   PARG: top of the meat loaf
+     PREP: on
+      NON-INGREDIENT SPAN: top of the meat loaf
+
+
+SENTID: 15
+SENT: I would return the meat loaf to the oven and continue the baking until the cheese is melted , about 5 minutes .
+PREDID: 667
+PRED: return
+   DOBJ: the meat loaf
+      NON-INGREDIENT SPAN: the meat loaf
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 696
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: the cheese is melted , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 16
+SENT: I would remove from the oven and allow the meat loaf to rest for 5 minutes before serving .
+PREDID: 747
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 767
+PRED: allow
+   DOBJ: the meat loaf
+      NON-INGREDIENT SPAN: the meat loaf
+   OARG: to rest for 5 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 5 minutes before serving
+
+

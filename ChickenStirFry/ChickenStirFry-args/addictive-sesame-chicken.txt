@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would combine the 2 tablespoons soy sauce , the dry sherry , dash of sesame oil , the flour , 2 tablespoons cornstarch , 2 tablespoons water , baking powder , baking soda , and canola oil in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the 2 tablespoons soy sauce , the dry sherry , dash of sesame oil , the flour , 2 tablespoons cornstarch , 2 tablespoons water , baking powder , baking soda , canola oil
+      INGREDIENT SPAN:  canola oil
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  dash of sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  2 tablespoons water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the dry sherry 
+         INGREDIENTS: dry sherry
+      INGREDIENT SPAN: the 2 tablespoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  2 tablespoons cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix well ;
+PREDID: 156
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would stir in the chicken .
+PREDID: 164
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken
+     PREP: in
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: chicken broth
+
+
+SENTID: 3
+SENT: I would cover and refrigerate for 20 minutes .
+PREDID: 181
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 4
+SENT: I would heat oil in a deep-fryer or large saucepan to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 213
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: sesame oil
+   PARG: a deep-fryer or large saucepan to 375 degrees f -lrb- 190 degrees c
+     PREP: in
+      NON-INGREDIENT SPAN: a deep-fryer or large saucepan to 375 degrees f -lrb- 190 degrees c
+
+
+SENTID: 5
+SENT: I would combine the 1/2 cup water , chicken broth , the vinegar , 1/4 cup cornstarch , the sugar , 2 tablespoons soy sauce , 2 tablespoons sesame oil , red chili paste , and garlic in a small saucepan .
+PREDID: 275
+PRED: combine
+   DOBJ: the 1/2 cup water , chicken broth , the vinegar , 1/4 cup cornstarch , the sugar , 2 tablespoons soy sauce , 2 tablespoons sesame oil , red chili paste , garlic in a small saucepan
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: ounce skinless boneless chicken breast halves cut 1inch cubes
+      INGREDIENT SPAN:  garlic in a small saucepan
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  1/4 cup cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: the 1/2 cup water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  2 tablespoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  red chili paste 
+         INGREDIENTS: red chile paste such Thai Kitchen
+      INGREDIENT SPAN:  2 tablespoons sesame oil 
+         INGREDIENTS: vegetable oil frying
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 6
+SENT: I would bring to a boil , stirring constantly .
+PREDID: 424
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 7
+SENT: I would turn heat to low and keep warm , stirring occasionally .
+PREDID: 456
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 472
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 8
+SENT: I would fry the marinated chicken in batches until cooked through and golden brown , 3 to 5 minutes .
+PREDID: 502
+PRED: fry
+   DOBJ: the marinated chicken
+      NON-INGREDIENT SPAN: the marinated chicken
+   PARG: batches until cooked through, golden brown , 3 to 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+      NON-INGREDIENT SPAN: batches until cooked through
+
+
+SENTID: 9
+SENT: I would drain on paper towels .
+PREDID: 578
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 10
+SENT: I would transfer the chicken to a large platter , top with sauce , and sprinkle with sesame seeds .
+PREDID: 597
+PRED: transfer
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: a large platter , top with sauce
+     PREP: to
+      INGREDIENT SPAN:  top with sauce
+         INGREDIENTS: soy sauce
+      NON-INGREDIENT SPAN: a large platter 
+
+PREDID: 647
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sesame seeds
+     PREP: with
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: toasted sesame seeds
+
+

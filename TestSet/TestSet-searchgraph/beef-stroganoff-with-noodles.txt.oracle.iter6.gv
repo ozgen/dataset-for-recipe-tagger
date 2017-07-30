@@ -1,0 +1,127 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="brown
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="saute
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="return
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir in
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="bring
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cover
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="reduce
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="simmer
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="bring
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="add
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="cook
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="drain
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="melt
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="saute
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="add
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="bring
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="mix
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="stir
+19", shape=oval, style=filled, fillcolor=azure]
+E20[label="stir in
+20", shape=oval, style=filled, fillcolor=azure]
+E21[label="serve
+21", shape=oval, style=filled, fillcolor=azure]
+D8[label="DOBJ: the heat", shape=box, style=filled, fillcolor=white]
+D8 -> E8
+O8_0[label="OTHER: to medium", shape=box, style=filled, fillcolor=white]
+O8_0 -> E8
+D3[label="DOBJ: strips celery diced, bacon inch, onion", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCATION:in the same pan", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+O3_0[label="OTHER: until onions are translucent, bacon is fully cooked", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+D0[label="DOBJ: vegetable oil", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large dutch oven", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over high heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D14[label="DOBJ: butter", shape=box, style=filled, fillcolor=peachpuff]
+D14 -> E14
+P14_0[label="LOCATION:in a skillet", shape=box, style=filled, fillcolor=white]
+P14_0 -> E14
+O14_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O14_0 -> E14
+D1_ing[label="DOBJ: beef stew meat inch", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCATION:from pan", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E4 [label="the browned stew meat"]
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: seasoning seasoning salt", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+P5_1_ing[label="COOBJECT: worcestershire Worcestershire sauce", shape=box, style=filled, fillcolor=peachpuff]
+P5_1_ing -> E5
+P5_2_ing[label="COOBJECT: beef beef broth", shape=box, style=filled, fillcolor=peachpuff]
+P5_2_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E8 -> E9 [label="IMPLICIT PREP"]
+O9_0_0[label="OTHER: for 1 to 1 1/2 hours or until meat is fork tender", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+D10_ing[label="DOBJ: cold water", shape=box, style=filled, fillcolor=peachpuff]
+D10_ing -> E10
+E9 -> E10 [label="IMPLICIT PREP"]
+O10_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+D11_ing[label="DOBJ: package dry egg noodles", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E10 -> E11 [label="IMPLICIT PREP"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+O12_0_0[label="OTHER: for 8 to 10 minutes or until al dente", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+D15_ing[label="DOBJ: sliced mushrooms", shape=box, style=filled, fillcolor=peachpuff]
+D15_ing -> E15
+E14 -> E15 [label="IMPLICIT PREP"]
+O15_0_0[label="OTHER: for 3 to 4 minutes", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+E15 -> E16 [label="the mushrooms"]
+E7 -> E16 [label="COOBJECT:to the meat mixture"]
+E16 -> E17 [label="the meat mixture"]
+O17_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O17_0_0 -> E17
+D18_ing[label="DOBJ: cornstarch", shape=box, style=filled, fillcolor=peachpuff]
+D18_ing -> E18
+E13 -> E18 [label="the water"]
+E18 -> E19 [label="IMPLICIT DOBJ"]
+E17 -> E19 [label="COOBJECT:into the meat mixture"]
+E19 -> E20 [label="IMPLICIT DOBJ"]
+P20_0_ing[label="COOBJECT: sour container sour cream", shape=box, style=filled, fillcolor=peachpuff]
+P20_0_ing -> E20
+O20_0_0[label="OTHER: until creamy", shape=box, style=filled, fillcolor=white]
+O20_0_0 -> E20
+E20 -> E21 [label="IMPLICIT DOBJ"]
+P21_0_0[label="COOBJECT:over the egg noodles", shape=box, style=filled, fillcolor=white]
+P21_0_0 -> E21
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E21 -> EOR
+}

@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would place chicken in a saucepan ;
+PREDID: 0
+PRED: place
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would add water to cover .
+PREDID: 24
+PRED: add
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 2
+SENT: I would bring to a boil over high heat ,
+PREDID: 40
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: I would reduce heat to medium-low , cover , and simmer until chicken is tender and no longer pink in the center , about 15 minutes .
+PREDID: 65
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 97
+PRED: simmer
+   DOBJ: NULL
+   PARG: chicken is tender, no longer pink in the center , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is tender
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN:  no longer pink in the center 
+
+
+SENTID: 4
+SENT: I would remove chicken , let cool , and shred or cut into bite size pieces .
+PREDID: 165
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 179
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+PREDID: 190
+PRED: shred or cut
+   DOBJ: NULL
+   PARG: bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+
+
+SENTID: 5
+SENT: I would combine the chicken , red onion , the cucumber , the garlic , and ranch dressing in a large bowl .
+PREDID: 219
+PRED: combine
+   DOBJ: the chicken , red onion , the cucumber , the garlic , ranch
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: large red onion chopped
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber peeled seeded diced
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: ranch dressing
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN: the chicken 
+   OARG: dressing in a large bowl
+      NON-INGREDIENT SPAN: dressing in a large bowl
+
+
+SENTID: 6
+SENT: I would season with pepper to taste .
+PREDID: 291
+PRED: season
+   DOBJ: NULL
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

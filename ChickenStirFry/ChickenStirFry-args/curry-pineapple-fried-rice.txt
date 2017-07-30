@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would bring the rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: the rice, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: uncooked white rice
+   PARG: a boil in a saucepan over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan over high heat
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , cover , and simmer until the rice is tender , and the liquid has been absorbed , 20 to 25 minutes .
+PREDID: 51
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 83
+PRED: simmer
+   DOBJ: NULL
+   PARG: the rice is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is tender
+
+PREDID: 129
+PRED: been has absorbed
+   DOBJ: NULL
+   PARG: 20 to 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 25 minutes
+
+
+SENTID: 2
+SENT: I would set the cooked rice aside .
+PREDID: 152
+PRED: set
+   DOBJ: the cooked rice
+      NON-INGREDIENT SPAN: the cooked rice
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would mix together curry powder , fish sauce , and pineapple juice in a small bowl .
+PREDID: 174
+PRED: mix
+   DOBJ: curry powder , fish sauce , pineapple juice in a small bowl
+      INGREDIENT SPAN: curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  pineapple juice in a small bowl
+         INGREDIENTS: pineapple juice
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: Asian fish sauce
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would heat the vegetable oil in a large skillet or wok over medium-high heat until the oil shimmers , and cook and stir the chicken and onion until the chicken is no longer pink and the onions are translucent , about 5 minutes .
+PREDID: 237
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   OARG: the onions are translucent , about 5 minutes
+      INGREDIENT SPAN: the onions are translucent 
+         INGREDIENTS: onion sliced
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+PREDID: 273
+PRED: wok
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: the oil shimmers
+     PREP: until
+      NON-INGREDIENT SPAN: the oil shimmers
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 318
+PRED: cook and stir
+   DOBJ: the chicken, onion
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: boneless chicken meat cubed
+      NON-INGREDIENT SPAN:  onion
+   PARG: the chicken is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is no longer pink
+
+
+SENTID: 5
+SENT: I would stir in the cooked rice , pineapple chunks , and curry mixture , and cook and stir until the fried rice is hot , 5 to 10 minutes .
+PREDID: 417
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked rice , pineapple chunks
+     PREP: in
+      INGREDIENT SPAN:  pineapple chunks
+         INGREDIENTS: ounce pineapple chunks drained
+      NON-INGREDIENT SPAN: the cooked rice 
+
+PREDID: 456
+PRED: curry
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 472
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the fried rice is hot , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the fried rice is hot 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+

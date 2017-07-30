@@ -1,0 +1,200 @@
+SENTID: 0
+SENT: I would preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: an oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a baking sheet .
+PREDID: 40
+PRED: grease
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would combine the water and butter with 1/8 teaspoon salt in a saucepan .
+PREDID: 59
+PRED: combine
+   DOBJ: the water, butter
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the water
+         INGREDIENTS: water
+   PARG: 1/8 teaspoon salt in a saucepan
+     PREP: with
+      INGREDIENT SPAN: 1/8 teaspoon salt in a saucepan
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would bring to a boil over medium-high heat .
+PREDID: 114
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-high heat
+
+
+SENTID: 4
+SENT: Once boiling , I would reduce heat to medium , and pour in the flour all at once .
+PREDID: 158
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: boiling
+     PREP: once
+      NON-INGREDIENT SPAN: boiling
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 180
+PRED: pour
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+   PARG: at once
+     PREP: all
+      NON-INGREDIENT SPAN: at once
+
+
+SENTID: 5
+SENT: I would stir vigorously until the mixture forms a semi-translucent ball .
+PREDID: 204
+PRED: stir
+   DOBJ: NULL
+   PARG: the mixture forms a semi-translucent ball
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture forms a semi-translucent ball
+   OARG: vigorously
+      NON-INGREDIENT SPAN: vigorously
+
+
+SENTID: 6
+SENT: I would remove from the heat and allow to cool for 10 minutes .
+PREDID: 260
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 280
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool for 10 minutes
+      NON-INGREDIENT SPAN: to cool for 10 minutes
+
+
+SENTID: 7
+SENT: I would mix in the eggs into the dough , one at a time , adding the next egg only after the first has been completely incorporated .
+PREDID: 304
+PRED: mix
+   DOBJ: NULL
+   PARG: the eggs
+     PREP: in
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: the dough , one at a time , adding the next egg only after the first has been completely incorporated
+     PREP: into
+      NON-INGREDIENT SPAN:  one at a time 
+      NON-INGREDIENT SPAN:  adding the next egg only after the first has been completely incorporated
+      NON-INGREDIENT SPAN: the dough 
+
+
+SENTID: 8
+SENT: I would drop the dough onto the prepared baking sheet by the heaping tablespoon .
+PREDID: 403
+PRED: drop
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: the prepared baking sheet by the heaping tablespoon
+     PREP: onto
+      NON-INGREDIENT SPAN: the prepared baking sheet by the heaping tablespoon
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until puffed and golden brown , 30 to 35 minutes .
+PREDID: 464
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until puffed, golden brown , 30 to 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until puffed
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+
+
+SENTID: 10
+SENT: The puffs should be hollow on the inside , and just browned on the bottom .
+
+SENTID: 11
+SENT: I would remove from the oven , and cool to room temperature on a wire rack .
+PREDID: 526
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 547
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+
+
+SENTID: 12
+SENT: To prepare the filling , stir together the onion , the celery , the raisins , the mustard , the mayonnaise , the yogurt , 1/2 teaspoon salt , and dill in a bowl until combined .
+
+SENTID: 13
+SENT: I would fold in the chopped chicken meat until evenly combined .
+PREDID: 706
+PRED: fold
+   DOBJ: NULL
+   PARG: the chopped chicken meat
+     PREP: in
+      INGREDIENT SPAN: the chopped chicken meat
+         INGREDIENTS: chopped cooked chicken breast
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+
+SENTID: 14
+SENT: I would cut the tops from the puffs , and spoon the chicken filling inside .
+PREDID: 753
+PRED: cut
+   DOBJ: the tops
+      NON-INGREDIENT SPAN: the tops
+   PARG: the puffs
+     PREP: from
+      NON-INGREDIENT SPAN: the puffs
+
+PREDID: 779
+PRED: spoon
+   DOBJ: the chicken filling inside
+      NON-INGREDIENT SPAN: the chicken filling inside
+
+
+SENTID: 15
+SENT: I would replace the tops before serving .
+PREDID: 808
+PRED: replace
+   DOBJ: the tops
+      NON-INGREDIENT SPAN: the tops
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

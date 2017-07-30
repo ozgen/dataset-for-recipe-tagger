@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a medium bowl , I would whisk together the rice vinegar , the oil , peanut butter , soy sauce , brown sugar , the ginger , and garlic .
+PREDID: 14
+PRED: whisk
+   DOBJ: the rice vinegar , the oil , peanut butter , soy sauce , brown sugar , the ginger , garlic
+      INGREDIENT SPAN: the rice vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  peanut butter 
+         INGREDIENTS: creamy peanut butter
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix the green cabbage , red cabbage , napa cabbage , red bell peppers , the carrots , green onions , and cilantro .
+PREDID: 109
+PRED: mix
+   DOBJ: the green cabbage , red cabbage , napa cabbage , red bell peppers , the carrots , green onions , cilantro
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  napa cabbage 
+         INGREDIENTS: sliced red cabbage
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots julienned
+      INGREDIENT SPAN:  red bell peppers 
+         INGREDIENTS: red bell peppers sliced
+      INGREDIENT SPAN: the green cabbage 
+         INGREDIENTS: sliced green cabbage
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  red cabbage 
+         INGREDIENTS: shredded napa cabbage
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would toss with the peanut butter mixture just before serving .
+PREDID: 198
+PRED: toss
+   DOBJ: NULL
+   PARG: the peanut butter mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the peanut butter mixture
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

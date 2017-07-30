@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: In a large saucepan over medium high heat , I would saute the ground beef for 5 minutes , or until browned .
+PREDID: 35
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium high heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 1
+SENT: I would stir in the onion and green bell pepper and saute for 5 more minutes .
+PREDID: 80
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion, green bell pepper
+     PREP: in
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: green bell pepper chopped
+
+PREDID: 115
+PRED: saute
+   DOBJ: NULL
+   PARG: 5 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 more minutes
+
+
+SENTID: 2
+SENT: I would season with salt and pepper to taste .
+PREDID: 136
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would next , add the beans , the mushrooms , brown sugar and chili powder to taste .
+PREDID: 172
+PRED: add
+   DOBJ: the beans , the mushrooms , brown sugar, chili powder to taste
+      INGREDIENT SPAN: the beans 
+         INGREDIENTS: ounce baked beans
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+      INGREDIENT SPAN:  chili powder to taste
+         INGREDIENTS: chili powder
+   OARG: next
+      NON-INGREDIENT SPAN: next
+
+
+SENTID: 4
+SENT: I would mix together well , reduce heat to low and let simmer for 20 minutes to 1 hour or more , depending on how much time you have and how thick you like your chili .
+PREDID: 226
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 242
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+

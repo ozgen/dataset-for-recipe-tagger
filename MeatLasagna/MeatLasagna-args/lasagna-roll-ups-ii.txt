@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would cook and stir ground beef , the onion , garlic powder , and oregano in a large skillet over medium heat until onion is tender and beef is browned , about 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef , the onion , garlic powder , oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: white onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: onion is tender, beef is browned , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  beef is browned 
+      NON-INGREDIENT SPAN: onion is tender
+
+
+SENTID: 1
+SENT: I would add tomato sauce and sugar ;
+PREDID: 130
+PRED: add
+   DOBJ: tomato sauce, sugar
+      INGREDIENT SPAN: tomato sauce
+         INGREDIENTS: ounce jar chunky tomato sauce such Ragu
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would simmer until sauce is heated through , about 10 minutes .
+PREDID: 153
+PRED: simmer
+   DOBJ: NULL
+   PARG: sauce is heated through , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: sauce is heated through 
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 200
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 to 10 minutes .
+PREDID: 242
+PRED: cook
+   DOBJ: lasagna in the boiling water
+      INGREDIENT SPAN: lasagna in the boiling water
+         INGREDIENTS: lasagna noodles
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 to 10 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 339
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 345
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 7
+SENT: I would grease a 9x13-inch casserole dish .
+PREDID: 383
+PRED: grease
+   DOBJ: a 9x13-inch casserole dish
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+
+
+SENTID: 8
+SENT: I would mix ricotta cheese , the egg , the parsley , and 3/4 cup Parmesan cheese together in a bowl .
+PREDID: 413
+PRED: mix
+   DOBJ: ricotta cheese , the egg , the parsley , 3/4 cup Parmesan cheese
+      INGREDIENT SPAN:  3/4 cup Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: ricotta cheese 
+         INGREDIENTS: ounce container ricotta cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would place a lasagna noodle on a work surface .
+PREDID: 481
+PRED: place
+   DOBJ: a lasagna noodle
+      NON-INGREDIENT SPAN: a lasagna noodle
+   PARG: a work surface
+     PREP: on
+      NON-INGREDIENT SPAN: a work surface
+
+
+SENTID: 10
+SENT: I would spoon one layer of ricotta cheese mixture , one layer meat sauce , and one layer mozzarella cheese atop the lasagna noodle ;
+PREDID: 515
+PRED: spoon
+   DOBJ: one layer of ricotta cheese mixture , one layer meat sauce , one layer mozzarella cheese
+      INGREDIENT SPAN:  one layer mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: one layer of ricotta cheese mixture 
+         INGREDIENTS: ounce package shredded mozzarella cheese needed
+      NON-INGREDIENT SPAN:  one layer meat sauce 
+   PARG: the lasagna noodle
+     PREP: atop
+      NON-INGREDIENT SPAN: the lasagna noodle
+
+
+SENTID: 11
+SENT: I would top with another lasagna noodle .
+PREDID: 617
+PRED: top
+   DOBJ: NULL
+   PARG: another lasagna noodle
+     PREP: with
+      NON-INGREDIENT SPAN: another lasagna noodle
+
+
+SENTID: 12
+SENT: I would roll up the stuffed lasagna noodles in the jelly-roll style ;
+PREDID: 645
+PRED: roll
+   DOBJ: the stuffed lasagna noodles in the jelly-roll style
+      NON-INGREDIENT SPAN: the stuffed lasagna noodles in the jelly-roll style
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 13
+SENT: I would place in the prepared casserole dish .
+PREDID: 696
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 14
+SENT: I would repeat with remaining lasagna noodles , ricotta cheese mixture , meat sauce , and mozzarella cheese .
+PREDID: 728
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining lasagna noodles , ricotta cheese mixture , meat sauce , mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  ricotta cheese mixture 
+         INGREDIENTS: ounce package shredded mozzarella cheese needed
+      NON-INGREDIENT SPAN:  meat sauce 
+      NON-INGREDIENT SPAN: remaining lasagna noodles 
+
+
+SENTID: 15
+SENT: I would spread a spoonful of meat sauce atop each lasagna roll ;
+PREDID: 813
+PRED: spread
+   DOBJ: a spoonful of meat sauce
+      NON-INGREDIENT SPAN: a spoonful of meat sauce
+   PARG: each lasagna roll
+     PREP: atop
+      NON-INGREDIENT SPAN: each lasagna roll
+
+
+SENTID: 16
+SENT: I would top with remaining mozzarella cheese and 1/4 cup Parmesan cheese .
+PREDID: 859
+PRED: top
+   DOBJ: NULL
+   PARG: remaining mozzarella cheese, 1/4 cup parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining mozzarella cheese
+      NON-INGREDIENT SPAN:  1/4 cup parmesan cheese
+
+
+SENTID: 17
+SENT: I would bake in the preheated oven until cheese is melted and bubbling , 30 to 35 minutes .
+PREDID: 915
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted, bubbling , 30 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+      NON-INGREDIENT SPAN:  bubbling 
+
+

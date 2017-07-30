@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , I would cook the sausage until evenly brown .
+PREDID: 63
+PRED: cook
+   DOBJ: the sausage
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: spicy pork sausage
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 2
+SENT: I would drain , and mix in the spinach and Alfredo sauce .
+PREDID: 94
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 103
+PRED: mix
+   DOBJ: NULL
+   PARG: the spinach, alfredo sauce
+     PREP: in
+      INGREDIENT SPAN:  alfredo sauce
+         INGREDIENTS: ounce jar Alfredo sauce
+      INGREDIENT SPAN: the spinach
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained
+
+
+SENTID: 3
+SENT: I would season with pepper .
+PREDID: 134
+PRED: season
+   DOBJ: NULL
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 4
+SENT: I would continue the cooking until spinach and sauce are heated through .
+PREDID: 151
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: spinach, sauce are heated through
+     PREP: until
+      NON-INGREDIENT SPAN: spinach
+      NON-INGREDIENT SPAN:  sauce are heated through
+
+
+SENTID: 5
+SENT: In a bowl , I would mix the Cheddar cheese , ricotta cheese , Parmesan cheese , and egg .
+PREDID: 211
+PRED: mix
+   DOBJ: the Cheddar cheese , ricotta cheese , Parmesan cheese , egg
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: the Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: ounce container ricotta cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: In a 9x13 inch baking dish , layer 1/3 of the sausage mixture , 1/3 of the noodles , and 1/3 of the cheese mixture .
+PREDID: 285
+PRED: baking
+   DOBJ: dish , layer 1/3 of the sausage mixture , 1/3 of the noodles , 1/3 of the cheese mixture
+      INGREDIENT SPAN:  1/3 of the cheese mixture
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  1/3 of the noodles 
+         INGREDIENTS: ounce package noboil lasagna noodles
+      NON-INGREDIENT SPAN:  layer 1/3 of the sausage mixture 
+      NON-INGREDIENT SPAN: dish 
+   PARG: a 9x13 inch
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch
+
+
+SENTID: 7
+SENT: I would repeat layers twice , and top with mozzarella cheese .
+PREDID: 358
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice
+      NON-INGREDIENT SPAN: twice
+
+PREDID: 379
+PRED: top
+   DOBJ: NULL
+   PARG: mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 8
+SENT: I would cover , and bake 45 minutes in the preheated oven .
+PREDID: 403
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 412
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 9
+SENT: I would let stand 15 minutes before serving .
+PREDID: 444
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 15 minutes
+      NON-INGREDIENT SPAN: 15 minutes
+
+

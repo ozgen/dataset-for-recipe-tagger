@@ -1,0 +1,274 @@
+SENTID: 0
+SENT: I would cook and stir the ground beef and Italian sausage in a large pot or Dutch oven over medium-high heat until lightly browned .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: the ground beef, Italian sausage in a large pot or Dutch oven
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  Italian sausage in a large pot or Dutch oven
+         INGREDIENTS: bulk hot Italian sausage
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+
+
+SENTID: 1
+SENT: I would drain any excess grease ,
+PREDID: 102
+PRED: drain
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 2
+SENT: I would stir in the onion , the mushrooms , and garlic .
+PREDID: 123
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the mushrooms , garlic
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: pint sliced fresh mushrooms
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 3
+SENT: I would cook and stir until the onion has softened and turned translucent , about 5 minutes more .
+PREDID: 158
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion has softened, turned translucent , about 5 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has softened
+      NON-INGREDIENT SPAN:  turned translucent 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+
+SENTID: 4
+SENT: I would stir in the chipotle chile , tomato paste , and stewed tomatoes .
+PREDID: 232
+PRED: stir
+   DOBJ: NULL
+   PARG: the chipotle chile , tomato paste , stewed tomatoes
+     PREP: in
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  stewed tomatoes
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN: the chipotle chile 
+         INGREDIENTS: chipotle chile adobo sauce chopped
+
+
+SENTID: 5
+SENT: I would bring to a simmer ,
+PREDID: 285
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 6
+SENT: I would reduce heat to medium-low , and simmer for 15 minutes .
+PREDID: 300
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 326
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 7
+SENT: I would season to taste with salt and pepper ,
+PREDID: 345
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: sea salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would stir in the basil and oregano ;
+PREDID: 376
+PRED: stir
+   DOBJ: NULL
+   PARG: the basil, oregano
+     PREP: in
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN: the basil
+         INGREDIENTS: chopped fresh basil
+
+
+SENTID: 9
+SENT: I would simmer 5 minutes more
+PREDID: 401
+PRED: simmer
+   DOBJ: NULL
+   OARG: 5 minutes more
+      NON-INGREDIENT SPAN: 5 minutes more
+
+
+SENTID: 10
+SENT: I would remove from the heat .
+PREDID: 419
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 11
+SENT: While the sauce is simmering , I would stir together the cream cheese and chopped spinach until blended .
+PREDID: 462
+PRED: stir
+   DOBJ: the cream cheese, chopped spinach
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: ounce packages cream cheese room temperature
+      INGREDIENT SPAN:  chopped spinach
+         INGREDIENTS: frozen chopped spinach
+   PARG: the sauce is simmering
+     PREP: while
+      NON-INGREDIENT SPAN: the sauce is simmering
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would leave the spinach soggy , the water will help thin out the cream cheese to a sour cream-like consistency .
+
+SENTID: 13
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 605
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 14
+SENT: I would line the bottom of a 9x13 inch baking dish with a sheet of aluminum foil , and lightly grease .
+PREDID: 643
+PRED: line
+   DOBJ: the bottom of a 9x13 inch baking dish with a sheet of aluminum foil , lightly grease
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish with a sheet of aluminum foil 
+      NON-INGREDIENT SPAN:  lightly grease
+
+
+SENTID: 15
+SENT: I would place 3 lasagna noodles on the bottom of the pan , and spread with 1/3 of the spinach mixture .
+PREDID: 719
+PRED: place
+   DOBJ: 3 lasagna noodles
+      INGREDIENT SPAN: 3 lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: the bottom of the pan
+     PREP: on
+      NON-INGREDIENT SPAN: the bottom of the pan
+
+PREDID: 762
+PRED: spread
+   DOBJ: NULL
+   PARG: 1/3 of the spinach mixture
+     PREP: with
+      NON-INGREDIENT SPAN: 1/3 of the spinach mixture
+
+
+SENTID: 16
+SENT: I would spread 1/3 of the chipotle meat sauce over this ,
+PREDID: 795
+PRED: spread
+   DOBJ: 1/3 of the chipotle meat sauce over this
+      NON-INGREDIENT SPAN: 1/3 of the chipotle meat sauce over this
+
+
+SENTID: 17
+SENT: I would layer with 1/3 of the mozzarella and 1/3 of the zucchini .
+PREDID: 835
+PRED: layer
+   DOBJ: NULL
+   PARG: 1/3 of the mozzarella, 1/3 of the zucchini
+     PREP: with
+      INGREDIENT SPAN:  1/3 of the zucchini
+         INGREDIENTS: zucchini sliced lengthwise
+      INGREDIENT SPAN: 1/3 of the mozzarella
+         INGREDIENTS: ounce balls fresh mozzarella sliced
+
+
+SENTID: 18
+SENT: I would sprinkle with 1/3 of the Asiago cheese and 1/3 of the Parmesan cheeses .
+PREDID: 882
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/3 of the asiago cheese, 1/3 of the parmesan cheeses
+     PREP: with
+      INGREDIENT SPAN: 1/3 of the asiago cheese
+         INGREDIENTS: grated Asiago cheese
+      INGREDIENT SPAN:  1/3 of the parmesan cheeses
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 19
+SENT: I would repeat layers two more times , ending with cheeses on top .
+PREDID: 941
+PRED: repeat
+   DOBJ: layers two more times , ending with cheeses on top
+      INGREDIENT SPAN:  ending with cheeses on top
+         INGREDIENTS: grated Asiago cheese
+      NON-INGREDIENT SPAN: layers two more times 
+
+
+SENTID: 20
+SENT: I would cover the dish with aluminum foil , and bake in preheated oven for 40 minutes .
+PREDID: 989
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 1021
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 40 minutes
+
+
+SENTID: 21
+SENT: I would uncover , and continue the baking until the top is bubbly and golden brown , 15 to 20 minutes .
+PREDID: 1053
+PRED: uncover
+   DOBJ: NULL
+
+PREDID: 1064
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: the top is bubbly, golden brown , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN: the top is bubbly
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+

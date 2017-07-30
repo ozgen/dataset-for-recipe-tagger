@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would combine 1/3 bottle of balsamic vinaigrette dressing with the chicken tenders in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: 1/3 bottle of balsamic vinaigrette dressing with the chicken tenders in a bowl
+      INGREDIENT SPAN: 1/3 bottle of balsamic vinaigrette dressing with the chicken tenders in a bowl
+         INGREDIENTS: ounce bottle light balsamic vinaigrette salad dressing such
+      INGREDIENT SPAN: 1/3 of with the chicken tenders in a bowl
+         INGREDIENTS: chicken tenders
+
+
+SENTID: 1
+SENT: I would toss together sliced mushrooms with 1/3 bottle of dressing in a separate bowl .
+PREDID: 74
+PRED: toss
+   DOBJ: sliced mushrooms
+      INGREDIENT SPAN: sliced mushrooms
+         INGREDIENTS: ounce package sliced portobello mushroom caps
+   PARG: 1/3 bottle of dressing in a separate bowl
+     PREP: with
+      INGREDIENT SPAN: 1/3 bottle of dressing in a separate bowl
+         INGREDIENTS: ounce bottle light balsamic vinaigrette salad dressing such
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would reserve the remaining 1/3 bottle .
+PREDID: 140
+PRED: reserve
+   DOBJ: the remaining 1/3 bottle
+      INGREDIENT SPAN: the remaining 1/3 bottle
+         INGREDIENTS: ounce bottle light balsamic vinaigrette salad dressing such
+
+
+SENTID: 3
+SENT: I would allow the chicken tenders and mushrooms to marinate for at least 30 minutes .
+PREDID: 169
+PRED: allow
+   DOBJ: the chicken tenders, mushrooms
+      INGREDIENT SPAN: the chicken tenders
+         INGREDIENTS: chicken tenders
+      NON-INGREDIENT SPAN:  mushrooms
+   OARG: to marinate for at least 30 minutes
+      NON-INGREDIENT SPAN: to marinate for at least 30 minutes
+
+
+SENTID: 4
+SENT: I would preheat the oven 's broiler , and set the oven rack about 6 inches from the heat source .
+PREDID: 233
+PRED: preheat
+   DOBJ: the oven 's broiler
+      NON-INGREDIENT SPAN: the oven 's broiler
+
+PREDID: 260
+PRED: set
+   DOBJ: the oven rack
+      NON-INGREDIENT SPAN: the oven rack
+   PARG: 6 inches from the heat source
+     PREP: about
+      NON-INGREDIENT SPAN: 6 inches from the heat source
+
+
+SENTID: 5
+SENT: I would remove the chicken tenders and mushrooms from the marinade , and drain off the excess .
+PREDID: 304
+PRED: remove
+   DOBJ: the chicken tenders, mushrooms from the marinade
+      NON-INGREDIENT SPAN:  mushrooms from the marinade
+      NON-INGREDIENT SPAN: the chicken tenders
+
+PREDID: 358
+PRED: drain
+   DOBJ: the excess
+      NON-INGREDIENT SPAN: the excess
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 6
+SENT: I would broil the chicken and mushrooms until the chicken is browned and cooked through , 5 to 8 minutes .
+PREDID: 376
+PRED: broil
+   DOBJ: the chicken, mushrooms
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  mushrooms
+   PARG: the chicken is browned, cooked through , 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is browned
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+      NON-INGREDIENT SPAN:  cooked through 
+
+
+SENTID: 7
+SENT: I would remove the chicken and mushrooms from the heat , and slice the chicken tenders into bite-sized pieces .
+PREDID: 456
+PRED: remove
+   DOBJ: the chicken, mushrooms
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  mushrooms
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 499
+PRED: slice
+   DOBJ: the chicken tenders
+      NON-INGREDIENT SPAN: the chicken tenders
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 8
+SENT: To serve , divide the chopped romaine lettuce between four plates , and top each with broiled chicken and mushrooms .
+PREDID: 544
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 550
+PRED: divide
+   DOBJ: the chopped romaine lettuce between four plates , top each
+      INGREDIENT SPAN: the chopped romaine lettuce between four plates 
+         INGREDIENTS: hearts romaine lettuce chopped
+      NON-INGREDIENT SPAN:  top each
+   PARG: broiled chicken, mushrooms
+     PREP: with
+      NON-INGREDIENT SPAN: broiled chicken
+      NON-INGREDIENT SPAN:  mushrooms
+
+
+SENTID: 9
+SENT: I would sprinkle each plate with cherry tomatoes , mozzarella cheese , and sliced basil leaves ;
+PREDID: 639
+PRED: sprinkle
+   DOBJ: each plate
+      NON-INGREDIENT SPAN: each plate
+   PARG: cherry tomatoes , mozzarella cheese , sliced basil leaves
+     PREP: with
+      INGREDIENT SPAN: cherry tomatoes 
+         INGREDIENTS: pint cherry tomatoes cut quarters
+      INGREDIENT SPAN:  mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  sliced basil leaves
+         INGREDIENTS: sliced fresh basil leaves
+
+
+SENTID: 10
+SENT: I would serve with the remaining vinaigrette dressing .
+PREDID: 713
+PRED: serve
+   DOBJ: NULL
+   PARG: the remaining vinaigrette dressing
+     PREP: with
+      INGREDIENT SPAN: the remaining vinaigrette dressing
+         INGREDIENTS: ounce bottle light balsamic vinaigrette salad dressing such
+
+

@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 425 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 425 degrees f.
+
+
+SENTID: 1
+SENT: I would whisk pumpkin , sweetened condensed milk , the eggs , the spices and salt in medium bowl until smooth .
+PREDID: 25
+PRED: whisk
+   DOBJ: pumpkin , sweetened condensed milk , the eggs , the spices, salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce EAGLE BRAND Sweetened Condensed Milk
+      NON-INGREDIENT SPAN:  the spices
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would pour into crust .
+PREDID: 103
+PRED: pour
+   DOBJ: NULL
+   PARG: crust
+     PREP: into
+      INGREDIENT SPAN: crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 3
+SENT: I would bake 15 minutes .
+PREDID: 117
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 4
+SENT: I would reduce oven temperature to 350 degrees F and continue the baking 35 to 40 minutes or until knife inserted 1 inch from crust comes out clean .
+PREDID: 131
+PRED: reduce
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f
+
+PREDID: 168
+PRED: continue
+   DOBJ: the baking 35
+      NON-INGREDIENT SPAN: the baking 35
+   PARG: 40 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 40 minutes
+
+
+SENTID: 5
+SENT: I would cool .
+PREDID: 243
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would garnish as desired .
+PREDID: 248
+PRED: garnish
+   DOBJ: NULL
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+
+SENTID: 7
+SENT: I would store leftovers covered in refrigerator .
+PREDID: 265
+PRED: store
+   DOBJ: leftovers covered in refrigerator
+      NON-INGREDIENT SPAN: leftovers covered in refrigerator
+
+

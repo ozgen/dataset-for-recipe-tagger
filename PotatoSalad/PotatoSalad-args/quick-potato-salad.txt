@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until soft , 5 to 7 minutes ;
+PREDID: 42
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled diced
+
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: soft , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: soft 
+
+
+SENTID: 2
+SENT: I would drain and rinse with cold water .
+PREDID: 82
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 3
+SENT: I would combine the potatoes , the eggs , the cucumber , the tomato , the celery , the onion , green onion , the mayonnaise , and mustard in a large bowl ;
+PREDID: 109
+PRED: combine
+   DOBJ: the potatoes , the eggs , the cucumber , the tomato , the celery , the onion , green onion , the mayonnaise , mustard in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs peeled diced
+      INGREDIENT SPAN:  mustard in a large bowl
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: lowfat mayonnaise
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber peeled diced
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery stalk diced
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: tomato diced
+      NON-INGREDIENT SPAN: the potatoes 
+
+
+SENTID: 4
+SENT: I would stir until evenly combined .
+PREDID: 207
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+
+SENTID: 5
+SENT: I would season with salt and pepper .
+PREDID: 231
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

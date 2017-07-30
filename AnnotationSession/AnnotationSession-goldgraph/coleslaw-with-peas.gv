@@ -1,0 +1,40 @@
+digraph recipe {
+E0[label="mix
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="toss
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="refrigerate
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle
+6", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: the peas, cabbage, green onion", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1[label="DOBJ: mustard, curry powder, vinegar, the sour cream, mayonnaise, salt", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+E1 -> E2 [label="the sour cream mixture"]
+E0 -> E2 [label="COOBJECT:over the cabbage mixture"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: to coat", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: at least 1 hour, or overnight", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: with peanuts", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+O6_0_0[label="OTHER: to serve", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

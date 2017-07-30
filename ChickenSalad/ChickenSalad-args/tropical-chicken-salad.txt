@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a mixing bowl , I would combine the chicken , the celery , the mango , water chestnuts , the pineapple , mandarin oranges , the mayonnaise , sour cream and coconut extract .
+PREDID: 14
+PRED: combine
+   DOBJ: the chicken , the celery , the mango , water chestnuts , the pineapple , mandarin oranges , the mayonnaise , sour cream, coconut extract
+      INGREDIENT SPAN:  coconut extract
+         INGREDIENTS: coconut extract
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: lowfat mayonnaise
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: juice packed mandarin oranges drained
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: reduced fat sour cream
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: diced fresh pineapple
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  water chestnuts 
+         INGREDIENTS: ounce sliced water chestnuts
+      INGREDIENT SPAN:  the mango 
+         INGREDIENTS: diced fresh mango
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: diced cooked chicken breast meat
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 1
+SENT: I would mix together well and refrigerate 1 to 2 hours before serving .
+PREDID: 124
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 142
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 to 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

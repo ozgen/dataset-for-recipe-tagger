@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 10x15-inch baking sheet with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 10x15-inch baking sheet
+      NON-INGREDIENT SPAN: a 10x15-inch baking sheet
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would unroll pizza crust and place on the prepared baking pan .
+PREDID: 82
+PRED: unroll
+   DOBJ: pizza crust, place on the prepared baking pan
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: ounce package refrigerated pizza crust
+      NON-INGREDIENT SPAN:  place on the prepared baking pan
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 129
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 171
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 270
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would melt butter in a large saucepan over medium heat ;
+PREDID: 276
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 7
+SENT: I would cook and stir flour with butter until it has a slightly toasted fragrance , about 2 minutes .
+PREDID: 317
+PRED: cook and stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: butter
+     PREP: with
+      NON-INGREDIENT SPAN: butter
+   PARG: it has a slightly toasted fragrance , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: it has a slightly toasted fragrance 
+
+
+SENTID: 8
+SENT: I would whisk in milk and simmer until thickened , whisking constantly , 2 more minutes .
+PREDID: 393
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+
+PREDID: 407
+PRED: simmer
+   DOBJ: NULL
+   PARG: thickened , whisking constantly
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  whisking constantly
+
+
+SENTID: 9
+SENT: I would stir in processed cheese cubes .
+PREDID: 460
+PRED: stir
+   DOBJ: NULL
+   PARG: processed cheese cubes
+     PREP: in
+      INGREDIENT SPAN: processed cheese cubes
+         INGREDIENTS: processed cheese such Velveeta cubed
+
+
+SENTID: 10
+SENT: I would let the cheese cubes melt , stirring often , to make a smooth cheese sauce .
+PREDID: 487
+PRED: let melt
+   DOBJ: the cheese cubes
+      INGREDIENT SPAN: the cheese cubes
+         INGREDIENTS: shredded mozzarella cheese
+   OARG: stirring often
+      NON-INGREDIENT SPAN: stirring often
+   OARG: to make a smooth cheese sauce
+      NON-INGREDIENT SPAN: to make a smooth cheese sauce
+
+
+SENTID: 11
+SENT: I would spread about 3/4 cup of cheese sauce onto the pizza crust .
+PREDID: 548
+PRED: spread
+   DOBJ: about 3/4 cup of cheese sauce
+      NON-INGREDIENT SPAN: about 3/4 cup of cheese sauce
+   PARG: the pizza crust
+     PREP: onto
+      NON-INGREDIENT SPAN: the pizza crust
+
+
+SENTID: 12
+SENT: I would stir cooked macaroni into remaining cheese sauce in the saucepan and spoon the macaroni and cheese onto the crust in an even layer .
+PREDID: 596
+PRED: stir
+   DOBJ: cooked macaroni
+      NON-INGREDIENT SPAN: cooked macaroni
+   PARG: remaining cheese sauce in the saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: remaining cheese sauce in the saucepan
+
+PREDID: 654
+PRED: spoon
+   DOBJ: the macaroni, cheese
+      NON-INGREDIENT SPAN: the macaroni
+      NON-INGREDIENT SPAN:  cheese
+   PARG: the crust in an even layer
+     PREP: onto
+      NON-INGREDIENT SPAN: the crust in an even layer
+
+
+SENTID: 13
+SENT: I would sprinkle top of pizza with mozzarella cheese .
+PREDID: 705
+PRED: sprinkle
+   DOBJ: top of pizza
+      NON-INGREDIENT SPAN: top of pizza
+   PARG: mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: mozzarella cheese
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until the crust is lightly browned and the mozzarella cheese is golden brown , about 15 minutes .
+PREDID: 744
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the crust is lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: the crust is lightly browned
+   OARG: the mozzarella cheese is golden brown , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the mozzarella cheese is golden brown 
+
+

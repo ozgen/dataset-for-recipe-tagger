@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would sprinkle steak pieces evenly with salt and pepper .
+PREDID: 0
+PRED: sprinkle
+   DOBJ: steak pieces
+      INGREDIENT SPAN: steak pieces
+         INGREDIENTS: boneless beef top sirloin steak cut small bitesize
+   OARG: evenly with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: evenly with salt
+         INGREDIENTS: salt
+
+
+SENTID: 1
+SENT: I would heat oil in 6-quart saucepan over medium-high heat 1 minute .
+PREDID: 43
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: 6-quart saucepan over medium-high heat 1 minute
+     PREP: in
+      NON-INGREDIENT SPAN: 6-quart saucepan over medium-high heat 1 minute
+
+
+SENTID: 2
+SENT: I would add steak pieces , the onion , garlic and chili powder .
+PREDID: 94
+PRED: add
+   DOBJ: steak pieces , the onion , garlic, chili powder
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Sliced green onions sour cream shredded Cheddar cheese crushed corn, large onion chopped
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Sliced green onions sour cream shredded Cheddar cheese crushed corn, large onion chopped
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: steak pieces 
+         INGREDIENTS: boneless beef top sirloin steak cut small bitesize
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: chopped garlic
+
+
+SENTID: 3
+SENT: I would cook 5 minutes , or until steak is browned on all sides and onion is tender , stirring frequently .
+PREDID: 136
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes , or until steak is browned on all sides, onion is tender , stirring frequently
+     PREP: for
+      INGREDIENT SPAN:  or until steak is browned on all sides
+         INGREDIENTS: boneless beef top sirloin steak cut small bitesize
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN: 5 minutes 
+      NON-INGREDIENT SPAN:  onion is tender 
+
+
+SENTID: 4
+SENT: I would add beans , both diced tomatoes with their juice , tomato paste , the water , the sugar and red pepper ;
+PREDID: 216
+PRED: add
+   DOBJ: beans , both diced tomatoes with their juice , tomato paste , the water , the sugar, red pepper
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: ground red pepper
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce Hunt Tomato Paste
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: granulated sugar
+      INGREDIENT SPAN:  both diced tomatoes with their juice 
+         INGREDIENTS: ounce Hunt Diced Tomatoes undrained, ounce diced tomatoes green chilies undrained
+      INGREDIENT SPAN:  both diced tomatoes with their juice 
+         INGREDIENTS: ounce Hunt Diced Tomatoes undrained, ounce diced tomatoes green chilies undrained
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce ranchstyle beans
+
+
+SENTID: 5
+SENT: I would blend well .
+PREDID: 293
+PRED: blend
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would bring to a boil .
+PREDID: 303
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would reduce heat to low ;
+PREDID: 316
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 8
+SENT: I would simmer , uncovered , 10 minutes , stirring occasionally .
+PREDID: 332
+PRED: simmer
+   DOBJ: NULL
+   PARG: uncovered , 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  10 minutes
+      NON-INGREDIENT SPAN: uncovered 
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 9
+SENT: I would serve with optional toppings , if desired .
+PREDID: 380
+PRED: serve
+   DOBJ: NULL
+   PARG: optional toppings
+     PREP: with
+      NON-INGREDIENT SPAN: optional toppings
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spread potato pieces onto a baking sheet and drizzle with olive oil .
+PREDID: 38
+PRED: spread
+   DOBJ: potato pieces
+      NON-INGREDIENT SPAN: potato pieces
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 75
+PRED: drizzle
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil needed
+
+
+SENTID: 2
+SENT: I would roast in the preheated oven until tender , about 45 minutes ;
+PREDID: 95
+PRED: roast
+   DOBJ: NULL
+   PARG: the preheated oven until tender , about 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 45 minutes
+      NON-INGREDIENT SPAN: the preheated oven until tender 
+
+
+SENTID: 3
+SENT: I would remove from oven and let cool at least 15 minutes .
+PREDID: 145
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 162
+PRED: let
+   DOBJ: NULL
+   PARG: least 15 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 15 minutes
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would place roasted potatoes into a large salad bowl and combine with hard-cooked eggs , the celery , green onion , and bacon ;
+PREDID: 186
+PRED: place
+   DOBJ: roasted potatoes
+      INGREDIENT SPAN: roasted potatoes
+         INGREDIENTS: red potatoes cut bitesize
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+PREDID: 228
+PRED: combine
+   DOBJ: NULL
+   PARG: hard-cooked eggs , the celery , green onion , bacon
+     PREP: with
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN: hard-cooked eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN:  bacon
+         INGREDIENTS: slices cooked bacon chopped
+
+
+SENTID: 5
+SENT: I would stir in mayonnaise and season to taste with salt and black pepper .
+PREDID: 282
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise, season
+     PREP: in
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  season
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 6
+SENT: I would cover and refrigerate for 1 hour to let flavors blend .
+PREDID: 337
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: to let flavors blend
+      NON-INGREDIENT SPAN: to let flavors blend
+
+

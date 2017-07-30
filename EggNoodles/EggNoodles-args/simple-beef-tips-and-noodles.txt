@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: I would heat oil in the pressure cooker over medium-high heat and stir in beef cubes .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: the pressure cooker over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: the pressure cooker over medium-high heat
+
+PREDID: 48
+PRED: stir
+   DOBJ: NULL
+   PARG: beef cubes
+     PREP: in
+      INGREDIENT SPAN: beef cubes
+         INGREDIENTS: ounce carton beef stock
+
+
+SENTID: 1
+SENT: I would cook until the beef is browned on all sides ;
+PREDID: 64
+PRED: cook
+   DOBJ: NULL
+   PARG: the beef is browned on all sides
+     PREP: until
+      INGREDIENT SPAN: the beef is browned on all sides
+         INGREDIENTS: cubed beef stew meat
+
+
+SENTID: 2
+SENT: I would remove beef and set it aside .
+PREDID: 100
+PRED: remove
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+
+PREDID: 113
+PRED: set
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would drain and discard excess grease .
+PREDID: 124
+PRED: drain and discard
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 4
+SENT: I would lower the heat to medium and add onion ;
+PREDID: 152
+PRED: lower
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 175
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion diced
+
+
+SENTID: 5
+SENT: I would cook and stir until onion has softened and turned translucent , about 5 minutes .
+
+SENTID: 6
+SENT: Stir in garlic and mushrooms and continue to cook about 5 minutes more , until garlic is fragrant but not brown .
+
+SENTID: 7
+SENT: I would pour in beef stock , beef stew meat , and any accumulated drippings ;
+PREDID: 251
+PRED: pour
+   DOBJ: NULL
+   PARG: beef stock , beef stew meat , any accumulated drippings
+     PREP: in
+      NON-INGREDIENT SPAN:  beef stew meat 
+      NON-INGREDIENT SPAN:  any accumulated drippings
+      NON-INGREDIENT SPAN: beef stock 
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 307
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 9
+SENT: I would return to high heat , seal the lid , and bring to full pressure .
+PREDID: 331
+PRED: return
+   DOBJ: NULL
+   PARG: high heat
+     PREP: to
+      NON-INGREDIENT SPAN: high heat
+
+PREDID: 348
+PRED: seal
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+
+PREDID: 362
+PRED: bring
+   DOBJ: NULL
+   PARG: full pressure
+     PREP: to
+      NON-INGREDIENT SPAN: full pressure
+
+
+SENTID: 10
+SENT: I would reduce the heat to low , maintaining full pressure , and cook for 20 minutes .
+PREDID: 382
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: maintaining full pressure
+      NON-INGREDIENT SPAN: maintaining full pressure
+
+PREDID: 428
+PRED: cook
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 11
+SENT: While the stew is cooking , I would bring a large pot of lightly salted water to a boil .
+PREDID: 467
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: cold water
+   PARG: the stew is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the stew is cooking
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 12
+SENT: I would stir in noodles and cook until tender , stirring often , about 8 minutes .
+PREDID: 509
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 525
+PRED: cook
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+   OARG: stirring often , about 8 minutes
+      NON-INGREDIENT SPAN: stirring often 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 13
+SENT: I would drain and set aside .
+PREDID: 569
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 14
+SENT: I would remove the pressure cooker from the heat and allow the pressure to drop naturally .
+PREDID: 586
+PRED: remove
+   DOBJ: the pressure cooker
+      NON-INGREDIENT SPAN: the pressure cooker
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 623
+PRED: allow
+   DOBJ: the pressure to drop naturally
+      NON-INGREDIENT SPAN: the pressure to drop naturally
+
+
+SENTID: 15
+SENT: I would dissolve cornstarch into 1/2 cup of cold water .
+PREDID: 655
+PRED: dissolve
+   DOBJ: cornstarch
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+   PARG: 1/2 cup of cold water
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 cup of cold water
+
+
+SENTID: 16
+SENT: When the pressure has dropped , remove the lid and whisk in the cornstarch mixture .
+PREDID: 721
+PRED: remove
+   DOBJ: the lid, whisk in the cornstarch mixture
+      NON-INGREDIENT SPAN:  whisk in the cornstarch mixture
+      NON-INGREDIENT SPAN: the lid
+   OARG: when the pressure has dropped
+      NON-INGREDIENT SPAN: when the pressure has dropped
+
+
+SENTID: 17
+SENT: I would bring the beef and mushrooms back to a boil and cook , stirring constantly , for 2 minutes or until the sauce has thickened .
+PREDID: 764
+PRED: bring
+   DOBJ: the beef, mushrooms
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce package sliced button mushrooms
+      NON-INGREDIENT SPAN: the beef
+   OARG: back to a boil, cook , stirring constantly , for 2 minutes or until the sauce has thickened
+      NON-INGREDIENT SPAN:  for 2 minutes or until the sauce has thickened
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN: back to a boil
+      NON-INGREDIENT SPAN:  cook 
+
+
+SENTID: 18
+SENT: I would pour the beef over the noodles and serve .
+PREDID: 865
+PRED: pour
+   DOBJ: the beef over the noodles
+      NON-INGREDIENT SPAN: the beef over the noodles
+
+

@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would preheat the oven to 475 degrees C -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 475 degrees C -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: the oven to 475 degrees C -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would roll out pizza crust and place on a pizza pan or baking sheet .
+PREDID: 41
+PRED: roll
+   DOBJ: pizza crust, place on a pizza pan or baking sheet
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: ounce refrigerated pizza crust dough
+      NON-INGREDIENT SPAN:  place on a pizza pan or baking sheet
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would spread a thin layer of hummus over the crust .
+PREDID: 91
+PRED: spread
+   DOBJ: a thin layer of hummus over the crust
+      INGREDIENT SPAN: a thin layer of hummus over the crust
+         INGREDIENTS: hummus spread
+
+
+SENTID: 3
+SENT: I would arrange sliced peppers and broccoli over the hummus , and top with shredded cheese .
+PREDID: 128
+PRED: arrange
+   DOBJ: sliced peppers, broccoli
+      INGREDIENT SPAN:  broccoli
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN: sliced peppers
+         INGREDIENTS: sliced bell peppers color
+   PARG: the hummus
+     PREP: over
+      NON-INGREDIENT SPAN: the hummus
+
+PREDID: 176
+PRED: top
+   DOBJ: NULL
+   PARG: shredded cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded Monterey Jack cheese
+
+
+SENTID: 4
+SENT: I would bake for 10 to 15 minutes in the preheated oven , until the crust is golden brown and cheese is melted in the center .
+PREDID: 198
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the crust is golden brown, cheese is melted in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the crust is golden brown
+      NON-INGREDIENT SPAN:  cheese is melted in the center
+
+
+SENTID: 5
+SENT: I would slice and serve .
+PREDID: 292
+PRED: slice and serve
+   DOBJ: NULL
+
+

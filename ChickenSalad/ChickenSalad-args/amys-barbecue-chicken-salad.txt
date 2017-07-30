@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: the grill for high heat
+      NON-INGREDIENT SPAN: the grill for high heat
+
+
+SENTID: 1
+SENT: I would lightly oil the grill grate .
+PREDID: 27
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 2
+SENT: I would place chicken on the grill , and cook 6 minutes per side , or until juices run clear .
+PREDID: 51
+PRED: place
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the grill , cook 6 minutes per side
+     PREP: on
+      NON-INGREDIENT SPAN:  cook 6 minutes per side
+      NON-INGREDIENT SPAN: the grill 
+
+
+SENTID: 3
+SENT: I would remove from heat , the cool , and slice .
+PREDID: 119
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the cool , slice
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the cool 
+      NON-INGREDIENT SPAN:  slice
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix the red leaf lettuce , green leaf lettuce , the tomato , the cilantro , the corn , and black beans .
+PREDID: 161
+PRED: mix
+   DOBJ: the red leaf lettuce , green leaf lettuce , the tomato , the cilantro , the corn , black beans
+      INGREDIENT SPAN:  black beans
+         INGREDIENTS: ounce black beans drained
+      INGREDIENT SPAN: the red leaf lettuce 
+         INGREDIENTS: head red leaf lettuce rinsed torn
+      INGREDIENT SPAN:  green leaf lettuce 
+         INGREDIENTS: head green leaf lettuce rinsed torn
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: bunch cilantro chopped
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: fresh tomato chopped
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would top with the grilled chicken slices and French fried onions .
+PREDID: 234
+PRED: top
+   DOBJ: NULL
+   PARG: the grilled chicken slices, french fried onions
+     PREP: with
+      INGREDIENT SPAN:  french fried onions
+         INGREDIENTS: ounce French fried onions
+      NON-INGREDIENT SPAN: the grilled chicken slices
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix the Ranch dressing and barbeque sauce .
+PREDID: 298
+PRED: mix
+   DOBJ: the Ranch dressing, barbeque sauce
+      INGREDIENT SPAN:  barbeque sauce
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN: the Ranch dressing
+         INGREDIENTS: Ranch dressing
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 7
+SENT: I would serve on the side as a dipping sauce , or toss with the salad to coat .
+PREDID: 334
+PRED: serve
+   DOBJ: NULL
+   PARG: the side as a dipping sauce
+     PREP: on
+      NON-INGREDIENT SPAN: the side as a dipping sauce
+
+PREDID: 366
+PRED: toss
+   DOBJ: NULL
+   PARG: the salad
+     PREP: with
+      NON-INGREDIENT SPAN: the salad
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

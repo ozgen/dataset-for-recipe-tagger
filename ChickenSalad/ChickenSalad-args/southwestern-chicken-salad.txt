@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would fill a large skillet with 1 inch -LRB- 2.5 cm -RRB- of water .
+PREDID: 0
+PRED: fill
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: 1 inch -lrb- 2.5 cm -rrb- of water
+     PREP: with
+      NON-INGREDIENT SPAN: 1 inch -lrb- 2.5 cm -rrb- of water
+
+
+SENTID: 1
+SENT: I would add lemon slices , bay leaf , the peppercorns and 2/3 of the thyme , and bring to boiling over high heat .
+PREDID: 41
+PRED: add
+   DOBJ: lemon slices , bay leaf , the peppercorns, 2/3 of the thyme
+      INGREDIENT SPAN:  2/3 of the thyme
+         INGREDIENTS: dried thyme divided
+      INGREDIENT SPAN:  the peppercorns
+         INGREDIENTS: whole black peppercorns
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      NON-INGREDIENT SPAN: lemon slices 
+
+PREDID: 98
+PRED: bring
+   DOBJ: NULL
+   PARG: boiling over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: boiling over high heat
+
+
+SENTID: 2
+SENT: I would add chicken , reduce heat to low and simmer for 15-18 minutes , turning chicken once , until juices run clear and chicken is no longer pink .
+PREDID: 122
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   OARG: chicken is no longer pink
+      NON-INGREDIENT SPAN: chicken is no longer pink
+
+PREDID: 133
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 151
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15-18 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15-18 minutes
+   OARG: turning chicken once , until juices run clear
+      NON-INGREDIENT SPAN: turning chicken once 
+      NON-INGREDIENT SPAN:  until juices run clear
+
+
+SENTID: 3
+SENT: I would remove chicken from liquid and set aside to cool .
+PREDID: 236
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: liquid
+     PREP: from
+      NON-INGREDIENT SPAN: liquid
+
+PREDID: 262
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: In a small skillet , I would stir together the paprika and remaining thyme over medium-low heat for 2 minutes .
+PREDID: 293
+PRED: stir
+   DOBJ: NULL
+   PARG: a small skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a small skillet
+   PARG: the paprika, remaining thyme over medium-low heat for 2 minutes
+     PREP: for
+      INGREDIENT SPAN:  remaining thyme over medium-low heat for 2 minutes
+         INGREDIENTS: dried thyme divided
+      INGREDIENT SPAN: the paprika
+         INGREDIENTS: paprika
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: In a small bowl , I would whisk together the toasted paprika mixture , the mayonnaise , sour cream , the salt , ground pepper and nutmeg until evenly blended .
+PREDID: 375
+PRED: whisk
+   DOBJ: the toasted paprika mixture , the mayonnaise , sour cream , the salt , ground pepper, nutmeg until evenly blended
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  nutmeg until evenly blended
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  ground pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN: the toasted paprika mixture 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would cube cooled chicken and transfer to a medium bowl .
+PREDID: 479
+PRED: cube
+   DOBJ: cooled chicken
+      NON-INGREDIENT SPAN: cooled chicken
+
+PREDID: 499
+PRED: transfer
+   DOBJ: NULL
+   PARG: a medium bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 7
+SENT: I would add prepared dressing , the corn , the cilantro , orange pepper and jalapeno and toss until evenly coated .
+PREDID: 521
+PRED: add
+   DOBJ: prepared dressing , the corn , the cilantro , orange pepper, jalapeno
+      INGREDIENT SPAN:  orange 
+         INGREDIENTS: diced orange bell pepper
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: fresh corn cooked cut cob
+      INGREDIENT SPAN:  orange pepper
+         INGREDIENTS: jalapeno pepper seeded minced
+      NON-INGREDIENT SPAN: prepared dressing 
+      NON-INGREDIENT SPAN:  jalapeno
+
+PREDID: 587
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 8
+SENT: I would serve warm , or refrigerate until ready to serve .
+PREDID: 603
+PRED: serve
+   DOBJ: NULL
+   OARG: warm , or refrigerate until ready
+      NON-INGREDIENT SPAN:  or refrigerate until ready
+      NON-INGREDIENT SPAN: warm 
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

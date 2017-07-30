@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would beat the eggs and sugar in a bowl until smooth .
+PREDID: 0
+PRED: beat
+   DOBJ: the eggs, sugar in a bowl
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: thick slices egg bread Challah
+      INGREDIENT SPAN:  sugar in a bowl
+         INGREDIENTS: ounce package brown sugar butter flavored crispy corn oat
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 1
+SENT: I would pour in the cream , the milk , vanilla extract , the cinnamon , and nutmeg ;
+PREDID: 38
+PRED: pour
+   DOBJ: NULL
+   PARG: the cream , the milk , vanilla extract , the cinnamon , nutmeg
+     PREP: in
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: % lowfat milk
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: the cream 
+         INGREDIENTS: heavy cream
+
+
+SENTID: 2
+SENT: I would whisk until smooth .
+PREDID: 92
+PRED: whisk
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour the crushed cereal into a shallow dish ;
+PREDID: 109
+PRED: pour
+   DOBJ: the crushed cereal
+      INGREDIENT SPAN: the crushed cereal
+         INGREDIENTS: breakfast cereal such Cap'n Crunch crushed
+   PARG: a shallow dish
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow dish
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 146
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would dip the egg bread into the egg mixture two pieces at a time until the egg has been soaked into the center of the slices , about 30 seconds per side .
+PREDID: 155
+PRED: dip
+   DOBJ: the egg bread
+      INGREDIENT SPAN: the egg bread
+         INGREDIENTS: large eggs
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+   OARG: two pieces at a time until the egg has been soaked into the center of the slices , about 30 seconds per side
+      NON-INGREDIENT SPAN: two pieces at a time until the egg has been soaked into the center of the slices 
+      NON-INGREDIENT SPAN:  about 30 seconds per side
+
+
+SENTID: 6
+SENT: I would press the soaked bread into the crushed cereal until coated on both sides .
+PREDID: 273
+PRED: press
+   DOBJ: the soaked bread
+      NON-INGREDIENT SPAN: the soaked bread
+   PARG: the crushed cereal
+     PREP: into
+      NON-INGREDIENT SPAN: the crushed cereal
+   PARG: coated on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: coated on both sides
+
+
+SENTID: 7
+SENT: I would set the finished slices aside on a piece of waxed paper .
+PREDID: 335
+PRED: set
+   DOBJ: the finished slices
+      NON-INGREDIENT SPAN: the finished slices
+   PARG: a piece of waxed paper
+     PREP: on
+      NON-INGREDIENT SPAN: a piece of waxed paper
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would melt the butter in a nonstick skillet over medium-high heat .
+PREDID: 381
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a nonstick skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a nonstick skillet over medium-high heat
+
+
+SENTID: 9
+SENT: I would cook the French toast in the hot pan until golden on both sides , about 3 minutes per side .
+PREDID: 432
+PRED: cook
+   DOBJ: the French toast in the hot pan
+      NON-INGREDIENT SPAN: the French toast in the hot pan
+   PARG: golden on both sides , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden on both sides 
+      NON-INGREDIENT SPAN:  about 3 minutes
+   PARG: side
+     PREP: per
+      NON-INGREDIENT SPAN: side
+
+

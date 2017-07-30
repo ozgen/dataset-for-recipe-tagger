@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large skillet over medium heat , I would brown the ground beef .
+PREDID: 161
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 5
+SENT: I would add the tomatoes with juice , the salt and sugar and simmer for 15 minutes .
+PREDID: 180
+PRED: add
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce peeled diced tomatoes juice
+   PARG: juice , the salt, sugar, simmer
+     PREP: with
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: juice 
+      NON-INGREDIENT SPAN:  simmer
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 6
+SENT: In a separate medium bowl , I would combine the sour cream , cream cheese and onion and mix well .
+PREDID: 260
+PRED: combine
+   DOBJ: the sour cream , cream cheese, onion, mix
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: cream cheese
+      NON-INGREDIENT SPAN:  mix
+   PARG: a separate medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate medium bowl
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: In a 9x13 inch baking dish , I would place half of the egg noodles ,
+
+SENTID: 8
+SENT: all of the meat mixture ,
+
+SENTID: 9
+SENT: the cream mixture .
+
+SENTID: 10
+SENT: I would top with the remaining noodles and sprinkle with the cheese .
+PREDID: 310
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining noodles
+     PREP: with
+      INGREDIENT SPAN: the remaining noodles
+         INGREDIENTS: egg noodles
+
+PREDID: 339
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 11
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes .
+PREDID: 361
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+

@@ -1,0 +1,84 @@
+digraph recipe {
+E0[label="stir
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="refrigerate
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="divide
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="form
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="prepare
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="grease
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cook
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="add
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="divide
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="top
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="spread
+12", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: grill", shape=box, style=filled, fillcolor=white]
+D6 -> E6
+O6_0[label="OTHER: to medium-high heat", shape=box, style=filled, fillcolor=white]
+O6_0 -> E6
+D0[label="DOBJ: Goya Minced Garlic, Goya Mayonnaise, Goya Adobo AllPurpose Seasoning to taste, sauce Goya Chipotle Chiles Adobo Sauce, finely chopped fresh cilantro", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in medium bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: until ready to use", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+D3_ing[label="DOBJ: Goya Minced Garlic, ground beef  lean, sauce Goya Chipotle Chiles Adobo Sauce, chipotle pepper Goya Chipotle Peppers Adobo Sauce finely", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="adobo"]
+P3_0_0[label="LOCATION:in large bowl", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: gently", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+O3_2_0[label="OTHER: until combined", shape=box, style=filled, fillcolor=white]
+O3_2_0 -> E3
+E3 -> E4 [label="meat"]
+O4_0_0[label="OTHER: into 6 portions", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into 1 inch-thick patties", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E6 -> E7 [label="IMPLICIT PREP"]
+P7_1_ing[label="COOBJECT: with Goya Vegetable Oil", shape=box, style=filled, fillcolor=peachpuff]
+P7_1_ing -> E7
+E7 -> E8 [label="burgers"]
+O8_0_0[label="OTHER: flipping once", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: until charred and cooked to desired doneness (about 12 minutes total for medium rare)", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+D9_ing[label="DOBJ: slices Cheddar cheese", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="COOBJECT:to patties"]
+O9_0_0[label="OTHER: about 5 minutes before taking them off grill", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="patties"]
+P10_0_ing[label="COOBJECT: among hamburger buns", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+O10_0_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_ing[label="COOBJECT: with lettuce leaves", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E5 -> E12 [label="COOBJECT:with reserved chipotle mayonnaise"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

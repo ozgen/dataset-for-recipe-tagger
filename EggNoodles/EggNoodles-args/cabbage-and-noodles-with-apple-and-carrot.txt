@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would melt butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir cabbage , the carrot , and apple until cabbage is tender , 10 to 12 minutes .
+
+SENTID: 2
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 109
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 147
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 3
+SENT: I would stir in egg noodles and return to a boil .
+PREDID: 167
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 186
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 200
+PRED: cook
+   DOBJ: noodles uncovered , stirring occasionally , until tender but still slightly firm
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: noodles uncovered 
+      NON-INGREDIENT SPAN:  until tender but still slightly firm
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would drain well .
+PREDID: 288
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would gently stir noodles into cabbage mixture ;
+PREDID: 304
+PRED: stir
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: cabbage mixture
+     PREP: into
+      INGREDIENT SPAN: cabbage mixture
+         INGREDIENTS: head cabbage cored shredded
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would season to taste with salt and black pepper .
+PREDID: 334
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

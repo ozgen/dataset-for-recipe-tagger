@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would place potatoes in two separate saucepans and cover with water .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled cut inch cubes
+   PARG: two separate saucepans
+     PREP: in
+      NON-INGREDIENT SPAN: two separate saucepans
+
+PREDID: 38
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 1
+SENT: I would bring to a boil over high heat ,
+PREDID: 53
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would turn heat to medium-low .
+PREDID: 78
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 3
+SENT: I would cover , and cook until tender but still firm , 12 to 14 minutes for sweet potatoes , and 10 to 12 minutes for white potatoes .
+PREDID: 99
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 108
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , 12 to 14 minutes for sweet potatoes , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  12 to 14 minutes for sweet potatoes 
+   PARG: white potatoes
+     PREP: for
+      NON-INGREDIENT SPAN: white potatoes
+
+
+SENTID: 4
+SENT: I would drain and place in a large mixing bowl .
+PREDID: 199
+PRED: drain and place
+   DOBJ: NULL
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 5
+SENT: I would sprinkle with vinegar , and cool .
+PREDID: 231
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: vinegar
+     PREP: with
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: distilled white vinegar
+
+
+SENTID: 6
+SENT: To make the dressing , combine the mayonnaise , sour cream , lemon juice , and curry powder in a small bowl .
+
+SENTID: 7
+SENT: I would season to taste with salt and pepper .
+PREDID: 346
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would mix the green onions , celery , and cilantro with the potatoes .
+PREDID: 377
+PRED: mix
+   DOBJ: the green onions , celery , cilantro with the potatoes
+      INGREDIENT SPAN:  cilantro with the potatoes
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: the green onions 
+         INGREDIENTS: chopped green onions
+
+
+SENTID: 9
+SENT: I would pour the dressing over the potato mixture , and toss to evenly coat vegetables .
+PREDID: 429
+PRED: pour
+   DOBJ: the dressing over the potato mixture
+      INGREDIENT SPAN: the dressing over the potato mixture
+         INGREDIENTS: sweet potato peeled cut 3/4inch cubes
+
+PREDID: 468
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coat vegetables
+     PREP: to
+      NON-INGREDIENT SPAN: evenly coat vegetables
+
+
+SENTID: 10
+SENT: I would refrigerate at least 1 hour before serving to let flavors blend .
+PREDID: 495
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving to let flavors blend
+     PREP: before
+      NON-INGREDIENT SPAN: serving to let flavors blend
+
+

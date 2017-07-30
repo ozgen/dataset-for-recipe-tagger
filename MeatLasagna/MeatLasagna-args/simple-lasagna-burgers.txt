@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for medium-high heat , and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat , lightly oil the grate
+      NON-INGREDIENT SPAN:  lightly oil the grate
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat 
+
+
+SENTID: 1
+SENT: I would mix the ground beef Italian sausage , red pepper flakes , and Italian seasoning .
+PREDID: 62
+PRED: mix
+   DOBJ: the ground beef Italian sausage , red pepper flakes , Italian seasoning
+      INGREDIENT SPAN: the ground beef Italian sausage 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: the Italian sausage 
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN:  Italian seasoning
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+
+
+SENTID: 2
+SENT: I would form the mixture into 12 thin , wide patties .
+PREDID: 129
+PRED: form
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: 12 thin , wide patties
+     PREP: into
+      NON-INGREDIENT SPAN: 12 thin 
+      NON-INGREDIENT SPAN:  wide patties
+
+
+SENTID: 3
+SENT: I would place about 2 ounces of ricotta cheese in the middle of 6 patties .
+PREDID: 166
+PRED: place
+   DOBJ: about 2 ounces of ricotta cheese
+      INGREDIENT SPAN: about 2 ounces of ricotta cheese
+         INGREDIENTS: ricotta cheese
+   PARG: the middle of 6 patties
+     PREP: in
+      NON-INGREDIENT SPAN: the middle of 6 patties
+
+
+SENTID: 4
+SENT: I would place the remaining 6 patties over the ricotta topped patties , press down , and pinch the edges to seal the cheese in the center .
+PREDID: 220
+PRED: place
+   DOBJ: the remaining 6 patties over the ricotta topped patties
+      INGREDIENT SPAN: the remaining 6 patties over the ricotta topped patties
+         INGREDIENTS: ricotta cheese
+
+PREDID: 273
+PRED: press
+   DOBJ: NULL
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 286
+PRED: pinch
+   DOBJ: the edges
+      NON-INGREDIENT SPAN: the edges
+   OARG: to seal the cheese in the center
+      INGREDIENT SPAN: to seal the cheese in the center
+         INGREDIENTS: ricotta cheese
+
+
+SENTID: 5
+SENT: I would cook on the preheated grill until the burgers are cooked to your desired degree of doneness , about 8 minutes per side for well done .
+PREDID: 326
+PRED: cook
+   DOBJ: NULL
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: the burgers are cooked to your desired degree of doneness , about 8 minutes per side for well done
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes per side for well done
+      NON-INGREDIENT SPAN: the burgers are cooked to your desired degree of doneness 
+
+
+SENTID: 6
+SENT: An instant-read thermometer inserted into the center should read 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 7
+SENT: I would place the cooked burgers on buns ,
+PREDID: 435
+PRED: place
+   DOBJ: the cooked burgers
+      NON-INGREDIENT SPAN: the cooked burgers
+   PARG: buns
+     PREP: on
+      INGREDIENT SPAN: buns
+         INGREDIENTS: hamburger buns split
+
+
+SENTID: 8
+SENT: I would top with spaghetti sauce , Parmesan cheese , and spinach leaves .
+PREDID: 463
+PRED: top
+   DOBJ: NULL
+   PARG: spaghetti sauce , parmesan cheese , spinach leaves
+     PREP: with
+      INGREDIENT SPAN:  spinach leaves
+         INGREDIENTS: bunch fresh spinach
+      INGREDIENT SPAN:  parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: spaghetti sauce 
+         INGREDIENTS: spaghetti sauce
+
+

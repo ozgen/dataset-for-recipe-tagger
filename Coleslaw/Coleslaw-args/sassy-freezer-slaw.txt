@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would mix shredded cabbage and salt together in a colander ;
+PREDID: 0
+PRED: mix
+   DOBJ: shredded cabbage, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: shredded cabbage
+         INGREDIENTS: shredded cabbage
+   PARG: a colander
+     PREP: in
+      NON-INGREDIENT SPAN: a colander
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would drain for 1 hour .
+PREDID: 45
+PRED: drain
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 2
+SENT: I would squeeze moisture from cabbage .
+PREDID: 59
+PRED: squeeze
+   DOBJ: moisture
+      NON-INGREDIENT SPAN: moisture
+   PARG: cabbage
+     PREP: from
+      NON-INGREDIENT SPAN: cabbage
+
+
+SENTID: 3
+SENT: I would stir carrots into cabbage and divide cabbage mixture between pint containers .
+PREDID: 86
+PRED: stir
+   DOBJ: carrots
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: large carrots shredded
+   PARG: cabbage, divide cabbage mixture between pint containers
+     PREP: into
+      NON-INGREDIENT SPAN: cabbage
+      NON-INGREDIENT SPAN:  divide cabbage mixture between pint containers
+
+
+SENTID: 4
+SENT: I would whisk sugar , the vinegar , the water , celery seed , and dry mustard together in saucepan over medium high heat ;
+PREDID: 153
+PRED: whisk
+   DOBJ: sugar , the vinegar , the water , celery seed , dry mustard
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: dry mustard
+   PARG: saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan over medium high heat
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would bring to a boil for 1 minute .
+PREDID: 239
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil for 1 minute
+     PREP: to
+      NON-INGREDIENT SPAN: a boil for 1 minute
+
+
+SENTID: 6
+SENT: I would cool .
+PREDID: 262
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would pour cooled vinegar dressing mixture over cabbage mixture , cover containers , and freeze .
+PREDID: 267
+PRED: pour
+   DOBJ: NULL
+
+PREDID: 271
+PRED: cooled
+   DOBJ: vinegar
+      NON-INGREDIENT SPAN: vinegar
+   OARG: dressing mixture over cabbage mixture
+      NON-INGREDIENT SPAN: dressing mixture over cabbage mixture
+
+PREDID: 318
+PRED: cover
+   DOBJ: containers
+      NON-INGREDIENT SPAN: containers
+
+
+SENTID: 8
+SENT: I would thaw before serving .
+PREDID: 344
+PRED: thaw
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

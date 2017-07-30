@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would slice eggs in half lengthwise and remove yolks ;
+PREDID: 0
+PRED: slice
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 28
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 1
+SENT: I would set whites aside .
+PREDID: 40
+PRED: set
+   DOBJ: whites
+      NON-INGREDIENT SPAN: whites
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would mash yolks with a fork in a small bowl .
+PREDID: 55
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a fork in a small bowl
+     PREP: with
+      NON-INGREDIENT SPAN: a fork in a small bowl
+
+
+SENTID: 3
+SENT: I would stir in mayonnaise , the sugar , the vinegar , the mustard , the salt , the onion , and celery ;
+PREDID: 86
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , the sugar , the vinegar , the mustard , the salt , the onion , celery
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would stuff or pipe egg yolk mixture into egg whites .
+
+SENTID: 6
+SENT: I would sprinkle with paprika .
+PREDID: 154
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika taste
+
+
+SENTID: 7
+SENT: I would refrigerate until serving .
+PREDID: 174
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

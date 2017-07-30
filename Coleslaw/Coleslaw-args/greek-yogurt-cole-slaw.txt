@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would stir yogurt , the mayonnaise , the vinegar , and honey together in a large bowl .
+PREDID: 0
+PRED: stir
+   DOBJ: yogurt , the mayonnaise , the vinegar , honey
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN: yogurt 
+         INGREDIENTS: ounce container plain nonfat Greek yogurt
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would gradually beat milk into the yogurt mixture until you reach your desired consistency ;
+PREDID: 68
+PRED: beat
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: skim milk needed
+   PARG: the yogurt mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the yogurt mixture
+   PARG: you reach your desired consistency
+     PREP: until
+      NON-INGREDIENT SPAN: you reach your desired consistency
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 132
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would add coleslaw mix and toss to coat .
+PREDID: 156
+PRED: add
+   DOBJ: coleslaw mix
+      INGREDIENT SPAN: coleslaw mix
+         INGREDIENTS: ounce packages coleslaw mix
+
+PREDID: 173
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would cover bowl with plastic wrap and refrigerate until chilled , about 1 hour .
+PREDID: 184
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 211
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: chilled 
+
+

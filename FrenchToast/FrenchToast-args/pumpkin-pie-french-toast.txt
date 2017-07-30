@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would heat a lightly oiled skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a lightly oiled skillet over medium heat
+      NON-INGREDIENT SPAN: a lightly oiled skillet over medium heat
+
+
+SENTID: 1
+SENT: I would whisk eggs , the half and half , the pumpkin , the cinnamon , vanilla extract , pumpkin pie spice , and walnuts together in a bowl .
+PREDID: 39
+PRED: whisk
+   DOBJ: eggs , the half, half , the pumpkin , the cinnamon , vanilla extract , pumpkin pie spice , walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: canned pumpkin puree
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  the half
+      NON-INGREDIENT SPAN:  half 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would soak one slice of bread at a time in the pumpkin mixture ,
+PREDID: 135
+PRED: soak
+   DOBJ: one slice of bread
+      INGREDIENT SPAN: one slice of bread
+         INGREDIENTS: slices dayold bread
+   PARG: a time in the pumpkin mixture
+     PREP: at
+      NON-INGREDIENT SPAN: a time in the pumpkin mixture
+
+
+SENTID: 3
+SENT: I would place in the prepared skilled .
+PREDID: 181
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared skilled
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared skilled
+
+
+SENTID: 4
+SENT: I would repeat with the remaining slices of bread .
+PREDID: 207
+PRED: repeat
+   DOBJ: NULL
+   PARG: the remaining slices of bread
+     PREP: with
+      INGREDIENT SPAN: the remaining slices of bread
+         INGREDIENTS: slices dayold bread
+
+
+SENTID: 5
+SENT: I would stir the pumpkin mixture between dips to keep the walnuts from settling .
+PREDID: 243
+PRED: stir
+   DOBJ: the pumpkin mixture between dips
+      NON-INGREDIENT SPAN: the pumpkin mixture between dips
+   OARG: to keep the walnuts from settling
+      NON-INGREDIENT SPAN: to keep the walnuts from settling
+
+
+SENTID: 6
+SENT: I would cook the bread until golden brown , about 3 minutes on each side .
+PREDID: 304
+PRED: cook
+   DOBJ: the bread
+      NON-INGREDIENT SPAN: the bread
+   PARG: golden brown , about 3 minutes on each side
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown 
+      NON-INGREDIENT SPAN:  about 3 minutes on each side
+
+

@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: I would place eggs in a pot of salted water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a pot of salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a pot of salted water
+
+
+SENTID: 1
+SENT: I would bring the water to a boil , and let eggs cook in boiling water until they are hard boiled , approximately 10 to 15 minutes .
+PREDID: 29
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 53
+PRED: let cook
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water
+   PARG: they are hard boiled
+     PREP: until
+      NON-INGREDIENT SPAN: they are hard boiled
+   PARG: approximately 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 10 to 15 minutes
+
+
+SENTID: 2
+SENT: I would drain eggs , and let cool .
+PREDID: 128
+PRED: drain
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+
+PREDID: 141
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: Once cool , I would remove the shell , cut the eggs in half lengthwise and scoop out the yolks .
+PREDID: 158
+PRED: remove
+   DOBJ: the shell
+      NON-INGREDIENT SPAN: the shell
+   PARG: cool
+     PREP: once
+      NON-INGREDIENT SPAN: cool
+
+PREDID: 173
+PRED: cut
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 202
+PRED: scoop
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would place the yolks in a medium-size mixing bowl and mash them .
+PREDID: 219
+PRED: place
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a medium-size mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium-size mixing bowl
+
+PREDID: 259
+PRED: mash
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+
+
+SENTID: 5
+SENT: I would blend in vinegar , the mayonnaise , the mustard , the salt and pepper .
+PREDID: 268
+PRED: blend
+   DOBJ: NULL
+   PARG: vinegar , the mayonnaise , the mustard , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: white vinegar
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: You may need to add more mayonnaise to hold the mixture together , but it should be slightly dry .
+
+SENTID: 7
+SENT: Carefully put the egg yolk mixture back into the egg whites but do not pack it .
+
+SENTID: 8
+SENT: There will be enough mixture so the whites are overfilled .
+
+SENTID: 9
+SENT: I would sprinkle with paprika .
+PREDID: 316
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 10
+SENT: I would place on bed of lettuce and/or garnish with parsley .
+PREDID: 336
+PRED: place
+   DOBJ: NULL
+   PARG: bed of lettuce
+     PREP: on
+      INGREDIENT SPAN: bed of lettuce
+         INGREDIENTS: leaves lettuce
+
+PREDID: 361
+PRED: garnish
+   DOBJ: NULL
+   PARG: parsley
+     PREP: with
+      NON-INGREDIENT SPAN: parsley
+
+
+SENTID: 11
+SENT: I would cool before serving .
+PREDID: 380
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

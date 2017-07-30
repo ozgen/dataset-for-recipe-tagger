@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would beat eggs slightly with fork in mixing bowl .
+PREDID: 22
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: fork in mixing bowl
+     PREP: with
+      NON-INGREDIENT SPAN: fork in mixing bowl
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 2
+SENT: I would add sugar , stirring until dissolved .
+PREDID: 59
+PRED: add
+   DOBJ: sugar
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: sugar
+   OARG: stirring until dissolved
+      NON-INGREDIENT SPAN: stirring until dissolved
+
+
+SENTID: 3
+SENT: I would stir in topping and butter ;
+PREDID: 91
+PRED: stir
+   DOBJ: NULL
+   PARG: topping, butter
+     PREP: in
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter margarine melted
+      INGREDIENT SPAN: topping
+         INGREDIENTS: ounce jar Smucker Caramel Spoonable Ice Cream Topping
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 114
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would stir in pecan halves .
+PREDID: 122
+PRED: stir
+   DOBJ: NULL
+   PARG: pecan halves
+     PREP: in
+      INGREDIENT SPAN: pecan halves
+         INGREDIENTS: pecan halves
+
+
+SENTID: 6
+SENT: I would pour the filling into pie shell .
+PREDID: 140
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch single Classic Crisco Pie Crust
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F for 45 minutes or until knife inserted off-center comes out clean .
+PREDID: 164
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees
+   PARG: f for 45 minutes or until knife inserted off-center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: f for 45 minutes or until knife inserted off-center comes out clean
+
+
+SENTID: 8
+SENT: I would cool thoroughly on rack before serving .
+PREDID: 237
+PRED: cool
+   DOBJ: NULL
+   PARG: rack
+     PREP: on
+      NON-INGREDIENT SPAN: rack
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 9
+SENT: I would cover ;
+PREDID: 271
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would chill to store .
+PREDID: 277
+PRED: chill
+   DOBJ: NULL
+   OARG: to store
+      NON-INGREDIENT SPAN: to store
+
+

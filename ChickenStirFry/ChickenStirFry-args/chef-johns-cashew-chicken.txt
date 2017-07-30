@@ -1,0 +1,232 @@
+SENTID: 0
+SENT: I would season chicken cubes with salt and black pepper .
+PREDID: 0
+PRED: season
+   DOBJ: chicken cubes
+      INGREDIENT SPAN: chicken cubes
+         INGREDIENTS: grilled skinless boneless chicken breasts cut 1inch
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: Asian chile pepper sauce such sambal oelek
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 1
+SENT: I would mix cornstarch and water in a bowl until smooth ;
+PREDID: 41
+PRED: mix
+   DOBJ: cornstarch, water in a bowl
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  water in a bowl
+         INGREDIENTS: cold water
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would whisk in lemon juice , rice vinegar , the ketchup , soy sauce , brown sugar , and chile pepper sauce into cornstarch mixture , stirring until brown sugar has dissolved and cornstarch is free of lumps .
+PREDID: 81
+PRED: whisk
+   DOBJ: NULL
+   PARG: lemon juice , rice vinegar , the ketchup , soy sauce , brown sugar , chile pepper sauce
+     PREP: in
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  chile pepper sauce
+         INGREDIENTS: fresh hot red chile pepper sliced
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce more taste
+      NON-INGREDIENT SPAN: lemon juice 
+   PARG: cornstarch mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cornstarch mixture
+   OARG: stirring until brown sugar has dissolved
+      NON-INGREDIENT SPAN: stirring until brown sugar has dissolved
+   OARG: cornstarch is free of lumps
+      NON-INGREDIENT SPAN: cornstarch is free of lumps
+
+
+SENTID: 3
+SENT: I would place a heavy skillet over medium-high heat ;
+PREDID: 242
+PRED: place
+   DOBJ: a heavy skillet
+      NON-INGREDIENT SPAN: a heavy skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 4
+SENT: I would pour in vegetable oil .
+PREDID: 280
+PRED: pour
+   DOBJ: NULL
+   PARG: vegetable oil
+     PREP: in
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 5
+SENT: I would add slices of red chili and ginger to the hot oil .
+PREDID: 299
+PRED: add
+   DOBJ: slices of red chili, ginger
+      INGREDIENT SPAN: slices of red chili
+         INGREDIENTS: thin slices fresh ginger root
+      NON-INGREDIENT SPAN:  ginger
+   PARG: the hot oil
+     PREP: to
+      NON-INGREDIENT SPAN: the hot oil
+
+
+SENTID: 6
+SENT: I would cook , stirring often , until oil is flavored , about 2 minutes .
+PREDID: 339
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring often , until oil is flavored , about 2 minutes
+      NON-INGREDIENT SPAN:  until oil is flavored 
+      NON-INGREDIENT SPAN: stirring often 
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 7
+SENT: I would stir in cashews and garlic ;
+PREDID: 391
+PRED: stir
+   DOBJ: NULL
+   PARG: cashews, garlic
+     PREP: in
+      INGREDIENT SPAN: cashews
+         INGREDIENTS: dryroasted cashews
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 8
+SENT: I would cook until cashews are lightly golden brown , about 2 minutes more .
+PREDID: 414
+PRED: cook
+   DOBJ: NULL
+   PARG: cashews are lightly golden brown , about 2 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes more
+      NON-INGREDIENT SPAN: cashews are lightly golden brown 
+
+
+SENTID: 9
+SENT: I would lightly toss seasoned chicken cubes with cashew mixture in skillet until combined , about 30 seconds .
+PREDID: 477
+PRED: toss
+   DOBJ: seasoned chicken cubes
+      NON-INGREDIENT SPAN: seasoned chicken cubes
+   PARG: cashew mixture in skillet
+     PREP: with
+      NON-INGREDIENT SPAN: cashew mixture in skillet
+   PARG: combined , about 30 seconds
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 seconds
+      NON-INGREDIENT SPAN: combined 
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 10
+SENT: I would turn heat down to medium-low and pour cornstarch mixture into skillet .
+PREDID: 556
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 583
+PRED: pour
+   DOBJ: cornstarch mixture
+      NON-INGREDIENT SPAN: cornstarch mixture
+   PARG: skillet
+     PREP: into
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 11
+SENT: I would stir constantly until sauce has thickened , about 30 seconds .
+PREDID: 616
+PRED: stir
+   DOBJ: NULL
+   PARG: sauce has thickened , about 30 seconds
+     PREP: until
+      NON-INGREDIENT SPAN: sauce has thickened 
+      NON-INGREDIENT SPAN:  about 30 seconds
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 12
+SENT: If too thick , I would add a splash of water .
+PREDID: 679
+PRED: add
+   DOBJ: a splash of water
+      NON-INGREDIENT SPAN: a splash of water
+   PARG: too thick
+     PREP: if
+      NON-INGREDIENT SPAN: too thick
+
+
+SENTID: 13
+SENT: I would simmer 2 more minutes to heat the chicken through .
+PREDID: 697
+PRED: simmer
+   DOBJ: NULL
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+   OARG: to heat the chicken through
+      NON-INGREDIENT SPAN: to heat the chicken through
+
+
+SENTID: 14
+SENT: I would adjust levels of salt , black pepper , soy sauce , and chile pepper sauce to taste .
+PREDID: 739
+PRED: adjust
+   DOBJ: levels of salt , black pepper , soy sauce , chile pepper sauce
+      NON-INGREDIENT SPAN: levels of salt 
+      NON-INGREDIENT SPAN:  soy sauce 
+      NON-INGREDIENT SPAN:  chile pepper sauce
+      NON-INGREDIENT SPAN:  black pepper 
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 15
+SENT: I would stir in cilantro just until wilted , about 15 seconds .
+PREDID: 806
+PRED: stir
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: in
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: chopped cilantro
+   PARG: wilted , about 15 seconds
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 seconds
+      NON-INGREDIENT SPAN: wilted 
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would spray a 10-inch skillet with the cooking spray and heat over medium-high heat for 1 minute .
+PREDID: 0
+PRED: spray
+   DOBJ: a 10-inch skillet
+      NON-INGREDIENT SPAN: a 10-inch skillet
+   PARG: the cooking spray, heat over medium-high heat for 1 minute
+     PREP: with
+      INGREDIENT SPAN: the cooking spray
+         INGREDIENTS: Vegetable cooking spray
+      NON-INGREDIENT SPAN:  heat over medium-high heat for 1 minute
+
+
+SENTID: 1
+SENT: I would add the chicken and cook for 10 minutes or until it 's well browned on both sides .
+PREDID: 76
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: Swanson Chicken Stock, skinless boneless chicken breast halves
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: Swanson Chicken Stock, skinless boneless chicken breast halves
+
+PREDID: 92
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes or until it 's well browned on both sides
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes or until it 's well browned on both sides
+
+
+SENTID: 2
+SENT: I would add the stock , the garlic and broccoli to the skillet and heat to a boil .
+PREDID: 142
+PRED: add
+   DOBJ: the stock , the garlic, broccoli
+      INGREDIENT SPAN:  broccoli
+         INGREDIENTS: fresh thawed frozen broccoli flowerets
+      NON-INGREDIENT SPAN:  the garlic
+      NON-INGREDIENT SPAN: the stock 
+   PARG: the skillet, heat to a boil
+     PREP: to
+      NON-INGREDIENT SPAN:  heat to a boil
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 3
+SENT: I would reduce the heat to low .
+PREDID: 198
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 4
+SENT: I would cover and cook for 5 minutes or until the chicken is cooked through .
+PREDID: 217
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 5 minutes or until the chicken is cooked through
+     PREP: for
+      INGREDIENT SPAN: 5 minutes or until the chicken is cooked through
+         INGREDIENTS: hot cooked medium egg noodles
+
+
+SENTID: 5
+SENT: I would remove the chicken from the skillet and keep warm .
+PREDID: 273
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 306
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 6
+SENT: I would stir the flour , the milk , the mustard and black pepper in a small bowl until smooth .
+PREDID: 315
+PRED: stir
+   DOBJ: the flour , the milk , the mustard, black pepper
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: Dijonstyle mustard
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would gradually stir the flour mixture into the skillet .
+PREDID: 387
+PRED: stir
+   DOBJ: the flour mixture
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 8
+SENT: I would increase the heat to medium-high .
+PREDID: 421
+PRED: increase
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-high
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high
+
+
+SENTID: 9
+SENT: I would cook and stir until the mixture boils and thickens .
+PREDID: 450
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the mixture boils, thickens
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture boils
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 10
+SENT: I would serve with the chicken and noodles .
+PREDID: 493
+PRED: serve
+   DOBJ: NULL
+   PARG: the chicken, noodles
+     PREP: with
+      INGREDIENT SPAN:  noodles
+         INGREDIENTS: hot cooked medium egg noodles
+      NON-INGREDIENT SPAN: the chicken
+
+

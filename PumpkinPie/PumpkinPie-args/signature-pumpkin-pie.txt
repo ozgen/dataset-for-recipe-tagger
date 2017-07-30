@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 425 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 425 degrees f.
+
+
+SENTID: 1
+SENT: I would place pie crust on large foil-lined baking sheet .
+PREDID: 25
+PRED: place
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: frozen unbaked 9-inch deep dish pie crust
+   PARG: large foil-lined baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: large foil-lined baking sheet
+
+
+SENTID: 2
+SENT: I would mix pumpkin , the milk , the eggs and pumpkin pie spice in large bowl until smooth .
+PREDID: 67
+PRED: mix
+   DOBJ: pumpkin , the milk , the eggs, pumpkin pie spice
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: McCormick Pumpkin Pie Spice, ounce pumpkin
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: McCormick Pumpkin Pie Spice, ounce pumpkin
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  pumpkin pie spice
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour into crust .
+PREDID: 128
+PRED: pour
+   DOBJ: NULL
+   PARG: crust
+     PREP: into
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 4
+SENT: I would bake 15 minutes .
+PREDID: 142
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 5
+SENT: I would reduce oven temperature to 350 degrees F.
+PREDID: 156
+PRED: reduce
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 6
+SENT: I would bake 40 minutes longer or until knife inserted 1 inch from crust comes out clean .
+PREDID: 191
+PRED: bake
+   DOBJ: NULL
+   OARG: 40 minutes longer or until knife inserted 1 inch from crust comes out clean
+      NON-INGREDIENT SPAN: 40 minutes longer or until knife inserted 1 inch from crust comes out clean
+
+
+SENTID: 7
+SENT: I would cool completely on wire rack .
+PREDID: 258
+PRED: cool
+   DOBJ: NULL
+   PARG: wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: wire rack
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 8
+SENT: I would serve with Vanilla Whipped Cream , if desired .
+PREDID: 283
+PRED: serve
+   DOBJ: NULL
+   PARG: vanilla whipped cream
+     PREP: with
+      INGREDIENT SPAN: vanilla whipped cream
+         INGREDIENTS: Vanilla Whipped Cream recipe follows
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 205 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 205 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease or line a 12-cup muffin tin with paper liners .
+PREDID: 45
+PRED: grease or line
+   DOBJ: a 12-cup muffin tin
+      NON-INGREDIENT SPAN: a 12-cup muffin tin
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large bowl blend the banana , I would egg substitute , soy milk , the oil and applesauce together .
+PREDID: 116
+PRED: blend egg
+   DOBJ: substitute , soy milk , the oil, applesauce, the banana
+      INGREDIENT SPAN:  soy milk 
+         INGREDIENTS: vanilla soy milk
+      INGREDIENT SPAN:  the banana
+         INGREDIENTS: banana peeled mashed
+      INGREDIENT SPAN:  applesauce
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: substitute 
+         INGREDIENTS: egg substitute
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in the rice flour , the sucanat , baking powder and salt .
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: the rice flour , the sucanat , baking powder, salt
+     PREP: in
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the sucanat 
+         INGREDIENTS: sucanat
+      INGREDIENT SPAN: the rice flour 
+         INGREDIENTS: white rice flour
+
+
+SENTID: 4
+SENT: I would mix until just moistened
+PREDID: 210
+PRED: mix
+   DOBJ: NULL
+   PARG: just moistened
+     PREP: until
+      NON-INGREDIENT SPAN: just moistened
+
+
+SENTID: 5
+SENT: I would stir in the dried cherries and vanilla chips .
+PREDID: 231
+PRED: stir
+   DOBJ: NULL
+   PARG: the dried cherries, vanilla chips
+     PREP: in
+      INGREDIENT SPAN: the dried cherries
+         INGREDIENTS: dried cherries
+      INGREDIENT SPAN:  vanilla chips
+         INGREDIENTS: vanilla baking chips
+
+
+SENTID: 6
+SENT: I would pour batter into the prepared muffin tin , filling each cup 2/3 full .
+PREDID: 269
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared muffin tin
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin tin
+   OARG: filling each cup 2/3 full
+      NON-INGREDIENT SPAN: filling each cup 2/3 full
+
+
+SENTID: 7
+SENT: I would bake at 400 degrees F -LRB- 205 degrees C -RRB- for 30 minutes .
+PREDID: 326
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees f -lrb- 205 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 205 degrees c
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+

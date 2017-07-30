@@ -1,0 +1,57 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="spray
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="divide
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="push
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="heat
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="remove
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="spoon
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="serve
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees f", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: extra lean least  ground beef, Progresso   Italian style panko crispy bread crumbs, pouch Progresso   cents Recipe Starters   cents fire roasted tomato cooking sauce, egg", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:in large bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+P1_1[label="DURATION:until well mixed", shape=box, style=filled, fillcolor=white]
+P1_1 -> E1
+D3[label="DOBJ: beef mixture", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+D6[label="DOBJ: pouch Progresso   cents Recipe Starters   cents fire roasted tomato cooking sauce", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="OTHER:until hot", shape=box, style=filled, fillcolor=white]
+P6_0 -> E6
+D2_0[label="DOBJ: 12 regular-size muffin cups", shape=box, style=filled, fillcolor=white]
+D2_0 -> E2
+E0 -> E2 [label="IMPLICIT PREP"]
+E1 -> E2 [label="LOCOROBJ:with cooking spray"]
+D4_ing[label="DOBJ: sticks string cheese", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+P4_1_0[label="LOCOROBJ:into center of each", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="DURATION:20 to 25 minutes or until thermometer inserted in center of loaves in middle of muffin pan reads 160 degrees f.", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E6 -> E7 [label="loaves"]
+E2 -> E7 [label="LOCOROBJ:from muffin pan"]
+E7 -> E8 [label="heated sauce"]
+E5 -> E8 [label="LOCOROBJ:over loaves"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_ing[label="COOBJECT: with Hot mashed potatoes", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would wash and sort pinto beans .
+PREDID: 0
+PRED: wash and sort
+   DOBJ: pinto beans
+      INGREDIENT SPAN: pinto beans
+         INGREDIENTS: dried pinto beans
+
+
+SENTID: 1
+SENT: I would bring 3 gallons of water to boil in a 6 gallon pot .
+PREDID: 22
+PRED: bring
+   DOBJ: 3 gallons of water
+      NON-INGREDIENT SPAN: 3 gallons of water
+   PARG: boil in a 6 gallon pot
+     PREP: to
+      NON-INGREDIENT SPAN: boil in a 6 gallon pot
+
+
+SENTID: 2
+SENT: I would pour in beans , return to a boil and cook 2 minutes .
+PREDID: 62
+PRED: pour
+   DOBJ: NULL
+   PARG: beans
+     PREP: in
+      NON-INGREDIENT SPAN: beans
+
+PREDID: 74
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 90
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 3
+SENT: I would remove from heat and let stand 1 hour .
+PREDID: 103
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 120
+PRED: let
+   DOBJ: stand 1 hour
+      NON-INGREDIENT SPAN: stand 1 hour
+
+
+SENTID: 4
+SENT: I would stir in salt and simmer until tender , 90 minutes .
+PREDID: 134
+PRED: stir
+   DOBJ: NULL
+   PARG: salt, simmer
+     PREP: in
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  simmer
+   PARG: tender , 90 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  90 minutes
+
+
+SENTID: 5
+SENT: I would drain and set aside .
+PREDID: 175
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would brown beef with onions and garlic over medium high heat in same pot or enormous skillet .
+PREDID: 192
+PRED: brown
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: onions
+     PREP: with
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onions
+   OARG: garlic over medium high heat in same pot or enormous skillet
+      NON-INGREDIENT SPAN: garlic over medium high heat in same pot or enormous skillet
+
+
+SENTID: 7
+SENT: I would combine meat mixture , the tomatoes , tomato paste , chili powder , the cumin , the pepper and cooked beans in 6 gallon pot ;
+PREDID: 265
+PRED: combine
+   DOBJ: meat mixture , the tomatoes , tomato paste , chili powder , the cumin , the pepper, cooked beans
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: canned peeled diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  cooked beans
+      NON-INGREDIENT SPAN: meat mixture 
+   PARG: 6 gallon pot
+     PREP: in
+      NON-INGREDIENT SPAN: 6 gallon pot
+
+
+SENTID: 8
+SENT: I would stir ;
+PREDID: 356
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would cover and simmer 1 hour .
+PREDID: 361
+PRED: cover and simmer
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

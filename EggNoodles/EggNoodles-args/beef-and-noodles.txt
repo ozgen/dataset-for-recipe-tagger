@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: I would heat a skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: a skillet over medium-high heat
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook steak , working in batches , until seared and browned on all sides , about 5 minutes .
+PREDID: 32
+PRED: cook
+   DOBJ: steak , working in batches
+      INGREDIENT SPAN: steak 
+         INGREDIENTS: sirloin steak cut 1inch cubes
+      NON-INGREDIENT SPAN:  working in batches
+   PARG: seared, browned on all sides , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  browned on all sides 
+      NON-INGREDIENT SPAN: seared
+
+
+SENTID: 2
+SENT: I would transfer seared steak to a plate .
+PREDID: 105
+PRED: transfer
+   DOBJ: seared steak
+      NON-INGREDIENT SPAN: seared steak
+   PARG: a plate
+     PREP: to
+      NON-INGREDIENT SPAN: a plate
+
+
+SENTID: 3
+SENT: I would melt butter in the same skillet over medium heat and saute onion until softened , 5 to 10 minutes .
+PREDID: 133
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: the same skillet over medium heat, saute onion until softened , 5 to 10 minutes
+     PREP: in
+      INGREDIENT SPAN:  saute onion until softened 
+         INGREDIENTS: large onion sliced
+      NON-INGREDIENT SPAN: the same skillet over medium heat
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 4
+SENT: I would add steak to onion and pour beef stock over steak ;
+PREDID: 213
+PRED: add
+   DOBJ: steak
+      NON-INGREDIENT SPAN: steak
+   OARG: to onion, pour beef stock over steak
+      INGREDIENT SPAN:  pour beef stock over steak
+         INGREDIENTS: beef stock
+      NON-INGREDIENT SPAN: to onion
+
+
+SENTID: 5
+SENT: I would season with bay leaves , the thyme , the salt , and pepper .
+PREDID: 254
+PRED: season
+   DOBJ: NULL
+   PARG: bay leaves , the thyme , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: bay leaves 
+         INGREDIENTS: bay leaves
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  the thyme 
+
+
+SENTID: 6
+SENT: Bring to a boil , I would reduce heat to low , cover skillet with a lid , and simmer until steak is tender , 50 minutes to 1 hour 50 minutes .
+PREDID: 308
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: bring to a boil
+      NON-INGREDIENT SPAN: bring to a boil
+
+PREDID: 324
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+
+PREDID: 348
+PRED: simmer
+   DOBJ: NULL
+   PARG: steak is tender , 50 minutes to 1 hour 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: steak is tender 
+      NON-INGREDIENT SPAN:  50 minutes to 1 hour 50 minutes
+
+
+SENTID: 7
+SENT: I would stir peas and cornstarch into steak mixture ;
+PREDID: 399
+PRED: stir
+   DOBJ: peas, cornstarch
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: peas
+         INGREDIENTS: frozen peas
+   PARG: steak mixture
+     PREP: into
+      NON-INGREDIENT SPAN: steak mixture
+
+
+SENTID: 8
+SENT: I would cook uncovered until liquid thickens , about 10 minutes .
+PREDID: 437
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 441
+PRED: uncovered
+   DOBJ: NULL
+   PARG: liquid thickens , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: liquid thickens 
+
+
+SENTID: 9
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 485
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 10
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 527
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 11
+SENT: I would drain .
+PREDID: 628
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 12
+SENT: I would serve beef mixture over noodles .
+PREDID: 634
+PRED: serve
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: noodles
+     PREP: over
+      NON-INGREDIENT SPAN: noodles
+
+

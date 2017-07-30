@@ -1,0 +1,221 @@
+SENTID: 0
+SENT: I would place bacon in a wok or large skillet ;
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon diced
+   PARG: a wok or large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet
+
+
+SENTID: 1
+SENT: I would cook and stir over medium-high heat until crisp , about 10 minutes .
+PREDID: 31
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: crisp , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: crisp 
+
+
+SENTID: 2
+SENT: I would remove bacon with a slotted spoon and reserve bacon drippings in the wok .
+PREDID: 87
+PRED: remove
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: a slotted spoon, reserve bacon drippings
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+      NON-INGREDIENT SPAN:  reserve bacon drippings
+   PARG: the wok
+     PREP: in
+      NON-INGREDIENT SPAN: the wok
+
+
+SENTID: 3
+SENT: I would cook and stir shallots in bacon drippings over medium-high heat until fragrant and light brown , 1 to 2 minutes .
+PREDID: 148
+PRED: cook and stir
+   DOBJ: shallots in bacon drippings
+      INGREDIENT SPAN: shallots in bacon drippings
+         INGREDIENTS: shallots sliced
+   PARG: medium-high heat until fragrant, light brown , 1 to 2 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat until fragrant
+      NON-INGREDIENT SPAN:  light brown 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 4
+SENT: I would stir chicken into shallots and cook without stirring until browned on one side , 45 seconds to 1 minute ;
+PREDID: 241
+PRED: stir
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chicken breast cut small cubes
+   PARG: shallots
+     PREP: into
+      NON-INGREDIENT SPAN: shallots
+
+PREDID: 267
+PRED: cook
+   DOBJ: NULL
+   PARG: stirring until browned on one side , 45 seconds to 1 minute
+     PREP: without
+      NON-INGREDIENT SPAN: stirring until browned on one side 
+      NON-INGREDIENT SPAN:  45 seconds to 1 minute
+
+
+SENTID: 5
+SENT: I would stir .
+PREDID: 327
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would continue the cooking until chicken is browned , about 1 minute .
+PREDID: 332
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: chicken is browned , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is browned 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 7
+SENT: I would add 2 teaspoons curry powder ;
+PREDID: 382
+PRED: add curry
+   DOBJ: 2 teaspoons, powder
+      INGREDIENT SPAN:  powder
+         INGREDIENTS: curry powder divided
+      NON-INGREDIENT SPAN: 2 teaspoons
+
+
+SENTID: 8
+SENT: I would stir until chicken is coated .
+PREDID: 407
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken is coated
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is coated
+
+
+SENTID: 9
+SENT: I would make a well in the center of chicken and pour oil into center of the well ;
+PREDID: 432
+PRED: make
+   DOBJ: a well
+      NON-INGREDIENT SPAN: a well
+   PARG: the center of chicken
+     PREP: in
+      NON-INGREDIENT SPAN: the center of chicken
+
+PREDID: 464
+PRED: pour
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil needed
+   PARG: center of the well
+     PREP: into
+      NON-INGREDIENT SPAN: center of the well
+
+
+SENTID: 10
+SENT: I would add egg yolks .
+PREDID: 491
+PRED: add
+   DOBJ: egg yolks
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: egg yolks beaten
+
+
+SENTID: 11
+SENT: I would cook and stir egg yolks until set , 1 to 2 minutes .
+PREDID: 503
+PRED: cook and stir
+   DOBJ: egg yolks
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: set , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: set 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 12
+SENT: I would add rice and stir , breaking up rice .
+PREDID: 543
+PRED: add
+   DOBJ: rice
+      INGREDIENT SPAN: rice
+         INGREDIENTS: cooked jasmine rice
+
+PREDID: 553
+PRED: stir
+   DOBJ: NULL
+   OARG: breaking up rice
+      NON-INGREDIENT SPAN: breaking up rice
+
+
+SENTID: 13
+SENT: I would mix chile pepper , the cilantro , soy sauce , remaining 2 teaspoons curry powder , fish sauce , and sugar into rice mixture ;
+PREDID: 573
+PRED: mix
+   DOBJ: NULL
+   OARG: chile pepper , the cilantro , soy sauce , remaining 2 teaspoons curry powder , fish sauce , sugar into rice mixture
+      INGREDIENT SPAN: chile pepper 
+         INGREDIENTS: red Thai bird chile pepper chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: whole cilantro leaves
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN:  sugar into rice mixture
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  remaining 2 teaspoons curry powder 
+
+
+SENTID: 14
+SENT: I would add shrimp and cook until shrimp is cooked through and pink , about 2 minutes .
+PREDID: 671
+PRED: add
+   DOBJ: shrimp
+      NON-INGREDIENT SPAN: shrimp
+
+PREDID: 683
+PRED: cook
+   DOBJ: NULL
+   PARG: shrimp is cooked through, pink , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN:  pink 
+      NON-INGREDIENT SPAN: shrimp is cooked through
+
+
+SENTID: 15
+SENT: I would fold pineapple , green onions , and bacon into rice mixture .
+PREDID: 735
+PRED: fold
+   DOBJ: pineapple , green onions , bacon
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN: pineapple 
+         INGREDIENTS: chopped fresh pineapple
+      NON-INGREDIENT SPAN:  bacon
+   PARG: rice mixture
+     PREP: into
+      NON-INGREDIENT SPAN: rice mixture
+
+

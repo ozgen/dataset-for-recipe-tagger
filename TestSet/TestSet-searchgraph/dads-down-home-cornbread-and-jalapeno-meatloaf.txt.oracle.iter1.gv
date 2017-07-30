@@ -1,0 +1,54 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="form
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="place
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cover
+8", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: ground beef, ground pork", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: a medium baking dish", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D3[label="DOBJ: sour cream, fresh jalapeno peppers and, milk, freshly ground black pepper, kosher salt, shredded pepperjack cheese, canned whole kernel corn, cloves garlic minced, egg lightly, finely chopped onion, crumbled cornbread", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+E3 -> E4 [label="the corn mixture"]
+E2 -> E4 [label="COOBJECT:into the meat mixture"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into a rounded loaf shape", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E1 -> E6 [label="LOCATION:in the prepared baking dish"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E0 -> E7 [label="LOCATION:in the preheated oven"]
+O7_0_0[label="OTHER: 1 hour", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: to a minimum internal temperature of 160 degrees f (72 degrees c)", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: with aluminum foil", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: during the last 15 minutes of cook time if the loaf is overly brown", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

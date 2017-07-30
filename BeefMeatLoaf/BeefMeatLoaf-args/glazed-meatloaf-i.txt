@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a small bowl , I would combine the ketchup , brown sugar , 1 tablespoon lemon juice and mustard powder .
+PREDID: 51
+PRED: combine
+   DOBJ: the ketchup , brown sugar , 1 tablespoon lemon juice, mustard powder
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  mustard powder
+         INGREDIENTS: mustard powder
+      INGREDIENT SPAN:  1 tablespoon lemon juice
+         INGREDIENTS: lemon juice divided
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 2
+SENT: In a separate large bowl , I would combine the ground beef , the bread , the onion , the egg , the bouillon , remaining lemon juice and 1/3 of the ketchup mixture from the small bowl .
+PREDID: 139
+PRED: combine
+   DOBJ: the ground beef , the bread , the onion , the egg , the bouillon , remaining lemon juice, 1/3 of the ketchup mixture
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the bread 
+         INGREDIENTS: slices bread broken small
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the bouillon 
+         INGREDIENTS: beef bouillon granules
+      INGREDIENT SPAN:  remaining lemon juice
+         INGREDIENTS: lemon juice divided
+      NON-INGREDIENT SPAN:  1/3 of the ketchup mixture
+   PARG: a separate large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large bowl
+   PARG: the small bowl
+     PREP: from
+      NON-INGREDIENT SPAN: the small bowl
+
+
+SENTID: 3
+SENT: I would mix this well and place in a 5x9 inch loaf pan .
+PREDID: 246
+PRED: mix
+   DOBJ: this well, place in a 5x9 inch loaf pan
+      NON-INGREDIENT SPAN:  place in a 5x9 inch loaf pan
+      NON-INGREDIENT SPAN: this well
+
+
+SENTID: 4
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour , drain any excess fat , coat with remaining ketchup mixture and bake for 10 more minutes .
+PREDID: 283
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+PREDID: 330
+PRED: drain
+   DOBJ: any excess fat , coat with remaining ketchup mixture
+      NON-INGREDIENT SPAN: any excess fat 
+      NON-INGREDIENT SPAN:  coat with remaining ketchup mixture
+
+PREDID: 382
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 more minutes
+
+

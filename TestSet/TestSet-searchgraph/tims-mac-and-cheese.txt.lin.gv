@@ -1,0 +1,100 @@
+digraph recipe {
+E0[label="bring
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="melt
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="add
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stirring
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="add
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="preheat
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="pour
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="mix
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="pour
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="place
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="melt
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="pour
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="bake
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="serve
+18", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: a large pot of lightly salted water", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+P0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="pasta"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="DURATION:for 8 to 10 minutes or until al dente", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+D4_ing[label="DOBJ: butter", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="LOCOROBJ:in a large sauce pan"]
+P4_1_0[label="LOCOROBJ:over medium heat", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+D5_ing[label="DOBJ: salt and pepper to taste, allpurpose flour", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+P5_1_ing[label="COOBJECT: to ground black pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P5_1_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="DURATION:until paste-like consistency", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: milk", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="LOCOROBJ:to mixture"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_ing[label="COOBJECT: in white Cheddar cheese", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+P9_1_0[label="DURATION:until all cheese is melted", shape=box, style=filled, fillcolor=white]
+P9_1_0 -> E9
+E9 -> E10 [label="oven to 350 degrees f -lrb- 175 degrees c"]
+E10 -> E11 [label="cheese mixture"]
+P11_0_ing[label="COOBJECT: over package elbow macaroni", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_0[label="LOCOROBJ:into a lightly greased 9x13 inch baking dish", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+D14_ing[label="DOBJ: slices dayold bread torn small", shape=box, style=filled, fillcolor=peachpuff]
+D14_ing -> E14
+E13 -> E14 [label="season with salt"]
+D14_1[label="DOBJ: pepper", shape=box, style=filled, fillcolor=white]
+D14_1 -> E14
+P14_0_0[label="LOCOROBJ:to taste", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+D15_ing[label="DOBJ: butter", shape=box, style=filled, fillcolor=peachpuff]
+D15_ing -> E15
+E14 -> E15 [label="IMPLICIT PREP"]
+E15 -> E16 [label="IMPLICIT DOBJ"]
+P16_0_0[label="LOCOROBJ:over bread", shape=box, style=filled, fillcolor=white]
+P16_0_0 -> E16
+E16 -> E17 [label="IMPLICIT DOBJ"]
+P17_0_0[label="DURATION:in preheated oven for 25 to 30 minutes or until bubbly", shape=box, style=filled, fillcolor=white]
+P17_0_0 -> E17
+P17_0_1[label="DURATION:in golden brown", shape=box, style=filled, fillcolor=white]
+P17_0_1 -> E17
+E17 -> E18 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E18 -> EOR
+}

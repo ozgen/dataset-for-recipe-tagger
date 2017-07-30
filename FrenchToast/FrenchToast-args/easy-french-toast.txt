@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: I would beat together egg , the milk , the cinnamon , the vanilla and salt .
+PREDID: 0
+PRED: beat
+   DOBJ: egg , the milk , the cinnamon , the vanilla, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would heat a lightly oiled skillet or griddle over medium heat .
+PREDID: 45
+PRED: heat
+   DOBJ: a lightly oiled skillet
+      NON-INGREDIENT SPAN: a lightly oiled skillet
+
+PREDID: 71
+PRED: griddle
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 2
+SENT: I would soak bread slices in egg mixture for 20 second on each side , or until thoroughly coated .
+PREDID: 93
+PRED: soak
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: slices bread
+   PARG: egg mixture for 20 second on each side , or until thoroughly coated
+     PREP: in
+      NON-INGREDIENT SPAN:  or until thoroughly coated
+      NON-INGREDIENT SPAN: egg mixture for 20 second on each side 
+
+
+SENTID: 3
+SENT: I would cook bread until both sides are lightly browned and crisp .
+PREDID: 166
+PRED: cook
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: both sides are lightly browned, crisp
+     PREP: until
+      NON-INGREDIENT SPAN: both sides are lightly browned
+      NON-INGREDIENT SPAN:  crisp
+
+
+SENTID: 4
+SENT: I would serve hot .
+PREDID: 215
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

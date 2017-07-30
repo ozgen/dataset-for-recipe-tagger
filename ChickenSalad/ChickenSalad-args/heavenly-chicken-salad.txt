@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would toss the water chestnuts with the lemon juice in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: the water chestnuts
+      INGREDIENT SPAN: the water chestnuts
+         INGREDIENTS: ounce water chestnuts drained halved
+   PARG: the lemon juice in a large bowl
+     PREP: with
+      INGREDIENT SPAN: the lemon juice in a large bowl
+         INGREDIENTS: fresh lemon juice
+
+
+SENTID: 1
+SENT: I would add the chicken , the celery , the grapes , and almonds to the water chestnuts .
+PREDID: 51
+PRED: add
+   DOBJ: the chicken , the celery , the grapes , almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: toasted slivered almonds
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: bunch celery chopped
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: red seedless grapes halved
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked chopped chicken breast
+   PARG: the water chestnuts
+     PREP: to
+      NON-INGREDIENT SPAN: the water chestnuts
+
+
+SENTID: 2
+SENT: I would stir the mayonnaise , the chutney , curry powder , and salt together in a separate bowl .
+PREDID: 109
+PRED: stir
+   DOBJ: the mayonnaise , the chutney , curry powder , salt
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: ounce jar Major Grey chutney
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would fold the chicken mixture into the mayonnaise mixture ;
+PREDID: 178
+PRED: fold
+   DOBJ: the chicken mixture
+      NON-INGREDIENT SPAN: the chicken mixture
+   PARG: the mayonnaise mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mayonnaise mixture
+
+
+SENTID: 4
+SENT: I would stir to coat evenly .
+PREDID: 224
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 5
+SENT: I would chill in refrigerator at least 30 minutes before serving .
+PREDID: 241
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator at least 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator at least 30 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

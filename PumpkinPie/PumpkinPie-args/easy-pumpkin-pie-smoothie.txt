@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: I would blend almond milk , the pumpkin , ice cubes , the banana , brown sugar , 1/2 the crushed cinnamon graham cracker , wheat germ , the vanilla , pumpkin pie spice , and cinnamon together in a blender until smooth .
+PREDID: 0
+PRED: blend
+   DOBJ: almond milk , the pumpkin , ice cubes , the banana , brown sugar , 1/2 the crushed cinnamon graham cracker , wheat germ , the vanilla , pumpkin pie spice , cinnamon
+      INGREDIENT SPAN: almond milk 
+         INGREDIENTS: vanilla-flavored almond milk
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: frozen pumpkin puree
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  ice cubes 
+         INGREDIENTS: ice cubes
+      INGREDIENT SPAN:  1/2 the crushed cinnamon graham cracker 
+         INGREDIENTS: cinnamon graham cracker crushed divided
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  wheat germ 
+         INGREDIENTS: wheat germ
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the banana 
+         INGREDIENTS: banana
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would garnish individual servings with remaining graham cracker crumbs .
+PREDID: 161
+PRED: garnish
+   DOBJ: individual servings
+      NON-INGREDIENT SPAN: individual servings
+   PARG: remaining graham cracker crumbs
+     PREP: with
+      NON-INGREDIENT SPAN: remaining graham cracker crumbs
+
+

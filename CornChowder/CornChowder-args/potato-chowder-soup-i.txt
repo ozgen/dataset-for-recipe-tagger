@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would place potatoes , the carrots , the celery , the onion and salt in a large pot with water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes , the carrots , the celery , the onion, salt
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: diced carrots
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: peeled diced potatoes
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , reduce heat and simmer 20 minutes .
+PREDID: 69
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 82
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 95
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 2
+SENT: I would meanwhile , combine butter , the milk and flour in a small saucepan over medium-low heat .
+PREDID: 121
+PRED: combine
+   DOBJ: butter , the milk, flour in a small saucepan over medium-low heat
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  flour in a small saucepan over medium-low heat
+         INGREDIENTS: allpurpose flour
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would stir constantly until smooth and thick .
+PREDID: 182
+PRED: stir
+   DOBJ: NULL
+   PARG: smooth, thick
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  thick
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 4
+SENT: I would pour milk mixture into cooked vegetables .
+PREDID: 216
+PRED: pour
+   DOBJ: milk mixture
+      NON-INGREDIENT SPAN: milk mixture
+   PARG: cooked vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: cooked vegetables
+
+
+SENTID: 5
+SENT: I would stir in corn and cheese until cheese is melted .
+PREDID: 252
+PRED: stir
+   DOBJ: NULL
+   PARG: corn, cheese
+     PREP: in
+      INGREDIENT SPAN: corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 6
+SENT: I would serve .
+PREDID: 291
+PRED: serve
+   DOBJ: NULL
+
+

@@ -1,0 +1,207 @@
+SENTID: 0
+SENT: I would mix ground beef with seasoning mix in large bowl until well blended .
+PREDID: 0
+PRED: mix
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground sirloin beef
+   PARG: seasoning mix in large bowl until well blended
+     PREP: with
+      INGREDIENT SPAN: seasoning mix in large bowl until well blended
+         INGREDIENTS: ounce package ranch salad seasoning mix
+
+
+SENTID: 1
+SENT: I would shape beef into 6 oblong patties , about 6 x 3-inches each .
+PREDID: 57
+PRED: shape
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: 6 oblong patties , about 6 x 3-inches each
+     PREP: into
+      NON-INGREDIENT SPAN: 6 oblong patties 
+      NON-INGREDIENT SPAN:  about 6 x 3-inches each
+
+
+SENTID: 2
+SENT: I would whisk together barbecue sauce and dressing in small bowl ;
+PREDID: 105
+PRED: whisk
+   DOBJ: barbecue sauce, dressing in small bowl
+      INGREDIENT SPAN: barbecue sauce
+         INGREDIENTS: Hunt Original Barbecue Sauce
+      INGREDIENT SPAN:  dressing in small bowl
+         INGREDIENTS: ranch dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 154
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would spray grate of outdoor grill and utensils with grilling spray .
+PREDID: 163
+PRED: spray
+   DOBJ: grate of outdoor grill, utensils
+      NON-INGREDIENT SPAN: grate of outdoor grill
+      NON-INGREDIENT SPAN:  utensils
+   PARG: grilling spray
+     PREP: with
+      INGREDIENT SPAN: grilling spray
+         INGREDIENTS: Nonstick cooking spray
+
+
+SENTID: 5
+SENT: I would preheat grill to medium heat .
+PREDID: 216
+PRED: preheat
+   DOBJ: grill to medium heat
+      NON-INGREDIENT SPAN: grill to medium heat
+
+
+SENTID: 6
+SENT: I would grill the patties 5 minutes on one side or until juices begin to appear on surface .
+PREDID: 241
+PRED: grill
+   DOBJ: NULL
+   OARG: the patties 5 minutes on one side
+      NON-INGREDIENT SPAN: the patties 5 minutes on one side
+
+
+SENTID: 7
+SENT: I would turn patties over ;
+PREDID: 306
+PRED: turn
+   DOBJ: patties
+      NON-INGREDIENT SPAN: patties
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would top each with 3 slices bacon .
+PREDID: 322
+PRED: top
+   DOBJ: each with 3 slices bacon
+      INGREDIENT SPAN: each with 3 bacon
+         INGREDIENTS: ounce package cooked bacon heated
+      INGREDIENT SPAN: each with 3 slices bacon
+         INGREDIENTS: slices Monterey Jack cheese slice cut triangles
+
+
+SENTID: 9
+SENT: I would cook about 4 minutes longer ;
+PREDID: 346
+PRED: cook
+   DOBJ: NULL
+   OARG: about 4 minutes longer
+      NON-INGREDIENT SPAN: about 4 minutes longer
+
+
+SENTID: 10
+SENT: I would top each patty with 2 triangle pieces of cheese , overlapping to cover patty .
+PREDID: 370
+PRED: top
+   DOBJ: each patty
+      NON-INGREDIENT SPAN: each patty
+   PARG: 2 triangle pieces of cheese , overlapping to cover patty
+     PREP: with
+      INGREDIENT SPAN: 2 triangle pieces of cheese 
+         INGREDIENTS: slices Monterey Jack cheese slice cut triangles
+      NON-INGREDIENT SPAN:  overlapping to cover patty
+
+
+SENTID: 11
+SENT: I would remove patties when cheese begins to melt .
+PREDID: 434
+PRED: remove
+   DOBJ: patties
+      NON-INGREDIENT SPAN: patties
+   OARG: when cheese begins
+      INGREDIENT SPAN: when cheese begins
+         INGREDIENTS: slices Monterey Jack cheese slice cut triangles
+
+
+SENTID: 12
+SENT: I would spread barbecue-dressing mixture on bottom of each roll .
+PREDID: 470
+PRED: spread
+   DOBJ: barbecue-dressing mixture
+      NON-INGREDIENT SPAN: barbecue-dressing mixture
+   PARG: bottom of each roll
+     PREP: on
+      INGREDIENT SPAN: bottom of each roll
+         INGREDIENTS: ounce package French bread rolls sliced half lengthwise toasted
+
+
+SENTID: 13
+SENT: I would add a lettuce leaf .
+PREDID: 519
+PRED: add
+   DOBJ: a lettuce leaf
+      INGREDIENT SPAN: a lettuce leaf
+         INGREDIENTS: leaves green leaf lettuce
+
+
+SENTID: 14
+SENT: I would place cooked patty with bacon and cheese on lettuce .
+PREDID: 535
+PRED: place
+   DOBJ: NULL
+
+PREDID: 540
+PRED: cooked
+   DOBJ: NULL
+   PARG: bacon, cheese
+     PREP: with
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: ounce package cooked bacon heated
+      NON-INGREDIENT SPAN:  cheese
+   PARG: lettuce
+     PREP: on
+      NON-INGREDIENT SPAN: lettuce
+   OARG: patty
+      NON-INGREDIENT SPAN: patty
+
+
+SENTID: 15
+SENT: I would spoon additional barbecue-dressing mixture over cheese .
+PREDID: 579
+PRED: spoon
+   DOBJ: additional barbecue-dressing mixture
+      NON-INGREDIENT SPAN: additional barbecue-dressing mixture
+   PARG: cheese
+     PREP: over
+      NON-INGREDIENT SPAN: cheese
+
+
+SENTID: 16
+SENT: I would sprinkle with fried onions , if desired .
+PREDID: 629
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: fried onions
+     PREP: with
+      INGREDIENT SPAN: fried onions
+         INGREDIENTS: Frenchfried onions
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 17
+SENT: I would serve immediately .
+PREDID: 663
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

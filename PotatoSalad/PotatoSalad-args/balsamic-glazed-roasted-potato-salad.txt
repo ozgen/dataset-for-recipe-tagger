@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would line a baking sheet with aluminum foil .
+PREDID: 38
+PRED: line
+   DOBJ: a baking sheet with aluminum foil
+      NON-INGREDIENT SPAN: a baking sheet with aluminum foil
+
+
+SENTID: 2
+SENT: I would whisk olive oil , 3 tablespoons balsamic vinegar , the honey , the paprika , the garlic , the salt , and black pepper together in a large bowl .
+PREDID: 71
+PRED: whisk
+   DOBJ: olive oil , 3 tablespoons balsamic vinegar , the honey , the paprika , the garlic , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  3 tablespoons balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      NON-INGREDIENT SPAN:  black pepper
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir potatoes , the mushrooms , and sweet onion into vinegar mixture ;
+PREDID: 174
+PRED: stir
+   DOBJ: potatoes , the mushrooms , sweet onion
+      INGREDIENT SPAN:  sweet onion
+         INGREDIENTS: green onions sliced, large sweet onion chopped
+      INGREDIENT SPAN:  sweet onion
+         INGREDIENTS: green onions sliced, large sweet onion chopped
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: baby Yukon Gold potatoes quartered
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: cremini mushrooms quartered
+   PARG: vinegar mixture
+     PREP: into
+      INGREDIENT SPAN: vinegar mixture
+         INGREDIENTS: balsamic vinegar
+
+
+SENTID: 4
+SENT: I would toss to coat .
+PREDID: 229
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would spread vegetables over prepared baking sheet .
+PREDID: 240
+PRED: spread
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   PARG: prepared baking sheet
+     PREP: over
+      NON-INGREDIENT SPAN: prepared baking sheet
+
+
+SENTID: 6
+SENT: I would bake in preheated oven until potatoes are easily pierced with a fork , 30 to 40 minutes .
+PREDID: 280
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: potatoes are easily pierced with a fork , 30 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: potatoes are easily pierced with a fork 
+
+
+SENTID: 7
+SENT: I would place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 352
+PRED: place
+   DOBJ: the bacon in a large , deep skillet
+      INGREDIENT SPAN: the bacon in a large 
+         INGREDIENTS: slices bacon
+      NON-INGREDIENT SPAN:  deep skillet
+
+PREDID: 389
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 8
+SENT: I would drain the bacon slices on a paper towel-lined plate ;
+PREDID: 467
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 9
+SENT: I would crumble bacon .
+PREDID: 511
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+
+
+SENTID: 10
+SENT: I would transfer potato mixture to a large bowl and toss with bacon , green onions , the parsley , and remaining 2 tablespoons balsamic vinegar .
+PREDID: 524
+PRED: transfer
+   DOBJ: potato mixture
+      NON-INGREDIENT SPAN: potato mixture
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 560
+PRED: toss
+   DOBJ: NULL
+   PARG: bacon , green onions , the parsley , remaining 2 tablespoons balsamic vinegar
+     PREP: with
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      NON-INGREDIENT SPAN:  green onions 
+      NON-INGREDIENT SPAN:  remaining 2 tablespoons balsamic vinegar
+      NON-INGREDIENT SPAN: bacon 
+
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would brown beef and onion in a large skillet over medium high heat .
+PREDID: 0
+PRED: brown
+   DOBJ: beef, onion
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+
+
+SENTID: 1
+SENT: I would place browned mixture in a large pot and stir in the tomato sauce , garlic , Worcestershire sauce , the cinnamon , the vinegar , chili powder , cayenne pepper , the salt and pepper .
+PREDID: 51
+PRED: place
+   DOBJ: browned mixture
+      NON-INGREDIENT SPAN: browned mixture
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 84
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato sauce , garlic , worcestershire sauce , the cinnamon , the vinegar , chili powder , cayenne pepper , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic crushed
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 2
+SENT: I would simmer , uncovered , over low heat for 1?1/2 hours .
+PREDID: 189
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat for 1?1/2 hours
+     PREP: over
+      NON-INGREDIENT SPAN: low heat for 1?1/2 hours
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+
+SENTID: 3
+SENT: When meat mixture has about 20 minutes cooking time left , bring a large pot of lightly salted water to a boil .
+PREDID: 279
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: when meat mixture has about 20 minutes cooking time left
+      NON-INGREDIENT SPAN: when meat mixture has about 20 minutes cooking time left
+
+
+SENTID: 4
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 321
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would drain and set aside .
+PREDID: 366
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would serve meat mixture over cooked spaghetti topped with cheese , the beans , the olives and chopped onion .
+PREDID: 383
+PRED: serve
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: cooked spaghetti topped with cheese , the beans , the olives, chopped onion
+     PREP: over
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: kidney beans
+      INGREDIENT SPAN: cooked spaghetti topped with cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the olives
+         INGREDIENTS: olives
+      INGREDIENT SPAN: cooked spaghetti topped with 
+         INGREDIENTS: uncooked spaghetti
+      INGREDIENT SPAN:  chopped onion
+         INGREDIENTS: chopped onion
+
+

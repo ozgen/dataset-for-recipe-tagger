@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would stir the condensed soup and water together in a slow cooker until smooth .
+PREDID: 0
+PRED: stir
+   DOBJ: the condensed soup, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the condensed soup
+         INGREDIENTS: ounce condensed Cheddar cheese soup
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the shell pasta and andouille sausage .
+PREDID: 61
+PRED: add
+   DOBJ: the shell pasta, andouille sausage
+      INGREDIENT SPAN:  andouille sausage
+         INGREDIENTS: andouille sausage sliced rounds
+      INGREDIENT SPAN: the shell pasta
+         INGREDIENTS: ounce package uncooked shell pasta
+
+
+SENTID: 2
+SENT: I would set the slow cooker to High ;
+PREDID: 97
+PRED: set
+   DOBJ: the slow cooker
+      NON-INGREDIENT SPAN: the slow cooker
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 3
+SENT: I would cook 2 hours , stirring frequently to prevent sticking .
+PREDID: 120
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 hours , stirring frequently to prevent sticking
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours 
+      NON-INGREDIENT SPAN:  stirring frequently to prevent sticking
+
+
+SENTID: 4
+SENT: Once the pasta is tender , I would stir in the sour cream , the Cheddar , and mozzarella until the cheeses melt .
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: the pasta is tender
+     PREP: once
+      NON-INGREDIENT SPAN: the pasta is tender
+   PARG: the sour cream , the cheddar , mozzarella
+     PREP: in
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the cheddar 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the cheeses melt
+     PREP: until
+      NON-INGREDIENT SPAN: the cheeses melt
+
+
+SENTID: 5
+SENT: I would season to taste with salt and pepper .
+PREDID: 248
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would remove from heat , and allow to rest 15 minutes before serving .
+PREDID: 279
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 297
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest 15 minutes before serving
+      NON-INGREDIENT SPAN: to rest 15 minutes before serving
+
+

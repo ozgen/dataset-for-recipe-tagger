@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: I would bring water to a boil and boil eggs for 10 to 15 minutes .
+PREDID: 42
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil, boil eggs for 10 to 15 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+      NON-INGREDIENT SPAN:  boil eggs for 10 to 15 minutes
+
+
+SENTID: 2
+SENT: I would remove eggs from boiling water and place in a medium saucepan of cold water until cool .
+PREDID: 87
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: boiling water, place in a medium saucepan of cold water until cool
+     PREP: from
+      NON-INGREDIENT SPAN:  place in a medium saucepan of cold water until cool
+      NON-INGREDIENT SPAN: boiling water
+
+
+SENTID: 3
+SENT: I would remove the shells and cut the eggs lengthwise to remove the yolks .
+PREDID: 159
+PRED: remove
+   DOBJ: the shells
+      NON-INGREDIENT SPAN: the shells
+
+PREDID: 177
+PRED: cut
+   DOBJ: the eggs lengthwise
+      NON-INGREDIENT SPAN: the eggs lengthwise
+   OARG: to remove the yolks
+      NON-INGREDIENT SPAN: to remove the yolks
+
+
+SENTID: 4
+SENT: I would place yolks in a medium sized mixing bowl .
+PREDID: 214
+PRED: place sized
+   DOBJ: yolks in a medium
+      NON-INGREDIENT SPAN: yolks in a medium
+   OARG: mixing bowl
+      NON-INGREDIENT SPAN: mixing bowl
+
+
+SENTID: 5
+SENT: I would mix in the mustard , the mayonnaise , garlic salt and onion powder with the egg yolks .
+PREDID: 249
+PRED: mix
+   DOBJ: NULL
+   PARG: the mustard , the mayonnaise , garlic salt, onion powder
+     PREP: in
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN: the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  onion powder
+         INGREDIENTS: onion powder
+   PARG: the egg yolks
+     PREP: with
+      NON-INGREDIENT SPAN: the egg yolks
+
+
+SENTID: 6
+SENT: I would scoop the mixture into the hollowed out areas of the egg whites .
+PREDID: 316
+PRED: scoop
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the hollowed out areas of the egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: the hollowed out areas of the egg whites
+
+
+SENTID: 7
+SENT: I would garnish with paprika .
+PREDID: 369
+PRED: garnish
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+
+SENTID: 8
+SENT: I would refrigerate at least one hour before serving .
+PREDID: 388
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least one hour
+     PREP: at
+      NON-INGREDIENT SPAN: least one hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

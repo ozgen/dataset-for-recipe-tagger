@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would place the salt pork in a large skillet over medium heat .
+PREDID: 0
+PRED: place
+   DOBJ: the salt pork
+      INGREDIENT SPAN: the salt pork
+         INGREDIENTS: salt pork diced
+   PARG: a large skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a large skillet over medium heat
+         INGREDIENTS: medium head cabbage cored shredded
+
+
+SENTID: 1
+SENT: I would cook , stirring frequently until the fat has melted down and the meaty parts are cooked .
+PREDID: 46
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently until the fat has melted down
+      NON-INGREDIENT SPAN: stirring frequently until the fat has melted down
+
+PREDID: 112
+PRED: are cooked
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add shredded cabbage , and cook over medium-low heat until tender , stirring to coat the cabbage with the salt pork drippings .
+PREDID: 119
+PRED: add
+   DOBJ: shredded cabbage
+      NON-INGREDIENT SPAN: shredded cabbage
+
+PREDID: 141
+PRED: cook
+   DOBJ: medium-low heat
+      NON-INGREDIENT SPAN: medium-low heat
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring to coat the cabbage with the salt pork drippings
+      NON-INGREDIENT SPAN: stirring to coat the cabbage with the salt pork drippings
+
+
+SENTID: 3
+SENT: I would meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 234
+PRED: bring
+   DOBJ: a large pot of lightly salted water to a boil
+      NON-INGREDIENT SPAN: a large pot of lightly salted water to a boil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would add egg noodles , and cook until tender , about 7 minutes .
+PREDID: 276
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package medium egg noodles
+
+PREDID: 293
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 7 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 323
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: When the cabbage has cooked completely , stir egg noodles into the cabbage , and season with black pepper to taste .
+PREDID: 363
+PRED: stir
+   DOBJ: egg noodles
+      NON-INGREDIENT SPAN: egg noodles
+   PARG: the cabbage , season with black pepper to taste
+     PREP: into
+      INGREDIENT SPAN:  season with black pepper to taste
+         INGREDIENTS: ground black pepper taste
+      NON-INGREDIENT SPAN: the cabbage 
+   OARG: when the cabbage has cooked completely
+      NON-INGREDIENT SPAN: when the cabbage has cooked completely
+
+

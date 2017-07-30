@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would slice the Zucchini into thick rounds .
+PREDID: 0
+PRED: slice
+   DOBJ: the Zucchini
+      INGREDIENT SPAN: the Zucchini
+         INGREDIENTS: large zucchini
+   PARG: thick rounds
+     PREP: into
+      NON-INGREDIENT SPAN: thick rounds
+
+
+SENTID: 1
+SENT: I would combine the melted butter and crushed garlic in a small bowl .
+PREDID: 32
+PRED: combine
+   DOBJ: the melted butter, crushed garlic in a small bowl
+      INGREDIENT SPAN:  crushed garlic in a small bowl
+         INGREDIENTS: cloves crushed garlic
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: butter melted
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 83
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: When the coals on your barbeque are almost burned down , lay your zucchini slices on the grill .
+PREDID: 138
+PRED: lay
+   DOBJ: your zucchini slices
+      NON-INGREDIENT SPAN: your zucchini slices
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+   OARG: when the coals on your barbeque are almost burned down
+      NON-INGREDIENT SPAN: when the coals on your barbeque are almost burned down
+
+
+SENTID: 4
+SENT: I would let cook for three minutes
+PREDID: 170
+PRED: let
+   DOBJ: cook
+      NON-INGREDIENT SPAN: cook
+   PARG: three minutes
+     PREP: for
+      NON-INGREDIENT SPAN: three minutes
+
+
+SENTID: 5
+SENT: I would turn over and brush the butter/garlic mixture on each slice .
+PREDID: 192
+PRED: turn
+   DOBJ: NULL
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 203
+PRED: brush
+   DOBJ: the butter/garlic mixture
+      NON-INGREDIENT SPAN: the butter/garlic mixture
+   PARG: each slice
+     PREP: on
+      NON-INGREDIENT SPAN: each slice
+
+
+SENTID: 6
+SENT: I would cook for three more minutes and turn over again and brush the other side with the garlic and butter .
+PREDID: 243
+PRED: cook
+   DOBJ: NULL
+   PARG: three more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: three more minutes
+
+PREDID: 269
+PRED: turn
+   DOBJ: NULL
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+PREDID: 285
+PRED: brush
+   DOBJ: the other side
+      NON-INGREDIENT SPAN: the other side
+   PARG: the garlic, butter
+     PREP: with
+      NON-INGREDIENT SPAN:  butter
+      NON-INGREDIENT SPAN: the garlic
+
+
+SENTID: 7
+SENT: I would cover the slices with pizza sauce and cheese and let cook until the cheese begins to melt .
+PREDID: 325
+PRED: cover
+   DOBJ: the slices
+      NON-INGREDIENT SPAN: the slices
+   PARG: pizza sauce, cheese
+     PREP: with
+      INGREDIENT SPAN: pizza sauce
+         INGREDIENTS: ounce pizza sauce
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: mozzarella cheese
+
+PREDID: 365
+PRED: let
+   DOBJ: cook
+      NON-INGREDIENT SPAN: cook
+   PARG: the cheese begins
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese begins
+
+

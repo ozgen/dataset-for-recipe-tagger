@@ -1,0 +1,467 @@
+SENTID: 0
+SENT: I would fill a saucepan with 1/2 inch of water ,
+PREDID: 0
+PRED: fill
+   DOBJ: a saucepan
+      NON-INGREDIENT SPAN: a saucepan
+   PARG: 1/2 inch of water
+     PREP: with
+      NON-INGREDIENT SPAN: 1/2 inch of water
+
+
+SENTID: 1
+SENT: I would add pumpkin pieces .
+PREDID: 32
+PRED: add
+   DOBJ: pumpkin pieces
+      INGREDIENT SPAN: pumpkin pieces
+         INGREDIENTS: peeled seeded pumpkin cut
+
+
+SENTID: 2
+SENT: I would bring to a boil over high heat ,
+PREDID: 49
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: I would reduce heat to medium-low , the cover , and steam until the pumpkin is very tender , 10 to 15 minutes .
+PREDID: 74
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover , steam
+     PREP: to
+      NON-INGREDIENT SPAN:  the cover 
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  steam
+   PARG: the pumpkin is very tender , 10 to 15 minutes
+     PREP: until
+      INGREDIENT SPAN: the pumpkin is very tender 
+         INGREDIENTS: peeled seeded pumpkin cut
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+
+
+SENTID: 4
+SENT: I would drain pumpkin ,
+PREDID: 153
+PRED: drain
+   DOBJ: pumpkin
+      NON-INGREDIENT SPAN: pumpkin
+
+
+SENTID: 5
+SENT: I would mash with 1 tablespoon butter , cinnamon ;
+PREDID: 166
+PRED: mash
+   DOBJ: NULL
+   PARG: 1 tablespoon butter , cinnamon
+     PREP: with
+      INGREDIENT SPAN: 1 tablespoon butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 6
+SENT: I would salt and pepper to taste ,
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 201
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would melt 2 tablespoons butter in a saucepan over medium heat .
+PREDID: 210
+PRED: melt
+   DOBJ: 2 tablespoons butter
+      INGREDIENT SPAN: 2 tablespoons butter
+         INGREDIENTS: butter softened
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 9
+SENT: I would whisk in flour and cook , stirring constantly , until the paste just begins to turn golden , about 2 minutes .
+PREDID: 258
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour, cook
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  cook
+   OARG: stirring constantly , until the paste just begins to turn golden , about 2 minutes
+      INGREDIENT SPAN:  until the paste just begins to turn golden 
+         INGREDIENTS: tomato paste
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 10
+SENT: I would whisk in milk gradually so that no lumps form .
+PREDID: 347
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: gradually so
+      NON-INGREDIENT SPAN: gradually so
+
+
+SENTID: 11
+SENT: I would bring to a gentle boil .
+PREDID: 385
+PRED: bring
+   DOBJ: NULL
+   PARG: a gentle boil
+     PREP: to
+      NON-INGREDIENT SPAN: a gentle boil
+
+
+SENTID: 12
+SENT: I would add the bay leaves , and reduce heat to low or warm .
+PREDID: 404
+PRED: add
+   DOBJ: the bay leaves
+      INGREDIENT SPAN: the bay leaves
+         INGREDIENTS: bay leaves
+
+PREDID: 423
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low or warm
+     PREP: to
+      NON-INGREDIENT SPAN: low or warm
+
+
+SENTID: 13
+SENT: I would allow to gently cook for 10 to 15 minutes , stirring frequently ,
+PREDID: 445
+PRED: allow
+   DOBJ: NULL
+   OARG: to gently cook for 10 to 15 minutes , stirring frequently
+      NON-INGREDIENT SPAN: to gently cook for 10 to 15 minutes 
+      NON-INGREDIENT SPAN:  stirring frequently
+
+
+SENTID: 14
+SENT: I would remove from heat .
+PREDID: 498
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 15
+SENT: I would heat 1 tablespoon olive oil in a large skillet over medium heat .
+PREDID: 513
+PRED: heat
+   DOBJ: 1 tablespoon olive oil
+      INGREDIENT SPAN: 1 tablespoon olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 16
+SENT: I would stir in onion , the fennel , and garlic ;
+PREDID: 566
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , the fennel , garlic
+     PREP: in
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion sliced
+      INGREDIENT SPAN:  the fennel 
+         INGREDIENTS: fennel bulb sliced
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 17
+SENT: I would cook until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 595
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion has softened, turned translucent , about 5 minutes
+     PREP: until
+      INGREDIENT SPAN: the onion has softened
+         INGREDIENTS: butter softened
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 18
+SENT: I would add spinach and cook until wilted .
+PREDID: 658
+PRED: add
+   DOBJ: spinach, cook
+      INGREDIENT SPAN: spinach
+         INGREDIENTS: ounce bag baby spinach
+      NON-INGREDIENT SPAN:  cook
+   PARG: wilted
+     PREP: until
+      NON-INGREDIENT SPAN: wilted
+
+
+SENTID: 19
+SENT: I would scrape mixture into a large bowl , and mix well with ricotta cheese and nutmeg .
+PREDID: 687
+PRED: scrape
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 718
+PRED: mix
+   DOBJ: NULL
+   PARG: ricotta cheese, nutmeg
+     PREP: with
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: ricotta cheese
+         INGREDIENTS: ounce container lowfat ricotta cheese
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 20
+SENT: Using the same skillet , I would heat another 1 tablespoon olive oil over high heat .
+PREDID: 772
+PRED: heat
+   DOBJ: another 1 tablespoon olive oil
+      INGREDIENT SPAN: another 1 tablespoon olive oil
+         INGREDIENTS: olive oil
+   PARG: high heat
+     PREP: over
+      NON-INGREDIENT SPAN: high heat
+   OARG: using the same skillet
+      NON-INGREDIENT SPAN: using the same skillet
+
+
+SENTID: 21
+SENT: I would brown ground beef in oil , mixing thoroughly to break into small pieces .
+PREDID: 815
+PRED: brown
+   DOBJ: ground beef in oil , mixing thoroughly to break into small pieces
+      INGREDIENT SPAN:  in oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: ground beef in oil 
+         INGREDIENTS: lean ground beef
+      NON-INGREDIENT SPAN:  mixing thoroughly to break into small pieces
+
+
+SENTID: 22
+SENT: Once browned , I would reduce heat to medium-low and pour off excess grease .
+PREDID: 887
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: browned
+     PREP: once
+      NON-INGREDIENT SPAN: browned
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 912
+PRED: pour
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 23
+SENT: I would stir in tomato paste and tomato puree .
+PREDID: 932
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste, tomato puree
+     PREP: in
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato puree
+      NON-INGREDIENT SPAN:  tomato puree
+
+
+SENTID: 24
+SENT: I would gently simmer until thickened , about 10 minutes .
+PREDID: 970
+PRED: simmer
+   DOBJ: NULL
+   PARG: thickened , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  about 10 minutes
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 25
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 1006
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 26
+SENT: I would grease a 9x13 inch lasagna dish .
+PREDID: 1044
+PRED: grease
+   DOBJ: a 9x13 inch lasagna dish
+      INGREDIENT SPAN: a 9x13 inch lasagna dish
+         INGREDIENTS: dry lasagna noodles
+
+
+SENTID: 27
+SENT: Line the bottom of the lasagna dish with 4 noodles , do not overlap .
+
+SENTID: 28
+SENT: I would spread the ricotta mixture evenly over noodles ,
+PREDID: 1071
+PRED: spread
+   DOBJ: the ricotta mixture
+      NON-INGREDIENT SPAN: the ricotta mixture
+   OARG: evenly over noodles
+      NON-INGREDIENT SPAN: evenly over noodles
+
+
+SENTID: 29
+SENT: I would sprinkle with 1/3 of the Parmesan cheese .
+PREDID: 1112
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/3 of the parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: 1/3 of the parmesan cheese
+         INGREDIENTS: grated Parmesan
+
+
+SENTID: 30
+SENT: I would place another 4 noodles on top of the ricotta ,
+PREDID: 1147
+PRED: place
+   DOBJ: another 4 noodles on top of the ricotta
+      NON-INGREDIENT SPAN: another 4 noodles on top of the ricotta
+
+
+SENTID: 31
+SENT: I would spread with evenly with the mashed pumpkin .
+PREDID: 1185
+PRED: spread
+   DOBJ: NULL
+   PARG: evenly
+     PREP: with
+      NON-INGREDIENT SPAN: evenly
+   PARG: the mashed pumpkin
+     PREP: with
+      NON-INGREDIENT SPAN: the mashed pumpkin
+
+
+SENTID: 32
+SENT: I would place the remaining 4 noodles on top of the pumpkin and top with the tomato sauce ;
+PREDID: 1222
+PRED: place
+   DOBJ: the remaining 4 noodles on top of the pumpkin, top with the tomato sauce
+      NON-INGREDIENT SPAN: the remaining 4 noodles on top of the pumpkin
+      NON-INGREDIENT SPAN:  top with the tomato sauce
+
+
+SENTID: 33
+SENT: I would sprinkle with another 1/3 of the Parmesan cheese .
+PREDID: 1289
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: another 1/3 of the parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: another 1/3 of the parmesan cheese
+         INGREDIENTS: grated Parmesan
+
+
+SENTID: 34
+SENT: I would stir the white sauce until smooth ,
+PREDID: 1331
+PRED: stir
+   DOBJ: the white sauce
+      NON-INGREDIENT SPAN: the white sauce
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 35
+SENT: I would discard the bay leaves ;
+PREDID: 1360
+PRED: discard
+   DOBJ: the bay leaves
+      NON-INGREDIENT SPAN: the bay leaves
+
+
+SENTID: 36
+SENT: I would pour the sauce over top of the lasagna .
+PREDID: 1380
+PRED: pour
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: top of the lasagna
+     PREP: over
+      NON-INGREDIENT SPAN: top of the lasagna
+
+
+SENTID: 37
+SENT: I would sprinkle with remaining Parmesan cheese .
+PREDID: 1412
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining parmesan cheese
+
+
+SENTID: 38
+SENT: I would place lasagna dish onto a foil-lined baking sheet -LRB- to catch any spills -RRB- .
+PREDID: 1448
+PRED: place
+   DOBJ: lasagna dish
+      NON-INGREDIENT SPAN: lasagna dish
+   PARG: a foil-lined baking sheet -lrb- to catch any spills
+     PREP: onto
+      NON-INGREDIENT SPAN: a foil-lined baking sheet -lrb- to catch any spills
+
+
+SENTID: 39
+SENT: I would bake in preheated oven until the noodles have softened , and the white sauce has turned bubbly and golden brown , about 30 minutes .
+PREDID: 1509
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the noodles have softened
+     PREP: until
+      NON-INGREDIENT SPAN: the noodles have softened
+   OARG: the white sauce has turned bubbly, golden brown , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the white sauce has turned bubbly
+      NON-INGREDIENT SPAN:  golden brown 
+
+

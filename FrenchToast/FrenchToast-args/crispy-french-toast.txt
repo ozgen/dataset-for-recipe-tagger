@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would heat deep-fryer to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: heat
+   DOBJ: deep-fryer to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: deep-fryer to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl combine eggs , I would the milk , the sugar , cinnamon and vanilla ;
+
+SENTID: 2
+SENT: I would beat well .
+PREDID: 41
+PRED: beat
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would place cornflakes in a separate bowl .
+PREDID: 50
+PRED: place
+   DOBJ: cornflakes
+      INGREDIENT SPAN: cornflakes
+         INGREDIENTS: cornflakes cereal
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 4
+SENT: I would dip bread slices in egg mixture and press into cornflakes .
+PREDID: 81
+PRED: dip
+   DOBJ: bread slices in egg mixture, press
+      INGREDIENT SPAN:  in egg mixture
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: bread slices in egg mixture
+         INGREDIENTS: thick slices white bread
+      NON-INGREDIENT SPAN:  press
+   PARG: cornflakes
+     PREP: into
+      NON-INGREDIENT SPAN: cornflakes
+
+
+SENTID: 5
+SENT: I would carefully slide coated bread slices into hot oil .
+PREDID: 139
+PRED: slide
+   DOBJ: coated bread slices
+      NON-INGREDIENT SPAN: coated bread slices
+   PARG: hot oil
+     PREP: into
+      INGREDIENT SPAN: hot oil
+         INGREDIENTS: vegetable oil deepfrying
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 6
+SENT: I would fry on each side until golden brown .
+PREDID: 172
+PRED: fry
+   DOBJ: NULL
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 7
+SENT: I would drain on paper towels and serve hot .
+PREDID: 202
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+PREDID: 223
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

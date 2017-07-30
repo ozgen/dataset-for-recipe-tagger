@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would mix together pumpkin , brown sugar , the salt , the cinnamon , the ginger , and molasses .
+PREDID: 0
+PRED: mix
+   DOBJ: pumpkin , brown sugar , the salt , the cinnamon , the ginger , molasses
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  molasses
+         INGREDIENTS: molasses
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would blend in eggs and evaporated milk .
+PREDID: 63
+PRED: blend
+   DOBJ: NULL
+   PARG: eggs
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+
+PREDID: 77
+PRED: evaporated
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: evaporated milk
+
+
+SENTID: 2
+SENT: I would pour the filling into pie shell .
+PREDID: 92
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 3
+SENT: I would bake at 425 degrees F -LRB- 220 degrees C -RRB- for 40 minutes , or until set .
+PREDID: 116
+PRED: bake
+   DOBJ: NULL
+   PARG: 425 degrees f -lrb- 220 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 425 degrees f -lrb- 220 degrees c
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+

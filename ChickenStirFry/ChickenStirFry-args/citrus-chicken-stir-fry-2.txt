@@ -1,0 +1,248 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 1
+SENT: I would stir in whole-wheat noodles and return to a boil .
+PREDID: 58
+PRED: stir
+   DOBJ: NULL
+   PARG: whole-wheat noodles
+     PREP: in
+      INGREDIENT SPAN: whole-wheat noodles
+         INGREDIENTS: ounce package dry wholewheat noodles
+
+PREDID: 85
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook uncovered , stirring occasionally , until the pasta has cooked through but is firm to the bite , 5 to 8 minutes .
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 103
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the pasta has cooked through but is firm to the bite , 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+      NON-INGREDIENT SPAN: the pasta has cooked through but is firm to the bite 
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 3
+SENT: I would drain well and set aside .
+PREDID: 194
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      INGREDIENT SPAN: well
+         INGREDIENTS: lemon juiced
+
+PREDID: 206
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would combine chicken stock , orange marmalade , tamari sauce , whole ginger root piece , and ground black pepper in a pot over medium-high heat .
+PREDID: 215
+PRED: combine
+   DOBJ: chicken stock , orange marmalade , tamari sauce , whole ginger root piece , ground black pepper
+      INGREDIENT SPAN:  tamari sauce 
+         INGREDIENTS: tamari sauce
+      INGREDIENT SPAN:  orange marmalade 
+         INGREDIENTS: orange marmalade
+      INGREDIENT SPAN: chicken stock 
+         INGREDIENTS: chicken stock
+      INGREDIENT SPAN:  whole ginger root piece 
+         INGREDIENTS: inch ginger root peeled
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper taste
+   PARG: a pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a pot over medium-high heat
+
+
+SENTID: 5
+SENT: I would bring sauce to a boil and reduce heat to medium .
+PREDID: 330
+PRED: bring
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 350
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 6
+SENT: I would simmer until sauce reduces and thickens ;
+PREDID: 369
+PRED: simmer
+   DOBJ: NULL
+   PARG: sauce reduces, thickens
+     PREP: until
+      NON-INGREDIENT SPAN: sauce reduces
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 7
+SENT: about 20 minutes .
+
+SENTID: 8
+SENT: I would remove sauce from heat .
+PREDID: 404
+PRED: remove
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 9
+SENT: I would stir in lemon juice and set aside .
+PREDID: 424
+PRED: stir
+   DOBJ: NULL
+   PARG: lemon juice
+     PREP: in
+      NON-INGREDIENT SPAN: lemon juice
+
+PREDID: 443
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: I would heat peanut oil in a large skillet over medium-high heat .
+PREDID: 452
+PRED: heat
+   DOBJ: peanut oil
+      INGREDIENT SPAN: peanut oil
+         INGREDIENTS: peanut oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 11
+SENT: I would cook and stir chicken in hot oil until golden , no longer pink in the center , and the juices run clear , 5 to 10 minutes .
+PREDID: 500
+PRED: cook and stir
+   DOBJ: chicken in hot oil
+      INGREDIENT SPAN: chicken in hot oil
+         INGREDIENTS: skinless boneless chicken breast halves cut thin strips
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+   OARG: no longer pink in the center
+      NON-INGREDIENT SPAN: no longer pink in the center
+   OARG: the juices run clear , 5 to 10 minutes
+      NON-INGREDIENT SPAN: the juices run clear 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 12
+SENT: I would remove chicken from skillet and set aside , leaving oil in the pan .
+PREDID: 596
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 623
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: leaving oil in the pan
+      NON-INGREDIENT SPAN: leaving oil in the pan
+
+
+SENTID: 13
+SENT: I would cook and stir the stir-fry vegetables in the same skillet used for the chicken until vegetables are almost tender , 4 to 5 minutes .
+PREDID: 651
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the stir-fry vegetables in the same skillet used for the chicken until vegetables are almost tender , 4 to 5 minutes
+     PREP: for
+      INGREDIENT SPAN: the stir-fry vegetables in the same skillet used for the chicken until vegetables are almost tender 
+         INGREDIENTS: ounce bag frozen stirfry vegetables thawed
+      NON-INGREDIENT SPAN:  4 to 5 minutes
+
+
+SENTID: 14
+SENT: I would remove ginger root piece from sauce and discard .
+PREDID: 759
+PRED: remove
+   DOBJ: ginger root piece from sauce
+      INGREDIENT SPAN: ginger root piece from sauce
+         INGREDIENTS: inch ginger root peeled
+
+
+SENTID: 15
+SENT: I would stir chicken and sauce into vegetables and cook until heated through , 1 to 2 minutes .
+PREDID: 800
+PRED: stir
+   DOBJ: chicken, sauce
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  sauce
+   PARG: vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 836
+PRED: cook
+   DOBJ: NULL
+   PARG: heated through , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: heated through 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 16
+SENT: I would serve over whole-wheat noodles .
+PREDID: 871
+PRED: serve
+   DOBJ: NULL
+   PARG: whole-wheat noodles
+     PREP: over
+      NON-INGREDIENT SPAN: whole-wheat noodles
+
+

@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: In a medium sized bowl , I would combine flour and salt .
+PREDID: 19
+PRED: combine
+   DOBJ: flour, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: a medium sized bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium sized bowl
+
+
+SENTID: 1
+SENT: I would make a well in the flour , add the slightly beaten egg , and mix .
+PREDID: 39
+PRED: make
+   DOBJ: a well in the flour
+      NON-INGREDIENT SPAN: a well in the flour
+
+PREDID: 59
+PRED: add
+   DOBJ: the slightly beaten egg
+      INGREDIENT SPAN: the slightly beaten egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 2
+SENT: I would mixture should form a stiff dough .
+PREDID: 90
+PRED: mixture form
+   DOBJ: a stiff dough
+      NON-INGREDIENT SPAN: a stiff dough
+   OARG: should
+      NON-INGREDIENT SPAN: should
+
+
+SENTID: 3
+SENT: If needed , I would stir in 1 to 2 tablespoons water .
+PREDID: 128
+PRED: stir
+   DOBJ: NULL
+   PARG: needed
+     PREP: if
+      NON-INGREDIENT SPAN: needed
+   PARG: 1 to 2 tablespoons water
+     PREP: in
+      INGREDIENT SPAN: 1 to 2 tablespoons water
+         INGREDIENTS: water
+
+
+SENTID: 4
+SENT: On a lightly floured surface , I would knead dough for about 3 to 4 minutes .
+PREDID: 185
+PRED: dough
+   DOBJ: NULL
+   PARG: a lightly floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a lightly floured surface
+   PARG: about 3 to 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 3 to 4 minutes
+   OARG: knead
+      NON-INGREDIENT SPAN: knead
+
+
+SENTID: 5
+SENT: With a pasta machine or by hand roll dough out to desired thinness .
+
+SENTID: 6
+SENT: I would use machine or knife to cut into strips of desired width .
+PREDID: 265
+PRED: use
+   DOBJ: machine or knife
+      NON-INGREDIENT SPAN: machine or knife
+   OARG: to cut into strips of desired width
+      NON-INGREDIENT SPAN: to cut into strips of desired width
+
+

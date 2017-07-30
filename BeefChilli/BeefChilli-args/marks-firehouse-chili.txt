@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would cook and stir ground beef in a large soup pot over medium heat until meat is browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef in a large soup pot
+      INGREDIENT SPAN:  in a large soup pot
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN: ground beef in a large soup pot
+         INGREDIENTS: ground beef
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: meat is browned, crumbly , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: meat is browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 1
+SENT: I would pour kidney beans , beef bouillon , plum tomatoes , tomato puree , the beer , and Worcestershire sauce into beef .
+PREDID: 94
+PRED: pour
+   DOBJ: kidney beans , beef bouillon , plum tomatoes , tomato puree , the beer , Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  beef bouillon 
+         INGREDIENTS: ounce beef bouillon
+      INGREDIENT SPAN:  plum tomatoes 
+         INGREDIENTS: ounce whole plum tomatoes
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  tomato puree 
+         INGREDIENTS: ounce tomato puree
+      INGREDIENT SPAN: kidney beans 
+         INGREDIENTS: ounce kidney beans
+   PARG: beef
+     PREP: into
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 2
+SENT: I would stir in dry onion soup mix , red pepper flakes , dried chipotle pepper , the cumin , the thyme , and oregano .
+PREDID: 184
+PRED: stir
+   DOBJ: NULL
+   PARG: dry onion soup mix , red pepper flakes , dried chipotle pepper , the cumin , the thyme , oregano
+     PREP: in
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  dried chipotle pepper 
+         INGREDIENTS: crushed dried chipotle pepper
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      NON-INGREDIENT SPAN:  the thyme 
+      NON-INGREDIENT SPAN: dry onion soup mix 
+
+
+SENTID: 3
+SENT: I would bring mixture to a boil , reduce heat to low , and cook at a simmer until thickened , 1 to 1?1/2 hours .
+PREDID: 265
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 285
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 304
+PRED: cook
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: thickened , 1 to 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  1 to 1?1/2 hours
+
+

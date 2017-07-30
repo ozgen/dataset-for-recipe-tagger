@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would place the pizza crust onto a baking sheet .
+PREDID: 38
+PRED: place
+   DOBJ: the pizza crust
+      INGREDIENT SPAN: the pizza crust
+         INGREDIENTS: ounce package prebaked pizza crust
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: In a bowl , I would mix the barbeque sauce with chipotle chili powder ;
+PREDID: 81
+PRED: mix
+   DOBJ: the barbeque sauce
+      INGREDIENT SPAN: the barbeque sauce
+         INGREDIENTS: barbeque sauce more desired
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: chipotle chili powder
+     PREP: with
+      INGREDIENT SPAN: chipotle chili powder
+         INGREDIENTS: chipotle chili powder
+
+
+SENTID: 3
+SENT: I would season with salt and black pepper .
+PREDID: 124
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: sliced red bell pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 4
+SENT: I would spread the sauce over the pizza crust .
+PREDID: 153
+PRED: spread
+   DOBJ: the sauce over the pizza crust
+      NON-INGREDIENT SPAN: the sauce over the pizza crust
+
+
+SENTID: 5
+SENT: I would arrange pulled pork , sliced onion , and red bell pepper slices evenly over the pizza .
+PREDID: 185
+PRED: arrange
+   DOBJ: NULL
+
+PREDID: 192
+PRED: pulled
+   DOBJ: pork , sliced onion , red bell pepper slices
+      INGREDIENT SPAN:  sliced onion 
+         INGREDIENTS: sliced onion
+      INGREDIENT SPAN: pork 
+         INGREDIENTS: prepared pulled pork
+      NON-INGREDIENT SPAN:  red bell pepper slices
+   OARG: evenly over the pizza
+      NON-INGREDIENT SPAN: evenly over the pizza
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until the toppings are hot and the pizza crust is crisp on the bottom , 12 to 15 minutes .
+PREDID: 256
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the toppings are hot
+     PREP: until
+      NON-INGREDIENT SPAN: the toppings are hot
+
+PREDID: 318
+PRED: is crisp
+   DOBJ: NULL
+   PARG: the bottom , 12 to 15 minutes
+     PREP: on
+      NON-INGREDIENT SPAN:  12 to 15 minutes
+      NON-INGREDIENT SPAN: the bottom 
+
+

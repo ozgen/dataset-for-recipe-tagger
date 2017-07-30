@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would melt butter in a skillet over medium heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion in melted butter until slightly softened , about 2 minutes .
+PREDID: 35
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped red onion
+   PARG: melted butter until slightly softened , about 2 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: melted butter until slightly softened 
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 2
+SENT: I would add pork and continue to cook for 2 minutes more .
+PREDID: 101
+PRED: add
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: cooked pulled pork sauce chopped
+
+PREDID: 111
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook for 2 minutes more
+      NON-INGREDIENT SPAN: to cook for 2 minutes more
+
+
+SENTID: 3
+SENT: I would stir potatoes into pork mixture and toss .
+PREDID: 141
+PRED: stir
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: leftover baked potatoes diced
+   PARG: pork mixture
+     PREP: into
+      NON-INGREDIENT SPAN: pork mixture
+
+
+SENTID: 4
+SENT: I would cook until potatoes are browned , stirring occasionally , about 5 minutes .
+PREDID: 176
+PRED: cook
+   DOBJ: NULL
+   PARG: potatoes are browned , stirring occasionally , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are browned 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would season with salt , black pepper , and cayenne pepper .
+PREDID: 239
+PRED: season
+   DOBJ: NULL
+   PARG: salt , black pepper , cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+

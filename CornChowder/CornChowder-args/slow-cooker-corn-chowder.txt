@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: In a slow cooker , I would place the potatoes , the onions , the ham , the celery , the corn , the butter or margarine and salt and pepper to taste .
+PREDID: 14
+PRED: place
+   DOBJ: the potatoes , the onions , the ham , the celery , the corn , the butter or margarine, salt, pepper
+      INGREDIENT SPAN:  the butter or margarine
+         INGREDIENTS: margarine
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the potatoes 
+         INGREDIENTS: potatoes peeled cubed
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn undrained
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: diced ham
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 1
+SENT: I would add water to cover and two bouillon cubes .
+PREDID: 95
+PRED: add
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: cover, two bouillon cubes
+     PREP: to
+      INGREDIENT SPAN:  two bouillon cubes
+         INGREDIENTS: cubes chicken bouillon
+      NON-INGREDIENT SPAN: cover
+
+
+SENTID: 2
+SENT: I would cook on low setting for 8 to 9 hours and
+PREDID: 130
+PRED: cook
+   DOBJ: NULL
+   PARG: low setting for 8 to 9 hours and
+     PREP: on
+      NON-INGREDIENT SPAN: low setting for 8 to 9 hours and
+
+
+SENTID: 3
+SENT: I would stir in the evaporated milk .
+PREDID: 161
+PRED: stir
+   DOBJ: NULL
+   PARG: the evaporated milk
+     PREP: in
+      INGREDIENT SPAN: the evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+
+
+SENTID: 4
+SENT: I would cook for 30 more minutes .
+PREDID: 185
+PRED: cook
+   DOBJ: NULL
+   PARG: 30 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 more minutes
+
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would beat eggs , brown sugar , the cinnamon , the salt , the nutmeg , the cloves , and ginger in a bowl until blended .
+PREDID: 38
+PRED: beat
+   DOBJ: eggs , brown sugar , the cinnamon , the salt , the nutmeg , the cloves , ginger in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  ginger in a bowl
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 2
+SENT: I would stir in milk and pumpkin until mixture is smooth ;
+PREDID: 115
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, pumpkin
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  pumpkin
+         INGREDIENTS: ounce pumpkin puree
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 3
+SENT: I would transfer to a 9-inch glass pie dish .
+PREDID: 156
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 9-inch glass pie dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9-inch glass pie dish
+
+
+SENTID: 4
+SENT: I would sprinkle with pecans .
+PREDID: 186
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 15 minutes ;
+PREDID: 205
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 6
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and continue the baking until set , 30 to 40 minutes more .
+PREDID: 237
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 284
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: set
+     PREP: until
+      NON-INGREDIENT SPAN: set
+   OARG: 30 to 40 minutes more
+      NON-INGREDIENT SPAN: 30 to 40 minutes more
+
+
+SENTID: 7
+SENT: I would cool for at least 1 hour before slicing and serving .
+PREDID: 317
+PRED: cool
+   DOBJ: NULL
+   PARG: at least 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1 hour
+   PARG: slicing, serving
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+      NON-INGREDIENT SPAN:  serving
+
+

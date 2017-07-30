@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would cut the butter into the flour with a pastry blender or two knives , until mixture resembles coarse meal .
+PREDID: 52
+PRED: cut
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: the flour with a pastry blender or two knives
+     PREP: into
+      INGREDIENT SPAN: the flour with a pastry blender or two knives
+         INGREDIENTS: allpurpose flour
+   PARG: mixture resembles coarse meal
+     PREP: until
+      NON-INGREDIENT SPAN: mixture resembles coarse meal
+
+
+SENTID: 2
+SENT: I would stir in pecans , press into bottom of a 9x13-inch baking dish and bake 15 minutes , or until golden .
+PREDID: 138
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+PREDID: 151
+PRED: press
+   DOBJ: NULL
+   PARG: bottom of a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: bottom of a 9x13-inch baking dish
+
+PREDID: 191
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   PARG: until golden
+     PREP: or
+      NON-INGREDIENT SPAN: until golden
+
+
+SENTID: 3
+SENT: I would cool completely .
+PREDID: 219
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 4
+SENT: In a medium bowl , I would combine cream cheese , confectioners ' sugar and 1 cup whipped topping with electric mixer until smooth .
+PREDID: 248
+PRED: combine
+   DOBJ: cream cheese , confectioners ' sugar, 1 cup whipped topping with electric mixer until smooth
+      INGREDIENT SPAN:  confectioners ' sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN:  1 cup whipped topping with electric mixer until smooth
+         INGREDIENTS: frozen whipped topping
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 5
+SENT: In a separate bowl , I would whisk together chocolate pudding mix , vanilla pudding mix and milk until there are no lumps .
+PREDID: 352
+PRED: whisk
+   DOBJ: chocolate pudding mix , vanilla pudding mix, milk
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla pudding mix
+         INGREDIENTS: ounce package instant vanilla pudding mix
+      INGREDIENT SPAN: chocolate pudding mix 
+         INGREDIENTS: ounce package instant chocolate pudding mix
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: there are no lumps
+     PREP: until
+      NON-INGREDIENT SPAN: there are no lumps
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would combine cream cheese mixture and milk mixture and stir until smooth .
+PREDID: 430
+PRED: combine
+   DOBJ: cream cheese mixture, milk mixture
+      NON-INGREDIENT SPAN: cream cheese mixture
+      NON-INGREDIENT SPAN:  milk mixture
+
+PREDID: 472
+PRED: stir
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would pour onto cooled crust .
+PREDID: 488
+PRED: pour
+   DOBJ: NULL
+   PARG: cooled crust
+     PREP: onto
+      NON-INGREDIENT SPAN: cooled crust
+
+
+SENTID: 8
+SENT: I would spread the remaining 2 cups of whipped topping on top of pudding mixture .
+PREDID: 508
+PRED: spread
+   DOBJ: the remaining 2 cups of whipped topping on top of pudding mixture
+      INGREDIENT SPAN: the remaining 2 cups of whipped topping on top of pudding mixture
+         INGREDIENTS: frozen whipped topping
+
+
+SENTID: 9
+SENT: I would sprinkle 2 tablespoons of chopped nuts over all .
+PREDID: 566
+PRED: sprinkle
+   DOBJ: 2 tablespoons of chopped nuts
+      NON-INGREDIENT SPAN: 2 tablespoons of chopped nuts
+   PARG: all
+     PREP: over
+      NON-INGREDIENT SPAN: all
+
+
+SENTID: 10
+SENT: I would chill in refrigerator until serving .
+PREDID: 607
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

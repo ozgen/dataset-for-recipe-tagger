@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2.5 quart baking dish .
+PREDID: 40
+PRED: grease
+   DOBJ: a 2.5 quart baking dish
+      NON-INGREDIENT SPAN: a 2.5 quart baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 66
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would place pasta in the pot , cook for 8 to 10 minutes , until tender , and drain .
+PREDID: 108
+PRED: place
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: uncooked penne pasta
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+   PARG: until tender
+     PREP: and
+      NON-INGREDIENT SPAN: until tender
+
+PREDID: 127
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would cook and stir the Italian sausage in a large skillet over medium heat until browned , about 8 to 10 minutes .
+PREDID: 168
+PRED: cook and stir
+   DOBJ: the Italian sausage in a large skillet
+      INGREDIENT SPAN: the Italian sausage in a large skillet
+         INGREDIENTS: ground Italian sausage
+   PARG: medium heat until browned , about 8 to 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN:  about 8 to 10 minutes
+      NON-INGREDIENT SPAN: medium heat until browned 
+
+
+SENTID: 5
+SENT: I would drain the fat from the meat , pour the cooked pasta and spaghetti sauce into the skillet , and stir well to combine .
+PREDID: 256
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+   PARG: the meat
+     PREP: from
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 279
+PRED: pour
+   DOBJ: the cooked pasta, spaghetti sauce
+      INGREDIENT SPAN:  spaghetti sauce
+         INGREDIENTS: ounce jar garlic onion spaghetti sauce such Ragu Robusto
+      INGREDIENT SPAN: the cooked pasta
+         INGREDIENTS: Sauteed Onion Garlic Pasta Sauce
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 332
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 6
+SENT: I would bring the mixture to a boil .
+PREDID: 350
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would pour half of the hot pasta-sausage mixture into the prepared baking dish , spread with the cottage cheese in an even layer , and sprinkle with half the mozzarella cheese .
+PREDID: 373
+PRED: pour
+   DOBJ: half of the hot pasta-sausage mixture
+      NON-INGREDIENT SPAN: half of the hot pasta-sausage mixture
+   PARG: the prepared baking dish , spread with the cottage cheese in an even layer
+     PREP: into
+      INGREDIENT SPAN:  spread with the cottage cheese in an even layer
+         INGREDIENTS: cottage cheese
+      NON-INGREDIENT SPAN: the prepared baking dish 
+
+PREDID: 478
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: half the mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: half the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese divided
+
+
+SENTID: 8
+SENT: I would spread the remaining pasta mixture over the cheese , and top with the remaining mozzarella cheese .
+PREDID: 514
+PRED: spread
+   DOBJ: the remaining pasta mixture over the cheese , top with the remaining mozzarella cheese
+      NON-INGREDIENT SPAN: the remaining pasta mixture over the cheese 
+      NON-INGREDIENT SPAN:  top with the remaining mozzarella cheese
+
+
+SENTID: 9
+SENT: I would cover and bake in the preheated oven for about 25 minutes , until the casserole is hot and the cheese is melted and bubbling .
+PREDID: 597
+PRED: cover and bake
+   DOBJ: NULL
+   PARG: the preheated oven for about 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for about 25 minutes
+   PARG: the casserole is hot
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is hot
+   OARG: the cheese is melted, bubbling
+      NON-INGREDIENT SPAN:  bubbling
+      NON-INGREDIENT SPAN: the cheese is melted
+
+
+SENTID: 10
+SENT: I would let it stand 5 minutes to firm up before serving .
+PREDID: 699
+PRED: let stand
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: to firm up before serving
+      NON-INGREDIENT SPAN: to firm up before serving
+
+

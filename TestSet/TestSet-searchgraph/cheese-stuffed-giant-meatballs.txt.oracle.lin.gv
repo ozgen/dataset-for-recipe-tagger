@@ -1,0 +1,61 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="spray
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="divide
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="push
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="heat
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="remove
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="spoon
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="serve
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1_ing[label="DOBJ: extra lean least  ground beef, Progresso   Italian style panko crispy bread crumbs, pouch Progresso   cents Recipe Starters   cents fire roasted tomato cooking sauce, egg", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="1/2 teaspoon salt"]
+D1_1[label="DOBJ: 1/4 teaspoon pepper", shape=box, style=filled, fillcolor=white]
+D1_1 -> E1
+P1_0_0[label="LOCATION:in large bowl", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+O1_0_0[label="OTHER: until well mixed", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="12 regular-size muffin cups"]
+P2_0_0[label="COOBJECT:with cooking spray", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="beef mixture"]
+P3_0_0[label="LOCATION:among cups", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_ing[label="DOBJ: sticks string cheese", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: 20 to 25 minutes or until thermometer inserted in center of loaves in middle of muffin pan reads 160 degrees f", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: pouch Progresso   cents Recipe Starters   cents fire roasted tomato cooking sauce", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="IMPLICIT PREP"]
+O6_0_0[label="OTHER: until hot", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="loaves"]
+P7_0_0[label="LOCATION:from muffin pan", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E7 -> E8 [label="heated sauce"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_ing[label="COOBJECT: with Hot mashed potatoes", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

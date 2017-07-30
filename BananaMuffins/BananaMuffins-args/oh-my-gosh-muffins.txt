@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease 24 muffin cups .
+PREDID: 45
+PRED: grease
+   DOBJ: 24 muffin cups
+      NON-INGREDIENT SPAN: 24 muffin cups
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a bowl , I would cream together the butter , the sugar , and vanilla .
+PREDID: 72
+PRED: cream
+   DOBJ: the butter , the sugar , vanilla
+      INGREDIENT SPAN: the butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in banana and sour cream .
+PREDID: 112
+PRED: mix
+   DOBJ: NULL
+   PARG: banana, sour cream
+     PREP: in
+      INGREDIENT SPAN: banana
+         INGREDIENTS: mashed banana
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 4
+SENT: I would stir in the eggs .
+PREDID: 136
+PRED: stir
+   DOBJ: NULL
+   PARG: the eggs
+     PREP: in
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 5
+SENT: In a separate bowl , I would mix the flour , baking powder , and baking soda .
+PREDID: 166
+PRED: mix
+   DOBJ: the flour , baking powder , baking soda
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 6
+SENT: I would mix dry ingredients into the banana mixture until evenly moist .
+PREDID: 205
+PRED: mix
+   DOBJ: dry ingredients
+      NON-INGREDIENT SPAN: dry ingredients
+   PARG: the banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the banana mixture
+   PARG: evenly moist
+     PREP: until
+      NON-INGREDIENT SPAN: evenly moist
+
+
+SENTID: 7
+SENT: I would fold in chocolate chips .
+PREDID: 259
+PRED: fold
+   DOBJ: NULL
+   PARG: chocolate chips
+     PREP: in
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+
+
+SENTID: 8
+SENT: I would transfer batter to the prepared muffin cups , filling each cup about 3/4 full .
+PREDID: 280
+PRED: transfer
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared muffin cups
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared muffin cups
+   OARG: filling each cup about 3/4 full
+      NON-INGREDIENT SPAN: filling each cup about 3/4 full
+
+
+SENTID: 9
+SENT: I would bake 25 minutes in the preheated oven , or until a knife inserted in the center of a muffin comes out clean .
+PREDID: 345
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+   PARG: the preheated oven , or until a knife inserted in the center of a muffin comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 
+      NON-INGREDIENT SPAN:  or until a knife inserted in the center of a muffin comes out clean
+
+

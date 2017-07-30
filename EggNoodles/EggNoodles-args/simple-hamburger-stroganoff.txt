@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 58
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 92
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a skillet over medium heat , I would brown the ground beef until no pink shows ;
+PREDID: 123
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: no pink shows
+     PREP: until
+      NON-INGREDIENT SPAN: no pink shows
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 158
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would mix brown gravy , cream cheese and mushrooms with hamburger until cream cheese has given the mixture a whitish look .
+PREDID: 164
+PRED: mix
+   DOBJ: brown gravy , cream cheese, mushrooms
+      INGREDIENT SPAN: brown gravy 
+         INGREDIENTS: ounce packet dry brown gravy mix
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: ounce package cream cheese
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: hamburger
+     PREP: with
+      NON-INGREDIENT SPAN: hamburger
+   PARG: cream cheese has given the mixture a whitish look
+     PREP: until
+      INGREDIENT SPAN: cream cheese has given the mixture a whitish look
+         INGREDIENTS: ounce container sour cream
+
+
+SENTID: 6
+SENT: I would add milk , sour cream , and mushroom soup to cooked pasta .
+PREDID: 261
+PRED: add
+   DOBJ: milk , sour cream , mushroom soup
+      INGREDIENT SPAN:  mushroom soup
+         INGREDIENTS: ounce chopped mushrooms liquid
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  sour cream 
+   PARG: cooked pasta
+     PREP: to
+      NON-INGREDIENT SPAN: cooked pasta
+
+
+SENTID: 7
+SENT: I would blend hamburger mixture with pasta .
+PREDID: 308
+PRED: blend
+   DOBJ: hamburger mixture
+      NON-INGREDIENT SPAN: hamburger mixture
+   PARG: pasta
+     PREP: with
+      NON-INGREDIENT SPAN: pasta
+
+

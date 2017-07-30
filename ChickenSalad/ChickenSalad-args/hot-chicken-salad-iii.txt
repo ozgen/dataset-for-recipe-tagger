@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl combine the chicken , I would the salt and pepper , the rice , the soup , the mushrooms , the celery , the onion , the almonds and mayonnaise .
+
+SENTID: 2
+SENT: I would mix well and spread mixture into an ungreased 9x13 inch baking dish .
+PREDID: 38
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 48
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: an ungreased 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: an ungreased 9x13 inch baking dish
+
+
+SENTID: 3
+SENT: I would spread a generous layer of butter or margarine onto one side of each slice of bread ,
+PREDID: 95
+PRED: spread
+   DOBJ: a generous layer of butter or margarine
+      INGREDIENT SPAN: a generous layer of butter or margarine
+         INGREDIENTS: butter softened
+   PARG: one side of each slice of bread
+     PREP: onto
+      INGREDIENT SPAN: one side of each slice of bread
+         INGREDIENTS: slices white bread
+
+
+SENTID: 4
+SENT: I would tear bread into small pieces and place on top of chicken mixture to form a top ` crust ' .
+PREDID: 164
+PRED: tear
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices white bread
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+PREDID: 191
+PRED: place
+   DOBJ: NULL
+   PARG: top of chicken mixture
+     PREP: on
+      INGREDIENT SPAN: top of chicken mixture
+         INGREDIENTS: ounce condensed cream chicken soup
+   OARG: to form a top ` crust
+      NON-INGREDIENT SPAN: to form a top ` crust
+
+
+SENTID: 5
+SENT: I would place the baking dish on center oven rack and bake at 350 degrees F -LRB- 175 degrees C -RRB- for about 30 minutes , or until crust is crisp and golden and mixture is bubbly around the edges .
+PREDID: 235
+PRED: place
+   DOBJ: NULL
+   OARG: the baking dish on center oven rack, bake at 350 degrees f -lrb- 175 degrees c -rrb- for about 30 minutes , or until crust is crisp, golden
+      NON-INGREDIENT SPAN: the baking dish on center oven rack
+      NON-INGREDIENT SPAN:  bake at 350 degrees f -lrb- 175 degrees c -rrb- for about 30 minutes 
+      NON-INGREDIENT SPAN:  or until crust is crisp
+      NON-INGREDIENT SPAN:  golden
+   OARG: mixture is bubbly around the edges
+      NON-INGREDIENT SPAN: mixture is bubbly around the edges
+
+

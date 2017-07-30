@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line a 9x5x2-inch -LRB- 23x13x6-cm -RRB- loaf pan with parchment and spray with cooking spray .
+PREDID: 38
+PRED: line
+   DOBJ: a 9x5x2-inch -LRB- 23x13x6-cm -RRB- loaf pan with parchment, spray
+      NON-INGREDIENT SPAN:  spray
+      NON-INGREDIENT SPAN: a 9x5x2-inch -LRB- 23x13x6-cm -RRB- loaf pan with parchment
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: In large bowl , I would combine cereal and beef broth .
+PREDID: 122
+PRED: combine
+   DOBJ: cereal, beef broth
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: beef broth
+      INGREDIENT SPAN: cereal
+         INGREDIENTS: AllBran Original cereal
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 3
+SENT: I would let stand 2 minutes or until broth is absorbed and cereal softens .
+PREDID: 148
+PRED: let
+   DOBJ: NULL
+   OARG: stand 2 minutes or until broth is absorbed
+      NON-INGREDIENT SPAN: stand 2 minutes or until broth is absorbed
+   OARG: cereal softens
+      NON-INGREDIENT SPAN: cereal softens
+
+
+SENTID: 4
+SENT: In small bowl , I would the combine , the eggs , chili powder , the salt and black pepper .
+
+SENTID: 5
+SENT: I would add egg mixture , the beef , the onion , the flour , the celery , red pepper and parsley to cereal mixture .
+PREDID: 203
+PRED: add
+   DOBJ: egg mixture , the beef , the onion , the flour , the celery , red pepper, parsley
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN: egg mixture 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: flour
+   PARG: cereal mixture
+     PREP: to
+      NON-INGREDIENT SPAN: cereal mixture
+
+
+SENTID: 6
+SENT: I would mix together well .
+PREDID: 276
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 7
+SENT: I would press mixture well into prepared pan .
+PREDID: 292
+PRED: press
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would bake in preheated oven until food thermometer reads 160 degrees F -LRB- 71 degrees C -RRB- at centre of meatloaf , about 1 hour 15 minutes .
+PREDID: 324
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: food thermometer reads 160 degrees f -lrb- 71 degrees c -rrb- at centre of meatloaf , about 1 hour 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: food thermometer reads 160 degrees f -lrb- 71 degrees c -rrb- at centre of meatloaf 
+      NON-INGREDIENT SPAN:  about 1 hour 15 minutes
+
+
+SENTID: 9
+SENT: I would let stand 10 minutes before slicing .
+PREDID: 430
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 10
+SENT: I would turn onto serving platter and serve with Sweet Salsa Sauce .
+PREDID: 461
+PRED: turn
+   DOBJ: NULL
+   PARG: serving platter
+     PREP: onto
+      NON-INGREDIENT SPAN: serving platter
+
+PREDID: 486
+PRED: serve
+   DOBJ: NULL
+   PARG: sweet salsa sauce
+     PREP: with
+      INGREDIENT SPAN: sweet salsa sauce
+         INGREDIENTS: chunky salsa
+
+
+SENTID: 11
+SENT: For Sweet Salsa Sauce :
+
+SENTID: 12
+SENT: In small saucepan , I would heat salsa and brown sugar to a boil .
+PREDID: 527
+PRED: heat
+   DOBJ: salsa, brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN: salsa
+   PARG: small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: small saucepan
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 13
+SENT: I would simmer for 3 minutes , stirring occasionally .
+PREDID: 557
+PRED: simmer
+   DOBJ: NULL
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

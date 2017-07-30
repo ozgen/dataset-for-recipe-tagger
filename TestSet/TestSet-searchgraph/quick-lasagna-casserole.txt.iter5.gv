@@ -1,0 +1,64 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="transfer
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="transfer
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="spoon
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="sprinkle
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="bake
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="let
+12", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 375 degrees f.", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: package Italian blend cheeses", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D3[label="DOBJ: package Johnsonville   Italian Ground Sausage, cloves garlic minced, medium yellow sweet pepper cut bitesize strips, large onion cut thin wedges", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCOROBJ:in a large skillet", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="sausage mixture"]
+P5_0_0[label="LOCOROBJ:to a very large bowl", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: in jar Classico   Tomato and Basil pasta sauce, dried campanelle or cellantani pasta, fennel seed", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E2 -> E6 [label="COOBJECT:in cooked pasta"]
+E6 -> E7 [label="the pasta"]
+D8_ing[label="DOBJ: package Italian blend cheeses, carton ricotta cheese, egg lightly", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+P8_1_0[label="LOCOROBJ:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P8_1_0 -> E8
+E8 -> E9 [label="the ricotta cheese over the pasta mixture"]
+P9_0_0[label="LOCOROBJ:in large dollops", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+D10_ing[label="DOBJ: package Italian blend cheeses", shape=box, style=filled, fillcolor=peachpuff]
+D10_ing -> E10
+E9 -> E10 [label="IMPLICIT PREP"]
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E0 -> E11 [label="IMPLICIT PREP"]
+P11_1_0[label="DURATION:for 35 to 40 minutes or until heated through", shape=box, style=filled, fillcolor=white]
+P11_1_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

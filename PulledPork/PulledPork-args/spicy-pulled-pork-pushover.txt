@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would mix tomato paste , the vinegar , onion flakes , yellow mustard , the molasses , garlic , olive oil , and liquid smoke in a bowl to create a thick paste .
+PREDID: 0
+PRED: mix
+   DOBJ: tomato paste , the vinegar , onion flakes , yellow mustard , the molasses , garlic , olive oil , liquid smoke
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  liquid smoke
+         INGREDIENTS: liquid hickory smoke flavoring
+      INGREDIENT SPAN: tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the molasses 
+         INGREDIENTS: molasses
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: mustard powder such Keen
+      INGREDIENT SPAN:  onion flakes 
+         INGREDIENTS: dried onion flakes
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a bowl to create a thick paste
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl to create a thick paste
+
+
+SENTID: 1
+SENT: I would stir brown sugar , kosher salt , the cumin , chipotle pepper , the paprika , black pepper , garlic powder , mustard powder , and cayenne pepper into tomato paste mixture .
+PREDID: 115
+PRED: stir
+   DOBJ: brown sugar , kosher salt , the cumin , chipotle pepper , the paprika , black pepper , garlic powder , mustard powder , cayenne pepper
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: hot smoked paprika
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  chipotle pepper 
+         INGREDIENTS: ground dried chipotle pepper
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  mustard powder 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: tomato paste mixture
+     PREP: into
+      NON-INGREDIENT SPAN: tomato paste mixture
+
+
+SENTID: 2
+SENT: I would place pork shoulder into a slow cooker and add paste mixture .
+PREDID: 248
+PRED: place
+   DOBJ: pork shoulder
+      INGREDIENT SPAN: pork shoulder
+         INGREDIENTS: pork shoulder roast
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 283
+PRED: add
+   DOBJ: paste mixture
+      NON-INGREDIENT SPAN: paste mixture
+
+
+SENTID: 3
+SENT: I would cook on High for 4 hours .
+PREDID: 299
+PRED: cook
+   DOBJ: NULL
+   PARG: high for 4 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high for 4 hours
+
+
+SENTID: 4
+SENT: I would shred pork with 2 forks and remove bone .
+PREDID: 319
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+
+PREDID: 341
+PRED: remove
+   DOBJ: bone
+      NON-INGREDIENT SPAN: bone
+
+
+SENTID: 5
+SENT: I would reduce heat to Low and continue cooking for 1 to 2 more hours .
+PREDID: 352
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   PARG: more hours
+     PREP: for
+      NON-INGREDIENT SPAN: more hours
+
+PREDID: 370
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 1 to 2
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 2
+
+

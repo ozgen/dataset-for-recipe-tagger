@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: I would combine beef , the onion , cracker crumbs , the Worcestershire and egg in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: beef , the onion , cracker crumbs , the Worcestershire, egg
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the Worcestershire
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  cracker crumbs 
+         INGREDIENTS: saltine crackers crushed
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix well with hands or a spoon .
+PREDID: 65
+PRED: mix
+   DOBJ: NULL
+   PARG: hands or a spoon
+     PREP: with
+      NON-INGREDIENT SPAN: hands or a spoon
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would shape meat into 6 rectangular mini meatloaves , each about the size of a deck of cards -LRB- 3-1/2 by 2x1/2 by 1/2-inch thick -RRB- .
+PREDID: 90
+PRED: shape
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: 6 rectangular mini meatloaves , each about the size of a deck of cards
+     PREP: into
+      NON-INGREDIENT SPAN:  each about the size of a deck of cards
+      NON-INGREDIENT SPAN: 6 rectangular mini meatloaves 
+   OARG: 3-1/2 by 2x1/2 by 1/2-inch thick
+      NON-INGREDIENT SPAN: 3-1/2 by 2x1/2 by 1/2-inch thick
+
+
+SENTID: 3
+SENT: I would heat oil in a wide skillet over medium-high heat ;
+PREDID: 190
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a wide skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wide skillet over medium-high heat
+
+
+SENTID: 4
+SENT: I would brown meatloaves 3 to 4 minutes per side .
+PREDID: 231
+PRED: brown
+   DOBJ: NULL
+   PARG: meatloaves 3 to 4 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: meatloaves 3 to 4 minutes per side
+
+
+SENTID: 5
+SENT: I would remove from pan and set aside .
+PREDID: 265
+PRED: remove
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 281
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would drain fat from pan .
+PREDID: 290
+PRED: drain
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 7
+SENT: I would add sauce and brown sugar to pan .
+PREDID: 306
+PRED: add
+   DOBJ: sauce, brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: ounce CONTADINA Tomato Sauce
+   OARG: to pan
+      NON-INGREDIENT SPAN: to pan
+
+
+SENTID: 8
+SENT: Bring to a boil ;
+PREDID: 333
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would reduce heat and simmer over medium heat 3 minutes , stirring frequently until slightly reduced .
+PREDID: 346
+PRED: reduce
+   DOBJ: NULL
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+   OARG: heat, simmer over medium heat
+      NON-INGREDIENT SPAN:  simmer over medium heat
+      NON-INGREDIENT SPAN: heat
+   OARG: stirring frequently until slightly reduced
+      NON-INGREDIENT SPAN: stirring frequently until slightly reduced
+
+
+SENTID: 10
+SENT: I would return meatloaves to pan and spoon sauce over tops .
+PREDID: 427
+PRED: return
+   DOBJ: meatloaves
+      NON-INGREDIENT SPAN: meatloaves
+   OARG: to pan, spoon sauce over tops
+      NON-INGREDIENT SPAN:  spoon sauce over tops
+      NON-INGREDIENT SPAN: to pan
+
+
+SENTID: 11
+SENT: I would simmer , uncovered , over medium heat 5 minutes or until cooked through .
+PREDID: 470
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium heat 5 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat 5 minutes
+
+
+SENTID: 12
+SENT: I would serve meatloaves and sauce with mashed or roasted potatoes , if desired .
+PREDID: 530
+PRED: serve
+   DOBJ: meatloaves, sauce
+      NON-INGREDIENT SPAN: meatloaves
+      NON-INGREDIENT SPAN:  sauce
+   PARG: mashed or roasted potatoes
+     PREP: with
+      INGREDIENT SPAN: mashed or roasted potatoes
+         INGREDIENTS: Mashed roasted potatoes
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would whisk the flour , cream of tartar , baking soda , and salt in a bowl .
+PREDID: 38
+PRED: whisk
+   DOBJ: the flour , cream of tartar , baking soda , salt in a bowl
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  cream of tartar 
+         INGREDIENTS: cream tartar
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+
+
+SENTID: 2
+SENT: In a large mixing bowl , I would mash the vegetable shortening and margarine together until thoroughly combined , and beat in 1?1/2 cup of sugar , the eggs , and 1 teaspoon of vanilla extract .
+PREDID: 111
+PRED: mash
+   DOBJ: the vegetable shortening, margarine
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine softened
+      INGREDIENT SPAN: the vegetable shortening
+         INGREDIENTS: vegetable shortening
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: together until thoroughly combined
+      NON-INGREDIENT SPAN: together until thoroughly combined
+
+PREDID: 184
+PRED: beat
+   DOBJ: NULL
+   PARG: 1?1/2 cup of sugar , the eggs , 1 teaspoon of vanilla extract
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: 1?1/2 cup of sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  1 teaspoon of vanilla extract
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 3
+SENT: I would mix in the flour mixture to make a workable dough , and spread the dough out in a rectangle shape onto an ungreased 12x17 inch baking sheet .
+PREDID: 240
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+   OARG: to make a workable dough , spread the dough out in a rectangle shape onto an ungreased 12x17 inch baking sheet
+      NON-INGREDIENT SPAN: to make a workable dough 
+      NON-INGREDIENT SPAN:  spread the dough out in a rectangle shape onto an ungreased 12x17 inch baking sheet
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until very lightly browned , 8 to 10 minutes .
+PREDID: 354
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until very lightly browned , 8 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until very lightly browned 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would allow to cool completely .
+PREDID: 413
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely
+      NON-INGREDIENT SPAN: to cool completely
+
+
+SENTID: 6
+SENT: While the cookie base is cooling , I would mash the cream cheese with 1 cup of sugar and 2 teaspoons of vanilla extract in a bowl until smooth .
+PREDID: 463
+PRED: mash extract
+   DOBJ: the cream cheese with 1 cup of sugar, 2 teaspoons of vanilla
+      INGREDIENT SPAN: the cream cheese with 1 cup of sugar
+         INGREDIENTS: ounce packages cream cheese softened
+      INGREDIENT SPAN: the with 1 cup of sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  2 teaspoons of vanilla
+         INGREDIENTS: vanilla extract
+   PARG: the cookie base is cooling
+     PREP: while
+      NON-INGREDIENT SPAN: the cookie base is cooling
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would place sliced bananas in a bowl , and gently toss with lemon juice to prevent browning .
+PREDID: 544
+PRED: place
+   DOBJ: sliced bananas
+      INGREDIENT SPAN: sliced bananas
+         INGREDIENTS: large bananas sliced needed
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 579
+PRED: toss
+   DOBJ: NULL
+   PARG: lemon juice
+     PREP: with
+      INGREDIENT SPAN: lemon juice
+         INGREDIENTS: lemon juice needed
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to prevent browning
+      NON-INGREDIENT SPAN: to prevent browning
+
+
+SENTID: 8
+SENT: To decorate the pizza , spread the cream cheese filling all over the cookie base in an even , smooth layer .
+PREDID: 617
+PRED: decorate
+   DOBJ: the pizza
+      NON-INGREDIENT SPAN: the pizza
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 634
+PRED: spread
+   DOBJ: the cream cheese
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: ounce packages cream cheese softened
+   OARG: filling all over the cookie base in an even , smooth layer
+      NON-INGREDIENT SPAN:  smooth layer
+      NON-INGREDIENT SPAN: filling all over the cookie base in an even 
+
+
+SENTID: 9
+SENT: I would place the blueberries in a square in neat , closely-spaced rows , in the left upper corner for blue stars .
+PREDID: 702
+PRED: place
+   DOBJ: the blueberries
+      INGREDIENT SPAN: the blueberries
+         INGREDIENTS: ounce container fresh blueberries
+   PARG: a square in neat , closely-spaced rows
+     PREP: in
+      NON-INGREDIENT SPAN:  closely-spaced rows
+      NON-INGREDIENT SPAN: a square in neat 
+   PARG: the left upper corner for blue stars
+     PREP: in
+      NON-INGREDIENT SPAN: the left upper corner for blue stars
+
+
+SENTID: 10
+SENT: I would arrange the alternating stripes of white bananas and red strawberry slices across the pizza .
+PREDID: 789
+PRED: arrange
+   DOBJ: the alternating stripes of white bananas, red strawberry slices across the pizza
+      NON-INGREDIENT SPAN:  red strawberry slices across the pizza
+      NON-INGREDIENT SPAN: the alternating stripes of white bananas
+
+
+SENTID: 11
+SENT: I would refrigerate leftovers .
+PREDID: 865
+PRED: refrigerate
+   DOBJ: leftovers
+      NON-INGREDIENT SPAN: leftovers
+
+

@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: I would heat a Dutch oven over medium-high heat , and brown meat on all sides in hot oil .
+PREDID: 0
+PRED: heat
+   DOBJ: a Dutch oven over medium-high heat , brown meat on all sides in hot oil
+      INGREDIENT SPAN:  brown meat on all sides in hot oil
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN: a Dutch oven over medium-high heat 
+
+
+SENTID: 1
+SENT: In large bowl combine tomatoes , I would pizza sauce , the cheese , Worcestershire sauce , the garlic , the salt , the oregano , and pepper .
+PREDID: 92
+PRED: pizza
+   DOBJ: sauce , the cheese , Worcestershire sauce , the garlic , the salt , the oregano , pepper
+      INGREDIENT SPAN: sauce 
+         INGREDIENTS: pizza sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: large bowl combine tomatoes
+     PREP: in
+      INGREDIENT SPAN: large bowl combine tomatoes
+         INGREDIENTS: ounce stewed tomatoes
+
+
+SENTID: 2
+SENT: I would pour over meat .
+PREDID: 160
+PRED: pour
+   DOBJ: NULL
+   PARG: meat
+     PREP: over
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 3
+SENT: I would cover and simmer over medium heat for 2 hours , turning meat each half hour .
+PREDID: 173
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: medium heat for 2 hours
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat for 2 hours
+   OARG: turning meat each half hour
+      NON-INGREDIENT SPAN: turning meat each half hour
+
+
+SENTID: 4
+SENT: I would remove meat from pan , and cool slightly .
+PREDID: 235
+PRED: remove
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 256
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 5
+SENT: I would skim fat from pan juices .
+PREDID: 269
+PRED: skim
+   DOBJ: NULL
+   PARG: pan juices
+     PREP: from
+      NON-INGREDIENT SPAN: pan juices
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 6
+SENT: I would measure juices , and add enough water to make 6 cups liquid .
+PREDID: 290
+PRED: measure
+   DOBJ: juices
+      NON-INGREDIENT SPAN: juices
+
+PREDID: 307
+PRED: add
+   DOBJ: enough water
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water
+   OARG: to make 6 cups liquid
+      NON-INGREDIENT SPAN: to make 6 cups liquid
+
+
+SENTID: 7
+SENT: I would return liquid to Dutch oven .
+PREDID: 339
+PRED: return
+   DOBJ: NULL
+   OARG: liquid to dutch oven
+      NON-INGREDIENT SPAN: liquid to dutch oven
+
+
+SENTID: 8
+SENT: I would blend cornstarch and 3 tablespoons cold water ;
+PREDID: 363
+PRED: blend
+   DOBJ: cornstarch, 3 tablespoons cold water
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+      NON-INGREDIENT SPAN:  3 tablespoons cold water
+
+
+SENTID: 9
+SENT: I would stir into pan juices .
+PREDID: 403
+PRED: stir
+   DOBJ: NULL
+   PARG: pan juices
+     PREP: into
+      NON-INGREDIENT SPAN: pan juices
+
+
+SENTID: 10
+SENT: I would cook and stir till thickened and bubbly .
+PREDID: 421
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: thickened, bubbly
+     PREP: till
+      NON-INGREDIENT SPAN: thickened
+      NON-INGREDIENT SPAN:  bubbly
+
+
+SENTID: 11
+SENT: I would slice meat thinly against the grain .
+PREDID: 455
+PRED: slice
+   DOBJ: meat thinly against the grain
+      NON-INGREDIENT SPAN: meat thinly against the grain
+
+
+SENTID: 12
+SENT: I would return meat to pot , and add mushrooms .
+PREDID: 486
+PRED: return
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: pot
+     PREP: to
+      NON-INGREDIENT SPAN: pot
+
+PREDID: 505
+PRED: add
+   DOBJ: mushrooms
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+
+
+SENTID: 13
+SENT: I would simmer for 30 minutes longer .
+PREDID: 518
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes longer
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes longer
+
+
+SENTID: 14
+SENT: I would cook pasta in a large pot of boiling water until done .
+PREDID: 543
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large pot of boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water
+   PARG: done
+     PREP: until
+      NON-INGREDIENT SPAN: done
+
+
+SENTID: 15
+SENT: I would drain .
+PREDID: 587
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 16
+SENT: To serve , place meat slices over hot noodles , and pour some sauce over .
+
+SENTID: 17
+SENT: I would pass the remaining sauce .
+PREDID: 652
+PRED: pass
+   DOBJ: the remaining sauce
+      NON-INGREDIENT SPAN: the remaining sauce
+
+

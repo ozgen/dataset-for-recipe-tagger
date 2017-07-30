@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would cut peeled eggs in half horizontally and scoop egg yolks into a bowl .
+PREDID: 0
+PRED: cut
+   DOBJ: peeled eggs
+      INGREDIENT SPAN: peeled eggs
+         INGREDIENTS: hardboiled eggs peeled
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+   OARG: horizontally
+      NON-INGREDIENT SPAN: horizontally
+
+PREDID: 34
+PRED: scoop
+   DOBJ: egg yolks
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would scoop avocado from peels and mash the flesh into egg yolks .
+PREDID: 57
+PRED: scoop
+   DOBJ: avocado
+      INGREDIENT SPAN: avocado
+         INGREDIENTS: avocado halved pitted
+   PARG: peels
+     PREP: from
+      NON-INGREDIENT SPAN: peels
+
+PREDID: 81
+PRED: mash
+   DOBJ: the flesh
+      NON-INGREDIENT SPAN: the flesh
+   PARG: egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolks
+
+
+SENTID: 2
+SENT: I would stir onion and garlic into yolk mixture ;
+PREDID: 106
+PRED: stir
+   DOBJ: NULL
+   PARG: yolk mixture
+     PREP: into
+      NON-INGREDIENT SPAN: yolk mixture
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced more taste
+      INGREDIENT SPAN: onion
+         INGREDIENTS: minced onion
+
+
+SENTID: 3
+SENT: I would add lime juice , the mayonnaise , and salt .
+PREDID: 140
+PRED: add
+   DOBJ: lime juice , the mayonnaise , salt
+      INGREDIENT SPAN: lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 4
+SENT: I would stir until creamy .
+PREDID: 172
+PRED: stir
+   DOBJ: NULL
+   PARG: creamy
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+
+
+SENTID: 5
+SENT: I would spoon about 1 tablespoon avocado filling into hollow of each egg white half .
+PREDID: 188
+PRED: spoon
+   DOBJ: about 1 tablespoon avocado
+      NON-INGREDIENT SPAN: about 1 tablespoon avocado
+   OARG: filling into hollow of each egg white half
+      NON-INGREDIENT SPAN: filling into hollow of each egg white half
+
+
+SENTID: 6
+SENT: I would place eggs onto a serving platter and sprinkle each deviled egg with a pinch of chili powder .
+PREDID: 252
+PRED: place
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: a serving platter
+     PREP: onto
+      NON-INGREDIENT SPAN: a serving platter
+
+PREDID: 283
+PRED: sprinkle
+   DOBJ: each deviled egg
+      NON-INGREDIENT SPAN: each deviled egg
+   PARG: a pinch of chili powder
+     PREP: with
+      INGREDIENT SPAN: a pinch of chili powder
+         INGREDIENTS: chili powder garnish taste
+
+
+SENTID: 7
+SENT: I would sprinkle Cheddar cheese over each appetizer and top each with 2 slices of olive .
+PREDID: 329
+PRED: sprinkle
+   DOBJ: Cheddar cheese over each appetizer, top each
+      INGREDIENT SPAN: Cheddar cheese over each appetizer
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  top each
+   PARG: 2 slices of olive
+     PREP: with
+      INGREDIENT SPAN: 2 slices of olive
+         INGREDIENTS: olives cut slices
+
+
+SENTID: 8
+SENT: I would cover and chill for 1 hour before serving .
+PREDID: 396
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

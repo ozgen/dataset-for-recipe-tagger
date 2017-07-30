@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would season venison with salt , the pepper and garlic powder to taste .
+PREDID: 6
+PRED: venison
+   DOBJ: season
+      NON-INGREDIENT SPAN: season
+   PARG: salt , the pepper, garlic powder
+     PREP: with
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder taste
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  the pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 1
+SENT: I would saute onion in a large skillet ;
+PREDID: 51
+PRED: saute
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 2
+SENT: when soft , add venison and brown .
+
+SENTID: 3
+SENT: I would drain when venison is no longer pink and add soup .
+PREDID: 105
+PRED: drain
+   DOBJ: NULL
+   OARG: when venison is no longer pink
+      INGREDIENT SPAN: when venison is no longer pink
+         INGREDIENTS: venison cut cubes
+
+PREDID: 138
+PRED: add
+   DOBJ: soup
+      INGREDIENT SPAN: soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+
+SENTID: 4
+SENT: I would reduce heat to low and simmer .
+PREDID: 146
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 181
+PRED: bring
+   DOBJ: a large pot of lightly salted water to a boil
+      NON-INGREDIENT SPAN: a large pot of lightly salted water to a boil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 223
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+PREDID: 236
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 270
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: When noodles are almost done cooking , stir sour cream into meat mixture .
+PREDID: 308
+PRED: stir
+   DOBJ: sour cream
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: ounce container sour cream
+   PARG: meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: meat mixture
+   OARG: when noodles are almost done cooking
+      NON-INGREDIENT SPAN: when noodles are almost done cooking
+
+
+SENTID: 9
+SENT: I would pour meat mixture over hot cooked noodles and serve .
+PREDID: 337
+PRED: pour
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: hot cooked noodles
+     PREP: over
+      NON-INGREDIENT SPAN: hot cooked noodles
+
+

@@ -1,0 +1,240 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: To Make Cheesecake Layer :
+
+SENTID: 2
+SENT: In a medium mixing bowl , I would beat cream cheese until smooth .
+PREDID: 80
+PRED: beat
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: a medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium mixing bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would beat in 1/4 cup sugar ,
+PREDID: 107
+PRED: beat
+   DOBJ: NULL
+   PARG: 1/4 cup sugar
+     PREP: in
+      INGREDIENT SPAN: 1/4 cup sugar
+         INGREDIENTS: brown sugar
+
+
+SENTID: 4
+SENT: I would add vanilla extract and 1 egg .
+PREDID: 125
+PRED: add
+   DOBJ: vanilla extract, 1 egg
+      INGREDIENT SPAN: vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1 egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 5
+SENT: I would beat mixture until light and smooth .
+PREDID: 150
+PRED: beat
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: light
+     PREP: until
+      NON-INGREDIENT SPAN: light
+
+
+SENTID: 6
+SENT: I would chill mixture for 30 minutes ,
+PREDID: 181
+PRED: chill
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 7
+SENT: I would spread into pastry shell .
+PREDID: 206
+PRED: spread
+   DOBJ: NULL
+   PARG: pastry shell
+     PREP: into
+      INGREDIENT SPAN: pastry shell
+         INGREDIENTS: inch pie shell
+
+
+SENTID: 8
+SENT: To Make Pumpkin Layer :
+
+SENTID: 9
+SENT: In a large bowl , I would combine pumpkin puree , evaporated milk , 2 eggs , 1/4 cup brown sugar , 1/4 cup white sugar , the cinnamon , the nutmeg , and salt .
+PREDID: 260
+PRED: combine
+   DOBJ: pumpkin puree , evaporated milk , 2 eggs , 1/4 cup brown sugar , 1/4 cup white sugar , the cinnamon , the nutmeg , salt
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1/4 cup white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  1/4 cup brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  2 eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: evaporated milk
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: I would mix until all ingredients are thoroughly combined .
+PREDID: 359
+PRED: mix
+   DOBJ: NULL
+   PARG: all ingredients are thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are thoroughly combined
+
+
+SENTID: 11
+SENT: I would pour pumpkin mixture over cream cheese layer .
+PREDID: 403
+PRED: pour
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: cream cheese layer
+     PREP: over
+      NON-INGREDIENT SPAN: cream cheese layer
+
+
+SENTID: 12
+SENT: I would cover edges of crust with aluminum foil .
+PREDID: 442
+PRED: cover
+   DOBJ: edges of crust
+      NON-INGREDIENT SPAN: edges of crust
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 13
+SENT: I would bake in preheated oven for 25 minutes .
+PREDID: 476
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 minutes
+
+
+SENTID: 14
+SENT: I would remove foil from edges and bake an additional 25 minutes .
+PREDID: 508
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+   PARG: edges, bake
+     PREP: from
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: edges
+   OARG: an additional 25 minutes
+      NON-INGREDIENT SPAN: an additional 25 minutes
+
+
+SENTID: 15
+SENT: To Make Pecan Streusel Layer :
+
+SENTID: 16
+SENT: While pie is in oven , I would combine flour and 2 tablespoons brown sugar in a small bowl .
+PREDID: 598
+PRED: combine
+   DOBJ: flour, 2 tablespoons brown sugar
+      INGREDIENT SPAN: flour
+         INGREDIENTS: all-purpose flour
+      NON-INGREDIENT SPAN:  2 tablespoons brown sugar
+   PARG: pie is in oven
+     PREP: while
+      NON-INGREDIENT SPAN: pie is in oven
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 17
+SENT: Mix well , I would 
+
+SENTID: 18
+SENT: I would add softened butter or margarine and stir until ingredients are combined .
+PREDID: 648
+PRED: add
+   DOBJ: softened butter or margarine
+      INGREDIENT SPAN: softened butter or margarine
+         INGREDIENTS: butter softened
+
+PREDID: 679
+PRED: stir
+   DOBJ: NULL
+   PARG: ingredients are combined
+     PREP: until
+      NON-INGREDIENT SPAN: ingredients are combined
+
+
+SENTID: 19
+SENT: I would mix in pecans .
+PREDID: 711
+PRED: mix
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 20
+SENT: After pie has been in oven for 50 minutes , I would remove and sprinkle pecan streusel evenly over top .
+PREDID: 757
+PRED: remove and sprinkle
+   DOBJ: NULL
+   PARG: pie has been in oven for 50 minutes
+     PREP: after
+      NON-INGREDIENT SPAN: pie has been in oven for 50 minutes
+   OARG: pecan streusel evenly over top
+      NON-INGREDIENT SPAN: pecan streusel evenly over top
+
+
+SENTID: 21
+SENT: I would bake for an additional 10 to 15 minutes , until a toothpick inserted in center comes out clean .
+PREDID: 801
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 10 to 15 minutes
+   PARG: a toothpick inserted in center comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted in center comes out clean
+
+

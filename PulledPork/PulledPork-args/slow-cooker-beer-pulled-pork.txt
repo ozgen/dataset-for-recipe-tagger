@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would set the slow cooker to High .
+PREDID: 0
+PRED: set
+   DOBJ: the slow cooker
+      NON-INGREDIENT SPAN: the slow cooker
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 1
+SENT: I would place the pork in the slow cooker .
+PREDID: 23
+PRED: place
+   DOBJ: the pork in the slow cooker
+      INGREDIENT SPAN: the pork in the slow cooker
+         INGREDIENTS: pound pork butt roast
+
+
+SENTID: 2
+SENT: I would season top of pork with salt , the pepper , onion powder , and garlic powder .
+PREDID: 51
+PRED: season
+   DOBJ: top of pork
+      NON-INGREDIENT SPAN: top of pork
+   PARG: salt , the pepper , onion powder , garlic powder
+     PREP: with
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would pour beer into the bottom of the slow cooker and place the lid on the slow cooker crock .
+PREDID: 110
+PRED: pour
+   DOBJ: beer
+      INGREDIENT SPAN: beer
+         INGREDIENTS: fluid ounce beer such Shiner Bock
+   PARG: the bottom of the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the slow cooker
+
+PREDID: 149
+PRED: place
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+   PARG: the slow cooker crock
+     PREP: on
+      NON-INGREDIENT SPAN: the slow cooker crock
+
+
+SENTID: 4
+SENT: I would cook pork on High for 1 hour .
+PREDID: 181
+PRED: cook
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: high for 1 hour
+     PREP: on
+      NON-INGREDIENT SPAN: high for 1 hour
+
+
+SENTID: 5
+SENT: I would reduce slow cooker heat to Low and cook for at least 8 hours or overnight .
+PREDID: 204
+PRED: reduce
+   DOBJ: slow cooker heat
+      NON-INGREDIENT SPAN: slow cooker heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 232
+PRED: cook
+   DOBJ: NULL
+   PARG: at least 8 hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: at least 8 hours or overnight
+
+
+SENTID: 6
+SENT: I would remove pork from the slow cooker and shred with two forks .
+PREDID: 264
+PRED: remove
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: the slow cooker, shred with two forks
+     PREP: from
+      NON-INGREDIENT SPAN:  shred with two forks
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 7
+SENT: I would discard juices and rinse out slow cooker crock .
+PREDID: 312
+PRED: discard
+   DOBJ: juices
+      NON-INGREDIENT SPAN: juices
+
+PREDID: 328
+PRED: rinse
+   DOBJ: slow cooker crock
+      NON-INGREDIENT SPAN: slow cooker crock
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 8
+SENT: I would return shredded pork to slow cooker and stir barbeque sauce into pork .
+PREDID: 352
+PRED: return
+   DOBJ: shredded pork
+      NON-INGREDIENT SPAN: shredded pork
+   OARG: to slow cooker, stir barbeque sauce into pork
+      INGREDIENT SPAN:  stir barbeque sauce into pork
+         INGREDIENTS: ounce bottle barbeque sauce such Sweet Baby Ray
+      NON-INGREDIENT SPAN: to slow cooker
+
+
+SENTID: 9
+SENT: I would cook on Medium for 1 hour .
+PREDID: 411
+PRED: cook
+   DOBJ: NULL
+   PARG: medium for 1 hour
+     PREP: on
+      NON-INGREDIENT SPAN: medium for 1 hour
+
+

@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: In a medium bowl , I would prepare the dressing according to package directions , using vinegar and oil , and substituting orange juice for the water ;
+PREDID: 14
+PRED: prepare
+   DOBJ: the dressing
+      INGREDIENT SPAN: the dressing
+         INGREDIENTS: ounce packet honey mustard salad dressing mix
+   PARG: a medium bowl package directions
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl package directions
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+PREDID: 61
+PRED: using
+   DOBJ: vinegar, oil
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+
+PREDID: 83
+PRED: substituting
+   DOBJ: orange juice
+      INGREDIENT SPAN: orange juice
+         INGREDIENTS: orange juice
+   PARG: the water
+     PREP: for
+      NON-INGREDIENT SPAN: the water
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 118
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would preheat the grill for high heat .
+PREDID: 127
+PRED: preheat
+   DOBJ: the grill for high heat
+      NON-INGREDIENT SPAN: the grill for high heat
+
+
+SENTID: 3
+SENT: I would lightly oil the grill grate .
+PREDID: 154
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 4
+SENT: I would grill the chicken 6 to 8 minutes on each side , or until juices run clear .
+PREDID: 178
+PRED: grill
+   DOBJ: NULL
+   PARG: the chicken 6 to 8 minutes
+     PREP: for
+      INGREDIENT SPAN: the chicken 6 to 8 minutes
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+
+
+SENTID: 5
+SENT: I would remove from heat , the cool , and slice into strips .
+PREDID: 237
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the cool , slice
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the cool 
+      NON-INGREDIENT SPAN:  slice
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 6
+SENT: In a large bowl , I would toss together the chicken , salad greens , the strawberries , the blueberries , the raspberries , the peas , and pecans .
+PREDID: 289
+PRED: toss
+   DOBJ: the chicken , salad greens , the strawberries , the blueberries , the raspberries , the peas , pecans
+      INGREDIENT SPAN:  the raspberries 
+         INGREDIENTS: fresh raspberries
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: sugar snap peas
+      INGREDIENT SPAN:  the strawberries 
+         INGREDIENTS: sliced fresh strawberries
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: toasted pecans
+      INGREDIENT SPAN:  salad greens 
+         INGREDIENTS: mixed salad greens
+      INGREDIENT SPAN:  the blueberries 
+         INGREDIENTS: fresh blueberries
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour in the prepared dressing , and toss to coat .
+PREDID: 376
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared dressing
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared dressing
+
+PREDID: 405
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

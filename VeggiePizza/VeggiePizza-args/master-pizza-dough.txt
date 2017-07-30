@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: In a large bowl , I would combine 2 cups flour , undissolved yeast , and salt .
+PREDID: 13
+PRED: combine
+   DOBJ: 2 cups flour , undissolved yeast , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: 2 cups flour 
+         INGREDIENTS: allpurpose flour needed
+      INGREDIENT SPAN:  undissolved yeast 
+         INGREDIENTS: envelope Fleischmann RapidRise Yeast
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would stir very warm water and olive oil into flour mixture .
+PREDID: 56
+PRED: stir
+   DOBJ: very warm water
+      INGREDIENT SPAN: very warm water
+         INGREDIENTS: warm water degrees F degrees F
+
+PREDID: 76
+PRED: olive
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive vegetable oil
+   PARG: flour mixture
+     PREP: into
+      INGREDIENT SPAN: flour mixture
+         INGREDIENTS: allpurpose flour needed
+
+
+SENTID: 2
+SENT: I would stir in enough remaining flour to make soft dough .
+PREDID: 101
+PRED: stir
+   DOBJ: NULL
+   PARG: enough remaining flour
+     PREP: in
+      NON-INGREDIENT SPAN: enough remaining flour
+   OARG: to make soft dough
+      NON-INGREDIENT SPAN: to make soft dough
+
+
+SENTID: 3
+SENT: I would knead on lightly floured surface until smooth and elastic , about 4 to 6 minutes .
+PREDID: 143
+PRED: knead
+   DOBJ: NULL
+   PARG: lightly floured surface until smooth, elastic , about 4 to 6 minutes
+     PREP: on
+      NON-INGREDIENT SPAN:  about 4 to 6 minutes
+      NON-INGREDIENT SPAN: lightly floured surface until smooth
+      NON-INGREDIENT SPAN:  elastic 
+
+
+SENTID: 4
+SENT: I would cover ;
+PREDID: 210
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would let rest on floured surface 10 minutes .
+PREDID: 216
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: floured surface 10 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: floured surface 10 minutes
+
+
+SENTID: 6
+SENT: I would lightly oil 1 -LRB- 14-inch -RRB- or 2 -LRB- 12-inch -RRB- round pizza pan -LRB- s -RRB- .
+PREDID: 249
+PRED: lightly
+   DOBJ: oil 1 -LRB- 14-inch -RRB- or 2 -LRB- 12-inch -RRB- round pizza pan -LRB- s
+      NON-INGREDIENT SPAN: oil 1 -LRB- 14-inch -RRB- or 2 -LRB- 12-inch -RRB- round pizza pan -LRB- s
+
+
+SENTID: 7
+SENT: ** Sprinkle with cornmeal .
+PREDID: 300
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cornmeal
+     PREP: with
+      INGREDIENT SPAN: cornmeal
+         INGREDIENTS: Cornmeal
+   OARG: **
+      NON-INGREDIENT SPAN: **
+
+
+SENTID: 8
+SENT: I would shape dough into smooth ball .
+PREDID: 321
+PRED: shape
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: smooth ball
+     PREP: into
+      NON-INGREDIENT SPAN: smooth ball
+
+
+SENTID: 9
+SENT: I would divide and roll dough to fit desired pan -LRB- s -RRB- .
+PREDID: 346
+PRED: divide and roll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: fit desired pan -lrb- s
+     PREP: to
+      NON-INGREDIENT SPAN: fit desired pan -lrb- s
+
+
+SENTID: 10
+SENT: I would top pizza as desired .
+PREDID: 383
+PRED: top
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: desired
+     PREP: as
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 11
+SENT: I would bake at 400 degrees F for 20 to 30 minutes or until done .
+PREDID: 401
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees
+   PARG: f for 20 to 30 minutes or until done
+     PREP: for
+      NON-INGREDIENT SPAN: f for 20 to 30 minutes or until done
+
+
+SENTID: 12
+SENT: I would baking time depends on size and thickness of crust and selected toppings .
+PREDID: 446
+PRED: baking depends
+   DOBJ: time
+      NON-INGREDIENT SPAN: time
+   PARG: size, thickness of crust, selected toppings
+     PREP: on
+      NON-INGREDIENT SPAN:  thickness of crust
+      NON-INGREDIENT SPAN:  selected toppings
+      NON-INGREDIENT SPAN: size
+
+

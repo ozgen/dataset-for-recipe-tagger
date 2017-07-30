@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would saute onion in butter with parsley flakes until onion is tender , about 8 minutes .
+PREDID: 0
+PRED: saute
+   DOBJ: onion in butter
+      INGREDIENT SPAN:  in butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: onion in butter
+         INGREDIENTS: onion chopped
+   PARG: parsley flakes
+     PREP: with
+      INGREDIENT SPAN: parsley flakes
+         INGREDIENTS: dried parsley
+   PARG: onion is tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: onion is tender 
+
+
+SENTID: 1
+SENT: Sprinkle flour over mixture and stir -LRB- will be lumpy -RRB- .
+
+SENTID: 2
+SENT: I would slowly stir in the half and half until smooth and creamy .
+PREDID: 74
+PRED: stir
+   DOBJ: NULL
+   PARG: the half, half
+     PREP: in
+      NON-INGREDIENT SPAN: the half
+      NON-INGREDIENT SPAN:  half
+   PARG: smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 3
+SENT: I would add corn and cook until slightly thickened , about 5 minutes .
+PREDID: 115
+PRED: add
+   DOBJ: corn, cook
+      INGREDIENT SPAN: corn
+         INGREDIENTS: ounce whole kernel corn
+      NON-INGREDIENT SPAN:  cook
+   PARG: slightly thickened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: slightly thickened 
+
+
+SENTID: 4
+SENT: I would add salt and pepper to taste .
+PREDID: 166
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: To serve , ladle into bowls and garnish with popped corn .
+PREDID: 192
+PRED: serve and ladle
+   DOBJ: NULL
+   PARG: bowls
+     PREP: into
+      NON-INGREDIENT SPAN: bowls
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 215
+PRED: garnish
+   DOBJ: NULL
+   PARG: popped corn
+     PREP: with
+      NON-INGREDIENT SPAN: popped corn
+
+

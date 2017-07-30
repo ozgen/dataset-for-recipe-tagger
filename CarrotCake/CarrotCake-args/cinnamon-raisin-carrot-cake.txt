@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would beat sucralose sweetener and eggs in a large bowl with an electric mixer until creamy ;
+PREDID: 38
+PRED: beat
+   DOBJ: sucralose sweetener, eggs in a large bowl
+      INGREDIENT SPAN: sucralose sweetener
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN:  eggs in a large bowl
+         INGREDIENTS: eggs
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: creamy
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+
+
+SENTID: 2
+SENT: I would add oil and continue the beating until well mixed .
+PREDID: 110
+PRED: add
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+
+PREDID: 119
+PRED: continue
+   DOBJ: the beating
+      NON-INGREDIENT SPAN: the beating
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 3
+SENT: I would beat flour , the raisins , the walnuts , and salt into egg mixture until thick .
+PREDID: 149
+PRED: beat
+   DOBJ: flour , the raisins , the walnuts , salt
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped raw walnuts
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: golden raisins
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: thick
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+
+
+SENTID: 4
+SENT: I would beat in carrots .
+PREDID: 207
+PRED: beat
+   DOBJ: NULL
+   PARG: carrots
+     PREP: in
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: shredded carrots
+
+
+SENTID: 5
+SENT: The batter will be thick .
+
+SENTID: 6
+SENT: I would stir in baking powder and baking soda into batter until evenly mixed .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: baking powder, baking soda into batter
+     PREP: in
+      INGREDIENT SPAN: baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  baking soda into batter
+         INGREDIENTS: baking soda
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 7
+SENT: I would pour batter into a 9x13-inch baking dish .
+PREDID: 279
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , 40 to 45 minutes .
+PREDID: 314
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 40 to 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  40 to 45 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+

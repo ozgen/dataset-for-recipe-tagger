@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: In a large bowl , I would mix together the flour , the eggs , the water and salt .
+PREDID: 13
+PRED: mix
+   DOBJ: the flour , the eggs , the water, salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: It will be very watery , as the pizza is like a crepe .
+
+SENTID: 2
+SENT: I would stir in the crabmeat , the pork , the tofu , bean sprouts , mixed vegetables , and cabbage until well blended .
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: the crabmeat , the pork , the tofu , bean sprouts , mixed vegetables , cabbage
+     PREP: in
+      INGREDIENT SPAN: the crabmeat 
+         INGREDIENTS: minced crabmeat
+      INGREDIENT SPAN:  cabbage
+         INGREDIENTS: shredded cabbage
+      INGREDIENT SPAN:  bean sprouts 
+         INGREDIENTS: bean sprouts
+      INGREDIENT SPAN:  the tofu 
+         INGREDIENTS: diced firm tofu
+      INGREDIENT SPAN:  mixed vegetables 
+         INGREDIENTS: frozen mixed vegetables thawed
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: chopped cooked pork
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 3
+SENT: I would heat some of the oil in a large skillet over medium heat .
+PREDID: 134
+PRED: heat
+   DOBJ: some of the oil in a large skillet over medium heat
+      INGREDIENT SPAN: some of the oil in a large skillet over medium heat
+         INGREDIENTS: sesame oil
+
+
+SENTID: 4
+SENT: Your pizzas will be the size of your skillet .
+
+SENTID: 5
+SENT: I would spoon in enough of the vegetable batter to cover the bottom of the pan .
+PREDID: 180
+PRED: spoon
+   DOBJ: NULL
+   PARG: enough of the vegetable batter
+     PREP: in
+      NON-INGREDIENT SPAN: enough of the vegetable batter
+   OARG: to cover the bottom of the pan
+      NON-INGREDIENT SPAN: to cover the bottom of the pan
+
+
+SENTID: 6
+SENT: I would cook for about 8 minutes , or until the underside is golden brown .
+PREDID: 238
+PRED: cook
+   DOBJ: NULL
+   PARG: about 8 minutes , or until the underside is golden brown
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 minutes 
+      NON-INGREDIENT SPAN:  or until the underside is golden brown
+
+
+SENTID: 7
+SENT: I would flip , and cook until browned on the other side , about 3 minutes .
+PREDID: 292
+PRED: flip
+   DOBJ: NULL
+
+PREDID: 300
+PRED: cook
+   DOBJ: NULL
+   PARG: browned on the other side , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned on the other side 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 8
+SENT: The edges should be crispy .
+
+SENTID: 9
+SENT: I would repeat with remaining batter .
+PREDID: 345
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining batter
+     PREP: with
+      NON-INGREDIENT SPAN: remaining batter
+
+
+SENTID: 10
+SENT: I would serve pizzas with dipping sauce .
+PREDID: 371
+PRED: serve
+   DOBJ: pizzas
+      NON-INGREDIENT SPAN: pizzas
+   PARG: dipping sauce
+     PREP: with
+      INGREDIENT SPAN: dipping sauce
+         INGREDIENTS: soy sauce
+
+
+SENTID: 11
+SENT: To make the dipping sauce , mix together the soy sauce , rice vinegar , sesame oil and chile pepper in a sealable container .
+
+SENTID: 12
+SENT: I would seal , and shake until well blended .
+PREDID: 500
+PRED: seal
+   DOBJ: NULL
+
+PREDID: 508
+PRED: shake
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 13
+SENT: I would shake again just before serving .
+PREDID: 530
+PRED: shake
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: again
+      NON-INGREDIENT SPAN: again
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

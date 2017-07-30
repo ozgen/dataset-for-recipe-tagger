@@ -1,0 +1,36 @@
+digraph recipe {
+E0[label="beat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="heat (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="griddle (S1,P1)", shape=oval, style=filled, fillcolor=azure]
+E3[label="dip (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="place (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="cook (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a lightly buttered skillet", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D0[label="DOBJ: baking powder, eggs, white sugar, milk, unsweetened cocoa powder, salt
+(text: milk , eggs , sugar , cocoa powder , baking powder , and salt)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: over medium heat", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D3_ing[label="DOBJ: slices bread
+(text: each slice of bread)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E0 -> E3 [label="OUTPUT: 
+INPUT: into egg mixture"]
+E2 -> E3 [label="OUTPUT: 
+INPUT: until  about 20 seconds per side"]
+P3_1_1[label="PREP: until well soaked ", shape=box, style=filled, fillcolor=white]
+P3_1_1 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: in pan", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_0[label="PREP: on both sides", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

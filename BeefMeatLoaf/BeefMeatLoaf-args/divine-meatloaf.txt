@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large mixing bowl , I would combine the ground beef , green pepper , green onion , the mushrooms and saltine crackers .
+PREDID: 57
+PRED: combine
+   DOBJ: the ground beef , green pepper , green onion , the mushrooms, saltine crackers
+      INGREDIENT SPAN:  saltine crackers
+         INGREDIENTS: saltine crackers crushed
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: ounce package beef onion soup mix
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: bunch green onions diced
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: extralean ground beef
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: sliced fresh mushrooms
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 2
+SENT: I would stir in the eggs and the beef with onion soup mix ;
+PREDID: 129
+PRED: stir
+   DOBJ: NULL
+   PARG: the eggs, the beef
+     PREP: in
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  the beef
+   PARG: onion soup mix
+     PREP: with
+      NON-INGREDIENT SPAN: onion soup mix
+
+
+SENTID: 3
+SENT: I would mix thoroughly .
+PREDID: 169
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would press mixture into a 9x13 inch baking dish .
+PREDID: 183
+PRED: press
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 5
+SENT: In a small mixing bowl , I would whisk together the ketchup , yellow mustard and brown sugar .
+PREDID: 238
+PRED: whisk
+   DOBJ: the ketchup , yellow mustard, brown sugar
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  yellow mustard
+         INGREDIENTS: yellow mustard
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+   PARG: a small mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would mix thoroughly and pour over the meat mixture , spreading evenly .
+PREDID: 289
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 305
+PRED: pour
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: spreading evenly
+      NON-INGREDIENT SPAN: spreading evenly
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven for 1 hour .
+PREDID: 344
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour
+
+

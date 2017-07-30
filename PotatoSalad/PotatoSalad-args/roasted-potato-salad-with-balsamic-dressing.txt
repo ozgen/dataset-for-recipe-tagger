@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would cut the potatoes into 3/4-inch chunks , and place into a bowl .
+PREDID: 38
+PRED: cut
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: red potatoes scrubbed dried paper towels
+   PARG: 3/4-inch chunks
+     PREP: into
+      NON-INGREDIENT SPAN: 3/4-inch chunks
+
+PREDID: 74
+PRED: place
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would drizzle with canola oil , and spread out onto a baking sheet .
+PREDID: 89
+PRED: drizzle
+   DOBJ: NULL
+   PARG: canola oil
+     PREP: with
+      INGREDIENT SPAN: canola oil
+         INGREDIENTS: canola oil
+
+PREDID: 113
+PRED: spread
+   DOBJ: NULL
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 3
+SENT: I would turn potatoes so skin sides are down .
+PREDID: 139
+PRED: turn
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: skin sides are down
+     PREP: so
+      NON-INGREDIENT SPAN: skin sides are down
+
+
+SENTID: 4
+SENT: I would sprinkle the potatoes with thyme , chili powder , kosher salt , and pepper .
+PREDID: 170
+PRED: sprinkle
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: thyme , chili powder , kosher salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: cracked black pepper
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN: thyme 
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until the potatoes are golden brown , about 45 minutes .
+PREDID: 232
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the potatoes are golden brown , about 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are golden brown 
+      NON-INGREDIENT SPAN:  about 45 minutes
+
+
+SENTID: 6
+SENT: I would remove and allow to cool .
+PREDID: 300
+PRED: remove and allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 7
+SENT: In a large salad bowl , I would lightly toss the cooled potatoes , green onions , roasted red peppers , the olives , artichoke hearts , the parsley , and Gorgonzola cheese until thoroughly combined .
+PREDID: 346
+PRED: toss
+   DOBJ: the cooled potatoes , green onions , roasted red peppers , the olives , artichoke hearts , the parsley , Gorgonzola cheese
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: bunch green onions sliced
+      INGREDIENT SPAN:  artichoke hearts 
+         INGREDIENTS: ounce artichoke hearts drained chopped
+      INGREDIENT SPAN:  Gorgonzola cheese
+         INGREDIENTS: crumbled Gorgonzola cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: kalamata olives pitted sliced
+      INGREDIENT SPAN:  roasted red peppers 
+         INGREDIENTS: roasted red peppers drained diced
+      NON-INGREDIENT SPAN: the cooled potatoes 
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: I would place the balsamic vinegar , olive oil , Dijon mustard , the garlic , the oregano , and basil into a blender , and pulse a few times until the dressing is thickened and creamy .
+PREDID: 472
+PRED: place
+   DOBJ: the balsamic vinegar , olive oil , Dijon mustard , the garlic , the oregano , basil
+      INGREDIENT SPAN: the balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: extravirgin olive oil
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+PREDID: 563
+PRED: pulse
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   PARG: the dressing is thickened, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: the dressing is thickened
+      NON-INGREDIENT SPAN:  creamy
+
+
+SENTID: 9
+SENT: I would season to taste with salt and pepper , pour over the potato salad , and toss lightly .
+PREDID: 608
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper , pour over the potato salad , toss lightly
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper 
+      NON-INGREDIENT SPAN:  toss lightly
+      NON-INGREDIENT SPAN:  pour over the potato salad 
+
+
+SENTID: 10
+SENT: I would chill for 4 hours before serving .
+PREDID: 677
+PRED: chill
+   DOBJ: NULL
+   PARG: 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

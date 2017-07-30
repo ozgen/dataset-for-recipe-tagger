@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would whisk together the eggs , the pumpkin , the milk , brown sugar , the brandy , the salt , the cinnamon , the ginger , the cloves , and nutmeg in a large bowl until smooth .
+PREDID: 38
+PRED: whisk
+   DOBJ: the eggs , the pumpkin , the milk , brown sugar , the brandy , the salt , the cinnamon , the ginger , the cloves , nutmeg in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  the brandy 
+         INGREDIENTS: brandy
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  nutmeg in a large bowl
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the mixture into the pie crusts .
+PREDID: 151
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the pie crusts
+     PREP: into
+      INGREDIENT SPAN: the pie crusts
+         INGREDIENTS: prepared unbaked pie crust
+
+
+SENTID: 3
+SENT: I would cover the outside edge of each pie with aluminum foil .
+PREDID: 182
+PRED: cover
+   DOBJ: the outside edge of each pie
+      NON-INGREDIENT SPAN: the outside edge of each pie
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 4
+SENT: I would bake in preheated oven for 25 minutes ;
+PREDID: 227
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 minutes
+
+
+SENTID: 5
+SENT: I would remove foil .
+PREDID: 259
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 6
+SENT: I would continue to bake until a knife inserted near the center of a pie comes out clean , about 25 minutes more .
+PREDID: 270
+PRED: continue
+   DOBJ: NULL
+   OARG: to bake until a knife inserted near the center of a pie comes out clean , about 25 minutes more
+      NON-INGREDIENT SPAN: to bake until a knife inserted near the center of a pie comes out clean 
+      NON-INGREDIENT SPAN:  about 25 minutes more
+
+
+SENTID: 7
+SENT: I would cool completely on a wire rack before serving .
+PREDID: 355
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 8
+SENT: I would store unused portion in refrigerator .
+PREDID: 394
+PRED: store
+   DOBJ: unused portion
+      NON-INGREDIENT SPAN: unused portion
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

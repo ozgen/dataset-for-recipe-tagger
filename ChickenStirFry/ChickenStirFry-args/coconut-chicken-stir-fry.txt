@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would melt butter in large frying pan over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: large frying pan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: large frying pan over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir the cumin seeds in butter until fragrant , about 1 minute .
+PREDID: 41
+PRED: cook and stir
+   DOBJ: the cumin seeds in butter
+      INGREDIENT SPAN: the cumin seeds in butter
+         INGREDIENTS: cumin seeds
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 2
+SENT: I would stir chicken into the skillet with cumin seeds , and cook and stir until chicken is no longer pink in the center and juices run clear , 5 to 8 minutes .
+PREDID: 100
+PRED: stir
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: large skinless boneless chicken breast halves sliced
+   PARG: the skillet with cumin seeds
+     PREP: into
+      INGREDIENT SPAN: the skillet with cumin seeds
+         INGREDIENTS: ground cumin
+
+PREDID: 143
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken is no longer pink in the center, juices run clear , 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is no longer pink in the center
+      NON-INGREDIENT SPAN:  juices run clear 
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+
+
+SENTID: 3
+SENT: I would drain any excess juices , if any .
+PREDID: 221
+PRED: drain
+   DOBJ: any excess juices
+      NON-INGREDIENT SPAN: any excess juices
+   PARG: any
+     PREP: if
+      NON-INGREDIENT SPAN: any
+
+
+SENTID: 4
+SENT: I would pour vegetable oil into skillet with chicken , and heat oil until sizzling .
+PREDID: 248
+PRED: pour
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: skillet with chicken
+     PREP: into
+      NON-INGREDIENT SPAN: skillet with chicken
+
+PREDID: 290
+PRED: heat
+   DOBJ: oil
+      NON-INGREDIENT SPAN: oil
+   PARG: sizzling
+     PREP: until
+      NON-INGREDIENT SPAN: sizzling
+
+
+SENTID: 5
+SENT: I would mix in onion , the carrots , the garlic , the ginger , red pepper flakes , the honey , ground cumin , the cinnamon , curry powder , the salt , and black pepper to the pan ;
+PREDID: 311
+PRED: mix
+   DOBJ: NULL
+   PARG: onion , the carrots , the garlic , the ginger , red pepper flakes , the honey , ground cumin , the cinnamon , curry powder , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder more taste
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: grated ginger
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: large carrots sliced
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  ground cumin 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  the cinnamon 
+   PARG: the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 6
+SENT: I would cook until onions are translucent and carrots done , 5 to 8 minutes .
+PREDID: 427
+PRED: cook
+   DOBJ: NULL
+   PARG: onions are translucent, carrots done
+     PREP: until
+      NON-INGREDIENT SPAN: onions are translucent
+      NON-INGREDIENT SPAN:  carrots done
+   PARG: 5 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 8 minutes
+
+
+SENTID: 7
+SENT: I would stir in coconut milk and simmer until flavors have blended , about 10 minutes .
+PREDID: 483
+PRED: stir
+   DOBJ: NULL
+   PARG: coconut milk, simmer
+     PREP: in
+      INGREDIENT SPAN: coconut milk
+         INGREDIENTS: ounce coconut milk
+      NON-INGREDIENT SPAN:  simmer
+   PARG: flavors have blended , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: flavors have blended 
+
+

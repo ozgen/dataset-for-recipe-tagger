@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would heat a large saucepan or Dutch oven over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large saucepan or Dutch oven over medium heat
+      NON-INGREDIENT SPAN: a large saucepan or Dutch oven over medium heat
+
+
+SENTID: 1
+SENT: I would add ground beef , and cook until evenly browned .
+PREDID: 44
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: extra lean ground beef
+
+PREDID: 61
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 2
+SENT: I would stir occasionally to crumble .
+PREDID: 84
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+   OARG: to crumble
+      NON-INGREDIENT SPAN: to crumble
+
+
+SENTID: 3
+SENT: I would season the beef with chili powder , onion flakes , the cumin , the paprika , garlic and red pepper flakes , and mix well .
+PREDID: 110
+PRED: season
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: chili powder , onion flakes , the cumin , the paprika , garlic, red pepper flakes , mix
+     PREP: with
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes taste
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  onion flakes 
+         INGREDIENTS: dried onion flakes
+      NON-INGREDIENT SPAN:  garlic
+      NON-INGREDIENT SPAN:  mix
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would pour in the tomatoes , chili beans , and tomato sauce .
+PREDID: 201
+PRED: pour
+   DOBJ: NULL
+   PARG: the tomatoes , chili beans , tomato sauce
+     PREP: in
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce diced tomatoes garlic onion
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 5
+SENT: I would reduce heat to low , and simmer for at least 30 minutes , or longer for thicker chili .
+PREDID: 245
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 264
+PRED: simmer
+   DOBJ: NULL
+   PARG: at least 30 minutes , or longer for thicker chili
+     PREP: for
+      NON-INGREDIENT SPAN: at least 30 minutes 
+      NON-INGREDIENT SPAN:  or longer for thicker chili
+   OARG: longer
+      NON-INGREDIENT SPAN: longer
+
+
+SENTID: 6
+SENT: I would season to taste with salt and pepper .
+PREDID: 314
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

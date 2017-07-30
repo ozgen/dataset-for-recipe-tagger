@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , the egg , the onion , the milk and bread OR cracker crumbs .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , the egg , the onion , the milk, bread OR cracker crumbs
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  bread OR cracker crumbs
+         INGREDIENTS: dried bread crumbs
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would season with salt and pepper to taste and place in a lightly greased 5x9 inch loaf pan , OR form into a loaf and place in a lightly greased 9x13 inch baking dish .
+
+SENTID: 3
+SENT: In a separate small bowl , I would combine the brown sugar , the mustard and ketchup .
+PREDID: 254
+PRED: combine
+   DOBJ: the brown sugar , the mustard, ketchup
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a separate small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate small bowl
+
+
+SENTID: 4
+SENT: I would mix well and pour over the meatloaf .
+PREDID: 293
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 303
+PRED: pour
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour .
+PREDID: 323
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

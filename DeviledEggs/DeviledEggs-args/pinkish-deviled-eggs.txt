@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would wrap cod roe with lightly oiled aluminum foil .
+PREDID: 38
+PRED: wrap
+   DOBJ: cod roe
+      INGREDIENT SPAN: cod roe
+         INGREDIENTS: cod roe
+   PARG: lightly oiled aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: lightly oiled aluminum foil
+
+
+SENTID: 2
+SENT: I would bake for 20 minutes .
+PREDID: 77
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 3
+SENT: I would place eggs in a saucepan , and add enough cold water to cover the eggs .
+PREDID: 94
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 118
+PRED: add
+   DOBJ: enough cold water
+      NON-INGREDIENT SPAN: enough cold water
+   OARG: to cover the eggs
+      NON-INGREDIENT SPAN: to cover the eggs
+
+
+SENTID: 4
+SENT: I would bring it to boil , cover , and
+PREDID: 151
+PRED: bring
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: to boil , cover , and
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: to boil 
+      NON-INGREDIENT SPAN:  cover 
+
+
+SENTID: 5
+SENT: I would remove from heat .
+PREDID: 174
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 6
+SENT: I would set aside for 12 minutes .
+PREDID: 189
+PRED: set
+   DOBJ: NULL
+   PARG: 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 12 minutes
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would drain , and pour cold water over the eggs to cool them .
+PREDID: 210
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 219
+PRED: pour
+   DOBJ: cold water over the eggs
+      NON-INGREDIENT SPAN: cold water over the eggs
+   OARG: to cool them
+      NON-INGREDIENT SPAN: to cool them
+
+
+SENTID: 8
+SENT: I would remove eggshells , and slice the eggs in half lengthwise .
+PREDID: 254
+PRED: remove
+   DOBJ: eggshells
+      NON-INGREDIENT SPAN: eggshells
+
+PREDID: 273
+PRED: slice
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 9
+SENT: I would place yolks in a mixing bowl , and mix with cooked cod roe and butter .
+PREDID: 302
+PRED: place
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+PREDID: 329
+PRED: mix
+   DOBJ: NULL
+   PARG: cooked cod roe, butter
+     PREP: with
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: unsalted butter
+      NON-INGREDIENT SPAN: cooked cod roe
+
+
+SENTID: 10
+SENT: I would season to taste with salt .
+PREDID: 358
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 11
+SENT: I would spoon the yolk mixture onto the egg white halves .
+PREDID: 380
+PRED: spoon
+   DOBJ: the yolk mixture
+      NON-INGREDIENT SPAN: the yolk mixture
+   PARG: the egg white halves
+     PREP: onto
+      NON-INGREDIENT SPAN: the egg white halves
+
+
+SENTID: 12
+SENT: I would sprinkle minced parsley on top , and serve .
+PREDID: 421
+PRED: sprinkle
+   DOBJ: minced parsley
+      INGREDIENT SPAN: minced parsley
+         INGREDIENTS: minced fresh parsley
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+

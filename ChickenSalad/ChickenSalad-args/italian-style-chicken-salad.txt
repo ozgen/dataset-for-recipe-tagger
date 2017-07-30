@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would heat olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir garlic until softened and golden brown , 3 to 5 minutes .
+PREDID: 37
+PRED: cook and stir
+   DOBJ: garlic
+      NON-INGREDIENT SPAN: garlic
+   PARG: softened, golden brown , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 2
+SENT: I would stir in lemon juice ;
+PREDID: 94
+PRED: stir
+   DOBJ: NULL
+   PARG: lemon juice
+     PREP: in
+      NON-INGREDIENT SPAN: lemon juice
+
+
+SENTID: 3
+SENT: I would set aside to cool .
+PREDID: 111
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: I would toss chicken , the fennel , celery , red onion , and parsley together in a large bowl .
+PREDID: 126
+PRED: toss
+   DOBJ: chicken , the fennel , celery , red onion , parsley together in a large bowl
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: pound roasted chicken meat removed bones cut bitesize
+      INGREDIENT SPAN:  parsley together in a large bowl
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the fennel 
+         INGREDIENTS: bulb fennel cored cut thin slices
+
+
+SENTID: 5
+SENT: I would stir in the cooled garlic and olive oil , the mayonnaise , lemon zest , the salt , and black pepper .
+PREDID: 192
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooled garlic, olive oil , the mayonnaise , lemon zest , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  lemon zest 
+      NON-INGREDIENT SPAN: the cooled garlic
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN:  olive oil 
+
+
+SENTID: 6
+SENT: I would arrange arugula on a serving platter ;
+PREDID: 266
+PRED: arrange
+   DOBJ: arugula
+      INGREDIENT SPAN: arugula
+         INGREDIENTS: bunch arugula
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+
+
+SENTID: 7
+SENT: I would serve chicken salad on arugula .
+PREDID: 298
+PRED: serve
+   DOBJ: chicken salad
+      NON-INGREDIENT SPAN: chicken salad
+   PARG: arugula
+     PREP: on
+      NON-INGREDIENT SPAN: arugula
+
+

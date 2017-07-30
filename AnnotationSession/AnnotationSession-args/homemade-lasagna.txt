@@ -1,0 +1,198 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: (16 ounce) package lasagna noodles
+
+PREDID: 93
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain and set aside .
+PREDID: 127
+PRED: drain and set
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would place pork and beef in a large , deep skillet .
+PREDID: 144
+PRED: place
+   DOBJ: pork, beef
+      INGREDIENT SPAN: pork
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN:  beef
+         INGREDIENTS: lean ground beef
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 5
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 181
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 6
+SENT: I would stir in tomato sauce , crushed tomatoes , parsley , garlic , oregano , onion , sugar , basil and salt .
+PREDID: 220
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato sauce , crushed tomatoes , parsley , garlic , oregano , onion , sugar , basil, salt
+     PREP: in
+      INGREDIENT SPAN:  oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: (8 ounce) can tomato sauce
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: (28 ounce) can crushed tomatoes
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic
+
+
+SENTID: 7
+SENT: I would simmer over medium-low heat for 30 minutes , stirring occasionally .
+PREDID: 302
+PRED: simmer
+   DOBJ: medium-low heat for 30 minutes , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: medium-low heat for 30 minutes 
+
+
+SENTID: 8
+SENT: In a large bowl , I would combine cottage cheese , eggs , Parmesan cheese , parsley , salt and pepper .
+PREDID: 373
+PRED: combine
+   DOBJ: cottage cheese , eggs , Parmesan cheese , parsley , salt, pepper
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: small curd cottage cheese
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  salt
+      NON-INGREDIENT SPAN:  parsley 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 9
+SENT: In a 9x13 inch baking dish , place 2 layers of noodles on the bottom of dish ;
+PREDID: 464
+PRED: place
+   DOBJ: 2 layers of noodles on the bottom of dish
+      NON-INGREDIENT SPAN: 2 layers of noodles on the bottom of dish
+   PARG: a 9x13 inch
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch
+
+
+SENTID: 10
+SENT: I would layer 1/2 of the cheese mixture , 1/2 of the mozzarella cheese and 1/2 of the sauce ;
+PREDID: 497
+PRED: layer
+   DOBJ: 1/2 of the cheese mixture , 1/2 of the mozzarella cheese, 1/2 of the sauce
+      INGREDIENT SPAN: 1/2 of the cheese mixture 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  1/2 of the mozzarella cheese
+      NON-INGREDIENT SPAN:  1/2 of the sauce
+
+
+SENTID: 11
+SENT: I would repeat layers .
+PREDID: 565
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 12
+SENT: I would cover with aluminum foil and bake in preheated oven for 30 to 40 minutes .
+PREDID: 578
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 602
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 to 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 to 40 minutes
+
+
+SENTID: 13
+SENT: I would remove foil and bake for another 5 to 10 minutes ;
+PREDID: 638
+PRED: remove
+   DOBJ: foil, bake
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: foil
+   PARG: another 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 5 to 10 minutes
+
+
+SENTID: 14
+SENT: I would let stand for 10 minutes before cutting ;
+PREDID: 678
+PRED: let
+   DOBJ: stand for 10 minutes
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+
+
+SENTID: 15
+SENT: I would serve .
+PREDID: 712
+PRED: serve
+   DOBJ: NULL
+
+

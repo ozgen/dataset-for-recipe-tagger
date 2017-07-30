@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: In a small bowl , I would mix together the cream cheese , the sugar , and 1/8 teaspoon of cinnamon until thoroughly combined .
+PREDID: 13
+PRED: mix
+   DOBJ: the cream cheese , the sugar , 1/8 teaspoon of cinnamon
+      INGREDIENT SPAN:  1/8 teaspoon of cinnamon
+         INGREDIENTS: slices raisin cinnamon bread such Pepperidge Farm
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the cream cheese 
+         INGREDIENTS: cream cheese softened
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would spread cream cheese mixture onto 4 slices of raisin bread .
+PREDID: 93
+PRED: spread
+   DOBJ: cream cheese mixture
+      NON-INGREDIENT SPAN: cream cheese mixture
+   PARG: 4 slices of raisin bread
+     PREP: onto
+      INGREDIENT SPAN: 4 slices of raisin bread
+         INGREDIENTS: slices raisin cinnamon bread such Pepperidge Farm
+
+
+SENTID: 2
+SENT: I would top each spread slice with another slice of raisin bread to make 4 sandwiches .
+PREDID: 142
+PRED: top
+   DOBJ: each spread slice
+      INGREDIENT SPAN: each spread slice
+         INGREDIENTS: slices raisin cinnamon bread such Pepperidge Farm
+   PARG: another slice of raisin bread
+     PREP: with
+      NON-INGREDIENT SPAN: another slice of raisin bread
+   OARG: to make 4 sandwiches
+      NON-INGREDIENT SPAN: to make 4 sandwiches
+
+
+SENTID: 3
+SENT: In a shallow bowl , I would beat the eggs with milk and 1/8 teaspoon of cinnamon .
+PREDID: 222
+PRED: beat
+   DOBJ: the eggs with milk, 1/8 teaspoon of cinnamon
+      INGREDIENT SPAN:  1/8 teaspoon of cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: the eggs with milk
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the with milk
+         INGREDIENTS: milk
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+
+
+SENTID: 4
+SENT: I would dip each sandwich into the egg mixture on both sides .
+PREDID: 266
+PRED: dip
+   DOBJ: each sandwich
+      NON-INGREDIENT SPAN: each sandwich
+   PARG: the egg mixture on both sides
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture on both sides
+
+
+SENTID: 5
+SENT: I would grease a skillet with butter , and place over medium heat .
+PREDID: 310
+PRED: grease
+   DOBJ: a skillet with butter , place over medium heat
+      INGREDIENT SPAN: a skillet with butter 
+         INGREDIENTS: butter needed
+      NON-INGREDIENT SPAN:  place over medium heat
+
+
+SENTID: 6
+SENT: I would brown the sandwiches in the skillet for about 2 minutes per side .
+PREDID: 358
+PRED: brown
+   DOBJ: the sandwiches
+      NON-INGREDIENT SPAN: the sandwiches
+   PARG: the skillet for about 2 minutes per side
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet for about 2 minutes per side
+
+

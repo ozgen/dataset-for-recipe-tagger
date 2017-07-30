@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would heat a small skillet over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: a small skillet
+      NON-INGREDIENT SPAN: a small skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would toast chipotle pepper in the skillet , occasionally shaking the skillet , until pepper is fragrant and pliable , 3 to 5 minutes .
+PREDID: 32
+PRED: toast
+   DOBJ: chipotle pepper
+      INGREDIENT SPAN: chipotle pepper
+         INGREDIENTS: dried chipotle chili pepper
+   PARG: the skillet , occasionally shaking the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet 
+      NON-INGREDIENT SPAN:  occasionally shaking the skillet
+   PARG: pepper is fragrant, pliable , 3 to 5 minutes
+     PREP: until
+      INGREDIENT SPAN: pepper is fragrant
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pliable 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 2
+SENT: I would use scissors to cut pepper and remove stem and seeds and transfer pepper in a small bowl .
+PREDID: 138
+PRED: use
+   DOBJ: scissors
+      NON-INGREDIENT SPAN: scissors
+   OARG: to cut pepper, remove stem, seeds, transfer pepper in a small bowl
+      INGREDIENT SPAN:  seeds
+         INGREDIENTS: cumin seeds
+      INGREDIENT SPAN: to cut pepper
+         INGREDIENTS: red bell peppers seeded cut strips
+      NON-INGREDIENT SPAN:  remove stem
+      NON-INGREDIENT SPAN:  transfer pepper in a small bowl
+
+
+SENTID: 3
+SENT: I would pour boiling water over pepper .
+PREDID: 211
+PRED: pour
+   DOBJ: boiling water
+      INGREDIENT SPAN: boiling water
+         INGREDIENTS: boiling water
+   PARG: pepper
+     PREP: over
+      NON-INGREDIENT SPAN: pepper
+
+
+SENTID: 4
+SENT: I would cover bowl with plastic wrap and allow pepper to rehydrate and soften , about 5 minutes .
+PREDID: 238
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 265
+PRED: allow
+   DOBJ: pepper
+      NON-INGREDIENT SPAN: pepper
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: to rehydrate, soften
+      NON-INGREDIENT SPAN:  soften
+      NON-INGREDIENT SPAN: to rehydrate
+
+
+SENTID: 5
+SENT: I would drain and mince pepper ;
+PREDID: 311
+PRED: drain and mince
+   DOBJ: pepper
+      NON-INGREDIENT SPAN: pepper
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 331
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would place the pineapple concentrate , olive oil , lime zest and juice , and minced garlic in a separate bowl .
+PREDID: 340
+PRED: place
+   DOBJ: the pineapple concentrate , olive oil , lime zest, juice , minced garlic in a separate bowl
+      INGREDIENT SPAN: the pineapple concentrate 
+         INGREDIENTS: frozen pineapple juice concentrate
+      INGREDIENT SPAN:  minced garlic in a separate bowl
+         INGREDIENTS: cloves garlic minced
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  lime zest
+         INGREDIENTS: limes zested juiced
+      NON-INGREDIENT SPAN:  juice 
+
+
+SENTID: 8
+SENT: I would toast the cumin seeds over medium heat for a minute or two in the same skillet used for the chipotle pepper .
+PREDID: 426
+PRED: toast
+   DOBJ: the cumin seeds
+      NON-INGREDIENT SPAN: the cumin seeds
+   PARG: medium heat for a minute or two
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat for a minute or two
+   PARG: the same skillet used for the chipotle pepper
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet used for the chipotle pepper
+
+
+SENTID: 9
+SENT: I would add cumin and reserved minced chipotle pepper to pineapple olive oil mixture ;
+PREDID: 514
+PRED: add
+   DOBJ: cumin
+      NON-INGREDIENT SPAN: cumin
+
+PREDID: 525
+PRED: reserved
+   DOBJ: minced chipotle pepper
+      NON-INGREDIENT SPAN: minced chipotle pepper
+   PARG: pineapple olive oil mixture
+     PREP: to
+      INGREDIENT SPAN: pineapple olive oil mixture
+         INGREDIENTS: small fresh pineapple peeled cored cut chunks
+
+
+SENTID: 10
+SENT: I would stir to combine .
+PREDID: 580
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 11
+SENT: I would combine the pineapple chunks , green cabbage , and red cabbage , the cilantro , and red bell pepper in a bowl .
+PREDID: 594
+PRED: combine
+   DOBJ: the pineapple chunks , green cabbage , red cabbage , the cilantro , red bell pepper in a bowl
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN:  green cabbage 
+         INGREDIENTS: head red cabbage cored shredded
+      INGREDIENT SPAN:  red cabbage 
+         INGREDIENTS: head green cabbage cored shredded
+      NON-INGREDIENT SPAN: the pineapple chunks 
+      NON-INGREDIENT SPAN:  red bell pepper in a bowl
+
+
+SENTID: 12
+SENT: I would add the dressing mix and toss thoroughly .
+PREDID: 680
+PRED: add
+   DOBJ: the dressing mix
+      NON-INGREDIENT SPAN: the dressing mix
+
+PREDID: 700
+PRED: toss
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 13
+SENT: I would season with salt and pepper .
+PREDID: 715
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 14
+SENT: I would cover and refrigerate for at least an hour before serving , stirring occasionally .
+PREDID: 739
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: at least an hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least an hour
+   PARG: serving , stirring occasionally
+     PREP: before
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: serving 
+
+

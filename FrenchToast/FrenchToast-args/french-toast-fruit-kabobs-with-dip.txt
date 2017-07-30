@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would kabobs :
+PREDID: 0
+PRED: kabobs
+   DOBJ: NULL
+
+
+SENTID: 1
+SENT: I would combine first 4 ingredients .
+PREDID: 7
+PRED: combine
+   DOBJ: first 4 ingredients
+      NON-INGREDIENT SPAN: first 4 ingredients
+
+
+SENTID: 2
+SENT: I would dip bread into mixture and fry in melted butter until golden on both sides .
+PREDID: 32
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices bread
+   PARG: mixture, fry in melted butter
+     PREP: into
+      INGREDIENT SPAN:  fry in melted butter
+         INGREDIENTS: Butter frying
+      NON-INGREDIENT SPAN: mixture
+   PARG: golden on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: golden on both sides
+
+
+SENTID: 3
+SENT: I would cut into strips and thread strips on skewers alternating with the fruit of your choice .
+PREDID: 94
+PRED: cut
+   DOBJ: NULL
+   PARG: strips, thread strips
+     PREP: into
+      NON-INGREDIENT SPAN:  thread strips
+      NON-INGREDIENT SPAN: strips
+   PARG: skewers alternating with the fruit of your choice
+     PREP: on
+      INGREDIENT SPAN: skewers alternating with the fruit of your choice
+         INGREDIENTS: Smucker Simple Blends Summer Fruit Fruit Spread, Fresh fruit such strawberries kiwi pineapple bananas
+      INGREDIENT SPAN: skewers alternating with the fruit of your choice
+         INGREDIENTS: Smucker Simple Blends Summer Fruit Fruit Spread, Fresh fruit such strawberries kiwi pineapple bananas
+
+
+SENTID: 4
+SENT: I would dip :
+PREDID: 167
+PRED: dip
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would combine all ingredients and serve with kabobs .
+PREDID: 171
+PRED: combine
+   DOBJ: all ingredients
+      NON-INGREDIENT SPAN: all ingredients
+
+PREDID: 195
+PRED: serve
+   DOBJ: NULL
+   PARG: kabobs
+     PREP: with
+      NON-INGREDIENT SPAN: kabobs
+
+

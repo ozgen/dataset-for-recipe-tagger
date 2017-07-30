@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would beat eggs together with half-and-half .
+PREDID: 51
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: with half-and-half
+     PREP: together
+      NON-INGREDIENT SPAN: with half-and-half
+
+
+SENTID: 2
+SENT: I would mix in sugar , the flour , the salt , the molasses , corn syrup , the vanilla , and brandy .
+PREDID: 85
+PRED: mix
+   DOBJ: NULL
+   PARG: sugar , the flour , the salt , the molasses , corn syrup , the vanilla , brandy
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  brandy
+         INGREDIENTS: brandy
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the molasses 
+         INGREDIENTS: molasses
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 3
+SENT: I would stir in pecans .
+PREDID: 144
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: I would pour into pie crust .
+PREDID: 157
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 40 to 50 minutes , or until done .
+PREDID: 174
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 40 to 50 minutes , or until done
+     PREP: in
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: preheated oven for 40 to 50 minutes 
+
+

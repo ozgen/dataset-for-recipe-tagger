@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would break ground beef into a large stock pot over medium-high heat ;
+PREDID: 0
+PRED: break
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large stock pot over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large stock pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir until completely browned , 7 to 10 minutes .
+PREDID: 53
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: completely browned
+   OARG: 7 to 10 minutes
+      NON-INGREDIENT SPAN: 7 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain fat from the beef and return pot to heat .
+PREDID: 100
+PRED: drain
+   DOBJ: NULL
+   PARG: heat
+     PREP: to
+      NON-INGREDIENT SPAN: heat
+   OARG: fat from the beef, return pot
+      NON-INGREDIENT SPAN: fat from the beef
+      NON-INGREDIENT SPAN:  return pot
+
+
+SENTID: 3
+SENT: I would stir tomato sauce , light red kidney beans , dark red kidney beans , the salsa , the celery , the onion , bell pepper , jalapeno pepper , chili seasoning , the bacon , the garlic , the oregano , the basil , the salt , black pepper , and sugar with the ground beef in the pot .
+PREDID: 138
+PRED: stir
+   DOBJ: tomato sauce , light red kidney beans , dark red kidney beans , the salsa , the celery , the onion , bell pepper , jalapeno pepper , chili seasoning , the bacon , the garlic , the oregano , the basil , the salt , black pepper , sugar with the ground beef
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: ounce jar medium salsa
+      INGREDIENT SPAN:  light red kidney beans 
+         INGREDIENTS: ounce light red kidney beans drained rinsed
+      INGREDIENT SPAN:  sugar with the ground beef
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: jalapeno pepper chopped
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper seeded chopped
+      INGREDIENT SPAN:  chili seasoning 
+         INGREDIENTS: chili seasoning mix
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: crumbled cooked bacon
+      INGREDIENT SPAN:  dark red kidney beans 
+         INGREDIENTS: ounce dark red kidney beans rinsed drained
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would place a cover on the pot and cook the chili until the flavors have blended , at least 1 hour .
+PREDID: 331
+PRED: place
+   DOBJ: a cover
+      NON-INGREDIENT SPAN: a cover
+   PARG: the pot
+     PREP: on
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 353
+PRED: cook
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: the flavors have blended , at least 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: the flavors have blended 
+      NON-INGREDIENT SPAN:  at least 1 hour
+
+

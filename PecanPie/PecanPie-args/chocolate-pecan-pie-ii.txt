@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: Over hot , not boiling , water melt 1 cup chocolate chips .
+
+SENTID: 2
+SENT: I would remove from heat , and let cool .
+PREDID: 38
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 56
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: In a small bowl , I would beat the eggs and salt ;
+PREDID: 77
+PRED: beat
+   DOBJ: the eggs, salt
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 4
+SENT: I would beat with an electric mixer at high speed until very thick and lemon colored , about 5 minutes .
+PREDID: 96
+PRED: beat
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: high speed until very thick, lemon colored , about 5 minutes
+     PREP: at
+      NON-INGREDIENT SPAN:  lemon colored 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: high speed until very thick
+
+
+SENTID: 5
+SENT: I would gradually beat in the brown sugar and melted chocolate .
+PREDID: 183
+PRED: beat
+   DOBJ: NULL
+   PARG: the brown sugar, melted chocolate
+     PREP: in
+      INGREDIENT SPAN:  melted chocolate
+         INGREDIENTS: semisweet chocolate chips
+      INGREDIENT SPAN: the brown sugar
+         INGREDIENTS: packed brown sugar
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 6
+SENT: I would stir in chopped pecans and remaining 1 cup chocolate morsels .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped pecans
+     PREP: in
+      INGREDIENT SPAN: chopped pecans
+         INGREDIENTS: chopped pecans
+   OARG: remaining 1 cup chocolate morsels
+      NON-INGREDIENT SPAN: remaining 1 cup chocolate morsels
+
+
+SENTID: 7
+SENT: I would pour the filling into the unbaked pie crust .
+PREDID: 273
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the unbaked pie crust
+     PREP: into
+      INGREDIENT SPAN: the unbaked pie crust
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 8
+SENT: I would decorate top with pecan halves .
+PREDID: 307
+PRED: decorate
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: pecan halves
+     PREP: with
+      INGREDIENT SPAN: pecan halves
+         INGREDIENTS: pecan halves
+
+
+SENTID: 9
+SENT: I would bake for 25 to 30 minutes .
+PREDID: 334
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+
+

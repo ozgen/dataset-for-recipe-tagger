@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would place the ground beef in a large pan , cover with about 1 quart of cold water , and bring to a boil , stirring and breaking up the beef with a fork to a fine texture .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large pan
+
+PREDID: 30
+PRED: cover
+   DOBJ: NULL
+   PARG: about 1 quart of cold water
+     PREP: with
+      INGREDIENT SPAN: about 1 quart of cold water
+         INGREDIENTS: water amount cover
+
+PREDID: 65
+PRED: bring stirring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 89
+PRED: breaking
+   DOBJ: the beef with a fork
+      NON-INGREDIENT SPAN: the beef with a fork
+   PARG: a fine texture
+     PREP: to
+      NON-INGREDIENT SPAN: a fine texture
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 1
+SENT: I would slowly boil until the meat is thoroughly cooked , about 30 minutes ,
+PREDID: 136
+PRED: boil
+   DOBJ: NULL
+   PARG: the meat is thoroughly cooked , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the meat is thoroughly cooked 
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 2
+SENT: I would remove from heat and refrigerate in the pan overnight .
+PREDID: 186
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, refrigerate in the pan
+     PREP: from
+      NON-INGREDIENT SPAN:  refrigerate in the pan
+      NON-INGREDIENT SPAN: heat
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 3
+SENT: The next day , skim the solid fat from the top of the pan , and discard the fat .
+
+SENTID: 4
+SENT: I would place the beef mixture over medium heat , and stir in the onions , tomato sauce , the vinegar , Worcestershire sauce , the garlic , the chocolate , chili powder , the salt , the cumin , the cinnamon , cayenne pepper , the cloves , allspice berries , and bay leaf .
+PREDID: 232
+PRED: place
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+PREDID: 269
+PRED: stir
+   DOBJ: NULL
+   PARG: the onions , tomato sauce , the vinegar , worcestershire sauce , the garlic , the chocolate , chili powder , the salt , the cumin , the cinnamon , cayenne pepper , the cloves , allspice berries , bay leaf
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  bay leaf
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the chocolate 
+         INGREDIENTS: ounce square unsweetened chocolate
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: cloves garlic minced
+      INGREDIENT SPAN:  allspice berries 
+         INGREDIENTS: whole allspice berries
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 5
+SENT: Bring to a boil , I would reduce heat to a simmer , and cook , stirring occasionally , for 3 hours .
+PREDID: 435
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer , cook , stirring occasionally , for 3 hours
+     PREP: to
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: a simmer 
+      NON-INGREDIENT SPAN:  cook 
+      NON-INGREDIENT SPAN:  for 3 hours
+   OARG: bring to a boil
+      NON-INGREDIENT SPAN: bring to a boil
+
+
+SENTID: 6
+SENT: I would add water if necessary to prevent the chili from burning .
+PREDID: 494
+PRED: add
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water amount cover
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+   OARG: to prevent the chili from burning
+      NON-INGREDIENT SPAN: to prevent the chili from burning
+
+

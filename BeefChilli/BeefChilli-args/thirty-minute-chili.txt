@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: I would crumble the beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir until evenly browned .
+PREDID: 51
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 2
+SENT: I would drain off grease , and mix in the tomatoes , kidney beans and chili seasoning mix .
+PREDID: 81
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 99
+PRED: mix
+   DOBJ: NULL
+   PARG: the tomatoes , kidney beans, chili seasoning mix
+     PREP: in
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce canned diced tomatoes
+      INGREDIENT SPAN:  chili seasoning mix
+         INGREDIENTS: ounce package chili seasoning mix
+
+
+SENTID: 3
+SENT: I would reduce heat to medium , and simmer for 15 minutes .
+PREDID: 148
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 170
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+

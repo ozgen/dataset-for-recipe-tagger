@@ -1,0 +1,202 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In a large bowl , combine oats , 1/3 cup brown sugar , 3/4 teaspoon cinnamon and butter .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C.
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C.
+   PARG: a large bowl , combine oats , 1/3 cup brown sugar , 3/4 teaspoon cinnamon, butter
+     PREP: in
+      INGREDIENT SPAN:  3/4 teaspoon cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  combine oats 
+         INGREDIENTS: quick-cooking oats
+      INGREDIENT SPAN:  1/3 cup brown sugar 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN: a large bowl 
+
+
+SENTID: 1
+SENT: I would press into 9 inch pie plate .
+PREDID: 109
+PRED: press
+   DOBJ: NULL
+   PARG: 9 inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: 9 inch pie plate
+
+
+SENTID: 2
+SENT: I would place 8 inch pie plate on top and bake 8 minutes .
+PREDID: 132
+PRED: place
+   DOBJ: 8 inch pie plate
+      NON-INGREDIENT SPAN: 8 inch pie plate
+   PARG: top, bake
+     PREP: on
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: top
+   PARG: 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 minutes
+
+
+SENTID: 3
+SENT: I would remove top plate and set aside to cool .
+PREDID: 171
+PRED: remove
+   DOBJ: top plate
+      NON-INGREDIENT SPAN: top plate
+
+PREDID: 188
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: In a saucepan , I would combine gelatin , 2/3 cup brown sugar , the salt , 1/2 teaspoon cinnamon , the ginger and mace .
+PREDID: 215
+PRED: combine
+   DOBJ: gelatin , 2/3 cup brown sugar , the salt , 1/2 teaspoon cinnamon , the ginger, mace
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  mace
+         INGREDIENTS: ground mace
+      INGREDIENT SPAN:  2/3 cup brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: gelatin 
+         INGREDIENTS: ounce package unflavored gelatin
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+      NON-INGREDIENT SPAN:  1/2 teaspoon cinnamon 
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 5
+SENT: I would stir in egg yolks and milk .
+PREDID: 286
+PRED: stir
+   DOBJ: NULL
+   PARG: egg yolks, milk
+     PREP: in
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: egg yolks beaten
+
+
+SENTID: 6
+SENT: I would bring to a boil and cook , stirring constantly , for 1 minute .
+PREDID: 308
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil, cook , stirring constantly
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+      NON-INGREDIENT SPAN:  cook 
+      NON-INGREDIENT SPAN:  stirring constantly
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 7
+SENT: I would remove from heat and stir in pumpkin puree .
+PREDID: 358
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 375
+PRED: stir
+   DOBJ: NULL
+   PARG: pumpkin puree
+     PREP: in
+      INGREDIENT SPAN: pumpkin puree
+         INGREDIENTS: pumpkin puree
+
+
+SENTID: 8
+SENT: I would chill until firm .
+PREDID: 394
+PRED: chill
+   DOBJ: NULL
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+
+SENTID: 9
+SENT: In a large glass or metal mixing bowl , I would beat egg whites until foamy .
+PREDID: 440
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a large glass or metal mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large glass or metal mixing bowl
+   PARG: foamy
+     PREP: until
+      NON-INGREDIENT SPAN: foamy
+
+
+SENTID: 10
+SENT: I would gradually add cream of tartar and 1/3 cup white sugar , continuing to beat until stiff peaks form .
+PREDID: 473
+PRED: add
+   DOBJ: cream of tartar, 1/3 cup white sugar
+      INGREDIENT SPAN: cream of tartar
+         INGREDIENTS: cream tartar
+      NON-INGREDIENT SPAN:  1/3 cup white sugar
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: continuing to beat until stiff peaks form
+      NON-INGREDIENT SPAN: continuing to beat until stiff peaks form
+
+
+SENTID: 11
+SENT: I would fold into pumpkin mixture .
+PREDID: 545
+PRED: fold
+   DOBJ: NULL
+   PARG: pumpkin mixture
+     PREP: into
+      NON-INGREDIENT SPAN: pumpkin mixture
+
+
+SENTID: 12
+SENT: I would pour the filling into pie crust .
+PREDID: 568
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: pie crust
+
+
+SENTID: 13
+SENT: I would chill in refrigerator until ready to serve .
+PREDID: 592
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

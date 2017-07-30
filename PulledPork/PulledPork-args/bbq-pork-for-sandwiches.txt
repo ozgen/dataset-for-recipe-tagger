@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would pour can of beef broth into slow cooker , and add boneless pork ribs .
+PREDID: 0
+PRED: pour
+   DOBJ: can of beef broth
+      INGREDIENT SPAN: can of beef broth
+         INGREDIENTS: ounce beef broth
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+
+PREDID: 36
+PRED: add
+   DOBJ: boneless pork ribs
+      INGREDIENT SPAN: boneless pork ribs
+         INGREDIENTS: boneless pork ribs
+
+
+SENTID: 1
+SENT: I would cook on High heat for 4 hours , or until meat shreds easily .
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: high heat for 4 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high heat for 4 hours
+   OARG: easily
+      NON-INGREDIENT SPAN: easily
+
+
+SENTID: 2
+SENT: I would remove meat , and shred with two forks .
+PREDID: 104
+PRED: remove
+   DOBJ: meat , shred with two forks
+      NON-INGREDIENT SPAN:  shred with two forks
+      NON-INGREDIENT SPAN: meat 
+
+
+SENTID: 3
+SENT: It will seem that it 's not working right away , but it will .
+
+SENTID: 4
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 136
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 5
+SENT: I would transfer the shredded pork to a Dutch oven or iron skillet , and stir in barbeque sauce .
+PREDID: 174
+PRED: transfer
+   DOBJ: the shredded pork
+      NON-INGREDIENT SPAN: the shredded pork
+   PARG: a dutch oven or iron skillet
+     PREP: to
+      NON-INGREDIENT SPAN: a dutch oven or iron skillet
+
+PREDID: 226
+PRED: stir
+   DOBJ: NULL
+   PARG: barbeque sauce
+     PREP: in
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 30 minutes , or until heated through .
+PREDID: 246
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

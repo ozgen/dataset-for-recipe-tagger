@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would grease a 2 quart casserole dish .
+PREDID: 131
+PRED: grease
+   DOBJ: a 2 quart casserole dish
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+
+SENTID: 5
+SENT: I would place a quarter of the macaroni in the bottom , followed by an even layer of one-quarter of the cheese slices .
+PREDID: 158
+PRED: place
+   DOBJ: a quarter of the macaroni
+      INGREDIENT SPAN: a quarter of the macaroni
+         INGREDIENTS: ounce package macaroni
+   PARG: the bottom , followed by an even layer of one-quarter of the cheese slices
+     PREP: in
+      INGREDIENT SPAN:  followed by an even layer of one-quarter of the cheese slices
+         INGREDIENTS: sharp Cheddar cheese sliced
+      NON-INGREDIENT SPAN: the bottom 
+
+
+SENTID: 6
+SENT: I would dot with butter and season with salt and pepper .
+PREDID: 248
+PRED: dot
+   DOBJ: NULL
+   PARG: butter, season
+     PREP: with
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 7
+SENT: I would repeat the layering three times .
+PREDID: 288
+PRED: repeat
+   DOBJ: the layering three times
+      NON-INGREDIENT SPAN: the layering three times
+
+
+SENTID: 8
+SENT: I would pour evaporated milk evenly over the top of all .
+PREDID: 313
+PRED: pour
+   DOBJ: evaporated milk
+      INGREDIENT SPAN: evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+   PARG: the top of all
+     PREP: over
+      NON-INGREDIENT SPAN: the top of all
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 9
+SENT: I would bake , uncovered , for one hour , or until top is golden brown .
+PREDID: 353
+PRED: bake
+   DOBJ: NULL
+   PARG: one hour , or until top is golden brown
+     PREP: for
+      NON-INGREDIENT SPAN: one hour 
+      NON-INGREDIENT SPAN:  or until top is golden brown
+
+

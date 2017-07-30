@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a large saucepan , I would combine custard mix , brown sugar , and pumpkin pie spice .
+PREDID: 17
+PRED: combine
+   DOBJ: custard mix , brown sugar , pumpkin pie spice
+      INGREDIENT SPAN: custard mix 
+         INGREDIENTS: ounce package egg custard mix
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 1
+SENT: Mix well , I would 
+
+SENTID: 2
+SENT: I would add pumpkin , condensed milk , and egg .
+PREDID: 65
+PRED: add
+   DOBJ: pumpkin , condensed milk , egg
+      INGREDIENT SPAN:  condensed milk 
+         INGREDIENTS: sweetened condensed milk
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 3
+SENT: I would whisk mixture until smooth ,
+PREDID: 97
+PRED: whisk
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would cook over medium heat , stirring constantly , until mixture comes to a boil .
+PREDID: 121
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: stirring constantly , until mixture comes to a boil
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  until mixture comes to a boil
+
+
+SENTID: 5
+SENT: I would boil and stir 1 minute .
+PREDID: 184
+PRED: boil and stir
+   DOBJ: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 6
+SENT: I would pour mixture into baked pastry shell and chill .
+PREDID: 203
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: baked pastry shell
+     PREP: into
+      INGREDIENT SPAN: baked pastry shell
+         INGREDIENTS: inch pie crust baked
+
+
+SENTID: 7
+SENT: I would garnish with whipped topping before serving .
+PREDID: 243
+PRED: garnish
+   DOBJ: NULL
+   PARG: whipped topping before serving
+     PREP: with
+      INGREDIENT SPAN: whipped topping before serving
+         INGREDIENTS: frozen whipped topping
+
+

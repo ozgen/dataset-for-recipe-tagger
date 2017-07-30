@@ -1,0 +1,316 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 47
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 73
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 111
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 3
+SENT: Once the water is boiling , I would stir in the macaroni , and return to a boil .
+PREDID: 165
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: ounce package elbow macaroni
+
+PREDID: 186
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 200
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 5
+SENT: I would drain well in a colander set in the sink .
+PREDID: 311
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would transfer to a large bowl .
+PREDID: 344
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would stir the softened butter into the macaroni .
+PREDID: 365
+PRED: stir
+   DOBJ: the softened butter
+      INGREDIENT SPAN: the softened butter
+         INGREDIENTS: butter softened
+   PARG: the macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: the macaroni
+
+
+SENTID: 8
+SENT: I would heat the olive oil in a skillet over medium heat ;
+PREDID: 402
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 9
+SENT: I would cook the onion in the oil until brown , about 5 minutes .
+PREDID: 442
+PRED: cook
+   DOBJ: the onion in the oil
+      INGREDIENT SPAN: the onion in the oil
+         INGREDIENTS: small onion minced
+   PARG: brown , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 10
+SENT: I would stir in the salmon and seafood seasoning and cook until warmed through , about 5 minutes more .
+PREDID: 487
+PRED: stir
+   DOBJ: NULL
+   PARG: the salmon, seafood seasoning
+     PREP: in
+      INGREDIENT SPAN:  seafood seasoning
+         INGREDIENTS: seafood seasoning such Old Bay
+      INGREDIENT SPAN: the salmon
+         INGREDIENTS: ounce salmon drained flaked
+
+PREDID: 524
+PRED: cook
+   DOBJ: NULL
+   PARG: warmed through , about 5 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: warmed through 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+
+SENTID: 11
+SENT: I would remove from heat and pour the red wine vinegar into the skillet and set aside to cool .
+PREDID: 565
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 582
+PRED: pour
+   DOBJ: the red wine vinegar
+      INGREDIENT SPAN: the red wine vinegar
+         INGREDIENTS: red wine vinegar
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 620
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 12
+SENT: I would mix together the Cheddar cheese , the eggs , the milk , and vegetable stock in a large mixing bowl .
+PREDID: 635
+PRED: mix
+   DOBJ: the Cheddar cheese , the eggs , the milk , vegetable stock in a large mixing bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  vegetable stock in a large mixing bowl
+         INGREDIENTS: vegetable stock
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 13
+SENT: I would add the salmon mixture , the peas and carrots , and corn ;
+PREDID: 709
+PRED: add
+   DOBJ: the salmon mixture , the peas, carrots , corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: ounce peas carrots drained
+      NON-INGREDIENT SPAN: the salmon mixture 
+      NON-INGREDIENT SPAN:  carrots 
+
+
+SENTID: 14
+SENT: I would mix .
+PREDID: 752
+PRED: mix
+   DOBJ: NULL
+
+
+SENTID: 15
+SENT: I would stir in the macaroni .
+PREDID: 756
+PRED: stir
+   DOBJ: NULL
+   PARG: the macaroni
+     PREP: in
+      NON-INGREDIENT SPAN: the macaroni
+
+
+SENTID: 16
+SENT: I would season with salt and pepper .
+PREDID: 774
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 17
+SENT: I would spread into the bottom of the prepared baking dish .
+PREDID: 798
+PRED: spread
+   DOBJ: NULL
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+
+SENTID: 18
+SENT: I would toast the bread and break into small pieces .
+PREDID: 841
+PRED: toast
+   DOBJ: the bread
+      INGREDIENT SPAN: the bread
+         INGREDIENTS: slices dayold bread
+
+PREDID: 857
+PRED: break
+   DOBJ: NULL
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+
+SENTID: 19
+SENT: I would combine the toasted bread and Parmesan cheese in a food processor ;
+PREDID: 878
+PRED: combine
+   DOBJ: the toasted bread, Parmesan cheese in a food processor
+      INGREDIENT SPAN:  Parmesan cheese in a food processor
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: the toasted bread
+
+
+SENTID: 20
+SENT: I would blend until chopped into crumbs .
+PREDID: 934
+PRED: blend
+   DOBJ: NULL
+   PARG: chopped into crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: chopped into crumbs
+
+
+SENTID: 21
+SENT: I would sprinkle over top of the dish .
+PREDID: 962
+PRED: sprinkle
+   DOBJ: top of the dish
+      NON-INGREDIENT SPAN: top of the dish
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 22
+SENT: I would bake in the preheated oven until heated through , about 45 minutes .
+PREDID: 987
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: heated through , about 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 45 minutes
+      NON-INGREDIENT SPAN: heated through 
+
+
+SENTID: 23
+SENT: I would allow to cool 15 to 20 minutes before serving .
+PREDID: 1043
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool 15 to 20 minutes before serving
+      NON-INGREDIENT SPAN: to cool 15 to 20 minutes before serving
+
+

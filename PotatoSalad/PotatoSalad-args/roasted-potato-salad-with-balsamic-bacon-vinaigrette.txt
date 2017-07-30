@@ -1,0 +1,192 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would toss halved potatoes with 1/2 cup olive oil , 1/2 cup garlic , and seafood seasoning .
+PREDID: 38
+PRED: toss
+   DOBJ: halved potatoes
+      INGREDIENT SPAN: halved potatoes
+         INGREDIENTS: baby red potatoes cut half
+   PARG: 1/2 cup olive oil , 1/2 cup garlic , seafood seasoning
+     PREP: with
+      INGREDIENT SPAN:  seafood seasoning
+         INGREDIENTS: seafood seasoning
+      INGREDIENT SPAN: 1/2 cup olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  1/2 cup garlic 
+         INGREDIENTS: minced garlic
+
+
+SENTID: 2
+SENT: I would place in a single layer onto baking sheets and bake in preheated oven until tender and golden brown , 30 to 40 minutes , depending on the size of the potatoes .
+PREDID: 108
+PRED: place
+   DOBJ: NULL
+   PARG: a single layer
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer
+   PARG: baking sheets
+     PREP: onto
+      NON-INGREDIENT SPAN: baking sheets
+
+PREDID: 146
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven the size of the potatoes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven the size of the potatoes
+   PARG: tender, golden brown , 30 to 40 minutes the size of the potatoes
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  30 to 40 minutes the size of the potatoes
+   PARG: on the size of the potatoes
+     PREP: depending
+      NON-INGREDIENT SPAN: on the size of the potatoes
+
+
+SENTID: 3
+SENT: Once cooked , I would remove from the oven and allow to cool slightly .
+PREDID: 248
+PRED: remove
+   DOBJ: NULL
+   PARG: cooked
+     PREP: once
+      NON-INGREDIENT SPAN: cooked
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 268
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool slightly
+      NON-INGREDIENT SPAN: to cool slightly
+
+
+SENTID: 4
+SENT: I would meanwhile , place bacon in a large , deep skillet .
+PREDID: 298
+PRED: place
+   DOBJ: bacon in a large , deep skillet
+      INGREDIENT SPAN: bacon in a large 
+         INGREDIENTS: bacon
+      NON-INGREDIENT SPAN:  deep skillet
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would cook over medium heat until evenly browned and crispy .
+PREDID: 329
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: evenly browned, crispy
+     PREP: until
+      NON-INGREDIENT SPAN:  crispy
+      NON-INGREDIENT SPAN: evenly browned
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would pour off bacon grease and reserve .
+PREDID: 375
+PRED: pour
+   DOBJ: bacon grease, reserve
+      NON-INGREDIENT SPAN:  reserve
+      NON-INGREDIENT SPAN: bacon grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 7
+SENT: I would allow the bacon slices to cool ,
+PREDID: 404
+PRED: allow
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 8
+SENT: I would crumble and set aside .
+PREDID: 430
+PRED: crumble and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would whisk together balsamic vinegar , the garlic , the salt , and pepper in a large bowl .
+PREDID: 449
+PRED: whisk
+   DOBJ: balsamic vinegar , the garlic , the salt , pepper in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      NON-INGREDIENT SPAN:  pepper in a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would pour in the oil in a slow , steady stream while whisking vigorously to make a vinaigrette .
+PREDID: 512
+PRED: pour
+   DOBJ: NULL
+   PARG: the oil in a slow , steady stream while whisking vigorously to make a vinaigrette
+     PREP: in
+      INGREDIENT SPAN: the oil in a slow 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  steady stream while whisking vigorously to make a vinaigrette
+
+
+SENTID: 11
+SENT: I would toss the roasted potatoes together with the vinaigrette and reserved bacon grease .
+PREDID: 586
+PRED: toss
+   DOBJ: the roasted potatoes
+      NON-INGREDIENT SPAN: the roasted potatoes
+   PARG: with the vinaigrette, reserved bacon grease
+     PREP: together
+      NON-INGREDIENT SPAN:  reserved bacon grease
+      NON-INGREDIENT SPAN: with the vinaigrette
+
+
+SENTID: 12
+SENT: I would fold in red onion , the parsley , and eggs .
+PREDID: 657
+PRED: fold
+   DOBJ: NULL
+   PARG: red onion , the parsley , eggs
+     PREP: in
+      INGREDIENT SPAN: red onion 
+         INGREDIENTS: large red onion cut 1/2inch dice
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: bunch parsley minced
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: boiled eggs chopped
+
+
+SENTID: 13
+SENT: I would allow to stand at room temperature 20 minutes before serving .
+PREDID: 688
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand at room temperature 20 minutes before serving
+      NON-INGREDIENT SPAN: to stand at room temperature 20 minutes before serving
+
+

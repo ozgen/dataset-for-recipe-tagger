@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: I would cook beef , green pepper , the onion , chili powder and black pepper in skillet until browned .
+PREDID: 0
+PRED: cook
+   DOBJ: beef , green pepper , the onion , chili powder, black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: large green pepper chopped
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: ground black pepper
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would pour off fat .
+PREDID: 74
+PRED: pour
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would add tomato juice and beans and heat through .
+PREDID: 85
+PRED: add
+   DOBJ: tomato juice, beans
+      INGREDIENT SPAN:  beans
+         INGREDIENTS: ounce great Northern beans rinsed drained
+      INGREDIENT SPAN: tomato juice
+         INGREDIENTS: chopped tomato, Campbell Tomato Juice Tomato Juice
+      INGREDIENT SPAN: tomato juice
+         INGREDIENTS: chopped tomato, Campbell Tomato Juice Tomato Juice
+
+PREDID: 110
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 3
+SENT: I would top with sour cream , green onions , the cheese and tomato .
+PREDID: 122
+PRED: top
+   DOBJ: NULL
+   PARG: sour cream , green onions , the cheese, tomato
+     PREP: with
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: sliced green onion
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  tomato
+
+

@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , I would cook ground beef and onion until meat is evenly brown ;
+PREDID: 31
+PRED: cook
+   DOBJ: ground beef, onion
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+   PARG: meat is evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: meat is evenly brown
+
+
+SENTID: 1
+SENT: I would drain excess fat .
+PREDID: 76
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 2
+SENT: I would mix in water , the tomatoes , kidney beans , tomato sauce , and taco seasoning mix .
+PREDID: 91
+PRED: mix
+   DOBJ: NULL
+   PARG: water , the tomatoes , kidney beans , tomato sauce , taco seasoning mix
+     PREP: in
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce chopped stewed tomatoes juice
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN:  taco seasoning mix
+         INGREDIENTS: taco seasoning mix
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 3
+SENT: I would cover , and simmer for 15 minutes .
+PREDID: 155
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 164
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 4
+SENT: I would remove from heat , and stir in the avocado .
+PREDID: 183
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 201
+PRED: stir
+   DOBJ: NULL
+   PARG: the avocado
+     PREP: in
+      INGREDIENT SPAN: the avocado
+         INGREDIENTS: avocado peeled pitted diced
+
+
+SENTID: 5
+SENT: I would ladle hot soup into serving bowls .
+PREDID: 218
+PRED: ladle
+   DOBJ: hot soup
+      NON-INGREDIENT SPAN: hot soup
+   PARG: serving bowls
+     PREP: into
+      NON-INGREDIENT SPAN: serving bowls
+
+
+SENTID: 6
+SENT: I would pass cheese , tortilla chips , and sour cream to top each serving .
+PREDID: 247
+PRED: pass
+   DOBJ: cheese , tortilla chips , sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: ounce container sour cream
+      INGREDIENT SPAN:  tortilla chips 
+         INGREDIENTS: ounce package corn tortilla chips
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: shredded Cheddar cheese
+   OARG: to top each serving
+      NON-INGREDIENT SPAN: to top each serving
+
+

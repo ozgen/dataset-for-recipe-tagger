@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would grease 30 tart tins or muffin cups and set aside .
+PREDID: 38
+PRED: grease
+   DOBJ: 30 tart tins or muffin cups
+      NON-INGREDIENT SPAN: 30 tart tins or muffin cups
+
+PREDID: 69
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: To Make Crust :
+
+SENTID: 3
+SENT: In a medium mixing bowl cream together cream cheese and 1 cup butter until light and fluffy .
+
+SENTID: 4
+SENT: I would blend in flour , 1/2 cup at a time , forming a smooth dough .
+PREDID: 166
+PRED: blend
+   DOBJ: NULL
+   PARG: flour , 1/2 cup at a time , forming a smooth dough
+     PREP: in
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  1/2 cup at a time 
+      NON-INGREDIENT SPAN:  forming a smooth dough
+
+
+SENTID: 5
+SENT: I would roll into 30 equal balls and press one into each greased tin so it lines the bottom and sides , like a pie crust .
+PREDID: 213
+PRED: roll
+   DOBJ: NULL
+   PARG: 30 equal balls
+     PREP: into
+      NON-INGREDIENT SPAN: 30 equal balls
+
+PREDID: 236
+PRED: press
+   DOBJ: one
+      NON-INGREDIENT SPAN: one
+   PARG: each greased tin so it lines the bottom, sides
+     PREP: into
+      NON-INGREDIENT SPAN:  sides
+      NON-INGREDIENT SPAN: each greased tin so it lines the bottom
+   PARG: a pie crust
+     PREP: like
+      NON-INGREDIENT SPAN: a pie crust
+
+
+SENTID: 6
+SENT: To Make Filling :
+
+SENTID: 7
+SENT: In a medium mixing bowl cream together 1/4 cup butter and sugar until light and fluffy .
+
+SENTID: 8
+SENT: I would beat in eggs and vanilla until thoroughly blended .
+PREDID: 389
+PRED: beat
+   DOBJ: NULL
+   PARG: eggs, vanilla until thoroughly blended
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla until thoroughly blended
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 9
+SENT: I would stir in pecans .
+PREDID: 432
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 10
+SENT: I would fill each lined tin half full .
+PREDID: 445
+PRED: fill
+   DOBJ: each lined tin half full
+      NON-INGREDIENT SPAN: each lined tin half full
+
+
+SENTID: 11
+SENT: I would mixture will rise as it bakes .
+PREDID: 470
+PRED: mixture rise
+   DOBJ: NULL
+   PARG: it bakes
+     PREP: as
+      NON-INGREDIENT SPAN: it bakes
+   OARG: will
+      NON-INGREDIENT SPAN: will
+
+
+SENTID: 12
+SENT: I would bake in preheated oven for 25 minutes , or until lightly browned .
+PREDID: 495
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 minutes , or until lightly browned
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 minutes 
+      NON-INGREDIENT SPAN:  or until lightly browned
+
+
+SENTID: 13
+SENT: I would let cool in tins ,
+PREDID: 549
+PRED: let
+   DOBJ: NULL
+   PARG: tins
+     PREP: in
+      NON-INGREDIENT SPAN: tins
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 14
+SENT: I would use the end of a table knife to flip each tart out of its tin .
+PREDID: 563
+PRED: use
+   DOBJ: the end of a table knife
+      NON-INGREDIENT SPAN: the end of a table knife
+   OARG: to flip each tart out of its tin
+      NON-INGREDIENT SPAN: to flip each tart out of its tin
+
+

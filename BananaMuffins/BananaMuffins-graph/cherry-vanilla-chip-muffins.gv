@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease or line (S1,P45)", shape=oval, style=filled, fillcolor=azure]
+E2[label="blend egg (S2,P116)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S3,P163)", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix (S4,P210)", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour (S5,P273)", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake (S6,P330)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a 12-cup muffin tin", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: oven to 400 degrees F -LRB- 205 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: vegetable oil, banana, egg substitute, applesauce, vanilla soy milk
+(text: substitute , soy milk , oil, applesauce, the banana)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: in baking powder, white rice flour, sucanat, salt
+(text: in  baking powder,  salt, the rice flour ,  sucanat )", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+O4_0_0[label="OTHER: until just moistened then", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E5 [label="OUTPUT: 
+INPUT: into the prepared muffin tin"]
+O5_0_0[label="OTHER: filling each cup 2/3 full", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E0 -> E6 [label="OUTPUT: 
+INPUT: at 400 degrees F -LRB- 205 degrees C"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: for 30 minutes"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

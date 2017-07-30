@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together the margarine and cream cheese until well blended .
+PREDID: 55
+PRED: mix
+   DOBJ: the margarine, cream cheese
+      INGREDIENT SPAN: the margarine
+         INGREDIENTS: margarine
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: ounce packages cream cheese
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would beat in flour , 1 cup at a time , until the mixture forms a smooth dough .
+PREDID: 109
+PRED: beat
+   DOBJ: NULL
+   PARG: flour , 1 cup
+     PREP: in
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  1 cup
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   PARG: the mixture forms a smooth dough
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture forms a smooth dough
+
+
+SENTID: 3
+SENT: I would roll into small balls , and press into the bottoms and sides of tart pans or mini muffin pans .
+PREDID: 166
+PRED: roll
+   DOBJ: NULL
+   PARG: small balls
+     PREP: into
+      NON-INGREDIENT SPAN: small balls
+
+PREDID: 188
+PRED: press
+   DOBJ: NULL
+   PARG: the bottoms, sides of tart pans or mini muffin pans
+     PREP: into
+      NON-INGREDIENT SPAN:  sides of tart pans or mini muffin pans
+      NON-INGREDIENT SPAN: the bottoms
+
+
+SENTID: 4
+SENT: In another bowl , I would mix together the eggs , brown sugar , the butter , the vanilla , and salt .
+PREDID: 256
+PRED: mix
+   DOBJ: the eggs , brown sugar , the butter , the vanilla , salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: melted butter
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir in the pecans .
+PREDID: 309
+PRED: stir
+   DOBJ: NULL
+   PARG: the pecans
+     PREP: in
+      INGREDIENT SPAN: the pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 6
+SENT: I would use a spoon to fill each of the crusts 2/3 full with the filling mixture .
+PREDID: 325
+PRED: use
+   DOBJ: a spoon to fill each of the crusts 2/3 full with the filling mixture
+      NON-INGREDIENT SPAN: a spoon to fill each of the crusts 2/3 full with the filling mixture
+
+
+SENTID: 7
+SENT: I would bake for 15 to 18 minutes in the preheated oven , until shell is light brown , and the filling has puffed up .
+PREDID: 384
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 to 18 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 18 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: shell is light brown
+     PREP: until
+      NON-INGREDIENT SPAN: shell is light brown
+   OARG: the filling has puffed up
+      NON-INGREDIENT SPAN: the filling has puffed up
+
+
+SENTID: 8
+SENT: I would cool , and carefully remove from pans .
+PREDID: 471
+PRED: cool
+   DOBJ: NULL
+
+PREDID: 488
+PRED: remove
+   DOBJ: NULL
+   PARG: pans
+     PREP: from
+      NON-INGREDIENT SPAN: pans
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+

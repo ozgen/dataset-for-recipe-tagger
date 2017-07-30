@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: In a large pot , I would melt butter over medium heat .
+PREDID: 12
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would saute celery , garlic , onion , red pepper , 3/4 tsp -LRB- 3 mL -RRB- salt and 1/4 tsp -LRB- 1 mL -RRB- pepper for about 5 min or until onions are softened .
+
+SENTID: 2
+SENT: I would stir in broth , the potatoes , the corn and 2 cups -LRB- 500 mL -RRB- water ;
+PREDID: 37
+PRED: stir
+   DOBJ: NULL
+   PARG: broth , the potatoes , the corn, 2 cups -lrb- 500 ml -rrb- water
+     PREP: in
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: corn kernels fresh frozen
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: red potatoes cut 1/2inch cm cubes
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: reducedsodium vegetable chicken broth
+      NON-INGREDIENT SPAN:  2 cups -lrb- 500 ml -rrb- water
+
+
+SENTID: 3
+SENT: I would bring to a boil over high heat .
+PREDID: 83
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 4
+SENT: I would reduce heat , the cover and simmer for about 10 min or until potatoes are almost tender .
+PREDID: 108
+PRED: reduce
+   DOBJ: heat , the cover, simmer for about 10 min or until potatoes are almost tender
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  simmer for about 10 min or until potatoes are almost tender
+      NON-INGREDIENT SPAN:  the cover
+
+
+SENTID: 5
+SENT: I would increase heat to medium .
+PREDID: 177
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 6
+SENT: I would whisk flour into cream and gradually stir into pot .
+PREDID: 198
+PRED: whisk
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour cornstarch
+   PARG: cream
+     PREP: into
+      INGREDIENT SPAN: cream
+         INGREDIENTS: % % cream
+
+PREDID: 229
+PRED: stir
+   DOBJ: NULL
+   PARG: pot
+     PREP: into
+      NON-INGREDIENT SPAN: pot
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 7
+SENT: Simmer , uncovered , stirring often , for about 5 min or until slightly thickened -LRB- do not let boil -RRB- .
+
+SENTID: 8
+SENT: I would season to taste with salt and pepper Ladle into warmed bowls and sprinkle with basil .
+PREDID: 241
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: Salt
+   OARG: pepper ladle into warmed bowls, sprinkle with basil
+      INGREDIENT SPAN: pepper ladle into warmed bowls
+         INGREDIENTS: large sweet red pepper diced
+      INGREDIENT SPAN:  sprinkle with basil
+         INGREDIENTS: Chopped fresh basil
+
+

@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: the oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place the potatoes into a saucepan , and fill with enough water to cover .
+PREDID: 41
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: russet potatoes peeled cubed
+   PARG: a saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 74
+PRED: fill
+   DOBJ: NULL
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 2
+SENT: I would bring to a boil and cook until tender , about 10 minutes .
+PREDID: 101
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 116
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 147
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would place the peppers into the oven so that they sit directly on the rack .
+PREDID: 153
+PRED: place
+   DOBJ: the peppers
+      INGREDIENT SPAN: the peppers
+         INGREDIENTS: fresh poblano chile peppers
+   PARG: the oven
+     PREP: into
+      NON-INGREDIENT SPAN: the oven
+   OARG: so that they sit directly on the rack
+      NON-INGREDIENT SPAN: so that they sit directly on the rack
+
+
+SENTID: 5
+SENT: I would roast , turning every 10 minutes or so , until evenly charred .
+PREDID: 210
+PRED: roast
+   DOBJ: NULL
+   OARG: turning every 10 minutes or so , until evenly charred
+      NON-INGREDIENT SPAN:  until evenly charred
+      NON-INGREDIENT SPAN: turning every 10 minutes or so 
+
+
+SENTID: 6
+SENT: I would place in a paper bag to sweat ,
+PREDID: 261
+PRED: place
+   DOBJ: NULL
+   PARG: a paper bag
+     PREP: in
+      NON-INGREDIENT SPAN: a paper bag
+   OARG: to sweat
+      NON-INGREDIENT SPAN: to sweat
+
+
+SENTID: 7
+SENT: I would remove the peel when they are cool enough to handle .
+PREDID: 285
+PRED: remove
+   DOBJ: the peel
+      NON-INGREDIENT SPAN: the peel
+   OARG: when they are cool enough
+      NON-INGREDIENT SPAN: when they are cool enough
+
+
+SENTID: 8
+SENT: I would remove the stem and seeds , and chop .
+PREDID: 328
+PRED: remove
+   DOBJ: the stem, seeds
+      NON-INGREDIENT SPAN: the stem
+      NON-INGREDIENT SPAN:  seeds
+
+
+SENTID: 9
+SENT: In a large bowl , I would combine the still warm potatoes , the peppers , the eggs , the celery , the onion , sweet pickles and olives .
+PREDID: 371
+PRED: combine
+   DOBJ: the still warm potatoes , the peppers , the eggs , the celery , the onion , sweet pickles, olives
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped white onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: cooked eggs chopped
+      INGREDIENT SPAN:  sweet pickles
+         INGREDIENTS: medium sweet pickles chopped
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: green olives sliced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  the peppers 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN: the still warm potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: In a smaller bowl , I would whisk together the lime juice , vegetable oil , the salt , the pepper and mustard powder .
+PREDID: 462
+PRED: whisk
+   DOBJ: the lime juice , vegetable oil , the salt , the pepper, mustard powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  mustard powder
+         INGREDIENTS: mustard powder
+      NON-INGREDIENT SPAN:  the pepper
+   PARG: a smaller bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a smaller bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I like to use a high speed mixing wand to help it emulsify .
+
+SENTID: 12
+SENT: I would pour over the potato salad , and stir to coat .
+PREDID: 529
+PRED: pour
+   DOBJ: NULL
+   PARG: the potato salad
+     PREP: over
+      NON-INGREDIENT SPAN: the potato salad
+
+PREDID: 555
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 13
+SENT: I would adjust the seasoning to taste and serve .
+PREDID: 566
+PRED: adjust
+   DOBJ: the seasoning to taste, serve
+      NON-INGREDIENT SPAN: the seasoning to taste
+      NON-INGREDIENT SPAN:  serve
+
+

@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would place potatoes in saucepan .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: medium potatoes
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 1
+SENT: I would cover with water .
+PREDID: 24
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would heat to a boil .
+PREDID: 39
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook over low heat 20 minutes or until potatoes are tender .
+PREDID: 51
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: potatoes are tender
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 100
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would cool and cut into cubes .
+PREDID: 106
+PRED: cool and cut
+   DOBJ: NULL
+   PARG: cubes
+     PREP: into
+      NON-INGREDIENT SPAN: cubes
+
+
+SENTID: 6
+SENT: I would mix broth , the vinegar , the flour , the sugar , celery seed , the salt and black pepper in saucepan .
+PREDID: 126
+PRED: mix
+   DOBJ: broth , the vinegar , the flour , the sugar , celery seed , the salt, black pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: Swanson Beef Broth
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 7
+SENT: I would add onion .
+PREDID: 195
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: medium onion chopped
+
+
+SENTID: 8
+SENT: I would cook until mixture boils and thickens , stirring constantly .
+PREDID: 204
+PRED: cook
+   DOBJ: NULL
+   PARG: mixture boils, thickens , stirring constantly
+     PREP: until
+      NON-INGREDIENT SPAN:  thickens 
+      NON-INGREDIENT SPAN:  stirring constantly
+      NON-INGREDIENT SPAN: mixture boils
+
+
+SENTID: 9
+SENT: I would cook over low heat 5 minutes or until onion is tender .
+PREDID: 256
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat 5 minutes or until onion is tender
+     PREP: over
+      NON-INGREDIENT SPAN: low heat 5 minutes or until onion is tender
+
+
+SENTID: 10
+SENT: I would toss potatoes , the parsley and broth mixture until evenly coated .
+PREDID: 300
+PRED: toss
+   DOBJ: potatoes , the parsley, broth mixture
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: chopped fresh parsley
+      NON-INGREDIENT SPAN: potatoes 
+      NON-INGREDIENT SPAN:  broth mixture
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 11
+SENT: I would serve warm .
+PREDID: 353
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

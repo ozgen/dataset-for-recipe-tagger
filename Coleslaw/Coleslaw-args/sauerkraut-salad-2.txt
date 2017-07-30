@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: In a saucepan combine the salt , I would the vinegar , caraway seeds and sugar .
+
+SENTID: 1
+SENT: I would bring to a boil over medium heat .
+PREDID: 0
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium heat
+
+
+SENTID: 2
+SENT: I would stir in the sauerkraut , the onion , the celery , the pepper and pimento .
+PREDID: 27
+PRED: stir
+   DOBJ: NULL
+   PARG: the sauerkraut , the onion , the celery , the pepper, pimento
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: the sauerkraut 
+         INGREDIENTS: ounce sauerkraut
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  pimento
+         INGREDIENTS: pimento
+
+
+SENTID: 3
+SENT: I would remove from heat and let marinate overnight before serving .
+PREDID: 77
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 94
+PRED: let
+   DOBJ: marinate
+      NON-INGREDIENT SPAN: marinate
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

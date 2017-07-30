@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: I would place pork roast in a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: pork roast
+      INGREDIENT SPAN: pork roast
+         INGREDIENTS: pound boneless pork shoulder Boston Butt roast
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would pour vinegar over pork , coating all sides ;
+PREDID: 28
+PRED: pour
+   DOBJ: vinegar
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: cider vinegar
+   PARG: pork , coating all sides
+     PREP: over
+      NON-INGREDIENT SPAN:  coating all sides
+      NON-INGREDIENT SPAN: pork 
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 64
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would cook on Low for 10 to 12 hours .
+PREDID: 88
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 10 to 12 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 10 to 12 hours
+
+
+SENTID: 4
+SENT: I would transfer pork to a platter .
+PREDID: 112
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a platter
+     PREP: to
+      NON-INGREDIENT SPAN: a platter
+
+
+SENTID: 5
+SENT: I would drain and discard juices from the slow cooker .
+PREDID: 135
+PRED: drain and discard
+   DOBJ: juices
+      NON-INGREDIENT SPAN: juices
+   PARG: the slow cooker
+     PREP: from
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 6
+SENT: I would chop pork and return to the slow cooker .
+PREDID: 174
+PRED: chop
+   DOBJ: pork, return
+      NON-INGREDIENT SPAN: pork
+      NON-INGREDIENT SPAN:  return
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 7
+SENT: I would add barbeque sauce and continue to cook for 30 minutes .
+PREDID: 207
+PRED: add
+   DOBJ: barbeque sauce
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: barbeque sauce taste
+
+PREDID: 226
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook for 30 minutes
+      NON-INGREDIENT SPAN: to cook for 30 minutes
+
+

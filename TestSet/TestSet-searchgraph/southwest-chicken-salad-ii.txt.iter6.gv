@@ -1,0 +1,38 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="season
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="toss
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="top
+4", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: prepared Ranch salad dressing", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="OTHER:to serving bowls", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+D0[label="DOBJ: black beans and", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a small saucepan over medium heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="OTHER:until heated", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_ing[label="COOBJECT: with green bell pepper, salt and pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P1_0_ing -> E1
+D2_ing[label="DOBJ: Cheddar cheese, package romaine lettuce, head cabbage, corn", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label=" green bell pepper "]
+P2_0_0[label="LOCOROBJ:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: with cooked skinless boneless chicken breast halves strips, finely crushed blue tortilla chips", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E2 -> E4 [label="COOBJECT:with the warmed black beans "]
+P4_0_1[label="COOBJECT:with ranch dressing", shape=box, style=filled, fillcolor=white]
+P4_0_1 -> E4
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

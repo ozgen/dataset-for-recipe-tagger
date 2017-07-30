@@ -1,0 +1,84 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="coat (S1,P45)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine (S2,P112)", shape=oval, style=filled, fillcolor=azure]
+E3[label="let (S3,P133)", shape=oval, style=filled, fillcolor=azure]
+E4[label="combine (S4,P190)", shape=oval, style=filled, fillcolor=azure]
+E5[label="set (S5,P252)", shape=oval, style=filled, fillcolor=azure]
+E6[label="add (S6,P261)", shape=oval, style=filled, fillcolor=azure]
+E7[label="beat (S7,P303)", shape=oval, style=filled, fillcolor=azure]
+E8[label="add (S8,P312)", shape=oval, style=filled, fillcolor=azure]
+E9[label="fold (S9,P375)", shape=oval, style=filled, fillcolor=azure]
+E10[label="batter (S10,P403)", shape=oval, style=filled, fillcolor=azure]
+E11[label="top (S11,P438)", shape=oval, style=filled, fillcolor=azure]
+E12[label="bake (S12,P473)", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: 1% milk, All-Bran Original* cereal
+(text: cereal, milk)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in medium bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D1[label="DOBJ: 12 -LRB- 2/6 .5 cm", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: lightly packed brown sugar
+(text: lightly)", shape=box, style=filled, fillcolor=peachpuff]
+O1_0 -> E1
+D0[label="DOBJ: oven to 400 degrees F -LRB- 200 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+O3_0_0[label="OTHER: stand for about 2 minutes or until cereal softens", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+D4_ing[label="DOBJ: baking powder, all-purpose flour, baking soda, cocoa powder, salt
+(text:  salt,  baking powder ,  cocoa powder , flour ,  baking soda)", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E1 -> E4 [label="OUTPUT: 
+INPUT:  sugar "]
+P4_0_0[label="PREP: in large bowl", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+O5_0_0[label="OTHER: aside", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: canola oil, egg, large very ripe bananas (reserve thin slices
+(text:  oil,  mashed bananas, egg )", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E3 -> E6 [label="OUTPUT: 
+INPUT: to cereal mixture"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+O7_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E5 -> E8 [label="OUTPUT: 
+INPUT: liquid mixture"]
+P8_0_0[label="PREP: to dry ingredients", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+O8_0_0[label="OTHER: stirring only until just combined", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+P9_0_ing[label="PREP: in semi-sweet chocolate chips
+(text: in chocolate chips)", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+P10_0_0[label="PREP: into prepared muffin cups", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+O10_0_0[label="OTHER: portion", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+O10_1_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O10_1_0 -> E10
+E7 -> E11 [label="OUTPUT: 
+INPUT: each cup"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: with a reserved banana slice"]
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+E0 -> E12 [label="OUTPUT: 
+INPUT: in preheated oven for 20 minutes"]
+O12_0_0[label="OTHER: spring", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+O12_1_0[label="OTHER: back when lightly touched", shape=box, style=filled, fillcolor=white]
+O12_1_0 -> E12
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

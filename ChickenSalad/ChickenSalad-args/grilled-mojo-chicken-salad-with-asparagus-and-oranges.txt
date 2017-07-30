@@ -1,0 +1,221 @@
+SENTID: 0
+SENT: I would whisk first seven ingredients plus 2 Tbs .
+PREDID: 0
+PRED: whisk
+   DOBJ: first seven ingredients plus 2 Tbs
+      NON-INGREDIENT SPAN: first seven ingredients plus 2 Tbs
+
+
+SENTID: 1
+SENT: I would oil in a 2-cup measuring cup .
+
+SENTID: 2
+SENT: I would pour all but 3/4 cup of mixture into a gallon-sized zipper bag .
+PREDID: 35
+PRED: pour
+   DOBJ: all but 3/4 cup of mixture
+      NON-INGREDIENT SPAN: all but 3/4 cup of mixture
+   PARG: a gallon-sized zipper bag
+     PREP: into
+      NON-INGREDIENT SPAN: a gallon-sized zipper bag
+
+
+SENTID: 3
+SENT: I would add chicken ;
+PREDID: 87
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken breasts
+
+
+SENTID: 4
+SENT: I would seal and refrigerate 30 minutes to 4 hours .
+PREDID: 98
+PRED: seal and refrigerate
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: 4 hours
+     PREP: to
+      NON-INGREDIENT SPAN: 4 hours
+
+
+SENTID: 5
+SENT: I would whisk 1/4 cup of oil into remaining mixture for dressing .
+PREDID: 134
+PRED: whisk
+   DOBJ: 1/4 cup of oil
+      INGREDIENT SPAN: 1/4 cup of oil
+         INGREDIENTS: extravirgin olive oil extra drizzling
+   PARG: remaining mixture for dressing
+     PREP: into
+      NON-INGREDIENT SPAN: remaining mixture for dressing
+
+
+SENTID: 6
+SENT: I would peel and section oranges .
+PREDID: 182
+PRED: peel and section
+   DOBJ: oranges
+      INGREDIENT SPAN: oranges
+         INGREDIENTS: oranges
+
+
+SENTID: 7
+SENT: I would sprinkle asparagus with oil , the salt , pepper .
+PREDID: 204
+PRED: sprinkle
+   DOBJ: asparagus
+      INGREDIENT SPAN: asparagus
+         INGREDIENTS: bunch medium asparagus tough ends snapped
+   PARG: oil , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: oil 
+         INGREDIENTS: extravirgin olive oil extra drizzling
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would build a fire on only one side of grill -LRB- to conserve charcoal -RRB- .
+PREDID: 241
+PRED: build
+   DOBJ: a fire
+      NON-INGREDIENT SPAN: a fire
+   PARG: only one side of grill
+     PREP: on
+      NON-INGREDIENT SPAN: only one side of grill
+
+PREDID: 278
+PRED: conserve
+   DOBJ: charcoal
+      NON-INGREDIENT SPAN: charcoal
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 9
+SENT: When coals are covered with white ash , place chicken on rack over direct heat , cover and grill until well browned , 4 to 6 minutes .
+PREDID: 324
+PRED: place
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: rack over direct heat
+     PREP: on
+      NON-INGREDIENT SPAN: rack over direct heat
+   OARG: when coals are covered with white ash
+      NON-INGREDIENT SPAN: when coals are covered with white ash
+
+PREDID: 365
+PRED: grill
+   DOBJ: NULL
+   PARG: well browned , 4 to 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: well browned 
+      NON-INGREDIENT SPAN:  4 to 6 minutes
+
+
+SENTID: 10
+SENT: I would turn , cover and grill another 4 to 6 minutes .
+PREDID: 399
+PRED: turn and cover
+   DOBJ: NULL
+   PARG: another 4 to 6 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 4 to 6 minutes
+
+
+SENTID: 11
+SENT: I would remove chicken and add asparagus , spears perpendicular to rack .
+
+SENTID: 12
+SENT: Grill 3 to 5 minutes , until well browned and just cooked through .
+PREDID: 491
+PRED: grill
+   DOBJ: NULL
+   PARG: 3 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 5 minutes
+   PARG: well browned, just cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: well browned
+      NON-INGREDIENT SPAN:  just cooked through
+
+
+SENTID: 13
+SENT: I would remove chicken and let stand for 5 minutes or up to 1 hour .
+PREDID: 545
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 561
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes or up to 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes or up to 1 hour
+
+
+SENTID: 14
+SENT: I would cut , crosswise , into 1/2-inch-thick slices .
+PREDID: 592
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2-inch-thick slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2-inch-thick slices
+
+
+SENTID: 15
+SENT: I would toss greens , the oranges , the salt and pepper with most of the dressing .
+PREDID: 631
+PRED: toss
+   DOBJ: greens , the oranges , the salt, pepper
+      INGREDIENT SPAN: greens 
+         INGREDIENTS: mixed salad greens
+      NON-INGREDIENT SPAN:  the oranges 
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  the salt
+   PARG: most of the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: most of the dressing
+
+
+SENTID: 16
+SENT: I would arrange salad in six shallow bowls .
+PREDID: 685
+PRED: arrange
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: six shallow bowls
+     PREP: in
+      NON-INGREDIENT SPAN: six shallow bowls
+
+
+SENTID: 17
+SENT: I would place chicken and asparagus over each .
+PREDID: 715
+PRED: place
+   DOBJ: chicken, asparagus
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  asparagus
+   PARG: each
+     PREP: over
+      NON-INGREDIENT SPAN: each
+
+
+SENTID: 18
+SENT: I would drizzle with remaining dressing .
+PREDID: 748
+PRED: drizzle
+   DOBJ: NULL
+   PARG: remaining dressing
+     PREP: with
+      NON-INGREDIENT SPAN: remaining dressing
+
+

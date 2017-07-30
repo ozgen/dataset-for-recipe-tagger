@@ -1,0 +1,292 @@
+SENTID: 0
+SENT: I would preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: an oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: I would scrub and dry potatoes ,
+PREDID: 40
+PRED: scrub and dry
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+
+SENTID: 2
+SENT: I would prick several times with a fork and place onto a baking sheet .
+PREDID: 60
+PRED: prick
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+   PARG: a fork, place
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+      NON-INGREDIENT SPAN:  place
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 3
+SENT: I would bake in preheated oven until potatoes are easily pierced with a fork , 50 minutes to 1 hour .
+PREDID: 111
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: potatoes are easily pierced with a fork , 50 minutes to 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  50 minutes to 1 hour
+      NON-INGREDIENT SPAN: potatoes are easily pierced with a fork 
+
+
+SENTID: 4
+SENT: I would remove , cool , and peel .
+PREDID: 186
+PRED: remove and cool
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 206
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 234
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 6
+SENT: I would drain bacon slices on paper towels ;
+PREDID: 312
+PRED: drain
+   DOBJ: bacon slices
+      NON-INGREDIENT SPAN: bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 7
+SENT: I would crumble .
+PREDID: 342
+PRED: crumble
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 350
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 205 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 205 degrees C
+
+
+SENTID: 9
+SENT: I would lightly grease a pizza pan .
+PREDID: 395
+PRED: grease pan
+   DOBJ: a pizza
+      INGREDIENT SPAN: a pizza
+         INGREDIENTS: ounce package pizza crust mix
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 10
+SENT: I would mix pizza crust mix , the water , and oil in a large bowl with a fork until ingredients combine .
+PREDID: 411
+PRED: mix
+   DOBJ: pizza crust mix , the water , oil
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN: pizza crust mix 
+   PARG: a large bowl with a fork
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl with a fork
+   PARG: ingredients combine
+     PREP: until
+      NON-INGREDIENT SPAN: ingredients combine
+
+
+SENTID: 11
+SENT: When dough has pulled together , turn it out onto a lightly floured surface and knead until smooth and elastic , about 8 minutes .
+PREDID: 512
+PRED: turn
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a lightly floured surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured surface
+   PARG: about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 minutes
+   OARG: when dough has pulled together
+      NON-INGREDIENT SPAN: when dough has pulled together
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 550
+PRED: knead
+   DOBJ: NULL
+   PARG: smooth, elastic
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  elastic
+
+
+SENTID: 12
+SENT: I would let stand for 5 minutes .
+PREDID: 591
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 13
+SENT: I would shape dough into a flat circle and place on pizza pan .
+PREDID: 611
+PRED: shape
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a flat circle, place on pizza pan
+     PREP: into
+      NON-INGREDIENT SPAN: a flat circle
+      NON-INGREDIENT SPAN:  place on pizza pan
+
+
+SENTID: 14
+SENT: I would build up edges slightly .
+PREDID: 655
+PRED: build
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+   OARG: up
+      NON-INGREDIENT SPAN: up
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 15
+SENT: I would bake pizza dough in preheated oven until crust is firm and begins to brown , 5 to 6 minutes .
+PREDID: 676
+PRED: bake
+   DOBJ: pizza dough
+      NON-INGREDIENT SPAN: pizza dough
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: crust is firm, begins to brown , 5 to 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  begins to brown 
+      NON-INGREDIENT SPAN: crust is firm
+      NON-INGREDIENT SPAN:  5 to 6 minutes
+
+
+SENTID: 16
+SENT: I would toss butter with garlic powder , Italian seasoning , and potatoes in a large bowl .
+PREDID: 750
+PRED: toss
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter melted
+   PARG: garlic powder , italian seasoning , potatoes in a large bowl
+     PREP: with
+      INGREDIENT SPAN: garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: dried Italian seasoning
+      NON-INGREDIENT SPAN:  potatoes in a large bowl
+
+
+SENTID: 17
+SENT: I would combine sour cream and ranch dressing in a small bowl ;
+PREDID: 818
+PRED: combine
+   DOBJ: sour cream, ranch
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: Ranch dressing
+   OARG: dressing in a small bowl
+      NON-INGREDIENT SPAN: dressing in a small bowl
+
+
+SENTID: 18
+SENT: I would spread over crust .
+PREDID: 863
+PRED: spread
+   DOBJ: NULL
+   PARG: crust
+     PREP: over
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 19
+SENT: I would top with potato mixture , the bacon , the onions , mozzarella cheese , and Cheddar cheese .
+PREDID: 879
+PRED: top
+   DOBJ: NULL
+   PARG: potato mixture , the bacon , the onions , mozzarella cheese , cheddar cheese
+     PREP: with
+      INGREDIENT SPAN:  mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: green onions chopped
+      NON-INGREDIENT SPAN: potato mixture 
+      NON-INGREDIENT SPAN:  the bacon 
+
+
+SENTID: 20
+SENT: I would bake in preheated oven until cheese is melted and lightly browned , 15 to 20 minutes .
+PREDID: 947
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is melted, lightly browned , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  lightly browned 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 21
+SENT: I would let stand 5 minutes before cutting .
+PREDID: 1017
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

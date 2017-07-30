@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: I would whisk vinegar , vegan mayonnaise , agave nectar , mustard seeds , Dijon mustard , the salt , and pepper together in a bowl until dressing is smooth .
+PREDID: 0
+PRED: whisk
+   DOBJ: vinegar , vegan mayonnaise , agave nectar , mustard seeds , Dijon mustard , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  mustard seeds 
+         INGREDIENTS: brown mustard seeds
+      INGREDIENT SPAN:  agave nectar 
+         INGREDIENTS: agave nectar
+      INGREDIENT SPAN:  vegan mayonnaise 
+         INGREDIENTS: vegan mayonnaise such Follow Heart Veganaise
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: cherry vinegar
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: dressing is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: dressing is smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir apples , the kohlrabi , and carrots into dressing until evenly coated .
+PREDID: 118
+PRED: stir
+   DOBJ: apples , the kohlrabi , carrots
+      INGREDIENT SPAN: apples 
+         INGREDIENTS: crisp apples shredded
+      INGREDIENT SPAN:  the kohlrabi 
+         INGREDIENTS: kohlrabi bulbs peeled shredded
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots shredded
+   PARG: dressing until evenly coated
+     PREP: into
+      NON-INGREDIENT SPAN: dressing until evenly coated
+
+
+SENTID: 2
+SENT: I would cover bowl with plastic wrap and refrigerate for flavors to blend , at least 1 hour .
+PREDID: 178
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+
+PREDID: 205
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: flavors
+     PREP: for
+      NON-INGREDIENT SPAN: flavors
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+

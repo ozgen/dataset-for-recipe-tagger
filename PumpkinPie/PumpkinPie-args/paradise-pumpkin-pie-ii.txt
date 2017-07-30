@@ -1,0 +1,210 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: To Make Cheesecake Layer :
+
+SENTID: 2
+SENT: In a small mixing bowl , I would beat softened cream cheese until fluffy .
+PREDID: 79
+PRED: beat
+   DOBJ: softened cream cheese
+      INGREDIENT SPAN: softened cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: a small mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small mixing bowl
+   PARG: fluffy
+     PREP: until
+      NON-INGREDIENT SPAN: fluffy
+
+
+SENTID: 3
+SENT: I would mix in 1/4 cup white sugar .
+PREDID: 114
+PRED: mix
+   DOBJ: NULL
+   PARG: 1/4 cup white sugar
+     PREP: in
+      INGREDIENT SPAN: 1/4 cup white sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would add 1 egg and vanilla extract .
+PREDID: 136
+PRED: add
+   DOBJ: 1 egg, vanilla extract
+      INGREDIENT SPAN: 1 egg
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 5
+SENT: I would stir until mixture is smooth .
+PREDID: 161
+PRED: stir
+   DOBJ: NULL
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 6
+SENT: I would pour mixture into pastry shell .
+PREDID: 186
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pastry shell
+     PREP: into
+      INGREDIENT SPAN: pastry shell
+         INGREDIENTS: inch pie shell
+
+
+SENTID: 7
+SENT: To Make Pumpkin Layer :
+
+SENTID: 8
+SENT: In a medium bowl , I would combine pumpkin puree , 1/2 cup white sugar , the cinnamon , the ginger , the nutmeg , the salt , evaporated milk , and 2 beaten eggs .
+PREDID: 246
+PRED: combine
+   DOBJ: pumpkin puree , 1/2 cup white sugar , the cinnamon , the ginger , the nutmeg , the salt , evaporated milk , 2 beaten eggs
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  2 beaten eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  1/2 cup white sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: evaporated milk
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 9
+SENT: I would mix thoroughly ,
+PREDID: 341
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 10
+SENT: I would pour mixture over cheesecake layer .
+PREDID: 355
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: cheesecake layer
+     PREP: over
+      NON-INGREDIENT SPAN: cheesecake layer
+
+
+SENTID: 11
+SENT: I would bake in preheated oven for 65 minutes , until set in center .
+PREDID: 386
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 65 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 65 minutes
+   PARG: set in center
+     PREP: until
+      NON-INGREDIENT SPAN: set in center
+
+
+SENTID: 12
+SENT: I would remove pie and turn oven to broiler setting .
+PREDID: 435
+PRED: remove
+   DOBJ: pie, turn oven
+      NON-INGREDIENT SPAN:  turn oven
+      NON-INGREDIENT SPAN: pie
+   PARG: broiler setting
+     PREP: to
+      NON-INGREDIENT SPAN: broiler setting
+
+
+SENTID: 13
+SENT: To Make Pecan Topping :
+
+SENTID: 14
+SENT: In a small bowl , I would mix together softened butter or margarine , brown sugar , and chopped pecans .
+PREDID: 504
+PRED: mix
+   DOBJ: softened butter or margarine , brown sugar , chopped pecans
+      INGREDIENT SPAN: softened butter or margarine 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  chopped pecans
+         INGREDIENTS: chopped pecans
+      NON-INGREDIENT SPAN:  brown sugar 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 15
+SENT: I would gently drop mixture by teaspoonfuls over pie , covering top evenly .
+PREDID: 575
+PRED: drop
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: teaspoonfuls over pie
+     PREP: by
+      NON-INGREDIENT SPAN: teaspoonfuls over pie
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: covering top evenly
+      NON-INGREDIENT SPAN: covering top evenly
+
+
+SENTID: 16
+SENT: I would broil 5 inches below oven coils until mixture begins to bubble , about 3 minutes .
+PREDID: 626
+PRED: broil
+   DOBJ: 5 inches
+      NON-INGREDIENT SPAN: 5 inches
+   PARG: oven coils
+     PREP: below
+      NON-INGREDIENT SPAN: oven coils
+   PARG: mixture begins to bubble , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: mixture begins to bubble 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 17
+SENT: Do not overcook , or top will become syrupy .
+
+SENTID: 18
+SENT: I would cool before serving .
+PREDID: 693
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

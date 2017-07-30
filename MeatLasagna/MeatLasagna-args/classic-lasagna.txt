@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the lasagna noodles and olive oil ;
+PREDID: 80
+PRED: add
+   DOBJ: the lasagna noodles
+      INGREDIENT SPAN: the lasagna noodles
+         INGREDIENTS: lasagna noodles
+
+PREDID: 103
+PRED: olive
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 3
+SENT: I would cook until al dente , 8 to 10 minutes ;
+PREDID: 112
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 142
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would cook the ground beef and sausage in a large pot over medium heat ;
+PREDID: 148
+PRED: cook
+   DOBJ: the ground beef, sausage in a large pot over medium heat
+      INGREDIENT SPAN:  sausage in a large pot over medium heat
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 6
+SENT: I would drain .
+PREDID: 201
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would stir in the mushrooms , garlic salt , the oregano , the thyme , the basil , and tomato sauce .
+PREDID: 207
+PRED: stir
+   DOBJ: NULL
+   PARG: the mushrooms , garlic salt , the oregano , the thyme , the basil , tomato sauce
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN: the mushrooms 
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN:  the thyme 
+
+
+SENTID: 8
+SENT: I would season with salt and pepper ;
+PREDID: 272
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 9
+SENT: I would simmer 30 minutes .
+PREDID: 296
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 10
+SENT: I would meanwhile , mix together the ricotta cheese , the eggs , and Parmesan cheese in a bowl .
+PREDID: 322
+PRED: mix
+   DOBJ: together the ricotta cheese , the eggs , Parmesan cheese in a bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: together the ricotta cheese 
+         INGREDIENTS: ounce container ricotta cheese
+      INGREDIENT SPAN:  Parmesan cheese in a bowl
+         INGREDIENTS: grated Parmesan cheese
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 11
+SENT: I would ladle enough of the meat sauce into a 9x13 inch baking dish to cover the bottom in a thin layer .
+PREDID: 380
+PRED: ladle
+   DOBJ: enough of the meat sauce
+      NON-INGREDIENT SPAN: enough of the meat sauce
+   PARG: a 9x13 inch baking dish to cover the bottom in a thin layer
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish to cover the bottom in a thin layer
+
+
+SENTID: 12
+SENT: I would form a layer atop the sauce with 3 of the lasagna noodles .
+PREDID: 457
+PRED: form
+   DOBJ: a layer
+      NON-INGREDIENT SPAN: a layer
+   PARG: the sauce with 3 of the lasagna noodles
+     PREP: atop
+      NON-INGREDIENT SPAN: the sauce with 3 of the lasagna noodles
+
+
+SENTID: 13
+SENT: I would spread about 1/4 of the ricotta cheese mixture over the noodles .
+PREDID: 504
+PRED: spread
+   DOBJ: about 1/4 of the ricotta cheese mixture
+      INGREDIENT SPAN: about 1/4 of the ricotta cheese mixture
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 14
+SENT: I would sprinkle about 1/3 of the mozzarella cheese over the ricotta cheese mixture and
+PREDID: 558
+PRED: sprinkle
+   DOBJ: about 1/3 of the mozzarella cheese
+      INGREDIENT SPAN: about 1/3 of the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the ricotta cheese mixture and
+     PREP: over
+      INGREDIENT SPAN: the ricotta cheese mixture and
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 15
+SENT: I would ladle about 1/3 of the meat sauce over the mozzarella cheese .
+PREDID: 625
+PRED: ladle
+   DOBJ: about 1/3 of the meat sauce
+      NON-INGREDIENT SPAN: about 1/3 of the meat sauce
+   PARG: the mozzarella cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the mozzarella cheese
+
+
+SENTID: 16
+SENT: I would repeat the layering twice more , topping with the remaining 1/4 pound of mozzarella cheese .
+PREDID: 676
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   OARG: twice more
+      NON-INGREDIENT SPAN: twice more
+   OARG: topping with the remaining 1/4 pound of mozzarella cheese
+      NON-INGREDIENT SPAN: topping with the remaining 1/4 pound of mozzarella cheese
+
+
+SENTID: 17
+SENT: I would bake in preheated oven 90 minutes .
+PREDID: 750
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 90 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 90 minutes
+
+
+SENTID: 18
+SENT: I would allow to sit 10 to 15 minutes before serving .
+PREDID: 779
+PRED: allow
+   DOBJ: NULL
+   OARG: to sit 10 to 15 minutes before serving
+      NON-INGREDIENT SPAN: to sit 10 to 15 minutes before serving
+
+

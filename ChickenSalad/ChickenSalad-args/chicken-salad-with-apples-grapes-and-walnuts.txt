@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would toss shredded chicken , apple chunks , the walnuts , red onion , the celery , and lemon juice together in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: shredded chicken , apple chunks , the walnuts , red onion , the celery , lemon juice
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts taste
+      INGREDIENT SPAN:  apple chunks 
+         INGREDIENTS: Granny Smith apples cut small chunks
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN: shredded chicken 
+         INGREDIENTS: cooked chicken breasts shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk vanilla yogurt , salad dressing , and mayonnaise together in a separate bowl ;
+PREDID: 90
+PRED: whisk
+   DOBJ: vanilla yogurt , salad dressing , mayonnaise
+      INGREDIENT SPAN: vanilla yogurt 
+         INGREDIENTS: vanilla yogurt
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the chicken mixture and stir to coat .
+PREDID: 160
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would gently fold the grapes into the salad .
+PREDID: 205
+PRED: fold
+   DOBJ: the grapes
+      INGREDIENT SPAN: the grapes
+         INGREDIENTS: seedless red grapes halved
+   PARG: the salad
+     PREP: into
+      NON-INGREDIENT SPAN: the salad
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: I would whisk brown sugar , the water , fish sauce , rice vinegar , soy sauce , the garlic , and ginger in a bowl until brown sugar is completely dissolved , about 1 minute .
+PREDID: 0
+PRED: whisk
+   DOBJ: brown sugar , the water , fish sauce , rice vinegar , soy sauce , the garlic , ginger
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: cold water
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: fresh grated ginger
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: dark brown sugar
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: brown sugar is completely dissolved , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: brown sugar is completely dissolved 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 126
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat oil over high heat in a skillet .
+PREDID: 135
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: high heat in a skillet
+     PREP: over
+      NON-INGREDIENT SPAN: high heat in a skillet
+
+
+SENTID: 3
+SENT: I would stir in chicken .
+PREDID: 165
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken
+     PREP: in
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken thighs quartered
+
+
+SENTID: 4
+SENT: I would pour 1/3 cup of the brown sugar mixture over chicken ;
+PREDID: 179
+PRED: pour
+   DOBJ: 1/3 cup of the brown sugar mixture over chicken
+      NON-INGREDIENT SPAN: 1/3 cup of the brown sugar mixture over chicken
+
+
+SENTID: 5
+SENT: I would cook and stir until the brown sugar mixture has a syrup-like consistency , 6 to 7 minutes .
+PREDID: 223
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the brown sugar mixture has a syrup-like consistency , 6 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the brown sugar mixture has a syrup-like consistency 
+      NON-INGREDIENT SPAN:  6 to 7 minutes
+
+
+SENTID: 6
+SENT: I would pour in the remaining brown sugar mixture ;
+PREDID: 297
+PRED: pour
+   DOBJ: NULL
+   PARG: the remaining brown sugar mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the remaining brown sugar mixture
+
+
+SENTID: 7
+SENT: I would cook until chicken is tender and no longer pink inside , about 5 minutes .
+PREDID: 333
+PRED: cook
+   DOBJ: NULL
+   PARG: chicken is tender, no longer pink inside , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink inside 
+      NON-INGREDIENT SPAN: chicken is tender
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 8
+SENT: I would stir in in peanuts , the jalapenos and green onion ;
+PREDID: 393
+PRED: stir
+   DOBJ: NULL
+   PARG: peanuts , the jalapenos, green onion
+     PREP: in
+      INGREDIENT SPAN: peanuts 
+         INGREDIENTS: roasted peanuts
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: bunch green onions chopped
+      NON-INGREDIENT SPAN:  the jalapenos
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 9
+SENT: I would cook until warmed through , 2 to 3 minutes .
+PREDID: 432
+PRED: cook
+   DOBJ: NULL
+   PARG: warmed through , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: warmed through 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 10
+SENT: I would garnish with cilantro and serve .
+PREDID: 467
+PRED: garnish
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: fresh cilantro sprigs garnish
+
+

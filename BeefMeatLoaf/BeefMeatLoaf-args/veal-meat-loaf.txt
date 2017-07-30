@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a bowl , I would mix the ground veal , the eggs , dry bread crumbs , the water , soup mix , the carrots , and shiitake mushrooms .
+PREDID: 46
+PRED: mix
+   DOBJ: the ground veal , the eggs , dry bread crumbs , the water , soup mix , the carrots , shiitake mushrooms
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: large carrots grated
+      INGREDIENT SPAN:  shiitake mushrooms
+         INGREDIENTS: pint shiitake mushrooms sliced
+      INGREDIENT SPAN:  dry bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: warm water
+      INGREDIENT SPAN: the ground veal 
+         INGREDIENTS: ground veal
+      INGREDIENT SPAN:  soup mix 
+         INGREDIENTS: ounce envelope dry onion soup mix
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would transfer to a 9x5 inch loaf pan .
+PREDID: 126
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 3
+SENT: I would bake 1 hour in the preheated oven , or to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 152
+PRED: bake
+   DOBJ: 1 hour in the preheated oven , or to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven 
+      NON-INGREDIENT SPAN:  or to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C
+
+

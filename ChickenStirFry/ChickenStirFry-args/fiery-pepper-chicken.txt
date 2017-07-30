@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: I would stir together 1 teaspoon cooking wine and 1/2 teaspoon salt in a bowl ;
+PREDID: 0
+PRED: stir
+   DOBJ: 1 teaspoon cooking wine, 1/2 teaspoon salt
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: 1 teaspoon cooking wine
+         INGREDIENTS: Chinese cooking wine
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the chicken and stir to coat .
+PREDID: 58
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: boneless chicken cut inch cubes
+
+PREDID: 74
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would allow to marinate 2 to 3 minutes .
+PREDID: 85
+PRED: allow
+   DOBJ: NULL
+   OARG: to marinate 2 to 3 minutes
+      NON-INGREDIENT SPAN: to marinate 2 to 3 minutes
+
+
+SENTID: 3
+SENT: I would place the marinated chicken in a large , sealable plastic bag with the cornstarch and shake to coat .
+PREDID: 112
+PRED: place
+   DOBJ: the marinated chicken
+      NON-INGREDIENT SPAN: the marinated chicken
+   PARG: a large , sealable plastic bag with the cornstarch
+     PREP: in
+      INGREDIENT SPAN:  sealable plastic bag with the cornstarch
+         INGREDIENTS: cornstarch needed
+      NON-INGREDIENT SPAN: a large 
+
+PREDID: 183
+PRED: shake
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would heat the peanut oil in a wok or large skillet over high heat .
+PREDID: 195
+PRED: heat
+   DOBJ: the peanut oil
+      INGREDIENT SPAN: the peanut oil
+         INGREDIENTS: peanut oil frying
+   PARG: a wok or large skillet over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet over high heat
+
+
+SENTID: 5
+SENT: I would fry the chicken in the oil until it begins to crisp around the edges , 7 to 10 minutes .
+PREDID: 244
+PRED: fry
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the oil
+     PREP: in
+      NON-INGREDIENT SPAN: the oil
+   PARG: it begins to crisp around the edges , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: it begins to crisp around the edges 
+
+
+SENTID: 6
+SENT: I would remove the chicken to a paper towel-lined plate to drain .
+PREDID: 313
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: a paper towel-lined plate
+     PREP: to
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+   OARG: to drain
+      NON-INGREDIENT SPAN: to drain
+
+
+SENTID: 7
+SENT: I would reserve 2 tablespoons of the oil , discarding the rest .
+PREDID: 361
+PRED: reserve
+   DOBJ: 2 tablespoons of the oil
+      NON-INGREDIENT SPAN: 2 tablespoons of the oil
+   OARG: discarding the rest
+      NON-INGREDIENT SPAN: discarding the rest
+
+
+SENTID: 8
+SENT: I would reheat the reserved oil in the wok over medium-high heat ;
+PREDID: 407
+PRED: reheat
+   DOBJ: the reserved oil
+      NON-INGREDIENT SPAN: the reserved oil
+   PARG: the wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: the wok over medium-high heat
+
+
+SENTID: 9
+SENT: I would cook and stir the garlic , the ginger , and green onions in the oil until fragrant , about 1 minute .
+PREDID: 455
+PRED: cook and stir
+   DOBJ: the garlic , the ginger , green onions in the oil
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  green onions in the oil
+         INGREDIENTS: green onions julienned
+      NON-INGREDIENT SPAN: the garlic 
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 10
+SENT: I would add the green chilies , crushed dried chilies , and Szechuan peppercorns ;
+PREDID: 532
+PRED: add
+   DOBJ: the green chilies , crushed dried chilies , Szechuan peppercorns
+      INGREDIENT SPAN: the green chilies 
+         INGREDIENTS: green chilies cut 1/2inch
+      INGREDIENT SPAN:  Szechuan peppercorns
+         INGREDIENTS: Szechuan peppercorns
+      INGREDIENT SPAN:  crushed dried chilies 
+         INGREDIENTS: dried chilies chopped
+
+
+SENTID: 11
+SENT: I would continue the frying about 20 seconds more .
+PREDID: 594
+PRED: continue
+   DOBJ: the frying
+      NON-INGREDIENT SPAN: the frying
+   OARG: about 20 seconds more
+      NON-INGREDIENT SPAN: about 20 seconds more
+
+
+SENTID: 12
+SENT: I would return the chicken to the wok ;
+PREDID: 627
+PRED: return
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the wok
+     PREP: to
+      NON-INGREDIENT SPAN: the wok
+
+
+SENTID: 13
+SENT: I would stir in the soy sauce , 2 teaspoons cooking wine , the sugar , and 1/2 teaspoon salt until thoroughly combined .
+PREDID: 652
+PRED: stir
+   DOBJ: NULL
+   PARG: the soy sauce , 2 teaspoons cooking wine , the sugar , 1/2 teaspoon salt
+     PREP: in
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  2 teaspoons cooking wine 
+         INGREDIENTS: Chinese cooking wine
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 14
+SENT: I would remove from heat and serve immediately .
+PREDID: 740
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 757
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

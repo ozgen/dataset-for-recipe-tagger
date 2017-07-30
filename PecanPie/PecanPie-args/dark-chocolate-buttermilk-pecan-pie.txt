@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would press pie crusts into two 9-inch pie pans .
+PREDID: 38
+PRED: press
+   DOBJ: pie crusts
+      INGREDIENT SPAN: pie crusts
+         INGREDIENTS: prepared 9inch pie crusts
+   PARG: two 9-inch pie pans
+     PREP: into
+      NON-INGREDIENT SPAN: two 9-inch pie pans
+
+
+SENTID: 2
+SENT: I would melt chocolate chips in the top of a double boiler over simmering water , stirring frequently and scraping down the sides with a rubber spatula to avoid scorching .
+PREDID: 73
+PRED: melt
+   DOBJ: chocolate chips
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: dark chocolate chips
+   PARG: the top of a double boiler
+     PREP: in
+      NON-INGREDIENT SPAN: the top of a double boiler
+   PARG: simmering water , stirring frequently, scraping down the sides with a rubber spatula to avoid scorching
+     PREP: over
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN:  scraping down the sides with a rubber spatula to avoid scorching
+      NON-INGREDIENT SPAN: simmering water 
+
+
+SENTID: 3
+SENT: I would mix sugar , the flour , and salt together in a bowl .
+PREDID: 209
+PRED: mix
+   DOBJ: sugar , the flour , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would whisk buttermilk , the eggs , and vanilla extract in a separate bowl ;
+PREDID: 247
+PRED: whisk
+   DOBJ: buttermilk , the eggs , vanilla extract in a separate bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN:  vanilla extract in a separate bowl
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 5
+SENT: I would stir buttermilk mixture into sugar mixture .
+PREDID: 301
+PRED: stir
+   DOBJ: buttermilk mixture
+      NON-INGREDIENT SPAN: buttermilk mixture
+   PARG: sugar mixture
+     PREP: into
+      NON-INGREDIENT SPAN: sugar mixture
+
+
+SENTID: 6
+SENT: I would slowly pour melted chocolate into mixture , while beating with an electric mixer , until filling is smooth .
+PREDID: 345
+PRED: pour
+   DOBJ: melted chocolate
+      NON-INGREDIENT SPAN: melted chocolate
+   PARG: mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mixture
+   PARG: beating with an electric mixer , until filling is smooth
+     PREP: while
+      NON-INGREDIENT SPAN: beating with an electric mixer 
+      NON-INGREDIENT SPAN:  until filling is smooth
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 7
+SENT: I would pour half the filling into each prepared pie crust .
+PREDID: 429
+PRED: pour
+   DOBJ: half the filling
+      NON-INGREDIENT SPAN: half the filling
+   PARG: each prepared pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: each prepared pie crust
+
+
+SENTID: 8
+SENT: I would sprinkle pecans over each pie .
+PREDID: 472
+PRED: sprinkle
+   DOBJ: pecans
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: sliced pecans
+   PARG: each pie
+     PREP: over
+      NON-INGREDIENT SPAN: each pie
+
+
+SENTID: 9
+SENT: I would bake pies in the preheated oven until cooked through , about 1 hour .
+PREDID: 498
+PRED: bake
+   DOBJ: pies
+      NON-INGREDIENT SPAN: pies
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cooked through , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: cooked through 
+
+
+SENTID: 10
+SENT: I would cool for at least 1 hour before serving .
+PREDID: 554
+PRED: cool
+   DOBJ: NULL
+   PARG: at least 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

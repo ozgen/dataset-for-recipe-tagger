@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: To Make Crust :
+
+SENTID: 2
+SENT: In a medium bowl , I would combine flour , the salt and white sugar .
+PREDID: 64
+PRED: combine
+   DOBJ: flour , the salt, white sugar
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 3
+SENT: I would cut butter into flour mixture until it resembles coarse crumbs .
+PREDID: 95
+PRED: cut
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter melted
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: it resembles coarse crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: it resembles coarse crumbs
+
+
+SENTID: 4
+SENT: I would gradually sprinkle the water over the dry mixture , stirring until dough comes together enough to form a ball .
+PREDID: 158
+PRED: sprinkle
+   DOBJ: the water over the dry mixture
+      INGREDIENT SPAN: the water over the dry mixture
+         INGREDIENTS: ice water
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: stirring until dough comes together enough to form a ball
+      NON-INGREDIENT SPAN: stirring until dough comes together enough to form a ball
+
+
+SENTID: 5
+SENT: On a floured surface flatten dough ball with rolling pin .
+
+SENTID: 6
+SENT: I would roll out into a circle that is one inch larger than pie dish .
+PREDID: 289
+PRED: roll
+   DOBJ: NULL
+   PARG: a circle that is one inch larger than pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: a circle that is one inch larger than pie dish
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 7
+SENT: I would place pie shell into dish and refrigerate until pie filling is complete .
+PREDID: 338
+PRED: place
+   DOBJ: pie shell
+      NON-INGREDIENT SPAN: pie shell
+   PARG: dish, refrigerate
+     PREP: into
+      NON-INGREDIENT SPAN: dish
+      NON-INGREDIENT SPAN:  refrigerate
+   PARG: pie filling is complete
+     PREP: until
+      NON-INGREDIENT SPAN: pie filling is complete
+
+
+SENTID: 8
+SENT: To Make Pie Filling :
+
+SENTID: 9
+SENT: In a medium bowl , I would mix together eggs , light and dark corn syrups , brown sugar , the butter , the salt and finely crushed pecans .
+PREDID: 430
+PRED: mix
+   DOBJ: eggs , light, dark corn syrups , brown sugar , the butter , the salt, finely crushed pecans
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter chilled
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  dark corn syrups 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  finely crushed pecans
+         INGREDIENTS: pecan halves
+      NON-INGREDIENT SPAN:  light
+      NON-INGREDIENT SPAN:  the salt
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would spread quartered pecans over bottom of refrigerated pie crust .
+PREDID: 514
+PRED: spread
+   DOBJ: quartered pecans
+      INGREDIENT SPAN: quartered pecans
+         INGREDIENTS: pecans quartered
+   PARG: bottom of refrigerated pie crust
+     PREP: over
+      NON-INGREDIENT SPAN: bottom of refrigerated pie crust
+
+
+SENTID: 11
+SENT: I would pour syrup mixture over top of pecans ,
+PREDID: 568
+PRED: pour
+   DOBJ: syrup mixture
+      INGREDIENT SPAN: syrup mixture
+         INGREDIENTS: dark corn syrup
+   PARG: top of pecans
+     PREP: over
+      INGREDIENT SPAN: top of pecans
+         INGREDIENTS: pecans crushed
+
+
+SENTID: 12
+SENT: I would arrange pecan halves on top of pie .
+PREDID: 600
+PRED: arrange
+   DOBJ: pecan halves
+      NON-INGREDIENT SPAN: pecan halves
+   PARG: top of pie
+     PREP: on
+      NON-INGREDIENT SPAN: top of pie
+
+
+SENTID: 13
+SENT: I would bake in a preheated 350 degrees F -LRB- 175 degrees C -RRB- oven for one hour or until firm ;
+PREDID: 629
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+   PARG: one hour
+     PREP: for
+      NON-INGREDIENT SPAN: one hour
+
+
+SENTID: 14
+SENT: I would let cool for one hour before serving .
+PREDID: 695
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool for one hour
+      NON-INGREDIENT SPAN: cool for one hour
+
+

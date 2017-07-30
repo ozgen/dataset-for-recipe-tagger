@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: whole wheat elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 179
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would stir together macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , and salt and pepper in a 9x13-inch baking dish .
+PREDID: 185
+PRED: stir
+   DOBJ: macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , salt, pepper in a 9x13-inch baking dish
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  shredded Cheddar cheese 
+         INGREDIENTS: ounce package shredded reducedfat Cheddar cheese
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: lowfat cottage cheese
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: ounce container light sour cream
+      NON-INGREDIENT SPAN:  pepper in a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: macaroni 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would mix together bread crumbs and melted butter in a small bowl ;
+PREDID: 306
+PRED: mix
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: whole wheat bread crumbs
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 331
+PRED: melted
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter melted
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 6
+SENT: I would sprinkle the topping over macaroni mixture .
+PREDID: 356
+PRED: sprinkle
+   DOBJ: the topping over macaroni mixture
+      NON-INGREDIENT SPAN: the topping over macaroni mixture
+
+
+SENTID: 7
+SENT: I would bake until top is golden in the preheated oven , 30 to 35 minutes .
+PREDID: 391
+PRED: bake
+   DOBJ: NULL
+   PARG: top is golden in the preheated oven , 30 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: top is golden in the preheated oven 
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+
+

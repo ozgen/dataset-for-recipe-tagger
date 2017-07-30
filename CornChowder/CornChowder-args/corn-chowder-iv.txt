@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would place potatoes in a large pot with water to just cover ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in a large pot
+      INGREDIENT SPAN: potatoes in a large pot
+         INGREDIENTS: potatoes peeled diced
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to just cover
+      NON-INGREDIENT SPAN: to just cover
+
+
+SENTID: 1
+SENT: I would bring to a boil ,
+PREDID: 45
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat and simmer until just tender , 15 minutes .
+PREDID: 58
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: just tender , 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  15 minutes
+      NON-INGREDIENT SPAN: just tender 
+
+
+SENTID: 3
+SENT: I would meanwhile , cook bacon over medium heat in a large skillet with onion until just crisp .
+PREDID: 113
+PRED: cook
+   DOBJ: bacon over medium heat in a large skillet with onion until just crisp
+      INGREDIENT SPAN: bacon over medium heat in a large skillet with until just crisp
+         INGREDIENTS: bacon diced
+      INGREDIENT SPAN: bacon over medium heat in a large skillet with onion until just crisp
+         INGREDIENTS: chopped onion
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would drain and set aside .
+PREDID: 175
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: When potatoes are just tender , stir bacon mixture , creamed corn , evaporated milk , the milk , the margarine , the cheese , the salt and pepper into the pot .
+PREDID: 218
+PRED: stir
+   DOBJ: bacon mixture , creamed corn , evaporated milk , the milk , the margarine , the cheese , the salt, pepper
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: ounce package processed cheese cubed
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: whole milk
+      INGREDIENT SPAN:  creamed corn 
+         INGREDIENTS: ounce creamed corn
+      INGREDIENT SPAN:  the margarine 
+         INGREDIENTS: margarine
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: bacon mixture 
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+   OARG: when potatoes are just tender
+      NON-INGREDIENT SPAN: when potatoes are just tender
+
+
+SENTID: 6
+SENT: I would heat , the stirring , 10 minutes , until cheese and margarine are melted and mixture is thoroughly heated .
+PREDID: 308
+PRED: heat
+   DOBJ: NULL
+   PARG: the stirring , 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  10 minutes
+      NON-INGREDIENT SPAN: the stirring 
+   PARG: cheese, margarine are melted
+     PREP: until
+      NON-INGREDIENT SPAN:  margarine are melted
+      NON-INGREDIENT SPAN: cheese
+   OARG: mixture is thoroughly heated
+      NON-INGREDIENT SPAN: mixture is thoroughly heated
+
+

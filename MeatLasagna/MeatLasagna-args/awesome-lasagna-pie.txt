@@ -1,0 +1,177 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 41
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 2
+SENT: I would cook and stir until no longer pink .
+PREDID: 98
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+
+
+SENTID: 3
+SENT: I would drain and stir in the tomato paste , the salt , and Italian seasoning .
+PREDID: 127
+PRED: drain and stir
+   DOBJ: NULL
+   PARG: the tomato paste , the salt , italian seasoning
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  italian seasoning
+         INGREDIENTS: Italian seasoning
+
+
+SENTID: 4
+SENT: I would set aside a little bit of the mozzarella and Parmesan cheeses for the top ;
+PREDID: 181
+PRED: set
+   DOBJ: a little bit of the mozzarella, Parmesan cheeses
+      INGREDIENT SPAN:  Parmesan cheeses
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: a little bit of the mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the top
+     PREP: for
+      NON-INGREDIENT SPAN: the top
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would stir the rest into the ground beef .
+PREDID: 242
+PRED: stir
+   DOBJ: the rest
+      NON-INGREDIENT SPAN: the rest
+   PARG: the ground beef
+     PREP: into
+      NON-INGREDIENT SPAN: the ground beef
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 271
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would spread cottage cheese into the bottom of a 9 inch pie plate .
+PREDID: 280
+PRED: spread
+   DOBJ: cottage cheese
+      INGREDIENT SPAN: cottage cheese
+         INGREDIENTS: cottage cheese
+   PARG: the bottom of a 9 inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9 inch pie plate
+
+
+SENTID: 8
+SENT: I would spoon the ground beef mixture over the cheese .
+PREDID: 329
+PRED: spoon
+   DOBJ: the ground beef mixture
+      NON-INGREDIENT SPAN: the ground beef mixture
+   PARG: the cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the cheese
+
+
+SENTID: 9
+SENT: In a small bowl , I would stir together the milk and eggs .
+PREDID: 381
+PRED: stir
+   DOBJ: the milk, eggs
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would blend in the biscuit mix until smooth .
+PREDID: 408
+PRED: blend
+   DOBJ: NULL
+   PARG: the biscuit mix
+     PREP: in
+      INGREDIENT SPAN: the biscuit mix
+         INGREDIENTS: biscuit baking mix
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 11
+SENT: I would pour over the top of the pie , covering completely .
+PREDID: 440
+PRED: pour
+   DOBJ: the top of the pie , covering completely
+      NON-INGREDIENT SPAN: the top of the pie 
+      NON-INGREDIENT SPAN:  covering completely
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until top is browned , about 30 minutes .
+PREDID: 482
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: top is browned , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: top is browned 
+
+
+SENTID: 13
+SENT: I would remove from the oven and sprinkle the reserved cheese over the top .
+PREDID: 537
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 557
+PRED: sprinkle
+   DOBJ: the reserved cheese
+      NON-INGREDIENT SPAN: the reserved cheese
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix ground beef , the eggs , the onion , barbeque sauce , green bell pepper , diced tomatoes with green chile peppers , Salsa Verde flavored tortilla chips and Worcestershire sauce .
+PREDID: 51
+PRED: mix
+   DOBJ: ground beef , the eggs , the onion , barbeque sauce , green bell pepper , diced tomatoes with green chile peppers , Salsa Verde flavored tortilla chips, Worcestershire sauce
+      INGREDIENT SPAN:  Salsa Verde flavored tortilla chips
+         INGREDIENTS: Salsa Verde flavored tortilla chips crushed
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  diced tomatoes with green chile peppers 
+         INGREDIENTS: ounce diced tomatoes green chile peppers
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: ounce bottle barbeque sauce
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would shape into a loaf and place in an 11x7 inch baking pan .
+PREDID: 195
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf, place in an 11x7 inch baking pan
+     PREP: into
+      NON-INGREDIENT SPAN:  place in an 11x7 inch baking pan
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven 75 to 90 minutes , or until center of the loaf is no longer pink .
+PREDID: 239
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 75 to 90 minutes , or until center of the loaf is no longer pink
+     PREP: in
+      NON-INGREDIENT SPAN:  or until center of the loaf is no longer pink
+      NON-INGREDIENT SPAN: the preheated oven 75 to 90 minutes 
+
+

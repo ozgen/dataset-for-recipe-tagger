@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a loaf pan with cooking spray .
+PREDID: 38
+PRED: spray pan
+   DOBJ: a loaf
+      NON-INGREDIENT SPAN: a loaf
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would whisk eggs and milk together in a bowl .
+PREDID: 68
+PRED: whisk
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+
+PREDID: 80
+PRED: milk
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add pork , bread crumbs , bell pepper , green onion , the mustard , and pepper ;
+PREDID: 100
+PRED: add
+   DOBJ: pork , bread crumbs , bell pepper , green onion , the mustard , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: green onion chopped taste
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN: pork 
+         INGREDIENTS: cooked pulled pork sauce chopped
+
+
+SENTID: 4
+SENT: I would stir .
+PREDID: 160
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would transfer pork mixture to the prepared loaf pan .
+PREDID: 165
+PRED: transfer
+   DOBJ: pork mixture
+      NON-INGREDIENT SPAN: pork mixture
+   PARG: the prepared loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 6
+SENT: I would press pork tightly into pan and spread barbeque sauce on top .
+PREDID: 205
+PRED: press
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   OARG: tightly into pan
+      NON-INGREDIENT SPAN: tightly into pan
+
+PREDID: 231
+PRED: spread
+   DOBJ: barbeque sauce
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: barbeque sauce
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until heated through , about 1 hour .
+PREDID: 256
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: heated through , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: heated through 
+
+
+SENTID: 8
+SENT: I would let meatloaf cool 5 to 10 minutes before slicing and serving .
+PREDID: 308
+PRED: let
+   DOBJ: NULL
+   PARG: meatloaf cool 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: meatloaf cool 5 to 10 minutes
+   PARG: slicing, serving
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+      NON-INGREDIENT SPAN:  serving
+
+

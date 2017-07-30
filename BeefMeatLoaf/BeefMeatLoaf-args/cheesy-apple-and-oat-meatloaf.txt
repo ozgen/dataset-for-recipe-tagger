@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5 inch loaf pan .
+PREDID: 40
+PRED: grease pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+
+
+SENTID: 2
+SENT: I would mix the beef , the pork , the egg , the apple , the onion , Worcestershire sauce , the salt , and pepper in a mixing bowl until evenly mixed .
+PREDID: 62
+PRED: mix
+   DOBJ: the beef , the pork , the egg , the apple , the onion , Worcestershire sauce , the salt , pepper in a mixing bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: chopped apple
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  pepper in a mixing bowl
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 3
+SENT: I would add the Cheddar cheese , bread crumbs , and oats ;
+PREDID: 158
+PRED: add
+   DOBJ: the Cheddar cheese , bread crumbs , oats
+      INGREDIENT SPAN: the Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  oats
+         INGREDIENTS: quick cooking oats
+
+
+SENTID: 4
+SENT: I would mix again until evenly mixed .
+PREDID: 198
+PRED: mix
+   DOBJ: NULL
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 5
+SENT: I would pack the meat mixture into the prepared loaf pan .
+PREDID: 223
+PRED: pack
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 264
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 72 degrees C -RRB- .
+
+SENTID: 8
+SENT: I would allow the meatloaf to rest for 10 minutes before slicing to keep the meat from crumbling .
+PREDID: 326
+PRED: allow
+   DOBJ: NULL
+   PARG: the meatloaf to rest for 10 minutes before slicing to keep the meat from crumbling
+     PREP: for
+      NON-INGREDIENT SPAN: the meatloaf to rest for 10 minutes before slicing to keep the meat from crumbling
+
+

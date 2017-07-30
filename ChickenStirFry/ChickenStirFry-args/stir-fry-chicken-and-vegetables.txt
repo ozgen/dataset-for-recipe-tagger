@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would mix chicken , soy sauce , the sherry , and cornstarch in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: chicken , soy sauce , the sherry , cornstarch in a bowl
+      INGREDIENT SPAN:  cornstarch in a bowl
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  the sherry 
+         INGREDIENTS: dry sherry
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast cut small
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+
+
+SENTID: 1
+SENT: I would heat 1 tablespoon vegetable oil in a large skillet or wok over medium-high heat ;
+PREDID: 48
+PRED: heat
+   DOBJ: 1 tablespoon vegetable oil
+      INGREDIENT SPAN: 1 tablespoon vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium-high heat
+
+
+SENTID: 2
+SENT: I would cook and stir broccoli , bell pepper , the zucchini , and garlic for 2 to 3 minutes .
+PREDID: 115
+PRED: cook and stir
+   DOBJ: broccoli , bell pepper , the zucchini , garlic
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: large green bell pepper cut squares
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: broccoli florets cut
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini cut rounds quartered
+      NON-INGREDIENT SPAN:  garlic
+   PARG: 2 to 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 minutes
+
+
+SENTID: 3
+SENT: I would add chicken broth , cover , and simmer until vegetables are tender , 4 to 5 minutes .
+PREDID: 179
+PRED: add
+   DOBJ: chicken broth
+      INGREDIENT SPAN: chicken broth
+         INGREDIENTS: chicken broth
+
+PREDID: 204
+PRED: simmer
+   DOBJ: NULL
+   PARG: vegetables are tender , 4 to 5 minutes
+     PREP: until
+      INGREDIENT SPAN: vegetables are tender 
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  4 to 5 minutes
+
+
+SENTID: 4
+SENT: I would transfer vegetables and sauce to a large bowl and wipe skillet clean .
+PREDID: 247
+PRED: transfer
+   DOBJ: vegetables, sauce
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: vegetables
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 288
+PRED: wipe
+   DOBJ: NULL
+   OARG: skillet clean
+      NON-INGREDIENT SPAN: skillet clean
+
+
+SENTID: 5
+SENT: I would heat the remaining 1 tablespoon vegetable oil over medium-high heat ;
+PREDID: 305
+PRED: heat
+   DOBJ: the remaining 1 tablespoon vegetable oil
+      NON-INGREDIENT SPAN: the remaining 1 tablespoon vegetable oil
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 6
+SENT: I would cook and stir chicken until meat is no longer pink in the center , about 5 minutes .
+PREDID: 361
+PRED: cook and stir
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: meat is no longer pink in the center , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: meat is no longer pink in the center 
+
+
+SENTID: 7
+SENT: I would stir in vegetables ;
+PREDID: 428
+PRED: stir
+   DOBJ: NULL
+   PARG: vegetables
+     PREP: in
+      NON-INGREDIENT SPAN: vegetables
+
+
+SENTID: 8
+SENT: I would continue to cook and stir for 2 to 3 minutes more .
+PREDID: 445
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir for 2 to 3 minutes more
+      NON-INGREDIENT SPAN: to cook
+      NON-INGREDIENT SPAN:  stir for 2 to 3 minutes more
+
+
+SENTID: 9
+SENT: I would sprinkle with green onions .
+PREDID: 485
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: green onions
+     PREP: with
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: green onions chopped
+
+

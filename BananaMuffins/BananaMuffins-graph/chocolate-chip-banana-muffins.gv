@@ -1,0 +1,51 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P45)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine (S3,P81)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S4,P129)", shape=oval, style=filled, fillcolor=azure]
+E4[label="fold (S5,P168)", shape=oval, style=filled, fillcolor=azure]
+E5[label="spoon (S6,P192)", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake (S7,P246)", shape=oval, style=filled, fillcolor=azure]
+E7[label="remove (S8,P285)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a 12-cup muffin tin", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: oven to 425 degrees F -LRB- 220 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, white sugar, all-purpose flour, unsweetened cocoa powder, salt
+(text: the flour , sugar , cocoa , baking powder, salt)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: in mashed bananas
+(text: in the banana mixture)", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+P3_1_0[label="PREP: until just blended", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_ing[label="PREP: in semisweet chocolate chips
+(text: in the chocolate chips)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: the batter"]
+E1 -> E5 [label="OUTPUT: 
+INPUT: into the prepared muffin tin"]
+O5_0_0[label="OTHER: filling 3/4 full", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+E0 -> E6 [label="OUTPUT: 
+INPUT: in the preheated oven for 15 to 20 minutes"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: muffins"]
+P7_0_0[label="PREP: to a wire rack", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+O7_0_0[label="OTHER: to cool completely", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

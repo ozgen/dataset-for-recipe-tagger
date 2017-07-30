@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would slice chicken strips and set aside .
+PREDID: 38
+PRED: slice
+   DOBJ: chicken strips
+      INGREDIENT SPAN: chicken strips
+         INGREDIENTS: grilled skinless boneless chicken breast halves
+
+PREDID: 59
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a large , I would nonreactive pot , heat sugar and water together over medium high heat , stirring occasionally , until caramelized to a deep amber color .
+PREDID: 77
+PRED: nonreactive
+   DOBJ: pot , heat sugar, water
+      INGREDIENT SPAN:  heat sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN: pot 
+   PARG: a large
+     PREP: in
+      NON-INGREDIENT SPAN: a large
+   PARG: medium high heat , stirring occasionally , until caramelized to a deep amber color
+     PREP: over
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: medium high heat 
+      NON-INGREDIENT SPAN:  until caramelized to a deep amber color
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would remove from heat and slowly -LRB- and very carefully -- use an oven mitt ! -RRB-
+PREDID: 191
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: slowly -lrb-, very carefully -- use an oven mitt
+      NON-INGREDIENT SPAN: slowly -lrb-
+      NON-INGREDIENT SPAN:  very carefully -- use an oven mitt
+
+
+SENTID: 4
+SENT: I would add wine .
+PREDID: 248
+PRED: add
+   DOBJ: wine
+      INGREDIENT SPAN: wine
+         INGREDIENTS: red wine
+
+
+SENTID: 5
+SENT: I would return to heat and stir until all particles are dissolved .
+PREDID: 256
+PRED: return
+   DOBJ: NULL
+   OARG: to heat, stir until all particles are dissolved
+      NON-INGREDIENT SPAN:  stir until all particles are dissolved
+      NON-INGREDIENT SPAN: to heat
+
+
+SENTID: 6
+SENT: Stirring constantly , I would add orange juice and wasabi , adjusting the amount to taste .
+PREDID: 324
+PRED: add
+   DOBJ: orange juice, wasabi
+      INGREDIENT SPAN:  wasabi
+         INGREDIENTS: wasabi paste
+      INGREDIENT SPAN: orange juice
+         INGREDIENTS: orange juice
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+   OARG: adjusting the amount to taste
+      INGREDIENT SPAN: adjusting the amount to taste
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 7
+SENT: I would brush chicken strips with the glaze , and
+PREDID: 374
+PRED: brush
+   DOBJ: chicken strips
+      NON-INGREDIENT SPAN: chicken strips
+   PARG: the glaze , and
+     PREP: with
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: the glaze 
+
+
+SENTID: 8
+SENT: I would place on a baking sheet .
+PREDID: 408
+PRED: place
+   DOBJ: NULL
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until heated through .
+PREDID: 428
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: heated through
+     PREP: until
+      NON-INGREDIENT SPAN: heated through
+
+
+SENTID: 10
+SENT: While chicken is warming , I would toss together the tomatoes , red onion , the cilantro , lime juice , the avocados , the salt , the pepper and hot sauce .
+PREDID: 491
+PRED: toss
+   DOBJ: the tomatoes , red onion , the cilantro , lime juice , the avocados , the salt , the pepper, hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot sauce taste
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: diced tomatoes
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: limes juiced
+      INGREDIENT SPAN:  the avocados 
+         INGREDIENTS: avocados peeled pitted diced
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  the pepper
+   PARG: chicken is warming
+     PREP: while
+      NON-INGREDIENT SPAN: chicken is warming
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would adjust seasonings to taste , and spoon mixture onto the greens .
+PREDID: 575
+PRED: adjust
+   DOBJ: seasonings
+      NON-INGREDIENT SPAN: seasonings
+   PARG: taste , spoon mixture
+     PREP: to
+      NON-INGREDIENT SPAN:  spoon mixture
+      NON-INGREDIENT SPAN: taste 
+   PARG: the greens
+     PREP: onto
+      INGREDIENT SPAN: the greens
+         INGREDIENTS: ounce package mixed salad greens rinsed dried
+
+
+SENTID: 12
+SENT: I would top with warmed chicken strips and serve .
+PREDID: 628
+PRED: top
+   DOBJ: NULL
+   PARG: warmed chicken strips
+     PREP: with
+      NON-INGREDIENT SPAN: warmed chicken strips
+
+

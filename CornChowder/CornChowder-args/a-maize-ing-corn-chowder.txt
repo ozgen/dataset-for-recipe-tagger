@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would fry bacon in a Dutch oven until crisp ;
+PREDID: 0
+PRED: fry
+   DOBJ: bacon in a Dutch oven
+      INGREDIENT SPAN: bacon in a Dutch oven
+         INGREDIENTS: slices bacon
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 1
+SENT: I would remove bacon , reserving 2 tablespoons drippings .
+PREDID: 31
+PRED: remove
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   OARG: reserving 2 tablespoons drippings
+      NON-INGREDIENT SPAN: reserving 2 tablespoons drippings
+
+
+SENTID: 2
+SENT: I would crumble bacon and set aside .
+PREDID: 74
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+
+PREDID: 89
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would saute onion in reserved drippings until tender ;
+PREDID: 98
+PRED: saute
+   DOBJ: onion in reserved drippings
+      INGREDIENT SPAN: onion in reserved drippings
+         INGREDIENTS: onion chopped
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 4
+SENT: I would add potatoes and water .
+PREDID: 139
+PRED: add
+   DOBJ: potatoes, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled cubed
+
+
+SENTID: 5
+SENT: I would cover and simmer 15 to 20 minutes or until potatoes are tender .
+PREDID: 159
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+   OARG: potatoes are tender
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 6
+SENT: I would stir in milk , the corn , the salt , and pepper to taste ;
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: milk , the corn , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 7
+SENT: I would continue to cook , stirring frequently , until heated through .
+PREDID: 249
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook , stirring frequently , until heated through
+      NON-INGREDIENT SPAN: to cook 
+      NON-INGREDIENT SPAN:  until heated through
+      NON-INGREDIENT SPAN:  stirring frequently 
+
+
+SENTID: 8
+SENT: I would sprinkle with crumbled bacon to serve .
+PREDID: 302
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crumbled bacon
+     PREP: with
+      NON-INGREDIENT SPAN: crumbled bacon
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

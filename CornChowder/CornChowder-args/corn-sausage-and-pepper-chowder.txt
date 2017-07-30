@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would melt butter .
+PREDID: 26
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook onion , the garlic , and bell peppers in butter until tender , 10 to 15 minutes .
+PREDID: 37
+PRED: cook
+   DOBJ: onion , the garlic , bell peppers
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bell peppers
+         INGREDIENTS: green bell pepper chopped
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: butter until tender , 10 to 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: butter until tender 
+
+
+SENTID: 2
+SENT: I would stir in broth , the potatoes , the pepper and cumin and bring to a boil .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: broth , the potatoes , the pepper, cumin
+     PREP: in
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: red potatoes cut chunks
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: chicken broth
+
+PREDID: 146
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce heat and simmer 20 minutes , until potatoes are tender .
+PREDID: 153
+PRED: reduce
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+   OARG: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would place half the corn in a blender or food processor and puree until smooth .
+PREDID: 205
+PRED: place
+   DOBJ: half the corn
+      INGREDIENT SPAN: half the corn
+         INGREDIENTS: whole kernel corn
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+PREDID: 249
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would stir pureed corn , remaining whole corn , the kielbasa , the milk and cream into soup .
+PREDID: 266
+PRED: stir
+   DOBJ: pureed corn , remaining whole corn , the kielbasa , the milk, cream
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the kielbasa 
+         INGREDIENTS: kielbasa halved sliced
+      NON-INGREDIENT SPAN:  remaining whole corn 
+      NON-INGREDIENT SPAN: pureed corn 
+   PARG: soup
+     PREP: into
+      NON-INGREDIENT SPAN: soup
+
+
+SENTID: 6
+SENT: I would simmer 20 minutes more .
+PREDID: 330
+PRED: simmer
+   DOBJ: NULL
+   OARG: 20 minutes more
+      NON-INGREDIENT SPAN: 20 minutes more
+
+

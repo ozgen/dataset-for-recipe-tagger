@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 12 cup muffin pan .
+PREDID: 45
+PRED: grease
+   DOBJ: a 12 cup muffin pan
+      NON-INGREDIENT SPAN: a 12 cup muffin pan
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix whole wheat flour , wheat bran , wheat germ , baking soda , baking powder , and salt .
+PREDID: 80
+PRED: mix
+   DOBJ: whole wheat flour , wheat bran , wheat germ , baking soda , baking powder , salt
+      INGREDIENT SPAN:  wheat bran 
+         INGREDIENTS: wheat bran
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  wheat germ 
+         INGREDIENTS: wheat germ
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN: whole wheat flour 
+         INGREDIENTS: whole wheat flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: In a medium bowl , I would beat together eggs , the honey , and vegetable oil .
+PREDID: 165
+PRED: beat
+   DOBJ: eggs , the honey , vegetable oil
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in bananas , the milk , lemon juice , and poppy seeds .
+PREDID: 204
+PRED: stir
+   DOBJ: NULL
+   PARG: bananas , the milk , lemon juice , poppy seeds
+     PREP: in
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: mashed bananas
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  poppy seeds
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+
+
+SENTID: 5
+SENT: I would make a well in the center of the wheat flour mixture , and pour in egg and banana mixture .
+PREDID: 248
+PRED: make
+   DOBJ: a well
+      NON-INGREDIENT SPAN: a well
+   PARG: the center of the wheat flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the wheat flour mixture
+
+PREDID: 294
+PRED: pour
+   DOBJ: NULL
+   PARG: egg, banana mixture
+     PREP: in
+      NON-INGREDIENT SPAN: egg
+      NON-INGREDIENT SPAN:  banana mixture
+
+
+SENTID: 6
+SENT: I would stir until just blended .
+PREDID: 320
+PRED: stir
+   DOBJ: NULL
+   PARG: just blended
+     PREP: until
+      NON-INGREDIENT SPAN: just blended
+
+
+SENTID: 7
+SENT: I would spoon into the prepared muffin pan .
+PREDID: 341
+PRED: spoon
+   DOBJ: NULL
+   PARG: the prepared muffin pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin pan
+
+
+SENTID: 8
+SENT: I would bake 25 to 30 minutes in the preheated oven , until a toothpick inserted in the center comes out clean .
+PREDID: 371
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+   PARG: the preheated oven , until a toothpick inserted in the center comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN:  until a toothpick inserted in the center comes out clean
+      NON-INGREDIENT SPAN: the preheated oven 
+
+

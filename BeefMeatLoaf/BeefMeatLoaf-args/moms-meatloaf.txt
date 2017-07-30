@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine ground beef , cracker crumbs , tomato sauce , the eggs , the onion , bell pepper , the salt , the thyme , and marjoram in a large bowl and mix well .
+PREDID: 40
+PRED: combine
+   DOBJ: ground beef , cracker crumbs , tomato sauce , the eggs , the onion , bell pepper , the salt , the thyme , marjoram in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  marjoram in a large bowl
+         INGREDIENTS: ground marjoram
+      INGREDIENT SPAN:  cracker crumbs 
+         INGREDIENTS: crushed saltine crackers
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  the thyme 
+
+PREDID: 155
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would shape beef mixture into two equally sized loaves .
+PREDID: 151
+PRED: shape
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: two equally sized loaves
+     PREP: into
+      NON-INGREDIENT SPAN: two equally sized loaves
+
+
+SENTID: 3
+SENT: I would place both loaves in a 9x13 inch baking dish .
+PREDID: 193
+PRED: place
+   DOBJ: both loaves in a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: both loaves in a 9x13 inch baking dish
+
+
+SENTID: 4
+SENT: I would cover with foil and bake in the preheated oven for 1 hour .
+PREDID: 230
+PRED: cover
+   DOBJ: NULL
+   PARG: foil, bake
+     PREP: with
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: foil
+   PARG: the preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour
+
+
+SENTID: 5
+SENT: I would meanwhile , mix ketchup and corn syrup in a small bowl to make a glaze .
+
+SENTID: 6
+SENT: I would remove the baking dish from the oven and remove foil .
+PREDID: 277
+PRED: remove
+   DOBJ: the baking dish from the oven
+      NON-INGREDIENT SPAN: the baking dish from the oven
+
+PREDID: 310
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 7
+SENT: I would brush the glaze onto the loaves .
+PREDID: 318
+PRED: brush
+   DOBJ: the glaze
+      NON-INGREDIENT SPAN: the glaze
+   PARG: the loaves
+     PREP: onto
+      NON-INGREDIENT SPAN: the loaves
+
+
+SENTID: 8
+SENT: I would return baking dish to the oven uncovered , and continue the baking until loaves are no longer pink in the center , 15 to 20 minutes .
+PREDID: 342
+PRED: return
+   DOBJ: baking dish
+      NON-INGREDIENT SPAN: baking dish
+   PARG: the oven uncovered
+     PREP: to
+      NON-INGREDIENT SPAN: the oven uncovered
+
+PREDID: 380
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: loaves are no longer pink in the center , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: loaves are no longer pink in the center 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 9
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

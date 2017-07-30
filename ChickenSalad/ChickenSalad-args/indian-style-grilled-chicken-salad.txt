@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat, lightly oil grate
+      INGREDIENT SPAN:  lightly oil grate
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would combine the hot sauce , chili powder , the coriander , tandoori paste , the oregano , the vinegar , lemon juice , and oil in a small bowl .
+PREDID: 51
+PRED: combine
+   DOBJ: the hot sauce , chili powder , the coriander , tandoori paste , the oregano , the vinegar , lemon juice , oil in a small bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  tandoori paste 
+         INGREDIENTS: tandoori paste
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: ground oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the hot sauce 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  oil in a small bowl
+
+
+SENTID: 2
+SENT: I would coat each piece of chicken with the sauce ,
+PREDID: 152
+PRED: coat
+   DOBJ: each piece of chicken
+      INGREDIENT SPAN: each piece of chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the sauce
+     PREP: with
+      NON-INGREDIENT SPAN: the sauce
+
+
+SENTID: 3
+SENT: I would discard the remaining sauce .
+PREDID: 187
+PRED: discard
+   DOBJ: the remaining sauce
+      NON-INGREDIENT SPAN: the remaining sauce
+
+
+SENTID: 4
+SENT: I would cook the chicken on the grill until juices run clear and the chicken is cooked through , approximately 10 to 15 minutes .
+PREDID: 209
+PRED: cook
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+   PARG: juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: juices run clear
+
+PREDID: 267
+PRED: is cooked
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+   OARG: approximately 10 to 15 minutes
+      NON-INGREDIENT SPAN: approximately 10 to 15 minutes
+
+
+SENTID: 5
+SENT: I would set chicken aside .
+PREDID: 308
+PRED: set
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would prepare the dressing by mixing the lemon juice , the vinegar , hot sauce , the salt and pepper in a small bowl ;
+PREDID: 324
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: mixing the lemon juice , the vinegar , hot sauce , the salt, pepper in a small bowl
+     PREP: by
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper in a small bowl
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the vinegar 
+      NON-INGREDIENT SPAN: mixing the lemon juice 
+      NON-INGREDIENT SPAN:  hot sauce 
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 407
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: For the salad , I would combine the lettuce , the tomatoes , the onion , the radishes , the carrots , and pepper in a large bowl .
+PREDID: 428
+PRED: combine
+   DOBJ: the lettuce , the tomatoes , the onion , the radishes , the carrots , pepper in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion sliced
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: sliced carrots
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ripe tomatoes chopped
+      INGREDIENT SPAN: the lettuce 
+         INGREDIENTS: chopped lettuce
+      INGREDIENT SPAN:  pepper in a large bowl
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: sliced radishes
+   PARG: the salad
+     PREP: for
+      NON-INGREDIENT SPAN: the salad
+
+
+SENTID: 9
+SENT: I would slice the cooked chicken and add to the salad .
+PREDID: 500
+PRED: slice
+   DOBJ: the cooked chicken
+      NON-INGREDIENT SPAN: the cooked chicken
+
+PREDID: 524
+PRED: add
+   DOBJ: NULL
+   PARG: the salad
+     PREP: to
+      NON-INGREDIENT SPAN: the salad
+
+
+SENTID: 10
+SENT: I would toss gently with the dressing .
+PREDID: 538
+PRED: toss
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

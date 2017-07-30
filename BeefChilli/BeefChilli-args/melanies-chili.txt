@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: In a large saucepan over medium-high heat , I would cook beef and onion until meat is no longer pink .
+PREDID: 36
+PRED: cook
+   DOBJ: beef, onion
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: a large saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium-high heat
+   PARG: meat is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: meat is no longer pink
+
+
+SENTID: 1
+SENT: I would stir in tomatoes , tomato sauce , the beans , chili powder , the cumin , cayenne and garlic .
+PREDID: 76
+PRED: stir
+   DOBJ: NULL
+   PARG: tomatoes , tomato sauce , the beans , chili powder , the cumin , cayenne, garlic
+     PREP: in
+      INGREDIENT SPAN:  cayenne
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce pinto beans
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+
+
+SENTID: 2
+SENT: I would cover , reduce heat and simmer 20 minutes .
+PREDID: 144
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 163
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+

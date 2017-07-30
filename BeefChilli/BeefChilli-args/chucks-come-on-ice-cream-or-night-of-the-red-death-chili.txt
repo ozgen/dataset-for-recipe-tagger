@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: To Marinate :
+
+SENTID: 1
+SENT: The day before preparing the chili , in a large bowl mix together the sage , thyme , basil , marjoram , cumin , chili powder , garlic powder , salt , black pepper and cayenne pepper .
+
+SENTID: 2
+SENT: I would cut beef and pork into 1/2 inch cubes and add to bowl .
+PREDID: 11
+PRED: cut
+   DOBJ: beef, pork
+      INGREDIENT SPAN: beef
+         INGREDIENTS: beef sirloin
+      INGREDIENT SPAN:  pork
+         INGREDIENTS: pork sirloin
+   PARG: 1/2 inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch cubes
+
+PREDID: 44
+PRED: add
+   DOBJ: NULL
+   PARG: bowl
+     PREP: to
+      NON-INGREDIENT SPAN: bowl
+
+
+SENTID: 3
+SENT: I would mix meat and seasoning together , cover bowl and refrigerate overnight .
+PREDID: 54
+PRED: mix
+   DOBJ: meat, seasoning
+      INGREDIENT SPAN: meat
+         INGREDIENTS: MEAT SEASONING
+      NON-INGREDIENT SPAN:  seasoning
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 82
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 94
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 4
+SENT: To Make Chili :
+
+SENTID: 5
+SENT: I would begin to heat tomatoes , tomato sauce , the salsa and 2 teaspoons chili powder in a large pot over medium low heat .
+PREDID: 127
+PRED: begin
+   DOBJ: NULL
+   OARG: to heat tomatoes , tomato sauce , the salsa, 2 teaspoons chili powder in a large pot over medium low heat
+      INGREDIENT SPAN: to heat tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes chopped
+      INGREDIENT SPAN:  2 teaspoons chili powder in a large pot over medium low heat
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the salsa
+         INGREDIENTS: ounce jar salsa
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 6
+SENT: I would meanwhile , heat bacon grease in a large skillet over medium heat .
+PREDID: 227
+PRED: heat
+   DOBJ: bacon grease in a large skillet over medium heat
+      INGREDIENT SPAN: bacon grease in a large skillet over medium heat
+         INGREDIENTS: bacon grease
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 7
+SENT: I would add jalapeno peppers and saute until soft , 1 to 2 minutes ,
+PREDID: 272
+PRED: add
+   DOBJ: jalapeno peppers
+      INGREDIENT SPAN: jalapeno peppers
+         INGREDIENTS: ground black pepper
+
+PREDID: 293
+PRED: saute
+   DOBJ: NULL
+   PARG: soft , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: soft 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 8
+SENT: I would add them to large pot .
+PREDID: 320
+PRED: add
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: large pot
+     PREP: to
+      NON-INGREDIENT SPAN: large pot
+
+
+SENTID: 9
+SENT: In same skillet fry beef and pork with onion and garlic , I would in small batches , about 15 to 20 minutes each .
+
+SENTID: 10
+SENT: As each batch is done add to large pot .
+PREDID: 355
+PRED: is done add
+   DOBJ: NULL
+   PARG: i would large pot
+     PREP: to
+      NON-INGREDIENT SPAN: i would large pot
+   OARG: as
+      NON-INGREDIENT SPAN: as
+   OARG: each batch
+      NON-INGREDIENT SPAN: each batch
+
+
+SENTID: 11
+SENT: When all ingredients are in the large pot , season with salt to taste .
+PREDID: 404
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+   OARG: when all ingredients are in the large pot
+      NON-INGREDIENT SPAN: when all ingredients are in the large pot
+
+
+SENTID: 12
+SENT: I would bring to a boil .
+PREDID: 426
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 13
+SENT: I would cover , reduce heat to medium low and simmer for about 3 hours .
+PREDID: 439
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+PREDID: 469
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: about 3 hours
+
+
+SENTID: 14
+SENT: After eating chili , I would eat ice cream and say `` Come on , ice cream ! ''
+PREDID: 507
+PRED: eat
+   DOBJ: ice cream
+      INGREDIENT SPAN: ice cream
+         INGREDIENTS: ice cream flavor
+   PARG: eating chili
+     PREP: after
+      INGREDIENT SPAN: eating chili
+         INGREDIENTS: CHILI
+
+PREDID: 521
+PRED: say Come
+   DOBJ: ice cream
+      NON-INGREDIENT SPAN: ice cream
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+

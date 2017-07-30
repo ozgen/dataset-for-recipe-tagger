@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the mayonnaise , the chutney , curry powder , lime zest , lime juice and salt .
+PREDID: 13
+PRED: whisk
+   DOBJ: the mayonnaise , the chutney , curry powder , lime zest , lime juice, salt
+      INGREDIENT SPAN:  lime juice
+         INGREDIENTS: lime
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lime zest 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: chutney
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add chicken and toss with the dressing until well coated .
+PREDID: 86
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: diced cooked chicken breast meat
+
+PREDID: 99
+PRED: toss
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 2
+SENT: I would add more mayonnaise to taste , if desired .
+PREDID: 134
+PRED: add
+   DOBJ: more mayonnaise
+      NON-INGREDIENT SPAN: more mayonnaise
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 3
+SENT: I would cover and refrigerate until serving .
+PREDID: 169
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

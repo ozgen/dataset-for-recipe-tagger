@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would combine the ground beef , the pickles , the onion , Parmesan cheese , the mayonnaise , the ketchup , the garlic , the salt , and pepper in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the ground beef , the pickles , the onion , Parmesan cheese , the mayonnaise , the ketchup , the garlic , the salt , pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion minced
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: small dill pickles minced
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      NON-INGREDIENT SPAN:  pepper in a bowl
+
+
+SENTID: 1
+SENT: I would form the mixture into 4 patties .
+PREDID: 98
+PRED: form
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: 4 patties
+     PREP: into
+      NON-INGREDIENT SPAN: 4 patties
+
+
+SENTID: 2
+SENT: I would heat the olive oil in a skillet over medium heat .
+PREDID: 125
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook the hamburger patties in the hot oil until the burgers are cooked to your desired degree of doneness , 8 to 10 minutes for well done .
+PREDID: 165
+PRED: cook
+   DOBJ: the hamburger patties
+      NON-INGREDIENT SPAN: the hamburger patties
+   PARG: the hot oil
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil
+   PARG: the burgers are cooked to your desired degree of doneness , 8 to 10 minutes for well done
+     PREP: until
+      NON-INGREDIENT SPAN:  8 to 10 minutes for well done
+      NON-INGREDIENT SPAN: the burgers are cooked to your desired degree of doneness 
+
+
+SENTID: 4
+SENT: I would line a baking sheet with parchment paper , and set aside .
+PREDID: 277
+PRED: line
+   DOBJ: a baking sheet with parchment paper
+      NON-INGREDIENT SPAN: a baking sheet with parchment paper
+
+PREDID: 315
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would cover a flat surface with the flour .
+PREDID: 324
+PRED: cover
+   DOBJ: a flat surface
+      NON-INGREDIENT SPAN: a flat surface
+   PARG: the flour
+     PREP: with
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 6
+SENT: I would divide the bread dough into 4 even pieces ;
+PREDID: 354
+PRED: divide
+   DOBJ: the bread dough
+      INGREDIENT SPAN: the bread dough
+         INGREDIENTS: frozen bread dough
+   PARG: 4 even pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 4 even pieces
+
+
+SENTID: 7
+SENT: I would roll each piece into a flattened rectangle on the floured surface at least twice the size of the American cheese slices .
+PREDID: 389
+PRED: roll
+   DOBJ: each piece into a flattened rectangle on the floured surface at least twice the size of the American cheese slices
+      INGREDIENT SPAN: each piece into a flattened rectangle on the floured surface at least twice the size of the American cheese slices
+         INGREDIENTS: slices American cheese
+
+
+SENTID: 8
+SENT: I would place one slice of American cheese on each piece of dough ;
+PREDID: 489
+PRED: place
+   DOBJ: one slice of American cheese
+      INGREDIENT SPAN: one slice of American cheese
+         INGREDIENTS: slices American cheese
+   PARG: each piece of dough
+     PREP: on
+      NON-INGREDIENT SPAN: each piece of dough
+
+
+SENTID: 9
+SENT: I would top each with one of the cooked patties and another slice of American cheese .
+PREDID: 537
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: one of the cooked patties, another slice of american cheese
+     PREP: with
+      INGREDIENT SPAN:  another slice of american cheese
+         INGREDIENTS: slices American cheese
+      NON-INGREDIENT SPAN: one of the cooked patties
+
+
+SENTID: 10
+SENT: I would fold the dough over the top of the meat and cheese .
+PREDID: 601
+PRED: fold
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: the top of the meat, cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the meat
+      NON-INGREDIENT SPAN:  cheese
+
+
+SENTID: 11
+SENT: I would pinch the dough around the edges to seal completely .
+PREDID: 642
+PRED: pinch
+   DOBJ: the dough around the edges
+      NON-INGREDIENT SPAN: the dough around the edges
+   OARG: to seal completely
+      NON-INGREDIENT SPAN: to seal completely
+
+
+SENTID: 12
+SENT: I would arrange on the prepared baking sheet with the seam side facing downward .
+PREDID: 686
+PRED: arrange
+   DOBJ: the prepared baking sheet
+      NON-INGREDIENT SPAN: the prepared baking sheet
+   PARG: the seam side facing downward
+     PREP: with
+      NON-INGREDIENT SPAN: the seam side facing downward
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+
+SENTID: 13
+SENT: I would brush the tops with the melted butter ;
+PREDID: 747
+PRED: brush
+   DOBJ: the tops
+      NON-INGREDIENT SPAN: the tops
+   PARG: the melted butter
+     PREP: with
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: melted butter
+
+
+SENTID: 14
+SENT: I would move to a warm area and allow to rise for 20 minutes .
+PREDID: 779
+PRED: move
+   DOBJ: NULL
+   PARG: a warm area
+     PREP: to
+      NON-INGREDIENT SPAN: a warm area
+
+PREDID: 797
+PRED: allow
+   DOBJ: NULL
+   OARG: to rise for 20 minutes
+      NON-INGREDIENT SPAN: to rise for 20 minutes
+
+
+SENTID: 15
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 821
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 16
+SENT: I would bake in the preheated oven until the bread has browned , about 20 minutes .
+PREDID: 861
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the bread has browned , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the bread has browned 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

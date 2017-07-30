@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would dredge steak in flour , the salt and pepper .
+PREDID: 0
+PRED: dredge
+   DOBJ: steak
+      INGREDIENT SPAN: steak
+         INGREDIENTS: round steak cut
+   PARG: flour , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: sliced green bell pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 1
+SENT: I would heat a large skillet on medium high heat .
+PREDID: 33
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium high heat
+     PREP: on
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 2
+SENT: I would add oil to hot pan .
+PREDID: 67
+PRED: add
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: hot pan
+     PREP: to
+      NON-INGREDIENT SPAN: hot pan
+
+
+SENTID: 3
+SENT: I would add meat and saute until browned .
+PREDID: 82
+PRED: add
+   DOBJ: meat, saute
+      NON-INGREDIENT SPAN:  saute
+      NON-INGREDIENT SPAN: meat
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 4
+SENT: I would stir in onion and saute .
+PREDID: 110
+PRED: stir
+   DOBJ: NULL
+   PARG: onion, saute
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+      NON-INGREDIENT SPAN:  saute
+
+
+SENTID: 5
+SENT: I would stir in marinara sauce and wine and bring to boil .
+PREDID: 130
+PRED: stir
+   DOBJ: NULL
+   PARG: marinara sauce, wine
+     PREP: in
+      INGREDIENT SPAN: marinara sauce
+         INGREDIENTS: ounce jars spaghetti sauce
+      INGREDIENT SPAN:  wine
+         INGREDIENTS: red wine
+
+PREDID: 159
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 6
+SENT: I would add celery and green pepper ;
+PREDID: 171
+PRED: add
+   DOBJ: celery, green pepper
+      INGREDIENT SPAN: celery
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 7
+SENT: I would stir .
+PREDID: 195
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would reduce heat , the cover and simmer for 45 minutes .
+PREDID: 200
+PRED: reduce
+   DOBJ: heat , the cover, simmer
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN:  the cover
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 9
+SENT: I would heat a large pot of water to a boil and cook noodles until al dente .
+PREDID: 238
+PRED: heat
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil, cook noodles
+     PREP: to
+      INGREDIENT SPAN:  cook noodles
+         INGREDIENTS: ounce package egg noodles
+      NON-INGREDIENT SPAN: a boil
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 10
+SENT: I would remove from heat and drain .
+PREDID: 292
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, drain
+     PREP: from
+      NON-INGREDIENT SPAN:  drain
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 11
+SENT: I would serve meat sauce over noodles .
+PREDID: 315
+PRED: serve
+   DOBJ: meat sauce
+      NON-INGREDIENT SPAN: meat sauce
+   PARG: noodles
+     PREP: over
+      NON-INGREDIENT SPAN: noodles
+
+

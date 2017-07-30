@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would stir the ground beef , crushed crackers , Cheddar cheese , and onion soup mix in a large bowl until well combined .
+PREDID: 38
+PRED: stir
+   DOBJ: the ground beef , crushed crackers , Cheddar cheese , onion soup mix in a large bowl
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  onion soup mix in a large bowl
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  crushed crackers 
+         INGREDIENTS: crushed buttery round crackers
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 2
+SENT: I would whisk the eggs , the ketchup , and steak sauce in a separate bowl until smooth .
+PREDID: 131
+PRED: whisk
+   DOBJ: the eggs , the ketchup , steak sauce in a separate bowl
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  steak sauce in a separate bowl
+         INGREDIENTS: steak sauce
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would mix the eggs into the meat until evenly combined , if the mixture seems too dry , add a little water .
+PREDID: 192
+PRED: mix
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the meat
+     PREP: into
+      NON-INGREDIENT SPAN: the meat
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+   PARG: the mixture seems too dry
+     PREP: if
+      NON-INGREDIENT SPAN: the mixture seems too dry
+
+
+SENTID: 4
+SENT: I would press into a 9x5 inch loaf pan .
+PREDID: 273
+PRED: press
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 5
+SENT: I would bake in preheated oven until the meatloaf reaches 160 degrees F -LRB- 71 degrees C -RRB- and is no longer pink in the center , 45 to 60 minutes .
+PREDID: 298
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the meatloaf reaches 160 degrees f -lrb- 71 degrees c -rrb-, is no longer pink in the center , 45 to 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the meatloaf reaches 160 degrees f -lrb- 71 degrees c -rrb-
+      NON-INGREDIENT SPAN:  is no longer pink in the center 
+      NON-INGREDIENT SPAN:  45 to 60 minutes
+
+

@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="beat
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="spread
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="set
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="combine
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="mix
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="pour
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="bake
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="cool
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="brush
+12", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees f -lrb- 175 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1[label="DOBJ: white sugar, vanilla extract, package cream cheese", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:in a small mixing bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D7[label="DOBJ: pumpkin puree, evaporated milk, ground nutmeg, white sugar, ground cinnamon, ground ginger, egg, salt", shape=box, style=filled, fillcolor=peachpuff]
+D7 -> E7
+P7_0[label="LOCOROBJ:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P7_0 -> E7
+E1 -> E2 [label="IMPLICIT DOBJ"]
+D3_ing[label="DOBJ: egg", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="OTHER:until thoroughly combined", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: onto inch pie shell", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+E8 -> E9 [label="the mixture"]
+E6 -> E9 [label="LOCOROBJ:over the cream cheese layer"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+E0 -> E10 [label="IMPLICIT PREP"]
+P10_1_0[label="DURATION:in preheated oven for 1 hour or until set in center", shape=box, style=filled, fillcolor=white]
+P10_1_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E11 -> E12 [label="top"]
+P12_0_ing[label="COOBJECT: with maple syrup", shape=box, style=filled, fillcolor=peachpuff]
+P12_0_ing -> E12
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

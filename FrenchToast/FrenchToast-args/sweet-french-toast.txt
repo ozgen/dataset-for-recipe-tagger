@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: In a medium bowl , I would beat together the eggs , the milk , maple syrup , the vanilla , and cinnamon .
+PREDID: 14
+PRED: beat
+   DOBJ: the eggs , the milk , maple syrup , the vanilla , cinnamon
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would take a small handful of cornflakes and crumble them into the mixture .
+PREDID: 70
+PRED: take
+   DOBJ: a small handful of cornflakes
+      INGREDIENT SPAN: a small handful of cornflakes
+         INGREDIENTS: cornflakes cereal crumbled
+
+PREDID: 102
+PRED: crumble
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 2
+SENT: I would stir well .
+PREDID: 128
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would soak the bread slices in the mixture for about 2 to 3 minutes .
+PREDID: 137
+PRED: soak
+   DOBJ: the bread slices
+      INGREDIENT SPAN: the bread slices
+         INGREDIENTS: slices white bread
+   PARG: the mixture for about 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the mixture for about 2 to 3 minutes
+
+
+SENTID: 4
+SENT: I would heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 187
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium high heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium high heat
+
+
+SENTID: 5
+SENT: I would place the bread slices in the pan ;
+PREDID: 241
+PRED: place
+   DOBJ: the bread slices
+      NON-INGREDIENT SPAN: the bread slices
+   PARG: the pan
+     PREP: in
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 6
+SENT: I would brown on both sides .
+PREDID: 269
+PRED: brown
+   DOBJ: NULL
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+
+
+SENTID: 7
+SENT: I would sprinkle with confectioners ' sugar ;
+PREDID: 286
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar dusting
+
+
+SENTID: 8
+SENT: I would serve hot .
+PREDID: 318
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

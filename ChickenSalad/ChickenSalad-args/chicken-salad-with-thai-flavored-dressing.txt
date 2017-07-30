@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix chicken , the celery , green onions and peanuts .
+PREDID: 14
+PRED: mix
+   DOBJ: chicken , the celery , green onions, peanuts
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: medium green onions sliced thin
+      INGREDIENT SPAN:  peanuts
+         INGREDIENTS: chopped honeyroasted peanuts
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: rotisserie chicken skinned boned meat shredded bitesized
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: medium celery ribs cut small dice
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 1
+SENT: In a small bowl , I would whisk lime juice , fish sauce , the ginger , the sugar , red pepper , the cilantro and mint , plus 2 Tbs .
+PREDID: 67
+PRED: whisk
+   DOBJ: lime juice , fish sauce , the ginger , the sugar , red pepper , the cilantro, mint , plus 2 Tbs
+      INGREDIENT SPAN:  mint 
+         INGREDIENTS: chopped fresh mint leaves
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: minced fresh cilantro leaves
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: hot red pepper flakes
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: Asian fish sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  plus 2 Tbs
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 2
+SENT: I would water .
+PREDID: 140
+PRED: water
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would toss the dressing with chicken mixture and serve on a bed of Boston lettuce with the suggested accompaniments .
+PREDID: 146
+PRED: toss
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: chicken mixture
+
+PREDID: 182
+PRED: serve
+   DOBJ: NULL
+   PARG: a bed of boston lettuce
+     PREP: on
+      INGREDIENT SPAN: a bed of boston lettuce
+         INGREDIENTS: Boston lettuce
+   PARG: the suggested accompaniments
+     PREP: with
+      NON-INGREDIENT SPAN: the suggested accompaniments
+
+

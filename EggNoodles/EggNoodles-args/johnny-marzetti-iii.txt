@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook pasta until al dente .
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 55
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , in a large skillet cook ground beef until no pink remains .
+PREDID: 61
+PRED: meanwhile
+   DOBJ: NULL
+   PARG: a large skillet cook ground beef
+     PREP: in
+      INGREDIENT SPAN: a large skillet cook ground beef
+         INGREDIENTS: lean ground beef
+   PARG: no pink remains
+     PREP: until
+      NON-INGREDIENT SPAN: no pink remains
+
+
+SENTID: 3
+SENT: I would add onions and celery and cook until they are softened .
+PREDID: 119
+PRED: add
+   DOBJ: onions, celery
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+
+PREDID: 140
+PRED: cook
+   DOBJ: NULL
+   PARG: they are softened
+     PREP: until
+      NON-INGREDIENT SPAN: they are softened
+
+
+SENTID: 4
+SENT: I would add salt and pepper to taste .
+PREDID: 165
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: I would stir in tomato soup , tomato sauce , and water .
+PREDID: 189
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato soup , tomato sauce , water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+
+
+SENTID: 6
+SENT: I would simmer for 10 minutes .
+PREDID: 227
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 7
+SENT: In a casserole dish , I would mix together the cooked and drained pasta with the meat mixture .
+PREDID: 263
+PRED: mix
+   DOBJ: the cooked, drained pasta with the meat mixture
+      INGREDIENT SPAN:  drained pasta with the meat mixture
+         INGREDIENTS: pasta
+      NON-INGREDIENT SPAN: the cooked
+   PARG: a casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a casserole dish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would bake in a preheated 350 degree F -LRB- 175 degree C -RRB- oven for 20 to 30 minutes .
+PREDID: 317
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degree f -lrb- 175 degree c -rrb- oven for 20 to 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degree f -lrb- 175 degree c -rrb- oven for 20 to 30 minutes
+
+
+SENTID: 9
+SENT: I would sprinkle the top with grated Cheddar cheese and continue to cook until cheese is melted , about 3 to 5 minutes .
+PREDID: 376
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: grated cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: grated cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+
+PREDID: 416
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until cheese is melted , about 3 to 5 minutes
+      NON-INGREDIENT SPAN:  about 3 to 5 minutes
+      NON-INGREDIENT SPAN: to cook until cheese is melted 
+
+

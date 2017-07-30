@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: In a large bowl , I would beat together eggs , orange juice , the milk , the sugar , nutmeg and vanilla extract .
+PREDID: 13
+PRED: beat
+   DOBJ: eggs , orange juice , the milk , the sugar , nutmeg, vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: nutmeg
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  orange juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place bread slices in a tightly spaced single layer in the bottom of a flat dish or baking pan .
+PREDID: 77
+PRED: place
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: pound loaf Italian bread cut inch slices
+   PARG: a tightly spaced single layer in the bottom of a flat dish or baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a tightly spaced single layer in the bottom of a flat dish or baking pan
+
+
+SENTID: 2
+SENT: I would pour milk mixture over bread , cover and refrigerate overnight , turning once .
+PREDID: 154
+PRED: pour
+   DOBJ: milk mixture
+      NON-INGREDIENT SPAN: milk mixture
+   PARG: bread
+     PREP: over
+      NON-INGREDIENT SPAN: bread
+
+PREDID: 187
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+   OARG: turning once
+      NON-INGREDIENT SPAN: turning once
+
+
+SENTID: 3
+SENT: When ready to cook , preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+
+SENTID: 4
+SENT: I would coat a jelly roll pan , or rimmed baking sheet , evenly with the melted butter .
+PREDID: 274
+PRED: coat
+   DOBJ: NULL
+   PARG: the melted butter
+     PREP: with
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: butter melted
+   OARG: a jelly roll pan , or rimmed baking sheet , evenly
+      NON-INGREDIENT SPAN:  or rimmed baking sheet 
+      NON-INGREDIENT SPAN: a jelly roll pan 
+      NON-INGREDIENT SPAN:  evenly
+
+
+SENTID: 5
+SENT: I would arrange soaked bread slices in a single layer on pan .
+PREDID: 338
+PRED: arrange
+   DOBJ: soaked bread slices
+      NON-INGREDIENT SPAN: soaked bread slices
+   PARG: a single layer on pan
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer on pan
+
+
+SENTID: 6
+SENT: I would sprinkle evenly with orange peel and pecans .
+PREDID: 382
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: orange peel, pecans
+     PREP: with
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      NON-INGREDIENT SPAN: orange peel
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until golden , 20 to 25 minutes .
+PREDID: 420
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: golden , 20 to 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden 
+      NON-INGREDIENT SPAN:  20 to 25 minutes
+
+
+SENTID: 8
+SENT: I would check slices during last 10 minutes of baking time to avoid burning .
+PREDID: 465
+PRED: check
+   DOBJ: slices
+      NON-INGREDIENT SPAN: slices
+   PARG: last 10 minutes of baking time
+     PREP: during
+      NON-INGREDIENT SPAN: last 10 minutes of baking time
+   OARG: to avoid burning
+      NON-INGREDIENT SPAN: to avoid burning
+
+

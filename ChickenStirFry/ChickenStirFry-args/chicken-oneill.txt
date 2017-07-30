@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: I would marinate chicken in salad dressing to cover , for at least 1 hour .
+PREDID: 0
+PRED: marinate
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cubed
+   PARG: salad dressing to cover , for at least 1 hour
+     PREP: in
+      INGREDIENT SPAN: salad dressing to cover 
+         INGREDIENTS: Italianstyle salad dressing
+      NON-INGREDIENT SPAN:  for at least 1 hour
+
+
+SENTID: 1
+SENT: I would heat the chicken with Cajun blackening spice in olive oil .
+PREDID: 54
+PRED: heat
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: cajun blackening spice in olive oil
+     PREP: with
+      INGREDIENT SPAN: cajun blackening spice in olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 2
+SENT: I would add crushed garlic , bell peppers , the onion , the mushrooms , the wine and salt and pepper to taste .
+PREDID: 103
+PRED: add
+   DOBJ: crushed garlic , bell peppers , the onion , the mushrooms , the wine, salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper sliced
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the wine
+         INGREDIENTS: white wine
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: fresh mushrooms sliced
+      INGREDIENT SPAN: crushed garlic 
+         INGREDIENTS: cloves crushed garlic
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would saute until tender .
+PREDID: 176
+PRED: saute
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 4
+SENT: I would add chopped plum tomatoes and chopped fresh parsley to taste .
+PREDID: 193
+PRED: add
+   DOBJ: chopped plum tomatoes
+      INGREDIENT SPAN: chopped plum tomatoes
+         INGREDIENTS: roma plum tomatoes chopped
+
+PREDID: 218
+PRED: chopped
+   DOBJ: fresh parsley
+      INGREDIENT SPAN: fresh parsley
+         INGREDIENTS: chopped fresh parsley
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: I would serve .
+PREDID: 245
+PRED: serve
+   DOBJ: NULL
+
+

@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together cabbage , the jicama , the carrots and cilantro .
+PREDID: 13
+PRED: toss
+   DOBJ: cabbage , the jicama , the carrots, cilantro
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: shredded jicama
+      INGREDIENT SPAN:  the carrots
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: shredded red cabbage
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk together ponzu , sesame oil , orange juice and ginger ;
+PREDID: 59
+PRED: whisk
+   DOBJ: ponzu , sesame oil , orange juice, ginger
+      INGREDIENT SPAN: ponzu 
+         INGREDIENTS: Kikkoman Lime Ponzu
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  orange juice
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: grated ginger
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over cabbage mixture and toss together .
+PREDID: 109
+PRED: pour
+   DOBJ: NULL
+   PARG: cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: cabbage mixture
+
+PREDID: 134
+PRED: toss
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would sprinkle with candied walnuts .
+PREDID: 147
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: candied walnuts
+     PREP: with
+      INGREDIENT SPAN: candied walnuts
+         INGREDIENTS: walnuts
+
+
+SENTID: 4
+SENT: To make candied walnuts , place 1 cup walnuts and 1/2 cup sugar in a skillet over medium heat .
+PREDID: 176
+PRED: make
+   DOBJ: candied walnuts
+      NON-INGREDIENT SPAN: candied walnuts
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 195
+PRED: place
+   DOBJ: 1 cup walnuts, 1/2 cup sugar in a skillet over medium heat
+      INGREDIENT SPAN:  1/2 cup sugar in a skillet over medium heat
+         INGREDIENTS: sugar
+      NON-INGREDIENT SPAN: 1 cup walnuts
+
+
+SENTID: 5
+SENT: I would cook , stirring constantly , until sugar dissolves and turns light brown .
+PREDID: 250
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring constantly , until sugar dissolves, turns light brown
+      INGREDIENT SPAN:  until sugar dissolves
+         INGREDIENTS: sugar
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  turns light brown
+
+
+SENTID: 6
+SENT: I would toss to coat walnuts .
+PREDID: 312
+PRED: toss
+   DOBJ: NULL
+   PARG: coat walnuts
+     PREP: to
+      NON-INGREDIENT SPAN: coat walnuts
+
+
+SENTID: 7
+SENT: I would remove skillet from heat ;
+PREDID: 330
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 8
+SENT: I would stir in 1/2 teaspoon vanilla and 1/2 teaspoon cinnamon .
+PREDID: 352
+PRED: stir
+   DOBJ: NULL
+   PARG: 1/2 teaspoon vanilla, 1/2 teaspoon cinnamon
+     PREP: in
+      INGREDIENT SPAN:  1/2 teaspoon cinnamon
+         INGREDIENTS: cinnamon
+      INGREDIENT SPAN: 1/2 teaspoon vanilla
+         INGREDIENTS: vanilla
+
+
+SENTID: 9
+SENT: I would spread walnuts on aluminum foil to cool .
+PREDID: 399
+PRED: spread
+   DOBJ: walnuts on aluminum foil
+      NON-INGREDIENT SPAN: walnuts on aluminum foil
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+

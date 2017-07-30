@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: I would place 2 tablespoons of oil in a large pot and place the pot over medium heat .
+PREDID: 0
+PRED: place
+   DOBJ: 2 tablespoons of oil
+      INGREDIENT SPAN: 2 tablespoons of oil
+         INGREDIENTS: vegetable oil divided
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 36
+PRED: place
+   DOBJ: the pot over medium heat
+      NON-INGREDIENT SPAN: the pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir the onions , the garlic , the beef and sausage until meats are browned .
+PREDID: 62
+PRED: cook and stir
+   DOBJ: the onions , the garlic , the beef, sausage
+      INGREDIENT SPAN:  sausage
+         INGREDIENTS: spicy Italian sausage casing removed
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  the beef
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: meats are browned
+     PREP: until
+      NON-INGREDIENT SPAN: meats are browned
+
+
+SENTID: 2
+SENT: I would pour in the tomatoes , the beer , the coffee , tomato paste and broth .
+PREDID: 125
+PRED: pour
+   DOBJ: NULL
+   PARG: the tomatoes , the beer , the coffee , tomato paste, broth
+     PREP: in
+      INGREDIENT SPAN:  broth
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  the coffee 
+         INGREDIENTS: strong brewed coffee
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes juice
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle dark beer
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 3
+SENT: I would season with chili powder , the cumin , the sugar , the oregano , the cayenne , the coriander , the salt and wasabi .
+PREDID: 175
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , the cumin , the sugar , the oregano , the cayenne , the coriander , the salt, wasabi
+     PREP: with
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  wasabi
+         INGREDIENTS: wasabi paste
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the cayenne 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 4
+SENT: I would stir in one can of beans , bring to a boil ,
+PREDID: 249
+PRED: stir
+   DOBJ: NULL
+   PARG: one can of beans
+     PREP: in
+      INGREDIENT SPAN: one can of beans
+         INGREDIENTS: ounce kidney beans
+
+PREDID: 269
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat , the cover and simmer .
+PREDID: 282
+PRED: reduce
+   DOBJ: heat , the cover, simmer
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN:  the cover
+
+
+SENTID: 6
+SENT: In a large skillet over medium heat , I would heat the remaining oil .
+PREDID: 338
+PRED: heat
+   DOBJ: the remaining oil
+      INGREDIENT SPAN: the remaining oil
+         INGREDIENTS: vegetable oil divided
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 7
+SENT: I would cook Anaheim , the serrano and habanero peppers in oil until just tender , 5 to 10 minutes .
+PREDID: 355
+PRED: cook
+   DOBJ: Anaheim , the serrano, habanero peppers
+      INGREDIENT SPAN:  the serrano
+         INGREDIENTS: serrano pepper chopped
+      INGREDIENT SPAN: Anaheim 
+         INGREDIENTS: Anaheim chile peppers chopped
+      INGREDIENT SPAN:  habanero peppers
+         INGREDIENTS: habanero pepper sliced
+   PARG: oil
+     PREP: in
+      NON-INGREDIENT SPAN: oil
+   PARG: just tender , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+      NON-INGREDIENT SPAN: just tender 
+
+
+SENTID: 8
+SENT: I would stir into the pot and simmer 2 hours .
+PREDID: 426
+PRED: stir
+   DOBJ: NULL
+   PARG: the pot, simmer 2 hours
+     PREP: into
+      NON-INGREDIENT SPAN:  simmer 2 hours
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 9
+SENT: I would stir in remaining 2 cans of beans and cook 45 minutes more .
+PREDID: 456
+PRED: stir
+   DOBJ: NULL
+   PARG: remaining 2 cans of beans
+     PREP: in
+      INGREDIENT SPAN: remaining 2 cans of beans
+         INGREDIENTS: ounce kidney beans
+
+PREDID: 486
+PRED: cook
+   DOBJ: NULL
+   OARG: 45 minutes more
+      NON-INGREDIENT SPAN: 45 minutes more
+
+

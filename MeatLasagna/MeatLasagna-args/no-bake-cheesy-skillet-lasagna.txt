@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: In 12-inch skillet , I would cook sausage over medium-high heat 5 to 7 minutes , stirring occasionally , until no longer pink ;
+PREDID: 17
+PRED: cook
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: bulk Italian pork sausage
+   PARG: 12-inch skillet
+     PREP: in
+      NON-INGREDIENT SPAN: 12-inch skillet
+   PARG: medium-high heat 5 to 7 minutes , stirring occasionally , until no longer pink
+     PREP: over
+      NON-INGREDIENT SPAN:  until no longer pink
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: medium-high heat 5 to 7 minutes 
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 98
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir in 1?1/2 cups water , cooking sauce and noodles .
+PREDID: 104
+PRED: stir
+   DOBJ: water , cooking sauce, noodles
+      INGREDIENT SPAN:  cooking sauce
+         INGREDIENTS: ounce Progresso Recipe Starters creamy cheese cooking sauce
+      INGREDIENT SPAN:  noodles
+         INGREDIENTS: uncooked mini lasagna mafalda noodles medium egg noodles
+      NON-INGREDIENT SPAN: water 
+   PARG: 1?1/2 cups
+     PREP: in
+      NON-INGREDIENT SPAN: 1?1/2 cups
+
+
+SENTID: 3
+SENT: I would heat to boiling , stirring occasionally .
+PREDID: 148
+PRED: heat
+   DOBJ: NULL
+   PARG: boiling , stirring occasionally
+     PREP: to
+      NON-INGREDIENT SPAN: boiling 
+      NON-INGREDIENT SPAN:  stirring occasionally
+
+
+SENTID: 4
+SENT: I would reduce heat to medium .
+PREDID: 183
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 5
+SENT: I would simmer uncovered about 10 minutes , stirring occasionally , until pasta is tender .
+PREDID: 202
+PRED: simmer
+   DOBJ: NULL
+
+PREDID: 208
+PRED: uncovered
+   DOBJ: NULL
+   PARG: about 10 minutes , stirring occasionally , until pasta is tender
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until pasta is tender
+
+
+SENTID: 6
+SENT: I would remove from heat ;
+PREDID: 272
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would sprinkle with cheese .
+PREDID: 287
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 8
+SENT: I would cover ;
+PREDID: 306
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would let stand 2 to 3 minutes or until cheese is melted .
+PREDID: 312
+PRED: let
+   DOBJ: NULL
+   OARG: stand 2 to 3 minutes or until cheese is melted
+      NON-INGREDIENT SPAN: stand 2 to 3 minutes or until cheese is melted
+
+
+SENTID: 10
+SENT: I would sprinkle with bell pepper .
+PREDID: 353
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: bell pepper
+     PREP: with
+      INGREDIENT SPAN: bell pepper
+         INGREDIENTS: ounce bag frozen red bell pepper onions stirfry thawed
+
+

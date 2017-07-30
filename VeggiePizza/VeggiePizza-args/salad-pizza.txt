@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: I would place the pizza shell on a pizza pan or platter and top with the greens .
+PREDID: 0
+PRED: place
+   DOBJ: the pizza shell on a pizza pan or platter, top
+      INGREDIENT SPAN: the pizza shell on a pizza pan or platter
+         INGREDIENTS: ready made pizza crust
+      NON-INGREDIENT SPAN:  top
+   PARG: the greens
+     PREP: with
+      INGREDIENT SPAN: the greens
+         INGREDIENTS: mixed salad greens
+
+
+SENTID: 1
+SENT: I would place the chicken over the greens and drizzle with dressing .
+PREDID: 58
+PRED: place
+   DOBJ: the chicken over the greens
+      INGREDIENT SPAN: the chicken over the greens
+         INGREDIENTS: cooked boneless chicken breast halves diced
+
+PREDID: 89
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing
+     PREP: with
+      INGREDIENT SPAN: dressing
+         INGREDIENTS: Caesar salad dressing
+
+
+SENTID: 2
+SENT: I would slice and serve .
+PREDID: 109
+PRED: slice and serve
+   DOBJ: NULL
+
+

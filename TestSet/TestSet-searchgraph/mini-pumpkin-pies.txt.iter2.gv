@@ -1,0 +1,78 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="roll
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cut
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="fit
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="separate
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="beat
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="brush
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="place
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="beat
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="mix
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="spoon
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="bake
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="allow
+12", shape=oval, style=filled, fillcolor=azure]
+D10[label="DOBJ: prepared pie crusts", shape=box, style=filled, fillcolor=peachpuff]
+D10 -> E10
+D4[label="DOBJ: white sugar, eggs divided", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="LOCOROBJ:into a small bowl", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+D1[label="DOBJ: prepared pie crusts", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:onto a floured surface to a rough rectangle about 11 inches square", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees f -lrb- 175 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2_ing[label="DOBJ: pumpkin pie spice", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+P2_1_0[label="LOCOROBJ:into 12 3-inch rounds", shape=box, style=filled, fillcolor=white]
+P2_1_0 -> E2
+E2 -> E3 [label="the little pie crust"]
+P3_0_ing[label="COOBJECT: into prepared pie crusts", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E4 -> E5 [label="the egg white"]
+P5_0_0[label="OTHER:until slightly frothy", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E3 -> E6 [label="the edges of each mini pie crust"]
+E5 -> E6 [label="LOCOROBJ:with egg white"]
+E6 -> E7 [label="the remaining yolk"]
+P7_0_0[label="LOCOROBJ:into a bowl", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_ing[label="COOBJECT: with eggs divided", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+D9_ing[label="DOBJ: vanilla extract, canned pumpkin, package cream cheese", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+D9_0[label="DOBJ:  sugar ", shape=box, style=filled, fillcolor=white]
+D9_0 -> E9
+E8 -> E9 [label="pumpkin pie spice"]
+P9_0_0[label="LOCOROBJ:into the eggs", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E11 [label="the pies"]
+E10 -> E11 [label="IMPLICIT PREP"]
+E0 -> E11 [label="LOCOROBJ:in the preheated oven"]
+P11_2_0[label="DURATION:until the crust edges are golden brown", shape=box, style=filled, fillcolor=white]
+P11_2_0 -> E11
+P11_2_1[label="DURATION:until the filling is set ", shape=box, style=filled, fillcolor=white]
+P11_2_1 -> E11
+P11_2_2[label="DURATION:until  about 15 minutes", shape=box, style=filled, fillcolor=white]
+P11_2_2 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

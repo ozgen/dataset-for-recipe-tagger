@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would brown the beef strips in a large skillet over medium high heat and drain excess fat .
+PREDID: 0
+PRED: brown
+   DOBJ: the beef strips
+      INGREDIENT SPAN: the beef strips
+         INGREDIENTS: sirloin steak cut bite size strips
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+
+PREDID: 54
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 1
+SENT: I would add the onion and saute for 5 minutes , or until tender .
+PREDID: 69
+PRED: add
+   DOBJ: the onion
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+
+PREDID: 83
+PRED: saute
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 2
+SENT: I would stir in the flour , the salt , the paprika and ground black pepper .
+PREDID: 114
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour , the salt , the paprika, ground black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 3
+SENT: I would add the soup , reduce heat to medium low and let simmer for 15 minutes .
+PREDID: 162
+PRED: add
+   DOBJ: the soup
+      INGREDIENT SPAN: the soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+PREDID: 173
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+PREDID: 197
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 4
+SENT: I would then add the sour cream , stirring well .
+PREDID: 223
+PRED: add
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: fat free sour cream
+   OARG: then
+      NON-INGREDIENT SPAN: then
+   OARG: stirring well
+      NON-INGREDIENT SPAN: stirring well
+
+
+SENTID: 5
+SENT: I would prepare egg noodles according to package directions .
+PREDID: 252
+PRED: prepare
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 6
+SENT: I would serve beef mixture over the egg noodles .
+PREDID: 298
+PRED: serve
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: the egg noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the egg noodles
+
+

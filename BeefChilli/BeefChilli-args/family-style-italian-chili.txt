@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would brown meat in large skillet ;
+PREDID: 0
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 24
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add pepper and onions ;
+PREDID: 30
+PRED: add
+   DOBJ: pepper, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: green pepper chopped
+
+
+SENTID: 3
+SENT: I would cook 5 min. , stirring frequently .
+PREDID: 49
+PRED: cook
+   DOBJ: 5 min . , stirring frequently
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN: 5 min . 
+
+
+SENTID: 4
+SENT: I would add beans , the tomatoes , the seasonings and 1/4 cup cheese ;
+PREDID: 78
+PRED: add
+   DOBJ: beans , the tomatoes , the seasonings, 1/4 cup cheese
+      INGREDIENT SPAN:  1/4 cup cheese
+         INGREDIENTS: KRAFT Grated Parmesan Cheese divided
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce Hunt Diced Tomatoes undrained
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce kidney beans rinsed
+      NON-INGREDIENT SPAN:  the seasonings
+
+
+SENTID: 5
+SENT: I would stir .
+PREDID: 122
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would simmer 1 hour , stirring occasionally .
+PREDID: 127
+PRED: simmer
+   DOBJ: 1 hour , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: 1 hour 
+
+
+SENTID: 7
+SENT: I would served topped with remaining cheese .
+PREDID: 160
+PRED: served
+   DOBJ: NULL
+
+PREDID: 166
+PRED: topped
+   DOBJ: NULL
+   PARG: remaining cheese
+     PREP: with
+      INGREDIENT SPAN: remaining cheese
+         INGREDIENTS: KRAFT Grated Parmesan Cheese divided
+
+

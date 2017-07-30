@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would toss green cabbage , the carrot , red cabbage , and onion in a colander and sprinkle with kosher salt .
+PREDID: 0
+PRED: toss
+   DOBJ: green cabbage , the carrot , red cabbage , onion in a colander
+      INGREDIENT SPAN:  onion in a colander
+         INGREDIENTS: shredded onion
+      INGREDIENT SPAN: green cabbage 
+         INGREDIENTS: shredded red cabbage
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: shredded carrot
+      INGREDIENT SPAN:  red cabbage 
+         INGREDIENTS: shredded green cabbage
+
+PREDID: 60
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: kosher salt
+     PREP: with
+      INGREDIENT SPAN: kosher salt
+         INGREDIENTS: kosher salt
+
+
+SENTID: 1
+SENT: I would set aside to drip for 30 minutes .
+PREDID: 80
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to drip for 30 minutes
+      NON-INGREDIENT SPAN: to drip for 30 minutes
+
+
+SENTID: 2
+SENT: I would heat cider vinegar , the sugar , celery seed , and dry mustard together in a small saucepan over medium-low heat , stirring until sugar has dissolved .
+PREDID: 107
+PRED: heat
+   DOBJ: cider vinegar , the sugar , celery seed , dry mustard
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium-low heat
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: stirring until sugar has dissolved
+      NON-INGREDIENT SPAN: stirring until sugar has dissolved
+
+
+SENTID: 3
+SENT: I would remove from heat and let cool .
+PREDID: 228
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 245
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would squeeze as much juice as possible from cabbage mixture and transfer vegetables to a serving bowl .
+PREDID: 253
+PRED: squeeze
+   DOBJ: NULL
+   OARG: as much juice as possible from cabbage mixture, transfer vegetables to a serving bowl
+      INGREDIENT SPAN:  transfer vegetables to a serving bowl
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN: as much juice as possible from cabbage mixture
+
+
+SENTID: 5
+SENT: I would pour vinegar mixture to taste over vegetables and drizzle vegetable oil over the top .
+PREDID: 335
+PRED: pour
+   DOBJ: vinegar mixture
+      NON-INGREDIENT SPAN: vinegar mixture
+   OARG: to taste over vegetables, drizzle vegetable oil over the top
+      INGREDIENT SPAN: to taste over vegetables
+         INGREDIENTS: ground black pepper taste
+      NON-INGREDIENT SPAN:  drizzle vegetable oil over the top
+
+
+SENTID: 6
+SENT: I would sprinkle with black pepper and stir coleslaw to coat with dressing .
+PREDID: 407
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      NON-INGREDIENT SPAN: black pepper
+
+PREDID: 433
+PRED: stir
+   DOBJ: coleslaw
+      NON-INGREDIENT SPAN: coleslaw
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 7
+SENT: I would refrigerate 2 hours before serving for flavors to blend .
+PREDID: 464
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving for flavors to blend
+     PREP: before
+      NON-INGREDIENT SPAN: serving for flavors to blend
+
+

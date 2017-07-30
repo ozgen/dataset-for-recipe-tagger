@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil and stir in macaroni from the packages , retaining cheese mix packets for later use .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 44
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni
+     PREP: in
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce packages macaroni cheese mix
+   PARG: the packages , retaining cheese mix packets for later use
+     PREP: from
+      NON-INGREDIENT SPAN: the packages 
+      NON-INGREDIENT SPAN:  retaining cheese mix packets for later use
+
+
+SENTID: 1
+SENT: I would cook macaroni at a rolling boil over medium heat , stirring occasionally , until tender but still slightly firm , 8 to 10 minutes .
+PREDID: 111
+PRED: cook
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: a rolling boil over medium heat , stirring occasionally , until tender but still slightly firm , 8 to 10 minutes
+     PREP: at
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: a rolling boil over medium heat 
+      NON-INGREDIENT SPAN:  until tender but still slightly firm 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain and rinse macaroni with cold water .
+PREDID: 218
+PRED: drain and rinse
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 3
+SENT: I would return cooked macaroni to the pot .
+PREDID: 253
+PRED: return
+   DOBJ: cooked macaroni
+      NON-INGREDIENT SPAN: cooked macaroni
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would mix butter , chicken broth , and tomatoes with macaroni and bring mixture to a simmer over medium heat ;
+PREDID: 282
+PRED: mix
+   DOBJ: butter , chicken broth , tomatoes
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce diced tomatoes green chile peppers
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+   PARG: macaroni
+     PREP: with
+      NON-INGREDIENT SPAN: macaroni
+
+PREDID: 331
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a simmer over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over medium heat
+
+
+SENTID: 5
+SENT: I would stir in garlic powder , the cumin , dry mustard , the pepper , and contents of cheese mix packets .
+PREDID: 367
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic powder , the cumin , dry mustard , the pepper , contents of cheese mix packets
+     PREP: in
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: garlic powder 
+         INGREDIENTS: dry mustard powder
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper taste
+      NON-INGREDIENT SPAN:  dry mustard 
+      NON-INGREDIENT SPAN:  contents of cheese mix packets
+
+
+SENTID: 6
+SENT: I would stir in milk and reduce heat to low ;
+PREDID: 440
+PRED: stir
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+PREDID: 453
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 7
+SENT: I would heat soup almost to a simmer .
+PREDID: 469
+PRED: heat
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   OARG: almost to a simmer
+      NON-INGREDIENT SPAN: almost to a simmer
+
+
+SENTID: 8
+SENT: Do not boil .
+
+SENTID: 9
+SENT: I would serve soup in bowls and top each serving with about 2 tablespoons of sour cream .
+PREDID: 493
+PRED: serve
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   PARG: bowls
+     PREP: in
+      NON-INGREDIENT SPAN: bowls
+
+PREDID: 512
+PRED: top
+   DOBJ: NULL
+   OARG: each serving with about 2 tablespoons of sour cream
+      INGREDIENT SPAN: each serving with about 2 tablespoons of sour cream
+         INGREDIENTS: sour cream divided
+
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes peeled diced
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and let cool .
+PREDID: 121
+PRED: drain and let
+   DOBJ: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would mix mayonnaise , the buttermilk , Dijon mustard , the dill , red onion , and celery in a large salad bowl ;
+PREDID: 137
+PRED: mix
+   DOBJ: mayonnaise , the buttermilk , Dijon mustard , the dill , red onion , celery in a large salad bowl
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  the buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery in a large salad bowl
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+
+
+SENTID: 5
+SENT: I would gently fold in the potatoes .
+PREDID: 222
+PRED: fold
+   DOBJ: NULL
+   PARG: the potatoes
+     PREP: in
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would season with salt and black pepper .
+PREDID: 240
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 7
+SENT: I would chill for 4 hours before serving .
+PREDID: 269
+PRED: chill
+   DOBJ: NULL
+   PARG: 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

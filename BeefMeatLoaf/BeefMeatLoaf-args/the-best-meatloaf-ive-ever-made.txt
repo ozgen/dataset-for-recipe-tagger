@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would melt the butter in a skillet over medium heat , and cook the onion and garlic 5 minutes , until onion is tender .
+PREDID: 38
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 79
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: onion is tender
+     PREP: until
+      INGREDIENT SPAN: onion is tender
+         INGREDIENTS: minced onion
+   OARG: the onion, garlic
+      NON-INGREDIENT SPAN: the onion
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 2
+SENT: I would remove from heat , and season with salt and pepper .
+PREDID: 128
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , season with salt, pepper
+     PREP: from
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN: heat 
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix the onion and garlic , the beef , crumbled bread , crushed crackers , the egg , sour cream , Worcestershire sauce , and 1/2 can tomato sauce .
+PREDID: 183
+PRED: mix
+   DOBJ: the onion, garlic , the beef , crumbled bread , crushed crackers , the egg , sour cream , Worcestershire sauce , 1/2 can tomato sauce
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  crumbled bread 
+         INGREDIENTS: slices bread toasted crumbled
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: extralean ground beef
+      INGREDIENT SPAN:  crushed crackers 
+         INGREDIENTS: buttery round crackers crushed
+      INGREDIENT SPAN:  1/2 can tomato sauce
+         INGREDIENTS: ounce tomato sauce divided
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN: the onion
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: Gradually stir in the milk 1 teaspoon at a time until mixture is moist , but not soggy .
+
+SENTID: 5
+SENT: I would transfer the mixture to a 5x9 inch loaf pan .
+PREDID: 294
+PRED: transfer
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 5x9 inch loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: a 5x9 inch loaf pan
+
+
+SENTID: 6
+SENT: I would bake uncovered in the preheated oven 40 minutes .
+PREDID: 330
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 334
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the preheated oven 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 40 minutes
+
+
+SENTID: 7
+SENT: I would increase oven temperature to 400 degrees F -LRB- 200 degrees C -RRB- , and continue the baking 15 minutes , to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 371
+PRED: increase
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 400 degrees f -lrb- 200 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 200 degrees c
+
+PREDID: 432
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 15 minutes , to an internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 15 minutes 
+      NON-INGREDIENT SPAN:  to an internal temperature of 160 degrees f -lrb- 70 degrees c
+
+
+SENTID: 8
+SENT: In a small bowl , I would mix the remaining tomato sauce and ketchup .
+PREDID: 510
+PRED: mix
+   DOBJ: the remaining tomato sauce
+      INGREDIENT SPAN: the remaining tomato sauce
+         INGREDIENTS: ounce tomato sauce divided
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 9
+SENT: I would pour over the top of the meatloaf , and continue the baking 10 minutes .
+PREDID: 547
+PRED: pour
+   DOBJ: the top of the meatloaf
+      NON-INGREDIENT SPAN: the top of the meatloaf
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 578
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 10 minutes
+
+

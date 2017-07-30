@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would saute the onion , green bell pepper and garlic in the oil for 5 minutes , or until tender .
+PREDID: 30
+PRED: saute
+   DOBJ: the onion , green bell pepper, garlic
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the oil for 5 minutes
+     PREP: in
+      INGREDIENT SPAN: the oil for 5 minutes
+         INGREDIENTS: olive oil
+
+
+SENTID: 1
+SENT: I would stir in the beef and cook until brown .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: the beef
+     PREP: in
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+
+PREDID: 118
+PRED: cook
+   DOBJ: NULL
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 2
+SENT: I would transfer these ingredients to a slow cooker .
+PREDID: 133
+PRED: transfer
+   DOBJ: these ingredients
+      NON-INGREDIENT SPAN: these ingredients
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 3
+SENT: I would then , to the slow cooker , add tomato-vegetable juice , the soup , chili beans , cayenne pepper , chili powder , soy sauce and water .
+PREDID: 192
+PRED: add
+   DOBJ: tomato-vegetable juice , the soup , chili beans , cayenne pepper , chili powder , soy sauce, water
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: tomato-vegetable juice 
+         INGREDIENTS: ounce tomatovegetable juice cocktail
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+   OARG: then
+      NON-INGREDIENT SPAN: then
+   OARG: to the slow cooker
+      NON-INGREDIENT SPAN: to the slow cooker
+
+
+SENTID: 4
+SENT: I would cover slow cooker and cook on low setting for 2 hours .
+PREDID: 276
+PRED: cover
+   DOBJ: slow cooker, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: slow cooker
+   PARG: low setting for 2 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low setting for 2 hours
+
+

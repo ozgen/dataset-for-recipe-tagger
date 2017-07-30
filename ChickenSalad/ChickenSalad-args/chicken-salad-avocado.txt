@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would combine lettuce , the chicken , black olives , green bell pepper , red bell pepper , and red onion together in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: lettuce , the chicken , black olives , green bell pepper , red bell pepper , red onion
+      INGREDIENT SPAN:  red onion
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: sliced red bell pepper
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: sliced green bell pepper
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: sliced cooked chicken breast
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN: lettuce 
+         INGREDIENTS: green leafy lettuce taste
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cover with plastic wrap and refrigerate until chilled , about 30 minutes .
+PREDID: 92
+PRED: cover
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 115
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: chilled 
+
+
+SENTID: 2
+SENT: I would mix oil , red wine vinegar , lemon juice , the sugar , the salt , the pepper , and garlic in a container with lid ;
+PREDID: 154
+PRED: mix
+   DOBJ: oil , red wine vinegar , lemon juice , the sugar , the salt , the pepper , garlic
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: chopped garlic more taste
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN: oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a container with lid
+     PREP: in
+      NON-INGREDIENT SPAN: a container with lid
+
+
+SENTID: 3
+SENT: I would cover and shake until well combined .
+PREDID: 234
+PRED: cover and shake
+   DOBJ: NULL
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 4
+SENT: I would refrigerate until chilled , about 30 minutes .
+PREDID: 265
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: chilled 
+
+
+SENTID: 5
+SENT: I would mix avocado into salad .
+PREDID: 304
+PRED: mix
+   DOBJ: avocado
+      INGREDIENT SPAN: avocado
+         INGREDIENTS: avocado peeled pitted sliced
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+
+
+SENTID: 6
+SENT: I would shake the dressing and drizzle over salad ;
+PREDID: 324
+PRED: shake
+   DOBJ: the dressing, drizzle over salad
+      NON-INGREDIENT SPAN: the dressing
+      NON-INGREDIENT SPAN:  drizzle over salad
+
+
+SENTID: 7
+SENT: I would toss lightly .
+PREDID: 357
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

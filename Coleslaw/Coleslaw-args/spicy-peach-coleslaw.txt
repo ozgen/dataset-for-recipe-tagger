@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would whisk mayonnaise , Dijon mustard , Asian chile sauce , lemon juice , rice vinegar , vegetable oil , and sugar in a bowl until dressing is smooth .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , Dijon mustard , Asian chile sauce , lemon juice , rice vinegar , vegetable oil , sugar
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  Asian chile sauce 
+         INGREDIENTS: Asian chile pepper sauce such sambal oelek
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      NON-INGREDIENT SPAN:  lemon juice 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: dressing is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: dressing is smooth
+
+
+SENTID: 1
+SENT: I would season with salt and cayenne pepper .
+PREDID: 118
+PRED: season
+   DOBJ: NULL
+   PARG: salt, cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 2
+SENT: I would place cabbage into a large bowl ;
+PREDID: 149
+PRED: place
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: pound cabbage quartered sliced
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would add peaches and 1 tablespoon chives .
+PREDID: 176
+PRED: add
+   DOBJ: peaches, 1 tablespoon chives
+      INGREDIENT SPAN: peaches
+         INGREDIENTS: fresh peaches pitted chopped
+      INGREDIENT SPAN:  1 tablespoon chives
+         INGREDIENTS: sliced fresh chives garnish
+
+
+SENTID: 4
+SENT: I would lightly toss until combined .
+PREDID: 214
+PRED: toss
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 5
+SENT: I would pour the dressing over coleslaw and stir until coated .
+PREDID: 232
+PRED: pour
+   DOBJ: the dressing over coleslaw
+      NON-INGREDIENT SPAN: the dressing over coleslaw
+
+PREDID: 262
+PRED: stir
+   DOBJ: NULL
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 6
+SENT: I would cover coleslaw with plastic wrap and chill until flavors have developed and cabbage is slightly softened , about 30 minutes .
+PREDID: 275
+PRED: cover
+   DOBJ: coleslaw
+      NON-INGREDIENT SPAN: coleslaw
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+   OARG: cabbage is slightly softened , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: cabbage is slightly softened 
+
+PREDID: 306
+PRED: chill
+   DOBJ: NULL
+   PARG: flavors have developed
+     PREP: until
+      NON-INGREDIENT SPAN: flavors have developed
+
+
+SENTID: 7
+SENT: I would adjust seasoning , mix again , and sprinkle with 1 teaspoon chives before serving .
+PREDID: 380
+PRED: adjust
+   DOBJ: seasoning
+      NON-INGREDIENT SPAN: seasoning
+
+PREDID: 396
+PRED: mix
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+PREDID: 408
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1 teaspoon chives
+     PREP: with
+      INGREDIENT SPAN: 1 teaspoon chives
+         INGREDIENTS: sliced fresh chives garnish
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,220 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would stir gravy mix , the water , and milk together in a bowl until dissolved and smooth .
+PREDID: 38
+PRED: stir
+   DOBJ: gravy mix , the water
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN: gravy mix 
+         INGREDIENTS: ounce package brown gravy mix
+
+PREDID: 63
+PRED: milk
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: dissolved
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium-high heat and crumble in ground beef ;
+PREDID: 103
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 142
+PRED: crumble
+   DOBJ: NULL
+   PARG: ground beef
+     PREP: in
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would add onion , the mushrooms , and garlic .
+PREDID: 162
+PRED: add
+   DOBJ: onion , the mushrooms , garlic
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 4
+SENT: I would cook and stir until the beef is evenly browned , 10 to 15 minutes .
+PREDID: 191
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is evenly browned , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: the beef is evenly browned 
+
+
+SENTID: 5
+SENT: I would drain and discard any excess grease .
+PREDID: 244
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 6
+SENT: I would stir gravy mixture , tomato sauce , diced tomatoes , Italian seasoning , the oregano , and basil into ground beef mixture .
+PREDID: 275
+PRED: stir
+   DOBJ: gravy mixture , tomato sauce , diced tomatoes , Italian seasoning , the oregano , basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: diced tomatoes
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+      NON-INGREDIENT SPAN: gravy mixture 
+   PARG: ground beef mixture
+     PREP: into
+      INGREDIENT SPAN: ground beef mixture
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 373
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 8
+SENT: I would bring beef-tomato mixture to a boil , reduce heat , cover skillet with a lid , and simmer until heated through , 10 minutes .
+PREDID: 397
+PRED: bring
+   DOBJ: beef-tomato mixture
+      NON-INGREDIENT SPAN: beef-tomato mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+PREDID: 428
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 439
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+
+PREDID: 463
+PRED: simmer
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 9
+SENT: I would stir Cheddar cheese , mozzarella cheese , and egg noodles into beef-tomato mixture ;
+PREDID: 498
+PRED: stir
+   DOBJ: Cheddar cheese , mozzarella cheese , egg noodles
+      INGREDIENT SPAN:  egg noodles
+         INGREDIENTS: ounce package egg noodles
+      INGREDIENT SPAN: Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: beef-tomato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: beef-tomato mixture
+
+
+SENTID: 10
+SENT: I would pour entire mixture into a 9x13-inch casserole dish .
+PREDID: 569
+PRED: pour
+   DOBJ: entire mixture
+      NON-INGREDIENT SPAN: entire mixture
+   PARG: a 9x13-inch casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+
+
+SENTID: 11
+SENT: I would top casserole with Parmesan cheese .
+PREDID: 614
+PRED: top
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 12
+SENT: I would cover dish with aluminum foil .
+PREDID: 645
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until cheese is melted and noodles are cooked , about 25 minutes .
+PREDID: 671
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+PREDID: 725
+PRED: are cooked
+   DOBJ: NULL
+   PARG: 25 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 25 minutes
+
+

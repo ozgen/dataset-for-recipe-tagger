@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spread marinara sauce on the pieces of matzo .
+PREDID: 38
+PRED: spread
+   DOBJ: marinara sauce
+      INGREDIENT SPAN: marinara sauce
+         INGREDIENTS: spaghetti sauce
+   PARG: the pieces of matzo
+     PREP: on
+      INGREDIENT SPAN: the pieces of matzo
+         INGREDIENTS: matzo crackers
+
+
+SENTID: 2
+SENT: I would sprinkle garlic salt and oregano over the tomato sauce .
+PREDID: 76
+PRED: sprinkle
+   DOBJ: garlic salt, oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: garlic salt
+         INGREDIENTS: garlic salt
+   PARG: the tomato sauce
+     PREP: over
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: tomato sliced
+
+
+SENTID: 3
+SENT: I would cover with cheese , tomato slices , and olives .
+PREDID: 123
+PRED: cover
+   DOBJ: NULL
+   PARG: cheese , tomato slices , olives
+     PREP: with
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  tomato slices 
+
+
+SENTID: 4
+SENT: I would place pizzas on cookie sheets .
+PREDID: 162
+PRED: place
+   DOBJ: pizzas
+      NON-INGREDIENT SPAN: pizzas
+   PARG: cookie sheets
+     PREP: on
+      NON-INGREDIENT SPAN: cookie sheets
+
+
+SENTID: 5
+SENT: I would bake for 5 minutes at 350 degrees F -LRB- 175 degrees C -RRB- , or until cheese has melted .
+PREDID: 188
+PRED: bake
+   DOBJ: NULL
+   PARG: 5 minutes at 350 degrees f -lrb- 175 degrees c -rrb- , or until cheese has melted
+     PREP: for
+      NON-INGREDIENT SPAN:  or until cheese has melted
+      NON-INGREDIENT SPAN: 5 minutes at 350 degrees f -lrb- 175 degrees c -rrb- 
+
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would stir together the sea salt , black pepper , red pepper flakes , five-spice powder , and paprika in a shallow bowl until blended .
+PREDID: 0
+PRED: stir
+   DOBJ: the sea salt , black pepper , red pepper flakes , five-spice powder , paprika in a shallow bowl
+      INGREDIENT SPAN:  five-spice powder 
+         INGREDIENTS: Chinese fivespice powder
+      INGREDIENT SPAN:  paprika in a shallow bowl
+         INGREDIENTS: ground paprika
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes taste
+      INGREDIENT SPAN: the sea salt 
+         INGREDIENTS: flaked sea salt
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: cracked black pepper
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would heat vegetable oil in a large skillet or wok over medium heat .
+PREDID: 105
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium heat
+
+
+SENTID: 2
+SENT: I would gently press both sides of the chicken pieces into the seasoning mix , and place into the hot skillet .
+PREDID: 162
+PRED: press
+   DOBJ: both sides of the chicken pieces
+      INGREDIENT SPAN: both sides of the chicken pieces
+         INGREDIENTS: skinless boneless chicken breast halves trimmed cut quarters
+   PARG: the seasoning mix
+     PREP: into
+      NON-INGREDIENT SPAN: the seasoning mix
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 217
+PRED: place
+   DOBJ: NULL
+   PARG: the hot skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the hot skillet
+
+
+SENTID: 3
+SENT: I would cook , stirring occasionally to flip the chicken pieces over , until the chicken is browned on both sides and the meat is no longer pink in the center , about 10 minutes .
+PREDID: 240
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally to flip the chicken pieces over , until the chicken is browned on both sides
+      INGREDIENT SPAN: stirring occasionally to flip the chicken pieces over 
+         INGREDIENTS: skinless boneless chicken breast halves trimmed cut quarters
+      NON-INGREDIENT SPAN:  until the chicken is browned on both sides
+   OARG: the meat is no longer pink in the center , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the meat is no longer pink in the center 
+
+
+SENTID: 4
+SENT: I would stir in the broccoli and carrots , and cook and stir until the vegetables are tender , 10 to 12 minutes .
+PREDID: 378
+PRED: stir
+   DOBJ: NULL
+   PARG: the broccoli, carrots
+     PREP: in
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: small carrots peeled cut matchsticksized
+      INGREDIENT SPAN: the broccoli
+         INGREDIENTS: broccoli florets cut half
+
+PREDID: 409
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the vegetables are tender , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: the vegetables are tender 
+
+

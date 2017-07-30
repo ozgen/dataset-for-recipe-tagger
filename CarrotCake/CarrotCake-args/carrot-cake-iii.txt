@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9x13 inch pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 9x13 inch pan
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: In a large bowl , I would beat together eggs , the oil , white sugar and 2 teaspoons vanilla .
+PREDID: 78
+PRED: beat
+   DOBJ: eggs , the oil , white sugar, 2 teaspoons vanilla
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  2 teaspoons vanilla
+         INGREDIENTS: vanilla extract
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in flour , baking soda , baking powder , the salt and cinnamon .
+PREDID: 130
+PRED: mix
+   DOBJ: NULL
+   PARG: flour , baking soda , baking powder , the salt, cinnamon
+     PREP: in
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 4
+SENT: I would stir in carrots .
+PREDID: 181
+PRED: stir
+   DOBJ: NULL
+   PARG: carrots
+     PREP: in
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: grated carrots
+
+
+SENTID: 5
+SENT: I would fold in pecans .
+PREDID: 195
+PRED: fold
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 6
+SENT: I would pour into prepared pan .
+PREDID: 208
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven for 40 to 50 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 228
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 40 to 50 minutes , or until a toothpick inserted into the center of the cake comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 40 to 50 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of the cake comes out clean
+
+
+SENTID: 8
+SENT: I would let cool in pan for 10 minutes ,
+PREDID: 328
+PRED: let
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: cool in pan
+      NON-INGREDIENT SPAN: cool in pan
+
+
+SENTID: 9
+SENT: I would turn out onto a wire rack and cool completely .
+PREDID: 353
+PRED: turn
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: onto
+      NON-INGREDIENT SPAN: a wire rack
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 376
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 10
+SENT: To Make Frosting :
+
+SENTID: 11
+SENT: In a medium bowl , I would combine butter , cream cheese , confectioners ' sugar and 1 teaspoon vanilla .
+PREDID: 420
+PRED: combine
+   DOBJ: NULL
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: butter , cream cheese , confectioners ' sugar, 1 teaspoon vanilla
+      INGREDIENT SPAN:  confectioners ' sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: cream cheese softened
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  1 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 12
+SENT: I would beat until the mixture is smooth and creamy .
+PREDID: 485
+PRED: beat
+   DOBJ: NULL
+   PARG: the mixture is smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN:  creamy
+      NON-INGREDIENT SPAN: the mixture is smooth
+
+
+SENTID: 13
+SENT: I would stir in chopped pecans .
+PREDID: 522
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped pecans
+     PREP: in
+      NON-INGREDIENT SPAN: chopped pecans
+
+
+SENTID: 14
+SENT: I would frost the cooled cake .
+PREDID: 542
+PRED: frost
+   DOBJ: the cooled cake
+      NON-INGREDIENT SPAN: the cooled cake
+
+

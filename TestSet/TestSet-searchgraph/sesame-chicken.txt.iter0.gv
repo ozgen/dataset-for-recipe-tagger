@@ -1,0 +1,105 @@
+digraph recipe {
+E0[label="make
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="blend
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="blend
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cover
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="refrigerate
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="place
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="remove
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="set
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="add
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="drain
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="remove
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="set
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="add
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="add
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="return
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="stir
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="sprinkle
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="serve
+19", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: marinade", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D14[label="DOBJ: green bell pepper, fresh mushrooms", shape=box, style=filled, fillcolor=peachpuff]
+D14 -> E14
+P14_0[label="DURATION:to same wok or skillet, stir-fry for 2 to 3 minutes", shape=box, style=filled, fillcolor=white]
+P14_0 -> E14
+D17[label="DOBJ: medium high heat", shape=box, style=filled, fillcolor=white]
+D17 -> E17
+P17_0[label="DURATION:for another 2 to 3 minutes , or until the ingredients are evenly coated with the glaze", shape=box, style=filled, fillcolor=white]
+P17_0 -> E17
+D10[label="DOBJ: vegetable oil, sesame oil", shape=box, style=filled, fillcolor=peachpuff]
+D10 -> E10
+D5[label="DOBJ: dish", shape=box, style=filled, fillcolor=white]
+D5 -> E5
+D1_ing[label="DOBJ: cornstarch", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_0[label="LOCOROBJ:in a nonporous dish or bowl", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+P1_2_ing[label="COOBJECT: with rice wine", shape=box, style=filled, fillcolor=peachpuff]
+P1_2_ing -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: in clove crushed garlic, soy sauce, hot pepper sauce, grated fresh ginger, lemon juice", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: in skinless boneless chicken breast halves bite size", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E5 -> E6 [label="IMPLICIT PREP"]
+D7_ing[label="DOBJ: sesame seeds", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+D7_0[label="DOBJ: dry-fry over medium heat ", shape=box, style=filled, fillcolor=white]
+D7_0 -> E7
+E6 -> E7 [label=" shaking the wok "]
+P7_0_0[label="LOCOROBJ:in a wok or large skillet", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+P7_1_0[label="DURATION:until the seeds are a golden brown", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+E7 -> E8 [label="seeds"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+E4 -> E11 [label="chicken "]
+E10 -> E11 [label=" reserving marinade "]
+E9 -> E11 [label="stir-fry in wok a few pieces"]
+P11_0_0[label="OTHER:at a time", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+P11_1_0[label="OTHER:until browned", shape=box, style=filled, fillcolor=white]
+P11_1_0 -> E11
+E11 -> E12 [label="chicken"]
+P12_0_0[label="LOCOROBJ:with a slotted spoon", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E14 -> E15 [label="the scallions"]
+E13 -> E16 [label="chicken"]
+E15 -> E16 [label="IMPLICIT PREP"]
+P16_1_0[label="LOCOROBJ:to wok ", shape=box, style=filled, fillcolor=white]
+P16_1_0 -> E16
+P16_1_1[label="LOCOROBJ:to  together with reserved marinade", shape=box, style=filled, fillcolor=white]
+P16_1_1 -> E16
+E16 -> E18 [label="toasted sesame seeds on top"]
+E17 -> E18 [label="IMPLICIT PREP"]
+E18 -> E19 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E19 -> EOR
+}

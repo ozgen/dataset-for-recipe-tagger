@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would place the corn , vegetable broth , the potatoes , the onion , garlic , red chile peppers , chili powder , the salt , the parsley , and black pepper in a slow cooker ;
+PREDID: 0
+PRED: place
+   DOBJ: the corn , vegetable broth , the potatoes , the onion , garlic , red chile peppers , chili powder , the salt , the parsley , black pepper in a slow cooker
+      INGREDIENT SPAN:  black pepper in a slow cooker
+         INGREDIENTS: black pepper taste
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion diced
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: parsley flakes
+      INGREDIENT SPAN:  vegetable broth 
+         INGREDIENTS: vegetable broth
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: potatoes diced
+      INGREDIENT SPAN:  red chile peppers 
+         INGREDIENTS: red chile peppers minced
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic minced
+
+
+SENTID: 1
+SENT: I would cover .
+PREDID: 119
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would cook on Low for 7 hours .
+PREDID: 125
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 7 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 7 hours
+
+
+SENTID: 3
+SENT: I would pour the vegetable mixture into a blender , filling the pitcher no more than halfway full .
+PREDID: 144
+PRED: pour
+   DOBJ: the vegetable mixture
+      NON-INGREDIENT SPAN: the vegetable mixture
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+   OARG: filling the pitcher no more than halfway full
+      NON-INGREDIENT SPAN: filling the pitcher no more than halfway full
+
+
+SENTID: 4
+SENT: I would hold the lid of the blender with a folded kitchen towel and carefully start the blender using a few quick pulses before leaving it on to puree .
+PREDID: 219
+PRED: hold
+   DOBJ: the lid of the blender
+      NON-INGREDIENT SPAN: the lid of the blender
+   PARG: a folded kitchen towel
+     PREP: with
+      NON-INGREDIENT SPAN: a folded kitchen towel
+
+PREDID: 276
+PRED: start
+   DOBJ: the blender using a few quick pulses before leaving it on to puree
+      NON-INGREDIENT SPAN: the blender using a few quick pulses before leaving it on to puree
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 5
+SENT: I would puree in batches until smooth and pour into a clean pot .
+PREDID: 336
+PRED: puree
+   DOBJ: NULL
+   PARG: batches
+     PREP: in
+      NON-INGREDIENT SPAN: batches
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+PREDID: 364
+PRED: pour
+   DOBJ: NULL
+   PARG: a clean pot
+     PREP: into
+      NON-INGREDIENT SPAN: a clean pot
+
+
+SENTID: 6
+SENT: I would alternately , you can use a stick blender and puree the mixture in the cooking pot .
+
+SENTID: 7
+SENT: Once everything has been pureed , I would return it to the slow cooker .
+PREDID: 478
+PRED: return
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: everything has been pureed
+     PREP: once
+      NON-INGREDIENT SPAN: everything has been pureed
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 8
+SENT: I would stir the soy milk and margarine to the mixture ;
+PREDID: 502
+PRED: stir
+   DOBJ: the soy milk, margarine
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine
+      INGREDIENT SPAN: the soy milk
+         INGREDIENTS: soy milk
+   PARG: the mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 9
+SENT: I would cook on Low for 1 hour more .
+PREDID: 541
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: 1 hour more
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour more
+
+
+SENTID: 10
+SENT: I would add the lime juice to serve .
+PREDID: 563
+PRED: add
+   DOBJ: the lime juice
+      INGREDIENT SPAN: the lime juice
+         INGREDIENTS: lime juiced
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

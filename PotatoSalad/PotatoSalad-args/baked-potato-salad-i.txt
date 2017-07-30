@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would butter a 9x13 inch baking dish .
+PREDID: 38
+PRED: butter
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: I would put sliced potatoes into a large pot , and fill with enough water to cover .
+PREDID: 64
+PRED: put
+   DOBJ: sliced potatoes
+      INGREDIENT SPAN: sliced potatoes
+         INGREDIENTS: medium potatoes sliced
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 98
+PRED: fill
+   DOBJ: NULL
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 3
+SENT: Bring to a boil , I would and cook until tender but still firm , about 10 minutes .
+
+SENTID: 4
+SENT: I would drain , and set aside .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 134
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: At the same time , I would place bacon in a large deep skillet .
+PREDID: 157
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: sliced bacon
+   PARG: the same time
+     PREP: at
+      NON-INGREDIENT SPAN: the same time
+   PARG: a large deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large deep skillet
+
+
+SENTID: 6
+SENT: I would cook over medium-high heat until evenly browned .
+PREDID: 187
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 7
+SENT: I would remove to paper towels to drain .
+PREDID: 229
+PRED: remove
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: to
+      NON-INGREDIENT SPAN: paper towels
+   OARG: to drain
+      NON-INGREDIENT SPAN: to drain
+
+
+SENTID: 8
+SENT: In a large bowl , I would stir together the potatoes , the cheese , the onion , the mayonnaise , the salt , and pepper .
+PREDID: 269
+PRED: stir
+   DOBJ: the potatoes , the cheese , the onion , the mayonnaise , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: processed American cheese sliced
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would spoon into prepared baking dish .
+PREDID: 332
+PRED: spoon
+   DOBJ: NULL
+   PARG: prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 10
+SENT: I would crumble bacon over the top , and sprinkle with olives .
+PREDID: 360
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+PREDID: 386
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: olives
+     PREP: with
+      INGREDIENT SPAN: olives
+         INGREDIENTS: black olives sliced
+
+
+SENTID: 11
+SENT: I would bake for 1 hour in the preheated oven , until golden brown .
+PREDID: 405
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+

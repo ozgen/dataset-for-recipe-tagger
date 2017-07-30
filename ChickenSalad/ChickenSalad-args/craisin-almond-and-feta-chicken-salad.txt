@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would mix chicken , the celery , red bell pepper , red onion , and cranberries in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: chicken , the celery , red bell pepper , red onion , cranberries in a large bowl
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion diced
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper seeded diced
+      INGREDIENT SPAN:  cranberries in a large bowl
+         INGREDIENTS: sweetened dried cranberries such Craisins
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: diced cooked chicken
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: large stalks celery diced
+
+
+SENTID: 1
+SENT: I would stir mayonnaise and sour cream together in a separate bowl ;
+PREDID: 68
+PRED: stir
+   DOBJ: mayonnaise, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the chicken mixture and stir to coat .
+PREDID: 118
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 146
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would season mixture with salt and pepper .
+PREDID: 157
+PRED: season
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would cover bowl with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 188
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 215
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 5
+SENT: I would stir feta cheese and almonds through salad to serve .
+PREDID: 244
+PRED: stir
+   DOBJ: feta cheese, almonds
+      INGREDIENT SPAN: feta cheese
+         INGREDIENTS: ounce package feta cheese crumbled
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: toasted sliced almonds
+   PARG: salad
+     PREP: through
+      NON-INGREDIENT SPAN: salad
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

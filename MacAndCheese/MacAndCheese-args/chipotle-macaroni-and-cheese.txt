@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would blend 2 cups half and half , chipotle pepper -LRB- s -RRB- , bouillon cubes and garlic in a blender or food processor until well blended .
+PREDID: 25
+PRED: blend
+   DOBJ: 2 cups, chipotle pepper -LRB- s -RRB- , bouillon cubes, garlic
+      INGREDIENT SPAN:  chipotle pepper -LRB- s -RRB- 
+         INGREDIENTS: chipotle pepper canned chipotles adobo sauce more taste
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: cloves fresh garlic chopped
+      INGREDIENT SPAN:  bouillon cubes
+         INGREDIENTS: chicken bouillon cubes
+      NON-INGREDIENT SPAN: 2 cups
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: half, half
+      INGREDIENT SPAN: half
+         INGREDIENTS: half half divided
+      NON-INGREDIENT SPAN:  half
+
+
+SENTID: 2
+SENT: I would pour into a large saucepan ;
+PREDID: 129
+PRED: pour
+   DOBJ: NULL
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 3
+SENT: I would add onion powder , black pepper , remaining 2 cups of half and half and corn starch .
+PREDID: 152
+PRED: add
+   DOBJ: NULL
+   OARG: onion powder , black pepper , remaining 2 cups of half, half, corn starch
+      INGREDIENT SPAN:  corn starch
+         INGREDIENTS: Argo OR Kingsford Corn Starch
+      INGREDIENT SPAN: onion powder 
+         INGREDIENTS: Spice Islands Onion Powder
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: shredded pepper jack cheese OR Spice Islands Paprika
+      NON-INGREDIENT SPAN:  remaining 2 cups of half
+      NON-INGREDIENT SPAN:  half
+
+
+SENTID: 4
+SENT: Stirring constantly , I would bring to a boil ;
+PREDID: 239
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 5
+SENT: I would boil and stir for 1 minute or until very thick .
+PREDID: 252
+PRED: boil and stir
+   DOBJ: NULL
+   PARG: 1 minute or until very thick
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute or until very thick
+
+
+SENTID: 6
+SENT: I would remove from heat .
+PREDID: 290
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would gradually stir in cheeses until melted .
+PREDID: 314
+PRED: stir
+   DOBJ: NULL
+   PARG: cheeses
+     PREP: in
+      INGREDIENT SPAN: cheeses
+         INGREDIENTS: shredded pepperjack cheese
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 8
+SENT: I would add cooked pasta and stir until blended .
+PREDID: 339
+PRED: add
+   DOBJ: cooked pasta
+      INGREDIENT SPAN: cooked pasta
+         INGREDIENTS: elbow macaroni cooked according package directions
+
+PREDID: 356
+PRED: stir
+   DOBJ: NULL
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 9
+SENT: I would pour mixture into a greased 3-quart casserole dish -LRB- or 13 x 9-inch pan -RRB- and sprinkle with desired topping .
+PREDID: 373
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a greased 3-quart casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 3-quart casserole dish
+   OARG: or 13 x 9-inch pan
+      NON-INGREDIENT SPAN: or 13 x 9-inch pan
+
+PREDID: 443
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: desired topping
+     PREP: with
+      NON-INGREDIENT SPAN: desired topping
+
+
+SENTID: 10
+SENT: I would bake for 25 to 30 minutes or until browned and bubbly around edges .
+PREDID: 462
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+   PARG: edges
+     PREP: around
+      NON-INGREDIENT SPAN: edges
+
+

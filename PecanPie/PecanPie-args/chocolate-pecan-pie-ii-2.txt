@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would blend together the eggs , white sugar , brown sugar , the flour , the butter , corn syrup and vanilla .
+PREDID: 51
+PRED: blend
+   DOBJ: the eggs , white sugar , brown sugar , the flour , the butter , corn syrup, vanilla
+      INGREDIENT SPAN:  corn syrup
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add the chocolate chips and pecans ;
+PREDID: 127
+PRED: add
+   DOBJ: the chocolate chips, pecans
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: the chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+
+
+SENTID: 3
+SENT: I would mix well and pour into pie crusts .
+PREDID: 157
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 167
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crusts
+     PREP: into
+      INGREDIENT SPAN: pie crusts
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 4
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 to 45 minutes .
+PREDID: 185
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 40 to 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 to 45 minutes
+
+

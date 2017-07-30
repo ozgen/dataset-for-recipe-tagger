@@ -1,0 +1,241 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 38
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 76
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: I would stir in the lasagna noodles , and return to a boil .
+PREDID: 108
+PRED: stir
+   DOBJ: NULL
+   PARG: the lasagna noodles
+     PREP: in
+      INGREDIENT SPAN: the lasagna noodles
+         INGREDIENTS: ounce package lasagna noodles
+
+PREDID: 135
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook , uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 149
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 253
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would heat a large skillet over medium-high heat and cook and stir the sausage , ground beef , and garlic until the meat is crumbly , evenly browned , and no longer pink .
+PREDID: 259
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: the meat is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN: the meat is crumbly 
+      NON-INGREDIENT SPAN:  no longer pink
+
+PREDID: 298
+PRED: cook and stir
+   DOBJ: the sausage , ground beef , garlic
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: the sausage 
+         INGREDIENTS: ground pork sausage
+
+
+SENTID: 6
+SENT: I would drain any excess grease .
+PREDID: 392
+PRED: drain
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 7
+SENT: I would stir in the diced tomatoes , tomato sauce , the parsley , the basil , the oregano , and sugar .
+PREDID: 413
+PRED: stir
+   DOBJ: NULL
+   PARG: the diced tomatoes , tomato sauce , the parsley , the basil , the oregano , sugar
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: the diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 8
+SENT: I would bring to a boil over high heat ,
+PREDID: 479
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 9
+SENT: I would reduce the heat to medium-low , and simmer , stirring occasionally , until the sauce is thickened , about 30 minutes .
+PREDID: 504
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+   PARG: the sauce is thickened , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the sauce is thickened 
+
+PREDID: 540
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 10
+SENT: I would stir together the sour cream , the eggs , Parmesan cheese , green olives , the salt , black pepper , and 1/2 of the mozzarella cheese in a bowl .
+PREDID: 601
+PRED: stir
+   DOBJ: the sour cream , the eggs , Parmesan cheese , green olives , the salt , black pepper , 1/2 of the mozzarella cheese in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  green olives 
+         INGREDIENTS: chopped pitted green olives
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: ounce container sour cream
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  1/2 of the mozzarella cheese in a bowl
+         INGREDIENTS: ounce packages shredded mozzarella cheese divided
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: To assemble the lasagna , spread a thin layer of the meat sauce evenly over the bottom of a 9x13 inch baking pan .
+PREDID: 712
+PRED: assemble
+   DOBJ: the lasagna
+      NON-INGREDIENT SPAN: the lasagna
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 731
+PRED: spread
+   DOBJ: a thin layer of the meat sauce
+      NON-INGREDIENT SPAN: a thin layer of the meat sauce
+   OARG: evenly over the bottom of a 9x13 inch baking pan
+      NON-INGREDIENT SPAN: evenly over the bottom of a 9x13 inch baking pan
+
+
+SENTID: 12
+SENT: I would cover with 1/3 of the lasagna noodles , 1/3 of the remaining meat sauce , 1/3 of the sour cream mixture .
+PREDID: 801
+PRED: cover
+   DOBJ: NULL
+   PARG: 1/3 of the lasagna noodles , 1/3 of the remaining meat sauce , 1/3 of the sour cream mixture
+     PREP: with
+      NON-INGREDIENT SPAN: 1/3 of the lasagna noodles 
+      NON-INGREDIENT SPAN:  1/3 of the sour cream mixture
+      NON-INGREDIENT SPAN:  1/3 of the remaining meat sauce 
+
+
+SENTID: 13
+SENT: I would repeat this layering 2 more times .
+PREDID: 885
+PRED: repeat
+   DOBJ: 2 more times
+      NON-INGREDIENT SPAN: 2 more times
+   OARG: this layering
+      NON-INGREDIENT SPAN: this layering
+
+
+SENTID: 14
+SENT: I would sprinkle the remaining mozzarella cheese evenly over the lasagna .
+PREDID: 914
+PRED: sprinkle
+   DOBJ: the remaining mozzarella cheese
+      INGREDIENT SPAN: the remaining mozzarella cheese
+         INGREDIENTS: ounce packages shredded mozzarella cheese divided
+   PARG: the lasagna
+     PREP: over
+      NON-INGREDIENT SPAN: the lasagna
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven until the sauce is bubbly and the top is golden brown , about 30 minutes .
+PREDID: 971
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the sauce is bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce is bubbly
+   OARG: the top is golden brown , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the top is golden brown 
+
+

@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: In a small mixing bowl whisk together the poppy seeds , the eggs , the milk , the vanilla , the nutmeg , and sugar .
+PREDID: 41
+PRED: poppy
+   DOBJ: seeds , the eggs , the milk , the vanilla , the nutmeg , sugar
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: seeds 
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+   PARG: a small mixing bowl whisk
+     PREP: in
+      NON-INGREDIENT SPAN: a small mixing bowl whisk
+
+
+SENTID: 1
+SENT: I would heat a griddle or large frying pant over medium heat .
+PREDID: 79
+PRED: heat
+   DOBJ: a griddle or large frying pant over medium heat
+      NON-INGREDIENT SPAN: a griddle or large frying pant over medium heat
+
+
+SENTID: 2
+SENT: I would melt 1 tablespoon of the butter in the frying pan .
+PREDID: 123
+PRED: melt
+   DOBJ: 1 tablespoon of the butter in the frying pan
+      INGREDIENT SPAN: 1 tablespoon of the butter in the frying pan
+         INGREDIENTS: butter
+
+
+SENTID: 3
+SENT: I would dip one slice of the bread into the egg batter ,
+PREDID: 164
+PRED: dip
+   DOBJ: one slice of the bread
+      INGREDIENT SPAN: one slice of the bread
+         INGREDIENTS: thick slices white bread
+   PARG: the egg batter
+     PREP: into
+      NON-INGREDIENT SPAN: the egg batter
+
+
+SENTID: 4
+SENT: I would quickly take it out .
+PREDID: 209
+PRED: take
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would continue the dipping bread slices , stirring the batter frequently so all the poppy seeds do n't sink to the bottom , and laying the bread on the frying pan until no more bread will fit .
+PREDID: 219
+PRED: continue
+   DOBJ: NULL
+   OARG: the dipping bread slices , stirring the batter frequently so all the poppy seeds do n't sink to the bottom , laying
+      INGREDIENT SPAN: the dipping bread slices 
+         INGREDIENTS: thick slices white bread
+      NON-INGREDIENT SPAN:  stirring the batter frequently so all the poppy seeds do n't sink to the bottom 
+      NON-INGREDIENT SPAN:  laying
+
+
+SENTID: 6
+SENT: I would cook the slices for about 2 minutes per side , or until they are golden brown .
+PREDID: 367
+PRED: cook
+   DOBJ: the slices
+      NON-INGREDIENT SPAN: the slices
+   PARG: about 2 minutes per side , or until they are golden brown
+     PREP: for
+      NON-INGREDIENT SPAN: about 2 minutes per side 
+      NON-INGREDIENT SPAN:  or until they are golden brown
+
+
+SENTID: 7
+SENT: I would repeat with remaining bread .
+PREDID: 430
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining bread
+     PREP: with
+      NON-INGREDIENT SPAN: remaining bread
+
+
+SENTID: 8
+SENT: I would serve hot .
+PREDID: 455
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

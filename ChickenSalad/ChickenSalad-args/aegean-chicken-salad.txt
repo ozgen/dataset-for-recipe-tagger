@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: I would break up chicken in a large bowl using a fork .
+PREDID: 0
+PRED: break
+   DOBJ: chicken in a large bowl using a fork
+      INGREDIENT SPAN: chicken in a large bowl using a fork
+         INGREDIENTS: fl oz chicken breast chunks drained
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 1
+SENT: I would stir in onion , lemon juice , the yogurt , the hummus , the olives , red bell pepper , and dill .
+PREDID: 37
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , lemon juice , the yogurt , the hummus , the olives , red bell pepper , dill
+     PREP: in
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: kalamata olives chopped
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: Greek yogurt
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: chopped fresh dill
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN:  the hummus 
+         INGREDIENTS: hummus
+
+
+SENTID: 2
+SENT: I would sprinkle with feta cheese .
+PREDID: 103
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: feta cheese
+     PREP: with
+      INGREDIENT SPAN: feta cheese
+         INGREDIENTS: crumbled feta cheese
+
+

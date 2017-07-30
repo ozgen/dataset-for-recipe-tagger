@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook pasta in the boiling water , stirring occasionally until cooked through but firm to the bite , 10 to 12 minutes .
+PREDID: 42
+PRED: cook
+   DOBJ: pasta in the boiling water
+      INGREDIENT SPAN: pasta in the boiling water
+         INGREDIENTS: corkscrewshaped pasta
+   OARG: stirring occasionally until cooked through but firm to the bite , 10 to 12 minutes
+      INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+         INGREDIENTS: slices crispy cooked bacon crumbled
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+
+
+SENTID: 2
+SENT: I would drain and rinse under cold water .
+PREDID: 138
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 3
+SENT: I would whisk Italian-style dressing and mayonnaise together in a large bowl .
+PREDID: 166
+PRED: whisk
+   DOBJ: Italian-style dressing, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: Italian-style dressing
+         INGREDIENTS: Italianstyle salad dressing
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir pasta , the chicken , the bacon , Muenster cheese , the celery , green bell pepper , cherry tomatoes , and avocado into dressing until evenly coated .
+PREDID: 226
+PRED: stir
+   DOBJ: pasta , the chicken , the bacon , Muenster cheese , the celery , green bell pepper , cherry tomatoes , avocado
+      INGREDIENT SPAN:  cherry tomatoes 
+         INGREDIENTS: cherry tomatoes halved
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  Muenster cheese 
+         INGREDIENTS: cubed Muenster cheese
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: chopped cooked rotisserie chicken
+      INGREDIENT SPAN:  avocado
+         INGREDIENTS: avocado peeled pitted chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: pasta 
+      NON-INGREDIENT SPAN:  the bacon 
+   PARG: dressing until evenly coated
+     PREP: into
+      NON-INGREDIENT SPAN: dressing until evenly coated
+
+

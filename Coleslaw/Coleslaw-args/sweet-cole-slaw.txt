@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: I would stir mayonnaise , sour cream , the sugar , white balsamic vinegar , orange juice , and pepper together in a bowl .
+PREDID: 0
+PRED: stir
+   DOBJ: mayonnaise , sour cream , the sugar , white balsamic vinegar , orange juice , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  white balsamic vinegar 
+         INGREDIENTS: white balsamic vinegar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  orange juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would toss cabbage and carrots together in a large bowl .
+PREDID: 89
+PRED: toss
+   DOBJ: cabbage, carrots
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: heads cabbage shredded
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle the dressing over the cabbage mixture and toss to coat .
+PREDID: 131
+PRED: drizzle
+   DOBJ: the dressing over the cabbage mixture
+      NON-INGREDIENT SPAN: the dressing over the cabbage mixture
+
+PREDID: 173
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

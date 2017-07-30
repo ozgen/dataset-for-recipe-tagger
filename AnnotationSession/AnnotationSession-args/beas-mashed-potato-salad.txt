@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would prepare Idahoan Baby Reds following package instructions .
+PREDID: 0
+PRED: prepare
+   DOBJ: Idahoan Baby Reds following package instructions
+      INGREDIENT SPAN: Idahoan Baby Reds following package instructions
+         INGREDIENTS: (4 ounce) package Idahoan® Baby Reds® Flavored Mashed Potatoes
+      INGREDIENT SPAN: Idahoan Reds following instructions
+         INGREDIENTS: red onion
+
+
+SENTID: 1
+SENT: I would stir in pickles , radishes , hard-boiled egg , celery and red onion .
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: pickles , radishes , hard-boiled egg , celery, red onion
+     PREP: in
+      INGREDIENT SPAN:  radishes 
+         INGREDIENTS: radishes
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: pickles 
+         INGREDIENTS: dill pickle
+      INGREDIENT SPAN:  hard-boiled egg 
+         INGREDIENTS: hard-boiled egg
+      NON-INGREDIENT SPAN:  red onion
+
+
+SENTID: 2
+SENT: I would combine mayo and mustards in a separate bowl and mix into mashed potato mixture .
+PREDID: 107
+PRED: combine
+   DOBJ: mayo, mustards
+      INGREDIENT SPAN:  mustards
+         INGREDIENTS: yellow mustard
+      NON-INGREDIENT SPAN: mayo
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+PREDID: 147
+PRED: mix
+   DOBJ: NULL
+   PARG: mashed potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mashed potato mixture
+
+
+SENTID: 3
+SENT: I would season to taste with salt and pepper and celery seed if using .
+PREDID: 174
+PRED: season
+   DOBJ: NULL
+
+

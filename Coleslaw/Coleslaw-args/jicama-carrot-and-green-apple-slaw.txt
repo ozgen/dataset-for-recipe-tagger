@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: I would place the cabbage , the jicama , the radish , the apple , the carrot , the pear , and cilantro into a mixing bowl .
+PREDID: 0
+PRED: place
+   DOBJ: the cabbage , the jicama , the radish , the apple , the carrot , the pear , cilantro
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: pound jicama peeled shredded
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: Granny Smith apples peeled cored shredded
+      INGREDIENT SPAN:  the radish 
+         INGREDIENTS: shredded daikon radish
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded napa cabbage
+      INGREDIENT SPAN:  the pear 
+         INGREDIENTS: firm pear shredded
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrots shredded
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped cilantro
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 1
+SENT: I would sprinkle with olive oil , orange juice , lime juice , the salt , and pepper .
+PREDID: 75
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: olive oil , orange juice , lime juice , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: sea salt pepper taste
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  orange juice 
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 2
+SENT: I would toss until evenly blended and serve .
+PREDID: 133
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly blended
+     PREP: until
+      NON-INGREDIENT SPAN: evenly blended
+
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: In a medium bowl , I would combine pudding , the pumpkin , the milk , the nutmeg , the ginger , and cinnamon .
+PREDID: 14
+PRED: combine
+   DOBJ: pudding , the pumpkin , the milk , the nutmeg , the ginger , cinnamon
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: pudding 
+         INGREDIENTS: ounce package instant vanilla pudding mix
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 1
+SENT: I would mix slowly for about 1 minute .
+PREDID: 68
+PRED: mix
+   DOBJ: NULL
+   PARG: about 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: about 1 minute
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 2
+SENT: I would fold whipped topping into the mixture
+PREDID: 93
+PRED: fold
+   DOBJ: NULL
+
+PREDID: 97
+PRED: whipped
+   DOBJ: NULL
+   OARG: topping into the mixture
+      INGREDIENT SPAN: topping into the mixture
+         INGREDIENTS: frozen whipped topping
+
+
+SENTID: 3
+SENT: I would spoon entire mixture into pie shell .
+PREDID: 125
+PRED: spoon
+   DOBJ: entire mixture
+      NON-INGREDIENT SPAN: entire mixture
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+
+SENTID: 4
+SENT: I would freeze until firm -LRB- about 4 hours -RRB- .
+PREDID: 156
+PRED: freeze
+   DOBJ: NULL
+   PARG: firm -lrb- about 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN: firm -lrb- about 4 hours
+
+
+SENTID: 5
+SENT: I would let stand at room temperature for about 10 minutes before slicing .
+PREDID: 185
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: room temperature for about 10 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: room temperature for about 10 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would cook beef in hot skillet , stirring occasionally , until some of the fat from the meat renders , 1 to 2 minutes ;
+PREDID: 32
+PRED: cook
+   DOBJ: NULL
+   PARG: beef in hot skillet , stirring occasionally , until some of the fat from the meat renders , 1 to 2 minutes
+     PREP: for
+      INGREDIENT SPAN:  until some of the fat from the meat renders 
+         INGREDIENTS: beef stew meat sliced
+      INGREDIENT SPAN: beef in hot skillet 
+         INGREDIENTS: cubes beef bouillon such Oxo crumbled
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 2
+SENT: I would add onion and saute the mixture until the beef is completely browned , about 5 minutes more .
+PREDID: 122
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+PREDID: 133
+PRED: saute
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the beef is completely browned , about 5 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is completely browned 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+
+SENTID: 3
+SENT: I would pour water into the skillet ;
+PREDID: 198
+PRED: pour
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would add beef bouillon .
+PREDID: 222
+PRED: add
+   DOBJ: beef bouillon
+      NON-INGREDIENT SPAN: beef bouillon
+
+
+SENTID: 5
+SENT: I would reduce heat to low and cook mixture at a simmer until the liquid is mostly evaporated , about 90 minutes .
+PREDID: 238
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 256
+PRED: cook
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: the liquid is mostly evaporated , about 90 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the liquid is mostly evaporated 
+      NON-INGREDIENT SPAN:  about 90 minutes
+
+
+SENTID: 6
+SENT: I would stir cream of mushroom soup into the beef mixture ;
+PREDID: 324
+PRED: stir
+   DOBJ: cream of mushroom soup
+      INGREDIENT SPAN: cream of mushroom soup
+         INGREDIENTS: ounce cream mushroom soup
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 7
+SENT: I would continue cooking until heated through , 5 to 7 minutes .
+PREDID: 366
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: heated through , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: heated through 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 8
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 412
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 454
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 10
+SENT: I would drain .
+PREDID: 555
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would divide noodles between 4 plates and spoon beef mixture over the noodles .
+PREDID: 561
+PRED: divide
+   DOBJ: noodles between 4 plates, spoon beef mixture
+      NON-INGREDIENT SPAN: noodles between 4 plates
+      NON-INGREDIENT SPAN:  spoon beef mixture
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+

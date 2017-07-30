@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place bacon in a large deep skillet over medium-high heat .
+PREDID: 41
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: 
+         INGREDIENTS: dry
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon cut inch
+   PARG: a large deep skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large deep skillet over medium-high heat
+
+
+SENTID: 2
+SENT: I would add onions , and cook , stirring frequently , until bacon is crisp and onions are transparent .
+PREDID: 90
+PRED: add
+   DOBJ: NULL
+   PARG: bacon is crisp
+     PREP: until
+      NON-INGREDIENT SPAN: bacon is crisp
+   OARG: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: onions chopped
+   OARG: onions are transparent
+      NON-INGREDIENT SPAN: onions are transparent
+
+PREDID: 108
+PRED: stirring
+   DOBJ: NULL
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 3
+SENT: I would drain off excess grease , and set aside to cool .
+PREDID: 168
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 192
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix together the ground beef , pork sausage , the bacon and onions , the spinach , the olives , pistachio nuts , 1 cup of ketchup , the eggs , and meatloaf seasoning until well blended .
+PREDID: 220
+PRED: mix
+   DOBJ: the ground beef , pork sausage , the bacon, onions , the spinach , the olives , pistachio nuts , 1 cup of ketchup , the eggs , meatloaf seasoning until well blended
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  pistachio nuts 
+         INGREDIENTS: pistachio nuts chopped
+      INGREDIENT SPAN:  the spinach 
+         INGREDIENTS: ounce packages frozen chopped spinach thawed drained squeezed
+      INGREDIENT SPAN:  pork sausage 
+         INGREDIENTS: spicy ground pork sausage
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce sliced black olives drained
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  meatloaf seasoning until well blended
+         INGREDIENTS: ounce packet meatloaf seasoning mix
+      INGREDIENT SPAN:  1 cup of ketchup 
+         INGREDIENTS: ketchup
+      NON-INGREDIENT SPAN:  onions 
+      NON-INGREDIENT SPAN:  the bacon
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pat meat into a loaf shape , and place in a large baking pan .
+PREDID: 357
+PRED: pat
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+PREDID: 382
+PRED: place
+   DOBJ: NULL
+   PARG: a large baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large baking pan
+
+
+SENTID: 6
+SENT: A roasting pan will work well .
+
+SENTID: 7
+SENT: I would poke cheese cubes into the top of the loaf so they are completely covered .
+PREDID: 405
+PRED: poke
+   DOBJ: cheese cubes
+      INGREDIENT SPAN: cheese cubes
+         INGREDIENTS: pepper jack cheese cubed
+   PARG: the top of the loaf
+     PREP: into
+      NON-INGREDIENT SPAN: the top of the loaf
+   PARG: they are completely covered
+     PREP: so
+      NON-INGREDIENT SPAN: they are completely covered
+
+
+SENTID: 8
+SENT: I would brush the remaining ketchup generously over the top .
+PREDID: 466
+PRED: brush
+   DOBJ: the remaining ketchup
+      INGREDIENT SPAN: the remaining ketchup
+         INGREDIENTS: ketchup
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 9
+SENT: I would bake for 1?1/2 hours in the preheated oven , or until the internal temperature of the loaf is 180 degrees F -LRB- 82 degrees C -RRB- .
+

@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would place red potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: red potatoes
+      INGREDIENT SPAN: red potatoes
+         INGREDIENTS: red potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 53
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender and the peels begin to crack , about 20 minutes .
+PREDID: 66
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender, the peels begin to crack , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+      NON-INGREDIENT SPAN:  the peels begin to crack 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and let potatoes cool .
+PREDID: 147
+PRED: drain and let
+   DOBJ: NULL
+   OARG: potatoes cool
+      NON-INGREDIENT SPAN: potatoes cool
+
+
+SENTID: 4
+SENT: I would peel cooled potatoes and cut into 1/8-inch dice .
+PREDID: 171
+PRED: peel
+   DOBJ: cooled potatoes
+      NON-INGREDIENT SPAN: cooled potatoes
+
+PREDID: 192
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/8-inch dice
+     PREP: into
+      NON-INGREDIENT SPAN: 1/8-inch dice
+
+
+SENTID: 5
+SENT: I would place potatoes , the shrimp , the onions , hard-cooked eggs , sweet pickles , and mayonnaise into a large salad bowl and stir to combine .
+PREDID: 212
+PRED: place
+   DOBJ: potatoes , the shrimp , the onions , hard-cooked eggs , sweet pickles , mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the shrimp 
+         INGREDIENTS: ounce small shrimp drained
+      INGREDIENT SPAN:  sweet pickles 
+         INGREDIENTS: ounce jar sweet pickles drained diced
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: sweet onions diced
+      INGREDIENT SPAN:  hard-cooked eggs 
+         INGREDIENTS: hardcooked eggs sliced 1/8inch thick
+      NON-INGREDIENT SPAN: potatoes 
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+PREDID: 310
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 6
+SENT: I would season with salt and black pepper ;
+PREDID: 318
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 7
+SENT: I would sprinkle top of salad with paprika .
+PREDID: 347
+PRED: sprinkle
+   DOBJ: top of salad
+      NON-INGREDIENT SPAN: top of salad
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika taste
+
+
+SENTID: 8
+SENT: I would chill salad at least 3 hours before serving .
+PREDID: 377
+PRED: chill
+   DOBJ: NULL
+   PARG: salad at least 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: salad at least 3 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

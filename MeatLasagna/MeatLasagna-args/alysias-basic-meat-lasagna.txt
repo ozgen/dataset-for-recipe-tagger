@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a skillet over medium heat season ground beef with garlic powder and oregano .
+
+SENTID: 2
+SENT: I would brown the meat and drain .
+PREDID: 105
+PRED: brown
+   DOBJ: the meat, drain
+      NON-INGREDIENT SPAN: the meat
+      NON-INGREDIENT SPAN:  drain
+
+
+SENTID: 3
+SENT: In a large sauce pan add spaghetti sauce , I would tomato sauce , and oregano ;
+PREDID: 160
+PRED: pan tomato
+   DOBJ: sauce , oregano
+      INGREDIENT SPAN: sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+   PARG: a large sauce
+     PREP: in
+      INGREDIENT SPAN: a large sauce
+         INGREDIENTS: ounce jar sausage flavored spaghetti sauce
+   OARG: add spaghetti sauce
+      NON-INGREDIENT SPAN: add spaghetti sauce
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 183
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: In a skillet heat olive oil .
+
+SENTID: 6
+SENT: I would saute garlic and onions for about 5 minutes .
+PREDID: 215
+PRED: saute
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   OARG: garlic, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: small onion diced
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 7
+SENT: I would mix sauteed onions and garlic with meat into the sauce and cook for 15 to 20 minutes .
+PREDID: 252
+PRED: mix
+   DOBJ: sauteed onions
+      NON-INGREDIENT SPAN: sauteed onions
+   OARG: garlic with meat into the sauce
+      NON-INGREDIENT SPAN: garlic with meat into the sauce
+
+PREDID: 300
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 8
+SENT: I would combine mozzarella and provolone cheeses in a medium bowl .
+PREDID: 321
+PRED: combine
+   DOBJ: mozzarella, provolone cheeses
+      INGREDIENT SPAN:  provolone cheeses
+         INGREDIENTS: provolone cheese shredded
+      INGREDIENT SPAN: mozzarella
+         INGREDIENTS: ounce package mozzarella cheese shredded
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 9
+SENT: In a medium bowl mix ricotta cheese , I would the eggs , the milk , and oregano .
+
+SENTID: 10
+SENT: I would layer a 9x13 inch baking pan with just enough sauce to cover the bottom of the pan .
+PREDID: 371
+PRED: layer
+   DOBJ: a 9x13 inch baking pan
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+   PARG: just enough sauce
+     PREP: with
+      NON-INGREDIENT SPAN: just enough sauce
+   OARG: to cover the bottom of the pan
+      NON-INGREDIENT SPAN: to cover the bottom of the pan
+
+
+SENTID: 11
+SENT: I would lay three lasagna noodles in the pan .
+PREDID: 438
+PRED: lay
+   DOBJ: three lasagna noodles
+      INGREDIENT SPAN: three lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: the pan
+     PREP: in
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 12
+SENT: I would cover with sauce ,
+PREDID: 469
+PRED: cover
+   DOBJ: NULL
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+
+
+SENTID: 13
+SENT: with ricotta mixture
+
+SENTID: 14
+SENT: I would sprinkle with mozzarella/provolone mixture ;
+PREDID: 484
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: mozzarella/provolone mixture
+     PREP: with
+      NON-INGREDIENT SPAN: mozzarella/provolone mixture
+
+
+SENTID: 15
+SENT: I would repeat layering .
+PREDID: 524
+PRED: repeat
+   DOBJ: layering
+      NON-INGREDIENT SPAN: layering
+
+
+SENTID: 16
+SENT: I would finish with a layer of noodles and remaining sauce .
+PREDID: 539
+PRED: finish
+   DOBJ: NULL
+   PARG: a layer of noodles, remaining sauce
+     PREP: with
+      INGREDIENT SPAN: a layer of noodles
+         INGREDIENTS: lasagna noodles
+      NON-INGREDIENT SPAN:  remaining sauce
+
+
+SENTID: 17
+SENT: I would sprinkle with parmesan cheese .
+PREDID: 582
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 18
+SENT: I would bake covered in a preheated oven at 375 degrees for 30 minutes .
+PREDID: 609
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 613
+PRED: covered
+   DOBJ: NULL
+   PARG: a preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven
+   PARG: 375 degrees for 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees for 30 minutes
+
+
+SENTID: 19
+SENT: I would uncover and bake for 15 minutes .
+PREDID: 661
+PRED: uncover and bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+

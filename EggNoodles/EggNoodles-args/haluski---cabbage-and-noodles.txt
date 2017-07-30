@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 300 degrees F -LRB- 150 degrees C
+      NON-INGREDIENT SPAN: oven to 300 degrees F -LRB- 150 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 38
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      INGREDIENT SPAN: lightly salted water
+         INGREDIENTS: water needed
+
+PREDID: 76
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 2
+SENT: I would stir in egg noodles and return to a boil .
+PREDID: 96
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package mediumwide egg noodles
+
+PREDID: 115
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 129
+PRED: cook
+   DOBJ: noodles uncovered , stirring occasionally , until tender but still slightly firm
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: noodles uncovered 
+      NON-INGREDIENT SPAN:  until tender but still slightly firm
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would drain well .
+PREDID: 217
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would melt 1/2 cup butter in a large skillet over medium-low heat ;
+PREDID: 227
+PRED: melt
+   DOBJ: 1/2 cup butter
+      INGREDIENT SPAN: 1/2 cup butter
+         INGREDIENTS: butter divided
+   PARG: a large skillet over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-low heat
+
+
+SENTID: 6
+SENT: I would cook and stir onions until translucent , 5 to 10 minutes .
+PREDID: 277
+PRED: cook and stir
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: large onions chopped
+   PARG: translucent , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: translucent 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 7
+SENT: Cook and stir remaining butter and cabbage into onions until cabbage is softened but not browned , 5 to 8 more minutes .
+
+SENTID: 8
+SENT: I would season with salt and black pepper .
+PREDID: 324
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 9
+SENT: I would place cooked noodles and cabbage mixture in a large roasting pan and stir gently to combine .
+PREDID: 353
+PRED: place
+   DOBJ: cooked noodles, cabbage mixture in a large roasting pan
+      INGREDIENT SPAN:  cabbage mixture in a large roasting pan
+         INGREDIENTS: small heads cabbage cored cut 1inch
+      NON-INGREDIENT SPAN: cooked noodles
+
+PREDID: 410
+PRED: stir
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 10
+SENT: I would sprinkle with more salt and black pepper if desired .
+PREDID: 430
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: more salt, black pepper
+     PREP: with
+      NON-INGREDIENT SPAN: more salt
+      NON-INGREDIENT SPAN:  black pepper
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until golden brown on top , 30 to 40 minutes .
+PREDID: 474
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: golden brown on top , 30 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on top 
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+
+

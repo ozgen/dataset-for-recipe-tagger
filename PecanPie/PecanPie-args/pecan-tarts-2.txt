@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would lightly grease 8 3-inch tart tins .
+PREDID: 45
+PRED: grease
+   DOBJ: 8 3-inch tart tins
+      NON-INGREDIENT SPAN: 8 3-inch tart tins
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would roll out pastry and cut 8 5-inch circles .
+PREDID: 67
+PRED: roll
+   DOBJ: pastry
+      INGREDIENT SPAN: pastry
+         INGREDIENTS: recipe pastry inch crust pie
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 83
+PRED: cut
+   DOBJ: 8 5-inch circles
+      NON-INGREDIENT SPAN: 8 5-inch circles
+
+
+SENTID: 3
+SENT: I would fit pastry circles into greased tart tins .
+PREDID: 101
+PRED: fit
+   DOBJ: pastry circles
+      NON-INGREDIENT SPAN: pastry circles
+   PARG: greased tart tins
+     PREP: into
+      NON-INGREDIENT SPAN: greased tart tins
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine eggs , the sugar , the butter or margarine , corn syrup , and vanilla extract .
+PREDID: 150
+PRED: combine
+   DOBJ: eggs , the sugar , the butter or margarine , corn syrup , vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN:  the butter or margarine 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: Mix well , I would 
+
+SENTID: 6
+SENT: I would stir in pecans .
+PREDID: 214
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 7
+SENT: I would pour an equal amount of mixture into each pastry-lined tart tin .
+PREDID: 227
+PRED: pour
+   DOBJ: an equal amount of mixture
+      NON-INGREDIENT SPAN: an equal amount of mixture
+   PARG: each pastry-lined tart tin
+     PREP: into
+      NON-INGREDIENT SPAN: each pastry-lined tart tin
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 30 to 35 minutes until pastry is golden brown and filling is set .
+PREDID: 281
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 to 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 to 35 minutes
+   PARG: pastry is golden brown, filling is set
+     PREP: until
+      NON-INGREDIENT SPAN: pastry is golden brown
+      NON-INGREDIENT SPAN:  filling is set
+
+

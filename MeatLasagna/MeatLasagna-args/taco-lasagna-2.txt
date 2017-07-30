@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: I would place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 36
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: Drain , I would 
+
+SENTID: 3
+SENT: I would season with taco seasoning , garlic , cayenne pepper , chili powder and water .
+PREDID: 75
+PRED: season
+   DOBJ: NULL
+   PARG: taco seasoning , garlic , cayenne pepper , chili powder, water
+     PREP: with
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: taco seasoning 
+         INGREDIENTS: ounce packages taco seasoning mix
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 4
+SENT: I would simmer for 10 minutes .
+PREDID: 140
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 5
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 159
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 6
+SENT: I would grease the bottom of a 9x13 inch baking dish .
+PREDID: 197
+PRED: grease
+   DOBJ: the bottom of a 9x13 inch baking dish
+      INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+         INGREDIENTS: inch corn tortillas
+
+
+SENTID: 7
+SENT: I would place 6 tortillas into the prepared baking dish .
+PREDID: 234
+PRED: place
+   DOBJ: 6 tortillas
+      NON-INGREDIENT SPAN: 6 tortillas
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 8
+SENT: I would spread 1/3 of the salsa on top of the tortillas .
+PREDID: 275
+PRED: spread
+   DOBJ: 1/3 of the salsa
+      INGREDIENT SPAN: 1/3 of the salsa
+         INGREDIENTS: ounce jar salsa
+   PARG: top of the tortillas
+     PREP: on
+      NON-INGREDIENT SPAN: top of the tortillas
+
+
+SENTID: 9
+SENT: I would spread 1/2 of the meat mixture evenly over the salsa .
+PREDID: 314
+PRED: spread
+   DOBJ: 1/2 of the meat mixture
+      NON-INGREDIENT SPAN: 1/2 of the meat mixture
+   OARG: evenly over the salsa
+      INGREDIENT SPAN: evenly over the salsa
+         INGREDIENTS: ounce jar salsa
+
+
+SENTID: 10
+SENT: I would sprinkle with 1/2 of the green onions .
+PREDID: 358
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/2 of the green onions
+     PREP: with
+      INGREDIENT SPAN: 1/2 of the green onions
+         INGREDIENTS: sliced green onion
+
+
+SENTID: 11
+SENT: I would drop 1/2 of the sour cream randomly over the green onions .
+PREDID: 390
+PRED: drop
+   DOBJ: 1/2 of the sour cream
+      INGREDIENT SPAN: 1/2 of the sour cream
+         INGREDIENTS: ounce container sour cream
+   PARG: the green onions
+     PREP: over
+      INGREDIENT SPAN: the green onions
+         INGREDIENTS: sliced green onion
+   OARG: randomly
+      NON-INGREDIENT SPAN: randomly
+
+
+SENTID: 12
+SENT: I would top with 1/2 cup Cheddar and 1/2 cup Monterey Jack cheese .
+PREDID: 438
+PRED: top
+   DOBJ: NULL
+   PARG: 1/2 cup cheddar, 1/2 cup monterey jack cheese
+     PREP: with
+      INGREDIENT SPAN:  1/2 cup monterey jack cheese
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN: 1/2 cup cheddar
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 13
+SENT: I would repeat layers .
+PREDID: 486
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 14
+SENT: I would top with 6 tortillas , spread with remaining salsa , and sprinkle with remaining cheese .
+PREDID: 499
+PRED: top
+   DOBJ: NULL
+   PARG: 6 tortillas , spread with remaining salsa
+     PREP: with
+      NON-INGREDIENT SPAN: 6 tortillas 
+      NON-INGREDIENT SPAN:  spread with remaining salsa
+
+PREDID: 545
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining cheese
+     PREP: with
+      INGREDIENT SPAN: remaining cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 15
+SENT: I would bake in a preheated oven for 30 to 45 minutes or until cheeses are melted .
+PREDID: 573
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 30 to 45 minutes or until cheeses are melted
+     PREP: in
+      INGREDIENT SPAN: a preheated oven for 30 to 45 minutes or until cheeses are melted
+         INGREDIENTS: shredded Monterey Jack cheese
+
+

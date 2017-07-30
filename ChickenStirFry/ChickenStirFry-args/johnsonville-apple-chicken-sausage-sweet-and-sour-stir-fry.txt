@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a large skillet , I would heat oil ;
+PREDID: 16
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: canola oil
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 1
+SENT: I would stir-fry vegetables until crisp-tender .
+PREDID: 24
+PRED: stir-fry
+   DOBJ: vegetables
+      INGREDIENT SPAN: vegetables
+         INGREDIENTS: ounce package frozen stirfry vegetables
+   PARG: crisp-tender
+     PREP: until
+      NON-INGREDIENT SPAN: crisp-tender
+
+
+SENTID: 2
+SENT: I would add sausage and pineapple ;
+PREDID: 60
+PRED: add
+   DOBJ: sausage, pineapple
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: ounce package Johnsonville Apple Chicken Sausage sliced
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: ounce pineapple chunks drained reserving liquid
+
+
+SENTID: 3
+SENT: I would cook and stir until heated through .
+PREDID: 83
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 4
+SENT: In a small bowl , I would combine water , the cornstarch , soy sauce , the sugar and reserved pineapple juice .
+PREDID: 126
+PRED: combine
+   DOBJ: water , the cornstarch , soy sauce , the sugar, reserved pineapple juice
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: reducedsodium soy sauce
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: water 
+         INGREDIENTS: cold water
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  reserved pineapple juice
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 5
+SENT: I would add to skillet ;
+PREDID: 190
+PRED: add
+   DOBJ: NULL
+   OARG: to skillet
+      NON-INGREDIENT SPAN: to skillet
+
+
+SENTID: 6
+SENT: I would bring to a boil , stirring constantly until thickened , about 2 minutes .
+PREDID: 203
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: stirring constantly until thickened , about 2 minutes
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: stirring constantly until thickened 
+
+
+SENTID: 7
+SENT: I would serve immediately over rice .
+PREDID: 263
+PRED: serve
+   DOBJ: NULL
+   PARG: rice
+     PREP: over
+      INGREDIENT SPAN: rice
+         INGREDIENTS: Hot cooked brown white rice
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

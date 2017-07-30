@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would place bacon in a large soup pot .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon
+   PARG: a large soup pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 26
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain excess grease , leaving enough to coat bottom of pot Remove bacon , drain on paper towels and chop .
+PREDID: 65
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: leaving enough to coat bottom of pot remove bacon
+      NON-INGREDIENT SPAN: leaving enough to coat bottom of pot remove bacon
+
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 3
+SENT: I would brown beef and pork in pot over medium high heat .
+PREDID: 151
+PRED: brown
+   DOBJ: beef, pork
+      INGREDIENT SPAN: beef
+         INGREDIENTS: beef bouillon granules
+      INGREDIENT SPAN:  pork
+         INGREDIENTS: ground pork
+   PARG: pot over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: pot over medium high heat
+
+
+SENTID: 4
+SENT: When meat is browned , stir in the bell pepper , the onion , jalapeno peppers , habanero peppers , Anaheim peppers , the garlic , the cumin , red pepper flakes , chili powder , the bouillon , crushed tomatoes , whole tomatoes , the beer , tomato paste , chile paste and water .
+PREDID: 209
+PRED: stir
+   DOBJ: NULL
+   PARG: the bell pepper , the onion , jalapeno peppers , habanero peppers , anaheim peppers , the garlic , the cumin , red pepper flakes , chili powder , the bouillon , crushed tomatoes , whole tomatoes , the beer , tomato paste , chile paste, water
+     PREP: in
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: habanero peppers seeded chopped
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  habanero peppers 
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  chile paste
+         INGREDIENTS: chile paste
+      INGREDIENT SPAN:  anaheim peppers 
+         INGREDIENTS: Anaheim peppers seeded diced
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: jalapeno peppers seeded chopped
+      INGREDIENT SPAN:  whole tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes drained
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: yellow onion diced
+      INGREDIENT SPAN: the bell pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce beer
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  the bouillon 
+   OARG: when meat is browned
+      NON-INGREDIENT SPAN: when meat is browned
+
+
+SENTID: 5
+SENT: I would reduce heat to low and simmer for 45 to 60 minutes , stirring occasionally .
+PREDID: 398
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: 45 to 60 minutes , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: 45 to 60 minutes 
+
+
+SENTID: 6
+SENT: I would add beans and bacon and continue the simmering for another 30 minutes .
+PREDID: 460
+PRED: add
+   DOBJ: beans, bacon
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce chili beans drained
+      NON-INGREDIENT SPAN:  bacon
+
+PREDID: 479
+PRED: continue
+   DOBJ: NULL
+   PARG: the simmering for another 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the simmering for another 30 minutes
+
+

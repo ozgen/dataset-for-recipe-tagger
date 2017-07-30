@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would melt butter in a microwave-safe bowl in the microwave .
+PREDID: 40
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a microwave-safe bowl in the microwave
+     PREP: in
+      NON-INGREDIENT SPAN: a microwave-safe bowl in the microwave
+
+
+SENTID: 2
+SENT: I would crush the ramen noodles into small pieces ;
+PREDID: 86
+PRED: crush
+   DOBJ: the ramen noodles
+      INGREDIENT SPAN: the ramen noodles
+         INGREDIENTS: ounce packages Orientalflavor ramen noodle soup seasoning packet
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+
+SENTID: 3
+SENT: I would stir the crushed noodles , the almonds , and sesame seeds into the butter .
+PREDID: 122
+PRED: stir
+   DOBJ: the crushed noodles , the almonds , sesame seeds
+      INGREDIENT SPAN:  sesame seeds
+         INGREDIENTS: sesame seeds
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: slivered almonds
+      NON-INGREDIENT SPAN: the crushed noodles 
+   PARG: the butter
+     PREP: into
+      NON-INGREDIENT SPAN: the butter
+
+
+SENTID: 4
+SENT: I would spread the mixture onto a baking sheet .
+PREDID: 180
+PRED: spread
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until golden brown and crunchy , 8 to 10 minutes ;
+PREDID: 213
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until golden brown, crunchy , 8 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  crunchy 
+      NON-INGREDIENT SPAN: the preheated oven until golden brown
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 6
+SENT: I would allow to cool completely .
+PREDID: 275
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely
+      NON-INGREDIENT SPAN: to cool completely
+
+
+SENTID: 7
+SENT: I would toss together the coleslaw mix and the green onion in a large bowl .
+PREDID: 297
+PRED: toss
+   DOBJ: the coleslaw mix, the green onion
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce package broccoli coleslaw mix
+      INGREDIENT SPAN:  the green onion
+         INGREDIENTS: chopped green onion
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would whisk together the salad oil , the vinegar , the sugar , soy sauce , and reserved seasoning packets in a separate bowl ;
+PREDID: 352
+PRED: whisk
+   DOBJ: the salad oil , the vinegar , the sugar , soy sauce , reserved seasoning packets in a separate bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: the salad oil 
+         INGREDIENTS: salad oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  reserved seasoning packets in a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would stir the noodle mixture into the dressing .
+PREDID: 443
+PRED: stir
+   DOBJ: the noodle mixture
+      NON-INGREDIENT SPAN: the noodle mixture
+   PARG: the dressing
+     PREP: into
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 10
+SENT: I would pour the dressing over the coleslaw mix and toss to coat .
+PREDID: 479
+PRED: pour
+   DOBJ: the dressing over the coleslaw mix
+      NON-INGREDIENT SPAN: the dressing over the coleslaw mix
+
+PREDID: 515
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

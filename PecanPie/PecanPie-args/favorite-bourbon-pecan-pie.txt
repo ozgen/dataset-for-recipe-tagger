@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix the white sugar , brown sugar , and butter together in a bowl .
+PREDID: 40
+PRED: mix
+   DOBJ: the white sugar , brown sugar , butter
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the white sugar 
+         INGREDIENTS: brown sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in the corn syrup , the eggs , and bourbon ;
+PREDID: 93
+PRED: stir
+   DOBJ: NULL
+   PARG: the corn syrup , the eggs , bourbon
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  bourbon
+         INGREDIENTS: bourbon
+      INGREDIENT SPAN: the corn syrup 
+         INGREDIENTS: light corn syrup
+
+
+SENTID: 3
+SENT: I would fold in the pecans .
+PREDID: 128
+PRED: fold
+   DOBJ: NULL
+   PARG: the pecans
+     PREP: in
+      INGREDIENT SPAN: the pecans
+         INGREDIENTS: pecan halves
+
+
+SENTID: 4
+SENT: I would pour the mixture into the pie crust .
+PREDID: 144
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: inch unbaked deepdish pie crust
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven for 10 minutes ;
+PREDID: 174
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 10 minutes
+
+
+SENTID: 6
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- ;
+PREDID: 209
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 7
+SENT: I would continue to bake until the pie is set , about 25 minutes more .
+PREDID: 246
+PRED: continue
+   DOBJ: NULL
+   OARG: to bake until the pie is set , about 25 minutes more
+      NON-INGREDIENT SPAN: to bake until the pie is set 
+      NON-INGREDIENT SPAN:  about 25 minutes more
+
+
+SENTID: 8
+SENT: I would allow to cool completely on a wire rack before serving .
+PREDID: 296
+PRED: allow
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: to cool completely on a wire rack
+      NON-INGREDIENT SPAN: to cool completely on a wire rack
+
+

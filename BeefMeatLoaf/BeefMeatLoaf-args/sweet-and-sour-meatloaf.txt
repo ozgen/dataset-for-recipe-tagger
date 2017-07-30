@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the ground beef , bread crumbs , the salt , ground black pepper , the eggs , onion flakes and 1/2 of the can of tomato sauce .
+PREDID: 51
+PRED: combine
+   DOBJ: the ground beef , bread crumbs , the salt , ground black pepper , the eggs , onion flakes, 1/2 of the can of tomato sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1/2 of the can of tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion flakes
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN:  ground black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix together well and place into a 5x9 inch loaf pan .
+PREDID: 151
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 169
+PRED: place
+   DOBJ: NULL
+   PARG: a 5x9 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 5x9 inch loaf pan
+
+
+SENTID: 3
+SENT: I would push the meatloaf down into the pan forming a well for the sauce around all the edges .
+PREDID: 194
+PRED: push
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: the pan forming a well for the sauce around all the edges
+     PREP: into
+      INGREDIENT SPAN: the pan forming a well for the sauce around all the edges
+         INGREDIENTS: ounce tomato sauce
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 4
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes .
+PREDID: 264
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+
+SENTID: 5
+SENT: I would meanwhile , in a small saucepan over medium heat , combine the remaining tomato sauce , brown sugar , the vinegar , white sugar and mustard .
+PREDID: 348
+PRED: combine
+   DOBJ: the remaining tomato sauce , brown sugar , the vinegar , white sugar, mustard
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN: the remaining tomato sauce 
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would bring to a boil and remove from heat .
+PREDID: 419
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 434
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: After meatloaf has cooked for 40 minutes , I would remove from oven and pour sauce over the top of the meatloaf .
+PREDID: 484
+PRED: remove
+   DOBJ: NULL
+   PARG: meatloaf has cooked for 40 minutes
+     PREP: after
+      NON-INGREDIENT SPAN: meatloaf has cooked for 40 minutes
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 501
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: the top of the meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the meatloaf
+
+
+SENTID: 8
+SENT: I would return to oven and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 more minutes .
+PREDID: 534
+PRED: return
+   DOBJ: NULL
+   OARG: to oven, bake at 350 degrees f -lrb- 175 degrees c -rrb- for 20 more minutes
+      NON-INGREDIENT SPAN:  bake at 350 degrees f -lrb- 175 degrees c -rrb- for 20 more minutes
+      NON-INGREDIENT SPAN: to oven
+
+
+SENTID: 9
+SENT: I would let the sit 5 minutes before removing from pan .
+PREDID: 596
+PRED: let
+   DOBJ: the sit
+      NON-INGREDIENT SPAN: the sit
+   PARG: removing from pan
+     PREP: before
+      NON-INGREDIENT SPAN: removing from pan
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

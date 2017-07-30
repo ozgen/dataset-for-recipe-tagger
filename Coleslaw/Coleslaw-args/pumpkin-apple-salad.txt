@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would place the raisins in a small dish and cover with hot water .
+PREDID: 0
+PRED: place
+   DOBJ: the raisins
+      INGREDIENT SPAN: the raisins
+         INGREDIENTS: raisins
+   PARG: a small dish
+     PREP: in
+      NON-INGREDIENT SPAN: a small dish
+
+PREDID: 30
+PRED: cover
+   DOBJ: NULL
+   PARG: hot water
+     PREP: with
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 1
+SENT: I would allow to stand for 30 minutes .
+PREDID: 48
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 30 minutes
+      NON-INGREDIENT SPAN: to stand for 30 minutes
+
+
+SENTID: 2
+SENT: Once the raisins are plump , I would drain and place into a mixing bowl with the apple and pumpkin .
+PREDID: 96
+PRED: drain and place
+   DOBJ: NULL
+   PARG: the raisins are plump
+     PREP: once
+      NON-INGREDIENT SPAN: the raisins are plump
+   PARG: a mixing bowl with the apple, pumpkin
+     PREP: into
+      INGREDIENT SPAN: a mixing bowl with the apple
+         INGREDIENTS: tart apples peeled shredded
+      INGREDIENT SPAN:  pumpkin
+         INGREDIENTS: shredded pumpkin
+
+
+SENTID: 3
+SENT: I would pour in the lemon juice and toss to coat .
+PREDID: 147
+PRED: pour
+   DOBJ: NULL
+   PARG: the lemon juice
+     PREP: in
+      INGREDIENT SPAN: the lemon juice
+         INGREDIENTS: lemon juice
+
+PREDID: 169
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would season to taste with salt and pepper , and serve immediately .
+PREDID: 180
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper , serve immediately
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper 
+      NON-INGREDIENT SPAN:  serve immediately
+
+

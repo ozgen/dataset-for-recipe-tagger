@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook elbow macaroni in the boiling water until cooked through but firm to the bite , 10 to 12 minutes .
+PREDID: 42
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: whole wheat elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   PARG: cooked through but firm to the bite , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: cooked through but firm to the bite 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would heat olive oil in a large skillet over medium heat ;
+PREDID: 131
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 4
+SENT: I would cook and stir onion , green bell peppers , and garlic in the hot oil until onion is softened , 5 to 10 minutes .
+PREDID: 173
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onion , green bell peppers , garlic in the hot oil until onion is softened , 5 to 10 minutes
+     PREP: for
+      INGREDIENT SPAN:  garlic in the hot oil until onion is softened 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped green onion taste
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell peppers chopped
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 5
+SENT: I would mix tomatoes and their juices , tomato sauce , hot pepper sauce , chili powder , the cumin , cayenne pepper , and black pepper into onion mixture ;
+PREDID: 261
+PRED: mix
+   DOBJ: tomatoes, their juices , tomato sauce , hot pepper sauce , chili powder , the cumin , cayenne pepper , black pepper
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder more taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce diced tomatoes undrained
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce taste
+      NON-INGREDIENT SPAN:  their juices 
+   PARG: onion mixture
+     PREP: into
+      NON-INGREDIENT SPAN: onion mixture
+
+
+SENTID: 6
+SENT: I would bring to a boil .
+PREDID: 377
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would add kidney beans , black beans , and corn ;
+PREDID: 390
+PRED: add
+   DOBJ: kidney beans , black beans , corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN: kidney beans 
+         INGREDIENTS: ounce white kidney beans drained rinsed
+
+
+SENTID: 8
+SENT: I would reduce heat to low , cover skillet , and simmer chili for 30 minutes .
+PREDID: 424
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 440
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 456
+PRED: simmer
+   DOBJ: NULL
+   PARG: chili for 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: chili for 30 minutes
+
+
+SENTID: 9
+SENT: I would stir macaroni into chili , cover skillet , and simmer until macaroni is heated , 5 minutes ;
+PREDID: 480
+PRED: stir
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: chili
+     PREP: into
+      NON-INGREDIENT SPAN: chili
+
+PREDID: 502
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 518
+PRED: simmer
+   DOBJ: NULL
+   PARG: macaroni is heated , 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: macaroni is heated 
+      NON-INGREDIENT SPAN:  5 minutes
+
+
+SENTID: 10
+SENT: I would top with Cheddar cheese and green onions to serve .
+PREDID: 555
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese, green onions
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded reducedfat Cheddar cheese
+      NON-INGREDIENT SPAN:  green onions
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

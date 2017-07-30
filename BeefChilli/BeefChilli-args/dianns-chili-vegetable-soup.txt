@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: In a large soup pot , I would saute ground beef until brown .
+PREDID: 16
+PRED: saute
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large soup pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would drain excess fat .
+PREDID: 42
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 2
+SENT: I would add celery , the onions , green bell peppers , the cabbage , kidney beans , vegetable juice , tomato juice , the corn , diced tomatoes and chili powder .
+PREDID: 57
+PRED: add
+   DOBJ: celery , the onions , green bell peppers , the cabbage , kidney beans , vegetable juice , tomato juice , the corn , diced tomatoes, chili powder
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: fluid tomatovegetable juice cocktail
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: small head cabbage chopped
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  vegetable juice 
+         INGREDIENTS: fluid ounce tomato juice
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell pepper chopped
+
+
+SENTID: 3
+SENT: I would bring to a boil ,
+PREDID: 171
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat to low .
+PREDID: 184
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would cover the pot and let simmer about one hour , or until celery is tender .
+PREDID: 200
+PRED: cover
+   DOBJ: the pot
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 214
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   PARG: one hour , or until celery is tender
+     PREP: about
+      NON-INGREDIENT SPAN: one hour 
+      NON-INGREDIENT SPAN:  or until celery is tender
+
+
+SENTID: 6
+SENT: I would add garlic powder and salt and pepper to taste .
+PREDID: 255
+PRED: add
+   DOBJ: garlic powder, salt, pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

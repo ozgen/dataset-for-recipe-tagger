@@ -1,0 +1,334 @@
+SENTID: 0
+SENT: I would sprinkle yeast over warm water in a small bowl .
+PREDID: 0
+PRED: sprinkle
+   DOBJ: yeast
+      INGREDIENT SPAN: yeast
+         INGREDIENTS: active dry yeast
+   PARG: warm water in a small bowl
+     PREP: over
+      INGREDIENT SPAN: warm water in a small bowl
+         INGREDIENTS: warm water
+
+
+SENTID: 1
+SENT: The water should be no more than 100 degrees F -LRB- 40 degrees C -RRB- .
+
+SENTID: 2
+SENT: I would let stand for 5 minutes until yeast softens and begins to form a creamy foam .
+PREDID: 39
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: yeast softens, begins
+     PREP: until
+      NON-INGREDIENT SPAN: yeast softens
+      NON-INGREDIENT SPAN:  begins
+
+PREDID: 86
+PRED: form
+   DOBJ: a creamy foam
+      NON-INGREDIENT SPAN: a creamy foam
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 3
+SENT: I would sift flour , the sugar , 1 tablespoon oregano , and 1 teaspoon salt into a large bowl .
+PREDID: 102
+PRED: sift
+   DOBJ: flour , the sugar , 1 tablespoon oregano , 1 teaspoon salt
+      INGREDIENT SPAN:  1 tablespoon oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  1 teaspoon salt
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would mix egg and oil into dry ingredients ;
+PREDID: 168
+PRED: mix
+   DOBJ: egg, oil
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: extravirgin olive oil
+      INGREDIENT SPAN: egg
+         INGREDIENTS: egg
+   PARG: dry ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: dry ingredients
+
+
+SENTID: 5
+SENT: I would stir in yeast mixture .
+PREDID: 199
+PRED: stir
+   DOBJ: NULL
+   PARG: yeast mixture
+     PREP: in
+      NON-INGREDIENT SPAN: yeast mixture
+
+
+SENTID: 6
+SENT: When dough has pulled together , turn out onto a lightly floured surface and knead until smooth and elastic , about 8 minutes .
+PREDID: 245
+PRED: turn
+   DOBJ: NULL
+   PARG: a lightly floured surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured surface
+   PARG: about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 minutes
+   OARG: when dough has pulled together
+      NON-INGREDIENT SPAN: when dough has pulled together
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 281
+PRED: knead
+   DOBJ: NULL
+   PARG: smooth, elastic
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  elastic
+
+
+SENTID: 7
+SENT: I would lightly oil a large bowl ,
+PREDID: 322
+PRED: lightly
+   DOBJ: a large bowl
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 8
+SENT: I would place dough in bowl and turn to coat with oil .
+PREDID: 343
+PRED: place
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: bowl
+     PREP: in
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 362
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: oil
+     PREP: with
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 9
+SENT: I would cover with a light cloth and let rise in a warm place -LRB- 80 to 95 degrees F -LRB- 27 to 35 degrees C -RRB- -RRB- until doubled in volume , about 1 hour .
+PREDID: 380
+PRED: cover
+   DOBJ: NULL
+   PARG: a light cloth
+     PREP: with
+      NON-INGREDIENT SPAN: a light cloth
+
+PREDID: 403
+PRED: let
+   DOBJ: rise
+      NON-INGREDIENT SPAN: rise
+   PARG: a warm place -lrb- 80 to 95 degrees f -lrb- 27 to 35 degrees c -rrb- -rrb- until doubled in volume , about 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: a warm place -lrb- 80 to 95 degrees f -lrb- 27 to 35 degrees c -rrb- -rrb- until doubled in volume 
+
+
+SENTID: 10
+SENT: I would preheat oven to 450 degrees F -LRB- 235 degrees C -RRB- .
+PREDID: 486
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 235 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 235 degrees C
+
+
+SENTID: 11
+SENT: I would lightly grease a baking sheet .
+PREDID: 531
+PRED: grease
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 12
+SENT: I would cook and stir diced tomatoes , tomato paste , the onion , 1 tablespoon oregano , garlic , onion powder , 1 teaspoon salt , and pepper in a saucepan over medium heat .
+PREDID: 550
+PRED: cook and stir
+   DOBJ: diced tomatoes , tomato paste , the onion , 1 tablespoon oregano , garlic , onion powder , 1 teaspoon salt , pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  1 tablespoon oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  1 teaspoon salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic chopped
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 13
+SENT: I would cook until sauce has thickened , 15 to 20 minutes .
+PREDID: 680
+PRED: cook
+   DOBJ: NULL
+   PARG: sauce has thickened , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: sauce has thickened 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 14
+SENT: I would punch down dough and turn it out onto a lightly floured surface .
+PREDID: 721
+PRED: punch
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 738
+PRED: turn
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a lightly floured surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 15
+SENT: Use a knife to divide dough into two equal pieces -- do not tear .
+
+SENTID: 16
+SENT: Shape dough into rounds and let rest for 10 minutes .
+PREDID: 779
+PRED: dough
+   DOBJ: NULL
+   PARG: rounds
+     PREP: into
+      NON-INGREDIENT SPAN: rounds
+   OARG: shape
+      NON-INGREDIENT SPAN: shape
+
+PREDID: 797
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 17
+SENT: I would form dough into rectangles , and place onto prepared baking sheet .
+PREDID: 817
+PRED: form
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: rectangles
+     PREP: into
+      NON-INGREDIENT SPAN: rectangles
+
+PREDID: 844
+PRED: place
+   DOBJ: NULL
+   PARG: prepared baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: prepared baking sheet
+
+
+SENTID: 18
+SENT: I would spoon tomato sauce over dough .
+PREDID: 873
+PRED: spoon
+   DOBJ: tomato sauce
+      NON-INGREDIENT SPAN: tomato sauce
+   PARG: dough
+     PREP: over
+      NON-INGREDIENT SPAN: dough
+
+
+SENTID: 19
+SENT: I would sprinkle with 1?1/4 cup mozzarella cheese ;
+PREDID: 899
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1?1/4 cup mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1?1/4 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 20
+SENT: I would top with bell pepper , the onion , and mushroom .
+PREDID: 936
+PRED: top
+   DOBJ: NULL
+   PARG: bell pepper , the onion , mushroom
+     PREP: with
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN: bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  mushroom
+         INGREDIENTS: sliced fresh mushrooms
+
+
+SENTID: 21
+SENT: I would sprinkle 1/4 cup mozzarella cheese over top .
+PREDID: 972
+PRED: sprinkle
+   DOBJ: 1/4 cup mozzarella cheese
+      INGREDIENT SPAN: 1/4 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: top
+     PREP: over
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 22
+SENT: I would bake in preheated oven until crust is browned and crisp and cheese has melted , 20 to 25 minutes .
+PREDID: 1010
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven until crust is browned, crisp, cheese has melted , 20 to 25 minutes
+     PREP: in
+      INGREDIENT SPAN:  cheese has melted 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  crisp
+      NON-INGREDIENT SPAN: preheated oven until crust is browned
+      NON-INGREDIENT SPAN:  20 to 25 minutes
+
+

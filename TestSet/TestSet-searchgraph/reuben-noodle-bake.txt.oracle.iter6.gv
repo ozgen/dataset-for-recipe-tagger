@@ -1,0 +1,87 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="toss
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="place
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="spread
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cover
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="spread
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="top
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="toss
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="sprinkle
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="bake
+13", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D2[label="DOBJ: pasta", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+D1[label="DOBJ: a large pot of lightly salted water", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E1 -> E3 [label="IMPLICIT PREP"]
+O3_0_0[label="OTHER: for 8 to 10 minutes or until al dente", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: with butter", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCATION:in a 9x13 baking dish", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: sauerkraut and", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+P7_1_ing[label="COOBJECT: over egg noodles", shape=box, style=filled, fillcolor=peachpuff]
+P7_1_ing -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_ing[label="COOBJECT: with corned beef", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+O8_0_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+D9_ing[label="DOBJ: mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="COOBJECT:over beef"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: with shredded Swiss cheese", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+D11_ing[label="DOBJ: crushed saltine crackers, caraway seed", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E10 -> E11 [label="IMPLICIT PREP"]
+P11_1_0[label="LOCATION:in a small bowl", shape=box, style=filled, fillcolor=white]
+P11_1_0 -> E11
+P11_2_ing[label="COOBJECT: with butter", shape=box, style=filled, fillcolor=peachpuff]
+P11_2_ing -> E11
+O11_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="crumb mixture"]
+P12_0_ing[label="COOBJECT: over tomato", shape=box, style=filled, fillcolor=peachpuff]
+P12_0_ing -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E0 -> E13 [label="LOCATION:in preheated oven"]
+O13_0_0[label="OTHER: 1 hour", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+O13_1_0[label="OTHER: until bubbly and golden.", shape=box, style=filled, fillcolor=white]
+O13_1_0 -> E13
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E13 -> EOR
+}

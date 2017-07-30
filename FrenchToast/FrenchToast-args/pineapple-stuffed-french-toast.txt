@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would mix pineapple and 1 teaspoon cinnamon in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: pineapple, 1 teaspoon cinnamon
+      INGREDIENT SPAN:  1 teaspoon cinnamon
+         INGREDIENTS: ground cinnamon divided
+      INGREDIENT SPAN: pineapple
+         INGREDIENTS: chopped fresh pineapple drained
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would spread each slice of bread with 1?1/2 teaspoon cream cheese .
+PREDID: 40
+PRED: spread
+   DOBJ: each slice of bread
+      INGREDIENT SPAN: each slice of bread
+         INGREDIENTS: slices good bread
+   PARG: 1?1/2 teaspoon cream cheese
+     PREP: with
+      INGREDIENT SPAN: 1?1/2 teaspoon cream cheese
+         INGREDIENTS: cream cheese
+
+
+SENTID: 2
+SENT: I would top 2 slices with 1/4 cup pineapple mixture apiece ;
+PREDID: 91
+PRED: top
+   DOBJ: 2 slices
+      NON-INGREDIENT SPAN: 2 slices
+   PARG: 1/4 cup pineapple mixture apiece
+     PREP: with
+      NON-INGREDIENT SPAN: 1/4 cup pineapple mixture apiece
+
+
+SENTID: 3
+SENT: I would reserve the remaining pineapple mixture .
+PREDID: 134
+PRED: reserve
+   DOBJ: the remaining pineapple mixture
+      NON-INGREDIENT SPAN: the remaining pineapple mixture
+
+
+SENTID: 4
+SENT: I would place the remaining slices of bread atop pineapple mixture and press lightly to make 2 sandwiches .
+PREDID: 167
+PRED: place
+   DOBJ: the remaining slices of bread atop pineapple mixture
+      NON-INGREDIENT SPAN: the remaining slices of bread atop pineapple mixture
+
+PREDID: 220
+PRED: press
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to make 2 sandwiches
+      NON-INGREDIENT SPAN: to make 2 sandwiches
+
+
+SENTID: 5
+SENT: I would whisk the remaining 1/2 teaspoon cinnamon , the milk , the egg , the sugar , and vanilla extract in a shallow bowl .
+PREDID: 247
+PRED: whisk
+   DOBJ: the remaining 1/2 teaspoon cinnamon , the milk , the egg , the sugar , vanilla extract in a shallow bowl
+      INGREDIENT SPAN: the remaining 1/2 teaspoon cinnamon 
+         INGREDIENTS: ground cinnamon divided
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: whole milk
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  vanilla extract in a shallow bowl
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 6
+SENT: I would lay each sandwich in milk mixture and let bread absorb mixture for a few seconds ;
+PREDID: 328
+PRED: lay
+   DOBJ: each sandwich in milk mixture
+      NON-INGREDIENT SPAN: each sandwich in milk mixture
+
+PREDID: 359
+PRED: let absorb
+   DOBJ: bread, mixture
+      NON-INGREDIENT SPAN: bread
+      NON-INGREDIENT SPAN:  mixture
+   PARG: a few seconds
+     PREP: for
+      NON-INGREDIENT SPAN: a few seconds
+
+
+SENTID: 7
+SENT: I would flip and repeat .
+PREDID: 395
+PRED: flip and repeat
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would heat a nonstick skillet over medium heat , melt butter in the hot skillet , and fry sandwiches on both sides in butter until golden brown , 2 to 3 minutes per side .
+PREDID: 409
+PRED: heat
+   DOBJ: a nonstick skillet
+      NON-INGREDIENT SPAN: a nonstick skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: 2 to 3 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 minutes per side
+
+PREDID: 444
+PRED: melt
+   DOBJ: butter in the hot skillet , fry sandwiches on both sides in butter
+      INGREDIENT SPAN: butter in the hot skillet 
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  fry sandwiches on both sides in butter
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 9
+SENT: I would top each sandwich with half the remaining pineapple mixture and drizzle 1 tablespoon hot fudge sauce over pineapple .
+PREDID: 541
+PRED: top
+   DOBJ: each sandwich
+      NON-INGREDIENT SPAN: each sandwich
+   PARG: half the remaining pineapple mixture
+     PREP: with
+      NON-INGREDIENT SPAN: half the remaining pineapple mixture
+
+PREDID: 595
+PRED: drizzle
+   DOBJ: 1 tablespoon hot fudge sauce over pineapple
+      INGREDIENT SPAN: 1 tablespoon hot fudge sauce over pineapple
+         INGREDIENTS: hot fudge sauce taste
+
+

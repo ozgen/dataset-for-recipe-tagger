@@ -1,0 +1,270 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: lasagna in the boiling water
+      INGREDIENT SPAN: lasagna in the boiling water
+         INGREDIENTS: ounce package lasagna noodles
+   OARG: stirring occasionally until cooked through but firm to the bite , about 8 minutes
+      INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+         INGREDIENTS: cooked chicken chopped
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 178
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would melt butter in a saucepan over medium heat ;
+PREDID: 184
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 5
+SENT: I would stir cream cheese into hot butter until it begins to melt , about 5 minutes .
+PREDID: 220
+PRED: stir
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: hot butter
+     PREP: into
+      NON-INGREDIENT SPAN: hot butter
+   PARG: it begins
+     PREP: until
+      NON-INGREDIENT SPAN: it begins
+
+
+SENTID: 6
+SENT: I would season with salt , onion powder , and black pepper .
+PREDID: 282
+PRED: season
+   DOBJ: NULL
+   PARG: salt , onion powder , black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 7
+SENT: I would whisk warm milk gradually into cream cheese until smooth ;
+PREDID: 324
+PRED: whisk
+   DOBJ: warm milk
+      INGREDIENT SPAN: warm milk
+         INGREDIENTS: warm milk
+   PARG: cream cheese
+     PREP: into
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: shredded Swiss cheese
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 8
+SENT: I would stir in 1?1/2 cup Swiss cheese .
+PREDID: 373
+PRED: stir
+   DOBJ: NULL
+   PARG: 1?1/2 cup swiss cheese
+     PREP: in
+      NON-INGREDIENT SPAN: 1?1/2 cup swiss cheese
+
+
+SENTID: 9
+SENT: I would bring sauce to a simmer , stirring constantly , until cheese has melted and sauce has thickened , 5 to 10 minutes .
+PREDID: 399
+PRED: bring
+   DOBJ: NULL
+   PARG: sauce to a simmer , stirring constantly , until cheese has melted, sauce has thickened , 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  until cheese has melted
+      NON-INGREDIENT SPAN:  sauce has thickened 
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN: sauce to a simmer 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 10
+SENT: I would remove from heat .
+PREDID: 492
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 11
+SENT: I would spread 3/4 cup of cheese sauce into bottom of a 9x9-inch baking dish .
+PREDID: 507
+PRED: spread
+   DOBJ: 3/4 cup of cheese sauce
+      NON-INGREDIENT SPAN: 3/4 cup of cheese sauce
+   PARG: bottom of a 9x9-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: bottom of a 9x9-inch baking dish
+
+
+SENTID: 12
+SENT: I would arrange 1/3 of the lasagna noodles over the sauce and spread half the cooked chicken and half the ham over the noodles .
+PREDID: 564
+PRED: arrange
+   DOBJ: 1/3 of the lasagna noodles
+      NON-INGREDIENT SPAN: 1/3 of the lasagna noodles
+   PARG: the sauce
+     PREP: over
+      NON-INGREDIENT SPAN: the sauce
+
+PREDID: 608
+PRED: spread
+   DOBJ: half the cooked chicken, half the ham
+      INGREDIENT SPAN:  half the ham
+         INGREDIENTS: deli ham chopped
+      NON-INGREDIENT SPAN: half the cooked chicken
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 13
+SENT: I would pour 1 cup sauce over chicken and ham .
+PREDID: 662
+PRED: pour
+   DOBJ: 1 cup sauce
+      NON-INGREDIENT SPAN: 1 cup sauce
+   PARG: chicken, ham
+     PREP: over
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  ham
+
+
+SENTID: 14
+SENT: I would repeat layers starting with half the remaining lasagna noodles , remaining chicken , remaining ham , and 1 more cup of cheese sauce .
+PREDID: 693
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   PARG: with half the remaining lasagna noodles , remaining chicken , remaining ham , 1 more cup of cheese sauce
+     PREP: starting
+      NON-INGREDIENT SPAN:  remaining chicken 
+      NON-INGREDIENT SPAN:  remaining ham 
+      NON-INGREDIENT SPAN: with half the remaining lasagna noodles 
+      NON-INGREDIENT SPAN:  1 more cup of cheese sauce
+
+
+SENTID: 15
+SENT: I would finish by layering remaining lasagna noodles , remaining sauce , 1/2 cup Swiss cheese , and bread crumbs ;
+PREDID: 803
+PRED: finish
+   DOBJ: NULL
+   PARG: layering remaining lasagna noodles , remaining sauce , 1/2 cup swiss cheese , bread crumbs
+     PREP: by
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: bread crumbs
+      NON-INGREDIENT SPAN:  remaining sauce 
+      NON-INGREDIENT SPAN:  1/2 cup swiss cheese 
+      NON-INGREDIENT SPAN: layering remaining lasagna noodles 
+
+
+SENTID: 16
+SENT: I would sprinkle top with Italian seasoning .
+PREDID: 891
+PRED: sprinkle
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: italian seasoning
+     PREP: with
+      INGREDIENT SPAN: italian seasoning
+         INGREDIENTS: Italian seasoning taste
+
+
+SENTID: 17
+SENT: I would cover dish with aluminum foil .
+PREDID: 923
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 18
+SENT: I would bake in the preheated oven until casserole is bubbling , about 25 minutes .
+PREDID: 949
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is bubbling , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: casserole is bubbling 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 19
+SENT: I would remove foil and continue to bake until crumbs are browned , about 10 more minutes .
+PREDID: 1011
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 1024
+PRED: continue
+   DOBJ: NULL
+   OARG: to bake until crumbs are browned , about 10 more minutes
+      NON-INGREDIENT SPAN:  about 10 more minutes
+      NON-INGREDIENT SPAN: to bake until crumbs are browned 
+
+
+SENTID: 20
+SENT: I would let casserole stand 5 to 10 minutes before serving .
+PREDID: 1079
+PRED: let
+   DOBJ: NULL
+   PARG: casserole stand 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: casserole stand 5 to 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

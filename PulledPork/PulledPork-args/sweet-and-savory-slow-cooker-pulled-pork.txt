@@ -1,0 +1,226 @@
+SENTID: 0
+SENT: I would place the pork shoulder roast into a large plastic bag , pour 1 cup of root beer over the meat , and squeeze out all the air from the bag .
+PREDID: 0
+PRED: place
+   DOBJ: the pork shoulder roast
+      INGREDIENT SPAN: the pork shoulder roast
+         INGREDIENTS: pound bonein pork shoulder roast
+   PARG: a large plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: a large plastic bag
+
+PREDID: 46
+PRED: pour
+   DOBJ: 1 cup of root beer
+      INGREDIENT SPAN: 1 cup of root beer
+         INGREDIENTS: root beer
+   PARG: the meat
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 79
+PRED: squeeze
+   DOBJ: all the air
+      NON-INGREDIENT SPAN: all the air
+   PARG: the bag
+     PREP: from
+      NON-INGREDIENT SPAN: the bag
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 1
+SENT: I would seal the bag closed , and refrigerate 6 hours to overnight .
+PREDID: 109
+PRED: seal
+   DOBJ: NULL
+   OARG: the bag closed
+      NON-INGREDIENT SPAN: the bag closed
+
+PREDID: 129
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 6 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 6 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 2
+SENT: The next day , mix together the light brown sugar , kosher salt , black pepper , paprika , dry mustard , onion powder , garlic salt , celery salt , cinnamon , ginger , and nutmeg in a bowl .
+
+SENTID: 3
+SENT: I would remove the meat from the marinade , and shake off the excess .
+PREDID: 158
+PRED: remove
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the marinade
+     PREP: from
+      NON-INGREDIENT SPAN: the marinade
+
+PREDID: 190
+PRED: shake
+   DOBJ: the excess
+      NON-INGREDIENT SPAN: the excess
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would rub the meat all over with the spice mixture , wrap in plastic wrap , and refrigerate for 30 minutes to 2 hours .
+PREDID: 208
+PRED: rub
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the spice mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the spice mixture
+   OARG: all over
+      NON-INGREDIENT SPAN: all over
+
+PREDID: 245
+PRED: wrap
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: in
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 266
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: 2 hours
+     PREP: to
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 5
+SENT: I would mix together the balsamic vinegar , 1?1/2 cups of root beer , the whiskey , and brown sugar in a bowl , and stir until the sugar dissolves .
+PREDID: 298
+PRED: mix
+   DOBJ: the balsamic vinegar , 1?1/2 cups of root beer , the whiskey , brown sugar in a bowl
+      INGREDIENT SPAN:  1?1/2 cups of root beer 
+         INGREDIENTS: root beer
+      INGREDIENT SPAN: the balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the whiskey 
+         INGREDIENTS: fluid whiskey
+      INGREDIENT SPAN:  brown sugar in a bowl
+         INGREDIENTS: light brown sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 383
+PRED: stir
+   DOBJ: NULL
+   PARG: the sugar dissolves
+     PREP: until
+      INGREDIENT SPAN: the sugar dissolves
+         INGREDIENTS: brown sugar
+
+
+SENTID: 6
+SENT: I would heat the olive oil in a skillet over medium-high heat , and sear the meat on all sides until the meat develops a brown crust , about 3 minutes per side .
+
+SENTID: 7
+SENT: I would place the seared meat into a slow cooker .
+PREDID: 529
+PRED: place
+   DOBJ: the seared meat
+      NON-INGREDIENT SPAN: the seared meat
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 8
+SENT: I would pour the balsamic vinegar-root beer mixture over the meat , set the slow cooker to High , and cook for 6 to 8 hours .
+PREDID: 563
+PRED: pour
+   DOBJ: the balsamic vinegar-root beer mixture over the meat
+      INGREDIENT SPAN: the balsamic vinegar-root beer mixture over the meat
+         INGREDIENTS: root beer
+
+PREDID: 613
+PRED: set
+   DOBJ: the slow cooker
+      NON-INGREDIENT SPAN: the slow cooker
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 639
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 hours
+
+
+SENTID: 9
+SENT: I would remove the roast from the slow cooker , and shred with 2 forks .
+PREDID: 656
+PRED: remove
+   DOBJ: the roast from the slow cooker , shred with 2 forks
+      NON-INGREDIENT SPAN:  shred with 2 forks
+      NON-INGREDIENT SPAN: the roast from the slow cooker 
+
+
+SENTID: 10
+SENT: I would discard the bones and all but 1 cup of the liquid in the slow cooker .
+PREDID: 707
+PRED: discard
+   DOBJ: the bones, all but 1 cup of the liquid in the slow cooker
+      NON-INGREDIENT SPAN: the bones
+      NON-INGREDIENT SPAN:  all but 1 cup of the liquid in the slow cooker
+
+
+SENTID: 11
+SENT: I would return the shredded meat to the cooker , mix in the barbecue sauce , and let the sit on Low until ready to serve .
+PREDID: 762
+PRED: return
+   DOBJ: the shredded meat
+      NON-INGREDIENT SPAN: the shredded meat
+   PARG: the cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the cooker
+
+PREDID: 795
+PRED: mix
+   DOBJ: NULL
+   PARG: the barbecue sauce
+     PREP: in
+      INGREDIENT SPAN: the barbecue sauce
+         INGREDIENTS: prepared barbecue sauce
+
+PREDID: 820
+PRED: let
+   DOBJ: the sit on Low
+      NON-INGREDIENT SPAN: the sit on Low
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+
+SENTID: 12
+SENT: I would serve piled on buns .
+PREDID: 849
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 854
+PRED: piled
+   DOBJ: NULL
+   PARG: buns
+     PREP: on
+      INGREDIENT SPAN: buns
+         INGREDIENTS: hamburger buns split
+
+

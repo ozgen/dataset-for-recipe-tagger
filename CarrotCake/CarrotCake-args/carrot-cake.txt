@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease one 9 or 10 inch tube pan .
+PREDID: 38
+PRED: grease
+   DOBJ: one 9 or 10 inch tube pan
+      NON-INGREDIENT SPAN: one 9 or 10 inch tube pan
+
+
+SENTID: 2
+SENT: I would combine the sugar , the flour , the salt , the cinnamon , the soda , oil .
+PREDID: 64
+PRED: combine
+   DOBJ: the sugar , the flour , the salt , the cinnamon , the soda , oil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 3
+SENT: With an electric mixer beat in the eggs one at a time .
+PREDID: 128
+PRED: beat
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: the eggs
+     PREP: in
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   OARG: one at a time
+      NON-INGREDIENT SPAN: one at a time
+
+
+SENTID: 4
+SENT: I would stir in the carrots and the walnuts .
+PREDID: 152
+PRED: stir
+   DOBJ: NULL
+   PARG: the carrots, the walnuts
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: grated carrots
+
+
+SENTID: 5
+SENT: I would pour the batter into the prepared baking pan .
+PREDID: 182
+PRED: pour
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking pan
+
+
+SENTID: 6
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour 20 minutes .
+PREDID: 220
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1 hour 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour 20 minutes
+
+
+SENTID: 7
+SENT: I would note :
+PREDID: 268
+PRED: note
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: this cake can be made in two 9 inch layer cake pans just change the baking time to 40 minutes .
+
+SENTID: 9
+SENT: To Make Frosting :
+
+SENTID: 10
+SENT: With an electric mixer blend the cream cheese and cream .
+
+SENTID: 11
+SENT: I would add the vanilla and confectioners ' sugar .
+PREDID: 335
+PRED: add
+   DOBJ: the vanilla, confectioners ' sugar
+      INGREDIENT SPAN:  confectioners ' sugar
+         INGREDIENTS: sifted confectioners sugar
+      INGREDIENT SPAN: the vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 12
+SENT: I would frosting can be spread and a still warm cake .
+PREDID: 371
+PRED: frosting
+   DOBJ: NULL
+   OARG: can be spread, a still warm cake
+      NON-INGREDIENT SPAN:  a still warm cake
+      NON-INGREDIENT SPAN: can be spread
+
+

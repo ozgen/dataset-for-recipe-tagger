@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil , add the potatoes and let cook until tender .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 35
+PRED: add
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled diced
+
+PREDID: 52
+PRED: let
+   DOBJ: cook
+      NON-INGREDIENT SPAN: cook
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 1
+SENT: While the potatoes cook , I would in a large bowl , whisk together the vinegar , the sugar , the mustard , the salt and pepper .
+
+SENTID: 2
+SENT: I would drain the potatoes , stir them into the vinegar mixture and let them marinate for 30 minutes to absorb the flavors .
+PREDID: 157
+PRED: drain
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 174
+PRED: stir
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the vinegar mixture
+     PREP: into
+      INGREDIENT SPAN: the vinegar mixture
+         INGREDIENTS: cider vinegar
+
+PREDID: 206
+PRED: let
+   DOBJ: NULL
+   OARG: them marinate for 30 minutes to absorb the flavors
+      NON-INGREDIENT SPAN: them marinate for 30 minutes to absorb the flavors
+
+
+SENTID: 3
+SENT: In a small bowl , I would whisk the mayonnaise , sour cream and heavy cream .
+PREDID: 265
+PRED: whisk
+   DOBJ: the mayonnaise , sour cream, heavy cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  heavy cream
+         INGREDIENTS: heavy cream
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 4
+SENT: I would fold this creamy mixture into the potato mixture along with the onions and hard-cooked eggs .
+PREDID: 307
+PRED: fold
+   DOBJ: this creamy mixture
+      NON-INGREDIENT SPAN: this creamy mixture
+   PARG: the potato mixture along with the onions, hard-cooked eggs
+     PREP: into
+      INGREDIENT SPAN:  hard-cooked eggs
+         INGREDIENTS: hardcooked eggs peeled chopped
+      INGREDIENT SPAN: the potato mixture along with the onions
+         INGREDIENTS: chopped onion
+
+
+SENTID: 5
+SENT: I would cover and chill before serving if you wish .
+PREDID: 385
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: serving if you wish
+     PREP: before
+      NON-INGREDIENT SPAN: serving if you wish
+
+
+SENTID: 6
+SENT: -LRB- This salad keeps for up to 3 days in the refrigerator .
+
+SENTID: 7
+SENT: -RRB-
+

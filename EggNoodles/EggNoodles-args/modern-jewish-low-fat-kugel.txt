@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 9x13-inch baking dish with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 80
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 122
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package yolkfree egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 223
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would gently stir egg noodles , sour cream , cottage cheese , pineapple with juice , the eggs , orange juice , the cranberries , melted butter , the sugar , the applesauce , orange zest , vanilla extract , and cinnamon together in a large bowl until thoroughly combined .
+PREDID: 235
+PRED: stir
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: egg noodles , sour cream , cottage cheese , pineapple with juice , the eggs , orange juice , the cranberries , melted butter , the sugar , the applesauce , orange zest , vanilla extract
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN:  pineapple with juice 
+         INGREDIENTS: ounce crushed pineapple juice undrained
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: ounce container lowfat cottage cheese
+      INGREDIENT SPAN:  melted butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  orange juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: ounce container lowfat sour cream
+      INGREDIENT SPAN: egg noodles 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN:  orange zest 
+   OARG: cinnamon together in a large bowl until thoroughly combined
+      INGREDIENT SPAN: cinnamon together in a large bowl until thoroughly combined
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 6
+SENT: I would spoon the noodle mixture into prepared baking dish .
+PREDID: 433
+PRED: spoon
+   DOBJ: the noodle mixture
+      NON-INGREDIENT SPAN: the noodle mixture
+   PARG: prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until kugel is set and browned on top , 60 to 75 minutes .
+PREDID: 477
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: kugel is set, browned on top , 60 to 75 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: kugel is set
+      NON-INGREDIENT SPAN:  browned on top 
+      NON-INGREDIENT SPAN:  60 to 75 minutes
+
+

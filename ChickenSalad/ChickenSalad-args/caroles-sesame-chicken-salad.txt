@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would several hours before serving make the dressing .
+
+SENTID: 1
+SENT: I would combine mayonnaise , sesame oil , the sugar and ginger .
+PREDID: 0
+PRED: combine
+   DOBJ: mayonnaise , sesame oil , the sugar, ginger
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would cover and refrigerate .
+PREDID: 43
+PRED: cover and refrigerate
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would thinly the slice the cabbage and place in large bowl along with the cubed chicken .
+PREDID: 63
+PRED: thinly
+   DOBJ: the slice the cabbage, place in large bowl along
+      INGREDIENT SPAN: the slice the cabbage
+         INGREDIENTS: small head napa cabbage
+      NON-INGREDIENT SPAN:  place in large bowl along
+   PARG: the cubed chicken
+     PREP: with
+      INGREDIENT SPAN: the cubed chicken
+         INGREDIENTS: boneless chicken breast halves cooked chopped
+
+
+SENTID: 4
+SENT: I would add the green onions , toasted sesame seeds and shredded carrot .
+PREDID: 128
+PRED: add
+   DOBJ: the green onions , toasted sesame seeds, shredded carrot
+      INGREDIENT SPAN:  shredded carrot
+         INGREDIENTS: carrot shredded
+      INGREDIENT SPAN: the green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  toasted sesame seeds
+         INGREDIENTS: sesame seeds toasted
+
+
+SENTID: 5
+SENT: I would toss
+PREDID: 182
+PRED: toss
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would mix in the dressing .
+PREDID: 186
+PRED: mix
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: in
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 7
+SENT: I would divide salad onto serving plates and top with additional green onion and crispy rice noodles .
+PREDID: 203
+PRED: divide
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: serving plates, top with additional green onion, crispy rice noodles
+     PREP: onto
+      INGREDIENT SPAN:  crispy rice noodles
+         INGREDIENTS: crispy fried rice noodles garnish
+      NON-INGREDIENT SPAN: serving plates
+      NON-INGREDIENT SPAN:  top with additional green onion
+
+

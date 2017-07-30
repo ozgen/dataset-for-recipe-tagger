@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would mix flour , garlic powder , the salt , and pepper together in a resealable plastic bag .
+PREDID: 0
+PRED: mix
+   DOBJ: flour , garlic powder , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+   PARG: a resealable plastic bag
+     PREP: in
+      NON-INGREDIENT SPAN: a resealable plastic bag
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add cubed chicken to the bag and shake until well coated .
+PREDID: 68
+PRED: add
+   DOBJ: cubed chicken
+      INGREDIENT SPAN: cubed chicken
+         INGREDIENTS: skinless boneless chicken breast meat cut cubes
+   PARG: the bag
+     PREP: to
+      NON-INGREDIENT SPAN: the bag
+
+PREDID: 94
+PRED: shake
+   DOBJ: NULL
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 2
+SENT: I would heat the oil in a large skillet over medium heat .
+PREDID: 115
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would add the chicken ;
+PREDID: 155
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: chicken broth
+
+
+SENTID: 4
+SENT: I would cook and stir until the chicken is no longer pink , about 5 minutes .
+PREDID: 169
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is no longer pink
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would stir in the bell pepper , the onion , the zucchini , the mushrooms , chicken broth , and Italian dressing .
+PREDID: 224
+PRED: stir
+   DOBJ: NULL
+   PARG: the bell pepper , the onion , the zucchini , the mushrooms , chicken broth , italian dressing
+     PREP: in
+      INGREDIENT SPAN:  italian dressing
+         INGREDIENTS: Italian salad dressing
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced fresh mushrooms
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: sliced zucchini
+      NON-INGREDIENT SPAN:  chicken broth 
+      NON-INGREDIENT SPAN: the bell pepper 
+
+
+SENTID: 6
+SENT: I would cover and simmer until vegetables and meat are tender , about 10 minutes .
+

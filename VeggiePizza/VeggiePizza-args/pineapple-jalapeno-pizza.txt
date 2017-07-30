@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would place an oven rack in the center of the oven .
+PREDID: 0
+PRED: place
+   DOBJ: an oven rack
+      NON-INGREDIENT SPAN: an oven rack
+   PARG: the center of the oven
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the oven
+
+
+SENTID: 1
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 36
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 2
+SENT: I would brush the entire crust surface with olive oil , and sprinkle with Italian herb mix , parsley flakes , and 1/2 cup of the Parmesan cheese .
+PREDID: 74
+PRED: brush
+   DOBJ: the entire crust surface
+      INGREDIENT SPAN: the entire crust surface
+         INGREDIENTS: large prebaked pizza crust
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil needed
+
+PREDID: 116
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: italian herb mix , parsley flakes , 1/2 cup of the parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parsley flakes 
+         INGREDIENTS: dried parsley flakes
+      INGREDIENT SPAN: italian herb mix 
+         INGREDIENTS: dried Italian herb mix taste
+      INGREDIENT SPAN:  1/2 cup of the parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+
+
+SENTID: 3
+SENT: I would sprinkle 1/4 cup of mozzarella cheese over the crust .
+PREDID: 186
+PRED: sprinkle
+   DOBJ: 1/4 cup of mozzarella cheese
+      INGREDIENT SPAN: 1/4 cup of mozzarella cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese divided
+   PARG: the crust
+     PREP: over
+      NON-INGREDIENT SPAN: the crust
+
+
+SENTID: 4
+SENT: I would place pineapple chunks in a bowl , and toss with remaining Parmesan cheese .
+PREDID: 231
+PRED: place
+   DOBJ: pineapple chunks
+      INGREDIENT SPAN: pineapple chunks
+         INGREDIENTS: ounce pineapple chunks juice drained
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 262
+PRED: toss
+   DOBJ: NULL
+   PARG: remaining parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: remaining parmesan cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese divided
+      INGREDIENT SPAN: remaining parmesan 
+         INGREDIENTS: grated Parmesan cheese divided
+
+
+SENTID: 5
+SENT: I would spread the pineapple chunks evenly over the crust , and sprinkle pizza with the chopped jalapeno .
+PREDID: 294
+PRED: spread
+   DOBJ: the pineapple chunks
+      NON-INGREDIENT SPAN: the pineapple chunks
+   OARG: evenly over the crust
+      NON-INGREDIENT SPAN: evenly over the crust
+
+PREDID: 340
+PRED: sprinkle
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: the chopped jalapeno
+     PREP: with
+      INGREDIENT SPAN: the chopped jalapeno
+         INGREDIENTS: chopped jalapeno pepper
+
+
+SENTID: 6
+SENT: I would top with the remaining mozzarella cheese .
+PREDID: 376
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining mozzarella cheese
+
+
+SENTID: 7
+SENT: I would place the pizza directly on the oven rack , and bake until the crust is crisp and the cheese is melted and slightly browned , 10 to 12 minutes .
+PREDID: 412
+PRED: place
+   DOBJ: the pizza
+      NON-INGREDIENT SPAN: the pizza
+   PARG: the oven rack
+     PREP: on
+      NON-INGREDIENT SPAN: the oven rack
+   OARG: directly
+      NON-INGREDIENT SPAN: directly
+   OARG: 10 to 12 minutes
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+PREDID: 450
+PRED: bake
+   DOBJ: NULL
+   PARG: the crust is crisp, the cheese is melted, slightly browned
+     PREP: until
+      NON-INGREDIENT SPAN:  slightly browned
+      NON-INGREDIENT SPAN:  the cheese is melted
+      NON-INGREDIENT SPAN: the crust is crisp
+
+
+SENTID: 8
+SENT: I would cool for about 5 minutes before serving .
+PREDID: 527
+PRED: cool
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,231 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would coat a 12 inch pizza or baking dish with nonstick cooking spray .
+PREDID: 38
+PRED: coat
+   DOBJ: a 12 inch pizza or baking dish with nonstick cooking spray
+      NON-INGREDIENT SPAN: a 12 inch pizza or baking dish with nonstick cooking spray
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine the potatoes , shredded onion , the eggs and flour .
+PREDID: 104
+PRED: combine
+   DOBJ: the potatoes , shredded onion , the eggs, flour
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  shredded onion 
+         INGREDIENTS: onion sliced
+      INGREDIENT SPAN: the potatoes 
+         INGREDIENTS: potatoes shredded
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would mix well and press into the prepared pan .
+PREDID: 150
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 160
+PRED: press
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 4
+SENT: I would bake for 15 minutes .
+PREDID: 184
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 5
+SENT: I would spray top of shell with cooking oil and bake for 10 more minutes .
+PREDID: 201
+PRED: spray
+   DOBJ: top of shell
+      NON-INGREDIENT SPAN: top of shell
+   PARG: cooking oil, bake for 10 more minutes
+     PREP: with
+      INGREDIENT SPAN: cooking oil
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  bake for 10 more minutes
+
+
+SENTID: 6
+SENT: I would place under broil and broil for 3 minutes , until golden and crisp .
+PREDID: 254
+PRED: place
+   DOBJ: NULL
+   PARG: broil, broil
+     PREP: under
+      NON-INGREDIENT SPAN:  broil
+      NON-INGREDIENT SPAN: broil
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+   PARG: golden, crisp
+     PREP: until
+      NON-INGREDIENT SPAN:  crisp
+      NON-INGREDIENT SPAN: golden
+
+
+SENTID: 7
+SENT: I would remove crust from oven but leave oven on .
+PREDID: 309
+PRED: remove
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 331
+PRED: leave
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+
+SENTID: 8
+SENT: In a large bowl combine the zucchini , yellow squash , green pepper , thinly sliced onion , garlic and tofu .
+PREDID: 355
+PRED: combine
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: zucchini , yellow squash , green pepper , thinly sliced onion , garlic, tofu
+      INGREDIENT SPAN:  thinly sliced onion 
+         INGREDIENTS: tomatoes sliced
+      INGREDIENT SPAN: zucchini 
+         INGREDIENTS: zucchini sliced
+      INGREDIENT SPAN:  thinly onion 
+         INGREDIENTS: medium onion grated
+      INGREDIENT SPAN:  tofu
+         INGREDIENTS: firm tofu crumbled
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  yellow squash 
+         INGREDIENTS: yellow squash sliced
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 9
+SENT: I would toss to combine .
+PREDID: 431
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 10
+SENT: In a large nonstick skillet , I would saute vegetable/tofu mixture until vegetables are just tender crisp .
+PREDID: 469
+PRED: saute
+   DOBJ: vegetable/tofu mixture
+      NON-INGREDIENT SPAN: vegetable/tofu mixture
+   PARG: a large nonstick skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large nonstick skillet
+   PARG: vegetables are just tender crisp
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are just tender crisp
+
+
+SENTID: 11
+SENT: I would combine the tomato sauce and basil .
+PREDID: 529
+PRED: combine
+   DOBJ: the tomato sauce
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: tomato sauce
+
+
+SENTID: 12
+SENT: I would spread half of the sauce over the top to the potato crust .
+PREDID: 559
+PRED: spread
+   DOBJ: half of the sauce over the top
+      NON-INGREDIENT SPAN: half of the sauce over the top
+   PARG: the potato crust
+     PREP: to
+      NON-INGREDIENT SPAN: the potato crust
+
+
+SENTID: 13
+SENT: I would top with the sauteed vegetables and sliced tomatoes .
+PREDID: 606
+PRED: top
+   DOBJ: NULL
+   PARG: the sauteed vegetables, sliced tomatoes
+     PREP: with
+      NON-INGREDIENT SPAN: the sauteed vegetables
+      NON-INGREDIENT SPAN:  sliced tomatoes
+
+
+SENTID: 14
+SENT: I would pour the remaining sauce evenly over all .
+PREDID: 651
+PRED: pour
+   DOBJ: the remaining sauce
+      NON-INGREDIENT SPAN: the remaining sauce
+   PARG: over all
+     PREP: evenly
+      NON-INGREDIENT SPAN: over all
+
+
+SENTID: 15
+SENT: I would top with the cheese .
+PREDID: 686
+PRED: top
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded fatfree mozzarella cheese
+
+
+SENTID: 16
+SENT: I would bake at 425 degrees F -LRB- 220 degrees C -RRB- for 7 minutes or until cheese is melted .
+PREDID: 703
+PRED: bake
+   DOBJ: NULL
+   PARG: 425 degrees f -lrb- 220 degrees c -rrb- for 7 minutes or until cheese is melted
+     PREP: at
+      NON-INGREDIENT SPAN: 425 degrees f -lrb- 220 degrees c -rrb- for 7 minutes or until cheese is melted
+
+
+SENTID: 17
+SENT: I would slice into wedges to serve .
+PREDID: 766
+PRED: slice
+   DOBJ: NULL
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

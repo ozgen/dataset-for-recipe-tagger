@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would heat 1 tablespoon olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: 1 tablespoon olive oil
+      INGREDIENT SPAN: 1 tablespoon olive oil
+         INGREDIENTS: extra virgin olive oil divided
+   PARG: a skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a skillet over medium heat
+         INGREDIENTS: medium red bell pepper sliced
+
+
+SENTID: 1
+SENT: I would cook chicken breast in the skillet 10 minutes on each side , or until juices run clear .
+PREDID: 48
+PRED: cook
+   DOBJ: NULL
+   PARG: chicken breast in the skillet 10 minutes
+     PREP: for
+      INGREDIENT SPAN: chicken breast in the skillet 10 minutes
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+
+
+SENTID: 2
+SENT: I would remove chicken from skillet and shred .
+PREDID: 119
+PRED: remove
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: skillet, shred
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+      NON-INGREDIENT SPAN:  shred
+
+
+SENTID: 3
+SENT: I would return to skillet , mix in pesto sauce , and continue the cooking just until sauce is heated through .
+PREDID: 152
+PRED: return
+   DOBJ: NULL
+   OARG: to skillet , mix in pesto sauce , continue the cooking just until sauce is heated through
+      INGREDIENT SPAN:  mix in pesto sauce 
+         INGREDIENTS: pesto sauce
+      NON-INGREDIENT SPAN:  continue the cooking just until sauce is heated through
+      NON-INGREDIENT SPAN: to skillet 
+
+
+SENTID: 4
+SENT: I would place greens in a bowl , and top with chicken , bell pepper , the cucumber , and onion .
+PREDID: 232
+PRED: place
+   DOBJ: greens
+      INGREDIENT SPAN: greens
+         INGREDIENTS: mixed baby greens
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 254
+PRED: top
+   DOBJ: NULL
+   PARG: chicken , bell pepper , the cucumber , onion
+     PREP: with
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: small cucumber sliced
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: red onion sliced
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 5
+SENT: I would drizzle with remaining olive oil , balsamic vinegar , and honey .
+PREDID: 298
+PRED: drizzle
+   DOBJ: NULL
+   PARG: remaining olive oil , balsamic vinegar , honey
+     PREP: with
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN: remaining olive oil 
+         INGREDIENTS: extra virgin olive oil divided
+
+
+SENTID: 6
+SENT: I would season with salt and pepper .
+PREDID: 352
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 7
+SENT: I would toss , and serve .
+PREDID: 376
+PRED: toss
+   DOBJ: NULL
+
+

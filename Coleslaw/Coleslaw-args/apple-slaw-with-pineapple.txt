@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: I would whisk cream , the mayonnaise , and sugar in a large salad bowl until sugar has dissolved .
+
+SENTID: 1
+SENT: I would gently fold in cabbage , the apple , and pineapple to coat with dressing .
+PREDID: 76
+PRED: fold
+   DOBJ: NULL
+   PARG: cabbage , the apple , pineapple
+     PREP: in
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: large red apple cored diced
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: shredded cabbage
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 2
+SENT: I would refrigerate until serving time .
+PREDID: 127
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving time
+     PREP: until
+      NON-INGREDIENT SPAN: serving time
+
+

@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would place eggs into a large saucepan , cover with cold water , and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: large eggs
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 28
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      INGREDIENT SPAN: cold water
+         INGREDIENTS: water desired
+
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would let eggs boil for 3 minutes ;
+PREDID: 63
+PRED: let
+   DOBJ: NULL
+   PARG: eggs boil for 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: eggs boil for 3 minutes
+
+
+SENTID: 2
+SENT: I would turn off heat , cover the pot , and let eggs cook in hot water for at least 20 minutes .
+PREDID: 86
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 98
+PRED: cover
+   DOBJ: the pot
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 113
+PRED: let cook
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for at least 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for at least 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and cover eggs with cold water .
+PREDID: 151
+PRED: drain and cover
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: I would peel cooled eggs .
+PREDID: 182
+PRED: peel
+   DOBJ: cooled eggs
+      NON-INGREDIENT SPAN: cooled eggs
+
+
+SENTID: 5
+SENT: I would cut hard-cooked eggs in half lengthwise and remove yolks ;
+PREDID: 197
+PRED: cut
+   DOBJ: hard-cooked eggs
+      NON-INGREDIENT SPAN: hard-cooked eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 234
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 6
+SENT: I would mash yolks in a bowl with creamy salad dressing , the salt , black pepper , hot sauce , and dry mustard until smooth .
+PREDID: 246
+PRED: mash
+   DOBJ: yolks in a bowl
+      NON-INGREDIENT SPAN: yolks in a bowl
+   PARG: creamy salad dressing , the salt , black pepper , hot sauce , dry mustard
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: creamy salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot sauce
+      NON-INGREDIENT SPAN:  black pepper 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would place red , blue , and green food coloring into 3 different bowls and add about 1 cup water to each bowl .
+PREDID: 337
+PRED: place
+   DOBJ: red , blue , green food coloring into 3 different bowls
+      INGREDIENT SPAN:  green food coloring into 3 different bowls
+         INGREDIENTS: drops green food coloring desired amount
+      NON-INGREDIENT SPAN: red 
+      NON-INGREDIENT SPAN:  blue 
+
+PREDID: 393
+PRED: add
+   DOBJ: about 1 cup water
+      NON-INGREDIENT SPAN: about 1 cup water
+   PARG: each bowl
+     PREP: to
+      NON-INGREDIENT SPAN: each bowl
+
+
+SENTID: 8
+SENT: I would steep 8 egg white halves in each bowl , tinting the egg whites pink , light blue , and green .
+PREDID: 421
+PRED: steep
+   DOBJ: 8 egg white halves in each bowl , tinting the egg whites pink , light blue , green
+      NON-INGREDIENT SPAN:  tinting the egg whites pink 
+      NON-INGREDIENT SPAN: 8 egg white halves in each bowl 
+      NON-INGREDIENT SPAN:  light blue 
+      NON-INGREDIENT SPAN:  green
+
+
+SENTID: 9
+SENT: If color is too pale , add more coloring to bowls .
+PREDID: 519
+PRED: add
+   DOBJ: NULL
+   PARG: color is too
+     PREP: if
+      NON-INGREDIENT SPAN: color is too
+   OARG: more coloring to bowls
+      INGREDIENT SPAN: more coloring to bowls
+         INGREDIENTS: drops green food coloring desired amount
+
+
+SENTID: 10
+SENT: I would drain colored egg whites on paper towels .
+PREDID: 535
+PRED: drain
+   DOBJ: colored egg whites on paper towels
+      NON-INGREDIENT SPAN: colored egg whites on paper towels
+
+
+SENTID: 11
+SENT: I would pipe or spoon egg yolk filling into colored egg white halves ;
+
+SENTID: 12
+SENT: I would cover and chill before serving , at least 30 minutes .
+PREDID: 570
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: least 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 30 minutes
+
+

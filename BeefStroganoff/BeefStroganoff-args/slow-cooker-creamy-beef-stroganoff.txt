@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would stir the soup , the water , Worcestershire sauce , the mushrooms , the onions , garlic and black pepper in a 6-quart slow cooker .
+PREDID: 0
+PRED: stir
+   DOBJ: the soup , the water , Worcestershire sauce , the mushrooms , the onions , garlic, black pepper
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: medium onions chopped
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce Campbell Condensed Cream Mushroom Soup
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce package sliced white mushrooms
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a 6-quart slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a 6-quart slow cooker
+
+
+SENTID: 1
+SENT: I would add the beef and stir to coat .
+PREDID: 96
+PRED: add
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: pound boneless beef bottom round steak cut thin strips
+
+PREDID: 109
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would cover and cook on LOW for 8 to 9 hours or until the beef is fork-tender .
+PREDID: 120
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low for 8 to 9 hours or until the beef is fork-tender
+     PREP: on
+      NON-INGREDIENT SPAN: low for 8 to 9 hours or until the beef is fork-tender
+
+
+SENTID: 3
+SENT: I would stir the sour cream in the cooker .
+PREDID: 177
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+   PARG: the cooker
+     PREP: in
+      NON-INGREDIENT SPAN: the cooker
+
+
+SENTID: 4
+SENT: I would serve the beef mixture with the noodles .
+PREDID: 205
+PRED: serve
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the noodles
+     PREP: with
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: ounce package medium egg noodles cooked drained
+
+
+SENTID: 5
+SENT: I would sprinkle with the parsley , if desired .
+PREDID: 239
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the parsley
+     PREP: with
+      INGREDIENT SPAN: the parsley
+         INGREDIENTS: Chopped fresh parsley
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

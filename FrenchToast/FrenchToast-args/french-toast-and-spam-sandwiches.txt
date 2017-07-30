@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would cut meat into 8 slices .
+PREDID: 0
+PRED: cut
+   DOBJ: meat
+      INGREDIENT SPAN: meat
+         INGREDIENTS: ounce container cooked luncheon meat
+   PARG: 8 slices
+     PREP: into
+      INGREDIENT SPAN: 8 slices
+         INGREDIENTS: slices white bread
+
+
+SENTID: 1
+SENT: I would cook in a large skillet until browned on both sides .
+PREDID: 19
+PRED: cook
+   DOBJ: NULL
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: browned on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: browned on both sides
+
+
+SENTID: 2
+SENT: I would remove from skillet , and keep warm .
+PREDID: 62
+PRED: remove
+   DOBJ: NULL
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 83
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 3
+SENT: In a shallow dish , I would beat eggs and milk together .
+PREDID: 107
+PRED: beat
+   DOBJ: eggs, milk
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+   PARG: a shallow dish
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow dish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would dip bread quickly in egg mixture , the coating both sides .
+PREDID: 131
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices white bread
+   PARG: egg mixture , the coating both sides
+     PREP: in
+      NON-INGREDIENT SPAN: egg mixture 
+      NON-INGREDIENT SPAN:  the coating both sides
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+
+
+SENTID: 5
+SENT: I would fry two at a time in skillet until done on both sides .
+PREDID: 176
+PRED: fry
+   DOBJ: two
+      NON-INGREDIENT SPAN: two
+   PARG: a time in skillet
+     PREP: at
+      NON-INGREDIENT SPAN: a time in skillet
+   PARG: done on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: done on both sides
+
+
+SENTID: 6
+SENT: I would wrap one piece of meat with one slice of French toast .
+PREDID: 219
+PRED: wrap
+   DOBJ: one piece of meat
+      NON-INGREDIENT SPAN: one piece of meat
+   PARG: one slice of french toast
+     PREP: with
+      NON-INGREDIENT SPAN: one slice of french toast
+
+

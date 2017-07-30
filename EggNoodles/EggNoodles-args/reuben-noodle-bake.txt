@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would toss with half the melted butter and place in a 9x13 baking dish .
+PREDID: 131
+PRED: toss
+   DOBJ: NULL
+   PARG: half the melted butter, place in a 9x13 baking dish
+     PREP: with
+      INGREDIENT SPAN: half the melted butter
+         INGREDIENTS: butter melted
+      NON-INGREDIENT SPAN:  place in a 9x13 baking dish
+
+
+SENTID: 5
+SENT: I would spread sauerkraut over the noodles ;
+PREDID: 184
+PRED: spread
+   DOBJ: sauerkraut
+      INGREDIENT SPAN: sauerkraut
+         INGREDIENTS: ounce sauerkraut drained rinsed
+   PARG: the noodles
+     PREP: over
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: egg noodles
+
+
+SENTID: 6
+SENT: I would cover evenly with corned beef .
+PREDID: 215
+PRED: cover
+   DOBJ: NULL
+   PARG: corned beef
+     PREP: with
+      INGREDIENT SPAN: corned beef
+         INGREDIENTS: corned beef
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 7
+SENT: I would spread mayonnaise over beef and top with the shredded Swiss and tomato slices .
+PREDID: 241
+PRED: spread
+   DOBJ: mayonnaise over beef, top
+      INGREDIENT SPAN: mayonnaise over beef
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  top
+   PARG: the shredded swiss, tomato slices
+     PREP: with
+      INGREDIENT SPAN:  tomato slices
+         INGREDIENTS: tomato sliced
+      NON-INGREDIENT SPAN: the shredded swiss
+
+
+SENTID: 8
+SENT: In a small bowl , I would toss together crushed crackers and caraway seed with remaining melted butter .
+PREDID: 320
+PRED: toss
+   DOBJ: crushed crackers, caraway seed with remaining melted butter
+      INGREDIENT SPAN:  caraway seed with remaining melted butter
+         INGREDIENTS: caraway seed
+      INGREDIENT SPAN: crushed crackers
+         INGREDIENTS: crushed saltine crackers
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would sprinkle crumb mixture over Swiss and tomato .
+PREDID: 387
+PRED: sprinkle
+   DOBJ: crumb mixture
+      NON-INGREDIENT SPAN: crumb mixture
+   PARG: swiss, tomato
+     PREP: over
+      NON-INGREDIENT SPAN: swiss
+      NON-INGREDIENT SPAN:  tomato
+
+
+SENTID: 10
+SENT: I would bake in preheated oven 1 hour , until bubbly and golden .
+PREDID: 426
+PRED: bake
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: bubbly, golden
+     PREP: until
+      NON-INGREDIENT SPAN:  golden
+      NON-INGREDIENT SPAN: bubbly
+
+

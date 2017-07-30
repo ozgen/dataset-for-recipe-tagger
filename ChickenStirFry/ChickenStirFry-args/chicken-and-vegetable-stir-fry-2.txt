@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would mix cornstarch , the broth and soy .
+PREDID: 0
+PRED: mix
+   DOBJ: cornstarch , the broth, soy
+      INGREDIENT SPAN:  
+         INGREDIENTS: Organic
+      INGREDIENT SPAN:  the broth
+         INGREDIENTS: Swanson Chicken Broth regular Natural Goodness Certified
+      INGREDIENT SPAN:  soy
+         INGREDIENTS: lowsodium soy sauce
+      INGREDIENT SPAN: cornstarch 
+         INGREDIENTS: cornstarch
+
+
+SENTID: 1
+SENT: I would spray nonstick skillet with vegetable cooking spray and heat 1 minute .
+PREDID: 26
+PRED: spray
+   DOBJ: nonstick skillet
+      NON-INGREDIENT SPAN: nonstick skillet
+   PARG: vegetable cooking spray, heat 1 minute
+     PREP: with
+      INGREDIENT SPAN: vegetable cooking spray
+         INGREDIENTS: cutup vegetables
+      NON-INGREDIENT SPAN:  heat 1 minute
+
+
+SENTID: 2
+SENT: I would add chicken and stir-fry until browned .
+PREDID: 86
+PRED: add
+   DOBJ: chicken, stir-fry
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast cut strips
+      NON-INGREDIENT SPAN:  stir-fry
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 3
+SENT: I would remove chicken .
+PREDID: 120
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 4
+SENT: I would add vegetables , the ginger and garlic powder and stir-fry until tender-crisp .
+PREDID: 134
+PRED: add
+   DOBJ: vegetables , the ginger, garlic powder, stir-fry
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder crushed fresh garlic
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+      NON-INGREDIENT SPAN:  stir-fry
+      NON-INGREDIENT SPAN: vegetables 
+   PARG: tender-crisp
+     PREP: until
+      NON-INGREDIENT SPAN: tender-crisp
+
+
+SENTID: 5
+SENT: I would stir cornstarch mixture and add .
+PREDID: 198
+PRED: stir
+   DOBJ: cornstarch mixture
+      NON-INGREDIENT SPAN: cornstarch mixture
+
+
+SENTID: 6
+SENT: I would cook and stir until mixture boils and thickens .
+PREDID: 226
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: mixture boils, thickens
+     PREP: until
+      NON-INGREDIENT SPAN: mixture boils
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 7
+SENT: I would return chicken to skillet and heat through .
+PREDID: 266
+PRED: return
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet, heat
+     PREP: to
+      NON-INGREDIENT SPAN: skillet
+      NON-INGREDIENT SPAN:  heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 8
+SENT: I would serve over rice .
+PREDID: 303
+PRED: serve
+   DOBJ: NULL
+   PARG: rice
+     PREP: over
+      INGREDIENT SPAN: rice
+         INGREDIENTS: hot cooked rice cooked salt
+
+

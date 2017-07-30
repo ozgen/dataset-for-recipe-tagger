@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: In a medium-sized bowl , I would beat together eggs , the milk , and parsley ;
+PREDID: 20
+PRED: beat
+   DOBJ: eggs , the milk , parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+   PARG: a medium-sized bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium-sized bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 53
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would slice the mozzarella into 12 rounds .
+PREDID: 62
+PRED: slice
+   DOBJ: the mozzarella
+      INGREDIENT SPAN: the mozzarella
+         INGREDIENTS: mozzarella cheese
+   PARG: 12 rounds
+     PREP: into
+      NON-INGREDIENT SPAN: 12 rounds
+
+
+SENTID: 3
+SENT: I would make 6 sandwiches with the bread and mozzarella , dip each sandwich in egg mixture .
+PREDID: 93
+PRED: make
+   DOBJ: 6 sandwiches
+      NON-INGREDIENT SPAN: 6 sandwiches
+   PARG: the bread, mozzarella
+     PREP: with
+      INGREDIENT SPAN: the bread
+         INGREDIENTS: slices white sandwich bread
+      NON-INGREDIENT SPAN:  mozzarella
+
+PREDID: 134
+PRED: dip
+   DOBJ: each sandwich in egg mixture
+      NON-INGREDIENT SPAN: each sandwich in egg mixture
+
+
+SENTID: 4
+SENT: In a large skillet , I would lightly saute garlic in oil ,
+PREDID: 185
+PRED: saute
+   DOBJ: NULL
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: oil
+     PREP: in
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil frying
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: garlic
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: clove garlic crushed
+
+
+SENTID: 5
+SENT: I would remove and discard garlic .
+PREDID: 202
+PRED: remove and discard
+   DOBJ: garlic
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 6
+SENT: I would fry dipped sandwiches in the oil .
+PREDID: 225
+PRED: fry
+   DOBJ: dipped sandwiches
+      NON-INGREDIENT SPAN: dipped sandwiches
+   PARG: the oil
+     PREP: in
+      NON-INGREDIENT SPAN: the oil
+
+
+SENTID: 7
+SENT: When the sandwiches are browned , cut them into quarters on the diagonal and serve warm .
+PREDID: 281
+PRED: cut
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: quarters on the diagonal
+     PREP: into
+      NON-INGREDIENT SPAN: quarters on the diagonal
+   OARG: when the sandwiches are browned
+      NON-INGREDIENT SPAN: when the sandwiches are browned
+
+PREDID: 316
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

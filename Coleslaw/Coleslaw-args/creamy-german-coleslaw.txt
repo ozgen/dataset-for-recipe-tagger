@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would place cabbage in a large bowl .
+PREDID: 0
+PRED: place
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: head cabbage sliced
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix sugar , the vinegar , celery seed , and salt together in a separate bowl .
+PREDID: 25
+PRED: mix
+   DOBJ: sugar , the vinegar , celery seed , salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir mayonnaise into sugar-vinegar mixture until dressing is smooth and creamy .
+PREDID: 84
+PRED: stir
+   DOBJ: mayonnaise
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise more taste
+   PARG: sugar-vinegar mixture
+     PREP: into
+      NON-INGREDIENT SPAN: sugar-vinegar mixture
+   PARG: dressing is smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: dressing is smooth
+      NON-INGREDIENT SPAN:  creamy
+
+
+SENTID: 3
+SENT: I would pour the dressing over cabbage ;
+PREDID: 153
+PRED: pour
+   DOBJ: the dressing over cabbage
+      NON-INGREDIENT SPAN: the dressing over cabbage
+
+
+SENTID: 4
+SENT: I would toss to coat .
+PREDID: 177
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would marinate coleslaw in refrigerator for 2 to 3 hours ;
+PREDID: 188
+PRED: marinate
+   DOBJ: coleslaw
+      NON-INGREDIENT SPAN: coleslaw
+   PARG: refrigerator for 2 to 3 hours
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator for 2 to 3 hours
+
+
+SENTID: 6
+SENT: I would stir well before serving .
+PREDID: 231
+PRED: stir
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+

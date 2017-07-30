@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would remove pumpkin from can and freeze for 1 hour .
+PREDID: 0
+PRED: remove
+   DOBJ: pumpkin
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: ounce solid pack pumpkin puree
+   PARG: can
+     PREP: from
+      NON-INGREDIENT SPAN: can
+
+PREDID: 23
+PRED: freeze
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 1
+SENT: In a blender combine partially frozen pumpkin , frozen apple juice concentrate , the nutmeg and cinnamon .
+PREDID: 71
+PRED: frozen
+   DOBJ: pumpkin , frozen apple juice concentrate , the nutmeg, cinnamon
+      INGREDIENT SPAN:  frozen apple juice concentrate 
+         INGREDIENTS: fluid ounce frozen apple juice concentrate
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: pumpkin 
+   PARG: a blender combine partially
+     PREP: in
+      NON-INGREDIENT SPAN: a blender combine partially
+
+
+SENTID: 2
+SENT: I would blend until smooth .
+PREDID: 124
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would continue to blend while adding water to fill the blender .
+PREDID: 141
+PRED: continue
+   DOBJ: NULL
+   OARG: to blend while adding water to fill the blender
+      INGREDIENT SPAN: to blend while adding water to fill the blender
+         INGREDIENTS: water
+
+

@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would julienne turkey into 1/4 '' x 1/4 '' x 2 '' long strips .
+PREDID: 0
+PRED: julienne
+   DOBJ: turkey into 1/4 '' x 1/4 '' x 2 '' long strips
+      INGREDIENT SPAN: turkey into 1/4 '' x 1/4 '' x 2 '' long strips
+         INGREDIENTS: Boar Head Ovengold Roasted Breast Turkey sliced thick
+
+
+SENTID: 1
+SENT: I would core and shred cabbage coarsely .
+
+SENTID: 2
+SENT: I would toss in large mixing bowl with green onions and toasted almonds .
+PREDID: 44
+PRED: toss
+   DOBJ: NULL
+   PARG: large mixing bowl with green onions
+     PREP: in
+      INGREDIENT SPAN: large mixing bowl with green onions
+         INGREDIENTS: green onion diced
+
+PREDID: 83
+PRED: toasted
+   DOBJ: almonds
+      INGREDIENT SPAN: almonds
+         INGREDIENTS: almonds sliced toasted
+
+
+SENTID: 3
+SENT: In a separate bowl , I would add sugar to rice wine vinegar and whisk until sugar is completely dissolved .
+PREDID: 114
+PRED: add
+   DOBJ: sugar
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: sugar granulated
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: rice wine vinegar
+     PREP: to
+      INGREDIENT SPAN: rice wine vinegar
+         INGREDIENTS: rice wine white vinegar
+
+PREDID: 142
+PRED: whisk
+   DOBJ: NULL
+   PARG: sugar is completely dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar is completely dissolved
+
+
+SENTID: 4
+SENT: I would whisk in canola and sesame oil .
+PREDID: 179
+PRED: whisk
+   DOBJ: NULL
+   PARG: canola, sesame oil
+     PREP: in
+      INGREDIENT SPAN: canola
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  sesame oil
+         INGREDIENTS: sesame oil
+
+
+SENTID: 5
+SENT: I would pour evenly over turkey and cabbage mixture and toss evenly to coat .
+PREDID: 205
+PRED: pour
+   DOBJ: NULL
+   PARG: turkey, cabbage mixture
+     PREP: over
+      INGREDIENT SPAN: turkey
+         INGREDIENTS: Boar Head Ovengold Roasted Breast Turkey sliced thick
+      INGREDIENT SPAN:  cabbage mixture
+         INGREDIENTS: green cabbage
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+PREDID: 245
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would garnish with sesame seeds .
+PREDID: 262
+PRED: garnish
+   DOBJ: NULL
+   PARG: sesame seeds
+     PREP: with
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: sesame seeds toasted
+
+

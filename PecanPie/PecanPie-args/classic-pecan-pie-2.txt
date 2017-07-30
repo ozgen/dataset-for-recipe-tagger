@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: I would mix corn syrup , the eggs , the sugar , the butter and vanilla using a spoon .
+PREDID: 0
+PRED: mix
+   DOBJ: corn syrup , the eggs , the sugar , the butter, vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: corn syrup 
+         INGREDIENTS: Karo Light Corn Syrup
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: Spice Islands Pure Vanilla Extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+   OARG: using a spoon
+      NON-INGREDIENT SPAN: using a spoon
+
+
+SENTID: 1
+SENT: I would stir in pecans .
+PREDID: 52
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecans
+
+
+SENTID: 2
+SENT: I would pour into pie crust .
+PREDID: 65
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked deep dish pie crust
+
+
+SENTID: 3
+SENT: I would bake at 350 degrees F on center rack of oven for 60 to 70 minutes .
+PREDID: 82
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f
+   PARG: center rack of oven
+     PREP: on
+      NON-INGREDIENT SPAN: center rack of oven
+   PARG: 60 to 70 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 60 to 70 minutes
+
+
+SENTID: 4
+SENT: I would cool for 2 hours before serving .
+PREDID: 134
+PRED: cool
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

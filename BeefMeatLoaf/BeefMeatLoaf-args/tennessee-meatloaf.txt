@@ -1,0 +1,264 @@
+SENTID: 0
+SENT: I would combine ketchup , brown sugar , and cider vinegar in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: ketchup , brown sugar , cider vinegar in a bowl
+      INGREDIENT SPAN:  cider vinegar in a bowl
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 49
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 57
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 3
+SENT: I would spray two 9x5-inch loaf pans with cooking spray or line with aluminum foil for easier cleanup -LRB- see Cook 's Note -RRB- .
+PREDID: 95
+PRED: spray
+   DOBJ: two 9x5-inch loaf pans
+      NON-INGREDIENT SPAN: two 9x5-inch loaf pans
+   PARG: cooking spray or line
+     PREP: with
+      INGREDIENT SPAN: cooking spray or line
+         INGREDIENTS: cooking spray
+   PARG: aluminum foil for easier cleanup -lrb- see cook 's note
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil for easier cleanup -lrb- see cook 's note
+
+
+SENTID: 4
+SENT: I would place onion and green pepper in covered microwave container and cook until softened , 1 to 2 minutes .
+PREDID: 189
+PRED: place
+   DOBJ: onion, green pepper
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: covered microwave container
+     PREP: in
+      NON-INGREDIENT SPAN: covered microwave container
+
+PREDID: 243
+PRED: cook
+   DOBJ: NULL
+   PARG: softened , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: softened 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 5
+SENT: I would set aside to cool .
+PREDID: 273
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 6
+SENT: In large mixing bowl , I would combine garlic , the eggs , the thyme , seasoned salt , black pepper , the mustard , Worcestershire sauce , hot sauce , the milk , and oats .
+PREDID: 306
+PRED: combine
+   DOBJ: garlic , the eggs , the thyme , seasoned salt , black pepper , the mustard , Worcestershire sauce , hot sauce , the milk , oats
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs beaten
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  oats
+         INGREDIENTS: quick cooking oats
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot pepper sauce such Tabasco
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the thyme 
+      NON-INGREDIENT SPAN: garlic 
+   PARG: large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large mixing bowl
+
+
+SENTID: 7
+SENT: I would mix well .
+PREDID: 406
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would stir in cooked onion and green pepper .
+PREDID: 414
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked onion, green pepper
+     PREP: in
+      NON-INGREDIENT SPAN: cooked onion
+      NON-INGREDIENT SPAN:  green pepper
+
+
+SENTID: 9
+SENT: I would add ground beef , the pork , and veal .
+PREDID: 446
+PRED: add
+   DOBJ: ground beef , the pork , veal
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  veal
+         INGREDIENTS: ground veal
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+
+
+SENTID: 10
+SENT: With gloved hands , I would work all ingredients together until completely mixed and uniform .
+PREDID: 489
+PRED: work
+   DOBJ: all ingredients
+      NON-INGREDIENT SPAN: all ingredients
+   PARG: gloved hands
+     PREP: with
+      NON-INGREDIENT SPAN: gloved hands
+   PARG: completely mixed, uniform
+     PREP: until
+      NON-INGREDIENT SPAN: completely mixed
+      NON-INGREDIENT SPAN:  uniform
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would divide meatloaf mixture in half and pat half of mixture into each prepared loaf pan .
+PREDID: 546
+PRED: divide
+   DOBJ: meatloaf mixture in half, pat half of mixture
+      NON-INGREDIENT SPAN: meatloaf mixture in half
+      NON-INGREDIENT SPAN:  pat half of mixture
+   PARG: each prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: each prepared loaf pan
+
+
+SENTID: 12
+SENT: I would brush loaves with half of the glaze ;
+PREDID: 616
+PRED: brush
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: half of the glaze
+     PREP: with
+      NON-INGREDIENT SPAN: half of the glaze
+
+
+SENTID: 13
+SENT: I would set remainder of glaze aside .
+PREDID: 646
+PRED: set
+   DOBJ: remainder of glaze
+      NON-INGREDIENT SPAN: remainder of glaze
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 14
+SENT: I would bake in preheated oven for 50 minutes .
+PREDID: 671
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 50 minutes
+
+
+SENTID: 15
+SENT: I would remove pans from oven ;
+PREDID: 703
+PRED: remove
+   DOBJ: pans
+      NON-INGREDIENT SPAN: pans
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 16
+SENT: I would carefully drain fat .
+PREDID: 731
+PRED: drain
+   DOBJ: NULL
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 17
+SENT: I would brush loaves with remaining glaze .
+PREDID: 740
+PRED: brush
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: remaining glaze
+     PREP: with
+      NON-INGREDIENT SPAN: remaining glaze
+
+
+SENTID: 18
+SENT: I would return to oven and bake for 10 minutes more .
+PREDID: 770
+PRED: return
+   DOBJ: NULL
+   PARG: oven, bake
+     PREP: to
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: oven
+   PARG: 10 minutes more
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes more
+
+
+SENTID: 19
+SENT: I would remove pans from oven and allow meatloaf to stand for 15 minutes before slicing .
+PREDID: 806
+PRED: remove
+   DOBJ: pans
+      NON-INGREDIENT SPAN: pans
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 827
+PRED: allow
+   DOBJ: meatloaf
+      NON-INGREDIENT SPAN: meatloaf
+   OARG: to stand for 15 minutes before slicing
+      NON-INGREDIENT SPAN: to stand for 15 minutes before slicing
+
+

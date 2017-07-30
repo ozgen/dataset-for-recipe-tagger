@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a medium mixing bowl , I would blend together cream cheese , 1/3 cup sugar , and 1 teaspoon vanilla .
+PREDID: 58
+PRED: blend
+   DOBJ: cream cheese , 1/3 cup sugar , 1 teaspoon vanilla
+      INGREDIENT SPAN:  1/3 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  1 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: a medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: When mixture is smooth , spread into bottom of pastry shell .
+PREDID: 135
+PRED: spread
+   DOBJ: NULL
+   PARG: bottom of pastry shell
+     PREP: into
+      NON-INGREDIENT SPAN: bottom of pastry shell
+   OARG: when mixture is smooth
+      NON-INGREDIENT SPAN: when mixture is smooth
+
+
+SENTID: 3
+SENT: I would sprinkle cream cheese layer with chopped pecans .
+PREDID: 165
+PRED: sprinkle
+   DOBJ: cream cheese layer with chopped pecans
+      INGREDIENT SPAN: cream cheese layer with chopped pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: In another medium mixing bowl , I would combine eggs , 1/4 cup sugar , corn syrup , evaporated milk , and 1 teaspoon vanilla extract .
+PREDID: 233
+PRED: combine
+   DOBJ: eggs , 1/4 cup sugar , corn syrup , evaporated milk , 1 teaspoon vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  1/4 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  1 teaspoon vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: evaporated milk
+   PARG: another medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another medium mixing bowl
+
+
+SENTID: 5
+SENT: I would whisk until mixture is smooth .
+PREDID: 309
+PRED: whisk
+   DOBJ: NULL
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 6
+SENT: I would pour mixture over pecan layer .
+PREDID: 335
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pecan layer
+     PREP: over
+      NON-INGREDIENT SPAN: pecan layer
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 35 to 40 minutes , until set in center .
+PREDID: 361
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 35 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes
+   PARG: set in center
+     PREP: until
+      NON-INGREDIENT SPAN: set in center
+
+

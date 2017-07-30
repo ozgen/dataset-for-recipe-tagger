@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool , peel and chop .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 115
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 138
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: Bring water to a boil ;
+PREDID: 157
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 175
+PRED: cover and remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 199
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 6
+SENT: I would remove from hot water , cool , peel and chop .
+PREDID: 238
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 257
+PRED: cool and peel
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: In a large bowl , I would combine the potatoes , the eggs , the celery , the onion , the relish , garlic salt , celery salt , the mustard , the pepper and mayonnaise .
+PREDID: 287
+PRED: combine
+   DOBJ: the potatoes , the eggs , the celery , the onion , the relish , garlic salt , celery salt , the mustard , the pepper, mayonnaise
+      INGREDIENT SPAN:  celery salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: sweet pickle relish
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 8
+SENT: I would mix together well and refrigerate until chilled .
+PREDID: 381
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 399
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

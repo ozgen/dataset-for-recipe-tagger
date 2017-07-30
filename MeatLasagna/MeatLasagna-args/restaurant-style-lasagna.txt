@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add lasagna noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles
+
+PREDID: 62
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 96
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 102
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: To make the filling - Combine in a bowl :
+
+SENTID: 5
+SENT: I would ricotta cheese , the mozzarella , the parmesan and eggs .
+PREDID: 140
+PRED: ricotta
+   DOBJ: cheese , the mozzarella , the parmesan, eggs
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the parmesan
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the mozzarella 
+         INGREDIENTS: mozzarella cheese shredded
+
+
+SENTID: 6
+SENT: To make sauce - In a skillet , brown the ground beef until cooked through ;
+
+SENTID: 7
+SENT: I would drain grease .
+PREDID: 241
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 8
+SENT: I would combine in skillet , browned ground beef , the oregano , the basil , garlic powder , the sugar , the salt , the pepper and tomato sauce .
+PREDID: 253
+PRED: combine
+   DOBJ: NULL
+   PARG: skillet , browned ground beef , the oregano , the basil , garlic powder , the sugar , the salt , the pepper, tomato sauce
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  browned ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the pepper
+      NON-INGREDIENT SPAN: skillet 
+
+
+SENTID: 9
+SENT: I would heat through and stir .
+PREDID: 347
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: In a 9x13 inch pan , I would alternate layers of cooked lasagna noodles , the sauce , and filling , making 3 layers total .
+PREDID: 381
+PRED: alternate
+   DOBJ: layers of cooked lasagna noodles , the sauce
+      NON-INGREDIENT SPAN: layers of cooked lasagna noodles 
+      NON-INGREDIENT SPAN:  the sauce
+   PARG: a 9x13 inch pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+PREDID: 452
+PRED: filling total
+   DOBJ: 3 layers
+      NON-INGREDIENT SPAN: 3 layers
+
+
+SENTID: 11
+SENT: If desired , I would top with more mozzarella cheese .
+PREDID: 465
+PRED: top
+   DOBJ: NULL
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   PARG: more mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: more mozzarella cheese
+
+
+SENTID: 12
+SENT: I would bake for 40 minutes .
+PREDID: 493
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+
+SENTID: 13
+SENT: I would let stand 10 minutes before cutting .
+PREDID: 510
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a deep-dish 9-inch pie dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a deep-dish 9-inch pie dish
+      NON-INGREDIENT SPAN: a deep-dish 9-inch pie dish
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 68
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 3
+SENT: I would cook and stir beef and onion in hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 105
+PRED: cook and stir
+   DOBJ: beef, onion in hot skillet
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion in hot skillet
+         INGREDIENTS: chopped onion
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 4
+SENT: I would drain and discard grease .
+PREDID: 175
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 5
+SENT: I would spread ground beef mixture into the prepared pie dish .
+PREDID: 197
+PRED: spread
+   DOBJ: ground beef mixture
+      INGREDIENT SPAN: ground beef mixture
+         INGREDIENTS: ground black pepper
+   PARG: the prepared pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pie dish
+
+
+SENTID: 6
+SENT: I would blend milk , baking mix , the eggs , Italian seasoning , the salt , and pepper together in a blender until smooth , about 15 seconds ;
+PREDID: 243
+PRED: blend
+   DOBJ: milk , baking mix , the eggs , Italian seasoning , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  baking mix 
+         INGREDIENTS: baking mix such Bisquick
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+   PARG: smooth , about 15 seconds
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 seconds
+      NON-INGREDIENT SPAN: smooth 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour over beef mixture .
+PREDID: 344
+PRED: pour
+   DOBJ: NULL
+   PARG: beef mixture
+     PREP: over
+      NON-INGREDIENT SPAN: beef mixture
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until biscuit topping is lightly browned , about 25 minutes .
+PREDID: 364
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: biscuit topping is lightly browned , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: biscuit topping is lightly browned 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 9
+SENT: I would arrange tomato slices on biscuit topping ;
+PREDID: 437
+PRED: arrange
+   DOBJ: tomato slices
+      NON-INGREDIENT SPAN: tomato slices
+   PARG: biscuit topping
+     PREP: on
+      NON-INGREDIENT SPAN: biscuit topping
+
+
+SENTID: 10
+SENT: I would sprinkle with Cheddar cheese .
+PREDID: 473
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 11
+SENT: I would continue the baking until cheese is melted , 5 to 8 more minutes .
+PREDID: 499
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: cheese is melted , 5 to 8 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted 
+      NON-INGREDIENT SPAN:  5 to 8 more minutes
+
+
+SENTID: 12
+SENT: I would cool 5 minutes before slicing .
+PREDID: 549
+PRED: cool
+   DOBJ: NULL
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

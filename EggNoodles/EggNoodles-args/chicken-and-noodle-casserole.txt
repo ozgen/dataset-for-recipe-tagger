@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would cook noodles according to package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 40
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a 2 quart saucepan , I would mix cooked chicken , cream of potato soup , cream of broccoli soup , the milk , mixed vegetables , the broccoli , the salt , the pepper , and thyme .
+PREDID: 64
+PRED: mix
+   DOBJ: cooked chicken , cream of potato soup , cream of broccoli soup , the milk , mixed vegetables , the broccoli , the salt , the pepper , thyme
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: frozen broccoli
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  mixed vegetables 
+         INGREDIENTS: ounce mixed vegetables
+      INGREDIENT SPAN: cooked chicken 
+         INGREDIENTS: boneless chicken breast halves cooked cubed
+      INGREDIENT SPAN:  cream of broccoli soup 
+         INGREDIENTS: ounce condensed cream broccoli soup
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  cream of potato soup 
+         INGREDIENTS: ounce condensed cream potato soup
+      NON-INGREDIENT SPAN:  thyme
+   PARG: a 2 quart saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a 2 quart saucepan
+
+
+SENTID: 3
+SENT: I would cook over medium heat until broccoli is cooked .
+PREDID: 170
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: broccoli is cooked
+     PREP: until
+      NON-INGREDIENT SPAN: broccoli is cooked
+
+
+SENTID: 4
+SENT: I would mix with egg noodles .
+PREDID: 210
+PRED: mix
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: with
+      NON-INGREDIENT SPAN: egg noodles
+
+
+SENTID: 5
+SENT: I would spread into a greased 9 x 13 inch pan .
+PREDID: 228
+PRED: spread
+   DOBJ: NULL
+   PARG: a greased 9 x 13 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 9 x 13 inch pan
+
+
+SENTID: 6
+SENT: I would cover .
+PREDID: 258
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes .
+PREDID: 264
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 8
+SENT: I would cover with Colby cheese , and bake uncovered for an additional 15 minutes .
+PREDID: 307
+PRED: cover
+   DOBJ: NULL
+   PARG: colby cheese
+     PREP: with
+      INGREDIENT SPAN: colby cheese
+         INGREDIENTS: shredded Colby cheese
+   OARG: bake uncovered for an additional 15 minutes
+      NON-INGREDIENT SPAN: bake uncovered for an additional 15 minutes
+
+

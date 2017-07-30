@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would heat butter and chocolate over low heat , stirring constantly , until chocolate is melted ;
+PREDID: 38
+PRED: heat
+   DOBJ: butter, chocolate over low heat , stirring constantly , until chocolate is melted
+      INGREDIENT SPAN:  chocolate over low heat 
+         INGREDIENTS: ounce squares unsweetened chocolate
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN:  until chocolate is melted
+
+
+SENTID: 2
+SENT: I would cool slightly .
+PREDID: 114
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 3
+SENT: With hand beater , I would beat eggs , the sugar , the salt , chocolate mixture and corn syrup .
+PREDID: 142
+PRED: beat
+   DOBJ: eggs , the sugar , the salt , chocolate mixture, corn syrup
+      INGREDIENT SPAN:  corn syrup
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  chocolate mixture
+   PARG: hand beater
+     PREP: with
+      NON-INGREDIENT SPAN: hand beater
+
+
+SENTID: 4
+SENT: I would stir in pecans and pour mixture into pie shell .
+PREDID: 191
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecan halves
+
+PREDID: 206
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 5
+SENT: I would bake until set , 40 to 50 minutes .
+PREDID: 230
+PRED: bake
+   DOBJ: NULL
+   PARG: set , 40 to 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: set 
+      NON-INGREDIENT SPAN:  40 to 50 minutes
+
+
+SENTID: 6
+SENT: I would cool slightly .
+PREDID: 257
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 7
+SENT: I would serve warm , or refrigerate and serve with nondairy whipped topping .
+PREDID: 270
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+PREDID: 296
+PRED: serve
+   DOBJ: NULL
+   PARG: nondairy whipped topping
+     PREP: with
+      NON-INGREDIENT SPAN: nondairy whipped topping
+
+

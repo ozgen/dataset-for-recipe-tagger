@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would melt the butter or margarine in a saucepan , and stir in the 1/2 cup chopped pecans and brown sugar .
+PREDID: 0
+PRED: melt
+   DOBJ: the butter or margarine in a saucepan
+      INGREDIENT SPAN: the butter or margarine in a saucepan
+         INGREDIENTS: butter
+
+PREDID: 39
+PRED: stir
+   DOBJ: NULL
+   PARG: the 1/2 cup chopped pecans, brown sugar
+     PREP: in
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN: the 1/2 cup chopped pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 1
+SENT: I would cook until bubbly .
+PREDID: 81
+PRED: cook
+   DOBJ: NULL
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+
+SENTID: 2
+SENT: I would spread over the bottom of cooled pie shell .
+PREDID: 97
+PRED: spread
+   DOBJ: the bottom of cooled pie shell
+      INGREDIENT SPAN: the bottom of cooled pie shell
+         INGREDIENTS: inch pie crust baked
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would combine custard mix , white sugar , and spices in a 2 quart saucepan .
+PREDID: 133
+PRED: combine
+   DOBJ: custard mix , white sugar , spices in a 2 quart saucepan
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: custard mix 
+         INGREDIENTS: ounce package egg custard mix
+      NON-INGREDIENT SPAN:  spices in a 2 quart saucepan
+
+
+SENTID: 4
+SENT: I would stir in evaporated milk , the milk , and pumpkin puree .
+PREDID: 189
+PRED: stir
+   DOBJ: NULL
+   PARG: evaporated milk , the milk , pumpkin puree
+     PREP: in
+      INGREDIENT SPAN: evaporated milk 
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  pumpkin puree
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 5
+SENT: I would cook while stirring until bubbly .
+PREDID: 231
+PRED: cook
+   DOBJ: NULL
+   PARG: stirring until bubbly
+     PREP: while
+      NON-INGREDIENT SPAN: stirring until bubbly
+
+
+SENTID: 6
+SENT: I would cover , and cool for 10 minutes .
+PREDID: 260
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 269
+PRED: cool
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 7
+SENT: I would pour pumpkin custard filling into pie shell , and chill until firm .
+PREDID: 286
+PRED: pour
+   DOBJ: pumpkin custard filling into pie shell
+      NON-INGREDIENT SPAN: pumpkin custard filling into pie shell
+
+PREDID: 327
+PRED: chill
+   DOBJ: NULL
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+

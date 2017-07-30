@@ -1,0 +1,240 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a baking sheet with olive oil or non-stick cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+   PARG: olive oil or non-stick cooking spray
+     PREP: with
+      INGREDIENT SPAN: olive oil or non-stick cooking spray
+         INGREDIENTS: olive oil
+
+
+SENTID: 2
+SENT: I would prepare the croutons by spreading bread cubes over prepared baking sheet .
+PREDID: 91
+PRED: prepare
+   DOBJ: the croutons
+      NON-INGREDIENT SPAN: the croutons
+   PARG: spreading bread cubes over prepared baking sheet
+     PREP: by
+      INGREDIENT SPAN: spreading bread cubes over prepared baking sheet
+         INGREDIENTS: cubed French bread
+
+
+SENTID: 3
+SENT: I would lightly spray cubes with oil or cooking spray and bake for 20 minutes or until golden brown .
+PREDID: 161
+PRED: spray
+   DOBJ: cubes
+      NON-INGREDIENT SPAN: cubes
+   PARG: oil or cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: oil or cooking spray
+   OARG: lightly
+      INGREDIENT SPAN: lightly
+         INGREDIENTS: lemon
+
+PREDID: 195
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 4
+SENT: I would remove from oven and cool .
+PREDID: 230
+PRED: remove
+   DOBJ: NULL
+   PARG: oven, cool
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+      NON-INGREDIENT SPAN:  cool
+
+
+SENTID: 5
+SENT: I would prepare the dressing by whisking together the sour cream , the mayonnaise , lemon juice , the mustard , the honey , the rosemary , the salt and pepper .
+PREDID: 252
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: whisking together the sour cream , the mayonnaise , lemon juice , the mustard , the honey , the rosemary , the salt, pepper
+     PREP: by
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijonstyle prepared mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: chopped fresh rosemary
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN: whisking together the sour cream 
+         INGREDIENTS: sour cream
+
+
+SENTID: 6
+SENT: I would cover and refrigerate until ready to serve .
+PREDID: 360
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+
+SENTID: 7
+SENT: I would prepare the salad by placing the chicken in a pan and cover with water .
+PREDID: 397
+PRED: prepare
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: placing the chicken in a pan
+     PREP: by
+      INGREDIENT SPAN: placing the chicken in a pan
+         INGREDIENTS: skinless boneless chicken breasts
+
+PREDID: 440
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 8
+SENT: I would bring just to a boil , cover and reduce the heat to medium-low .
+PREDID: 455
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 480
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 9
+SENT: I would cook 10 minutes , or until chicken is cooked through .
+PREDID: 506
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes , or until chicken is cooked through
+     PREP: for
+      NON-INGREDIENT SPAN:  or until chicken is cooked through
+      NON-INGREDIENT SPAN: 10 minutes 
+
+
+SENTID: 10
+SENT: I would remove from heat , the drain and cool ;
+PREDID: 550
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the drain, cool
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the drain
+      NON-INGREDIENT SPAN:  cool
+
+
+SENTID: 11
+SENT: I would dice or pull into shreds .
+PREDID: 578
+PRED: dice or pull
+   DOBJ: NULL
+   PARG: shreds
+     PREP: into
+      NON-INGREDIENT SPAN: shreds
+
+
+SENTID: 12
+SENT: I would combine the chicken with the celery , the raisins and lemon peel .
+PREDID: 599
+PRED: combine
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the celery , the raisins, lemon peel
+     PREP: with
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the raisins
+         INGREDIENTS: golden raisins
+      NON-INGREDIENT SPAN:  lemon peel
+
+
+SENTID: 13
+SENT: When ready to serve , stir together the lemon juice and olive oil .
+
+SENTID: 14
+SENT: I would tear the lettuce into small pieces and toss with the lemon and oil mixture .
+PREDID: 650
+PRED: tear
+   DOBJ: the lettuce
+      INGREDIENT SPAN: the lettuce
+         INGREDIENTS: leaves romaine lettuce
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+PREDID: 682
+PRED: toss
+   DOBJ: NULL
+   PARG: the lemon, oil mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the lemon
+      NON-INGREDIENT SPAN:  oil mixture
+
+
+SENTID: 15
+SENT: I would divide between plates and top with the chicken salad .
+PREDID: 712
+PRED: divide
+   DOBJ: NULL
+   PARG: plates, top
+     PREP: between
+      NON-INGREDIENT SPAN: plates
+      NON-INGREDIENT SPAN:  top
+   PARG: the chicken salad
+     PREP: with
+      NON-INGREDIENT SPAN: the chicken salad
+
+
+SENTID: 16
+SENT: I would garnish with onion rings , a sprinkling of pine nuts and the croutons .
+PREDID: 757
+PRED: garnish
+   DOBJ: NULL
+   PARG: onion rings , a sprinkling of pine nuts, the croutons
+     PREP: with
+      INGREDIENT SPAN:  a sprinkling of pine nuts
+         INGREDIENTS: pine nuts toasted
+      INGREDIENT SPAN: onion rings 
+         INGREDIENTS: slices red onion
+      NON-INGREDIENT SPAN:  the croutons
+
+

@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13-inch baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 72
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 3
+SENT: I would cook and stir beef with black pepper , the salt , and garlic powder in the hot skillet until meat is browned and crumbly , 5 to 7 minutes ;
+PREDID: 109
+PRED: cook and stir
+   DOBJ: beef with black pepper , the salt , garlic powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: beef with black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: beef with 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+   PARG: meat is browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: meat is browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 4
+SENT: I would drain and discard grease .
+PREDID: 216
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 5
+SENT: I would reduce heat to low and mix 1/2 cup ketchup into beef .
+PREDID: 238
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 256
+PRED: mix
+   DOBJ: 1/2 cup ketchup
+      INGREDIENT SPAN: 1/2 cup ketchup
+         INGREDIENTS: ketchup
+   PARG: beef
+     PREP: into
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 6
+SENT: I would lay a tortilla onto a work surface and place about 1/3 cup beef mixture and 1/4 cup shredded cheese onto tortilla in a line down the center .
+PREDID: 281
+PRED: lay
+   DOBJ: a tortilla
+      INGREDIENT SPAN: a tortilla
+         INGREDIENTS: inch flour tortillas
+   PARG: a work surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a work surface
+   OARG: 1/4 cup shredded cheese onto tortilla in a line down the center
+      INGREDIENT SPAN: 1/4 cup shredded cheese onto tortilla in a line down the center
+         INGREDIENTS: ounce package shredded Mexican cheese blend
+
+PREDID: 312
+PRED: place
+   DOBJ: NULL
+   PARG: 1/3 cup beef mixture
+     PREP: about
+      NON-INGREDIENT SPAN: 1/3 cup beef mixture
+
+
+SENTID: 7
+SENT: I would roll tortilla over meat and cheese , fold in top and bottom to enclose the filling , and finish rolling into a burrito shape .
+PREDID: 395
+PRED: roll
+   DOBJ: tortilla
+      NON-INGREDIENT SPAN: tortilla
+   PARG: meat, cheese
+     PREP: over
+      NON-INGREDIENT SPAN: meat
+      NON-INGREDIENT SPAN:  cheese
+
+PREDID: 425
+PRED: fold
+   DOBJ: NULL
+   PARG: top, bottom
+     PREP: in
+      NON-INGREDIENT SPAN:  bottom
+      NON-INGREDIENT SPAN: top
+   OARG: to enclose the filling
+      NON-INGREDIENT SPAN: to enclose the filling
+
+PREDID: 466
+PRED: finish
+   DOBJ: NULL
+   OARG: rolling into a burrito shape
+      NON-INGREDIENT SPAN: rolling into a burrito shape
+
+
+SENTID: 8
+SENT: I would repeat with remaining tortillas and filling .
+PREDID: 494
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining tortillas, filling
+     PREP: with
+      NON-INGREDIENT SPAN:  filling
+      NON-INGREDIENT SPAN: remaining tortillas
+
+
+SENTID: 9
+SENT: I would place filled tortillas into prepared baking sheet and sprinkle remaining Mexican cheese blend on top .
+PREDID: 533
+PRED: place
+   DOBJ: NULL
+
+PREDID: 538
+PRED: filled
+   DOBJ: tortillas
+      NON-INGREDIENT SPAN: tortillas
+   PARG: prepared baking sheet
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking sheet
+
+PREDID: 579
+PRED: sprinkle
+   DOBJ: remaining Mexican cheese blend
+      NON-INGREDIENT SPAN: remaining Mexican cheese blend
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 10
+SENT: I would cover dish with aluminum foil .
+PREDID: 620
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until dish is heated through and cheese topping has melted , 20 to 25 minutes .
+PREDID: 646
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until dish is heated through, cheese topping has melted , 20 to 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  cheese topping has melted 
+      NON-INGREDIENT SPAN: the preheated oven until dish is heated through
+      NON-INGREDIENT SPAN:  20 to 25 minutes
+
+
+SENTID: 12
+SENT: I would stir sour cream with 1/3 cup ketchup in a bowl and top each serving with the sour cream sauce .
+PREDID: 732
+PRED: stir
+   DOBJ: sour cream
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+   PARG: 1/3 cup ketchup in a bowl
+     PREP: with
+      INGREDIENT SPAN: 1/3 cup ketchup in a bowl
+         INGREDIENTS: ketchup
+
+PREDID: 772
+PRED: top
+   DOBJ: NULL
+   OARG: each serving with the sour cream sauce
+      NON-INGREDIENT SPAN: each serving with the sour cream sauce
+
+

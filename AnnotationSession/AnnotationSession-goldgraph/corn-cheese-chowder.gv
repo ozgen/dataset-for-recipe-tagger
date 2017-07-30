@@ -1,0 +1,54 @@
+digraph recipe {
+E0[label="saute
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="add
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="season
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="heat through
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="serve
+8", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: onion", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:using a saute pan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="COOBJECT:in butter", shape=box, style=filled, fillcolor=peachpuff]
+P0_1 -> E0
+O0_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+O0_1[label="OTHER: until tender", shape=box, style=filled, fillcolor=white]
+O0_1 -> E0
+D1_ing[label="DOBJ: flour", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+D3_ing[label="DOBJ: milk", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: until thickened", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+D5_ing[label="DOBJ: cheese, corn", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: with pepper, salt", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: until the cheese melts", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: hot", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

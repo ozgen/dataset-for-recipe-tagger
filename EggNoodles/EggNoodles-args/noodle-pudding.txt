@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a large casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a large casserole dish
+      NON-INGREDIENT SPAN: a large casserole dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 64
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 106
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 122
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 156
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would blend together cottage cheese and cream cheese until smooth .
+PREDID: 162
+PRED: blend
+   DOBJ: cottage cheese, cream cheese
+      INGREDIENT SPAN: cottage cheese
+         INGREDIENTS: ounce package cottage cheese
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: ounce package cream cheese
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would mix in sour cream , the vanilla , the sugar and eggs .
+PREDID: 214
+PRED: mix
+   DOBJ: NULL
+   PARG: sour cream , the vanilla , the sugar, eggs
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: pint sour cream
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 7
+SENT: When noodles are done stir together 1/2 cup butter and noodles in a large bowl .
+PREDID: 268
+PRED: stir
+   DOBJ: 1/2 cup butter, noodles in a large bowl
+      INGREDIENT SPAN: 1/2 cup butter
+         INGREDIENTS: butter melted
+      NON-INGREDIENT SPAN:  noodles in a large bowl
+   OARG: when noodles are done
+      NON-INGREDIENT SPAN: when noodles are done
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would combine cheese mixture and noodles ;
+PREDID: 315
+PRED: combine
+   DOBJ: cheese mixture, noodles
+      NON-INGREDIENT SPAN: cheese mixture
+      NON-INGREDIENT SPAN:  noodles
+
+
+SENTID: 9
+SENT: I would blend well .
+PREDID: 346
+PRED: blend
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 10
+SENT: I would place all in one large casserole dish .
+PREDID: 356
+PRED: place
+   DOBJ: all in one large casserole dish
+      NON-INGREDIENT SPAN: all in one large casserole dish
+
+
+SENTID: 11
+SENT: To make the topping :
+
+SENTID: 12
+SENT: I would mix together graham cracker crumbs , the butter and sugar until it looks like large crumbs .
+PREDID: 405
+PRED: mix
+   DOBJ: graham cracker crumbs , the butter, sugar
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: graham cracker crumbs 
+         INGREDIENTS: graham cracker crumbs
+      NON-INGREDIENT SPAN:  sugar
+   PARG: it looks like large crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: it looks like large crumbs
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 13
+SENT: I would sprinkle evenly over top of noodle mixture .
+PREDID: 478
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: top of noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: top of noodle mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 14
+SENT: I would bake at 350 degrees for 15 minutes .
+PREDID: 515
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees for 15 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees for 15 minutes
+
+
+SENTID: 15
+SENT: I would lower oven to 325 degrees and continue the baking for 45 minutes more .
+PREDID: 544
+PRED: lower
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees
+
+PREDID: 568
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: 45 minutes more
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes more
+
+
+SENTID: 16
+SENT: I would allow to cool before cutting and serve warm .
+PREDID: 599
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool before cutting, serve warm
+      NON-INGREDIENT SPAN: to cool before cutting
+      NON-INGREDIENT SPAN:  serve warm
+
+

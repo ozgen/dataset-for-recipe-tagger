@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 42
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 73
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 88
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool and peel .
+PREDID: 135
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water , cool, peel
+     PREP: from
+      NON-INGREDIENT SPAN:  peel
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: hot water 
+
+
+SENTID: 4
+SENT: I would cut the eggs in half lengthwise and carefully remove the yolks to a bowl .
+PREDID: 166
+PRED: cut
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 204
+PRED: remove
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 5
+SENT: I would mash the yolks with the mayonnaise and mustard and season with pepper and ranch dressing mix , blending until smooth .
+PREDID: 226
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: the mayonnaise, mustard, season
+     PREP: with
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  season
+   PARG: pepper, ranch
+     PREP: with
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: ranch dressing mix
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper
+   OARG: dressing mix
+      NON-INGREDIENT SPAN: dressing mix
+   OARG: blending until smooth
+      NON-INGREDIENT SPAN: blending until smooth
+
+
+SENTID: 6
+SENT: I would spoon the mixture into the egg white halves and garnish with a sprinkle of paprika .
+PREDID: 324
+PRED: spoon
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: the egg white halves
+
+PREDID: 363
+PRED: garnish
+   DOBJ: NULL
+   PARG: a sprinkle of paprika
+     PREP: with
+      INGREDIENT SPAN: a sprinkle of paprika
+         INGREDIENTS: paprika garnish
+
+

@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium baking dish
+      NON-INGREDIENT SPAN: a medium baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a saucepan of lightly salted water to a boil .
+PREDID: 69
+PRED: bring
+   DOBJ: a saucepan of lightly salted water
+      NON-INGREDIENT SPAN: a saucepan of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in boiling water for 6 to 8 minutes , or until al dente .
+PREDID: 111
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: uncooked egg noodles
+   PARG: boiling water for 6 to 8 minutes , or until al dente
+     PREP: in
+      NON-INGREDIENT SPAN:  or until al dente
+      NON-INGREDIENT SPAN: boiling water for 6 to 8 minutes 
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 169
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would melt butter in a saucepan over medium-low heat .
+PREDID: 175
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium-low heat
+
+
+SENTID: 6
+SENT: I would mix in flour , heating until bubbly .
+PREDID: 215
+PRED: mix
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   OARG: heating until bubbly
+      NON-INGREDIENT SPAN: heating until bubbly
+
+
+SENTID: 7
+SENT: I would slowly whisk in milk .
+PREDID: 251
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 8
+SENT: I would cook for 5 minutes , stirring constantly , or until thick and smooth .
+PREDID: 263
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes , stirring constantly , or until thick, smooth
+     PREP: for
+      NON-INGREDIENT SPAN:  or until thick
+      NON-INGREDIENT SPAN:  smooth
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN: 5 minutes 
+
+
+SENTID: 9
+SENT: I would remove the saucepan from heat .
+PREDID: 320
+PRED: remove
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 10
+SENT: I would mix in the noodles , the chicken , the ham , the celery , the salt , and pepper .
+PREDID: 346
+PRED: mix
+   DOBJ: NULL
+   PARG: the noodles , the chicken , the ham , the celery , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cooked diced ham
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cooked cubed chicken breast meat
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: the noodles 
+
+
+SENTID: 11
+SENT: I would spoon the mixture into the prepared baking dish .
+PREDID: 396
+PRED: spoon
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 12
+SENT: I would bake for 15 minutes in the preheated oven .
+PREDID: 437
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes in the preheated oven
+
+
+SENTID: 13
+SENT: I would sprinkle with cheese and paprika , and continue the baking for another 5 minutes .
+PREDID: 472
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese, paprika
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+
+PREDID: 504
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking for another 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the baking for another 5 minutes
+
+
+SENTID: 14
+SENT: I would serve hot !
+PREDID: 537
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

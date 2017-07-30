@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would cook egg noodles in a large pot with boiling salted water .
+PREDID: 0
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: boiling salted water
+     PREP: with
+      INGREDIENT SPAN: boiling salted water
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would drain well .
+PREDID: 48
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: In a large bowl dissolve chicken bouillon cube in boiling water .
+
+SENTID: 3
+SENT: I would mix in the cream of mushroom soup , chopped onion , Worcestershire sauce , poppy seeds , garlic powder , and hot pepper sauce .
+PREDID: 112
+PRED: mix
+   DOBJ: NULL
+   PARG: the cream of mushroom soup , chopped onion , worcestershire sauce , poppy seeds , garlic powder , hot pepper sauce
+     PREP: in
+      INGREDIENT SPAN:  chopped onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: the cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  poppy seeds 
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 4
+SENT: I would stir in cottage cheese , sour cream , and cooked egg noodles .
+PREDID: 215
+PRED: stir
+   DOBJ: NULL
+   PARG: cottage cheese , sour cream , cooked egg noodles
+     PREP: in
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  cooked egg noodles
+
+
+SENTID: 5
+SENT: I would transfer to lightly greased slow cooker and sprinkle the top with parmesan cheese and paprika .
+PREDID: 265
+PRED: transfer
+   DOBJ: NULL
+   OARG: to lightly greased slow cooker
+      NON-INGREDIENT SPAN: to lightly greased slow cooker
+
+PREDID: 302
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: parmesan cheese, paprika
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 6
+SENT: I would cover and cook on high for 3 to 4 hours .
+PREDID: 345
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: 3 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 hours
+
+
+SENTID: 7
+SENT: I would serve immediately .
+PREDID: 376
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 58
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 92
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large skillet over medium heat , I would fry onion in oil until browned .
+PREDID: 128
+PRED: fry
+   DOBJ: onion in oil
+      INGREDIENT SPAN: onion in 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: onion in oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 4
+SENT: I would mix in tuna and mushroom soup .
+PREDID: 154
+PRED: mix
+   DOBJ: NULL
+   PARG: tuna, mushroom soup
+     PREP: in
+      INGREDIENT SPAN:  mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN: tuna
+         INGREDIENTS: ounce tuna drained
+
+
+SENTID: 5
+SENT: I would stir in sour cream and heat through .
+PREDID: 179
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream, heat
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: ounce container sour cream
+      NON-INGREDIENT SPAN:  heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would mix together the cooked egg noodles and sauce and serve .
+PREDID: 209
+PRED: mix
+   DOBJ: the cooked egg noodles, sauce
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: the cooked egg noodles
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+

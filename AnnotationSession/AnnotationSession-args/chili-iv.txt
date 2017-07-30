@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a deep skillet or large saucepan , cook beef with oil and salt over medium heat until brown .
+PREDID: 37
+PRED: cook
+   DOBJ: beef with oil, salt over medium heat
+      INGREDIENT SPAN: beef with oil
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  with oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  salt over medium heat
+         INGREDIENTS: salt
+   PARG: a deep skillet or i would large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a deep skillet or i would large saucepan
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would meanwhile , puree French onion soup in a blender until smooth .
+PREDID: 87
+PRED: puree
+   DOBJ: French onion soup in a blender until smooth
+      INGREDIENT SPAN: French onion soup in a blender until smooth
+         INGREDIENTS: (10.5 ounce) can condensed French onion soup
+
+
+SENTID: 2
+SENT: I would drain meat .
+PREDID: 129
+PRED: drain
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 3
+SENT: I would stir pureed soup into meat , reduce heat and simmer 5 minutes .
+PREDID: 139
+PRED: stir
+   DOBJ: pureed soup
+      NON-INGREDIENT SPAN: pureed soup
+   PARG: meat
+     PREP: into
+      NON-INGREDIENT SPAN: meat
+
+PREDID: 162
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 175
+PRED: simmer
+   DOBJ: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would stir in chili powder , cumin , pepper , tomato paste , tomato sauce , and beans until well combined .
+PREDID: 190
+PRED: stir
+   DOBJ: NULL
+   PARG: chili powder , cumin , pepper , tomato paste , tomato sauce , beans
+     PREP: in
+      INGREDIENT SPAN:  beans
+         INGREDIENTS: (15 ounce) cans kidney beans
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: (6 ounce) can tomato paste
+      INGREDIENT SPAN:  cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: (8 ounce) can tomato sauce
+
+
+SENTID: 5
+SENT: I would stir in cocoa and cola .
+PREDID: 271
+PRED: stir
+   DOBJ: NULL
+   PARG: cocoa, cola
+     PREP: in
+      INGREDIENT SPAN: cocoa
+         INGREDIENTS: unsweetened cocoa
+      NON-INGREDIENT SPAN:  cola
+
+
+SENTID: 6
+SENT: I would heat through and serve .
+PREDID: 290
+PRED: heat
+   DOBJ: NULL
+
+

@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would fry bacon in pan until almost done .
+PREDID: 0
+PRED: fry
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+   PARG: almost done
+     PREP: until
+      NON-INGREDIENT SPAN: almost done
+
+
+SENTID: 1
+SENT: I would add onions and celery , and saute until lightly browned .
+PREDID: 29
+PRED: add
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: small onion diced
+   OARG: celery
+      INGREDIENT SPAN: celery
+         INGREDIENTS: stalks celery chopped
+
+PREDID: 51
+PRED: saute
+   DOBJ: NULL
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+
+
+SENTID: 2
+SENT: I would transfer to a cooking pot .
+PREDID: 76
+PRED: transfer
+   DOBJ: NULL
+   PARG: a cooking pot
+     PREP: to
+      NON-INGREDIENT SPAN: a cooking pot
+
+
+SENTID: 3
+SENT: I would add cream-style corn , kernel corn , the butter , and broth .
+PREDID: 98
+PRED: add
+   DOBJ: cream-style corn , kernel corn , the butter , broth
+      INGREDIENT SPAN: cream-style corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  broth
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  kernel corn 
+         INGREDIENTS: ounce whole kernel corn
+      NON-INGREDIENT SPAN:  the butter 
+
+
+SENTID: 4
+SENT: I would add carrots and potatoes .
+PREDID: 144
+PRED: add
+   DOBJ: carrots, potatoes
+      INGREDIENT SPAN:  potatoes
+         INGREDIENTS: small potatoes cubed
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: carrots chopped
+
+
+SENTID: 5
+SENT: I would cook for about 15 minutes .
+PREDID: 166
+PRED: cook
+   DOBJ: NULL
+   PARG: about 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 minutes
+
+
+SENTID: 6
+SENT: I would mix together flour and a little water to form a paste .
+PREDID: 188
+PRED: mix
+   DOBJ: flour, a little water
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  a little water
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: to form a paste
+      NON-INGREDIENT SPAN: to form a paste
+
+
+SENTID: 7
+SENT: I would add milk and flour paste .
+PREDID: 232
+PRED: add
+   DOBJ: milk, flour paste
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  flour paste
+
+
+SENTID: 8
+SENT: You might want to add more flour paste , depending on how thick you like your chowder .
+
+SENTID: 9
+SENT: I would simmer for 30 minutes or until you are ready to eat .
+PREDID: 253
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes or until you are ready to eat
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes or until you are ready to eat
+
+
+SENTID: 10
+SENT: I would add salt and pepper to taste .
+PREDID: 295
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

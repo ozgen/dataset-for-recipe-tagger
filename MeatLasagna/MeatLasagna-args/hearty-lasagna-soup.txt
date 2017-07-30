@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would cook beef with garlic in skillet until browned .
+PREDID: 0
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: garlic in skillet
+     PREP: with
+      NON-INGREDIENT SPAN: garlic in skillet
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would pour off fat .
+PREDID: 40
+PRED: pour
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would add broth , the tomatoes and Italian seasoning .
+PREDID: 51
+PRED: add
+   DOBJ: broth , the tomatoes, Italian seasoning
+      INGREDIENT SPAN:  Italian seasoning
+         INGREDIENTS: dried Italian seasoning
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: ounce Swanson Seasoned Beef Broth Onion
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: ounce diced tomatoes
+
+
+SENTID: 3
+SENT: I would heat to a boil .
+PREDID: 88
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would stir in pasta .
+PREDID: 100
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta
+     PREP: in
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: uncooked mafalda corkscrewshaped pasta
+
+
+SENTID: 5
+SENT: I would cook over medium heat 10 min .
+PREDID: 112
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat 10 min
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat 10 min
+
+
+SENTID: 6
+SENT: or until pasta is done .
+PREDID: 150
+PRED: is done
+   DOBJ: NULL
+   OARG: or
+      NON-INGREDIENT SPAN: or
+   OARG: until
+      NON-INGREDIENT SPAN: until
+
+
+SENTID: 7
+SENT: I would stir in cheese .
+PREDID: 155
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 8
+SENT: I would serve with additional cheese if desired .
+PREDID: 168
+PRED: serve
+   DOBJ: NULL
+   PARG: additional cheese
+     PREP: with
+      NON-INGREDIENT SPAN: additional cheese
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

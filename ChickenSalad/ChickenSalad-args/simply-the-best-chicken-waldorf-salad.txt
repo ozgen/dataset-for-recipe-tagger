@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would spread chopped walnuts onto a baking sheet .
+PREDID: 38
+PRED: spread
+   DOBJ: chopped walnuts
+      INGREDIENT SPAN: chopped walnuts
+         INGREDIENTS: chopped walnuts
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would roast walnuts in the preheated oven until they are fragrant and browned , 3 to 5 minutes .
+PREDID: 75
+PRED: roast
+   DOBJ: walnuts
+      NON-INGREDIENT SPAN: walnuts
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: they are fragrant, browned , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: they are fragrant
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+      NON-INGREDIENT SPAN:  browned 
+
+
+SENTID: 3
+SENT: I would remove and let cool .
+PREDID: 148
+PRED: remove and let
+   DOBJ: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 4
+SENT: I would lightly toss chicken with grape halves , the cranberries , the apple , the walnuts , and onion in a salad bowl .
+PREDID: 172
+PRED: toss
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: cooked rotisserie chicken breasts cubed
+   PARG: grape halves , the cranberries , the apple , the walnuts , onion in a salad bowl
+     PREP: with
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: Granny Smith apple cored cubed
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN: grape halves 
+         INGREDIENTS: seedless red grapes halved
+      INGREDIENT SPAN:  onion in a salad bowl
+         INGREDIENTS: chopped red onion
+      NON-INGREDIENT SPAN:  the walnuts 
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 5
+SENT: I would whisk mayonnaise , vanilla yogurt , and lemon juice in a separate bowl .
+PREDID: 246
+PRED: whisk
+   DOBJ: mayonnaise , vanilla yogurt , lemon juice in a separate bowl
+      INGREDIENT SPAN:  lemon juice in a separate bowl
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  vanilla yogurt 
+         INGREDIENTS: vanilla yogurt
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 6
+SENT: I would pour the dressing over salad and toss again to coat .
+PREDID: 305
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+PREDID: 332
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+

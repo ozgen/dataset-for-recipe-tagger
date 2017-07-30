@@ -1,0 +1,177 @@
+SENTID: 0
+SENT: I would cake :
+PREDID: 0
+PRED: cake
+   DOBJ: NULL
+
+
+SENTID: 1
+SENT: I would combine sugar , the eggs , the oil and vanilla in a large bowl ;
+PREDID: 5
+PRED: combine
+   DOBJ: sugar , the eggs , the oil, vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: granulated sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would beat with an electric mixer until combined .
+PREDID: 49
+PRED: beat
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 3
+SENT: I would combine flour , baking soda , the cinnamon and salt in a medium bowl .
+PREDID: 86
+PRED: combine
+   DOBJ: flour , baking soda , the cinnamon, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 4
+SENT: I would add to liquid ingredients ;
+PREDID: 139
+PRED: add
+   DOBJ: NULL
+   PARG: liquid ingredients
+     PREP: to
+      NON-INGREDIENT SPAN: liquid ingredients
+
+
+SENTID: 5
+SENT: I would beat until combined .
+PREDID: 162
+PRED: beat
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 6
+SENT: I would stir in pineapple , the carrots , the walnuts and raisins .
+PREDID: 180
+PRED: stir
+   DOBJ: NULL
+   PARG: pineapple , the carrots , the walnuts, raisins
+     PREP: in
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+
+
+SENTID: 7
+SENT: I would pour batter into a greased 12-cup -LRB- 3 L -RRB- Bundt pan or 13 x 9-inch -LRB- 33 x 23 cm -RRB- baking pan .
+PREDID: 222
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: a greased 12-cup -lrb- 3 l -rrb- bundt pan or 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 12-cup -lrb- 3 l -rrb- bundt pan or 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan
+
+
+SENTID: 8
+SENT: I would bake in a preheated 350 degrees F -LRB- 180 degrees C -RRB- oven until a cake tester inserted in the centre comes out clean -LRB- about 60 to 65 minutes for Bundt pan or 45 to 50 minutes for 13 x 9-inch -LRB- 33 x 23 cm -RRB- baking pan -RRB- .
+PREDID: 292
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degrees f -lrb- 180 degrees c -rrb- oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degrees f -lrb- 180 degrees c -rrb- oven
+   PARG: a cake tester inserted in the centre comes out clean -lrb- about 60 to 65 minutes for bundt pan or 45 to 50 minutes for 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan
+     PREP: until
+      NON-INGREDIENT SPAN: a cake tester inserted in the centre comes out clean -lrb- about 60 to 65 minutes for bundt pan or 45 to 50 minutes for 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan
+
+
+SENTID: 9
+SENT: I would let cake cool before icing .
+PREDID: 461
+PRED: let
+   DOBJ: cake cool
+      NON-INGREDIENT SPAN: cake cool
+   PARG: icing
+     PREP: before
+      INGREDIENT SPAN: icing
+         INGREDIENTS: icing sugar
+
+
+SENTID: 10
+SENT: I would icing :
+PREDID: 484
+PRED: icing
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would combine cream cheese , the butter , the vanilla and icing sugar in a bowl .
+PREDID: 490
+PRED: combine
+   DOBJ: cream cheese , the butter , the vanilla, icing sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: g package cream cheese softened
+      NON-INGREDIENT SPAN:  icing sugar
+      NON-INGREDIENT SPAN:  the vanilla
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 12
+SENT: I would beat with an electric mixer until smooth .
+PREDID: 544
+PRED: beat
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 13
+SENT: I would thin with a little milk , adding 1 tbsp for spreading or about 4 tbsp -LRB- 60 mL -RRB- for drizzling over cake .
+PREDID: 579
+PRED: thin
+   DOBJ: NULL
+   PARG: a little milk , adding 1 tbsp for spreading or about 4 tbsp -lrb- 60 ml -rrb- for drizzling over cake
+     PREP: with
+      INGREDIENT SPAN: a little milk 
+         INGREDIENTS: Milk
+      NON-INGREDIENT SPAN:  adding 1 tbsp for spreading or about 4 tbsp -lrb- 60 ml -rrb- for drizzling over cake
+
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine the chicken , celery , almonds , bell pepper , onion , pimento , salt , lemon juice , and mayonnaise .
+PREDID: 38
+PRED: combine
+   DOBJ: the chicken , celery , almonds , bell pepper , onion , pimento , salt , lemon juice , mayonnaise
+      INGREDIENT SPAN:  almonds 
+         INGREDIENTS: chopped salted almonds
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  pimento 
+         INGREDIENTS: chopped pimento peppers
+      NON-INGREDIENT SPAN: the chicken 
+
+
+SENTID: 2
+SENT: I would mix well and pour into a 1Ê1/2 quart casserole dish .
+PREDID: 126
+PRED: mix
+   DOBJ: NULL
+
+PREDID: 136
+PRED: pour
+   DOBJ: NULL
+   PARG: a 1Ê1/2 quart casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 1Ê1/2 quart casserole dish
+
+
+SENTID: 3
+SENT: I would top with grated cheese and the crushed potato chips .
+PREDID: 169
+PRED: top
+   DOBJ: NULL
+   PARG: grated cheese, the crushed potato chips
+     PREP: with
+      INGREDIENT SPAN: grated cheese
+         INGREDIENTS: shredded Swiss cheese
+      INGREDIENT SPAN:  the crushed potato chips
+         INGREDIENTS: crushed potato chips
+
+
+SENTID: 4
+SENT: I would bake for 25 minutes or until cheese is melted .
+PREDID: 213
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes or until cheese is melted
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes or until cheese is melted
+
+

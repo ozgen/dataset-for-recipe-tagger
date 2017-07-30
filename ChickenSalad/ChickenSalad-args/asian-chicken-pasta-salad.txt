@@ -1,0 +1,200 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: rotelle pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would place in large bowl with chicken .
+PREDID: 93
+PRED: place
+   DOBJ: NULL
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   PARG: chicken
+     PREP: with
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless chicken breast halves cooked cut bitesized
+
+
+SENTID: 4
+SENT: In large skillet or wok , I would heat 1 tablespoon oil .
+PREDID: 141
+PRED: heat
+   DOBJ: 1 tablespoon oil
+      INGREDIENT SPAN: 1 tablespoon oil
+         INGREDIENTS: vegetable oil
+   PARG: large skillet or wok
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet or wok
+
+
+SENTID: 5
+SENT: I would cook carrots with 1/4 teaspoon salt until tender-crisp , 3 to 5 minutes .
+PREDID: 160
+PRED: cook
+   DOBJ: carrots
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: carrots sliced
+   PARG: 1/4 teaspoon salt until tender-crisp , 3 to 5 minutes
+     PREP: with
+      INGREDIENT SPAN: 1/4 teaspoon salt until tender-crisp 
+         INGREDIENTS: salt divided
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 6
+SENT: I would remove carrots , place in bowl with chicken and pasta .
+PREDID: 220
+PRED: remove
+   DOBJ: carrots , place in bowl
+      NON-INGREDIENT SPAN:  place in bowl
+      NON-INGREDIENT SPAN: carrots 
+   PARG: chicken, pasta
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  pasta
+
+
+SENTID: 7
+SENT: I would add 2 tablespoons oil to wok and cook mushrooms with 1/4 teaspoon salt until tender , 5 minutes .
+PREDID: 265
+PRED: add
+   DOBJ: 2 tablespoons oil
+      INGREDIENT SPAN: 2 tablespoons oil
+         INGREDIENTS: vegetable oil
+   OARG: to wok, cook mushrooms with 1/4 teaspoon salt until tender , 5 minutes
+      INGREDIENT SPAN:  cook mushrooms with 1/4 teaspoon until tender 
+         INGREDIENTS: fresh mushrooms quartered
+      INGREDIENT SPAN:  cook mushrooms with 1/4 teaspoon salt until tender 
+         INGREDIENTS: salt divided
+      NON-INGREDIENT SPAN:  5 minutes
+      NON-INGREDIENT SPAN: to wok
+
+
+SENTID: 8
+SENT: I would remove mushrooms and place in bowl .
+PREDID: 344
+PRED: remove
+   DOBJ: mushrooms, place
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: mushrooms
+   PARG: bowl
+     PREP: in
+      NON-INGREDIENT SPAN: bowl
+
+
+SENTID: 9
+SENT: I would add 2 more tablespoons oil to wok , stir-fry broccoli , the cauliflower and onion until coated with oil .
+PREDID: 374
+PRED: add
+   DOBJ: 2 more tablespoons oil
+      INGREDIENT SPAN: 2 more tablespoons oil
+         INGREDIENTS: vegetable oil
+   PARG: wok , stir-fry broccoli , the cauliflower, onion
+     PREP: to
+      INGREDIENT SPAN:  stir-fry broccoli 
+         INGREDIENTS: head broccoli cut florets
+      INGREDIENT SPAN:  the cauliflower
+         INGREDIENTS: head cauliflower broken small florets
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: bunch green onions chopped
+      NON-INGREDIENT SPAN: wok 
+   PARG: coated with oil
+     PREP: until
+      INGREDIENT SPAN: coated with oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 10
+SENT: I would add 1/2 teaspoon salt and 1/4 cup water , cover and cook 5 to 10 minutes , until tender-crisp , stirring occasionally .
+PREDID: 457
+PRED: add
+   DOBJ: 1/2 teaspoon salt, 1/4 cup water
+      NON-INGREDIENT SPAN: 1/2 teaspoon salt
+      NON-INGREDIENT SPAN:  1/4 cup water
+
+PREDID: 498
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+   PARG: tender-crisp , stirring occasionally
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: tender-crisp 
+
+
+SENTID: 11
+SENT: I would remove vegetables with slotted spoon and toss with pasta and chicken .
+PREDID: 554
+PRED: remove
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   PARG: slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: slotted spoon
+
+PREDID: 589
+PRED: toss
+   DOBJ: NULL
+   PARG: pasta, chicken
+     PREP: with
+      NON-INGREDIENT SPAN:  chicken
+      NON-INGREDIENT SPAN: pasta
+
+
+SENTID: 12
+SENT: I would mix in green onions , soy sauce and sesame oil , adjusting soy and sesame to taste .
+PREDID: 613
+PRED: mix
+   DOBJ: NULL
+   PARG: green onions , soy sauce, sesame oil
+     PREP: in
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  sesame oil
+         INGREDIENTS: sesame oil
+      NON-INGREDIENT SPAN: green onions 
+   OARG: adjusting soy, sesame to taste
+      NON-INGREDIENT SPAN:  sesame to taste
+      NON-INGREDIENT SPAN: adjusting soy
+
+
+SENTID: 13
+SENT: I would serve warm or cold .
+PREDID: 680
+PRED: serve
+   DOBJ: NULL
+   OARG: warm or cold
+      NON-INGREDIENT SPAN: warm or cold
+
+

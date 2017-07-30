@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would melt butter in a medium saucepan over medium heat .
+PREDID: 38
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a medium saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium heat
+
+
+SENTID: 2
+SENT: I would saute onion for 2 minutes .
+PREDID: 80
+PRED: saute
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 3
+SENT: I would stir in flour and cook 1 minute , stirring constantly .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 116
+PRED: cook
+   DOBJ: minute
+      NON-INGREDIENT SPAN: minute
+   OARG: 1
+      NON-INGREDIENT SPAN: 1
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 4
+SENT: I would stir in milk , the salt , the mustard and pepper ;
+PREDID: 147
+PRED: stir
+   DOBJ: NULL
+   PARG: milk , the salt , the mustard, pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+
+
+SENTID: 5
+SENT: I would cook , stirring frequently , until mixture boils and thickens .
+PREDID: 180
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently , until mixture boils, thickens
+      NON-INGREDIENT SPAN:  until mixture boils
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 6
+SENT: I would meanwhile , bring a pot of lightly salted water to a boil .
+PREDID: 243
+PRED: bring
+   DOBJ: a pot of lightly salted water to a boil
+      NON-INGREDIENT SPAN: a pot of lightly salted water to a boil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 7
+SENT: I would add macaroni and cook for 8 to 10 minutes or until al dente ;
+PREDID: 280
+PRED: add
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package elbow macaroni
+
+PREDID: 294
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 8
+SENT: I would drain .
+PREDID: 328
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: To the milk mixture add the Cheddar and American cheeses ;
+PREDID: 350
+PRED: add
+   DOBJ: the Cheddar, American cheeses
+      INGREDIENT SPAN:  American cheeses
+         INGREDIENTS: ounce package processed American cheese cut strips
+      INGREDIENT SPAN: the Cheddar
+         INGREDIENTS: shredded sharp Cheddar cheese
+   PARG: the milk mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the milk mixture
+
+
+SENTID: 10
+SENT: I would stir until cheese melts .
+PREDID: 382
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese melts
+     PREP: until
+      NON-INGREDIENT SPAN: cheese melts
+
+
+SENTID: 11
+SENT: I would combine macaroni and cheese sauce in a 2 quart baking dish ;
+PREDID: 403
+PRED: combine
+   DOBJ: macaroni, cheese sauce
+      NON-INGREDIENT SPAN: macaroni
+      NON-INGREDIENT SPAN:  cheese sauce
+   PARG: a 2 quart baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 2 quart baking dish
+
+
+SENTID: 12
+SENT: I would mix well .
+PREDID: 452
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 13
+SENT: I would bake in preheated oven for 30 minutes , or until hot and bubbly .
+PREDID: 460
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 14
+SENT: I would let cool 10 minutes before serving .
+PREDID: 512
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

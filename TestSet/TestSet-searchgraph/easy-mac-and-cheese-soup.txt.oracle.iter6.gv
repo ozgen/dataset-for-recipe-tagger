@@ -1,0 +1,53 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="bring
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir in
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="return
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="serve
+7", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: water, chopped onion, chopped broccoli", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a medium saucepan", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D0[label="DOBJ: package uncooked macaroni and cheese", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+O0_0[label="OTHER: according to package directions", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: until broccoli is tender", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E1 -> E5 [label="COOBJECT:cheese mixture from package"]
+O5_0_0[label="OTHER: macaroni", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+O5_1_0[label="OTHER: milk", shape=box, style=filled, fillcolor=white]
+O5_1_0 -> E5
+O5_2_0[label="OTHER: soup", shape=box, style=filled, fillcolor=white]
+O5_2_0 -> E5
+O5_3_0[label="OTHER: ham", shape=box, style=filled, fillcolor=white]
+O5_3_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: briefly", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: hot", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

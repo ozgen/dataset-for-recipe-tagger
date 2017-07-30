@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together the pumpkin , egg substitute , brown sugar , pumpkin pie spice and nonfat evaporated milk .
+PREDID: 52
+PRED: mix
+   DOBJ: the pumpkin , egg substitute , brown sugar , pumpkin pie spice, nonfat evaporated milk
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  egg substitute 
+         INGREDIENTS: egg substitute
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  nonfat evaporated milk
+         INGREDIENTS: fluid nonfat evaporated milk
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: pumpkin
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the pumpkin mixture into the pie crust .
+PREDID: 138
+PRED: pour
+   DOBJ: the pumpkin mixture
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven 1 hour , or until a knife inserted in the middle comes out clean .
+PREDID: 175
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 1 hour , or until a knife inserted in the middle comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 1 hour 
+      NON-INGREDIENT SPAN:  or until a knife inserted in the middle comes out clean
+
+

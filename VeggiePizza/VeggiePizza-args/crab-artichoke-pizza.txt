@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a pizza pan .
+PREDID: 45
+PRED: grease pan
+   DOBJ: a pizza
+      INGREDIENT SPAN: a pizza
+         INGREDIENTS: fresh pizza dough
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would roll out pizza dough on a floured surface to a 14 or 16 inch circle ;
+PREDID: 61
+PRED: roll
+   DOBJ: pizza dough on a floured surface
+      NON-INGREDIENT SPAN: pizza dough on a floured surface
+   PARG: a 14 or 16 inch circle
+     PREP: to
+      NON-INGREDIENT SPAN: a 14 or 16 inch circle
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 3
+SENT: I would place onto a pizza pan .
+PREDID: 115
+PRED: place
+   DOBJ: NULL
+   PARG: a pizza pan
+     PREP: onto
+      NON-INGREDIENT SPAN: a pizza pan
+
+
+SENTID: 4
+SENT: I would sprinkle dough with red pepper flakes ,
+PREDID: 142
+PRED: dough
+   DOBJ: NULL
+   PARG: red pepper flakes
+     PREP: with
+      INGREDIENT SPAN: red pepper flakes
+         INGREDIENTS: red pepper flakes
+   OARG: sprinkle
+      NON-INGREDIENT SPAN: sprinkle
+
+
+SENTID: 5
+SENT: I would top evenly with crab and artichokes .
+PREDID: 167
+PRED: top
+   DOBJ: NULL
+   PARG: crab, artichokes
+     PREP: with
+      INGREDIENT SPAN:  artichokes
+         INGREDIENTS: ounce jar quartered artichoke hearts water drained
+      NON-INGREDIENT SPAN: crab
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would drizzle with olive oil ,
+PREDID: 198
+PRED: drizzle
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 7
+SENT: I would sprinkle with garlic , Parmesan cheese , and mozzarella cheese .
+PREDID: 218
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: garlic , parmesan cheese , mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  parmesan cheese 
+         INGREDIENTS: shredded Parmesan cheese
+
+
+SENTID: 8
+SENT: I would bake in preheated oven until the cheese has melted and the crust is no longer doughy , about 20 minutes .
+PREDID: 272
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the cheese has melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese has melted
+   OARG: the crust is no longer doughy , about 20 minutes
+      NON-INGREDIENT SPAN: the crust is no longer doughy 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 9
+SENT: I would set oven to broil , and cook pizza for 5 minutes more until the cheese has begun to brown .
+PREDID: 357
+PRED: set
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: broil
+     PREP: to
+      NON-INGREDIENT SPAN: broil
+
+PREDID: 375
+PRED: cook
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: 5 minutes more
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes more
+   PARG: the cheese has begun to brown
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese has begun to brown
+
+

@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="crumble
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="set aside
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="add
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cook
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="remove
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="set aside
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="combine
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="toss
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="place
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="top
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="serve
+12", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: bacon", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large, deep skillet", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D4[label="DOBJ: light olive oil, Cajun seasoning, skinless boneless chicken breast halves  strips", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="LOCATION:in a preheated skillet", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: over medium high heat until evenly brown", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: until chicken is golden brown", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCATION:from heat", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+D8_ing[label="DOBJ: head romaine lettuce  rinsed and, Caesar salad dressing, grated Parmesan cheese", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E3 -> E8 [label="bacon"]
+P8_0_0[label="LOCATION:in a salad bowl", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="LOCATION:on individual salad plates", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E7 -> E11 [label="COOBJECT:with the sliced chicken"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

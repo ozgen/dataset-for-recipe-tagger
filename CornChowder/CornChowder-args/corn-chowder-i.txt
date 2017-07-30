@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: I would boil potatoes in salted water until soft .
+PREDID: 0
+PRED: boil
+   DOBJ: potatoes in salted water
+      INGREDIENT SPAN: potatoes in salted water
+         INGREDIENTS: potatoes peeled cubed
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 35
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would mash half of the potatoes and set aside .
+PREDID: 41
+PRED: mash
+   DOBJ: half of the potatoes
+      NON-INGREDIENT SPAN: half of the potatoes
+
+PREDID: 65
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would fry the bacon until very crisp .
+PREDID: 74
+PRED: fry
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: bacon
+   PARG: very crisp
+     PREP: until
+      NON-INGREDIENT SPAN: very crisp
+
+
+SENTID: 4
+SENT: I would crumple the bacon and set aside .
+PREDID: 100
+PRED: crumple
+   DOBJ: the bacon
+      NON-INGREDIENT SPAN: the bacon
+
+PREDID: 118
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would fry the onion inn the bacon grease until translucent and soft .
+PREDID: 127
+PRED: fry inn
+   DOBJ: the bacon grease, the onion
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN: the bacon grease
+   PARG: translucent, soft
+     PREP: until
+      NON-INGREDIENT SPAN:  soft
+      NON-INGREDIENT SPAN: translucent
+
+
+SENTID: 6
+SENT: I would dump the cooked onions into a large stockpot .
+PREDID: 179
+PRED: dump
+   DOBJ: the cooked onions
+      NON-INGREDIENT SPAN: the cooked onions
+   PARG: a large stockpot
+     PREP: into
+      NON-INGREDIENT SPAN: a large stockpot
+
+
+SENTID: 7
+SENT: I would add the flour and heat until the mixture is bubbly and the flour is well dissolved .
+PREDID: 217
+PRED: add
+   DOBJ: the flour, heat
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  heat
+   PARG: the mixture is bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is bubbly
+
+PREDID: 275
+PRED: is dissolved
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would add the milk and bring to a boil over medium-low heat , stirring frequently .
+PREDID: 285
+PRED: add
+   DOBJ: the milk
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+
+PREDID: 298
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium-low heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-low heat
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+
+SENTID: 9
+SENT: You need to watch your pot pretty carefully while bringing to a boil and heating .
+
+SENTID: 10
+SENT: The bottom tends to easily scorch .
+
+SENTID: 11
+SENT: I would once boiling add the salt , the pepper , the bacon , the corn and all the potatoes .
+PREDID: 359
+PRED: add
+   DOBJ: the salt , the pepper , the bacon , the corn, all the potatoes
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce creamed corn
+      INGREDIENT SPAN: the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  all the potatoes
+      NON-INGREDIENT SPAN:  the bacon 
+   OARG: once boiling
+      NON-INGREDIENT SPAN: once boiling
+
+
+SENTID: 12
+SENT: -LRB- If desired reserve some of the bacon for the garnish .
+
+SENTID: 13
+SENT: -RRB-
+
+SENTID: 14
+SENT: I would heat soup until hot .
+PREDID: 450
+PRED: heat
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 15
+SENT: I would serve garnished with a dash of paprika , a sprinkling of cheddar cheese and some crumbled bacon .
+PREDID: 467
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 472
+PRED: garnished
+   DOBJ: NULL
+   PARG: a dash of paprika , a sprinkling of cheddar cheese, some crumbled bacon
+     PREP: with
+      INGREDIENT SPAN:  a sprinkling of cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: a dash of paprika 
+         INGREDIENTS: paprika
+      NON-INGREDIENT SPAN:  some crumbled bacon
+
+

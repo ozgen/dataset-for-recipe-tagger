@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would place graham cracker crumbs in a shallow dish .
+PREDID: 0
+PRED: place
+   DOBJ: graham cracker crumbs
+      INGREDIENT SPAN: graham cracker crumbs
+         INGREDIENTS: graham cracker crushed
+   PARG: a shallow dish
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow dish
+
+
+SENTID: 1
+SENT: I would coat rim of martini glass with honey , and dip into graham cracker crumbs to coat .
+PREDID: 39
+PRED: coat
+   DOBJ: rim of martini glass
+      NON-INGREDIENT SPAN: rim of martini glass
+   PARG: honey
+     PREP: with
+      INGREDIENT SPAN: honey
+         INGREDIENTS: honey
+
+PREDID: 73
+PRED: dip
+   DOBJ: NULL
+   PARG: graham cracker crumbs
+     PREP: into
+      NON-INGREDIENT SPAN: graham cracker crumbs
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would combine milk and pumpkin puree in a cocktail shaker , and shake to combine .
+PREDID: 106
+PRED: combine
+   DOBJ: milk, pumpkin puree
+      INGREDIENT SPAN:  pumpkin puree
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   PARG: a cocktail shaker
+     PREP: in
+      NON-INGREDIENT SPAN: a cocktail shaker
+
+PREDID: 153
+PRED: shake
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 3
+SENT: I would pour in vodka and creme de cacao , and add ice .
+PREDID: 168
+PRED: pour
+   DOBJ: NULL
+   PARG: vodka
+     PREP: in
+      INGREDIENT SPAN: vodka
+         INGREDIENTS: fluid ounce jigger vanilla flavored vodka
+
+PREDID: 182
+PRED: creme
+   DOBJ: de cacao
+      NON-INGREDIENT SPAN: de cacao
+
+PREDID: 198
+PRED: add
+   DOBJ: ice
+      INGREDIENT SPAN: ice
+         INGREDIENTS: crushed ice
+
+
+SENTID: 4
+SENT: Shake well , and
+
+SENTID: 5
+SENT: I would strain into prepared martini glass .
+PREDID: 205
+PRED: strain
+   DOBJ: NULL
+   PARG: prepared martini glass
+     PREP: into
+      NON-INGREDIENT SPAN: prepared martini glass
+
+
+SENTID: 6
+SENT: I would garnish with a sprinkle of pumpkin pie spice .
+PREDID: 236
+PRED: garnish
+   DOBJ: NULL
+   PARG: a sprinkle of pumpkin pie spice
+     PREP: with
+      INGREDIENT SPAN: a sprinkle of pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+
+

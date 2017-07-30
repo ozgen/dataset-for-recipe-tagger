@@ -1,0 +1,252 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of water and 1 teaspoon salt to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of water, 1 teaspoon salt
+      INGREDIENT SPAN:  1 teaspoon salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook lasagna noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 8 minutes .
+PREDID: 83
+PRED: cook
+   DOBJ: NULL
+   PARG: lasagna noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 8 minutes
+     PREP: for
+      INGREDIENT SPAN: lasagna noodles in the boiling water 
+         INGREDIENTS: ounce package lasagna noodles
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain and rinse under cold water .
+PREDID: 189
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: I would heat a large skillet over medium-high heat and stir in Italian sausage .
+PREDID: 217
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 256
+PRED: stir
+   DOBJ: NULL
+   PARG: italian sausage
+     PREP: in
+      INGREDIENT SPAN: italian sausage
+         INGREDIENTS: ground Italian sausage
+
+
+SENTID: 5
+SENT: I would cook and stir until sausage is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 277
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: sausage is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN: sausage is crumbly 
+      NON-INGREDIENT SPAN:  no longer pink
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 6
+SENT: I would drain and discard any excess grease .
+PREDID: 355
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 7
+SENT: I would add diced tomatoes , tomato sauce , 1 tablespoon Italian seasoning , 1 tablespoon Greek seasoning , 1 tablespoon oregano , 1 tablespoon basil , 1 tablespoon parsley , 1 tablespoon thyme , 1 teaspoon rosemary , 1 tablespoon garlic powder , and 1 teaspoon salt ;
+PREDID: 386
+PRED: add
+   DOBJ: diced tomatoes , tomato sauce , 1 tablespoon Italian seasoning , 1 tablespoon Greek seasoning , 1 tablespoon oregano , 1 tablespoon basil , 1 tablespoon parsley , 1 tablespoon thyme , 1 teaspoon rosemary , 1 tablespoon garlic powder , 1 teaspoon salt
+      INGREDIENT SPAN:  1 tablespoon parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  1 tablespoon basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  1 tablespoon Greek seasoning 
+         INGREDIENTS: Greek seasoning
+      INGREDIENT SPAN:  1 tablespoon Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  1 tablespoon oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  1 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1 teaspoon rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  1 tablespoon garlic powder 
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  1 tablespoon thyme 
+
+
+SENTID: 8
+SENT: I would stir well .
+PREDID: 600
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would simmer until flavors have blended , about 20 minutes .
+PREDID: 609
+PRED: simmer
+   DOBJ: NULL
+   PARG: flavors have blended , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: flavors have blended 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 10
+SENT: I would set aside 1/2 cup mozzarella cheese .
+PREDID: 654
+PRED: set
+   DOBJ: 1/2 cup mozzarella cheese
+      INGREDIENT SPAN: 1/2 cup mozzarella cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 11
+SENT: I would mix the remaining mozzarella cheese with 1 teaspoon Italian seasoning , 1 teaspoon Greek seasoning , 1 teaspoon oregano , 1 teaspoon basil , 1 teaspoon parsley , 1 teaspoon thyme , and 1 teaspoon rosemary in a large bowl .
+PREDID: 685
+PRED: mix
+   DOBJ: the remaining mozzarella cheese
+      INGREDIENT SPAN: the remaining mozzarella cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese
+   PARG: 1 teaspoon italian seasoning , 1 teaspoon greek seasoning , 1 teaspoon oregano , 1 teaspoon basil , 1 teaspoon parsley , 1 teaspoon thyme , 1 teaspoon rosemary in a large bowl
+     PREP: with
+      INGREDIENT SPAN: 1 teaspoon italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  1 teaspoon oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  1 teaspoon parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  1 teaspoon rosemary in a large bowl
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN:  1 teaspoon basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  1 teaspoon greek seasoning 
+         INGREDIENTS: Greek seasoning
+      NON-INGREDIENT SPAN:  1 teaspoon thyme 
+
+
+SENTID: 12
+SENT: I would spoon a layer of meat sauce into the bottom of a 9x13-inch glass baking dish ;
+PREDID: 864
+PRED: spoon
+   DOBJ: a layer of meat sauce
+      NON-INGREDIENT SPAN: a layer of meat sauce
+   PARG: the bottom of a 9x13-inch glass baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch glass baking dish
+
+
+SENTID: 13
+SENT: I would place 3 to 4 lasagna noodles atop meat sauce layer .
+PREDID: 927
+PRED: place
+   DOBJ: 3 to 4 lasagna noodles
+      NON-INGREDIENT SPAN: 3 to 4 lasagna noodles
+   PARG: meat sauce layer
+     PREP: atop
+      NON-INGREDIENT SPAN: meat sauce layer
+
+
+SENTID: 14
+SENT: I would spread another layer of meat sauce over lasagna noodles ;
+PREDID: 969
+PRED: spread
+   DOBJ: another layer of meat sauce
+      NON-INGREDIENT SPAN: another layer of meat sauce
+   PARG: lasagna noodles
+     PREP: over
+      NON-INGREDIENT SPAN: lasagna noodles
+
+
+SENTID: 15
+SENT: I would sprinkle a layer of the seasoned mozzarella cheese .
+PREDID: 1017
+PRED: sprinkle
+   DOBJ: a layer of the seasoned mozzarella cheese
+      NON-INGREDIENT SPAN: a layer of the seasoned mozzarella cheese
+
+
+SENTID: 16
+SENT: I would repeat the layering with remaining ingredients and top casserole with the reserved 1/2 cup plain mozzarella cheese .
+PREDID: 1061
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: remaining ingredients, top casserole with the reserved 1/2 cup plain mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ingredients
+      NON-INGREDIENT SPAN:  top casserole with the reserved 1/2 cup plain mozzarella cheese
+
+
+SENTID: 17
+SENT: I would bake in the preheated oven until sauce is bubbling and cheese is melted , 30 to 40 minutes .
+PREDID: 1157
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: sauce is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is bubbling
+   OARG: cheese is melted , 30 to 40 minutes
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: cheese is melted 
+
+
+SENTID: 18
+SENT: I would let stand 10 minutes before serving .
+PREDID: 1231
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

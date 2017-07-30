@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would return pasta to pot with chicken , the soup , garlic salt and pepper over medium heat .
+PREDID: 93
+PRED: return
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: pot with chicken , the soup , garlic salt, pepper
+     PREP: to
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN: pot with chicken 
+         INGREDIENTS: ounce chunk chicken drained
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 4
+SENT: I would heat through , 5 minutes .
+PREDID: 160
+PRED: heat
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would place broccoli in a steamer over 1 inch of boiling water , and cover .
+PREDID: 0
+PRED: place
+   DOBJ: broccoli
+      INGREDIENT SPAN: broccoli
+         INGREDIENTS: broccoli florets
+   PARG: a steamer over 1 inch of boiling water
+     PREP: in
+      INGREDIENT SPAN: a steamer over 1 inch of boiling water
+         INGREDIENTS: skinless boneless chicken breast halves cut inch strips
+
+
+SENTID: 1
+SENT: I would cook until tender but still firm , about 5 minutes .
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 2
+SENT: I would heat the oil in a skillet over medium heat , and saute the chicken , green onions , and garlic until the chicken is no longer pink and juices run clear .
+PREDID: 98
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+PREDID: 136
+PRED: saute
+   DOBJ: the chicken , green onions , garlic
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: sliced green onions
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cut inch strips
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the chicken is no longer pink
+     PREP: until
+      INGREDIENT SPAN: the chicken is no longer pink
+         INGREDIENTS: chicken stock
+
+
+SENTID: 3
+SENT: I would stir the hoisin sauce , chile paste , and soy sauce into the skillet ;
+PREDID: 220
+PRED: stir
+   DOBJ: the hoisin sauce , chile paste , soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: low sodium soy sauce
+      INGREDIENT SPAN: the hoisin sauce 
+         INGREDIENTS: hoisin sauce
+      INGREDIENT SPAN:  chile paste 
+         INGREDIENTS: chile paste
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would season with ginger , red pepper , the salt , and black pepper .
+PREDID: 276
+PRED: season
+   DOBJ: NULL
+   PARG: ginger , red pepper , the salt , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: crushed red pepper
+      INGREDIENT SPAN: ginger 
+         INGREDIENTS: ground ginger
+
+
+SENTID: 5
+SENT: I would stir in the chicken stock and simmer about 2 minutes .
+PREDID: 323
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken stock
+     PREP: in
+      NON-INGREDIENT SPAN: the chicken stock
+
+PREDID: 347
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 2 minutes
+
+
+SENTID: 6
+SENT: I would mix in the steamed broccoli until coated with the sauce mixture .
+PREDID: 367
+PRED: mix
+   DOBJ: NULL
+   PARG: the steamed broccoli
+     PREP: in
+      NON-INGREDIENT SPAN: the steamed broccoli
+   PARG: coated with the sauce mixture
+     PREP: until
+      NON-INGREDIENT SPAN: coated with the sauce mixture
+
+

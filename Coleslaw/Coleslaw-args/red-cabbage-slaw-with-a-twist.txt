@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: I would combine cabbage , red bell pepper , the shallots , the ginger , and basil in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: cabbage , red bell pepper , the shallots , the ginger , basil in a large bowl
+      INGREDIENT SPAN:  the shallots 
+         INGREDIENTS: shallots diced
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: inch fresh ginger peeled minced
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: diced red bell pepper
+      INGREDIENT SPAN:  basil in a large bowl
+         INGREDIENTS: leaves fresh basil snipped
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: sliced red cabbage
+
+
+SENTID: 1
+SENT: I would whisk mayonnaise , lemon juice , olive oil , wasabi paste , and ground pepper in another bowl ;
+PREDID: 66
+PRED: whisk
+   DOBJ: mayonnaise , lemon juice , olive oil , wasabi paste , ground pepper in another bowl
+      INGREDIENT SPAN:  ground pepper in another bowl
+         INGREDIENTS: ground multicolored peppercorns taste
+      INGREDIENT SPAN:  wasabi paste 
+         INGREDIENTS: wasabi paste
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  lemon juice 
+
+
+SENTID: 2
+SENT: I would stir into cabbage mixture .
+PREDID: 143
+PRED: stir
+   DOBJ: NULL
+   PARG: cabbage mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cabbage mixture
+
+
+SENTID: 3
+SENT: I would top with pine nuts and sunflower kernels .
+PREDID: 166
+PRED: top
+   DOBJ: NULL
+   PARG: pine nuts, sunflower kernels
+     PREP: with
+      INGREDIENT SPAN:  sunflower kernels
+         INGREDIENTS: salted sunflower kernels
+      INGREDIENT SPAN: pine nuts
+         INGREDIENTS: toasted pine nuts
+
+

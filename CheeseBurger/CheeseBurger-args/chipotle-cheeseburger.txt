@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: In medium bowl , I would stir together mayonnaise , 1 tbsp .
+PREDID: 13
+PRED: stir
+   DOBJ: mayonnaise , 1 tbsp
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: Goya Mayonnaise
+      NON-INGREDIENT SPAN:  1 tbsp
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would chipotle sauce , 1 tsp .
+PREDID: 42
+PRED: chipotle
+   DOBJ: sauce , 1 tsp
+      INGREDIENT SPAN: sauce 
+         INGREDIENTS: sauce Goya Chipotle Chiles Adobo Sauce
+      NON-INGREDIENT SPAN:  1 tsp
+
+
+SENTID: 2
+SENT: I would garlic , the cilantro and adobo ;
+
+SENTID: 3
+SENT: I would cover and refrigerate until ready to use .
+PREDID: 61
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to use
+      NON-INGREDIENT SPAN: to use
+
+
+SENTID: 4
+SENT: In large bowl , I would gently mix together beef , chopped chipotle , 3 tbsp .
+
+SENTID: 5
+SENT: I would chipotle sauce , remaining garlic and adobo until combined .
+PREDID: 152
+PRED: chipotle
+   DOBJ: sauce , remaining garlic, adobo
+      INGREDIENT SPAN: sauce 
+         INGREDIENTS: chipotle pepper Goya Chipotle Peppers Adobo Sauce
+      INGREDIENT SPAN:  adobo
+         INGREDIENTS: Goya Adobo AllPurpose Seasoning taste
+      NON-INGREDIENT SPAN:  remaining garlic
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 6
+SENT: I would divide meat into 6 portions ;
+PREDID: 203
+PRED: divide
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: 6 portions
+     PREP: into
+      NON-INGREDIENT SPAN: 6 portions
+
+
+SENTID: 7
+SENT: I would form into 1 inch-thick patties .
+PREDID: 227
+PRED: form
+   DOBJ: NULL
+   PARG: 1 inch-thick patties
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch-thick patties
+
+
+SENTID: 8
+SENT: -LRB- Take care not to over-handle meat or else it will toughen -RRB- .
+
+SENTID: 9
+SENT: I would prepare grill to medium-high heat , grease with oil -LRB- or heat oil in medium skillet over medium-high heat -RRB- .
+PREDID: 254
+PRED: prepare
+   DOBJ: NULL
+   PARG: oil -lrb- or heat oil in medium skillet over medium-high heat
+     PREP: with
+      INGREDIENT SPAN: oil -lrb- or heat oil in medium skillet over medium-high heat
+         INGREDIENTS: Goya Vegetable Oil
+   OARG: grill to medium-high heat , grease
+      NON-INGREDIENT SPAN: grill to medium-high heat 
+      NON-INGREDIENT SPAN:  grease
+
+
+SENTID: 10
+SENT: I would cook burgers , flipping once , until charred and cooked to desired doneness -LRB- about 12 minutes total for medium rare -RRB- .
+PREDID: 343
+PRED: cook
+   DOBJ: burgers , flipping once
+      NON-INGREDIENT SPAN:  flipping once
+      NON-INGREDIENT SPAN: burgers 
+   PARG: charred
+     PREP: until
+      NON-INGREDIENT SPAN: charred
+
+PREDID: 383
+PRED: cooked
+   DOBJ: NULL
+   PARG: desired doneness -lrb- about 12 minutes total for medium rare
+     PREP: to
+      NON-INGREDIENT SPAN: desired doneness -lrb- about 12 minutes total for medium rare
+
+
+SENTID: 11
+SENT: I would add cheese to patties about 5 minutes before taking them off grill .
+PREDID: 441
+PRED: add
+   DOBJ: cheese
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: slices Cheddar cheese
+   OARG: to patties about 5 minutes before taking them off grill
+      NON-INGREDIENT SPAN: to patties about 5 minutes before taking them off grill
+
+
+SENTID: 12
+SENT: To assemble , divide patties evenly among bottom buns ;
+
+SENTID: 13
+SENT: I would top with onion slice , tomato slice , the lettuce and top bun spread with reserved chipotle mayonnaise .
+PREDID: 543
+PRED: top
+   DOBJ: NULL
+   PARG: onion slice , tomato slice , the lettuce, top bun spread
+     PREP: with
+      INGREDIENT SPAN: onion slice 
+         INGREDIENTS: inch thick slices tomatoes, inch thick slices red onions
+      INGREDIENT SPAN: onion slice 
+         INGREDIENTS: inch thick slices tomatoes, inch thick slices red onions
+      INGREDIENT SPAN:  the lettuce
+         INGREDIENTS: lettuce leaves
+      INGREDIENT SPAN:  top bun spread
+         INGREDIENTS: hamburger buns
+      NON-INGREDIENT SPAN:  tomato slice 
+   PARG: reserved chipotle mayonnaise
+     PREP: with
+      NON-INGREDIENT SPAN: reserved chipotle mayonnaise
+
+

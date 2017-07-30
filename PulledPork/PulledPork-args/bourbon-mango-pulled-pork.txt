@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: I would peel the mangos and remove the pits .
+PREDID: 0
+PRED: peel
+   DOBJ: the mangos
+      INGREDIENT SPAN: the mangos
+         INGREDIENTS: mangos
+
+PREDID: 16
+PRED: remove
+   DOBJ: the pits
+      NON-INGREDIENT SPAN: the pits
+
+
+SENTID: 1
+SENT: I would place the pits into a slow cooker ,
+PREDID: 30
+PRED: place
+   DOBJ: the pits
+      NON-INGREDIENT SPAN: the pits
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 2
+SENT: I would roughly chop the mango and set aside .
+PREDID: 65
+PRED: chop
+   DOBJ: the mango
+      NON-INGREDIENT SPAN: the mango
+   OARG: roughly
+      NON-INGREDIENT SPAN: roughly
+
+PREDID: 80
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would place the pork shoulder into the slow cooker , and season with the black pepper , kosher salt , and 1 teaspoon chipotle powder ;
+PREDID: 89
+PRED: place
+   DOBJ: the pork shoulder
+      INGREDIENT SPAN: the pork shoulder
+         INGREDIENTS: pound pork shoulder roast
+   PARG: the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker
+   OARG: season with the black pepper , kosher salt , 1 teaspoon chipotle powder
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN: season with the black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  1 teaspoon chipotle powder
+         INGREDIENTS: chipotle chile powder
+
+
+SENTID: 4
+SENT: I would pour in the balsamic vinegar and water .
+PREDID: 193
+PRED: pour
+   DOBJ: NULL
+   PARG: the balsamic vinegar, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the balsamic vinegar
+         INGREDIENTS: balsamic vinegar
+
+
+SENTID: 5
+SENT: I would cover , and cook on Low 5 to 8 hours until the meat is very tender .
+PREDID: 226
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 235
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   OARG: 5 to 8 hours until the meat is very tender
+      NON-INGREDIENT SPAN: 5 to 8 hours until the meat is very tender
+
+
+SENTID: 6
+SENT: Once done , I would drain the pork , discarding the cooking liquid and mango pits , and shred with two forks .
+PREDID: 287
+PRED: drain
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   OARG: once done
+      NON-INGREDIENT SPAN: once done
+   OARG: discarding the cooking liquid, mango pits , shred with two forks
+      NON-INGREDIENT SPAN: discarding the cooking liquid
+      NON-INGREDIENT SPAN:  shred with two forks
+      NON-INGREDIENT SPAN:  mango pits 
+
+
+SENTID: 7
+SENT: While the pork is cooking , I would puree the chopped mango in a blender until smooth ,
+PREDID: 382
+PRED: puree
+   DOBJ: the chopped mango in a blender
+      NON-INGREDIENT SPAN: the chopped mango in a blender
+   PARG: the pork is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the pork is cooking
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would pour into a saucepan along with the honey , 1 teaspoon chipotle powder , and whiskey .
+PREDID: 424
+PRED: pour
+   DOBJ: NULL
+   PARG: a saucepan along with the honey , 1 teaspoon chipotle powder , whiskey
+     PREP: into
+      INGREDIENT SPAN: a saucepan along with the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  whiskey
+         INGREDIENTS: fluid ounce jigger bourbon whiskey
+      NON-INGREDIENT SPAN:  1 teaspoon chipotle powder 
+
+
+SENTID: 9
+SENT: I would bring to a simmer .
+PREDID: 494
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 10
+SENT: I would reduce heat to medium-low , and simmer , stirring frequently until the mango has reduced and darkened slightly , about 10 minutes .
+PREDID: 509
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 542
+PRED: stirring
+   DOBJ: NULL
+   PARG: the mango has reduced, darkened slightly , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the mango has reduced
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  darkened slightly 
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 11
+SENT: I would stir in the barbeque sauce , and remove from the heat .
+PREDID: 618
+PRED: stir
+   DOBJ: NULL
+   PARG: the barbeque sauce
+     PREP: in
+      INGREDIENT SPAN: the barbeque sauce
+         INGREDIENTS: ounce bottles barbeque sauce
+
+PREDID: 644
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 12
+SENT: I would return the shredded pork to the slow cooker , and stir in the mango barbeque sauce .
+PREDID: 662
+PRED: return
+   DOBJ: the shredded pork
+      NON-INGREDIENT SPAN: the shredded pork
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+PREDID: 702
+PRED: stir
+   DOBJ: NULL
+   PARG: the mango barbeque sauce
+     PREP: in
+      NON-INGREDIENT SPAN: the mango barbeque sauce
+
+
+SENTID: 13
+SENT: I would cover , and cook on High 1 to 2 hours until the pork absorbs the barbeque sauce .
+PREDID: 730
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 739
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   OARG: 1 to 2 hours until the pork absorbs the barbeque sauce
+      NON-INGREDIENT SPAN: 1 to 2 hours until the pork absorbs the barbeque sauce
+
+

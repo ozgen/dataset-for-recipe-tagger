@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add lasagna noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles
+
+PREDID: 100
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 134
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a skillet , I would brown ground beef .
+PREDID: 151
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+
+SENTID: 5
+SENT: Using a fork , I would mix cottage cheese , the eggs , garlic powder , the parsley , the salt and pepper .
+PREDID: 178
+PRED: mix
+   DOBJ: cottage cheese , the eggs , garlic powder , the parsley , the salt, pepper
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  pepper
+   OARG: using a fork
+      NON-INGREDIENT SPAN: using a fork
+
+
+SENTID: 6
+SENT: In a separate bowl combine tomato paste and tomato sauce .
+PREDID: 250
+PRED: combine
+   DOBJ: NULL
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: tomato paste, tomato sauce
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 7
+SENT: In a 9x13 inch baking pan , I would layer noodles , ground beef , tomato sauce mixture and cottage cheese mixture .
+PREDID: 304
+PRED: layer
+   DOBJ: noodles , ground beef , tomato sauce mixture, cottage cheese mixture
+      NON-INGREDIENT SPAN:  ground beef 
+      NON-INGREDIENT SPAN: noodles 
+      NON-INGREDIENT SPAN:  tomato sauce mixture
+      NON-INGREDIENT SPAN:  cottage cheese mixture
+   PARG: a 9x13 inch baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+
+
+SENTID: 8
+SENT: I would two layers of each will fit .
+
+SENTID: 9
+SENT: I would cover with tin foil and bake for 30 minutes .
+PREDID: 393
+PRED: cover
+   DOBJ: NULL
+   PARG: tin foil
+     PREP: with
+      NON-INGREDIENT SPAN: tin foil
+
+PREDID: 412
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 10
+SENT: I would remove tin foil the last 8 minutes of baking time .
+PREDID: 429
+PRED: remove foil
+   DOBJ: tin
+      NON-INGREDIENT SPAN: tin
+   PARG: the last 8 minutes of baking time
+     PREP: for
+      NON-INGREDIENT SPAN: the last 8 minutes of baking time
+
+

@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would place the cabbage into a salad bowl .
+PREDID: 0
+PRED: place
+   DOBJ: the cabbage
+      INGREDIENT SPAN: the cabbage
+         INGREDIENTS: shredded cabbage
+   PARG: a salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 1
+SENT: In a small bowl , I would whisk together apple cider vinegar , the ketchup , the sugar , red pepper flakes , and hot sauce until the sugar has dissolved .
+PREDID: 43
+PRED: whisk
+   DOBJ: apple cider vinegar , the ketchup , the sugar , red pepper flakes , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: dashes hot pepper sauce taste
+      INGREDIENT SPAN: apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes taste
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: the sugar has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: the sugar has dissolved
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the dressing over the cabbage , toss thoroughly , and refrigerate at least 1 hour before serving .
+PREDID: 141
+PRED: pour
+   DOBJ: the dressing over the cabbage
+      NON-INGREDIENT SPAN: the dressing over the cabbage
+
+PREDID: 171
+PRED: toss
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 189
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

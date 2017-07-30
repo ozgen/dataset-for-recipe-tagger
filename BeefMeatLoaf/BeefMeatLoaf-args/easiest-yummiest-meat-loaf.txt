@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease an 8-inch square baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: an 8-inch square baking dish
+      NON-INGREDIENT SPAN: an 8-inch square baking dish
+
+
+SENTID: 2
+SENT: I would combine ground beef , rolled oats , French onion soup , and eggs in a bowl until thoroughly combined ;
+PREDID: 69
+PRED: combine
+   DOBJ: ground beef , rolled oats , French onion soup , eggs in a bowl
+      INGREDIENT SPAN:  rolled oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  eggs in a bowl
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  French onion soup 
+         INGREDIENTS: ounce French onion soup such Campbell
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 3
+SENT: I would transfer to prepared baking dish .
+PREDID: 152
+PRED: transfer
+   DOBJ: NULL
+   PARG: prepared baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until the meat loaf is no longer pink in the middle and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 60 to 75 minutes .
+

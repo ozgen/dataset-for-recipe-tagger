@@ -1,0 +1,235 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add bouillon cube and stir until melted .
+PREDID: 42
+PRED: add
+   DOBJ: bouillon cube
+      INGREDIENT SPAN: bouillon cube
+         INGREDIENTS: cube chicken bouillon
+
+PREDID: 60
+PRED: stir
+   DOBJ: NULL
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 2
+SENT: I would add chicken and poach for about 13 to 14 minutes .
+PREDID: 76
+PRED: add
+   DOBJ: chicken, poach
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breasts
+      NON-INGREDIENT SPAN:  poach
+   PARG: about 13 to 14 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 13 to 14 minutes
+
+
+SENTID: 3
+SENT: I would remove chicken and leave broth in pot ;
+PREDID: 116
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 132
+PRED: leave
+   DOBJ: broth in pot
+      NON-INGREDIENT SPAN: broth in pot
+
+
+SENTID: 4
+SENT: I would cool chicken and cut into 1/2 inch chunks ;
+PREDID: 148
+PRED: cool
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 162
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2 inch chunks
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch chunks
+
+
+SENTID: 5
+SENT: I would reserve .
+PREDID: 183
+PRED: reserve
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would add mushrooms to broth and cook over medium heat ;
+PREDID: 191
+PRED: add
+   DOBJ: mushrooms
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+   OARG: to broth, cook over medium heat
+      NON-INGREDIENT SPAN: to broth
+      NON-INGREDIENT SPAN:  cook over medium heat
+
+
+SENTID: 7
+SENT: I would cook for a few minutes and remove mushrooms from stock ;
+PREDID: 232
+PRED: cook
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+
+PREDID: 253
+PRED: remove
+   DOBJ: mushrooms
+      NON-INGREDIENT SPAN: mushrooms
+   PARG: stock
+     PREP: from
+      NON-INGREDIENT SPAN: stock
+
+
+SENTID: 8
+SENT: I would reserve .
+PREDID: 278
+PRED: reserve
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: With remaining stock in pot , I would add some more water , if needed .
+PREDID: 310
+PRED: add
+   DOBJ: some more water
+      NON-INGREDIENT SPAN: some more water
+   PARG: remaining stock in pot
+     PREP: with
+      NON-INGREDIENT SPAN: remaining stock in pot
+   PARG: needed
+     PREP: if
+      NON-INGREDIENT SPAN: needed
+
+
+SENTID: 10
+SENT: I would bring water to a boil and add pasta to cook for 8 to 10 minutes or until al dente ;
+PREDID: 336
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 356
+PRED: add
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   OARG: to cook for 8 to 10 minutes or until al dente
+      NON-INGREDIENT SPAN: to cook for 8 to 10 minutes or until al dente
+
+
+SENTID: 11
+SENT: I would drain and discard stock .
+PREDID: 400
+PRED: drain and discard
+   DOBJ: stock
+      NON-INGREDIENT SPAN: stock
+
+
+SENTID: 12
+SENT: I would cool pasta with running water ;
+PREDID: 421
+PRED: cool
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: running water
+     PREP: with
+      NON-INGREDIENT SPAN: running water
+
+
+SENTID: 13
+SENT: I would reserve .
+PREDID: 447
+PRED: reserve
+   DOBJ: NULL
+
+
+SENTID: 14
+SENT: In a small bowl , I would combine sour cream , the mayonnaise , the garlic , curry powder and salt and pepper to taste .
+PREDID: 468
+PRED: combine
+   DOBJ: sour cream , the mayonnaise , the garlic , curry powder, salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: yellow bell pepper sliced
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  curry powder
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic chopped
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 15
+SENT: In a large bowl , I would combine cooled pasta , the chicken , the mushrooms , sour cream dressing , the olives , the apple , yellow bell pepper and celery ;
+PREDID: 551
+PRED: combine
+   DOBJ: cooled pasta , the chicken , the mushrooms , sour cream dressing , the olives , the apple , yellow bell pepper, celery
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: apple peeled cored sliced
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce black olives drained chopped
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalks celery chopped
+      NON-INGREDIENT SPAN: cooled pasta 
+      NON-INGREDIENT SPAN:  the chicken 
+      NON-INGREDIENT SPAN:  sour cream dressing 
+      NON-INGREDIENT SPAN:  the mushrooms 
+      NON-INGREDIENT SPAN:  yellow bell pepper
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 16
+SENT: I would mix well .
+PREDID: 645
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 17
+SENT: I would refrigerate for at least 3 hours and serve .
+PREDID: 653
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 3 hours
+
+

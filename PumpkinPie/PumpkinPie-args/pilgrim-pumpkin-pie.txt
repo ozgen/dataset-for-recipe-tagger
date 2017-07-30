@@ -1,0 +1,243 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: To Make Pastry :
+
+SENTID: 2
+SENT: In a large bowl , I would mix together flour , 1 tablespoon sugar , and 2 teaspoons salt .
+PREDID: 64
+PRED: mix
+   DOBJ: flour , 1 tablespoon sugar , 2 teaspoons salt
+      INGREDIENT SPAN:  1 tablespoon sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  2 teaspoons salt
+         INGREDIENTS: salt
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would cut in shortening until mixture resembles coarse meal .
+PREDID: 116
+PRED: cut
+   DOBJ: NULL
+   PARG: shortening until mixture resembles coarse meal
+     PREP: in
+      INGREDIENT SPAN: shortening until mixture resembles coarse meal
+         INGREDIENTS: shortening
+
+
+SENTID: 4
+SENT: In a small bowl whisk together vinegar , I would 1 egg , and ice water .
+
+SENTID: 5
+SENT: I would pour into flour mixture and stir until dough forms a ball .
+PREDID: 163
+PRED: pour
+   DOBJ: a ball
+      NON-INGREDIENT SPAN: a ball
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 186
+PRED: stir
+   DOBJ: NULL
+   PARG: dough forms
+     PREP: until
+      NON-INGREDIENT SPAN: dough forms
+
+
+SENTID: 6
+SENT: I would divide into 4 portions .
+PREDID: 211
+PRED: divide
+   DOBJ: NULL
+   PARG: 4 portions
+     PREP: into
+      NON-INGREDIENT SPAN: 4 portions
+
+
+SENTID: 7
+SENT: I would freeze 3 of them or use for other pies .
+PREDID: 231
+PRED: freeze
+   DOBJ: 3 of them
+      NON-INGREDIENT SPAN: 3 of them
+
+PREDID: 246
+PRED: use
+   DOBJ: NULL
+   PARG: other pies
+     PREP: for
+      NON-INGREDIENT SPAN: other pies
+
+
+SENTID: 8
+SENT: I would reserve one for Pilgrim Pumpkin Pie .
+PREDID: 262
+PRED: reserve
+   DOBJ: one
+      NON-INGREDIENT SPAN: one
+   PARG: pilgrim pumpkin pie
+     PREP: for
+      INGREDIENT SPAN: pilgrim pumpkin pie
+         INGREDIENTS: pumpkin puree
+
+
+SENTID: 9
+SENT: To Make Pumpkin Filling :
+
+SENTID: 10
+SENT: In a large bowl , I would combine 2 beaten eggs , the pumpkin , 3/4 cup honey or sugar , 1/2 teaspoon salt , the cinnamon , 1/2 teaspoon ginger , the cloves , and evaporated milk .
+PREDID: 327
+PRED: combine
+   DOBJ: 2 beaten eggs , the pumpkin , 3/4 cup honey or sugar , 1/2 teaspoon salt , the cinnamon , 1/2 teaspoon ginger , the cloves , evaporated milk
+      INGREDIENT SPAN:  1/2 teaspoon ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  3/4 cup honey or sugar 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: 2 beaten eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  the pumpkin 
+      NON-INGREDIENT SPAN:  1/2 teaspoon salt 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 11
+SENT: I would mix well .
+PREDID: 441
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 12
+SENT: I would roll out pastry and fit into a 9 inch pie plate .
+PREDID: 449
+PRED: roll
+   DOBJ: pastry
+      NON-INGREDIENT SPAN: pastry
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 465
+PRED: fit
+   DOBJ: NULL
+   PARG: a 9 inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: a 9 inch pie plate
+
+
+SENTID: 13
+SENT: I would pour in pumpkin filling .
+PREDID: 487
+PRED: pour
+   DOBJ: NULL
+   PARG: pumpkin filling
+     PREP: in
+      NON-INGREDIENT SPAN: pumpkin filling
+
+
+SENTID: 14
+SENT: I would bake in preheated oven for 15 minutes ,
+PREDID: 508
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 15
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 540
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 16
+SENT: I would bake an additional 45 minutes , until filling is set .
+PREDID: 577
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 45 minutes , until filling is set
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 45 minutes 
+      NON-INGREDIENT SPAN:  until filling is set
+
+
+SENTID: 17
+SENT: To Make Honey Ginger Cream :
+
+SENTID: 18
+SENT: In a large bowl combine whipping cream , 1/4 cup honey , and 1/2 teaspoon ginger .
+PREDID: 671
+PRED: whipping
+   DOBJ: cream , 1/4 cup honey , 1/2 teaspoon ginger
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: heavy whipping cream
+      NON-INGREDIENT SPAN:  1/2 teaspoon ginger
+      NON-INGREDIENT SPAN:  1/4 cup honey 
+   PARG: a large bowl combine
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl combine
+
+
+SENTID: 19
+SENT: I would whip until soft peaks form .
+PREDID: 710
+PRED: whip
+   DOBJ: NULL
+   PARG: soft peaks form
+     PREP: until
+      NON-INGREDIENT SPAN: soft peaks form
+
+
+SENTID: 20
+SENT: I would chill 1 hour before serving .
+PREDID: 733
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 21
+SENT: I would place a spoonful on top of each slice of pie .
+PREDID: 757
+PRED: place
+   DOBJ: a spoonful
+      NON-INGREDIENT SPAN: a spoonful
+   PARG: top of each slice of pie
+     PREP: on
+      NON-INGREDIENT SPAN: top of each slice of pie
+
+

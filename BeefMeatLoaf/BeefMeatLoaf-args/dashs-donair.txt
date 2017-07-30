@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a cup or small bowl , mix together the salt , the oregano , the flour , black pepper , Italian seasoning , garlic powder , onion powder , and cayenne pepper .
+
+SENTID: 2
+SENT: I would place the ground beef in a large bowl , and use your hands to blend in the spice mixture .
+PREDID: 41
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 75
+PRED: use
+   DOBJ: your hands
+      NON-INGREDIENT SPAN: your hands
+   OARG: to blend in the spice mixture
+      NON-INGREDIENT SPAN: to blend in the spice mixture
+
+
+SENTID: 3
+SENT: If you want the smooth texture of meat that you see in a real donair shop , I would you must do this in a steel mixing bowl and on a sturdy surface .
+
+SENTID: 4
+SENT: I would pick up the meat , and throw it down with force about 20 times , kneading it after each throw .
+PREDID: 222
+PRED: pick
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 239
+PRED: throw
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: force about 20 times , kneading it after each throw
+     PREP: with
+      NON-INGREDIENT SPAN:  kneading it after each throw
+      NON-INGREDIENT SPAN: force about 20 times 
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 5
+SENT: This also helps the meat hold together better when you slice it .
+
+SENTID: 6
+SENT: I would form the meat into a loaf , and place it on a broiler pan .
+PREDID: 297
+PRED: form
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 321
+PRED: place
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a broiler pan
+     PREP: on
+      NON-INGREDIENT SPAN: a broiler pan
+
+
+SENTID: 7
+SENT: If you do not have one , a baking sheet will do .
+
+SENTID: 8
+SENT: I would bake for 1 hour and 15 minutes in the preheated oven , turning the loaf over about half way through .
+PREDID: 342
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour, 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+      NON-INGREDIENT SPAN:  15 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   OARG: turning the loaf over about half way through
+      NON-INGREDIENT SPAN: turning the loaf over about half way through
+
+
+SENTID: 9
+SENT: This will ensure even cooking .
+
+SENTID: 10
+SENT: I would serve , or allow the meat to chill before slicing and reheating .
+PREDID: 423
+PRED: serve
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   OARG: to chill before slicing, reheating
+      NON-INGREDIENT SPAN: to chill before slicing
+      NON-INGREDIENT SPAN:  reheating
+
+
+SENTID: 11
+SENT: To make the donair sauce , mix together the evaporated milk , the sugar and garlic powder in a medium bowl .
+
+SENTID: 12
+SENT: I would gradually whisk in the white vinegar , adding 1 teaspoon at a time , until thickened to your desired consistency .
+PREDID: 569
+PRED: whisk
+   DOBJ: NULL
+   PARG: the white vinegar
+     PREP: in
+      INGREDIENT SPAN: the white vinegar
+         INGREDIENTS: white vinegar needed
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: adding 1 teaspoon at a time , until thickened to your desired consistency
+      NON-INGREDIENT SPAN: adding 1 teaspoon at a time 
+      NON-INGREDIENT SPAN:  until thickened to your desired consistency
+
+

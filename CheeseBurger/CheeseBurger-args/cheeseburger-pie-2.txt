@@ -1,0 +1,193 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: In a large saucepan over medium high heat , I would brown the ground beef for 5 to 10 minutes ;
+PREDID: 73
+PRED: brown
+   DOBJ: NULL
+   PARG: a large saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium high heat
+   PARG: the ground beef for 5 to 10 minutes
+     PREP: for
+      INGREDIENT SPAN: the ground beef for 5 to 10 minutes
+         INGREDIENTS: ground beef
+
+
+SENTID: 2
+SENT: I would drain excess fat .
+PREDID: 107
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 3
+SENT: I would add the onion , the salt , ground black pepper , chili powder , the tomatoes , the corn , the peas and green beans .
+PREDID: 122
+PRED: add
+   DOBJ: the onion , the salt , ground black pepper , chili powder , the tomatoes , the corn , the peas, green beans
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: ounce peas
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  green beans
+         INGREDIENTS: ounce green beans drained
+      INGREDIENT SPAN:  ground black pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 4
+SENT: I would reduce heat to low and let simmer .
+PREDID: 201
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 219
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 5
+SENT: I would meanwhile , in a large bowl , combine the buttermilk baking mix and the milk .
+PREDID: 252
+PRED: combine
+   DOBJ: the buttermilk baking mix, the milk
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the buttermilk baking mix
+         INGREDIENTS: buttermilk baking mix
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would mix well to form a dough .
+PREDID: 292
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: to form a dough
+      NON-INGREDIENT SPAN: to form a dough
+
+
+SENTID: 7
+SENT: I would split in half and roll the dough out to line the bottom of a 9x13 inch baking dish .
+PREDID: 312
+PRED: split
+   DOBJ: NULL
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 326
+PRED: roll
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to line the bottom of a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: to line the bottom of a 9x13 inch baking dish
+
+
+SENTID: 8
+SENT: I would make sure dough covers the bottom and sides of the dish .
+PREDID: 375
+PRED: make
+   DOBJ: NULL
+   OARG: sure dough covers the bottom, sides of the dish
+      NON-INGREDIENT SPAN: sure dough covers the bottom
+      NON-INGREDIENT SPAN:  sides of the dish
+
+
+SENTID: 9
+SENT: After the beef mixture has simmered for about 15 to 20 minutes , I would pour into the baking dish over the dough .
+PREDID: 473
+PRED: pour
+   DOBJ: NULL
+   PARG: the beef mixture has simmered for about 15 to 20 minutes
+     PREP: after
+      INGREDIENT SPAN: the beef mixture has simmered for about 15 to 20 minutes
+         INGREDIENTS: ground beef
+   PARG: the baking dish over the dough
+     PREP: into
+      NON-INGREDIENT SPAN: the baking dish over the dough
+
+
+SENTID: 10
+SENT: I would spoon the mashed potatoes over the beef mixture , spreading evenly .
+PREDID: 507
+PRED: spoon
+   DOBJ: the mashed potatoes over the beef mixture , spreading evenly
+      INGREDIENT SPAN: the mashed potatoes over the beef mixture 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: the mashed potatoes over the mixture 
+         INGREDIENTS: potatoes cooked mashed
+      NON-INGREDIENT SPAN:  spreading evenly
+
+
+SENTID: 11
+SENT: I would layer the cheese over the potatoes .
+PREDID: 564
+PRED: layer
+   DOBJ: the cheese over the potatoes
+      INGREDIENT SPAN: the cheese over the potatoes
+         INGREDIENTS: sliced process cheese food
+
+
+SENTID: 12
+SENT: I would roll out the other half of the dough to fit over the top .
+PREDID: 594
+PRED: roll
+   DOBJ: the other half of the dough
+      NON-INGREDIENT SPAN: the other half of the dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to fit over the top
+      NON-INGREDIENT SPAN: to fit over the top
+
+
+SENTID: 13
+SENT: I would trim the edges and seal .
+PREDID: 639
+PRED: trim
+   DOBJ: the edges
+      NON-INGREDIENT SPAN: the edges
+
+
+SENTID: 14
+SENT: I would bake at 450 degrees F -LRB- 230 degrees C -RRB- for 25 to 35 minutes , or until golden brown .
+PREDID: 659
+PRED: bake
+   DOBJ: NULL
+   PARG: 450 degrees f -lrb- 230 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 450 degrees f -lrb- 230 degrees c
+   PARG: 25 to 35 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 35 minutes
+
+

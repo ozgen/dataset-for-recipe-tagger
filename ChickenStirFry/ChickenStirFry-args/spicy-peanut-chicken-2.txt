@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: I would combine curry powder , Thai chili garlic sauce , cayenne pepper , the cinnamon , and soy sauce in a small bowl , and set aside .
+PREDID: 0
+PRED: combine
+   DOBJ: curry powder , Thai chili garlic sauce , cayenne pepper , the cinnamon , soy sauce in a small bowl
+      INGREDIENT SPAN:  soy sauce in a small bowl
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: ground cayenne pepper taste
+      INGREDIENT SPAN:  Thai chili garlic sauce 
+         INGREDIENTS: Thai chili garlic sauce Sriracha taste
+
+PREDID: 93
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would fill a saucepan with water , and bring it to a boil .
+PREDID: 99
+PRED: fill
+   DOBJ: a saucepan
+      NON-INGREDIENT SPAN: a saucepan
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+PREDID: 125
+PRED: bring
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: When the water is boiling , drop in the spaghetti and cook for 8 to 12 minutes , stirring occasionally , until tender .
+PREDID: 162
+PRED: drop
+   DOBJ: NULL
+   PARG: the spaghetti
+     PREP: in
+      INGREDIENT SPAN: the spaghetti
+         INGREDIENTS: uncooked spaghetti
+   OARG: when the water is boiling
+      NON-INGREDIENT SPAN: when the water is boiling
+
+PREDID: 183
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 12 minutes , stirring occasionally , until tender
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until tender
+      NON-INGREDIENT SPAN: 8 to 12 minutes 
+
+
+SENTID: 3
+SENT: I would drain the spaghetti , and set aside .
+PREDID: 236
+PRED: drain
+   DOBJ: the spaghetti
+      NON-INGREDIENT SPAN: the spaghetti
+
+PREDID: 257
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would heat peanut oil in a skillet or wok over medium-high heat until barely smoking , and drop in the chicken .
+PREDID: 266
+PRED: heat
+   DOBJ: peanut oil in a skillet or wok over medium-high heat
+      INGREDIENT SPAN: peanut oil in a skillet or wok over medium-high heat
+         INGREDIENTS: peanut oil
+   PARG: barely smoking , drop in the chicken
+     PREP: until
+      INGREDIENT SPAN:  drop in the chicken
+         INGREDIENTS: large skinless boneless chicken breast halves cut 1inch cubes
+      NON-INGREDIENT SPAN: barely smoking 
+
+
+SENTID: 5
+SENT: I would cook and stir 5 to 8 minutes , until the chicken is just beginning to brown and the inside is no longer pink .
+PREDID: 352
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 5 to 8 minutes , until the chicken is just beginning to brown
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 8 minutes 
+      NON-INGREDIENT SPAN:  until the chicken is just beginning to brown
+   OARG: the inside is no longer pink
+      NON-INGREDIENT SPAN: the inside is no longer pink
+
+
+SENTID: 6
+SENT: I would remove chicken from the skillet , and set aside .
+PREDID: 439
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 470
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would make the peanut sauce by stirring together peanut butter and 3?1/2 cups of water in a saucepan over medium heat until mixture is smooth and the peanut butter is melted .
+PREDID: 479
+PRED: make
+   DOBJ: the peanut sauce
+      INGREDIENT SPAN: the peanut sauce
+         INGREDIENTS: extra chunky peanut butter
+   PARG: stirring together peanut butter, 3?1/2 cups of water in a saucepan over medium heat until mixture is smooth
+     PREP: by
+      NON-INGREDIENT SPAN: stirring together peanut butter
+      NON-INGREDIENT SPAN:  3?1/2 cups of water in a saucepan over medium heat until mixture is smooth
+
+PREDID: 611
+PRED: is melted
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would pour in the curry-chili sauce , and simmer , stirring occasionally , until the sauce is thickened , about 15 minutes .
+PREDID: 618
+PRED: pour
+   DOBJ: NULL
+   PARG: the curry-chili sauce , simmer , stirring occasionally , until the sauce is thickened , about 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the curry-chili sauce 
+      NON-INGREDIENT SPAN:  simmer 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN:  until the sauce is thickened 
+
+
+SENTID: 9
+SENT: To serve , place the noodles in a large bowl , top with chicken , and spoon the peanut sauce over the chicken .
+PREDID: 717
+PRED: serve and place
+   DOBJ: the noodles
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: chow noodles
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 751
+PRED: top
+   DOBJ: NULL
+   PARG: chicken
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 769
+PRED: spoon
+   DOBJ: the peanut sauce
+      NON-INGREDIENT SPAN: the peanut sauce
+   PARG: the chicken
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 10
+SENT: I would sprinkle the green onions over the dish , and garnish with chow mein noodles .
+PREDID: 803
+PRED: sprinkle
+   DOBJ: the green onions over the dish
+      INGREDIENT SPAN: the green onions over the dish
+         INGREDIENTS: green onions chopped
+
+PREDID: 840
+PRED: garnish
+   DOBJ: NULL
+   PARG: chow mein noodles
+     PREP: with
+      NON-INGREDIENT SPAN: chow mein noodles
+
+

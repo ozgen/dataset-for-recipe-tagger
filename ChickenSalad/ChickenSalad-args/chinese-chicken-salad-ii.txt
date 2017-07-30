@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a small bowl , I would whisk together the oil , the vinegar , the sugar , the salt , the pepper , and poppy seeds , and set aside .
+PREDID: 13
+PRED: whisk
+   DOBJ: the oil , the vinegar , the sugar , the salt , the pepper , poppy seeds
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN: the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  poppy seeds
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 88
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would wash lettuce and tear into bite-sized pieces .
+PREDID: 85
+PRED: wash
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: head lettuce
+
+PREDID: 99
+PRED: tear
+   DOBJ: NULL
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 2
+SENT: To a large bowl , first add the lettuce ,
+PREDID: 142
+PRED: add
+   DOBJ: the lettuce
+      NON-INGREDIENT SPAN: the lettuce
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: first
+      NON-INGREDIENT SPAN: first
+
+
+SENTID: 3
+SENT: the onions , water chestnuts , and chicken .
+
+SENTID: 4
+SENT: I would just before serving , top with the almonds , the noodles and dressing , and toss lightly .
+PREDID: 174
+PRED: top
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: the almonds , the noodles, dressing
+     PREP: with
+      INGREDIENT SPAN: the almonds 
+         INGREDIENTS: sliced almonds
+      INGREDIENT SPAN:  the noodles
+         INGREDIENTS: ounce chow noodles
+      NON-INGREDIENT SPAN:  dressing
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 217
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

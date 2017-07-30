@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: I would cook and drain macaroni as directed on box .
+PREDID: 0
+PRED: cook and drain
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: uncooked elbow macaroni
+   PARG: directed on box
+     PREP: as
+      NON-INGREDIENT SPAN: directed on box
+
+
+SENTID: 1
+SENT: I would return to saucepan ;
+PREDID: 36
+PRED: return
+   DOBJ: NULL
+   PARG: saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 2
+SENT: I would keep warm .
+PREDID: 53
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 3
+SENT: I would meanwhile , heat oven to 375 degrees F.
+PREDID: 72
+PRED: heat
+   DOBJ: oven to 375 degrees F.
+      NON-INGREDIENT SPAN: oven to 375 degrees F.
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would spray 13x9-inch glass baking dish with cooking spray .
+PREDID: 94
+PRED: spray
+   DOBJ: 13x9-inch glass baking dish with cooking spray
+      NON-INGREDIENT SPAN: 13x9-inch glass baking dish with cooking spray
+
+
+SENTID: 5
+SENT: In 2-quart saucepan , I would heat cream , the mustard , the salt and red pepper to boiling .
+PREDID: 158
+PRED: heat
+   DOBJ: cream , the mustard , the salt, red pepper
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: whipping cream
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: ground red pepper cayenne
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: coarse salt kosher sea salt
+   PARG: 2-quart saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: 2-quart saucepan
+   PARG: boiling
+     PREP: to
+      NON-INGREDIENT SPAN: boiling
+
+
+SENTID: 6
+SENT: I would reduce heat ;
+PREDID: 202
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would stir in Cheddar cheese with wire whisk until smooth .
+PREDID: 213
+PRED: stir
+   DOBJ: NULL
+   PARG: cheddar cheese with wire whisk
+     PREP: in
+      INGREDIENT SPAN: cheddar cheese with wire whisk
+         INGREDIENTS: smoked Cheddar cheese shredded
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would pour sauce over macaroni .
+PREDID: 257
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: macaroni
+
+
+SENTID: 9
+SENT: I would stir in tomatoes and onions .
+PREDID: 279
+PRED: stir
+   DOBJ: NULL
+   PARG: tomatoes, onions
+     PREP: in
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: sliced green onions
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce Muir Glen organic fire roasted diced tomatoes
+
+
+SENTID: 10
+SENT: I would pour into baking dish .
+PREDID: 303
+PRED: pour
+   DOBJ: NULL
+   PARG: baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: baking dish
+
+
+SENTID: 11
+SENT: In small bowl , I would stir together Parmesan cheese and bread crumbs ;
+PREDID: 334
+PRED: stir
+   DOBJ: Parmesan cheese, bread crumbs
+      INGREDIENT SPAN: Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would stir in oil .
+PREDID: 375
+PRED: stir
+   DOBJ: NULL
+   PARG: oil
+     PREP: in
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 13
+SENT: I would sprinkle over top of macaroni mixture .
+PREDID: 385
+PRED: sprinkle
+   DOBJ: top of macaroni mixture
+      NON-INGREDIENT SPAN: top of macaroni mixture
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 14
+SENT: I would bake 20 to 25 minutes or until edges are bubbly and top is golden brown .
+

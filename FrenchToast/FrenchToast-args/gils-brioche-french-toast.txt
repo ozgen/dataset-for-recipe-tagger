@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: I would place a metal mixing bowl and beaters from an electric mixer into the freezer to chill .
+PREDID: 0
+PRED: place
+   DOBJ: a metal
+      NON-INGREDIENT SPAN: a metal
+   OARG: mixing bowl, beaters from an electric mixer into the freezer to chill
+      NON-INGREDIENT SPAN:  beaters from an electric mixer into the freezer to chill
+      NON-INGREDIENT SPAN: mixing bowl
+
+
+SENTID: 1
+SENT: I would trim the end crusts from the brioche bread , and slice the loaf in half ;
+PREDID: 72
+PRED: trim
+   DOBJ: the end crusts
+      NON-INGREDIENT SPAN: the end crusts
+   PARG: the brioche bread
+     PREP: from
+      INGREDIENT SPAN: the brioche bread
+         INGREDIENTS: pound loaf rectangular brioche bread
+
+PREDID: 111
+PRED: slice
+   DOBJ: the loaf in half
+      NON-INGREDIENT SPAN: the loaf in half
+
+
+SENTID: 2
+SENT: I would cut each half in half again -LRB- 4 pieces -RRB- , and cut each quarter in half to total 8 pieces of brioche .
+PREDID: 130
+PRED: cut
+   DOBJ: each half in half again -LRB- 4 pieces
+      NON-INGREDIENT SPAN: each half in half again -LRB- 4 pieces
+
+PREDID: 173
+PRED: cut
+   DOBJ: each quarter
+      NON-INGREDIENT SPAN: each quarter
+   PARG: half to total 8 pieces of brioche
+     PREP: in
+      NON-INGREDIENT SPAN: half to total 8 pieces of brioche
+
+
+SENTID: 3
+SENT: I would place 2 cups of strawberries and the water into a saucepan over medium-high heat ;
+PREDID: 209
+PRED: place
+   DOBJ: 2 cups of strawberries, the water
+      INGREDIENT SPAN: 2 cups of strawberries
+         INGREDIENTS: fresh strawberries hulled divided
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+   PARG: a saucepan over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan over medium-high heat
+
+
+SENTID: 4
+SENT: I would cover the pan , and bring to a simmer .
+PREDID: 277
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 292
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 5
+SENT: I would gently steam the berries until they release their juice , about 5 minutes .
+PREDID: 313
+PRED: steam
+   DOBJ: the berries
+      NON-INGREDIENT SPAN: the berries
+   PARG: they release their juice , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: they release their juice 
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would beat 1 cup of heavy cream , vanilla extract , and confectioners ' sugar together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks ;
+PREDID: 369
+PRED: beat
+   DOBJ: 1 cup of heavy cream , vanilla extract
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: 1 cup of heavy cream 
+         INGREDIENTS: heavy cream divided
+   OARG: confectioners ' sugar together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks
+      INGREDIENT SPAN:  ' together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks
+         INGREDIENTS: heavy cream divided
+      INGREDIENT SPAN: confectioners ' sugar together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks
+         INGREDIENTS: confectioners sugar
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 519
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would whisk the eggs and remaining 1 cup cream together in a large bowl , and place the bread pieces into the mixture , spooning the cream over the bread to coat .
+PREDID: 528
+PRED: whisk
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   OARG: remaining 1 cup cream together in a large bowl
+      NON-INGREDIENT SPAN: remaining 1 cup cream together in a large bowl
+
+PREDID: 585
+PRED: place
+   DOBJ: the bread pieces
+      NON-INGREDIENT SPAN: the bread pieces
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+   OARG: spooning the cream over the bread to coat
+      NON-INGREDIENT SPAN: spooning the cream over the bread to coat
+
+
+SENTID: 9
+SENT: I would allow to stand for 5 minutes .
+PREDID: 654
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 5 minutes
+      NON-INGREDIENT SPAN: to stand for 5 minutes
+
+
+SENTID: 10
+SENT: I would heat the butter in a skillet over medium heat until fragrant , and lay the coated brioche pieces into the skillet .
+PREDID: 678
+PRED: heat
+   DOBJ: the butter in a skillet over medium heat
+      INGREDIENT SPAN: the butter in a skillet over medium heat
+         INGREDIENTS: unsalted butter
+   PARG: fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+
+PREDID: 732
+PRED: lay
+   DOBJ: the coated brioche pieces
+      NON-INGREDIENT SPAN: the coated brioche pieces
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 11
+SENT: I would cook until the French toast is golden brown , about 3 minutes per side .
+PREDID: 772
+PRED: cook
+   DOBJ: NULL
+   PARG: the french toast is golden brown , about 3 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN: the french toast is golden brown 
+      NON-INGREDIENT SPAN:  about 3 minutes per side
+
+
+SENTID: 12
+SENT: To serve , place 2 pieces of French toast onto a plate , overlapping slightly .
+PREDID: 832
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 838
+PRED: place
+   DOBJ: 2 pieces of French toast
+      NON-INGREDIENT SPAN: 2 pieces of French toast
+   PARG: a plate
+     PREP: onto
+      NON-INGREDIENT SPAN: a plate
+
+PREDID: 874
+PRED: overlapping
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 13
+SENT: I would ladle cooked strawberries and their juice over the French toast , and top with a generous dollop of whipped cream .
+PREDID: 894
+PRED: ladle
+   DOBJ: cooked strawberries
+      INGREDIENT SPAN: cooked strawberries
+         INGREDIENTS: fresh strawberries hulled divided
+   OARG: their juice over the french toast
+      NON-INGREDIENT SPAN: their juice over the french toast
+
+PREDID: 952
+PRED: top
+   DOBJ: NULL
+   PARG: a generous dollop of whipped cream
+     PREP: with
+      NON-INGREDIENT SPAN: a generous dollop of whipped cream
+
+
+SENTID: 14
+SENT: I would top the cream with several fresh strawberries .
+PREDID: 989
+PRED: top
+   DOBJ: the cream
+      NON-INGREDIENT SPAN: the cream
+   PARG: several fresh strawberries
+     PREP: with
+      NON-INGREDIENT SPAN: several fresh strawberries
+
+

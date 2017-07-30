@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook pasta for 8 to 10 minutes , or until al dente ;
+PREDID: 42
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: dry fettuccine pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 82
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large skillet , I would brown beef over medium heat .
+PREDID: 104
+PRED: brown
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 4
+SENT: I would drain fat from pan , and transfer meat to a bowl .
+PREDID: 128
+PRED: drain
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+PREDID: 147
+PRED: transfer
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 5
+SENT: In the same skillet , I would cook onion and bell pepper in butter until tender .
+PREDID: 184
+PRED: cook
+   DOBJ: onion, bell pepper in butter
+      INGREDIENT SPAN:  bell pepper in butter
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  in butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: the same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 6
+SENT: I would stir in tomatoes , the mushrooms , the olives , and beef , and season with oregano .
+PREDID: 226
+PRED: stir
+   DOBJ: NULL
+   PARG: tomatoes , the mushrooms , the olives , beef , season
+     PREP: in
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: chopped black olives
+      INGREDIENT SPAN:  beef 
+         INGREDIENTS: beef broth
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      NON-INGREDIENT SPAN:  season
+   PARG: oregano
+     PREP: with
+      INGREDIENT SPAN: oregano
+         INGREDIENTS: dried oregano
+
+
+SENTID: 7
+SENT: I would simmer for 10 minutes .
+PREDID: 287
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 8
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 306
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 9
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 351
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 10
+SENT: I would arrange half of the cooked fettuccine in the prepared dish , top with half of the beef and vegetable mixture , and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese .
+PREDID: 377
+PRED: arrange
+   DOBJ: half of the cooked fettuccine in the prepared dish , top with half of the beef, vegetable mixture
+      NON-INGREDIENT SPAN:  top with half of the beef
+      NON-INGREDIENT SPAN: half of the cooked fettuccine in the prepared dish 
+      NON-INGREDIENT SPAN:  vegetable mixture
+
+PREDID: 470
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/2 cup of cheddar cheese, 1/2 cup of mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1/2 cup of cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  1/2 cup of mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 11
+SENT: I would repeat layers .
+PREDID: 531
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 12
+SENT: I would mix together soup and beef broth until smooth , and pour over casserole .
+PREDID: 544
+PRED: mix
+   DOBJ: soup, beef broth
+      NON-INGREDIENT SPAN:  beef broth
+      NON-INGREDIENT SPAN: soup
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 586
+PRED: pour
+   DOBJ: NULL
+   PARG: casserole
+     PREP: over
+      NON-INGREDIENT SPAN: casserole
+
+
+SENTID: 13
+SENT: I would sprinkle with Parmesan cheese .
+PREDID: 604
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 14
+SENT: I would bake in preheated oven for 30 to 35 minutes , or until heated through .
+PREDID: 631
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 to 35 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 to 35 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

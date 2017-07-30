@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would place 1 cup rolled oats in a food processor and process until ground .
+PREDID: 84
+PRED: place
+   DOBJ: 1 cup rolled oats in a food processor
+      INGREDIENT SPAN: 1 cup rolled oats in a food processor
+         INGREDIENTS: rolled oats
+
+PREDID: 122
+PRED: process
+   DOBJ: NULL
+   PARG: ground
+     PREP: until
+      INGREDIENT SPAN: ground
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine ground oats with flour , 1 tablespoon rolled oats , chopped walnuts , baking powder , the cinnamon and salt .
+PREDID: 154
+PRED: combine
+   DOBJ: ground oats
+      INGREDIENT SPAN: ground oats
+         INGREDIENTS: rolled oats
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: flour , 1 tablespoon rolled oats , chopped walnuts , baking powder , the cinnamon, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  chopped walnuts 
+         INGREDIENTS: chopped walnuts
+      NON-INGREDIENT SPAN:  1 tablespoon rolled oats 
+      NON-INGREDIENT SPAN:  the cinnamon
+
+
+SENTID: 4
+SENT: In a separate bowl , I would cream together the butter and sugar until light and fluffy .
+PREDID: 263
+PRED: cream
+   DOBJ: the butter, sugar
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter chilled
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: light, fluffy
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy
+      NON-INGREDIENT SPAN: light
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would beat in the eggs one at a time ,
+PREDID: 313
+PRED: beat
+   DOBJ: NULL
+   PARG: the eggs one
+     PREP: in
+      INGREDIENT SPAN: the eggs one
+         INGREDIENTS: eggs
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 6
+SENT: I would stir in the banana and vanilla .
+PREDID: 337
+PRED: stir
+   DOBJ: NULL
+   PARG: the banana, vanilla
+     PREP: in
+      INGREDIENT SPAN: the banana
+         INGREDIENTS: mashed ripe banana
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 7
+SENT: I would stir in sour cream .
+PREDID: 363
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 8
+SENT: I would mix oat/flour mixture into egg mixture .
+PREDID: 379
+PRED: mix
+   DOBJ: oat/flour mixture
+      NON-INGREDIENT SPAN: oat/flour mixture
+   PARG: egg mixture
+     PREP: into
+      INGREDIENT SPAN: egg mixture
+         INGREDIENTS: eggs
+
+
+SENTID: 9
+SENT: I would spoon batter into prepared muffin pans .
+PREDID: 413
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin pans
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin pans
+
+
+SENTID: 10
+SENT: To make Topping :
+
+SENTID: 11
+SENT: In a small bowl , I would combine 1/3 cup rolled oats , brown sugar , cinnamon .
+PREDID: 474
+PRED: combine
+   DOBJ: 1/3 cup rolled oats , brown sugar , cinnamon
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: 1/3 cup rolled oats 
+      NON-INGREDIENT SPAN:  cinnamon
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 12
+SENT: I would cut in butter until mixture resembles coarse crumbs ;
+PREDID: 518
+PRED: cut
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter softened
+   PARG: mixture resembles coarse crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: mixture resembles coarse crumbs
+
+
+SENTID: 13
+SENT: I would stir in 1/4 cup chopped walnuts .
+PREDID: 563
+PRED: stir
+   DOBJ: NULL
+   PARG: 1/4 cup chopped walnuts
+     PREP: in
+      NON-INGREDIENT SPAN: 1/4 cup chopped walnuts
+
+
+SENTID: 14
+SENT: I would generously sprinkle muffins with topping .
+PREDID: 600
+PRED: sprinkle
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: topping
+     PREP: with
+      NON-INGREDIENT SPAN: topping
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 15
+SENT: I would bake in preheated oven for 25 to 30 minutes , until golden brown and a toothpick inserted into a muffin comes out clean .
+PREDID: 627
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+   PARG: golden brown, a toothpick inserted into a muffin comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+      NON-INGREDIENT SPAN:  a toothpick inserted into a muffin comes out clean
+
+

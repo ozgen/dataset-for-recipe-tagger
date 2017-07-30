@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 12-cup muffin tin with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 12-cup muffin tin
+      NON-INGREDIENT SPAN: a 12-cup muffin tin
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would combine all-purpose flour , whole-wheat flour , the sugar , baking powder , the lavender , and salt together in a bowl .
+PREDID: 76
+PRED: combine
+   DOBJ: all-purpose flour , whole-wheat flour , the sugar , baking powder , the lavender , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the lavender 
+         INGREDIENTS: lavender flowers
+      INGREDIENT SPAN: all-purpose flour 
+         INGREDIENTS: wholewheat flour
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  whole-wheat flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix bananas , the milk , canola oil , and egg together in a separate bowl .
+PREDID: 168
+PRED: mix
+   DOBJ: bananas , the milk , canola oil , egg
+      INGREDIENT SPAN:  canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: ripe bananas mashed
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: % milk
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would add banana mixture to flour mixture ;
+PREDID: 224
+PRED: add
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: to
+      NON-INGREDIENT SPAN: flour mixture
+
+
+SENTID: 5
+SENT: I would stir until just combined .
+PREDID: 255
+PRED: stir
+   DOBJ: NULL
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 6
+SENT: I would fold in blueberries .
+PREDID: 277
+PRED: fold
+   DOBJ: NULL
+   PARG: blueberries
+     PREP: in
+      INGREDIENT SPAN: blueberries
+         INGREDIENTS: fresh blueberries
+
+
+SENTID: 7
+SENT: I would spoon batter into prepared muffin tin .
+PREDID: 295
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin tin
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin tin
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until golden and a toothpick inserted in the center comes out clean , about 20 minutes .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: golden, a toothpick inserted in the center comes out clean , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  a toothpick inserted in the center comes out clean 
+      NON-INGREDIENT SPAN: golden
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 9
+SENT: I would cool muffins in tin for 5 minutes before transferring to a wire rack .
+PREDID: 422
+PRED: cool
+   DOBJ: NULL
+   PARG: muffins in tin for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: muffins in tin for 5 minutes
+   PARG: transferring to a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: transferring to a wire rack
+
+

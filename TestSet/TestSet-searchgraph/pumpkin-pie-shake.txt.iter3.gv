@@ -1,0 +1,25 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="blend
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="top
+3", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: evaporated milk, pumpkin pie filling, vanilla ice cream", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:into a glass", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: with ground cinnamon", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+P3_0_0[label="COOBJECT:with whipped topping", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E3 -> EOR
+}

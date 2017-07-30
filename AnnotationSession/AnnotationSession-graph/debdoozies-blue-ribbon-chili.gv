@@ -1,0 +1,31 @@
+digraph recipe {
+E0[label="combine (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="saute (S0,P1)", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="reduce (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: ground beef, onion
+(text: the ground beef and the onion)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a large saucepan over medium heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D3[label="DOBJ: tomato sauce, (15 ounce) can dark red kidney beans, ground black pepper, chili seasoning mix, (8 ounce) jar salsa, garlic salt
+(text: the ground black pepper , garlic salt , tomato sauce , salsa , chili seasoning mix and kidney beans)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D2[label="DOBJ: grease", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+P1_0_0[label="PREP: for 10 minutes ", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+P1_0_1[label="PREP: for  or until meat is browned", shape=box, style=filled, fillcolor=white]
+P1_0_1 -> E1
+E1 -> E4 [label="OUTPUT: 
+INPUT: heat"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: to simmer for at least an hour"]
+E2 -> E4 [label="OUTPUT: 
+INPUT: to low"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

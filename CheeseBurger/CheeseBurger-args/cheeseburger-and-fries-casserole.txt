@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would combine the ground beef and onion in a skillet over medium-high heat .
+PREDID: 41
+PRED: combine
+   DOBJ: the ground beef, onion in a skillet over medium-high heat
+      INGREDIENT SPAN:  onion in a skillet over medium-high heat
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+
+
+SENTID: 2
+SENT: I would cook , stirring occasionally until beef is no longer pink , and the onion is translucent .
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally until beef is no longer pink
+      NON-INGREDIENT SPAN: stirring occasionally until beef is no longer pink
+   OARG: the onion is translucent
+      NON-INGREDIENT SPAN: the onion is translucent
+
+
+SENTID: 3
+SENT: I would drain off excess grease , and season with salt , the pepper and garlic powder .
+PREDID: 173
+PRED: drain
+   DOBJ: excess grease , season with salt , the pepper, garlic powder
+      INGREDIENT SPAN:  season with salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder taste
+      NON-INGREDIENT SPAN: excess grease 
+      NON-INGREDIENT SPAN:  the pepper
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would return to the heat , and stir in the golden mushroom and cheese soups until well blended .
+PREDID: 234
+PRED: return
+   DOBJ: NULL
+   PARG: the heat
+     PREP: to
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 253
+PRED: stir
+   DOBJ: NULL
+   PARG: the golden mushroom, cheese soups
+     PREP: in
+      INGREDIENT SPAN:  cheese soups
+         INGREDIENTS: ounce condensed Cheddar cheese soup
+      INGREDIENT SPAN: the golden mushroom
+         INGREDIENTS: ounce condensed golden mushroom soup
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would heat through , and remove from stove .
+PREDID: 307
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+PREDID: 322
+PRED: remove
+   DOBJ: NULL
+   PARG: stove
+     PREP: from
+      NON-INGREDIENT SPAN: stove
+
+
+SENTID: 6
+SENT: I would transfer the mixture to a 9x13 inch baking dish .
+PREDID: 338
+PRED: transfer
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 9x13 inch baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 7
+SENT: I would cover the ground beef mixture with a layer of frozen French fries .
+PREDID: 378
+PRED: cover
+   DOBJ: the ground beef mixture
+      NON-INGREDIENT SPAN: the ground beef mixture
+   PARG: a layer of frozen french fries
+     PREP: with
+      INGREDIENT SPAN: a layer of frozen french fries
+         INGREDIENTS: ounce package frozen French fries
+
+
+SENTID: 8
+SENT: I would bake for 25 to 30 minutes in the preheated oven .
+PREDID: 433
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 to 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes in the preheated oven
+
+
+SENTID: 9
+SENT: When the fries are golden brown , remove the casserole from the oven , and sprinkle cheese over the top .
+PREDID: 499
+PRED: remove
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+   OARG: when the fries are golden brown
+      NON-INGREDIENT SPAN: when the fries are golden brown
+
+PREDID: 532
+PRED: sprinkle
+   DOBJ: cheese
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 10
+SENT: I would return to the oven , and bake just until cheese has melted .
+PREDID: 557
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 576
+PRED: bake
+   DOBJ: NULL
+   OARG: just until cheese has melted
+      NON-INGREDIENT SPAN: just until cheese has melted
+
+

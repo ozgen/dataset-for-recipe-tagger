@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix the soy sauce , the sugar , the cornstarch , and rice wine .
+PREDID: 14
+PRED: mix
+   DOBJ: the soy sauce , the sugar , the cornstarch , rice wine
+      INGREDIENT SPAN:  rice wine
+         INGREDIENTS: Chinese rice wine
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: the soy sauce 
+         INGREDIENTS: light soy sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      INGREDIENT SPAN: a medium bowl
+         INGREDIENTS: medium green onion diced
+
+
+SENTID: 1
+SENT: I would place the green onion and chicken in the mixture .
+PREDID: 58
+PRED: place
+   DOBJ: the green onion, chicken in the mixture
+      INGREDIENT SPAN: the green onion
+         INGREDIENTS: yellow onion sliced
+      INGREDIENT SPAN:  chicken in the mixture
+         INGREDIENTS: skinless boneless chicken breast halves cut bitesize
+
+
+SENTID: 2
+SENT: I would allow to marinate at least 15 minutes .
+PREDID: 99
+PRED: allow
+   DOBJ: NULL
+   OARG: to marinate at least 15 minutes
+      NON-INGREDIENT SPAN: to marinate at least 15 minutes
+
+
+SENTID: 3
+SENT: In a wok over medium-high heat , I would cook and stir the chicken with the marinade mixture about 5 minutes until almost done .
+PREDID: 157
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: a wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok over medium-high heat
+   PARG: the chicken with the marinade mixture about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the chicken with the marinade mixture about 5 minutes
+   PARG: almost done
+     PREP: until
+      NON-INGREDIENT SPAN: almost done
+
+
+SENTID: 4
+SENT: I would toss in the garlic , the onion , and peppers .
+PREDID: 229
+PRED: toss
+   DOBJ: NULL
+   PARG: the garlic , the onion , peppers
+     PREP: in
+      INGREDIENT SPAN:  peppers
+         INGREDIENTS: green bell peppers sliced
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: chili paste garlic
+      NON-INGREDIENT SPAN:  the onion 
+
+
+SENTID: 5
+SENT: I would continue to cook and stir 5 minutes , or until vegetables are crisp but tender and chicken is no longer pink and juices run clear .
+PREDID: 262
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir 5 minutes , or until vegetables are crisp
+      NON-INGREDIENT SPAN:  stir 5 minutes 
+      NON-INGREDIENT SPAN:  or until vegetables are crisp
+      NON-INGREDIENT SPAN: to cook
+   OARG: tender, chicken is no longer pink
+      NON-INGREDIENT SPAN:  chicken is no longer pink
+      NON-INGREDIENT SPAN: tender
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+PREDID: 309
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would mix the tofu , the water , oyster sauce , and chili paste into the wok .
+PREDID: 368
+PRED: mix
+   DOBJ: the tofu , the water , oyster sauce , chili paste
+      INGREDIENT SPAN: the tofu 
+         INGREDIENTS: ounce package firm tofu drained cubed
+      INGREDIENT SPAN:  oyster sauce 
+         INGREDIENTS: oyster sauce
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  chili paste
+   PARG: the wok
+     PREP: into
+      NON-INGREDIENT SPAN: the wok
+
+
+SENTID: 7
+SENT: I would cook and stir until heated through .
+PREDID: 421
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

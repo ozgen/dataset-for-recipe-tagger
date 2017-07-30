@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 5x9 inch loaf pan .
+PREDID: 45
+PRED: grease pan
+   DOBJ: a 5x9 inch loaf
+      NON-INGREDIENT SPAN: a 5x9 inch loaf
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix the turkey , the buffalo , bread crumbs , dry onion soup mix , Parmesan cheese , Italian seasoning , the egg , dill dip , blue cheese dressing , and Worcestershire sauce .
+PREDID: 80
+PRED: mix
+   DOBJ: the turkey , the buffalo , bread crumbs , dry onion soup mix , Parmesan cheese , Italian seasoning , the egg , dill dip , blue cheese dressing , Worcestershire sauce
+      INGREDIENT SPAN:  the buffalo 
+         INGREDIENTS: ground buffalo
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the turkey 
+         INGREDIENTS: ground turkey
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: slices dayold bread processed crumbs
+      INGREDIENT SPAN:  Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  dry onion soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  dill dip 
+         INGREDIENTS: creamy dill dip
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  blue cheese dressing 
+         INGREDIENTS: blue cheese dressing
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would transfer to the prepared loaf pan .
+PREDID: 215
+PRED: transfer
+   DOBJ: NULL
+   PARG: the prepared loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 4
+SENT: I would cover with aluminum foil , and bake 45 minutes in the preheated oven .
+PREDID: 244
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 269
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 5
+SENT: I would remove foil , and continue the baking 15 minutes , to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 301
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 315
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 15 minutes , to an internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 15 minutes 
+      NON-INGREDIENT SPAN:  to an internal temperature of 160 degrees f -lrb- 70 degrees c
+
+
+SENTID: 6
+SENT: I would let stand 10 minutes before slicing .
+PREDID: 388
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

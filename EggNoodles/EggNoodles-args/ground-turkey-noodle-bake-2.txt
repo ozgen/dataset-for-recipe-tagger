@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease an 8-inch square baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: an 8-inch square baking dish
+      NON-INGREDIENT SPAN: an 8-inch square baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 76
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 118
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: wide egg noodles
+   PARG: boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 216
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would heat a large skillet over medium-high heat and stir in turkey and onion .
+PREDID: 222
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 261
+PRED: stir
+   DOBJ: NULL
+   PARG: turkey, onion
+     PREP: in
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: turkey
+         INGREDIENTS: ground turkey
+
+
+SENTID: 6
+SENT: I would cook and stir until turkey mixture is crumbly , evenly browned , and no longer pink , about 10 minutes ;
+PREDID: 282
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: turkey mixture is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: turkey mixture is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 366
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would stir in tomato sauce and Italian seasoning ;
+PREDID: 372
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato sauce, italian seasoning
+     PREP: in
+      INGREDIENT SPAN: tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  italian seasoning
+         INGREDIENTS: Italian seasoning
+
+
+SENTID: 9
+SENT: I would bring to a boil .
+PREDID: 409
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 10
+SENT: I would reduce heat to low , cover , and simmer for 10 minutes .
+PREDID: 422
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 447
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 11
+SENT: I would combine milk , cream cheese , parsley , and garlic in a small saucepan .
+PREDID: 466
+PRED: combine
+   DOBJ: milk , cream cheese , parsley , garlic in a small saucepan
+      INGREDIENT SPAN:  garlic in a small saucepan
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: cream cheese
+      INGREDIENT SPAN:  parsley 
+         INGREDIENTS: minced fresh parsley
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+
+
+SENTID: 12
+SENT: I would cook and stir over medium heat until cream cheese is melted , about 5 minutes .
+PREDID: 524
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: cream cheese is melted , about 5 minutes
+     PREP: until
+      INGREDIENT SPAN: cream cheese is melted 
+         INGREDIENTS: shredded partskim mozzarella cheese
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 13
+SENT: I would toss noodles with cream cheese mixture ;
+PREDID: 588
+PRED: toss
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: cream cheese mixture
+     PREP: with
+      NON-INGREDIENT SPAN: cream cheese mixture
+
+
+SENTID: 14
+SENT: I would transfer to prepared baking dish .
+PREDID: 622
+PRED: transfer
+   DOBJ: NULL
+   PARG: prepared baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 15
+SENT: I would top with turkey mixture and sprinkle with mozzarella cheese .
+PREDID: 651
+PRED: top
+   DOBJ: NULL
+   PARG: turkey mixture
+     PREP: with
+      NON-INGREDIENT SPAN: turkey mixture
+
+PREDID: 674
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: mozzarella cheese
+
+
+SENTID: 16
+SENT: I would bake in preheated oven until cheese is melted , 15 to 30 minutes .
+PREDID: 703
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is melted , 15 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  15 to 30 minutes
+      NON-INGREDIENT SPAN: cheese is melted 
+
+

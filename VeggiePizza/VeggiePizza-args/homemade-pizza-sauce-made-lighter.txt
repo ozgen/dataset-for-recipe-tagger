@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would place green bell pepper , the carrot , and garlic cloves into a food processor and pulse a few times until the vegetables are very finely chopped .
+PREDID: 0
+PRED: place
+   DOBJ: green bell pepper , the carrot , garlic cloves
+      INGREDIENT SPAN: green bell pepper 
+         INGREDIENTS: green bell pepper chopped more taste
+      INGREDIENT SPAN:  garlic cloves
+         INGREDIENTS: cloves garlic peeled
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: chopped carrot
+   PARG: a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: a food processor
+
+PREDID: 67
+PRED: pulse
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   PARG: the vegetables are very finely chopped
+     PREP: until
+      NON-INGREDIENT SPAN: the vegetables are very finely chopped
+
+
+SENTID: 1
+SENT: I would transfer chopped vegetables into a large saucepan .
+PREDID: 117
+PRED: transfer
+   DOBJ: chopped vegetables
+      NON-INGREDIENT SPAN: chopped vegetables
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 2
+SENT: I would stir in tomato puree , crushed tomatoes , Italian seasoning , the basil , and red pepper flakes ;
+PREDID: 161
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato puree , crushed tomatoes , italian seasoning , the basil , red pepper flakes
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: tomato puree 
+         INGREDIENTS: ounce tomato puree
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: dried Italian herb seasoning
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+
+
+SENTID: 3
+SENT: I would bring to a boil .
+PREDID: 237
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat to low and simmer uncovered until sauce has thickened , about 30 minutes .
+PREDID: 250
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer uncovered until sauce has thickened , about 30 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN:  simmer uncovered until sauce has thickened 
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would stir in olive oil and simmer 1 to 2 more minutes .
+PREDID: 321
+PRED: stir
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: in
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+
+PREDID: 338
+PRED: simmer
+   DOBJ: 1
+      NON-INGREDIENT SPAN: 1
+   PARG: 2 more minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 2 more minutes
+
+
+SENTID: 6
+SENT: I would sauce may be refrigerated up to 1 week .
+PREDID: 360
+PRED: be sauce refrigerated
+   DOBJ: NULL
+   PARG: 1
+     PREP: to
+      NON-INGREDIENT SPAN: 1
+   OARG: may
+      NON-INGREDIENT SPAN: may
+   OARG: up
+      NON-INGREDIENT SPAN: up
+   OARG: week
+      NON-INGREDIENT SPAN: week
+
+

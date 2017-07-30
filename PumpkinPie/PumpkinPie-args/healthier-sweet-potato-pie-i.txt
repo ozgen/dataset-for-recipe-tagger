@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would boil sweet potato whole in skin in a small pot until done , 40 to 50 minutes .
+PREDID: 0
+PRED: boil
+   DOBJ: sweet potato whole in skin
+      INGREDIENT SPAN: sweet potato whole in skin
+         INGREDIENTS: pound sweet potato
+      INGREDIENT SPAN:  whole in skin
+         INGREDIENTS: inch unbaked whole wheat pie crust
+   PARG: a small pot until done , 40 to 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  40 to 50 minutes
+      NON-INGREDIENT SPAN: a small pot until done 
+
+
+SENTID: 1
+SENT: I would drain , cool sweet potato with cold water , and remove skin .
+PREDID: 61
+PRED: drain and cool
+   DOBJ: sweet potato
+      NON-INGREDIENT SPAN: sweet potato
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 99
+PRED: remove
+   DOBJ: skin
+      NON-INGREDIENT SPAN: skin
+
+
+SENTID: 2
+SENT: I would break sweet potato apart in a large bowl .
+PREDID: 110
+PRED: break
+   DOBJ: sweet potato
+      NON-INGREDIENT SPAN: sweet potato
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: apart
+      NON-INGREDIENT SPAN: apart
+
+
+SENTID: 3
+SENT: I would mix in butter and beat well with an electric mixer .
+PREDID: 144
+PRED: mix
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter softened
+
+PREDID: 158
+PRED: beat
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would beat in sugar , the milk , the eggs , the nutmeg , the cinnamon , and vanilla extract on medium speed until mixture is smooth .
+PREDID: 186
+PRED: beat extract
+   DOBJ: NULL
+   PARG: sugar , the milk , the eggs , the nutmeg , the cinnamon , vanilla
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: low-fat milk
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: medium speed
+     PREP: on
+      NON-INGREDIENT SPAN: medium speed
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 5
+SENT: I would pour the filling into unbaked pie crust .
+PREDID: 275
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: unbaked pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: unbaked pie crust
+
+
+SENTID: 6
+SENT: I would bake in preheated oven until knife inserted in center comes out clean , 45 to 55 minutes .
+PREDID: 306
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: knife inserted in center comes out clean , 45 to 55 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 to 55 minutes
+      NON-INGREDIENT SPAN: knife inserted in center comes out clean 
+
+
+SENTID: 7
+SENT: I would pie will puff up like a souffle ,
+PREDID: 379
+PRED: pie
+   DOBJ: will puff
+      NON-INGREDIENT SPAN: will puff
+   PARG: a souffle
+     PREP: like
+      NON-INGREDIENT SPAN: a souffle
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 8
+SENT: I would sink down as it cools .
+PREDID: 405
+PRED: sink
+   DOBJ: NULL
+   PARG: it cools
+     PREP: as
+      NON-INGREDIENT SPAN: it cools
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+

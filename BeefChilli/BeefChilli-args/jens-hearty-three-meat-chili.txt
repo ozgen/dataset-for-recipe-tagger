@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: I would cook and stir sausage in a large skillet over medium heat until browned .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: sausage in a large skillet over medium heat
+      INGREDIENT SPAN: sausage in a large skillet over medium heat
+         INGREDIENTS: hot sweet Italian sausage
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would drain ;
+PREDID: 60
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would place sausage in a pot large enough to hold all ingredients .
+PREDID: 66
+PRED: place
+   DOBJ: sausage
+      NON-INGREDIENT SPAN: sausage
+   PARG: a pot large enough to hold all ingredients
+     PREP: in
+      NON-INGREDIENT SPAN: a pot large enough to hold all ingredients
+
+
+SENTID: 3
+SENT: In same skillet , I would the cook and stir onion with ground beef over medium heat until beef is browned and onions are tender ;
+PREDID: 133
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: same skillet
+   PARG: ground beef over medium heat
+     PREP: with
+      INGREDIENT SPAN: ground beef over medium heat
+         INGREDIENTS: ground beef
+   PARG: beef is browned, onions are tender
+     PREP: until
+      INGREDIENT SPAN: beef is browned
+         INGREDIENTS: beef stew meat cut inch
+      NON-INGREDIENT SPAN:  onions are tender
+   OARG: the
+      NON-INGREDIENT SPAN: the
+
+PREDID: 204
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would drain and add to the large pot .
+PREDID: 211
+PRED: drain and add
+   DOBJ: NULL
+   PARG: the large pot
+     PREP: to
+      NON-INGREDIENT SPAN: the large pot
+
+
+SENTID: 5
+SENT: In same skillet , I would cook and stir stew beef over medium heat until browned .
+PREDID: 250
+PRED: cook and stir
+   DOBJ: stew beef over medium heat
+      NON-INGREDIENT SPAN: stew beef over medium heat
+   PARG: same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: same skillet
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 6
+SENT: Without draining , I would pour stew beef into the large pot .
+PREDID: 312
+PRED: pour
+   DOBJ: stew beef
+      NON-INGREDIENT SPAN: stew beef
+   PARG: draining
+     PREP: without
+      NON-INGREDIENT SPAN: draining
+   PARG: the large pot
+     PREP: into
+      NON-INGREDIENT SPAN: the large pot
+
+
+SENTID: 7
+SENT: I would pour tomatoes , the beer , and water into the pot with meats .
+PREDID: 340
+PRED: pour
+   DOBJ: tomatoes , the beer , water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle dark beer
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+   PARG: the pot with meats
+     PREP: into
+      NON-INGREDIENT SPAN: the pot with meats
+
+
+SENTID: 8
+SENT: I would stir in chili powder , red pepper , white pepper , the sugar , and cinnamon .
+PREDID: 386
+PRED: stir
+   DOBJ: NULL
+   PARG: chili powder , red pepper , white pepper , the sugar , cinnamon
+     PREP: in
+      INGREDIENT SPAN:  white pepper 
+         INGREDIENTS: red pepper
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: white pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder taste
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 9
+SENT: I would season to taste with salt and black pepper .
+PREDID: 444
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 10
+SENT: I would simmer until stew beef is very tender , at least 2 hours , stirring occasionally and adding more water as needed .
+PREDID: 480
+PRED: simmer
+   DOBJ: NULL
+   PARG: stew beef is very tender , at least 2 hours , stirring occasionally, adding more water as needed
+     PREP: until
+      NON-INGREDIENT SPAN: stew beef is very tender 
+      NON-INGREDIENT SPAN:  adding more water as needed
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN:  at least 2 hours 
+
+
+SENTID: 11
+SENT: If you prefer a thicker chili , I would thicken as needed with tomato paste .
+PREDID: 598
+PRED: thicken
+   DOBJ: NULL
+   PARG: you prefer a thicker chili
+     PREP: if
+      NON-INGREDIENT SPAN: you prefer a thicker chili
+   PARG: needed with tomato paste
+     PREP: as
+      INGREDIENT SPAN: needed with tomato paste
+         INGREDIENTS: tomato paste
+
+
+SENTID: 12
+SENT: If using kidney beans , I would add them 10 minutes before serving , just in time to heat through .
+PREDID: 648
+PRED: add
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: using kidney beans
+     PREP: if
+      INGREDIENT SPAN: using kidney beans
+         INGREDIENTS: ounce kidney beans rinsed drained
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: time to heat through
+     PREP: in
+      NON-INGREDIENT SPAN: time to heat through
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

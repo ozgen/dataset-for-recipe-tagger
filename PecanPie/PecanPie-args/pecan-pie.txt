@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium saucepan , I would combine the sugar , corn syrup , the butter , the water , and cornstarch .
+PREDID: 56
+PRED: combine
+   DOBJ: the sugar , corn syrup , the butter , the water , cornstarch
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: cold water
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+
+
+SENTID: 2
+SENT: I would bring to a full boil , and remove from heat .
+PREDID: 109
+PRED: bring
+   DOBJ: NULL
+   PARG: a full boil
+     PREP: to
+      NON-INGREDIENT SPAN: a full boil
+
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 3
+SENT: In a large bowl , I would beat eggs until frothy .
+PREDID: 157
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: frothy
+     PREP: until
+      NON-INGREDIENT SPAN: frothy
+
+
+SENTID: 4
+SENT: I would gradually beat in cooked syrup mixture .
+PREDID: 186
+PRED: beat
+   DOBJ: NULL
+   PARG: cooked syrup mixture
+     PREP: in
+      NON-INGREDIENT SPAN: cooked syrup mixture
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 5
+SENT: I would stir in salt , the vanilla , and pecans .
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: salt , the vanilla , pecans
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 6
+SENT: I would pour into pie shell .
+PREDID: 240
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie shell
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 45 to 50 minutes , or until filling is set .
+PREDID: 257
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 to 50 minutes , or until filling is set
+     PREP: in
+      NON-INGREDIENT SPAN:  or until filling is set
+      NON-INGREDIENT SPAN: preheated oven for 45 to 50 minutes 
+
+

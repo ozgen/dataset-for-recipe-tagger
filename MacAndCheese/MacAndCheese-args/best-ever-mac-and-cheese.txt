@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 38
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 76
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would stir in the macaroni , and return to a boil .
+PREDID: 130
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: ounce package elbow macaroni
+
+PREDID: 151
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until macaroni is cooked through but still slightly firm , about 8 minutes .
+PREDID: 165
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until macaroni is cooked through but still slightly firm , about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until macaroni is cooked through but still slightly firm 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+
+
+SENTID: 4
+SENT: I would drain well .
+PREDID: 271
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would combine the cottage cheese , sour cream , the butter , and cooked macaroni in a large baking dish .
+PREDID: 281
+PRED: combine
+   DOBJ: the cottage cheese , sour cream , the butter , cooked macaroni in a large baking dish
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: ounce package cottage cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  cooked macaroni in a large baking dish
+
+
+SENTID: 6
+SENT: I would stir in the Cheddar cheese .
+PREDID: 358
+PRED: stir
+   DOBJ: NULL
+   PARG: the cheddar cheese
+     PREP: in
+      INGREDIENT SPAN: the cheddar cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese
+
+
+SENTID: 7
+SENT: I would arrange the tomatoes on top ,
+PREDID: 381
+PRED: arrange
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce whole peeled tomatoes juice
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 8
+SENT: I would pour the tomato liquid over the casserole .
+PREDID: 405
+PRED: pour
+   DOBJ: the tomato liquid
+      NON-INGREDIENT SPAN: the tomato liquid
+   PARG: the casserole
+     PREP: over
+      NON-INGREDIENT SPAN: the casserole
+
+
+SENTID: 9
+SENT: I would season with salt and black pepper .
+PREDID: 441
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven for 20 minutes ,
+PREDID: 470
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 minutes
+
+
+SENTID: 11
+SENT: I would mix the macaroni and cheese thoroughly .
+PREDID: 505
+PRED: mix
+   DOBJ: the macaroni, cheese
+      NON-INGREDIENT SPAN: the macaroni
+      NON-INGREDIENT SPAN:  cheese
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 12
+SENT: I would continue to bake until lightly browned and bubbly , about 15 minutes more .
+PREDID: 539
+PRED: continue
+   DOBJ: NULL
+   OARG: to bake until lightly browned, bubbly , about 15 minutes more
+      NON-INGREDIENT SPAN:  bubbly 
+      NON-INGREDIENT SPAN:  about 15 minutes more
+      NON-INGREDIENT SPAN: to bake until lightly browned
+
+

@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: I would mix chicken , pineapple chunks , the walnuts , the cucumber , the mayonnaise , the salt , and black pepper in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: chicken , pineapple chunks , the walnuts , the cucumber , the mayonnaise , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: large cucumber chopped
+      INGREDIENT SPAN:  pineapple chunks 
+         INGREDIENTS: ounce pineapple chunks drained
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cooked chicken breast halves chopped
+      NON-INGREDIENT SPAN:  black pepper in a bowl
+
+
+SENTID: 1
+SENT: I would serve in taco bowls .
+PREDID: 82
+PRED: serve
+   DOBJ: NULL
+   PARG: taco bowls
+     PREP: in
+      INGREDIENT SPAN: taco bowls
+         INGREDIENTS: bowlshaped taco salad shells
+
+

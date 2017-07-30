@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would bring 1/2 cup coconut milk to a boil in a heavy saucepan .
+PREDID: 0
+PRED: bring
+   DOBJ: 1/2 cup coconut milk
+      INGREDIENT SPAN: 1/2 cup coconut milk
+         INGREDIENTS: coconut milk
+   PARG: a boil in a heavy saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a heavy saucepan
+
+
+SENTID: 1
+SENT: I would whisk in the curry paste and cook until fragrant , about 5 minutes .
+PREDID: 46
+PRED: whisk
+   DOBJ: NULL
+   PARG: the curry paste
+     PREP: in
+      INGREDIENT SPAN: the curry paste
+         INGREDIENTS: red curry paste
+
+PREDID: 69
+PRED: cook
+   DOBJ: NULL
+   PARG: fragrant , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: fragrant 
+
+
+SENTID: 2
+SENT: I would add the chicken and cook until browned , about 5 minutes .
+PREDID: 101
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast cut bitesized
+
+PREDID: 117
+PRED: cook
+   DOBJ: NULL
+   PARG: browned , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would stir in the 2 cups coconut milk , fish sauce , the sugar , the vegetables , bamboo shoots , and basil ;
+PREDID: 148
+PRED: stir
+   DOBJ: NULL
+   PARG: the 2 cups coconut milk , fish sauce , the sugar , the vegetables , bamboo shoots , basil
+     PREP: in
+      INGREDIENT SPAN:  the vegetables 
+         INGREDIENTS: frozen mixed vegetables thawed
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: fresh Thai basil leaves
+      INGREDIENT SPAN:  bamboo shoots 
+         INGREDIENTS: bamboo shoots drained
+      INGREDIENT SPAN: the 2 cups coconut milk 
+         INGREDIENTS: coconut milk
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 4
+SENT: I would simmer until the chicken is cooked through , about 15 minutes .
+PREDID: 223
+PRED: simmer
+   DOBJ: NULL
+   PARG: the chicken is cooked through , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the chicken is cooked through 
+
+
+SENTID: 5
+SENT: I would pour the lime juice over the dish and remove from heat .
+PREDID: 275
+PRED: pour
+   DOBJ: the lime juice
+      INGREDIENT SPAN: the lime juice
+         INGREDIENTS: fresh lime juice
+   PARG: the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 305
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 6
+SENT: I would serve warm .
+PREDID: 320
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

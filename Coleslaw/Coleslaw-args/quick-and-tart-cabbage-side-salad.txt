@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would toss coleslaw mix , the tomato , and cucumber together in a mixing bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: coleslaw mix , the tomato , cucumber
+      INGREDIENT SPAN:  cucumber
+         INGREDIENTS: cucumber diced small
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: tomato diced small
+      INGREDIENT SPAN: coleslaw mix 
+         INGREDIENTS: coleslaw mix
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk vinegar , Dijon mustard , and agave nectar together in a bowl until emulsified ;
+PREDID: 56
+PRED: whisk
+   DOBJ: vinegar , Dijon mustard , agave nectar
+      INGREDIENT SPAN:  agave nectar
+         INGREDIENTS: agave nectar
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: rice vinegar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: emulsified
+     PREP: until
+      NON-INGREDIENT SPAN: emulsified
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 127
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would drizzle the dressing over the vegetable mixture .
+PREDID: 151
+PRED: drizzle
+   DOBJ: the dressing over the vegetable mixture
+      NON-INGREDIENT SPAN: the dressing over the vegetable mixture
+
+
+SENTID: 4
+SENT: I would turn the salad with a fork until vegetables are evenly coated in dressing .
+PREDID: 190
+PRED: turn
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   PARG: vegetables are evenly coated in dressing
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are evenly coated in dressing
+
+

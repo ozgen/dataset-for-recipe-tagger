@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 10x15 inch jelly roll pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 10x15 inch jelly roll pan
+      NON-INGREDIENT SPAN: a 10x15 inch jelly roll pan
+
+
+SENTID: 2
+SENT: I would sift together the flour , baking soda , the cinnamon and salt .
+PREDID: 75
+PRED: sift
+   DOBJ: the flour , baking soda , the cinnamon, salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 123
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would beat sugar , the oil and eggs until smooth .
+PREDID: 145
+PRED: beat
+   DOBJ: sugar , the oil, eggs
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would mix in the flour mixture .
+PREDID: 177
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+
+
+SENTID: 6
+SENT: I would stir in the baby food carrots .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: the baby food carrots
+     PREP: in
+      INGREDIENT SPAN: the baby food carrots
+         INGREDIENTS: ounce jars carrot baby food
+
+
+SENTID: 7
+SENT: I would spread batter into a 10x15 inch jelly roll pan .
+PREDID: 223
+PRED: spread
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: a 10x15 inch jelly roll pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 10x15 inch jelly roll pan
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven for 20 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 262
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 20 minutes , or until a toothpick inserted into the center of the cake comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of the cake comes out clean
+
+
+SENTID: 9
+SENT: I would allow to cool .
+PREDID: 358
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+

@@ -1,0 +1,220 @@
+SENTID: 0
+SENT: I would mix beer , the honey , Dijon mustard , olive oil , the rosemary , garlic powder , the salt , and black pepper in a large resealable plastic bag until thoroughly combined .
+PREDID: 0
+PRED: mix
+   DOBJ: beer , the honey , Dijon mustard , olive oil , the rosemary , garlic powder , the salt , black pepper in a large resealable plastic bag
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: beer 
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  black pepper in a large resealable plastic 
+         INGREDIENTS: cracked black pepper
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  black pepper in a large resealable plastic bag
+         INGREDIENTS: ounce bag baby spinach leaves
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: fresh rosemary more taste
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 1
+SENT: I would add chicken to the marinade , evenly coat , and squeeze air from the bag .
+PREDID: 129
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chicken breast tenderloins
+   PARG: the marinade , evenly coat
+     PREP: to
+      NON-INGREDIENT SPAN: the marinade 
+      NON-INGREDIENT SPAN:  evenly coat
+
+PREDID: 167
+PRED: squeeze
+   DOBJ: air
+      NON-INGREDIENT SPAN: air
+   PARG: the bag
+     PREP: from
+      NON-INGREDIENT SPAN: the bag
+
+
+SENTID: 2
+SENT: I would seal and refrigerate several hours to overnight , turning bag over occasionally .
+PREDID: 188
+PRED: seal and refrigerate
+   DOBJ: NULL
+   PARG: several hours
+     PREP: for
+      NON-INGREDIENT SPAN: several hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+   OARG: turning bag over occasionally
+      NON-INGREDIENT SPAN: turning bag over occasionally
+
+
+SENTID: 3
+SENT: I would preheat outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 257
+PRED: preheat
+   DOBJ: outdoor grill for medium-high heat, lightly oil the grate
+      NON-INGREDIENT SPAN: outdoor grill for medium-high heat
+      NON-INGREDIENT SPAN:  lightly oil the grate
+
+
+SENTID: 4
+SENT: I would twist top from pineapple and cut peel off in long vertical strips .
+PREDID: 316
+PRED: twist
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: pineapple
+     PREP: from
+      INGREDIENT SPAN: pineapple
+         INGREDIENTS: fresh pineapple
+
+PREDID: 340
+PRED: cut
+   DOBJ: peel
+      NON-INGREDIENT SPAN: peel
+   PARG: long vertical strips
+     PREP: in
+      NON-INGREDIENT SPAN: long vertical strips
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 5
+SENT: I would cut pineapple into wedges vertically and cut the tough core from each wedge .
+PREDID: 371
+PRED: cut
+   DOBJ: pineapple
+      NON-INGREDIENT SPAN: pineapple
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+   OARG: vertically
+      NON-INGREDIENT SPAN: vertically
+
+PREDID: 406
+PRED: cut
+   DOBJ: the tough core
+      NON-INGREDIENT SPAN: the tough core
+   PARG: each wedge
+     PREP: from
+      NON-INGREDIENT SPAN: each wedge
+
+
+SENTID: 6
+SENT: I would thread marinated chicken tenders onto skewers .
+PREDID: 435
+PRED: thread
+   DOBJ: marinated chicken tenders
+      NON-INGREDIENT SPAN: marinated chicken tenders
+   PARG: skewers
+     PREP: onto
+      NON-INGREDIENT SPAN: skewers
+
+
+SENTID: 7
+SENT: I would grill chicken and pineapple wedges on the preheated grill until chicken is no longer pink inside , chicken juices run clear , and pineapple wedges are tender and show light brown grill marks , 10 to 12 minutes .
+PREDID: 476
+PRED: grill
+   DOBJ: chicken, pineapple wedges
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  pineapple wedges
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: chicken is no longer pink inside , chicken juices run clear , pineapple wedges are tender
+     PREP: until
+      NON-INGREDIENT SPAN:  chicken juices run clear 
+      NON-INGREDIENT SPAN: chicken is no longer pink inside 
+      NON-INGREDIENT SPAN:  pineapple wedges are tender
+
+PREDID: 610
+PRED: show
+   DOBJ: NULL
+   PARG: light brown grill marks , 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: light brown grill marks 
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+
+PREDID: 598
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would cut chicken and pineapple into bite-sized pieces .
+PREDID: 649
+PRED: cut
+   DOBJ: chicken, pineapple
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  pineapple
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 9
+SENT: I would toss spinach with pine nuts and mandarin orange segments in a large bowl .
+PREDID: 692
+PRED: toss
+   DOBJ: spinach
+      NON-INGREDIENT SPAN: spinach
+   PARG: pine nuts
+     PREP: with
+      INGREDIENT SPAN: pine nuts
+         INGREDIENTS: pine nuts
+
+PREDID: 718
+PRED: mandarin
+   DOBJ: orange segments
+      NON-INGREDIENT SPAN: orange segments
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: I would top salad with chicken and pineapple pieces .
+PREDID: 753
+PRED: top
+   DOBJ: salad
+      INGREDIENT SPAN: salad
+         INGREDIENTS: poppy seed salad dressing such Kraft taste
+   PARG: chicken, pineapple pieces
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  pineapple pieces
+
+
+SENTID: 11
+SENT: I would serve on salad plates ;
+PREDID: 791
+PRED: serve
+   DOBJ: NULL
+   PARG: salad plates
+     PREP: on
+      NON-INGREDIENT SPAN: salad plates
+
+
+SENTID: 12
+SENT: I would drizzle each serving with 2 teaspoons poppy seed dressing .
+PREDID: 810
+PRED: drizzle
+   DOBJ: NULL
+   OARG: each serving with 2 teaspoons poppy seed dressing
+      NON-INGREDIENT SPAN: each serving with 2 teaspoons poppy seed dressing
+
+

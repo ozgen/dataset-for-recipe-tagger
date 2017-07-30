@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add the egg noodles , and cook until tender , about 6 minutes .
+PREDID: 42
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+PREDID: 62
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 92
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: While the noodles are cooking , I would mix together the sour cream , the milk , the garlic and salt ;
+PREDID: 124
+PRED: mix
+   DOBJ: the sour cream , the milk , the garlic, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  the garlic
+   PARG: the noodles are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the noodles are cooking
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would taste and adjust the seasoning if desired .
+PREDID: 167
+PRED: taste and adjust
+   DOBJ: the seasoning
+      NON-INGREDIENT SPAN: the seasoning
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 5
+SENT: I would stir into drained noodles along with peas and tuna .
+PREDID: 200
+PRED: stir
+   DOBJ: NULL
+   PARG: drained noodles along
+     PREP: into
+      INGREDIENT SPAN: drained noodles along
+         INGREDIENTS: ounce peas drained
+   PARG: peas, tuna
+     PREP: with
+      INGREDIENT SPAN:  tuna
+         INGREDIENTS: ounce tuna drained flaked
+      NON-INGREDIENT SPAN: peas
+
+
+SENTID: 6
+SENT: I would heat through over low heat , and serve .
+PREDID: 243
+PRED: heat
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

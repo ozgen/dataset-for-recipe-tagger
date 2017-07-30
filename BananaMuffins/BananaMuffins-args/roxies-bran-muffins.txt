@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: an oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups , or line with paper cupcake liners .
+PREDID: 40
+PRED: grease
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+
+PREDID: 61
+PRED: line
+   DOBJ: NULL
+   PARG: paper cupcake liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper cupcake liners
+
+
+SENTID: 2
+SENT: I would cover raisins with water in a microwave-safe bowl , and microwave on High for 1 minute to plump .
+PREDID: 88
+PRED: cover
+   DOBJ: raisins with water in a microwave-safe bowl , microwave on High
+      INGREDIENT SPAN: raisins with water in a microwave-safe bowl 
+         INGREDIENTS: raisins
+      NON-INGREDIENT SPAN:  microwave on High
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+   PARG: plump
+     PREP: to
+      NON-INGREDIENT SPAN: plump
+
+
+SENTID: 3
+SENT: I would drain the raisins , and set aside .
+PREDID: 167
+PRED: drain
+   DOBJ: the raisins
+      NON-INGREDIENT SPAN: the raisins
+
+PREDID: 186
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would beat the egg with milk in a bowl , and mix in the bran cereal .
+PREDID: 195
+PRED: beat
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg
+   PARG: milk in a bowl
+     PREP: with
+      INGREDIENT SPAN: milk in a bowl
+         INGREDIENTS: milk
+
+PREDID: 224
+PRED: mix
+   DOBJ: NULL
+   PARG: the bran cereal
+     PREP: in
+      INGREDIENT SPAN: the bran cereal
+         INGREDIENTS: bran cereal such Kellogg AllBran Original Cereal
+
+
+SENTID: 5
+SENT: I would let the mixture stand until the cereal absorbs the liquid , about 5 minutes .
+PREDID: 243
+PRED: let
+   DOBJ: the mixture stand
+      NON-INGREDIENT SPAN: the mixture stand
+   PARG: the cereal absorbs the liquid , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cereal absorbs the liquid 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would gently mix in the plumped raisins , the flour , baking soda , the cinnamon , melted butter , shredded apple , mashed banana , and honey , and stir a few times to mix .
+PREDID: 312
+PRED: mix
+   DOBJ: NULL
+   PARG: the plumped raisins , the flour , baking soda , the cinnamon , melted butter , shredded apple , mashed banana , honey
+     PREP: in
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  melted butter 
+         INGREDIENTS: melted butter
+      INGREDIENT SPAN:  shredded apple 
+         INGREDIENTS: apple cored shredded
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  mashed banana 
+         INGREDIENTS: ripe banana mashed
+      NON-INGREDIENT SPAN: the plumped raisins 
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 419
+PRED: stir
+   DOBJ: a few times
+      NON-INGREDIENT SPAN: a few times
+   PARG: mix
+     PREP: to
+      NON-INGREDIENT SPAN: mix
+
+
+SENTID: 7
+SENT: I would spoon the batter into the prepared muffin cups , and bake in the preheated oven for about 20 minutes , or until a toothpick inserted into the center of a muffin comes out clean .
+PREDID: 432
+PRED: spoon
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin cups
+   OARG: bake in the preheated oven for about 20 minutes , or until a toothpick inserted into the center of a muffin comes out clean
+      NON-INGREDIENT SPAN: bake in the preheated oven for about 20 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of a muffin comes out clean
+
+

@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place the white of the separated egg in a small bowl and the yolk in a large bowl .
+PREDID: 38
+PRED: place
+   DOBJ: the white of the separated egg in a small bowl, the yolk in a large bowl
+      INGREDIENT SPAN: the white of the separated egg in a small bowl
+         INGREDIENTS: egg separated
+      INGREDIENT SPAN: the white of the in a small bowl
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the yolk in a large bowl
+
+
+SENTID: 2
+SENT: I would beat egg white and brush the edges of each pie crust with egg white .
+PREDID: 103
+PRED: beat
+   DOBJ: egg white
+      INGREDIENT SPAN: egg white
+         INGREDIENTS: egg
+
+PREDID: 118
+PRED: brush
+   DOBJ: the edges of each pie crust
+      INGREDIENT SPAN: the edges of each pie crust
+         INGREDIENTS: mini graham cracker pie crusts such Keebler
+   PARG: egg white
+     PREP: with
+      NON-INGREDIENT SPAN: egg white
+
+
+SENTID: 3
+SENT: I would add the second whole egg to the egg yolk ;
+PREDID: 158
+PRED: add
+   DOBJ: the second whole egg
+      NON-INGREDIENT SPAN: the second whole egg
+   PARG: the egg yolk
+     PREP: to
+      NON-INGREDIENT SPAN: the egg yolk
+
+
+SENTID: 4
+SENT: I would whisk together .
+PREDID: 191
+PRED: whisk
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir sweet potatoes , pumpkin pie filling , the sugar , the butter , the milk , pumpkin pie spice , and vanilla extract into the egg and yolk .
+PREDID: 205
+PRED: stir
+   DOBJ: sweet potatoes , pumpkin pie filling , the sugar , the butter , the milk , pumpkin pie spice , vanilla extract
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  pumpkin pie filling 
+         INGREDIENTS: ounce pumpkin pie filling
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: sweet potatoes 
+         INGREDIENTS: ounce sweet potatoes drained mashed
+      NON-INGREDIENT SPAN:  the sugar 
+   PARG: the egg, yolk
+     PREP: into
+      NON-INGREDIENT SPAN: the egg
+      NON-INGREDIENT SPAN:  yolk
+
+
+SENTID: 6
+SENT: I would spoon mixture evenly into the pie crusts .
+PREDID: 310
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: evenly into the pie crusts
+      NON-INGREDIENT SPAN: evenly into the pie crusts
+
+
+SENTID: 7
+SENT: I would place pies on a baking sheet .
+PREDID: 345
+PRED: place
+   DOBJ: pies
+      NON-INGREDIENT SPAN: pies
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until middle of each pie is set , about 15 minutes .
+PREDID: 369
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: middle of each pie is set , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: middle of each pie is set 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 9
+SENT: I would cool pies for 15 minutes .
+PREDID: 432
+PRED: cool
+   DOBJ: NULL
+   PARG: pies for 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: pies for 15 minutes
+
+
+SENTID: 10
+SENT: I would place 1 tablespoon whipped cream atop each pie ;
+PREDID: 453
+PRED: place
+   DOBJ: 1 tablespoon whipped cream atop each pie
+      INGREDIENT SPAN: 1 tablespoon whipped cream atop each pie
+         INGREDIENTS: whipped cream divided
+
+
+SENTID: 11
+SENT: I would gently press 1 walnut half into the whipped cream of each pie .
+PREDID: 499
+PRED: press
+   DOBJ: 1 walnut half
+      INGREDIENT SPAN: 1 walnut half
+         INGREDIENTS: walnut halves
+   PARG: the whipped cream of each pie
+     PREP: into
+      NON-INGREDIENT SPAN: the whipped cream of each pie
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

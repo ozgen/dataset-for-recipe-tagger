@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together the ground beef , the sausage , the eggs , 1/2 cup of ketchup and bread crumbs until well blended .
+PREDID: 54
+PRED: mix
+   DOBJ: the ground beef , the sausage , the eggs , 1/2 cup of ketchup, bread crumbs
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: fresh bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  1/2 cup of ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: pork sausage
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pat into a 9x5 inch loaf pan .
+PREDID: 138
+PRED: pat
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 3
+SENT: I would bake for 1 hour and 30 minutes in the preheated oven .
+PREDID: 161
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour, 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+      NON-INGREDIENT SPAN:  30 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+
+
+SENTID: 4
+SENT: I would drain off some of the fat once in a while to keep the spattering to a minimum .
+PREDID: 204
+PRED: drain
+   DOBJ: some of the fat
+      NON-INGREDIENT SPAN: some of the fat
+   PARG: a while to keep the spattering to a minimum
+     PREP: in
+      NON-INGREDIENT SPAN: a while to keep the spattering to a minimum
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: once
+      NON-INGREDIENT SPAN: once
+
+
+SENTID: 5
+SENT: I would enjoy !
+PREDID: 263
+PRED: enjoy
+   DOBJ: NULL
+
+

@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would heat the oil in a large skillet over medium heat , and cook and stir the chicken , the onion , green pepper , the mushrooms , and garlic until the chicken is no longer pink inside , 10 to 15 minutes .
+
+SENTID: 1
+SENT: I would stir in the crushed tomatoes , the parsley , the salt , the pepper , Italian seasoning , and basil , bring the mixture to a boil , and reduce heat .
+PREDID: 0
+PRED: stir
+   DOBJ: NULL
+   PARG: the crushed tomatoes , the parsley , the salt , the pepper , italian seasoning , basil
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the crushed tomatoes 
+         INGREDIENTS: ounce Italianstyle crushed tomatoes
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: green bell pepper diced
+
+PREDID: 80
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 106
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 2
+SENT: I would cover the skillet and simmer for 30 minutes .
+PREDID: 108
+PRED: cover
+   DOBJ: NULL
+   PARG: the skillet, simmer for 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  simmer for 30 minutes
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 3
+SENT: While the chicken mixture is simmering , I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 179
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: the chicken mixture is simmering
+     PREP: while
+      INGREDIENT SPAN: the chicken mixture is simmering
+         INGREDIENTS: skinless boneless chicken breast halves cubed
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 217
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 4
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 271
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 294
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cook the noodles uncovered , stirring occasionally , until cooked through but still firm to the bite , about 5 minutes .
+PREDID: 308
+PRED: cook
+   DOBJ: NULL
+   PARG: the noodles uncovered , stirring occasionally , until cooked through but still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the noodles uncovered 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until cooked through but still firm to the bite 
+
+
+SENTID: 6
+SENT: I would drain well in a colander set in the sink .
+PREDID: 407
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would serve the chicken cacciatore over the hot cooked noodles .
+PREDID: 440
+PRED: serve
+   DOBJ: the chicken cacciatore
+      NON-INGREDIENT SPAN: the chicken cacciatore
+   PARG: the hot cooked noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the hot cooked noodles
+
+
+SENTID: 8
+SENT: I would sprinkle with Parmesan cheese before serving .
+PREDID: 489
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

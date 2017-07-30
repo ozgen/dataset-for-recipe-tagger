@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour one 9x13 inch cake pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: one 9x13 inch cake pan
+      NON-INGREDIENT SPAN: one 9x13 inch cake pan
+
+
+SENTID: 2
+SENT: I would mix together the flour , baking powder , baking soda , the salt , ground cinnamon .
+PREDID: 71
+PRED: mix
+   DOBJ: the flour , baking powder , baking soda , the salt , ground cinnamon
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: sifted allpurpose flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  ground cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in the white sugar .
+PREDID: 135
+PRED: stir
+   DOBJ: NULL
+   PARG: the white sugar
+     PREP: in
+      INGREDIENT SPAN: the white sugar
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would add the oil and the eggs and mix well .
+PREDID: 155
+PRED: add
+   DOBJ: the oil, the eggs
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+
+PREDID: 177
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would stir in the carrots , the pineapple , chopped nuts , and the coconut .
+PREDID: 185
+PRED: stir
+   DOBJ: NULL
+   PARG: the carrots , the pineapple , chopped nuts , the coconut
+     PREP: in
+      INGREDIENT SPAN: the carrots 
+         INGREDIENTS: ounce jars carrot baby food
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: crushed pineapple drained
+      INGREDIENT SPAN:  chopped nuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the coconut
+         INGREDIENTS: flaked coconut
+
+
+SENTID: 6
+SENT: I would pour batter into the prepared pan .
+PREDID: 238
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes or until a toothpick inserted in the center comes out clean .
+PREDID: 267
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+

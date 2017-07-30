@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a large bowl , I would combine pumpkin puree , pudding mix , pumpkin pie spice and evaporated milk .
+PREDID: 13
+PRED: combine
+   DOBJ: pumpkin puree , pudding mix , pumpkin pie spice, evaporated milk
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: nonfat evaporated milk
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  pudding mix 
+         INGREDIENTS: ounce package instant sugar-free vanilla pudding mix
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 77
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would fold in 1 cup of the whipped topping .
+PREDID: 85
+PRED: fold
+   DOBJ: NULL
+   PARG: 1 cup of the whipped topping
+     PREP: in
+      INGREDIENT SPAN: 1 cup of the whipped topping
+         INGREDIENTS: lite frozen whipped topping
+
+
+SENTID: 3
+SENT: I would pour the filling into pie shell .
+PREDID: 115
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+
+SENTID: 4
+SENT: I would chill for 2 hours , or until set .
+PREDID: 139
+PRED: chill
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 5
+SENT: I would spread the remaining 1/2 cup whipped topping over filling .
+PREDID: 165
+PRED: spread
+   DOBJ: the remaining 1/2 cup whipped topping over filling
+      NON-INGREDIENT SPAN: the remaining 1/2 cup whipped topping over filling
+
+

@@ -1,0 +1,32 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="whisk
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="fold in
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="chill
+4", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: canola oil, vinegar, ramen noodle seasoning packet, sugar", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: almonds, ramen noodles, broccoli coleslaw mix, sunflower seeds", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E0 -> E2 [label="COOBJECT:over slaw mixture"]
+D3_ing[label="DOBJ: green onion", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCATION:in refrigerator", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+O4_0_0[label="OTHER: for 1 1/2 hours", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

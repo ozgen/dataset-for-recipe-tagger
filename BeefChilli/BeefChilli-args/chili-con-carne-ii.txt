@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: In a medium sized stock pot , I would heat the oil over medium heat .
+PREDID: 23
+PRED: heat
+   DOBJ: the oil over medium heat
+      INGREDIENT SPAN: the oil over medium heat
+         INGREDIENTS: vegetable oil
+   PARG: a medium sized stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a medium sized stock pot
+
+
+SENTID: 1
+SENT: I would saute onion , chile pepper and garlic until soft .
+PREDID: 48
+PRED: saute
+   DOBJ: onion , chile pepper, garlic until soft
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: large onions chopped
+      INGREDIENT SPAN:  chile pepper
+         INGREDIENTS: chile pepper chopped
+      NON-INGREDIENT SPAN:  garlic until soft
+
+
+SENTID: 2
+SENT: I would add ground beef :
+PREDID: 89
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+
+
+SENTID: 3
+SENT: I would cook and stir until meat is browned .
+PREDID: 103
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: meat is browned
+     PREP: until
+      NON-INGREDIENT SPAN: meat is browned
+
+
+SENTID: 4
+SENT: I would pour in tomatoes with liquid , the salt , the pepper , the cumin , chili powder , the paprika , the oregano , cinnamon sticks , and cloves .
+PREDID: 133
+PRED: pour
+   DOBJ: NULL
+   PARG: tomatoes with liquid , the salt , the pepper , the cumin , chili powder , the paprika , the oregano , cinnamon sticks , cloves
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: whole cloves
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: tomatoes with liquid 
+         INGREDIENTS: ounce whole peeled tomatoes liquid chopped
+      INGREDIENT SPAN:  cinnamon sticks 
+         INGREDIENTS: cinnamon sticks
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 5
+SENT: I would cover and simmer for 45 minutes .
+PREDID: 229
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 6
+SENT: I would stir in kidney beans , and cook another 15 minutes .
+PREDID: 256
+PRED: stir
+   DOBJ: NULL
+   PARG: kidney beans
+     PREP: in
+      INGREDIENT SPAN: kidney beans
+         INGREDIENTS: ounce red kidney beans rinsed drained
+
+PREDID: 277
+PRED: cook
+   DOBJ: NULL
+   PARG: another 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 15 minutes
+
+
+SENTID: 7
+SENT: I would remove cinnamon sticks before serving .
+PREDID: 298
+PRED: remove sticks
+   DOBJ: cinnamon
+      NON-INGREDIENT SPAN: cinnamon
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

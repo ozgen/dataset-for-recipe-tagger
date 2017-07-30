@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would combine eggs , the milk , bread crumbs , the onion , the salt , the sage , and mushrooms in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: eggs , the milk , bread crumbs , the onion , the salt , the sage , mushrooms in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: seasoned bread crumbs
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: rubbed sage
+      INGREDIENT SPAN:  mushrooms in a large bowl
+         INGREDIENTS: sliced fresh mushrooms
+
+
+SENTID: 1
+SENT: I would crumble ground beef over mixture and stir well to combine .
+PREDID: 70
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: mixture
+     PREP: over
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 101
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 2
+SENT: I would shape into a round loaf ;
+PREDID: 119
+PRED: shape
+   DOBJ: NULL
+   PARG: a round loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a round loaf
+
+
+SENTID: 3
+SENT: I would place in a 5-quart slow cooker .
+PREDID: 139
+PRED: place
+   DOBJ: NULL
+   PARG: a 5-quart slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a 5-quart slow cooker
+
+
+SENTID: 4
+SENT: I would cover and cook on Low until a meat thermometer reads 160 degrees F -LRB- 71 degrees C -RRB- , 5 to 6 hours .
+
+SENTID: 5
+SENT: I would whisk ketchup , brown sugar , the mustard , and Worcestershire sauce in a small bowl ;
+PREDID: 242
+PRED: whisk
+   DOBJ: ketchup , brown sugar , the mustard , Worcestershire sauce in a small bowl
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  Worcestershire sauce in a small bowl
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 6
+SENT: I would spoon sauce over meat loaf .
+PREDID: 309
+PRED: spoon
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: meat loaf
+     PREP: over
+      NON-INGREDIENT SPAN: meat loaf
+
+
+SENTID: 7
+SENT: I would return to slow cooker and cook on Low until heated through , about 15 minutes .
+PREDID: 332
+PRED: return
+   DOBJ: NULL
+   OARG: to slow cooker, cook on low until heated through , about 15 minutes
+      NON-INGREDIENT SPAN: to slow cooker
+      NON-INGREDIENT SPAN:  cook on low until heated through 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 8
+SENT: I would let stand 10 minutes before cutting .
+PREDID: 396
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

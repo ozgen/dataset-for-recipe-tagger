@@ -1,0 +1,231 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the ground beef , the onion , the egg , bread crumbs , and meatloaf seasoning .
+PREDID: 54
+PRED: combine
+   DOBJ: the ground beef , the onion , the egg , bread crumbs , meatloaf seasoning
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  meatloaf seasoning
+         INGREDIENTS: ounce packet meatloaf seasoning mix
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would use your hands to mix until well blended .
+PREDID: 118
+PRED: use
+   DOBJ: your hands
+      NON-INGREDIENT SPAN: your hands
+   OARG: to mix until well blended
+      NON-INGREDIENT SPAN: to mix until well blended
+
+
+SENTID: 3
+SENT: I would measure out 1/3 cupfuls of the meat mixture and mold around a cube of cheese like a meatball .
+PREDID: 152
+PRED: measure
+   DOBJ: 1/3 cupfuls of the meat mixture
+      NON-INGREDIENT SPAN: 1/3 cupfuls of the meat mixture
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 191
+PRED: mold
+   DOBJ: a cube of cheese
+      INGREDIENT SPAN: a cube of cheese
+         INGREDIENTS: cubed Cheddar cheese
+   PARG: a meatball
+     PREP: like
+      NON-INGREDIENT SPAN: a meatball
+   OARG: around
+      NON-INGREDIENT SPAN: around
+
+
+SENTID: 4
+SENT: I would shape into a point at one end and lengthen the body a bit by rolling between your hands .
+PREDID: 228
+PRED: shape
+   DOBJ: NULL
+   PARG: a point at one end
+     PREP: into
+      NON-INGREDIENT SPAN: a point at one end
+
+PREDID: 254
+PRED: lengthen
+   DOBJ: the body a bit
+      NON-INGREDIENT SPAN: the body a bit
+   PARG: rolling between your hands
+     PREP: by
+      NON-INGREDIENT SPAN: rolling between your hands
+
+
+SENTID: 5
+SENT: I would place your '' rat '' into a shallow baking dish , and continue with the remaining meat .
+PREDID: 299
+PRED: place
+   DOBJ: your
+      NON-INGREDIENT SPAN: your
+
+PREDID: 310
+PRED: rat
+   DOBJ: NULL
+   PARG: a shallow baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow baking dish
+
+PREDID: 341
+PRED: continue
+   DOBJ: NULL
+   PARG: the remaining meat
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining meat
+
+
+SENTID: 6
+SENT: I would insert pieces of uncooked spaghetti into the rounded end of the rats to make tails .
+PREDID: 370
+PRED: insert
+   DOBJ: pieces of uncooked spaghetti
+      INGREDIENT SPAN: pieces of uncooked spaghetti
+         INGREDIENTS: uncooked spaghetti broken fourths
+   PARG: the rounded end of the rats
+     PREP: into
+      NON-INGREDIENT SPAN: the rounded end of the rats
+   OARG: to make tails
+      NON-INGREDIENT SPAN: to make tails
+
+
+SENTID: 7
+SENT: In a medium bowl , I would stir together the tomato sauce , the sugar and Worcestershire sauce .
+PREDID: 453
+PRED: stir
+   DOBJ: the tomato sauce , the sugar, Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would pour over the rats in the dish and cover the dish with a lid or aluminum foil .
+PREDID: 508
+PRED: pour
+   DOBJ: the rats in the dish
+      NON-INGREDIENT SPAN: the rats in the dish
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 535
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: a lid or aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: a lid or aluminum foil
+
+
+SENTID: 9
+SENT: I would bake for 45 minutes in the preheated oven .
+PREDID: 570
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 10
+SENT: I would uncover the dish and continue to bake for another 20 to 30 minutes , basting occasionally with the sauce to glaze the rats .
+PREDID: 605
+PRED: uncover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 622
+PRED: continue
+   DOBJ: NULL
+   OARG: to bake for another 20 to 30 minutes , basting occasionally with the sauce to glaze the rats
+      NON-INGREDIENT SPAN: to bake for another 20 to 30 minutes 
+      NON-INGREDIENT SPAN:  basting occasionally with the sauce to glaze the rats
+
+
+SENTID: 11
+SENT: While the rats finish the baking , I would heat the peas and carrots in a small bowl in the microwave for about 15 seconds .
+PREDID: 734
+PRED: heat
+   DOBJ: the peas, carrots in a small bowl
+      INGREDIENT SPAN: the peas
+         INGREDIENTS: frozen green peas
+      INGREDIENT SPAN:  carrots in a small bowl
+         INGREDIENTS: carrot cut 1/8inch thick slices
+   PARG: the rats finish the baking
+     PREP: while
+      NON-INGREDIENT SPAN: the rats finish the baking
+   PARG: the microwave for about 15 seconds
+     PREP: in
+      NON-INGREDIENT SPAN: the microwave for about 15 seconds
+
+
+SENTID: 12
+SENT: I would carefully transfer the rats to a serving platter so that their delicate tails do n't fall off .
+PREDID: 805
+PRED: transfer
+   DOBJ: the rats
+      NON-INGREDIENT SPAN: the rats
+   PARG: a serving platter
+     PREP: to
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: so that their delicate tails do n't fall off
+      NON-INGREDIENT SPAN: so that their delicate tails do n't fall off
+
+
+SENTID: 13
+SENT: I would press peas into the pointy end to make eyes , and insert carrot slices to make ears .
+PREDID: 874
+PRED: press
+   DOBJ: peas
+      NON-INGREDIENT SPAN: peas
+   PARG: the pointy end
+     PREP: into
+      NON-INGREDIENT SPAN: the pointy end
+   OARG: to make eyes , insert carrot slices to make ears
+      NON-INGREDIENT SPAN:  insert carrot slices to make ears
+      NON-INGREDIENT SPAN: to make eyes 
+
+
+SENTID: 14
+SENT: I would spoon some of the tomato sauce around them and serve .
+PREDID: 942
+PRED: spoon
+   DOBJ: some of the tomato sauce
+      NON-INGREDIENT SPAN: some of the tomato sauce
+   PARG: them
+     PREP: around
+      NON-INGREDIENT SPAN: them
+
+

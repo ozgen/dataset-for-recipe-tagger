@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: In a large mixing bowl , I would slightly beat the eggs .
+PREDID: 27
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 1
+SENT: I would stir in corn syrup , the sugar , and vanilla .
+PREDID: 39
+PRED: stir
+   DOBJ: NULL
+   PARG: corn syrup , the sugar , vanilla
+     PREP: in
+      INGREDIENT SPAN: corn syrup 
+         INGREDIENTS: corn syrup
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 72
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would lightly stir in pecans , till well-coated with egg mixture .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecan halves
+   PARG: well-coated with egg mixture
+     PREP: till
+      NON-INGREDIENT SPAN: well-coated with egg mixture
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 4
+SENT: I would pour into pie shell .
+PREDID: 130
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 5
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes .
+PREDID: 147
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 6
+SENT: I would turn the oven down to 300 degrees F -LRB- 150 degrees C -RRB- , and bake for another 30 minutes .
+PREDID: 190
+PRED: turn
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 300 degrees f -lrb- 150 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 300 degrees f -lrb- 150 degrees c
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 243
+PRED: bake
+   DOBJ: NULL
+   PARG: another 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 30 minutes
+
+
+SENTID: 7
+SENT: I would cool before serving .
+PREDID: 259
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 8
+SENT: I would store leftovers covered in refrigerator .
+PREDID: 277
+PRED: store
+   DOBJ: leftovers covered in refrigerator
+      NON-INGREDIENT SPAN: leftovers covered in refrigerator
+
+

@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would coat a 2 quart casserole dish with cooking spray .
+PREDID: 38
+PRED: coat
+   DOBJ: a 2 quart casserole dish
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: In a large pot of salted water , I would boil noodles until al dente .
+PREDID: 104
+PRED: boil
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: a large pot of salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 128
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: In a medium saucepan , I would combine flour , the butter , and salt .
+PREDID: 156
+PRED: combine
+   DOBJ: flour , the butter , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+
+
+SENTID: 5
+SENT: I would stir until butter is melted and ingredients are combined evenly .
+PREDID: 184
+PRED: stir
+   DOBJ: NULL
+   PARG: butter is melted
+     PREP: until
+      NON-INGREDIENT SPAN: butter is melted
+
+PREDID: 224
+PRED: are combined
+   DOBJ: NULL
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would add milk , and whisk until the sauce thickens -LRB- usually it is at the proper consistency by the time it begins to boil -RRB- .
+PREDID: 239
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+PREDID: 250
+PRED: whisk
+   DOBJ: NULL
+   PARG: the sauce thickens
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce thickens
+   OARG: usually it is at the proper consistency by the time it begins to boil
+      NON-INGREDIENT SPAN: usually it is at the proper consistency by the time it begins to boil
+
+
+SENTID: 7
+SENT: I would add cheese to mixture , and whisk until cheese is melted and mixture is well blended .
+PREDID: 335
+PRED: add
+   DOBJ: cheese
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+   OARG: mixture is well blended
+      NON-INGREDIENT SPAN: mixture is well blended
+
+PREDID: 357
+PRED: whisk
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 8
+SENT: I would stir in tuna , the peas , and noodles .
+PREDID: 405
+PRED: stir
+   DOBJ: NULL
+   PARG: tuna , the peas , noodles
+     PREP: in
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce peas drained
+      INGREDIENT SPAN: tuna 
+         INGREDIENTS: ounce tuna drained
+      NON-INGREDIENT SPAN:  noodles
+
+
+SENTID: 9
+SENT: I would spread evenly in prepared dish .
+PREDID: 432
+PRED: spread
+   DOBJ: NULL
+   PARG: prepared dish
+     PREP: in
+      NON-INGREDIENT SPAN: prepared dish
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 459
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+

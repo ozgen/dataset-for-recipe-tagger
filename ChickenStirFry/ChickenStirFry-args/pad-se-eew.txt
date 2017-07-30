@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: I would stir the dark soy sauce , soy sauce , the sugar , and chile-garlic sauce together in a small saucepan and place over medium-how heat ;
+PREDID: 0
+PRED: stir
+   DOBJ: the dark soy sauce , soy sauce , the sugar , chile-garlic sauce
+      INGREDIENT SPAN:  chile-garlic sauce
+         INGREDIENTS: chilegarlic sauce such Sriracha more taste
+      INGREDIENT SPAN: the dark soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: dark soy sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar more taste
+   PARG: a small saucepan, place over medium-how heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan
+      NON-INGREDIENT SPAN:  place over medium-how heat
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would simmer and stir until the sugar dissolves into the sauce , about 5 minutes .
+PREDID: 106
+PRED: simmer and stir
+   DOBJ: NULL
+   PARG: the sugar dissolves into the sauce , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the sugar dissolves into the sauce 
+
+
+SENTID: 2
+SENT: I would remove from heat and set aside .
+PREDID: 168
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 185
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would heat the olive oil in a skillet over medium heat .
+PREDID: 194
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 4
+SENT: I would cook and stir the garlic and chicken in the hot oil until the chicken is no longer pink in the center , 7 to 10 minutes .
+PREDID: 234
+PRED: cook and stir
+   DOBJ: the garlic, chicken
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: chicken tenders cut bitesize
+      INGREDIENT SPAN: the garlic
+         INGREDIENTS: chopped garlic
+   PARG: the hot oil
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil
+   PARG: the chicken is no longer pink in the center , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the chicken is no longer pink in the center 
+
+
+SENTID: 5
+SENT: I would stir the broccoli into the chicken mixture ;
+PREDID: 329
+PRED: stir
+   DOBJ: the broccoli
+      INGREDIENT SPAN: the broccoli
+         INGREDIENTS: ounce package frozen broccoli
+   PARG: the chicken mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken mixture
+
+
+SENTID: 6
+SENT: I would cook and stir until the broccoli is thoroughly heated .
+PREDID: 366
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the broccoli is thoroughly heated
+     PREP: until
+      NON-INGREDIENT SPAN: the broccoli is thoroughly heated
+
+
+SENTID: 7
+SENT: I would add the noodles and stir until all the ingredients are evenly mixed .
+PREDID: 412
+PRED: add
+   DOBJ: the noodles
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: fresh flat rice noodles
+
+PREDID: 428
+PRED: stir
+   DOBJ: NULL
+   PARG: all the ingredients are evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: all the ingredients are evenly mixed
+
+
+SENTID: 8
+SENT: I would pour the sauce over the mixture and stir until everything is evenly coated ;
+PREDID: 469
+PRED: pour
+   DOBJ: the sauce over the mixture
+      NON-INGREDIENT SPAN: the sauce over the mixture
+
+PREDID: 498
+PRED: stir
+   DOBJ: NULL
+   PARG: everything is evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: everything is evenly coated
+
+
+SENTID: 9
+SENT: I would continue the cooking until the sauce begins to thicken .
+PREDID: 532
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: the sauce begins
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce begins
+
+
+SENTID: 10
+SENT: I would push the chicken mixture to the side of the skillet with a spatula .
+PREDID: 576
+PRED: push
+   DOBJ: the chicken mixture
+      NON-INGREDIENT SPAN: the chicken mixture
+   PARG: the side of the skillet with a spatula
+     PREP: to
+      NON-INGREDIENT SPAN: the side of the skillet with a spatula
+
+
+SENTID: 11
+SENT: I would add the egg to the skillet in the vacated space .
+PREDID: 631
+PRED: add
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg beaten
+   PARG: the skillet in the vacated space
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet in the vacated space
+
+
+SENTID: 12
+SENT: I would scramble the egg , cooking it through .
+PREDID: 670
+PRED: scramble
+   DOBJ: the egg
+      NON-INGREDIENT SPAN: the egg
+   OARG: cooking it through
+      NON-INGREDIENT SPAN: cooking it through
+
+
+SENTID: 13
+SENT: Once egg is cooked , I would mix ingredients back in and heat thoroughly .
+PREDID: 718
+PRED: mix
+   DOBJ: ingredients
+      NON-INGREDIENT SPAN: ingredients
+   PARG: egg is cooked
+     PREP: once
+      NON-INGREDIENT SPAN: egg is cooked
+   OARG: back
+      NON-INGREDIENT SPAN: back
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+PREDID: 741
+PRED: heat
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 14
+SENT: I would garnish with the sesame seeds and red pepper flakes to serve .
+PREDID: 756
+PRED: garnish
+   DOBJ: NULL
+   PARG: the sesame seeds, red pepper flakes
+     PREP: with
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN: the sesame seeds
+         INGREDIENTS: sesame seeds
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

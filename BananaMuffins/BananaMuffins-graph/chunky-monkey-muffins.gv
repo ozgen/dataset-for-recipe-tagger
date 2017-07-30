@@ -1,0 +1,47 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="line (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="puree (S2,P70)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S3,P118)", shape=oval, style=filled, fillcolor=azure]
+E4[label="pulse (S4,P219)", shape=oval, style=filled, fillcolor=azure]
+E5[label="spoon (S5,P286)", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake (S7,P445)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: palm shortening, vanilla extract, almond butter, coconut oil, coconut flour, baking soda, cocoa powder, salt
+(text: almond butter , coconut flour , coconut oil , palm shortening , cocoa powder , baking soda , vanilla extract , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D1[label="DOBJ: 12 muffin cups", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D2[label="DOBJ: ripe bananas, pitted dates
+(text: bananas, dates)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a food processor", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+P2_1[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P2_1 -> E2
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E2 -> E4 [label="OUTPUT: 
+INPUT:  scraping sides to fully incorporate ingredients"]
+O4_0_1[label="OTHER: to make a thick batter ", shape=box, style=filled, fillcolor=white]
+O4_0_1 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E5 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+O5_0_0[label="OTHER: filling them 2/3 full", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+E0 -> E6 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O6_0_0[label="OTHER: until a toothpick inserted into the center of a muffin comes out clean ", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_0_1[label="OTHER:  16 to 18 minutes", shape=box, style=filled, fillcolor=white]
+O6_0_1 -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a food processor or blender , I would combine the bell pepper , the onion and celery .
+PREDID: 67
+PRED: combine
+   DOBJ: the bell pepper , the onion, celery
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: ounce envelope dry onion soup mix
+      INGREDIENT SPAN: the bell pepper 
+         INGREDIENTS: green bell pepper seeded cubed
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: small stalks celery
+   PARG: a food processor or blender
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor or blender
+
+
+SENTID: 2
+SENT: Process until finely chopped , but not liquid .
+
+SENTID: 3
+SENT: I would transfer to a large bowl .
+PREDID: 103
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would add the ground beef , ground pork , cracker crumbs , onion soup mix , the salt , the pepper , the sage and milk .
+PREDID: 124
+PRED: add
+   DOBJ: the ground beef , ground pork , cracker crumbs , onion soup mix , the salt , the pepper , the sage, milk
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the sage
+         INGREDIENTS: dried sage
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  cracker crumbs 
+         INGREDIENTS: cracker crumbs
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN:  pork 
+         INGREDIENTS: mild pork sausage
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the pepper 
+
+
+SENTID: 5
+SENT: I would mix well using your hands , or if you have a stand mixer , mix using the paddle attachment .
+PREDID: 203
+PRED: mix
+   DOBJ: NULL
+   OARG: well using your hands
+      NON-INGREDIENT SPAN: well using your hands
+
+
+SENTID: 6
+SENT: I would transfer to a 9x5 inch loaf pan and form into a loaf , mounding in the center .
+PREDID: 276
+PRED: transfer pan
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+   OARG: mounding in the center
+      NON-INGREDIENT SPAN: mounding in the center
+
+
+SENTID: 7
+SENT: I would cover with a generous layer of ketchup .
+PREDID: 338
+PRED: cover
+   DOBJ: NULL
+   PARG: a generous layer of ketchup
+     PREP: with
+      INGREDIENT SPAN: a generous layer of ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 8
+SENT: I would bake for 1?1/2 hours in the preheated oven .
+PREDID: 371
+PRED: bake
+   DOBJ: NULL
+   PARG: 1?1/2 hours in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours in the preheated oven
+
+
+SENTID: 9
+SENT: I would serve hot .
+PREDID: 407
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 10
+SENT: I would refrigerate leftovers , slice and serve cold in sandwiches .
+PREDID: 416
+PRED: refrigerate
+   DOBJ: leftovers
+      NON-INGREDIENT SPAN: leftovers
+   PARG: sandwiches
+     PREP: in
+      NON-INGREDIENT SPAN: sandwiches
+
+PREDID: 437
+PRED: slice and serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

@@ -1,0 +1,202 @@
+SENTID: 0
+SENT: I would wrap potato cubes in plastic wrap , and microwave for 30 seconds .
+PREDID: 0
+PRED: wrap
+   DOBJ: potato cubes in plastic wrap , microwave for 30 seconds
+      INGREDIENT SPAN:  cubes in plastic wrap 
+         INGREDIENTS: cube chicken bouillon
+      INGREDIENT SPAN: potato cubes in plastic wrap 
+         INGREDIENTS: russet potato peeled cubed
+      NON-INGREDIENT SPAN:  microwave for 30 seconds
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 54
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a saute pan , I would cook bacon over medium heat until heated through , and add chopped onions .
+PREDID: 75
+PRED: cook
+   DOBJ: bacon over medium heat
+      INGREDIENT SPAN: bacon over medium heat
+         INGREDIENTS: slices bacon diced
+   PARG: a saute pan
+     PREP: in
+      NON-INGREDIENT SPAN: a saute pan
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+PREDID: 120
+PRED: add
+   DOBJ: chopped onions
+      INGREDIENT SPAN: chopped onions
+         INGREDIENTS: onion chopped
+
+
+SENTID: 3
+SENT: I would cook and stir until onions are clear .
+PREDID: 137
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onions are clear
+     PREP: until
+      NON-INGREDIENT SPAN: onions are clear
+
+
+SENTID: 4
+SENT: I would stir in crab meat and parsley flakes .
+PREDID: 168
+PRED: stir
+   DOBJ: NULL
+   PARG: crab meat, parsley flakes
+     PREP: in
+      INGREDIENT SPAN:  parsley flakes
+         INGREDIENTS: parsley flakes
+      INGREDIENT SPAN: crab meat
+         INGREDIENTS: ounce crab meat drained
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 199
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would meanwhile , melt butter in a large stock pot over low heat .
+PREDID: 218
+PRED: melt
+   DOBJ: butter in a large stock pot over low heat
+      INGREDIENT SPAN: butter in a large stock pot over low heat
+         INGREDIENTS: butter
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 7
+SENT: I would whisk in flour until mixture becomes creamy and takes on a eggshell color .
+PREDID: 256
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: mixture becomes creamy, takes on a eggshell color
+     PREP: until
+      NON-INGREDIENT SPAN:  takes on a eggshell color
+      NON-INGREDIENT SPAN: mixture becomes creamy
+
+
+SENTID: 8
+SENT: I would continue to cook for a few more minutes , stirring occasionally .
+PREDID: 318
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook for a few more minutes , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: to cook for a few more minutes 
+
+
+SENTID: 9
+SENT: I would stir in wine .
+PREDID: 372
+PRED: stir
+   DOBJ: NULL
+   PARG: wine
+     PREP: in
+      INGREDIENT SPAN: wine
+         INGREDIENTS: dry white wine
+
+
+SENTID: 10
+SENT: I would dissolve chicken bouillon in milk ;
+PREDID: 383
+PRED: dissolve
+   DOBJ: chicken bouillon
+      NON-INGREDIENT SPAN: chicken bouillon
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+
+SENTID: 11
+SENT: when the flour mixture is crumbly , slowly whisk in the milk .
+PREDID: 448
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk
+     PREP: in
+      NON-INGREDIENT SPAN: the milk
+   OARG: when the flour mixture is crumbly
+      NON-INGREDIENT SPAN: when the flour mixture is crumbly
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 12
+SENT: I would mix well in order to eliminate all lumps .
+PREDID: 463
+PRED: mix
+   DOBJ: NULL
+   PARG: order to eliminate all lumps
+     PREP: in
+      NON-INGREDIENT SPAN: order to eliminate all lumps
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 13
+SENT: When the mixture is creamy and hot , stir in bacon mixture , cubed potatoes , and creamed corn .
+PREDID: 526
+PRED: stir
+   DOBJ: NULL
+   PARG: bacon mixture , cubed potatoes , creamed corn
+     PREP: in
+      INGREDIENT SPAN:  creamed corn
+         INGREDIENTS: ounce creamed corn
+      NON-INGREDIENT SPAN:  cubed potatoes 
+      NON-INGREDIENT SPAN: bacon mixture 
+   OARG: when the mixture is creamy, hot
+      NON-INGREDIENT SPAN: when the mixture is creamy
+      NON-INGREDIENT SPAN:  hot
+
+
+SENTID: 14
+SENT: I would season with salt and pepper to taste , and simmer for 10 minutes .
+PREDID: 574
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+PREDID: 608
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 15
+SENT: For a creamy curry variation add 2 tablespoons curry powder after adding the wine to the flour mixture , I would and substitute cooked , cubed chicken for the bacon .
+

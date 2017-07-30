@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would prepare mashed potatoes following package directions .
+PREDID: 25
+PRED: prepare
+   DOBJ: mashed potatoes following package directions
+      INGREDIENT SPAN: mashed potatoes following package directions
+         INGREDIENTS: ounce package Idahoan Bacon Cheddar Chipotle Flavored Mashed Potatoes
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 73
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine all the ingredients from beef through black pepper .
+PREDID: 95
+PRED: combine
+   DOBJ: all the ingredients
+      NON-INGREDIENT SPAN: all the ingredients
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: beef
+     PREP: from
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: black pepper
+     PREP: through
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: red bell pepper chopped
+
+
+SENTID: 4
+SENT: I would mix thoroughly but lightly .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly but lightly
+      NON-INGREDIENT SPAN: thoroughly but lightly
+
+
+SENTID: 5
+SENT: I would shape mixture into a 10x4-inch loaf .
+PREDID: 170
+PRED: shape
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 10x4-inch loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a 10x4-inch loaf
+
+
+SENTID: 6
+SENT: I would place on rack coated with cooking spray on broiler pan .
+PREDID: 201
+PRED: place
+   DOBJ: NULL
+   PARG: rack coated with cooking spray on broiler pan
+     PREP: on
+      NON-INGREDIENT SPAN: rack coated with cooking spray on broiler pan
+
+
+SENTID: 7
+SENT: I would bake 1 hour and 20 minutes , or until internal temperature is 160 degrees F.
+PREDID: 247
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour, 20 minutes , or until internal temperature is 160 degrees f.
+     PREP: for
+      NON-INGREDIENT SPAN:  or until internal temperature is 160 degrees f.
+      NON-INGREDIENT SPAN:  20 minutes 
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 8
+SENT: I would let stand 5 minutes
+PREDID: 309
+PRED: let
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: stand
+      NON-INGREDIENT SPAN: stand
+
+
+SENTID: 9
+SENT: I would frost with the mashed potatoes .
+PREDID: 325
+PRED: frost
+   DOBJ: NULL
+   PARG: the mashed potatoes
+     PREP: with
+      NON-INGREDIENT SPAN: the mashed potatoes
+
+
+SENTID: 10
+SENT: I would top with salsa and sliced avocados .
+PREDID: 352
+PRED: top
+   DOBJ: NULL
+   PARG: salsa, sliced avocados
+     PREP: with
+      INGREDIENT SPAN:  sliced avocados
+         INGREDIENTS: Avocados sliced garnish
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: thick chunky salsa
+
+

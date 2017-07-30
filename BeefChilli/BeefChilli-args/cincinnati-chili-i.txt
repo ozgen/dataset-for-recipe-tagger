@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would heat oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would add onion and cook , stirring frequently , until tender , about 6 minutes .
+PREDID: 38
+PRED: add
+   DOBJ: onion, cook , stirring frequently
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN:  cook 
+   PARG: tender , about 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 2
+SENT: I would add beef , in batches if necessary , and cook , breaking up with a wooden spoon , until browned .
+PREDID: 99
+PRED: add
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: in batches if necessary
+     PREP: and
+      NON-INGREDIENT SPAN: in batches if necessary
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+PREDID: 136
+PRED: breaking
+   DOBJ: NULL
+   PARG: a wooden spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a wooden spoon
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 3
+SENT: I would add chili powder , the cinnamon , the cumin , the allspice , the cloves , bay leaf , the chocolate , beef broth , tomato sauce , cider vinegar , and red pepper .
+PREDID: 176
+PRED: add
+   DOBJ: chili powder , the cinnamon , the cumin , the allspice , the cloves , bay leaf , the chocolate , beef broth , tomato sauce , cider vinegar , red pepper
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN:  beef broth 
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  the chocolate 
+         INGREDIENTS: ounce square unsweetened chocolate
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 4
+SENT: I would stir to mix well .
+PREDID: 288
+PRED: stir
+   DOBJ: NULL
+   OARG: to mix well
+      NON-INGREDIENT SPAN: to mix well
+
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 302
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat to low ;
+PREDID: 315
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 7
+SENT: I would cover and simmer 1?1/2 hours , stirring occasionally .
+PREDID: 331
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 1?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 8
+SENT: It is the best if you now refrigerate overnight .
+
+SENTID: 9
+SENT: I would remove the bay leaf .
+PREDID: 377
+PRED: remove
+   DOBJ: the bay leaf
+      NON-INGREDIENT SPAN: the bay leaf
+
+
+SENTID: 10
+SENT: I would reheat gently over medium heat .
+PREDID: 394
+PRED: reheat
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 11
+SENT: I would serve over hot , drained spaghetti .
+PREDID: 421
+PRED: serve
+   DOBJ: NULL
+   PARG: hot , drained spaghetti
+     PREP: over
+      NON-INGREDIENT SPAN: hot 
+      NON-INGREDIENT SPAN:  drained spaghetti
+
+
+SENTID: 12
+SENT: I would top with shredded cheddar cheese .
+PREDID: 451
+PRED: top
+   DOBJ: NULL
+   PARG: shredded cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+

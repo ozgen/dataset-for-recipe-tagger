@@ -1,0 +1,244 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a large disposable aluminum roasting pan with cooking spray .
+PREDID: 38
+PRED: spray pan
+   DOBJ: a large disposable aluminum roasting
+      NON-INGREDIENT SPAN: a large disposable aluminum roasting
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would brown ground beef in a large skillet over medium heat , breaking the meat into crumbles as it browns , 10 to 12 minutes .
+PREDID: 95
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   OARG: breaking the meat into crumbles as it browns , 10 to 12 minutes
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: breaking the meat into crumbles as it browns 
+
+
+SENTID: 3
+SENT: I would drain excess grease and stir in taco seasoning and half the enchilada sauce .
+PREDID: 192
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+PREDID: 212
+PRED: stir
+   DOBJ: NULL
+   PARG: taco seasoning, half the enchilada sauce
+     PREP: in
+      INGREDIENT SPAN: taco seasoning
+         INGREDIENTS: envelopes taco seasoning mix
+      INGREDIENT SPAN:  half the enchilada sauce
+         INGREDIENTS: ounce enchilada sauce divided
+
+
+SENTID: 4
+SENT: I would reserve the remaining enchilada sauce for later use .
+PREDID: 256
+PRED: reserve
+   DOBJ: the remaining enchilada sauce for later use
+      NON-INGREDIENT SPAN: the remaining enchilada sauce for later use
+
+
+SENTID: 5
+SENT: I would bring beef mixture to a boil , reduce heat to low , and simmer until thickened , about 5 minutes .
+PREDID: 298
+PRED: bring
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 322
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 341
+PRED: simmer
+   DOBJ: NULL
+   PARG: thickened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would set meat aside .
+PREDID: 376
+PRED: set
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would layer one package of tortillas into the bottom of the prepared aluminum roasting pan and spread refried beans evenly in a layer over the tortillas .
+PREDID: 389
+PRED: layer
+   DOBJ: one package of tortillas
+      INGREDIENT SPAN: one package of tortillas
+         INGREDIENTS: ounce packages flour tortillas cut half divided
+      INGREDIENT SPAN: one package of 
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided, ounce packages queso fresco Mexican cheese sliced divided
+      INGREDIENT SPAN: one package of 
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided, ounce packages queso fresco Mexican cheese sliced divided
+   PARG: the bottom of the prepared aluminum roasting pan, spread refried beans evenly in a layer over the tortillas
+     PREP: into
+      INGREDIENT SPAN:  spread refried beans evenly in a layer over the tortillas
+         INGREDIENTS: ounce fatfree refried beans
+      INGREDIENT SPAN:  spread evenly in a layer over the tortillas
+         INGREDIENTS: ounce packages flour tortillas cut half divided
+      NON-INGREDIENT SPAN: the bottom of the prepared aluminum roasting pan
+
+
+SENTID: 8
+SENT: I would arrange 1 more package of halved tortillas over the beans , and top with slices of queso fresco .
+PREDID: 512
+PRED: arrange
+   DOBJ: 1 more package of halved tortillas
+      INGREDIENT SPAN: 1 more package of halved tortillas
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided, ounce packages queso fresco Mexican cheese sliced divided
+      INGREDIENT SPAN: 1 more package of halved tortillas
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided, ounce packages queso fresco Mexican cheese sliced divided
+   PARG: the beans
+     PREP: over
+      NON-INGREDIENT SPAN: the beans
+
+PREDID: 564
+PRED: top
+   DOBJ: NULL
+   PARG: slices of queso fresco
+     PREP: with
+      INGREDIENT SPAN: slices of queso fresco
+         INGREDIENTS: ounce packages queso fresco Mexican cheese sliced divided
+
+
+SENTID: 9
+SENT: I would spread 1 package of reduced-fat Mexican cheese blend over queso fresco slices .
+PREDID: 591
+PRED: spread blend
+   DOBJ: queso fresco slices, 1 package of reduced-fat Mexican cheese
+      INGREDIENT SPAN:  1 package of reduced-fat Mexican cheese
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided
+      NON-INGREDIENT SPAN: queso fresco slices
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 10
+SENT: I would lay half the sliced nopalitos in a criss-cross pattern over the shredded cheese .
+PREDID: 658
+PRED: lay
+   DOBJ: half the sliced nopalitos
+      INGREDIENT SPAN: half the sliced nopalitos
+         INGREDIENTS: ounce jar nopalitos sliced cactus drained divided
+   PARG: a criss-cross pattern over the shredded cheese
+     PREP: in
+      INGREDIENT SPAN: a criss-cross pattern over the shredded cheese
+         INGREDIENTS: ounce packages shredded reducedfat Mexican cheese blend divided
+
+
+SENTID: 11
+SENT: I would top nopalito layer with 1 more package of tortillas and spread beef mixture over the tortillas ;
+PREDID: 726
+PRED: top
+   DOBJ: nopalito layer
+      NON-INGREDIENT SPAN: nopalito layer
+   PARG: 1 more package of tortillas
+     PREP: with
+      NON-INGREDIENT SPAN: 1 more package of tortillas
+
+PREDID: 772
+PRED: spread
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: the tortillas
+     PREP: over
+      NON-INGREDIENT SPAN: the tortillas
+
+
+SENTID: 12
+SENT: I would top with remaining package of tortillas .
+PREDID: 806
+PRED: top
+   DOBJ: NULL
+   PARG: remaining package of tortillas
+     PREP: with
+      NON-INGREDIENT SPAN: remaining package of tortillas
+
+
+SENTID: 13
+SENT: I would finish casserole with remaining enchilada sauce and remaining 1 package cheese blend .
+PREDID: 841
+PRED: finish
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: remaining enchilada sauce, remaining 1 package cheese blend
+     PREP: with
+      NON-INGREDIENT SPAN: remaining enchilada sauce
+      NON-INGREDIENT SPAN:  remaining 1 package cheese blend
+
+
+SENTID: 14
+SENT: I would top the cheese with remaining nopalito slices arranged in a criss-cross pattern .
+PREDID: 915
+PRED: top
+   DOBJ: the cheese
+      NON-INGREDIENT SPAN: the cheese
+   PARG: remaining nopalito slices arranged in a criss-cross pattern
+     PREP: with
+      NON-INGREDIENT SPAN: remaining nopalito slices arranged in a criss-cross pattern
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven until casserole is bubbling and the cheese topping is melted and starting to brown , 25 to 30 minutes .
+PREDID: 984
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: casserole is bubbling
+   OARG: the cheese topping is melted, starting to brown , 25 to 30 minutes
+      NON-INGREDIENT SPAN:  starting to brown 
+      NON-INGREDIENT SPAN: the cheese topping is melted
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+
+
+SENTID: 16
+SENT: I would serve in squares .
+PREDID: 1090
+PRED: serve
+   DOBJ: NULL
+   PARG: squares
+     PREP: in
+      NON-INGREDIENT SPAN: squares
+
+

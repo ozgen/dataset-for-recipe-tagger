@@ -1,0 +1,321 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would butter a 2-quart casserole dish .
+PREDID: 38
+PRED: butter
+   DOBJ: a 2-quart casserole dish
+      NON-INGREDIENT SPAN: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: I would place torn rye bread into a food processor and pulse several times to make crumbs ;
+PREDID: 66
+PRED: place
+   DOBJ: torn rye bread
+      INGREDIENT SPAN: torn rye bread
+         INGREDIENTS: slices rye bread torn
+   PARG: a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: a food processor
+
+PREDID: 104
+PRED: pulse
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+   OARG: to make crumbs
+      INGREDIENT SPAN: to make crumbs
+         INGREDIENTS: panko bread crumbs
+
+
+SENTID: 3
+SENT: I would combine rye crumbs with panko crumbs in a bowl and set aside .
+PREDID: 134
+PRED: combine
+   DOBJ: rye crumbs
+      NON-INGREDIENT SPAN: rye crumbs
+   PARG: panko crumbs in a bowl
+     PREP: with
+      NON-INGREDIENT SPAN: panko crumbs in a bowl
+
+PREDID: 175
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 184
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 226
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would drain noodles and set aside .
+PREDID: 327
+PRED: drain
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+
+PREDID: 342
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would melt 3 tablespoons butter in a large saucepan over medium heat ;
+PREDID: 351
+PRED: melt
+   DOBJ: 3 tablespoons butter
+      INGREDIENT SPAN: 3 tablespoons butter
+         INGREDIENTS: butter melted
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 8
+SENT: I would cook and stir onion until lightly browned , about 15 minutes .
+PREDID: 404
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: lightly browned , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: lightly browned 
+
+
+SENTID: 9
+SENT: I would season with salt and black pepper ;
+PREDID: 455
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 10
+SENT: I would stir in brown mustard .
+PREDID: 484
+PRED: stir
+   DOBJ: NULL
+   PARG: brown mustard
+     PREP: in
+      INGREDIENT SPAN: brown mustard
+         INGREDIENTS: spicy brown mustard
+
+
+SENTID: 11
+SENT: I would remove from heat , stir in flour until smooth , and gradually whisk in milk .
+PREDID: 503
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 518
+PRED: stir
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+PREDID: 553
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: hot milk
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 12
+SENT: I would sauce will thicken .
+PREDID: 565
+PRED: sauce
+   DOBJ: will thicken
+      NON-INGREDIENT SPAN: will thicken
+
+
+SENTID: 13
+SENT: I would whisk 1?1/2 cup Swiss cheese into the sauce , stirring until the cheese has melted and the sauce is smooth .
+PREDID: 582
+PRED: whisk
+   DOBJ: 1?1/2 cup Swiss cheese
+      INGREDIENT SPAN: 1?1/2 cup Swiss cheese
+         INGREDIENTS: shredded Swiss cheese more taste divided
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+   OARG: stirring until the cheese has melted
+      INGREDIENT SPAN: stirring until the cheese has melted
+         INGREDIENTS: shredded Swiss cheese more taste divided
+      INGREDIENT SPAN: stirring until the has melted
+         INGREDIENTS: butter melted
+   OARG: the sauce is smooth
+      NON-INGREDIENT SPAN: the sauce is smooth
+
+
+SENTID: 14
+SENT: I would stir sauerkraut with about 1 tablespoon of reserved juice and corned beef into the cheese sauce .
+PREDID: 670
+PRED: stir
+   DOBJ: sauerkraut
+      INGREDIENT SPAN: sauerkraut
+         INGREDIENTS: sauerkraut drained reserve juice
+   PARG: about 1 tablespoon of reserved juice
+     PREP: with
+      NON-INGREDIENT SPAN: about 1 tablespoon of reserved juice
+
+PREDID: 722
+PRED: corned
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: deli sliced corn beef more taste
+   PARG: the cheese sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the cheese sauce
+
+
+SENTID: 15
+SENT: I would transfer cooked noodles to the prepared casserole dish and pour in the sauce ;
+PREDID: 751
+PRED: transfer
+   DOBJ: cooked noodles
+      NON-INGREDIENT SPAN: cooked noodles
+   PARG: the prepared casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+PREDID: 801
+PRED: pour
+   DOBJ: NULL
+   PARG: the sauce
+     PREP: in
+      NON-INGREDIENT SPAN: the sauce
+
+
+SENTID: 16
+SENT: I would stir to combine .
+PREDID: 816
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 17
+SENT: I would sprinkle the remaining 1?1/2 cup Swiss cheese in an even layer over the top .
+PREDID: 830
+PRED: sprinkle
+   DOBJ: the remaining 1?1/2 cup Swiss cheese in an even layer over the top
+      NON-INGREDIENT SPAN: the remaining 1?1/2 cup Swiss cheese in an even layer over the top
+
+
+SENTID: 18
+SENT: I would bake casserole in the preheated oven until bubbling , about 20 minutes .
+PREDID: 890
+PRED: bake
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: the preheated oven until bubbling , about 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until bubbling 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 19
+SENT: I would remove casserole from oven and set the oven to broil .
+PREDID: 950
+PRED: remove
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 976
+PRED: set
+   DOBJ: the oven to broil
+      NON-INGREDIENT SPAN: the oven to broil
+
+
+SENTID: 20
+SENT: I would stir 3 tablespoons melted butter into the reserved rye and panko crumbs until thoroughly combined and sprinkle top of casserole with rye crumb mixture .
+PREDID: 994
+PRED: stir
+   DOBJ: 3 tablespoons melted butter into the reserved rye, panko crumbs until thoroughly combined
+      INGREDIENT SPAN: 3 tablespoons melted butter into the reserved rye
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  panko crumbs until thoroughly combined
+
+PREDID: 1080
+PRED: sprinkle
+   DOBJ: top of casserole with rye crumb mixture
+      NON-INGREDIENT SPAN: top of casserole with rye crumb mixture
+
+
+SENTID: 21
+SENT: I would return to oven and broil until the crumbs are golden brown , about 2 more minutes .
+PREDID: 1122
+PRED: return
+   DOBJ: NULL
+   OARG: to oven, broil until the crumbs are golden brown , about 2 more minutes
+      NON-INGREDIENT SPAN:  about 2 more minutes
+      NON-INGREDIENT SPAN: to oven
+      NON-INGREDIENT SPAN:  broil until the crumbs are golden brown 
+
+
+SENTID: 22
+SENT: I would watch carefully to prevent burning .
+PREDID: 1189
+PRED: watch
+   DOBJ: NULL
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: to prevent burning
+      NON-INGREDIENT SPAN: to prevent burning
+
+

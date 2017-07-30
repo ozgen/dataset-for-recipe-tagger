@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: In large saucepan , I would brown ground beef with onions ;
+PREDID: 16
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: large saucepan
+   PARG: onions
+     PREP: with
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onions
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 42
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add the remaining ingredients except green pepper and kidney beans .
+PREDID: 48
+PRED: add
+   DOBJ: the remaining ingredients except green pepper, kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN: the remaining ingredients except green pepper
+         INGREDIENTS: green bell pepper chopped
+
+
+SENTID: 3
+SENT: Bring to a boil ;
+PREDID: 103
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat .
+PREDID: 116
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would simmer uncovered 1 hour , stirring occasionally .
+PREDID: 127
+PRED: simmer
+   DOBJ: uncovered 1 hour
+      NON-INGREDIENT SPAN: uncovered 1 hour
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 6
+SENT: I would stir in green pepper and kidney beans ;
+PREDID: 169
+PRED: stir
+   DOBJ: NULL
+   PARG: green pepper, kidney beans
+     PREP: in
+      NON-INGREDIENT SPAN:  kidney beans
+      NON-INGREDIENT SPAN: green pepper
+
+
+SENTID: 7
+SENT: I would simmer until thoroughly heated .
+PREDID: 201
+PRED: simmer
+   DOBJ: NULL
+   PARG: thoroughly heated
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly heated
+
+

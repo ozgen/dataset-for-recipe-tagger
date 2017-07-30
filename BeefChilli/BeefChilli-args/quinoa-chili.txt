@@ -1,0 +1,242 @@
+SENTID: 0
+SENT: I would bring the quinoa and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: the quinoa, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the quinoa
+         INGREDIENTS: uncooked quinoa rinsed
+   PARG: a boil in a saucepan over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan over high heat
+
+
+SENTID: 1
+SENT: I would reduce heat to medium-low , cover , and simmer until the quinoa is tender , and the water has been absorbed , about 15 to 20 minutes .
+PREDID: 53
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 85
+PRED: simmer
+   DOBJ: NULL
+   PARG: the quinoa is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the quinoa is tender
+
+PREDID: 132
+PRED: been has absorbed
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium-high heat and stir in the ground beef .
+PREDID: 160
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 199
+PRED: stir
+   DOBJ: NULL
+   PARG: the ground beef
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: extra lean ground beef
+
+
+SENTID: 3
+SENT: I would cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 219
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 4
+SENT: I would drain and discard any excess grease ;
+PREDID: 282
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 5
+SENT: I would set beef aside .
+PREDID: 313
+PRED: set
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would heat the olive oil in a large pot over medium heat .
+PREDID: 326
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 7
+SENT: I would stir in the onion , the garlic , and jalapeno pepper ;
+PREDID: 367
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the garlic , jalapeno pepper
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  jalapeno pepper
+         INGREDIENTS: green bell pepper chopped
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 8
+SENT: I would cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 407
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion has softened, turned translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has softened
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 9
+SENT: I would season with chili powder and cumin ;
+PREDID: 477
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder, cumin
+     PREP: with
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+
+
+SENTID: 10
+SENT: I would cook 1 minute more to release the flavor of the spices .
+PREDID: 507
+PRED: cook
+   DOBJ: 1 minute more
+      NON-INGREDIENT SPAN: 1 minute more
+   OARG: to release the flavor of the spices
+      NON-INGREDIENT SPAN: to release the flavor of the spices
+
+
+SENTID: 11
+SENT: I would stir in the tomatoes , black beans , green bell pepper , red bell pepper , the zucchini , the oregano , and parsley .
+PREDID: 552
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomatoes , black beans , green bell pepper , red bell pepper , the zucchini , the oregano , parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano leaves
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: jalapeno pepper seeded minced
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini chopped
+
+
+SENTID: 12
+SENT: I would season to taste with salt and black pepper .
+PREDID: 639
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 13
+SENT: I would simmer until the bell peppers are tender , about 20 minutes .
+PREDID: 675
+PRED: simmer
+   DOBJ: NULL
+   PARG: the bell peppers are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the bell peppers are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 14
+SENT: Once the red and green peppers are tender , I would stir in the quinoa , the beef , and corn kernels .
+PREDID: 760
+PRED: stir
+   DOBJ: NULL
+   PARG: the red, green peppers are tender
+     PREP: once
+      NON-INGREDIENT SPAN: the red
+      NON-INGREDIENT SPAN:  green peppers are tender
+   PARG: the quinoa , the beef , corn kernels
+     PREP: in
+      INGREDIENT SPAN:  corn kernels
+         INGREDIENTS: frozen corn kernels thawed
+      NON-INGREDIENT SPAN:  the beef 
+      NON-INGREDIENT SPAN: the quinoa 
+
+
+SENTID: 15
+SENT: I would return to a simmer , and cook 5 minutes to reheat .
+PREDID: 796
+PRED: return
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 815
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: reheat
+     PREP: to
+      NON-INGREDIENT SPAN: reheat
+
+
+SENTID: 16
+SENT: I would stir in the cilantro to serve .
+PREDID: 836
+PRED: stir
+   DOBJ: NULL
+   PARG: the cilantro to serve
+     PREP: in
+      INGREDIENT SPAN: the cilantro to serve
+         INGREDIENTS: chopped fresh cilantro
+
+

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would drain pineapple , reserving 2 tablespoons juice .
+PREDID: 0
+PRED: drain
+   DOBJ: pineapple
+      INGREDIENT SPAN: pineapple
+         INGREDIENTS: ounce sliced pineapple drained juice reserved
+   OARG: reserving 2 tablespoons juice
+      INGREDIENT SPAN: reserving 2 tablespoons juice
+         INGREDIENTS: lemon juice
+
+
+SENTID: 1
+SENT: I would cut pineapple into thin strips , and place in a large bowl .
+PREDID: 42
+PRED: cut
+   DOBJ: pineapple
+      NON-INGREDIENT SPAN: pineapple
+   PARG: thin strips
+     PREP: into
+      NON-INGREDIENT SPAN: thin strips
+
+PREDID: 72
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: In a medium bowl , I would combine reserved pineapple juice and lemon juice .
+PREDID: 104
+PRED: combine
+   DOBJ: reserved pineapple juice, lemon juice
+      NON-INGREDIENT SPAN:  lemon juice
+      NON-INGREDIENT SPAN: reserved pineapple juice
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 3
+SENT: I would toss with banana , and add to pineapple .
+PREDID: 147
+PRED: toss
+   DOBJ: NULL
+   PARG: banana
+     PREP: with
+      INGREDIENT SPAN: banana
+         INGREDIENTS: banana peeled sliced
+
+PREDID: 165
+PRED: add
+   DOBJ: NULL
+   PARG: pineapple
+     PREP: to
+      NON-INGREDIENT SPAN: pineapple
+
+
+SENTID: 4
+SENT: I would add cabbage , the celery , mandarin oranges , the walnuts and raisins ;
+PREDID: 180
+PRED: add
+   DOBJ: cabbage , the celery , mandarin oranges , the walnuts, raisins
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: shredded cabbage
+
+
+SENTID: 5
+SENT: I would toss to combine .
+PREDID: 232
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 6
+SENT: I would blend yogurt and salt together , and add to cabbage mixture ;
+PREDID: 246
+PRED: blend
+   DOBJ: yogurt, salt
+      INGREDIENT SPAN: yogurt
+         INGREDIENTS: ounce container orange flavored yogurt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 276
+PRED: add
+   DOBJ: NULL
+   PARG: cabbage mixture
+     PREP: to
+      NON-INGREDIENT SPAN: cabbage mixture
+
+
+SENTID: 7
+SENT: I would toss lightly .
+PREDID: 296
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: I would cover , and refrigerate until thoroughly chilled .
+PREDID: 308
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 317
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: thoroughly chilled
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly chilled
+
+

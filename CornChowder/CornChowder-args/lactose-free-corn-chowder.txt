@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: In a 3 quart pot over high heat , I would combine the potatoes with enough water to cover .
+PREDID: 25
+PRED: combine
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled cubed
+   PARG: a 3 quart pot over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 3 quart pot over high heat
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would boil for one hour , adding water to cover potatoes as necessary .
+PREDID: 66
+PRED: boil
+   DOBJ: NULL
+   PARG: one hour
+     PREP: for
+      NON-INGREDIENT SPAN: one hour
+   OARG: adding water to cover potatoes as necessary
+      NON-INGREDIENT SPAN: adding water to cover potatoes as necessary
+
+
+SENTID: 2
+SENT: I would add the celery , the leeks and scallions and boil for another hour .
+PREDID: 119
+PRED: add
+   DOBJ: the celery , the leeks, scallions, boil
+      INGREDIENT SPAN:  the leeks
+         INGREDIENTS: sliced leeks
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  boil
+      NON-INGREDIENT SPAN:  scallions
+   PARG: another hour
+     PREP: for
+      NON-INGREDIENT SPAN: another hour
+
+
+SENTID: 3
+SENT: I would reduce heat to low , add the corn and parsley and heat through .
+PREDID: 171
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 187
+PRED: add
+   DOBJ: the corn, parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: the corn
+         INGREDIENTS: fresh corn kernels
+
+PREDID: 210
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 4
+SENT: I would add the non-dairy creamer just before serving .
+PREDID: 222
+PRED: add
+   DOBJ: the non-dairy creamer
+      INGREDIENT SPAN: the non-dairy creamer
+         INGREDIENTS: nondairy creamer
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 5
+SENT: I would enjoy !
+PREDID: 262
+PRED: enjoy
+   DOBJ: NULL
+
+

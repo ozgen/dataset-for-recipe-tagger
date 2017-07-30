@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would combine eggs , pumpkin puree , sweetened condensed milk , and pumpkin pie spice in a large bowl and mix until combined .
+PREDID: 38
+PRED: combine
+   DOBJ: eggs , pumpkin puree , sweetened condensed milk , pumpkin pie spice in a large bowl
+      INGREDIENT SPAN:  pumpkin puree 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  pumpkin pie spice in a large bowl
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+
+PREDID: 119
+PRED: mix
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 2
+SENT: I would fit pie crust into a 9-inch pie dish ;
+PREDID: 136
+PRED: fit
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked pie crust
+   PARG: a 9-inch pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9-inch pie dish
+
+
+SENTID: 3
+SENT: I would pour pumpkin mixture into the crust .
+PREDID: 166
+PRED: pour
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: the crust
+     PREP: into
+      NON-INGREDIENT SPAN: the crust
+
+
+SENTID: 4
+SENT: I would place pie on a baking sheet and bake in the preheated oven for 15 minutes .
+PREDID: 197
+PRED: place
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+PREDID: 222
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 5
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake until filling is set , 35 to 40 minutes .
+PREDID: 257
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 304
+PRED: bake
+   DOBJ: NULL
+   PARG: filling is set , 35 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+      NON-INGREDIENT SPAN: filling is set 
+
+

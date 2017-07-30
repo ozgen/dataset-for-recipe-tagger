@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would combine first six ingredients ;
+PREDID: 0
+PRED: combine
+   DOBJ: first six ingredients
+      NON-INGREDIENT SPAN: first six ingredients
+
+
+SENTID: 1
+SENT: I would stir well .
+PREDID: 27
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would heat oil in a large skillet and stir-fry chicken until brown and done , about 5 minutes .
+PREDID: 36
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: oil sesame oil
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   OARG: stir-fry chicken until brown, done , about 5 minutes
+      INGREDIENT SPAN: stir-fry chicken until brown
+         INGREDIENTS: boneless skinless chicken breast cut 1inch
+      NON-INGREDIENT SPAN:  done 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would remove .
+PREDID: 108
+PRED: remove
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would add green onions , the peppers and pineapple to the skillet ;
+PREDID: 115
+PRED: add
+   DOBJ: green onions , the peppers, pineapple
+      INGREDIENT SPAN:  the peppers
+         INGREDIENTS: fresh frozen pepper strips
+      INGREDIENT SPAN: green onions 
+         INGREDIENTS: large green onions cut 1inch
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: ounce chunk pineapple juice
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 5
+SENT: I would heat through .
+PREDID: 162
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would pour in sauce and stir until thickened .
+PREDID: 174
+PRED: pour
+   DOBJ: NULL
+   PARG: sauce
+     PREP: in
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: reducedsalt soy sauce
+
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: thickened
+     PREP: until
+      NON-INGREDIENT SPAN: thickened
+
+
+SENTID: 7
+SENT: I would return chicken to skillet ;
+PREDID: 207
+PRED: return
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet
+     PREP: to
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 8
+SENT: I would heat through .
+PREDID: 230
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 9
+SENT: I would serve with brown rice ;
+PREDID: 242
+PRED: serve
+   DOBJ: NULL
+   PARG: brown rice
+     PREP: with
+      NON-INGREDIENT SPAN: brown rice
+
+
+SENTID: 10
+SENT: I would top with optional almonds .
+PREDID: 261
+PRED: top
+   DOBJ: NULL
+   PARG: optional almonds
+     PREP: with
+      INGREDIENT SPAN: optional almonds
+         INGREDIENTS: sliced almonds
+
+

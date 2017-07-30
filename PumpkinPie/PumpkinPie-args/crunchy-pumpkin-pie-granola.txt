@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat an oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: an oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 1
+SENT: I would coat 2 baking sheets with nonstick cooking spray .
+PREDID: 40
+PRED: coat
+   DOBJ: 2 baking sheets
+      NON-INGREDIENT SPAN: 2 baking sheets
+   PARG: nonstick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: nonstick cooking spray
+
+
+SENTID: 2
+SENT: I would combine brown sugar , pumpkin pie spice , rolled oats , the almonds , and pecans in a large bowl .
+PREDID: 82
+PRED: combine
+   DOBJ: brown sugar , pumpkin pie spice , rolled oats , the almonds , pecans in a large bowl
+      INGREDIENT SPAN:  rolled oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  pecans in a large bowl
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: sliced almonds
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 3
+SENT: I would mix the applesauce , the honey , and vanilla in a separate large bowl .
+PREDID: 157
+PRED: mix
+   DOBJ: the applesauce , the honey , vanilla in a separate large bowl
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN:  vanilla in a separate large bowl
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 4
+SENT: I would stir the oat mixture into the applesauce mixture , until granola begins to gather in clusters .
+PREDID: 211
+PRED: stir
+   DOBJ: the oat mixture
+      NON-INGREDIENT SPAN: the oat mixture
+   PARG: the applesauce mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the applesauce mixture
+   PARG: granola begins
+     PREP: until
+      NON-INGREDIENT SPAN: granola begins
+
+
+SENTID: 5
+SENT: I would spoon granola evenly onto prepared baking sheets .
+PREDID: 290
+PRED: spoon
+   DOBJ: granola
+      NON-INGREDIENT SPAN: granola
+   OARG: evenly onto prepared baking sheets
+      NON-INGREDIENT SPAN: evenly onto prepared baking sheets
+
+
+SENTID: 6
+SENT: I would bake in preheated oven , stirring every 20 minutes , until lightly browned and crispy , about 1 hour .
+PREDID: 333
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven , stirring every 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven 
+      NON-INGREDIENT SPAN:  stirring every 20 minutes
+   PARG: lightly browned, crispy , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: lightly browned
+      NON-INGREDIENT SPAN:  crispy 
+
+
+SENTID: 7
+SENT: I would remove from oven ;
+PREDID: 416
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 8
+SENT: I would cool to room temperature .
+PREDID: 431
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+
+SENTID: 9
+SENT: I would stir in raisins and cranberries ;
+PREDID: 453
+PRED: stir
+   DOBJ: NULL
+   PARG: raisins, cranberries
+     PREP: in
+      INGREDIENT SPAN: raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  cranberries
+         INGREDIENTS: dried cranberries
+
+
+SENTID: 10
+SENT: I would store in an airtight container .
+PREDID: 481
+PRED: store
+   DOBJ: NULL
+   PARG: an airtight container
+     PREP: in
+      NON-INGREDIENT SPAN: an airtight container
+
+

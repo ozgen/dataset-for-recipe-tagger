@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet over medium high heat , I would saute the beef and onion for 5 to 10 minutes , or until meat is browned and onion is tender ;
+PREDID: 72
+PRED: saute
+   DOBJ: NULL
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+
+PREDID: 121
+PRED: is browned
+   DOBJ: NULL
+   OARG: onion is tender
+      INGREDIENT SPAN: onion is tender
+         INGREDIENTS: chopped onion
+
+
+SENTID: 2
+SENT: I would drain fat .
+PREDID: 145
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 3
+SENT: I would add the celery , the chili , the tomatoes , taco sauce and corn .
+PREDID: 154
+PRED: add
+   DOBJ: the celery , the chili , the tomatoes , taco sauce, corn
+      INGREDIENT SPAN:  the chili 
+         INGREDIENTS: ounce chili
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce corn
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes juice
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  taco sauce
+         INGREDIENTS: taco sauce
+
+
+SENTID: 4
+SENT: I would heat thoroughly , reduce heat to low and allow to simmer .
+PREDID: 199
+PRED: heat
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 214
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 232
+PRED: allow
+   DOBJ: NULL
+   PARG: simmer
+     PREP: to
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 5
+SENT: I would meanwhile , prepare the noodles according to package directions .
+
+SENTID: 6
+SENT: When cooked , place them in a 9x13 inch baking dish .
+PREDID: 257
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: when cooked
+      NON-INGREDIENT SPAN: when cooked
+
+
+SENTID: 7
+SENT: I would pour the meat mixture over the noodles , stirring well .
+PREDID: 288
+PRED: pour
+   DOBJ: the meat mixture over the noodles , stirring well
+      INGREDIENT SPAN: the meat mixture over the noodles 
+         INGREDIENTS: ounce package egg noodles
+      NON-INGREDIENT SPAN:  stirring well
+
+
+SENTID: 8
+SENT: I would top with the cheese .
+PREDID: 334
+PRED: top
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: with
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 9
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes , or until cheese is completely melted and bubbly .
+PREDID: 351
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- for 20 minutes , or until cheese is completely melted, bubbly
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- for 20 minutes 
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN:  or until cheese is completely melted
+
+

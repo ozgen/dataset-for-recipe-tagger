@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together the pumpkin , the sugar , the salt , the cinnamon , the ginger , the cloves and nutmeg .
+PREDID: 52
+PRED: mix
+   DOBJ: the pumpkin , the sugar , the salt , the cinnamon , the ginger , the cloves, nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: pumpkin
+      INGREDIENT SPAN:  the cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would blend in the eggs , the milk and evaporated milk .
+PREDID: 117
+PRED: blend
+   DOBJ: NULL
+   PARG: the eggs , the milk, evaporated milk
+     PREP: in
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: milk
+
+
+SENTID: 3
+SENT: I would pour the mixture into the pie crust .
+PREDID: 154
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: recipe unbaked inch pie crust
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven 50 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 184
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 50 minutes , or until a knife inserted in the center comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 50 minutes 
+      NON-INGREDIENT SPAN:  or until a knife inserted in the center comes out clean
+
+
+SENTID: 5
+SENT: I would cool on a metal rack before serving .
+PREDID: 262
+PRED: cool
+   DOBJ: NULL
+   PARG: a metal rack
+     PREP: on
+      NON-INGREDIENT SPAN: a metal rack
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

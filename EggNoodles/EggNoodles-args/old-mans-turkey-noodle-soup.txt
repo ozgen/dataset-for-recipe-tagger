@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: I would combine the turkey drumsticks and water in a large soup pot and bring to a boil .
+PREDID: 0
+PRED: combine
+   DOBJ: the turkey drumsticks, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the turkey drumsticks
+         INGREDIENTS: turkey drumsticks
+   PARG: a large soup pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot
+
+PREDID: 52
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would stir in onions , the carrots , the celery , the garlic , the salt , black pepper , the sage , the thyme , the rosemary , and celery salt ;
+PREDID: 65
+PRED: stir
+   DOBJ: NULL
+   PARG: onions , the carrots , the celery , the garlic , the salt , black pepper , the sage , the thyme , the rosemary , celery salt
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots chopped
+      INGREDIENT SPAN:  celery salt
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: ground dried sage
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: large onions chopped
+      NON-INGREDIENT SPAN:  the thyme 
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 2
+SENT: I would reduce heat to a simmer .
+PREDID: 151
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 3
+SENT: I would cook until the turkey meat is very tender , about 2 hours .
+PREDID: 171
+PRED: cook
+   DOBJ: NULL
+   PARG: the turkey meat is very tender , about 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: the turkey meat is very tender 
+      NON-INGREDIENT SPAN:  about 2 hours
+
+
+SENTID: 4
+SENT: I would remove the turkey drumsticks and allow to cool .
+PREDID: 218
+PRED: remove
+   DOBJ: the turkey drumsticks
+      NON-INGREDIENT SPAN: the turkey drumsticks
+
+PREDID: 246
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: When cool enough to handle , strip the meat from the bones and tendons , chop the meat , and return to the soup .
+PREDID: 274
+PRED: handle
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 281
+PRED: strip
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the bones, tendons
+     PREP: from
+      NON-INGREDIENT SPAN:  tendons
+      NON-INGREDIENT SPAN: the bones
+   OARG: when cool enough
+      NON-INGREDIENT SPAN: when cool enough
+
+PREDID: 316
+PRED: chop
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 331
+PRED: return
+   DOBJ: NULL
+   PARG: the soup
+     PREP: to
+      NON-INGREDIENT SPAN: the soup
+
+
+SENTID: 6
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 347
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 385
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 7
+SENT: I would cook the egg noodles a boil until cooked through yet firm to the bite , about 5 minutes .
+PREDID: 405
+PRED: cook
+   DOBJ: NULL
+   OARG: the egg noodles a boil until cooked through yet firm to the bite , about 5 minutes
+      INGREDIENT SPAN: the egg noodles a boil until cooked through yet firm to the bite 
+         INGREDIENTS: uncooked egg noodles
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 8
+SENT: I would drain .
+PREDID: 476
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would scoop noodles into soup bowls and fill the bowls with turkey soup .
+PREDID: 482
+PRED: scoop
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: soup bowls
+     PREP: into
+      NON-INGREDIENT SPAN: soup bowls
+
+PREDID: 510
+PRED: fill
+   DOBJ: the bowls
+      NON-INGREDIENT SPAN: the bowls
+   PARG: turkey soup
+     PREP: with
+      NON-INGREDIENT SPAN: turkey soup
+
+

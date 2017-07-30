@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would mix Dressing ingredients in small bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: Dressing ingredients
+      INGREDIENT SPAN: Dressing ingredients
+         INGREDIENTS: ranch dressing
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+
+
+SENTID: 1
+SENT: I would refrigerate while preparing salad .
+PREDID: 34
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: preparing salad
+     PREP: while
+      NON-INGREDIENT SPAN: preparing salad
+
+
+SENTID: 2
+SENT: I would divide lettuce among 6 dinner plates .
+PREDID: 65
+PRED: divide
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: ounce bag leafy green romaine lettuce
+   PARG: 6 dinner plates
+     PREP: among
+      NON-INGREDIENT SPAN: 6 dinner plates
+
+
+SENTID: 3
+SENT: I would top each with chicken , the tomatoes , the avocado and corn .
+PREDID: 97
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: chicken , the tomatoes , the avocado, corn
+     PREP: with
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: Green Giant whole kernel sweet corn drained
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: shredded deli rotisserie chicken
+      INGREDIENT SPAN:  the avocado
+         INGREDIENTS: medium ripe avocado cut 1inch
+      NON-INGREDIENT SPAN:  the tomatoes 
+
+
+SENTID: 4
+SENT: I would drizzle with dressing ;
+PREDID: 140
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 5
+SENT: I would sprinkle with red onion .
+PREDID: 160
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: red onion
+     PREP: with
+      INGREDIENT SPAN: red onion
+         INGREDIENTS: bitesize sliced red onion
+
+
+SENTID: 6
+SENT: I would serve with or sprinkle with broken or crushed taco shells .
+PREDID: 181
+PRED: serve
+   DOBJ: NULL
+   OARG: with
+      NON-INGREDIENT SPAN: with
+
+PREDID: 192
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: broken or crushed taco shells
+     PREP: with
+      INGREDIENT SPAN: broken or crushed taco shells
+         INGREDIENTS: Old El Paso taco shells broken large crushed
+
+

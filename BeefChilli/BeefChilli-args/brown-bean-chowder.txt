@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would place the beans and water in a large pot .
+PREDID: 0
+PRED: place
+   DOBJ: the beans, water in a large pot
+      INGREDIENT SPAN:  water in a large pot
+         INGREDIENTS: water
+      INGREDIENT SPAN: the beans
+         INGREDIENTS: dried pinto beans
+
+
+SENTID: 1
+SENT: I would bring to a boil , and cook until the beans are almost tender , about 1?1/2 hours .
+PREDID: 33
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: the beans are almost tender , about 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: the beans are almost tender 
+
+
+SENTID: 2
+SENT: I would season with 1?1/2 teaspoons of chili powder , and 1?1/2 teaspoons of salt .
+PREDID: 98
+PRED: season
+   DOBJ: NULL
+   PARG: 1?1/2 teaspoons of chili powder , 1?1/2 teaspoons of salt
+     PREP: with
+      INGREDIENT SPAN:  1?1/2 teaspoons of salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: 1?1/2 teaspoons of chili powder 
+         INGREDIENTS: chili powder
+
+
+SENTID: 3
+SENT: While the beans are cooking , I would crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 184
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the beans are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the beans are cooking
+   PARG: a large skillet over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 4
+SENT: I would add onion and garlic ;
+PREDID: 241
+PRED: add
+   DOBJ: NULL
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: medium onion chopped
+
+
+SENTID: 5
+SENT: I would cook and stir until onion is tender and meat is browned .
+PREDID: 259
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onion is tender, meat is browned
+     PREP: until
+      NON-INGREDIENT SPAN:  meat is browned
+      NON-INGREDIENT SPAN: onion is tender
+
+
+SENTID: 6
+SENT: I would drain off excess grease , and stir in the tomato puree , 1 tablespoon chili powder , 1 tablespoon salt and bread crumbs .
+PREDID: 305
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 329
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato puree , 1 tablespoon chili powder , 1 tablespoon salt, bread crumbs
+     PREP: in
+      INGREDIENT SPAN:  1 tablespoon chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  1 tablespoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the tomato puree 
+         INGREDIENTS: tomato puree
+
+
+SENTID: 7
+SENT: I would stir into the pot with the beans , adding more water if needed to achieve your desired thickness .
+PREDID: 403
+PRED: stir
+   DOBJ: NULL
+   PARG: the pot with the beans
+     PREP: into
+      NON-INGREDIENT SPAN: the pot with the beans
+   OARG: adding more water if needed to achieve your desired thickness
+      NON-INGREDIENT SPAN: adding more water if needed to achieve your desired thickness
+
+
+SENTID: 8
+SENT: I would taste and adjust seasonings if you like before serving .
+PREDID: 483
+PRED: taste and adjust
+   DOBJ: seasonings
+      NON-INGREDIENT SPAN: seasonings
+   PARG: you like before serving
+     PREP: if
+      NON-INGREDIENT SPAN: you like before serving
+
+

@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would scoop yolks from egg halves into a bowl .
+PREDID: 0
+PRED: scoop
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: egg halves
+     PREP: from
+      INGREDIENT SPAN: egg halves
+         INGREDIENTS: hardcooked eggs peeled sliced half lengthwise
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would mash the yolks with mayonnaise , yellow mustard , spicy brown mustard , black pepper , white vinegar , the sugar , and sweetened condensed milk until the mixture is smooth .
+PREDID: 33
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: mayonnaise , yellow mustard , spicy brown mustard , black pepper , white vinegar , the sugar , sweetened condensed milk
+     PREP: with
+      INGREDIENT SPAN:  white vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  sweetened condensed milk
+         INGREDIENTS: sweetened condensed milk more taste
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  spicy brown mustard 
+         INGREDIENTS: spicy brown mustard
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: the mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is smooth
+
+
+SENTID: 2
+SENT: I would spoon yolk filling into egg halves and sprinkle each deviled egg with paprika ;
+PREDID: 172
+PRED: spoon
+   DOBJ: yolk filling into egg halves
+      NON-INGREDIENT SPAN: yolk filling into egg halves
+
+PREDID: 204
+PRED: sprinkle
+   DOBJ: each deviled egg
+      NON-INGREDIENT SPAN: each deviled egg
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+
+SENTID: 3
+SENT: I would top deviled eggs with 2 slices of black olive .
+PREDID: 238
+PRED: top
+   DOBJ: deviled eggs
+      NON-INGREDIENT SPAN: deviled eggs
+   PARG: 2 slices of black olive
+     PREP: with
+      INGREDIENT SPAN: 2 slices of black olive
+         INGREDIENTS: slices black olives
+
+

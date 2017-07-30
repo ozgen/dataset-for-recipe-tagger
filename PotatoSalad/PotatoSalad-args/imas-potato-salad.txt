@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: russet potatoes peeled
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil over high heat ,
+PREDID: 53
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , about 20 minutes .
+PREDID: 78
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 113
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and allow to steam dry for a minute or two .
+PREDID: 143
+PRED: drain and allow
+   DOBJ: NULL
+   PARG: steam dry for a minute or two
+     PREP: to
+      NON-INGREDIENT SPAN: steam dry for a minute or two
+
+
+SENTID: 4
+SENT: I would finely chop the hard-cooked eggs and the pickles .
+PREDID: 188
+PRED: chop
+   DOBJ: the hard-cooked eggs, the pickles
+      INGREDIENT SPAN:  the pickles
+         INGREDIENTS: Israelistyle pickles chopped
+      INGREDIENT SPAN: the hard-cooked eggs
+         INGREDIENTS: hardcooked eggs chopped
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+
+SENTID: 5
+SENT: When they 're cool enough to handle , cube the potatoes and transfer them to a 9x13-inch dish .
+PREDID: 254
+PRED: cube
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: when they 're cool enough
+      NON-INGREDIENT SPAN: when they 're cool enough
+
+PREDID: 272
+PRED: transfer
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a 9x13-inch dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13-inch dish
+
+
+SENTID: 6
+SENT: I would stir in the chopped eggs , the pickles , the mayonnaise , the mustard , and the peas and carrots and mix gently to combine .
+PREDID: 301
+PRED: stir
+   DOBJ: NULL
+   PARG: the chopped eggs , the pickles , the mayonnaise , the mustard , the peas, carrots
+     PREP: in
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: spicy mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: frozen peas carrots
+      NON-INGREDIENT SPAN: the chopped eggs 
+      NON-INGREDIENT SPAN:  the pickles 
+      NON-INGREDIENT SPAN:  carrots
+
+PREDID: 381
+PRED: mix
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 7
+SENT: I would season to taste with salt and pepper .
+PREDID: 391
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would serve immediately , or refrigerate the salad before serving .
+PREDID: 422
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 441
+PRED: refrigerate
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

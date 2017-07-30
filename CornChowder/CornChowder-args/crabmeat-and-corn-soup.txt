@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: In a heavy-bottomed pot , I would melt butter , add flour , and stir gently until blended ;
+PREDID: 21
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a heavy-bottomed pot
+     PREP: in
+      NON-INGREDIENT SPAN: a heavy-bottomed pot
+
+PREDID: 32
+PRED: add
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 44
+PRED: stir
+   DOBJ: NULL
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 1
+SENT: do not burn or let it darken .
+
+SENTID: 2
+SENT: I would add milk gradually , stirring all the while ,
+PREDID: 67
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: whole milk
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: stirring all the while
+      NON-INGREDIENT SPAN: stirring all the while
+
+
+SENTID: 3
+SENT: I would add half and half , stirring gently while blending .
+PREDID: 104
+PRED: add
+   DOBJ: NULL
+   OARG: half, half
+      NON-INGREDIENT SPAN: half
+      NON-INGREDIENT SPAN:  half
+   OARG: stirring gently while blending
+      NON-INGREDIENT SPAN: stirring gently while blending
+
+
+SENTID: 4
+SENT: I would add corn and green onions , and cook for a few minutes until tender .
+PREDID: 147
+PRED: add
+   DOBJ: corn, green onions
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN: corn
+         INGREDIENTS: whole kernel corn
+
+PREDID: 172
+PRED: cook
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 5
+SENT: I would add crabmeat , the pepper , the salt , and soy sauce and simmer until very hot and small bubbles form around the edge ;
+PREDID: 202
+PRED: add
+   DOBJ: crabmeat , the pepper , the salt , soy sauce, simmer
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground white pepper
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: crabmeat 
+   PARG: very hot, small bubbles form
+     PREP: until
+      NON-INGREDIENT SPAN:  small bubbles form
+      NON-INGREDIENT SPAN: very hot
+   PARG: the edge
+     PREP: around
+      NON-INGREDIENT SPAN: the edge
+
+
+SENTID: 6
+SENT: do not let boil .
+
+SENTID: 7
+SENT: I would adjust seasonings to taste .
+PREDID: 291
+PRED: adjust
+   DOBJ: seasonings
+      NON-INGREDIENT SPAN: seasonings
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 8
+SENT: I would garnish with sprinkles of chopped fresh parsley when serving and serve hot .
+PREDID: 315
+PRED: garnish
+   DOBJ: NULL
+   PARG: sprinkles of chopped fresh parsley
+     PREP: with
+      INGREDIENT SPAN: sprinkles of chopped fresh parsley
+         INGREDIENTS: chopped parsley
+   OARG: when serving
+      NON-INGREDIENT SPAN: when serving
+
+
+SENTID: 9
+SENT: I would variations :
+PREDID: 379
+PRED: variations
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: You may use 4 cobs of fresh corn instead of frozen or canned .
+
+SENTID: 11
+SENT: I would cut the kernels off the cob , scrape cob for juices , and
+PREDID: 390
+PRED: cut
+   DOBJ: the kernels
+      NON-INGREDIENT SPAN: the kernels
+   PARG: the cob , scrape cob for juices , and
+     PREP: off
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: the cob 
+      NON-INGREDIENT SPAN:  scrape cob for juices 
+
+
+SENTID: 12
+SENT: I would add to soup .
+PREDID: 435
+PRED: add
+   DOBJ: NULL
+   PARG: soup
+     PREP: to
+      NON-INGREDIENT SPAN: soup
+
+
+SENTID: 13
+SENT: I would cook until corn is tender .
+PREDID: 445
+PRED: cook
+   DOBJ: NULL
+   PARG: corn is tender
+     PREP: until
+      NON-INGREDIENT SPAN: corn is tender
+
+
+SENTID: 14
+SENT: I would canned crabmeat or imitation crab may be used instead of fresh crabmeat .
+PREDID: 467
+PRED: canned
+   DOBJ: crabmeat or imitation crab may be used instead of fresh crabmeat
+      INGREDIENT SPAN: crabmeat or imitation crab may be used instead of fresh crabmeat
+         INGREDIENTS: fresh crab meat
+
+
+SENTID: 15
+SENT: I would use one 7?1/2 - ounce can crabmeat -LRB- drained -RRB- and 8 ounces imitation crab -LRB- cut into small pieces -RRB- .
+PREDID: 528
+PRED: use
+   DOBJ: one 7?1/2
+      NON-INGREDIENT SPAN: one 7?1/2
+   OARG: ounce can crabmeat -lrb- drained -rrb-, 8 ounces imitation crab -lrb- cut into small pieces
+      NON-INGREDIENT SPAN:  8 ounces imitation crab -lrb- cut into small pieces
+      NON-INGREDIENT SPAN: ounce can crabmeat -lrb- drained -rrb-
+
+
+SENTID: 16
+SENT: I would combine the two and cook as noted above .
+PREDID: 609
+PRED: combine
+   DOBJ: the two
+      NON-INGREDIENT SPAN: the two
+
+PREDID: 625
+PRED: cook
+   DOBJ: NULL
+   PARG: noted above
+     PREP: as
+      NON-INGREDIENT SPAN: noted above
+
+

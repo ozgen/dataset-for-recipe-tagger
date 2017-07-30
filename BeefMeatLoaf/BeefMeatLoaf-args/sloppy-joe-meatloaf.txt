@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would line a baking sheet with aluminum foil .
+PREDID: 38
+PRED: line
+   DOBJ: a baking sheet with aluminum foil
+      NON-INGREDIENT SPAN: a baking sheet with aluminum foil
+
+
+SENTID: 2
+SENT: In a bowl , I would mix together the onion , the celery , tomato paste , sloppy joe mix , bread crumbs , and egg .
+PREDID: 79
+PRED: mix
+   DOBJ: the onion , the celery , tomato paste , sloppy joe mix , bread crumbs , egg
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: small onion minced
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery minced
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  sloppy joe mix 
+         INGREDIENTS: ounce envelope sloppy joe seasoning mix
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would work in the ground beef lightly with your fingers until thoroughly combined .
+PREDID: 150
+PRED: work
+   DOBJ: NULL
+   PARG: the ground beef
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: your fingers
+     PREP: with
+      NON-INGREDIENT SPAN: your fingers
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 4
+SENT: I would shape the mixture into a loaf shape , and place on the prepared baking sheet .
+PREDID: 215
+PRED: shape
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+PREDID: 248
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+
+SENTID: 5
+SENT: I would lay bacon strips across the loaf crosswise , overlapping if necessary .
+PREDID: 278
+PRED: lay
+   DOBJ: bacon strips
+      INGREDIENT SPAN: bacon strips
+         INGREDIENTS: slices bacon
+   PARG: the loaf crosswise
+     PREP: across
+      NON-INGREDIENT SPAN: the loaf crosswise
+   OARG: overlapping if necessary
+      NON-INGREDIENT SPAN: overlapping if necessary
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 30 minutes ,
+PREDID: 338
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+
+
+SENTID: 7
+SENT: I would decrease temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 373
+PRED: decrease
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 8
+SENT: I would bake until the meat loaf is no longer pink inside and the juices run clear , about 30 more minutes .
+PREDID: 419
+PRED: bake
+   DOBJ: NULL
+   PARG: the meat loaf is no longer pink inside
+     PREP: until
+      NON-INGREDIENT SPAN: the meat loaf is no longer pink inside
+   OARG: the juices run clear , about 30 more minutes
+      NON-INGREDIENT SPAN:  about 30 more minutes
+      NON-INGREDIENT SPAN: the juices run clear 
+
+
+SENTID: 9
+SENT: I would use a bulb baster to remove the accumulating grease several times during baking .
+PREDID: 499
+PRED: use
+   DOBJ: a bulb baster
+      NON-INGREDIENT SPAN: a bulb baster
+   OARG: to remove the accumulating grease several times during baking
+      NON-INGREDIENT SPAN: to remove the accumulating grease several times during baking
+
+
+SENTID: 10
+SENT: I would allow to stand for 10 minutes before slicing .
+PREDID: 564
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 10 minutes before slicing
+      NON-INGREDIENT SPAN: to stand for 10 minutes before slicing
+
+

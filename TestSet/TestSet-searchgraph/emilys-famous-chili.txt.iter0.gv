@@ -1,0 +1,86 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="return
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="season
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="puree
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="combine
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="shake
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="pour
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="stir
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="simmer
+14", shape=oval, style=filled, fillcolor=azure]
+D8[label="DOBJ: Italianstyle stewed tomatoes", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="LOCOROBJ:in a food processor or blender", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+P8_1[label="COOBJECT:with ground black pepper", shape=box, style=filled, fillcolor=peachpuff]
+P8_1 -> E8
+P8_2[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P8_2 -> E8
+D0[label="DOBJ: lean ground beef", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a large pot over medium-high heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="OTHER:until brown", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:to pot", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: in red bell peppers and, onion, jalapeno peppers and", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="DURATION:until tender", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: in cloves garlic minced", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+P5_0_0[label="COOBJECT:in cook 1", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: with chili powder, chipotle peppers adobo sauce, ground cumin, salt", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: in kidney beans liquid, tomato paste", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_ing[label="COOBJECT: into water", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+D10_ing[label="DOBJ: water", shape=box, style=filled, fillcolor=peachpuff]
+D10_ing -> E10
+E9 -> E10 [label="IMPLICIT PREP"]
+P10_1_ing[label="COOBJECT: with allpurpose flour", shape=box, style=filled, fillcolor=peachpuff]
+P10_1_ing -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E7 -> E12 [label="LOCOROBJ:into the chili"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_ing[label="COOBJECT: in rice vinegar", shape=box, style=filled, fillcolor=peachpuff]
+P13_0_ing -> E13
+E13 -> E14 [label="about 45 minutes"]
+P14_0_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E14 -> EOR
+}

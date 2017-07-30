@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook pasta in the boiling water , stirring occasionally , until cooked through but firm to the bite , 12 minutes ;
+PREDID: 42
+PRED: cook
+   DOBJ: NULL
+   PARG: pasta in the boiling water , stirring occasionally , until cooked through but firm to the bite , 12 minutes
+     PREP: for
+      INGREDIENT SPAN:  until cooked through but firm to the bite 
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN: pasta in the boiling water 
+         INGREDIENTS: fusilli spiral pasta
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  12 minutes
+
+
+SENTID: 2
+SENT: I would drain , rinse in cold water , and drain again .
+PREDID: 135
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: in
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 161
+PRED: drain
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 3
+SENT: I would toss pasta , the chicken , the onion , the cranberries , the celery , and almonds together in a salad bowl ;
+PREDID: 172
+PRED: toss
+   DOBJ: pasta , the chicken , the onion , the cranberries , the celery , almonds
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: pasta 
+      NON-INGREDIENT SPAN:  the chicken 
+   PARG: a salad bowl
+     PREP: in
+      INGREDIENT SPAN: a salad bowl
+         INGREDIENTS: poppy seed salad dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would drizzle with poppy seed dressing and stir to coat .
+PREDID: 246
+PRED: drizzle
+   DOBJ: NULL
+   PARG: poppy seed dressing
+     PREP: with
+      NON-INGREDIENT SPAN: poppy seed dressing
+
+PREDID: 277
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

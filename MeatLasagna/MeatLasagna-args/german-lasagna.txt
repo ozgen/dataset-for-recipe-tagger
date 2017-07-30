@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a blender or with an electric mixer , I would blend mushroom soup , cream of chicken soup and milk until smooth .
+PREDID: 163
+PRED: blend
+   DOBJ: mushroom soup , cream of chicken soup, milk
+      INGREDIENT SPAN: mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cream of chicken soup
+         INGREDIENTS: ounce condensed cream chicken soup
+   PARG: a blender or with an electric mixer
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or with an electric mixer
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would cut sausage in half lengthwise and slice thinly .
+PREDID: 218
+PRED: cut
+   DOBJ: sausage
+      NON-INGREDIENT SPAN: sausage
+   PARG: half lengthwise, slice thinly
+     PREP: in
+      NON-INGREDIENT SPAN:  slice thinly
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 6
+SENT: In a 9x13 inch dish , I would layer 1 cup soup mixture , 3 noodles , half the sauerkraut , half the sausage and a third of the cheese .
+PREDID: 275
+PRED: layer
+   DOBJ: 1 cup soup mixture , 3 noodles , half the sauerkraut , half the sausage, a third of the cheese
+      INGREDIENT SPAN:  a third of the cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  3 noodles 
+         INGREDIENTS: lasagna noodles
+      INGREDIENT SPAN:  half the sauerkraut 
+         INGREDIENTS: ounce sauerkraut drained
+      NON-INGREDIENT SPAN: 1 cup soup mixture 
+      NON-INGREDIENT SPAN:  half the sausage
+   PARG: a 9x13 inch dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch dish
+
+
+SENTID: 7
+SENT: I would repeat .
+PREDID: 358
+PRED: repeat
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would top with remaining 3 noodles and remaining soup mixture .
+PREDID: 365
+PRED: top
+   DOBJ: NULL
+   PARG: remaining 3 noodles, remaining soup mixture
+     PREP: with
+      INGREDIENT SPAN: remaining 3 noodles
+         INGREDIENTS: lasagna noodles
+      NON-INGREDIENT SPAN:  remaining soup mixture
+
+
+SENTID: 9
+SENT: I would cover with foil .
+PREDID: 413
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 10
+SENT: I would bake in preheated oven 25 minutes ,
+PREDID: 427
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+
+SENTID: 11
+SENT: I would uncover and bake 15 minutes more .
+PREDID: 456
+PRED: uncover and bake
+   DOBJ: NULL
+   OARG: 15 minutes more
+      NON-INGREDIENT SPAN: 15 minutes more
+
+
+SENTID: 12
+SENT: I would sprinkle with remaining cheese when still hot .
+PREDID: 484
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining cheese
+   OARG: when still hot
+      NON-INGREDIENT SPAN: when still hot
+
+

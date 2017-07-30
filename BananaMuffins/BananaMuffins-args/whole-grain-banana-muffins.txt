@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 12 cup muffin tin .
+PREDID: 38
+PRED: grease
+   DOBJ: a 12 cup muffin tin
+      NON-INGREDIENT SPAN: a 12 cup muffin tin
+
+
+SENTID: 2
+SENT: In a large bowl , I would whisk together whole wheat flours , oat bran , the sugar , baking powder , and salt .
+PREDID: 73
+PRED: whisk
+   DOBJ: whole wheat flours , oat bran , the sugar , baking powder , salt
+      INGREDIENT SPAN: whole wheat flours 
+         INGREDIENTS: whole wheat pastry flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  oat bran 
+         INGREDIENTS: oat bran
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in raisins .
+PREDID: 138
+PRED: stir
+   DOBJ: NULL
+   PARG: raisins
+     PREP: in
+      INGREDIENT SPAN: raisins
+         INGREDIENTS: raisins
+
+
+SENTID: 4
+SENT: In another bowl , I would mix together yogurt , sour cream , the applesauce , maple syrup , egg whites , the vanilla , and bananas .
+PREDID: 166
+PRED: mix
+   DOBJ: yogurt , sour cream , the applesauce , maple syrup , egg whites , the vanilla , bananas
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: unsweetened applesauce
+      INGREDIENT SPAN: yogurt 
+         INGREDIENTS: nonfat plain yogurt
+      INGREDIENT SPAN:  egg whites 
+         INGREDIENTS: egg whites
+      INGREDIENT SPAN:  bananas
+         INGREDIENTS: small ripe bananas mashed
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: low fat sour cream
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour yogurt mixture into flour mixture , and mix just enough to combine .
+PREDID: 245
+PRED: pour
+   DOBJ: yogurt mixture
+      NON-INGREDIENT SPAN: yogurt mixture
+   PARG: flour mixture
+     PREP: into
+      INGREDIENT SPAN: flour mixture
+         INGREDIENTS: whole wheat flour
+
+PREDID: 282
+PRED: mix
+   DOBJ: NULL
+   OARG: just enough
+      NON-INGREDIENT SPAN: just enough
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 6
+SENT: I would spoon batter into muffin cups .
+PREDID: 305
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: muffin cups
+
+
+SENTID: 7
+SENT: I would sprinkle one teaspoon pecans over batter in each cup .
+PREDID: 331
+PRED: sprinkle
+   DOBJ: one teaspoon pecans
+      INGREDIENT SPAN: one teaspoon pecans
+         INGREDIENTS: chopped pecans
+   PARG: batter in each cup
+     PREP: over
+      NON-INGREDIENT SPAN: batter in each cup
+
+
+SENTID: 8
+SENT: I would bake muffins in preheated oven for 15 to 20 minutes .
+PREDID: 376
+PRED: bake
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: preheated oven for 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 to 20 minutes
+
+
+SENTID: 9
+SENT: I would remove from oven , and transfer muffins to a wire rack to cool .
+PREDID: 419
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+   OARG: transfer muffins to a wire rack to cool
+      NON-INGREDIENT SPAN: transfer muffins to a wire rack to cool
+
+

@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: In a medium pot the cook egg noodles in boiling salted water .
+
+SENTID: 1
+SENT: When pasta is 3 minutes away from being cooked , add in frozen peas or broccoli .
+PREDID: 86
+PRED: add
+   DOBJ: NULL
+   PARG: frozen peas or broccoli
+     PREP: in
+      INGREDIENT SPAN: frozen peas or broccoli
+         INGREDIENTS: frozen green peas
+   OARG: when pasta is 3 minutes away from being cooked
+      NON-INGREDIENT SPAN: when pasta is 3 minutes away from being cooked
+
+
+SENTID: 2
+SENT: I would cook until vegetables and noodles are tender .
+PREDID: 112
+PRED: cook
+   DOBJ: NULL
+   PARG: vegetables, noodles are tender
+     PREP: until
+      INGREDIENT SPAN:  noodles are tender
+         INGREDIENTS: wide egg noodles
+      NON-INGREDIENT SPAN: vegetables
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 151
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would meanwhile , boil the chicken in a medium saucepan until cooked completely .
+PREDID: 171
+PRED: boil
+   DOBJ: the chicken in a medium saucepan until cooked completely
+      INGREDIENT SPAN: the chicken in a medium saucepan until cooked completely
+         INGREDIENTS: skinless boneless chicken breast halves
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would drain chicken and cut into bit size pieces .
+PREDID: 224
+PRED: drain
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 239
+PRED: cut
+   DOBJ: NULL
+   PARG: bit size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bit size pieces
+
+
+SENTID: 6
+SENT: In a large saucepan mix cream of mushroom soup and milk until warm and lumps are dissolved .
+PREDID: 325
+PRED: are dissolved
+   DOBJ: NULL
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 7
+SENT: To the large saucepan add the cooked and chopped chicken , the noodles and vegetables .
+
+SENTID: 8
+SENT: I would blend ingredients with the milk and soup mixture .
+PREDID: 404
+PRED: blend
+   DOBJ: ingredients
+      NON-INGREDIENT SPAN: ingredients
+   PARG: the milk, soup mixture
+     PREP: with
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  soup mixture
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+
+SENTID: 9
+SENT: I would stir in grated mozzarella cheese until melted .
+PREDID: 446
+PRED: stir
+   DOBJ: NULL
+   PARG: grated mozzarella cheese
+     PREP: in
+      INGREDIENT SPAN: grated mozzarella cheese
+         INGREDIENTS: mozzarella cheese
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 10
+SENT: I would serve warm .
+PREDID: 486
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

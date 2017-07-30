@@ -1,0 +1,75 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="slip
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="repeat
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="place
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="separate
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir in
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="dice
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="pour in
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="season
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="stir
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="spread
+12", shape=oval, style=filled, fillcolor=azure]
+D7[label="DOBJ: the jalapenos", shape=box, style=filled, fillcolor=peachpuff]
+D7 -> E7
+O7_0[label="OTHER: reserving the liquid", shape=box, style=filled, fillcolor=white]
+O7_0 -> E7
+D0[label="DOBJ: oil", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large heavy skillet", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over medium-high heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D4[label="DOBJ: the chicken", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+D1_ing[label="DOBJ: a tortilla", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="COOBJECT:into the hot oil"]
+O1_0_0[label="OTHER: one at a time", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCATION:to paper towels", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+O2_0_0[label="OTHER: when crisp and brown", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+P3_0_0[label="COOBJECT:with remaining tortillas", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E2 -> E3 [label="IMPLICIT OTHER"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: with a fork", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: the mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="IMPLICIT PREP"]
+E7 -> E8 [label="them"]
+E6 -> E8 [label="COOBJECT:into chicken salad"]
+E7 -> E9 [label="1 tablespoon jalapeno juice"]
+E8 -> E9 [label="IMPLICIT PREP"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: with pepper, salt", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+O11_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="the chicken salad"]
+E3 -> E12 [label="COOBJECT:on the tostadas"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

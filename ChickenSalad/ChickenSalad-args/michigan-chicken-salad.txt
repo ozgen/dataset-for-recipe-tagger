@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: I would combine the chicken , the celery , the onion , and cherries in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the chicken , the celery , the onion , cherries in a bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  cherries in a bowl
+         INGREDIENTS: chopped dried cherries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: diced cooked chicken
+
+
+SENTID: 1
+SENT: I would whisk together the mayonnaise , the mustard , and poultry seasoning in a separate bowl ;
+PREDID: 50
+PRED: whisk
+   DOBJ: the mayonnaise , the mustard , poultry seasoning in a separate bowl
+      INGREDIENT SPAN:  poultry seasoning in a separate bowl
+         INGREDIENTS: poultry seasoning
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the chicken mixture and toss to combine .
+PREDID: 120
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 148
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 3
+SENT: I would season with pepper .
+PREDID: 162
+PRED: season
+   DOBJ: NULL
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper taste
+
+
+SENTID: 4
+SENT: I would chill at least 30 minutes before serving .
+PREDID: 179
+PRED: chill
+   DOBJ: NULL
+   PARG: least 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 30 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

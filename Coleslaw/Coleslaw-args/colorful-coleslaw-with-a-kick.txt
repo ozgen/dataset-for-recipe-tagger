@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: In a large bowl , I would combine green cabbage , red cabbage , red bell pepper , yellow bell pepper , red onion , the carrots , and cilantro .
+PREDID: 13
+PRED: combine
+   DOBJ: green cabbage , red cabbage , red bell pepper , yellow bell pepper , red onion , the carrots , cilantro
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  yellow bell pepper 
+         INGREDIENTS: yellow bell pepper sliced
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN: green cabbage 
+         INGREDIENTS: medium head red cabbage shredded
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  red cabbage 
+         INGREDIENTS: medium head green cabbage shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a small bowl , I would mix together olive oil , lime juice , the cumin , the garlic , and hot pepper sauce .
+PREDID: 117
+PRED: mix
+   DOBJ: olive oil , lime juice , the cumin , the garlic , hot pepper sauce
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: light olive oil
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: hot pepper sauce taste
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would toss the dressing with cabbage mixture until evenly coated .
+PREDID: 178
+PRED: toss
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: cabbage mixture
+     PREP: with
+      NON-INGREDIENT SPAN: cabbage mixture
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 3
+SENT: I would season with salt and pepper .
+PREDID: 226
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would let the stand 30 to 60 minutes before serving .
+PREDID: 250
+PRED: let
+   DOBJ: NULL
+   PARG: the stand 30 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the stand 30 to 60 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

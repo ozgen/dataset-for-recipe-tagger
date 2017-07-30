@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: I would stir together fruit syrup and peanut butter until smooth .
+PREDID: 0
+PRED: stir
+   DOBJ: fruit syrup, peanut butter
+      INGREDIENT SPAN:  peanut butter
+         INGREDIENTS: JIF Creamy Peanut Butter, butter
+      INGREDIENT SPAN:  peanut butter
+         INGREDIENTS: JIF Creamy Peanut Butter, butter
+      INGREDIENT SPAN: fruit syrup
+         INGREDIENTS: SMUCKER Strawberry Fruit Syurp
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add softened cream cheese .
+PREDID: 49
+PRED: add
+   DOBJ: softened cream cheese
+      INGREDIENT SPAN: softened cream cheese
+         INGREDIENTS: cream cheese softened
+
+
+SENTID: 2
+SENT: I would stir until blended .
+PREDID: 72
+PRED: stir
+   DOBJ: NULL
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 3
+SENT: I would spread mixture evenly on 8 slices of bread .
+PREDID: 89
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: 8 slices of bread
+     PREP: on
+      INGREDIENT SPAN: 8 slices of bread
+         INGREDIENTS: slices Italian bread
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 4
+SENT: I would place banana slices on top of 4 slices of bread .
+PREDID: 125
+PRED: place
+   DOBJ: banana slices
+      INGREDIENT SPAN: banana slices
+         INGREDIENTS: medium bananas cut slices 1/4inch thick
+   PARG: top of 4 slices of bread
+     PREP: on
+      INGREDIENT SPAN: top of 4 slices of bread
+         INGREDIENTS: slices Italian bread
+
+
+SENTID: 5
+SENT: I would top with peanut butter covered bread slices to make 4 sandwiches .
+PREDID: 164
+PRED: top
+   DOBJ: NULL
+   PARG: peanut butter covered bread slices to make 4 sandwiches
+     PREP: with
+      INGREDIENT SPAN: peanut butter covered bread slices to make 4 sandwiches
+         INGREDIENTS: slices Italian bread
+
+
+SENTID: 6
+SENT: I would whisk together eggs and milk in a shallow bowl .
+PREDID: 219
+PRED: whisk
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: large eggs
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 239
+PRED: milk
+   DOBJ: NULL
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+
+
+SENTID: 7
+SENT: I would melt butter in skillet or on griddle over medium heat .
+PREDID: 258
+PRED: melt
+   DOBJ: butter
+      NON-INGREDIENT SPAN: butter
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 8
+SENT: I would dip both sides of each `` sandwich '' in egg mixture , letting it soak in slightly .
+PREDID: 303
+PRED: dip
+   DOBJ: both sides of each `` sandwich '' in egg mixture
+      NON-INGREDIENT SPAN: both sides of each `` sandwich '' in egg mixture
+   OARG: letting it soak in slightly
+      NON-INGREDIENT SPAN: letting it soak in slightly
+
+
+SENTID: 9
+SENT: I would cook in hot skillet or on griddle , 2 minutes or until golden brown .
+PREDID: 370
+PRED: cook
+   DOBJ: NULL
+   PARG: hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: hot skillet
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+   OARG: or
+      NON-INGREDIENT SPAN: or
+
+
+SENTID: 10
+SENT: I would turn , cooking another 2 minutes or until golden .
+PREDID: 425
+PRED: turn
+   DOBJ: NULL
+   PARG: until golden
+     PREP: or
+      NON-INGREDIENT SPAN: until golden
+
+PREDID: 430
+PRED: cooking
+   DOBJ: NULL
+   PARG: another 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 2 minutes
+
+
+SENTID: 11
+SENT: I would serve immediately topped with additional strawberry syrup and whipped cream , if desired .
+PREDID: 466
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 482
+PRED: topped
+   DOBJ: NULL
+   PARG: additional strawberry syrup
+     PREP: with
+      NON-INGREDIENT SPAN: additional strawberry syrup
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 520
+PRED: whipped
+   DOBJ: cream
+      INGREDIENT SPAN: cream
+         INGREDIENTS: Whipped cream
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

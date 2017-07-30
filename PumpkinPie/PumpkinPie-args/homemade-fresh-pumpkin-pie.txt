@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would prepare pie crust by mixing together the flour and salt .
+PREDID: 38
+PRED: prepare
+   DOBJ: pie crust
+      NON-INGREDIENT SPAN: pie crust
+   PARG: mixing together the flour, salt
+     PREP: by
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: mixing together the flour
+         INGREDIENTS: all-purpose flour
+
+
+SENTID: 2
+SENT: I would cut the shortening into flour , add 1 tablespoon water to mixture at a time .
+PREDID: 85
+PRED: cut
+   DOBJ: the shortening
+      INGREDIENT SPAN: the shortening
+         INGREDIENTS: shortening
+   PARG: flour
+     PREP: into
+      NON-INGREDIENT SPAN: flour
+
+PREDID: 111
+PRED: add
+   DOBJ: 1 tablespoon water
+      INGREDIENT SPAN: 1 tablespoon water
+         INGREDIENTS: cold water
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 3
+SENT: I would mix dough and repeat until dough is moist enough to hold together .
+PREDID: 144
+PRED: mix
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+
+PREDID: 155
+PRED: repeat
+   DOBJ: NULL
+   PARG: dough is moist enough
+     PREP: until
+      NON-INGREDIENT SPAN: dough is moist enough
+
+
+SENTID: 4
+SENT: With lightly floured hands shape dough into a ball .
+
+SENTID: 5
+SENT: On a lightly floured board roll dough out to 1/8 inch thickness .
+
+SENTID: 6
+SENT: With a sharp knife , I would cut dough 1?1/2 inch larger than the upside down 8 to 9 inch pie pan .
+PREDID: 311
+PRED: cut
+   DOBJ: dough 1?1/2 inch larger than the upside down 8 to 9 inch pie pan
+      NON-INGREDIENT SPAN: dough 1?1/2 inch larger than the upside down 8 to 9 inch pie pan
+   PARG: a sharp knife
+     PREP: with
+      NON-INGREDIENT SPAN: a sharp knife
+
+
+SENTID: 7
+SENT: I would gently roll the dough around the rolling pin and transfer it right side up on to the pie pan .
+PREDID: 372
+PRED: roll
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: the rolling pin
+     PREP: around
+      NON-INGREDIENT SPAN: the rolling pin
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 406
+PRED: transfer
+   DOBJ: it right side
+      NON-INGREDIENT SPAN: it right side
+   PARG: to the pie pan
+     PREP: on
+      NON-INGREDIENT SPAN: to the pie pan
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 8
+SENT: I would unroll , ease dough into the bottom of the pie pan .
+PREDID: 448
+PRED: ease
+   DOBJ: dough into the bottom of the pie pan
+      NON-INGREDIENT SPAN: dough into the bottom of the pie pan
+   OARG: unroll
+      NON-INGREDIENT SPAN: unroll
+
+
+SENTID: 9
+SENT: In a large bowl with mixer speed on medium , I would beat pumpkin with evaporated milk , the eggs , brown sugar , the cinnamon , the ginger , the nutmeg and salt .
+PREDID: 517
+PRED: beat
+   DOBJ: pumpkin
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: mashed cooked pumpkin
+   PARG: a large bowl with mixer speed on medium
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl with mixer speed on medium
+   PARG: evaporated milk , the eggs , brown sugar , the cinnamon , the ginger , the nutmeg, salt
+     PREP: with
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  salt
+
+
+SENTID: 10
+SENT: I would mix well .
+PREDID: 593
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 11
+SENT: I would pour into a prepared crust .
+PREDID: 601
+PRED: pour
+   DOBJ: NULL
+   PARG: a prepared crust
+     PREP: into
+      NON-INGREDIENT SPAN: a prepared crust
+
+
+SENTID: 12
+SENT: I would bake 40 minutes or until when a knife is inserted 1 inch from the edge comes out clean .
+PREDID: 624
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 minutes or until when a knife is inserted 1 inch from the edge comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes or until when a knife is inserted 1 inch from the edge comes out clean
+
+

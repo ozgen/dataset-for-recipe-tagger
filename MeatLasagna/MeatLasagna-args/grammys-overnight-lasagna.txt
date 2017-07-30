@@ -1,0 +1,174 @@
+SENTID: 0
+SENT: I would cook the ground beef in a large saucepan over medium-high heat until browned and no longer pink , about 5 minutes ;
+PREDID: 0
+PRED: cook
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large saucepan over medium-high heat until browned, no longer pink , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium-high heat until browned
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  no longer pink 
+
+
+SENTID: 1
+SENT: I would drain fat .
+PREDID: 94
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 2
+SENT: I would stir in the marinara sauce , the water , and salt .
+PREDID: 103
+PRED: stir
+   DOBJ: NULL
+   PARG: the marinara sauce , the water , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN: the marinara sauce 
+         INGREDIENTS: ounce jar marinara sauce
+
+
+SENTID: 3
+SENT: I would bring to a boil .
+PREDID: 140
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would remove sauce from heat .
+PREDID: 153
+PRED: remove
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would arrange 6 noodles in a 9x13-inch baking dish , breaking if necessary to fit .
+PREDID: 173
+PRED: arrange
+   DOBJ: 6 noodles
+      INGREDIENT SPAN: 6 noodles
+         INGREDIENTS: lasagna noodles
+   PARG: a 9x13-inch baking dish , breaking if necessary to fit
+     PREP: in
+      NON-INGREDIENT SPAN:  breaking if necessary to fit
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish 
+
+
+SENTID: 6
+SENT: I would spoon 1/2 of the sauce over noodles .
+PREDID: 236
+PRED: spoon
+   DOBJ: 1/2 of the sauce over noodles
+      INGREDIENT SPAN: 1/2 of the sauce over noodles
+         INGREDIENTS: lasagna noodles
+
+
+SENTID: 7
+SENT: I would top with 1/2 of the cottage cheese and 1/2 of the mozzarella cheese .
+PREDID: 266
+PRED: top
+   DOBJ: NULL
+   PARG: 1/2 of the cottage cheese, 1/2 of the mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  1/2 of the mozzarella cheese
+         INGREDIENTS: grated mozzarella cheese
+      INGREDIENT SPAN: 1/2 of the cottage cheese
+         INGREDIENTS: ounce package cottage cheese
+
+
+SENTID: 8
+SENT: I would repeat layers with remaining noodles , the sauce , cottage cheese , and mozzarella cheese .
+PREDID: 322
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   PARG: remaining noodles , the sauce , cottage cheese , mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: grated mozzarella cheese
+      INGREDIENT SPAN: remaining noodles 
+         INGREDIENTS: lasagna noodles
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: ounce package cottage cheese
+      NON-INGREDIENT SPAN:  the sauce 
+
+
+SENTID: 9
+SENT: I would top with Parmesan cheese .
+PREDID: 395
+PRED: top
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 10
+SENT: I would cover tightly with foil ;
+PREDID: 417
+PRED: cover
+   DOBJ: NULL
+   OARG: tightly with foil
+      NON-INGREDIENT SPAN: tightly with foil
+
+
+SENTID: 11
+SENT: I would refrigerate overnight .
+PREDID: 438
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 12
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 459
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 13
+SENT: I would bake lasagna , covered , until noodles are soft , cheese is melted , and sauce is bubbly , about 1 hour .
+PREDID: 499
+PRED: bake
+   DOBJ: lasagna , covered , until noodles are soft
+      NON-INGREDIENT SPAN:  covered 
+      NON-INGREDIENT SPAN:  until noodles are soft
+      NON-INGREDIENT SPAN: lasagna 
+   OARG: sauce is bubbly , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: sauce is bubbly 
+
+PREDID: 547
+PRED: is melted
+   DOBJ: NULL
+
+
+SENTID: 14
+SENT: I would allow to sit for 10 minutes before serving .
+PREDID: 582
+PRED: allow
+   DOBJ: NULL
+   OARG: to sit for 10 minutes before serving
+      NON-INGREDIENT SPAN: to sit for 10 minutes before serving
+
+

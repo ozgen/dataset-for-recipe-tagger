@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together ground beef , crushed crackers , the onion , the eggs , 3/4 cup ketchup , and 1/4 cup brown sugar until well blended .
+PREDID: 55
+PRED: mix
+   DOBJ: ground beef , crushed crackers , the onion , the eggs , 3/4 cup ketchup , 1/4 cup brown sugar
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  3/4 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  crushed crackers 
+         INGREDIENTS: crushed butterflavored crackers
+      INGREDIENT SPAN:  1/4 cup brown sugar
+         INGREDIENTS: brown sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would press into a 9x5 inch loaf pan .
+PREDID: 154
+PRED: press
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 3
+SENT: I would lay the two slices of bacon over the top .
+PREDID: 179
+PRED: lay
+   DOBJ: the two slices of bacon
+      INGREDIENT SPAN: the two slices of bacon
+         INGREDIENTS: slices bacon
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 4
+SENT: I would bake for 1 hour in the preheated oven , or until cooked through .
+PREDID: 212
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour in the preheated oven , or until cooked through
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven 
+      NON-INGREDIENT SPAN:  or until cooked through
+
+
+SENTID: 5
+SENT: While the loaf bakes , I would mix together the remaining 1 cup ketchup , the vinegar , the salt , the mustard and 1/2 cup brown sugar .
+PREDID: 282
+PRED: mix
+   DOBJ: the remaining 1 cup ketchup , the vinegar , the salt , the mustard, 1/2 cup brown sugar
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: the remaining 1 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  1/2 cup brown sugar
+         INGREDIENTS: brown sugar
+   PARG: the loaf bakes
+     PREP: while
+      NON-INGREDIENT SPAN: the loaf bakes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would spread over the top of the meat loaf for the last 15 minutes of baking .
+PREDID: 357
+PRED: spread
+   DOBJ: NULL
+   PARG: the top of the meat loaf for the last 15 minutes of baking
+     PREP: for
+      NON-INGREDIENT SPAN: the top of the meat loaf for the last 15 minutes of baking
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

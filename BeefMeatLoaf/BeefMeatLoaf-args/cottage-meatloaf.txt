@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine ground beef , 1/2 cup ketchup , tomato juice , the salt , the pepper , red pepper , the eggs , bread crumbs , the onion and 2 teaspoons mustard until well mixed .
+PREDID: 51
+PRED: combine
+   DOBJ: ground beef , 1/2 cup ketchup , tomato juice , the salt , the pepper , red pepper , the eggs , bread crumbs , the onion, 2 teaspoons
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: tomato juice
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: fresh bread crumbs
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: crushed red pepper
+      NON-INGREDIENT SPAN:  2 teaspoons
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+   OARG: mustard
+      INGREDIENT SPAN: mustard
+         INGREDIENTS: prepared mustard
+
+
+SENTID: 2
+SENT: I would line a 9x5 inch loaf pan with foil .
+PREDID: 174
+PRED: line pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 3
+SENT: I would press meat mixture into pan .
+PREDID: 202
+PRED: press
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 4
+SENT: In a separate bowl , I would combine 1/2 cup ketchup , 1 teaspoon mustard and brown sugar until smooth .
+PREDID: 242
+PRED: combine
+   DOBJ: 1/2 cup ketchup , 1 teaspoon mustard, brown sugar
+      INGREDIENT SPAN: 1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  1 teaspoon mustard
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would spread brown sugar mixture over meatloaf .
+PREDID: 304
+PRED: spread
+   DOBJ: brown sugar mixture
+      NON-INGREDIENT SPAN: brown sugar mixture
+   PARG: meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: meatloaf
+
+
+SENTID: 6
+SENT: I would bake in preheated oven 35 to 45 minutes , until no longer pink .
+PREDID: 340
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven 35 to 45 minutes , until no longer pink
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven 35 to 45 minutes 
+      NON-INGREDIENT SPAN:  until no longer pink
+
+
+SENTID: 7
+SENT: I would drain off fat .
+PREDID: 391
+PRED: drain
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 8
+SENT: I would let rest 5 minutes before serving .
+PREDID: 403
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

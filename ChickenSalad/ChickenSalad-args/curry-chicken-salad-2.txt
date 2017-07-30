@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover completely with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 1
+SENT: I would bring water to a boil .
+PREDID: 52
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 70
+PRED: cover and remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 94
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool , peel and chop .
+PREDID: 133
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 152
+PRED: cool and peel
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine the chicken , the celery , the eggs , green onions , dill relish , the curry and mayonnaise .
+PREDID: 182
+PRED: combine
+   DOBJ: the chicken , the celery , the eggs , green onions , dill relish , the curry, mayonnaise
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  dill relish 
+         INGREDIENTS: dill pickle relish
+      INGREDIENT SPAN:  the curry
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: chopped cooked chicken meat
+      NON-INGREDIENT SPAN:  the eggs 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would stir together until mixed well .
+PREDID: 254
+PRED: stir
+   DOBJ: NULL
+   PARG: mixed well
+     PREP: until
+      NON-INGREDIENT SPAN: mixed well
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would refrigerate until chilled .
+PREDID: 281
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

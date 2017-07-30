@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would render bacon in a skillet and set aside .
+PREDID: 0
+PRED: render
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon cut inch
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+PREDID: 24
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: In a stockpot add the water , I would the onion , the celery and potatoes .
+
+SENTID: 2
+SENT: If desired , I would add 2 chopped carrots .
+PREDID: 43
+PRED: add
+   DOBJ: 2 chopped carrots
+      INGREDIENT SPAN: 2 chopped carrots
+         INGREDIENTS: onion chopped
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 3
+SENT: I would boil until tender .
+PREDID: 62
+PRED: boil
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 4
+SENT: I would add the non-dairy creamer , stirring constantly .
+PREDID: 78
+PRED: add
+   DOBJ: the non-dairy creamer
+      INGREDIENT SPAN: the non-dairy creamer
+         INGREDIENTS: nondairy creamer
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 5
+SENT: I would add the corn , onion powder , chicken soup base , the salt , the pepper and cooked bacon .
+PREDID: 120
+PRED: add
+   DOBJ: the corn , onion powder , chicken soup base , the salt , the pepper, cooked bacon
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN:  chicken soup base 
+         INGREDIENTS: chicken bouillon powder
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      NON-INGREDIENT SPAN:  the pepper
+      NON-INGREDIENT SPAN:  cooked bacon
+
+
+SENTID: 6
+SENT: I would bring mixture to a boil .
+PREDID: 185
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would whisk together the flour and the 1 cup water and slowly add this mixture , stirring constantly .
+PREDID: 205
+PRED: whisk
+   DOBJ: the flour, the 1 cup water
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the 1 cup water
+         INGREDIENTS: water
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 250
+PRED: add
+   DOBJ: this mixture , stirring constantly
+      NON-INGREDIENT SPAN: this mixture 
+      NON-INGREDIENT SPAN:  stirring constantly
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 8
+SENT: I would cook over medium heat until slightly thickened .
+PREDID: 284
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: slightly thickened
+     PREP: until
+      NON-INGREDIENT SPAN: slightly thickened
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 9
+SENT: I would ladle into bowls and serve .
+PREDID: 325
+PRED: ladle
+   DOBJ: NULL
+   PARG: bowls
+     PREP: into
+      NON-INGREDIENT SPAN: bowls
+
+

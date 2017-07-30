@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would roll out pastry on floured surface 1 inch larger than inverted 9-inch pie pan .
+PREDID: 25
+PRED: roll
+   DOBJ: pastry on floured surface 1 inch larger
+      INGREDIENT SPAN: pastry on floured surface 1 inch larger
+         INGREDIENTS: Pastry single-crust 9-inch pie
+   PARG: inverted 9-inch pie pan
+     PREP: than
+      INGREDIENT SPAN: inverted 9-inch pie pan
+         INGREDIENTS: pumpkin pie spice
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would ease pastry into pan ;
+PREDID: 90
+PRED: ease
+   DOBJ: pastry
+      NON-INGREDIENT SPAN: pastry
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 3
+SENT: I would flute and trim edge .
+PREDID: 108
+PRED: flute and trim
+   DOBJ: edge
+      NON-INGREDIENT SPAN: edge
+
+
+SENTID: 4
+SENT: I would mix pumpkin , evaporated milk , and eggs on medium speed until well blended ;
+PREDID: 125
+PRED: mix
+   DOBJ: pumpkin , evaporated milk , eggs
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: ounce evaporated fat-free milk
+   PARG: medium speed
+     PREP: on
+      NON-INGREDIENT SPAN: medium speed
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would add additional ingredients ;
+PREDID: 188
+PRED: add
+   DOBJ: additional ingredients
+      NON-INGREDIENT SPAN: additional ingredients
+
+
+SENTID: 6
+SENT: I would mix well .
+PREDID: 213
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would pour mixture into prepared pastry shell .
+PREDID: 221
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: prepared pastry shell
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pastry shell
+
+
+SENTID: 8
+SENT: I would bake for 35 to 40 minutes or until knife inserted into center comes out clean .
+PREDID: 256
+PRED: bake
+   DOBJ: NULL
+   PARG: 35 to 40 minutes or until knife inserted into center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes or until knife inserted into center comes out clean
+
+
+SENTID: 9
+SENT: I would cool on wire rack .
+PREDID: 320
+PRED: cool
+   DOBJ: NULL
+   PARG: wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: wire rack
+
+
+SENTID: 10
+SENT: I would top with whipped topping , if desired .
+PREDID: 335
+PRED: top
+   DOBJ: NULL
+   PARG: whipped topping , if desired
+     PREP: with
+      INGREDIENT SPAN: whipped topping 
+         INGREDIENTS: Light whipped topping
+      NON-INGREDIENT SPAN:  if desired
+
+

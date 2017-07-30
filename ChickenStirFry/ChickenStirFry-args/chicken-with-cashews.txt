@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a skillet over medium-high heat , I would mix butter or margarine and vegetable oil until hot .
+PREDID: 30
+PRED: mix
+   DOBJ: butter or margarine, vegetable oil
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 1
+SENT: I would add chicken and saute , stirring often , until the chicken turns white .
+PREDID: 74
+PRED: add
+   DOBJ: chicken, saute , stirring often
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+      NON-INGREDIENT SPAN:  saute 
+      NON-INGREDIENT SPAN:  stirring often
+   PARG: the chicken turns white
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken turns white
+
+
+SENTID: 2
+SENT: I would remove with a slotted spoon and set aside .
+PREDID: 133
+PRED: remove
+   DOBJ: NULL
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+PREDID: 159
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In the same skillet , I would saute onion and peppers .
+PREDID: 185
+PRED: saute
+   DOBJ: onion, peppers
+      INGREDIENT SPAN:  peppers
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: the same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet
+
+
+SENTID: 4
+SENT: I would add the cooked chicken and the cashews and season with salt and pepper , curry powder and sesame oil .
+PREDID: 206
+PRED: add
+   DOBJ: the cooked chicken, the cashews, season with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper sliced
+      INGREDIENT SPAN:  the cashews
+         INGREDIENTS: cashew halves
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN: the cooked chicken
+
+PREDID: 265
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+
+PREDID: 279
+PRED: sesame
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: sesame oil
+
+
+SENTID: 5
+SENT: I would saute for another 2 minutes and serve .
+PREDID: 289
+PRED: saute
+   DOBJ: NULL
+   PARG: another 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 2 minutes
+
+

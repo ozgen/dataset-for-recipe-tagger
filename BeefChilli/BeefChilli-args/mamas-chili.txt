@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would place the tomatoes in a large pot and squash them with your hands .
+PREDID: 0
+PRED: place
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce whole peeled tomatoes
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 30
+PRED: squash
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: your hands
+     PREP: with
+      NON-INGREDIENT SPAN: your hands
+
+
+SENTID: 1
+SENT: I would add the beans , the onion , banana chile pepper , the sugar , garlic powder and chili powder and simmer for about 20 minutes .
+PREDID: 54
+PRED: add
+   DOBJ: the beans , the onion , banana chile pepper , the sugar , garlic powder, chili powder, simmer
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  banana chile pepper 
+         INGREDIENTS: banana pepper juice
+      INGREDIENT SPAN: the beans 
+         INGREDIENTS: ounce pinto beans drained rinsed
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  simmer
+   PARG: about 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 minutes
+
+
+SENTID: 2
+SENT: I would meanwhile , in a separate large skillet over medium high heat , saute the ground beef for 5 to 10 minutes , or until browned and crumbly .
+PREDID: 201
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a separate large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large skillet over medium high heat
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would drain the fat and add the beef to the simmering pot .
+PREDID: 260
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+
+PREDID: 274
+PRED: add
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: the simmering pot
+     PREP: to
+      NON-INGREDIENT SPAN: the simmering pot
+
+
+SENTID: 4
+SENT: I would stir in the cheese , if desired .
+PREDID: 302
+PRED: stir
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: in
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: slices American cheese
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 5
+SENT: I would allow to simmer for 1 more hour .
+PREDID: 328
+PRED: allow
+   DOBJ: NULL
+   OARG: to simmer for 1 more hour
+      NON-INGREDIENT SPAN: to simmer for 1 more hour
+
+

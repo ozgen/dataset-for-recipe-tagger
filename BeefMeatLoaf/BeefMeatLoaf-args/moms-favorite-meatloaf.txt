@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , pork sausage , French onion dip , the eggs and crushed crackers .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , pork sausage , French onion dip , the eggs, crushed crackers
+      INGREDIENT SPAN:  crushed crackers
+         INGREDIENTS: ounce package saltine crackers crushed
+      INGREDIENT SPAN:  French onion dip 
+         INGREDIENTS: ounce package French onion dip
+      INGREDIENT SPAN:  pork sausage 
+         INGREDIENTS: ground pork sausage
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix well and shape into a loaf .
+PREDID: 116
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 126
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would bake in a 5x9 inch loaf pan for 1 hour .
+PREDID: 141
+PRED: bake
+   DOBJ: NULL
+   PARG: a 5x9 inch loaf pan for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: a 5x9 inch loaf pan for 1 hour
+
+

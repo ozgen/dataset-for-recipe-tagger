@@ -1,0 +1,284 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x15-inch baking dish .
+PREDID: 40
+PRED: grease
+   DOBJ: a 9x15-inch baking dish
+      NON-INGREDIENT SPAN: a 9x15-inch baking dish
+
+
+SENTID: 2
+SENT: I would place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until beginning to brown , but still limp .
+PREDID: 67
+PRED: place
+   DOBJ: the bacon in a large , deep skillet
+      INGREDIENT SPAN: the bacon in a large 
+         INGREDIENTS: bacon
+      NON-INGREDIENT SPAN:  deep skillet
+   OARG: still limp
+      NON-INGREDIENT SPAN: still limp
+
+PREDID: 104
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until beginning to brown
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until beginning to brown
+
+
+SENTID: 3
+SENT: I would remove 1/4 of the bacon to drain on a paper towel-lined plate .
+PREDID: 183
+PRED: remove
+   DOBJ: 1/4 of the bacon to drain on a paper towel-lined plate
+      NON-INGREDIENT SPAN: 1/4 of the bacon to drain on a paper towel-lined plate
+
+
+SENTID: 4
+SENT: I would cut each strip in half , and set aside .
+PREDID: 234
+PRED: cut
+   DOBJ: each strip in half
+      NON-INGREDIENT SPAN: each strip in half
+
+PREDID: 256
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would continue the cooking the remaining bacon until evenly browned , about 10 minutes total .
+PREDID: 265
+PRED: continue
+   DOBJ: NULL
+   PARG: the remaining bacon until evenly browned , about 10 minutes total
+     PREP: for
+      NON-INGREDIENT SPAN: the remaining bacon until evenly browned 
+      NON-INGREDIENT SPAN:  about 10 minutes total
+   OARG: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+
+SENTID: 6
+SENT: I would drain the bacon slices on a paper towel-lined plate .
+PREDID: 336
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 7
+SENT: I would crumble once cool .
+PREDID: 380
+PRED: crumble
+   DOBJ: NULL
+   OARG: once cool
+      NON-INGREDIENT SPAN: once cool
+
+
+SENTID: 8
+SENT: I would beat the eggs with 1/4 of the crumbled bacon in a large mixing bowl .
+PREDID: 396
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: 1/4 of the crumbled bacon in a large mixing bowl
+     PREP: with
+      NON-INGREDIENT SPAN: 1/4 of the crumbled bacon in a large mixing bowl
+
+
+SENTID: 9
+SENT: I would stir in the onions , the salt , and black pepper .
+PREDID: 451
+PRED: stir
+   DOBJ: NULL
+   PARG: the onions , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: chopped onion
+
+
+SENTID: 10
+SENT: I would mix in the ground beef and bread crumbs until evenly mixed .
+PREDID: 487
+PRED: mix
+   DOBJ: NULL
+   PARG: the ground beef, bread crumbs
+     PREP: in
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: soft bread crumbs
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 11
+SENT: I would cover a work surface with two 20-inch sheets of waxed paper .
+PREDID: 536
+PRED: cover
+   DOBJ: a work surface
+      NON-INGREDIENT SPAN: a work surface
+   PARG: two 20-inch sheets of waxed paper
+     PREP: with
+      NON-INGREDIENT SPAN: two 20-inch sheets of waxed paper
+
+
+SENTID: 12
+SENT: I would pat the beef mixture into a 14x18-inch rectangle .
+PREDID: 586
+PRED: pat
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: a 14x18-inch rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: a 14x18-inch rectangle
+
+
+SENTID: 13
+SENT: I would sprinkle evenly with Cheddar cheese and the remaining crumbled bacon .
+PREDID: 628
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar cheese, the remaining crumbled bacon
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  the remaining crumbled bacon
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 14
+SENT: I would roll the beef into a cylinder from one of the short ends to form a 14-inch-long loaf .
+PREDID: 688
+PRED: roll
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: a cylinder
+     PREP: into
+      NON-INGREDIENT SPAN: a cylinder
+   PARG: one of the short ends
+     PREP: from
+      NON-INGREDIENT SPAN: one of the short ends
+   OARG: to form a 14-inch-long loaf
+      NON-INGREDIENT SPAN: to form a 14-inch-long loaf
+
+
+SENTID: 15
+SENT: I would pinch the ends to seal in the cheese .
+PREDID: 757
+PRED: pinch
+   DOBJ: the ends
+      NON-INGREDIENT SPAN: the ends
+   OARG: to seal in the cheese
+      INGREDIENT SPAN: to seal in the cheese
+         INGREDIENTS: shredded Swiss cheese
+
+
+SENTID: 16
+SENT: I would place into the prepared baking dish .
+PREDID: 787
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 17
+SENT: I would bake in the preheated oven for 30 minutes ,
+PREDID: 818
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+
+
+SENTID: 18
+SENT: I would brush with the barbeque sauce , and return to the oven for 20 minutes longer .
+PREDID: 853
+PRED: brush
+   DOBJ: NULL
+   PARG: the barbeque sauce
+     PREP: with
+      INGREDIENT SPAN: the barbeque sauce
+         INGREDIENTS: barbeque sauce
+
+PREDID: 882
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+   PARG: 20 minutes longer
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes longer
+
+
+SENTID: 19
+SENT: I would remove the manloaf from the oven , and drape with the precooked bacon strips .
+PREDID: 916
+PRED: remove
+   DOBJ: the manloaf
+      NON-INGREDIENT SPAN: the manloaf
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 947
+PRED: drape
+   DOBJ: NULL
+   PARG: the precooked bacon strips
+     PREP: with
+      NON-INGREDIENT SPAN: the precooked bacon strips
+
+
+SENTID: 20
+SENT: I would sprinkle with the shredded Swiss cheese , and bake to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- , about 15 minutes more .
+PREDID: 980
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the shredded swiss cheese , bake to an internal temperature of 160 degrees f -lrb- 70 degrees c
+     PREP: with
+      NON-INGREDIENT SPAN: the shredded swiss cheese 
+      NON-INGREDIENT SPAN:  bake to an internal temperature of 160 degrees f -lrb- 70 degrees c
+   OARG: about 15 minutes more
+      NON-INGREDIENT SPAN: about 15 minutes more
+
+
+SENTID: 21
+SENT: I would let stand for 10 to 15 minutes before slicing .
+PREDID: 1090
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 to 15 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

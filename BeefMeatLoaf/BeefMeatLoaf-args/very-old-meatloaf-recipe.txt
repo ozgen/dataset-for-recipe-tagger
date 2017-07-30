@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef with water and milk in a large bowl using your hands until beef is evenly moistened .
+PREDID: 41
+PRED: mix
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: water, milk
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+   PARG: a large bowl using your hands until beef is evenly moistened
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl using your hands until beef is evenly moistened
+
+
+SENTID: 2
+SENT: I would mix bread crumbs , the onion , the carrot , the apple , and egg into the beef mixture until evenly integrated .
+PREDID: 123
+PRED: mix
+   DOBJ: bread crumbs , the onion , the carrot , the apple , egg
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: small Granny Smith apple diced
+      INGREDIENT SPAN: bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot diced
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: evenly integrated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly integrated
+
+
+SENTID: 3
+SENT: I would form the beef mixture into a loaf .
+PREDID: 203
+PRED: form
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 4
+SENT: I would transfer the meatloaf to a deep baking dish ;
+PREDID: 231
+PRED: transfer
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: a deep baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a deep baking dish
+
+
+SENTID: 5
+SENT: I would tent with a sheet of aluminum foil .
+PREDID: 268
+PRED: tent
+   DOBJ: NULL
+   PARG: a sheet of aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: a sheet of aluminum foil
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 1 hour ;
+PREDID: 297
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 1 hour
+
+
+SENTID: 7
+SENT: I would remove foil tent and bake until no longer pink the center , about 30 minutes more .
+PREDID: 325
+PRED: remove
+   DOBJ: foil tent
+      NON-INGREDIENT SPAN: foil tent
+
+PREDID: 342
+PRED: bake
+   DOBJ: NULL
+   PARG: no longer pink the center , about 30 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes more
+      NON-INGREDIENT SPAN: no longer pink the center 
+
+

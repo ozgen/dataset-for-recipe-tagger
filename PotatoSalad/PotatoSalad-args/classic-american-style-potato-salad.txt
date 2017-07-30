@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would place potatoes in a pot with water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in a pot with water
+      INGREDIENT SPAN: potatoes in a pot with water
+         INGREDIENTS: red boiling potatoes scrubbed
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , the cover and simmer , stirring to ensure even cooking , until a thin-bladed paring knife or a metal skewer inserted into a potato can be removed with no resistance , 25 to 30 minutes .
+PREDID: 36
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil , the cover, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN:  the cover
+      NON-INGREDIENT SPAN: a boil 
+   OARG: stirring to ensure even cooking , until a thin-bladed paring knife or a metal skewer inserted into a potato can be removed with no resistance , 25 to 30 minutes
+      NON-INGREDIENT SPAN: stirring to ensure even cooking 
+      NON-INGREDIENT SPAN:  until a thin-bladed paring knife or a metal skewer inserted into a potato can be removed with no resistance 
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+
+
+SENTID: 2
+SENT: I would drain , rinse under cold water and drain again .
+PREDID: 196
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 224
+PRED: drain
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 3
+SENT: I would cool slightly .
+PREDID: 235
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 4
+SENT: I would cut warm potatoes into 3/4-inch dice with a serrated knife .
+PREDID: 248
+PRED: cut
+   DOBJ: warm potatoes
+      NON-INGREDIENT SPAN: warm potatoes
+   PARG: 3/4-inch dice with a serrated knife
+     PREP: into
+      NON-INGREDIENT SPAN: 3/4-inch dice with a serrated knife
+
+
+SENTID: 5
+SENT: I would layer them in a bowl , seasoning with vinegar , the salt and pepper as you go .
+PREDID: 298
+PRED: layer
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: seasoning with vinegar , the salt, pepper as you go
+      INGREDIENT SPAN: seasoning with vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper as you go
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 6
+SENT: I would cut eggs , the celery and pickle in 1/4-inch dice and thinly slice scallions .
+PREDID: 357
+PRED: cut
+   DOBJ: eggs , the celery, pickle in 1/4-inch dice, thinly slice scallions
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: hardcooked eggs
+      INGREDIENT SPAN:  thinly slice scallions
+         INGREDIENTS: scallions
+      INGREDIENT SPAN:  pickle in 1/4-inch dice
+         INGREDIENTS: chopped sweet pickle relish
+      NON-INGREDIENT SPAN:  the celery
+
+
+SENTID: 7
+SENT: I would add to potatoes , along with parsley .
+PREDID: 418
+PRED: add
+   DOBJ: NULL
+   PARG: potatoes , along with parsley
+     PREP: to
+      INGREDIENT SPAN:  along with parsley
+         INGREDIENTS: chopped fresh parsley
+      NON-INGREDIENT SPAN: potatoes 
+
+
+SENTID: 8
+SENT: I would stir in mayonnaise and mustard until everything is combined .
+PREDID: 449
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise, mustard
+     PREP: in
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: Dijonstyle mustard
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: everything is combined
+     PREP: until
+      NON-INGREDIENT SPAN: everything is combined
+
+
+SENTID: 9
+SENT: I would chill , covered , before serving .
+PREDID: 501
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

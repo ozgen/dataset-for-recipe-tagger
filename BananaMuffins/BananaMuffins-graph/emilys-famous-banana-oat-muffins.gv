@@ -1,0 +1,56 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="line pan (S1,P41)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P111)", shape=oval, style=filled, fillcolor=azure]
+E3[label="combine (S3,P163)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P236)", shape=oval, style=filled, fillcolor=azure]
+E5[label="spoon (S5,P273)", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake (S6,P313)", shape=oval, style=filled, fillcolor=azure]
+E7[label="cool (S7,P391)", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: baking powder, ginger, ground cinnamon, rolled oats, whole wheat flour, baking soda
+(text: the whole wheat flour , oats , cinnamon , ginger , baking powder, baking soda)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D0[label="DOBJ: the oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: vegetable oil, brown sugar, ripe bananas, vanilla extract, egg
+(text: the bananas , brown sugar , egg , vanilla, oil)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+P1_0_0[label="PREP: with paper liners or coat", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+P1_1_0[label="PREP: with cooking spray", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E2 -> E4 [label="OUTPUT: 
+INPUT: into the banana mixture"]
+P4_1_0[label="PREP: until blended", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E1 -> E5 [label="OUTPUT: 
+INPUT: the batter"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: into the prepared muffin cups"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: in the preheated oven until the tops", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+P6_1_0[label="PREP: about 25 minutes", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+O6_0_0[label="OTHER: spring", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: back when lightly pressed", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_0[label="PREP: for a few minutes in the pan", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+P7_1_0[label="PREP: before attempting to remove them", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

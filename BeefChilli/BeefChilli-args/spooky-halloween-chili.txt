@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: I would mix ground beef , chili beans , stewed tomatoes , the corn , apple cider , and chili powder in a large pot over high heat ;
+PREDID: 0
+PRED: mix
+   DOBJ: ground beef , chili beans , stewed tomatoes , the corn , apple cider , chili powder
+      INGREDIENT SPAN:  stewed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  apple cider 
+         INGREDIENTS: apple cider
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce package frozen corn
+   PARG: a large pot over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over high heat
+
+
+SENTID: 1
+SENT: I would bring to a simmer , reduce heat to medium-low , and cook until the beef is cooked and tender , about 6 hours .
+PREDID: 94
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 109
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 135
+PRED: cook
+   DOBJ: NULL
+   PARG: the beef is cooked
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is cooked
+
+PREDID: 162
+PRED: tender
+   DOBJ: NULL
+   PARG: 6 hours
+     PREP: about
+      NON-INGREDIENT SPAN: 6 hours
+
+

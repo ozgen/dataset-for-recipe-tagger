@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would add 2/3 cup salad dressing to the cubed chicken and stir together .
+PREDID: 0
+PRED: add
+   DOBJ: 2/3 cup salad dressing to the cubed chicken
+      INGREDIENT SPAN: 2/3 cup salad dressing to the cubed chicken
+         INGREDIENTS: ounce bottle Italianstyle salad dressing
+      INGREDIENT SPAN: 2/3 cup to the cubed chicken
+         INGREDIENTS: skinless boneless chicken breast halves cooked
+
+PREDID: 42
+PRED: stir
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cook pasta per package directions .
+PREDID: 55
+PRED: cook
+   DOBJ: pasta per package directions
+      INGREDIENT SPAN: pasta per package directions
+         INGREDIENTS: ounce package farfalle pasta
+
+
+SENTID: 2
+SENT: I would drain and rinse .
+PREDID: 85
+PRED: drain and rinse
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would add the pasta to the chicken and dressing and toss .
+PREDID: 99
+PRED: add
+   DOBJ: the pasta
+      NON-INGREDIENT SPAN: the pasta
+   PARG: the chicken
+     PREP: to
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cooked
+
+PREDID: 125
+PRED: dressing and toss
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would pour enough dressing on to coat everything -LRB- or to your taste -RRB- and add the chopped tomato .
+PREDID: 141
+PRED: pour
+   DOBJ: enough dressing
+      INGREDIENT SPAN: enough dressing
+         INGREDIENTS: ounce bottle Italianstyle salad dressing
+   PARG: to coat everything
+     PREP: on
+      NON-INGREDIENT SPAN: to coat everything
+   OARG: or to your taste
+      NON-INGREDIENT SPAN: or to your taste
+
+PREDID: 203
+PRED: add
+   DOBJ: the chopped tomato
+      INGREDIENT SPAN: the chopped tomato
+         INGREDIENTS: tomato chopped
+
+
+SENTID: 5
+SENT: I would toss to coat .
+PREDID: 215
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 6
+SENT: I would ready to serve !
+

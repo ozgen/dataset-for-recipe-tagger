@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: I would brown beef strips in 1 tablespoon oil in nonstick skillet ;
+PREDID: 0
+PRED: brown
+   DOBJ: beef strips
+      INGREDIENT SPAN: beef strips
+         INGREDIENTS: boneless beef top sirloin steak cut 2x1/4inch strips
+   PARG: 1 tablespoon oil in nonstick skillet
+     PREP: in
+      NON-INGREDIENT SPAN: 1 tablespoon oil in nonstick skillet
+
+
+SENTID: 1
+SENT: I would cook 1 to 2 minutes .
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: 1 to 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 2 minutes
+
+
+SENTID: 2
+SENT: I would stir in cooking sauce and sour cream .
+PREDID: 65
+PRED: stir
+   DOBJ: NULL
+   PARG: cooking sauce, sour cream
+     PREP: in
+      INGREDIENT SPAN: cooking sauce
+         INGREDIENTS: cooking sauce
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 3
+SENT: I would simmer 8 minutes or until sauce thickens , stirring occasionally .
+PREDID: 96
+PRED: simmer
+   DOBJ: NULL
+   PARG: 8 minutes or until sauce thickens , stirring occasionally
+     PREP: for
+      INGREDIENT SPAN: 8 minutes or until sauce thickens 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  stirring occasionally
+
+
+SENTID: 4
+SENT: I would serve over noodles .
+PREDID: 152
+PRED: serve
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: Hot cooked noodles
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

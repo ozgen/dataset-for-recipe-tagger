@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: In large skillet , I would brown ground beef and onion .
+PREDID: 15
+PRED: brown
+   DOBJ: ground beef, onion
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet
+
+
+SENTID: 1
+SENT: I would stir in tomatoes , tomato paste , the salt , the parsley , garlic salt and pepper , and simmer over low heat for 3 hours .
+PREDID: 39
+PRED: stir
+   DOBJ: NULL
+   PARG: tomatoes , tomato paste , the salt , the parsley , garlic salt, pepper , simmer
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper 
+         INGREDIENTS: black pepper taste
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes chopped
+      NON-INGREDIENT SPAN:  simmer
+   PARG: low heat for 3 hours
+     PREP: over
+      NON-INGREDIENT SPAN: low heat for 3 hours
+
+
+SENTID: 2
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 129
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 167
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 209
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 254
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: In a 2 quart casserole dish , I would combine noodles and meat mixture .
+PREDID: 283
+PRED: combine
+   DOBJ: noodles, meat mixture
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: wide egg noodles
+      NON-INGREDIENT SPAN:  meat mixture
+   PARG: a 2 quart casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+
+SENTID: 7
+SENT: I would top with cheese slices and bake for 15 to 20 minutes , or until cheese is melted .
+PREDID: 312
+PRED: top
+   DOBJ: NULL
+   PARG: cheese slices
+     PREP: with
+      INGREDIENT SPAN: cheese slices
+         INGREDIENTS: ounce package process sharp cheddar cheese singles
+
+PREDID: 334
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 to 20 minutes , or until cheese is melted
+     PREP: for
+      NON-INGREDIENT SPAN:  or until cheese is melted
+      NON-INGREDIENT SPAN: 15 to 20 minutes 
+
+

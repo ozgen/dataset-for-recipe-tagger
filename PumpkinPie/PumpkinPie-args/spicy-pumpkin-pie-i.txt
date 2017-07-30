@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together butter or margarine , the pumpkin , the cinnamon , the ginger , the cloves , and salt .
+PREDID: 51
+PRED: mix
+   DOBJ: butter or margarine , the pumpkin , the cinnamon , the ginger , the cloves , salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: butter or margarine 
+         INGREDIENTS: butter melted
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: In a separate bowl , I would beat eggs until foamy .
+PREDID: 135
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: foamy
+     PREP: until
+      NON-INGREDIENT SPAN: foamy
+
+
+SENTID: 3
+SENT: I would mix flour , brown sugar , white sugar , and milk into eggs .
+PREDID: 154
+PRED: mix
+   DOBJ: flour , brown sugar , white sugar , milk
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: eggs
+     PREP: into
+      NON-INGREDIENT SPAN: eggs
+
+
+SENTID: 4
+SENT: I would blend egg mixture into pumpkin mixture .
+PREDID: 201
+PRED: blend
+   DOBJ: egg mixture
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: pumpkin mixture
+     PREP: into
+      NON-INGREDIENT SPAN: pumpkin mixture
+
+
+SENTID: 5
+SENT: I would pour half of mixture into each pastry lined pan .
+PREDID: 235
+PRED: pour
+   DOBJ: half of mixture
+      NON-INGREDIENT SPAN: half of mixture
+   PARG: each pastry lined pan
+     PREP: into
+      NON-INGREDIENT SPAN: each pastry lined pan
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 15 minutes .
+PREDID: 275
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 7
+SENT: I would reduce heat to 375 degrees F -LRB- 190 degrees C -RRB- and bake an additional 45 minutes , until toothpick inserted in center comes out clean .
+PREDID: 307
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+
+PREDID: 354
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 45 minutes , until toothpick inserted in center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN:  until toothpick inserted in center comes out clean
+      NON-INGREDIENT SPAN: an additional 45 minutes 
+
+

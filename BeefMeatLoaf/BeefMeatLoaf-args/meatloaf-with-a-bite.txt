@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5 inch loaf pan .
+PREDID: 38
+PRED: grease pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix together ground beef , the salsa , the cheese , the egg , and cracker crumbs .
+PREDID: 73
+PRED: mix
+   DOBJ: ground beef , the salsa , the cheese , the egg , cracker crumbs
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: medium salsa
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  cracker crumbs
+         INGREDIENTS: crushed saltine crackers
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would form into a loaf , and place in prepared pan .
+PREDID: 129
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf , place in prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN:  place in prepared pan
+      NON-INGREDIENT SPAN: a loaf 
+
+
+SENTID: 4
+SENT: I would bake for approximately 1 hour , or until done .
+PREDID: 165
+PRED: bake
+   DOBJ: NULL
+   PARG: approximately 1 hour , or until done
+     PREP: for
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: approximately 1 hour 
+
+
+SENTID: 5
+SENT: I would internal temperature should measure at least 160 degrees F -LRB- 70 degrees C -RRB- , the meat should be browned through , and the juices clear .
+PREDID: 203
+PRED: be internal measure browned
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: least 160 degrees f -lrb- 70 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: least 160 degrees f -lrb- 70 degrees c
+   OARG: the meat
+      NON-INGREDIENT SPAN: the meat
+   OARG: should
+      NON-INGREDIENT SPAN: should
+   OARG: through
+      NON-INGREDIENT SPAN: through
+   OARG: the juices clear
+      NON-INGREDIENT SPAN: the juices clear
+
+

@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would mix broth , the basil , the pepper and vegetables in skillet .
+PREDID: 0
+PRED: mix
+   DOBJ: broth , the basil , the pepper, vegetables
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil leaves crushed
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  vegetables
+         INGREDIENTS: frozen vegetable combination broccoli cauliflower carrots
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: Broth, ounce Swanson Chicken Broth Swanson Natural Goodness Chicken
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: Broth, ounce Swanson Chicken Broth Swanson Natural Goodness Chicken
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 1
+SENT: I would heat to a boil .
+PREDID: 44
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cover and cook over low heat 5 minutes .
+PREDID: 56
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 3
+SENT: I would stir in noodles .
+PREDID: 88
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked medium egg noodles
+
+
+SENTID: 4
+SENT: I would cover and cook 5 minutes .
+PREDID: 102
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would add chicken and heat through .
+PREDID: 123
+PRED: add
+   DOBJ: chicken, heat
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: cubed cooked chicken
+      NON-INGREDIENT SPAN:  heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

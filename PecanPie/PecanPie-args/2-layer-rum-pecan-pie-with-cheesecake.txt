@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would unroll 1 pie crust on a work surface ;
+PREDID: 38
+PRED: unroll
+   DOBJ: 1 pie crust
+      INGREDIENT SPAN: 1 pie crust
+         INGREDIENTS: recipe pastry 9inch double crust pie
+   PARG: a work surface
+     PREP: on
+      NON-INGREDIENT SPAN: a work surface
+
+
+SENTID: 2
+SENT: I would brush with water .
+PREDID: 68
+PRED: brush
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water needed
+
+
+SENTID: 3
+SENT: I would place second pie crust atop the first pie crust ;
+PREDID: 83
+PRED: place
+   DOBJ: second pie crust
+      INGREDIENT SPAN: second pie crust
+         INGREDIENTS: recipe pastry 9inch double crust pie
+   PARG: the first pie crust
+     PREP: atop
+      NON-INGREDIENT SPAN: the first pie crust
+
+
+SENTID: 4
+SENT: I would press gently together .
+PREDID: 123
+PRED: press
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would place the double crust in a 9-inch pie pan .
+PREDID: 143
+PRED: place
+   DOBJ: the double crust
+      NON-INGREDIENT SPAN: the double crust
+   PARG: a 9-inch pie pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9-inch pie pan
+
+
+SENTID: 6
+SENT: I would beat cream cheese , 1/2 cup sugar , 1 egg , the vanilla , and salt together in a bowl until smooth and creamy .
+PREDID: 178
+PRED: beat
+   DOBJ: cream cheese , 1/2 cup sugar , 1 egg , the vanilla , salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1 egg 
+         INGREDIENTS: eggs, egg
+      INGREDIENT SPAN:  1 egg 
+         INGREDIENTS: eggs, egg
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1/2 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour into pie crust ;
+PREDID: 262
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: pie crust
+
+
+SENTID: 8
+SENT: I would sprinkle cheesecake the filling with pecans .
+PREDID: 287
+PRED: cheesecake
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecans
+   OARG: sprinkle
+      NON-INGREDIENT SPAN: sprinkle
+
+
+SENTID: 9
+SENT: I would mix corn syrup , the butter , 1/4 cup sugar , 3 eggs , and rum extract together in a bowl until smooth ;
+PREDID: 315
+PRED: mix
+   DOBJ: corn syrup , the butter , 1/4 cup sugar , 3 eggs , rum
+      INGREDIENT SPAN: corn syrup 
+         INGREDIENTS: corn syrup
+      INGREDIENT SPAN:  rum
+         INGREDIENTS: rum extract
+      INGREDIENT SPAN:  3 eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  1/4 cup sugar 
+         INGREDIENTS: white sugar
+
+PREDID: 362
+PRED: extract
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would pour over pecan layer .
+PREDID: 393
+PRED: pour
+   DOBJ: NULL
+   PARG: pecan layer
+     PREP: over
+      NON-INGREDIENT SPAN: pecan layer
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until a knife inserted in the center of the pie comes out clean , 45 to 50 minutes .
+PREDID: 412
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a knife inserted in the center of the pie comes out clean , 45 to 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 to 50 minutes
+      NON-INGREDIENT SPAN: a knife inserted in the center of the pie comes out clean 
+
+

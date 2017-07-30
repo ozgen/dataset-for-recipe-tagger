@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would combine chocolate syrup , the tomatoes , French onion soup , kidney beans , beef broth , chili powder , the molasses and raisins in a large stock pot and simmer .
+PREDID: 0
+PRED: combine
+   DOBJ: chocolate syrup , the tomatoes , French onion soup , kidney beans , beef broth , chili powder , the molasses, raisins
+      INGREDIENT SPAN:  beef broth 
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN: chocolate syrup 
+         INGREDIENTS: chocolate syrup
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  French onion soup 
+         INGREDIENTS: condensed French onion soup
+      INGREDIENT SPAN:  the molasses
+         INGREDIENTS: molasses
+   PARG: a large stock pot, simmer
+     PREP: in
+      NON-INGREDIENT SPAN: a large stock pot
+      NON-INGREDIENT SPAN:  simmer
+
+
+SENTID: 1
+SENT: I would meanwhile brown the ground beef , in a medium saute pan , over medium-high heat .
+PREDID: 134
+PRED: brown
+   DOBJ: the ground beef , in a medium saute pan
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  in a medium saute pan
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 2
+SENT: Once browned , I would drain grease and add salt and pepper .
+PREDID: 203
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: browned
+     PREP: once
+      NON-INGREDIENT SPAN: browned
+
+PREDID: 217
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would add browned beef , tomato juice and cola flavored carbonated beverage to soup mixture and simmer for an hour .
+

@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: In a large pot , I would melt 1 tablespoon butter or margarine over medium heat :
+PREDID: 12
+PRED: melt
+   DOBJ: 1 tablespoon butter or margarine
+      INGREDIENT SPAN: 1 tablespoon butter or margarine
+         INGREDIENTS: butter
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir vegetables and beef , until beef is brown .
+PREDID: 59
+PRED: cook and stir
+   DOBJ: vegetables, beef
+      INGREDIENT SPAN:  beef
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN: vegetables
+   PARG: beef is brown
+     PREP: until
+      NON-INGREDIENT SPAN: beef is brown
+
+
+SENTID: 2
+SENT: I would stir in basil and parsley .
+PREDID: 105
+PRED: stir
+   DOBJ: NULL
+   PARG: basil, parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: basil
+         INGREDIENTS: dried basil
+
+
+SENTID: 3
+SENT: I would add broth and potatoes .
+PREDID: 127
+PRED: add
+   DOBJ: broth, potatoes
+      INGREDIENT SPAN: broth
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  potatoes
+         INGREDIENTS: cubed potatoes
+
+
+SENTID: 4
+SENT: I would bring to a boil ,
+PREDID: 147
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would simmer until potatoes are tender , about 10-12 minutes .
+PREDID: 160
+PRED: simmer
+   DOBJ: NULL
+   PARG: potatoes are tender , about 10-12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10-12 minutes
+      NON-INGREDIENT SPAN: potatoes are tender 
+
+
+SENTID: 6
+SENT: I would melt the remainder of butter and stir in flour .
+PREDID: 207
+PRED: melt
+   DOBJ: the remainder of butter
+      INGREDIENT SPAN: the remainder of butter
+         INGREDIENTS: butter
+
+PREDID: 234
+PRED: stir
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 7
+SENT: I would add the milk , stirring until smooth .
+PREDID: 246
+PRED: add
+   DOBJ: the milk
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   OARG: stirring until smooth
+      NON-INGREDIENT SPAN: stirring until smooth
+
+
+SENTID: 8
+SENT: I would gradually add milk mixture to the soup , stirring constantly .
+PREDID: 286
+PRED: add
+   DOBJ: milk mixture
+      NON-INGREDIENT SPAN: milk mixture
+   PARG: the soup
+     PREP: to
+      NON-INGREDIENT SPAN: the soup
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 9
+SENT: I would bring to a boil and reduce heat to simmer .
+PREDID: 329
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 344
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: simmer
+     PREP: to
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 10
+SENT: I would stir in cheese .
+PREDID: 363
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: cubed Cheddar cheese
+
+
+SENTID: 11
+SENT: When cheese is melted , add sour cream and heat through .
+PREDID: 395
+PRED: add
+   DOBJ: sour cream, heat
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  heat
+   OARG: when cheese is melted
+      NON-INGREDIENT SPAN: when cheese is melted
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 12
+SENT: Do not boil .
+

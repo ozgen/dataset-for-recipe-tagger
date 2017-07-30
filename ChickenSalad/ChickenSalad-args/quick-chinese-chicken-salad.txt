@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would combine vinegar , the sugar , soy sauce , the vegetable and sesame oils in large bowl , stirring until sugar dissolves .
+PREDID: 0
+PRED: combine
+   DOBJ: vinegar , the sugar , soy sauce , the vegetable, sesame oils
+      INGREDIENT SPAN:  sesame oils
+         INGREDIENTS: Oriental sesame oil
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: Kikkoman Soy Sauce
+      INGREDIENT SPAN:  the vegetable
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: rice vinegar
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   OARG: stirring until sugar dissolves
+      NON-INGREDIENT SPAN: stirring until sugar dissolves
+
+
+SENTID: 1
+SENT: I would add salad mixture and cilantro , tossing to coat all pieces .
+PREDID: 92
+PRED: add
+   DOBJ: salad mixture, cilantro , tossing to coat all pieces
+      INGREDIENT SPAN: salad mixture
+         INGREDIENTS: ounce package mixed salad greens washed drained
+      INGREDIENT SPAN:  cilantro 
+         INGREDIENTS: chopped fresh cilantro parsley
+      NON-INGREDIENT SPAN:  tossing to coat all pieces
+
+
+SENTID: 2
+SENT: I would add chicken ;
+PREDID: 142
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: mediumsize cooked chicken breast halves skinned boned shredded
+
+
+SENTID: 3
+SENT: I would toss to combine .
+PREDID: 153
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 4
+SENT: I would serve immediately .
+PREDID: 167
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would cook bacon and onion together in a large pot over medium heat until the onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+   DOBJ: bacon, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large yellow onion chopped
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: thickcut bacon chopped
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: the onion is translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is translucent 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add ground beef , garlic and cumin to the pot ;
+PREDID: 91
+PRED: add
+   DOBJ: ground beef , garlic, cumin
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 2
+SENT: I would cook and stir until the beef is completely browned , 7 to 10 minutes .
+PREDID: 128
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the beef is completely browned 
+
+
+SENTID: 3
+SENT: I would stir kidney beans , diced tomatoes , the water , chili powder , liquid smoke , the salt , black pepper , and hot pepper sauce into the beef mixture ;
+PREDID: 184
+PRED: stir
+   DOBJ: kidney beans , diced tomatoes , the water , chili powder , liquid smoke , the salt , black pepper , hot pepper sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce fireroasted diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  liquid smoke 
+         INGREDIENTS: liquid smoke flavoring
+      INGREDIENT SPAN: kidney beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: hot pepper sauce such Tabasco taste
+      NON-INGREDIENT SPAN:  hot pepper sauce
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 4
+SENT: I would bring to a simmer and cook until thick , about 1 hour .
+PREDID: 297
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 314
+PRED: cook
+   DOBJ: NULL
+   PARG: thick , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: thick 
+
+
+SENTID: 5
+SENT: I would skim excess grease if desired .
+PREDID: 340
+PRED: skim
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

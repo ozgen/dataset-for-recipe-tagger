@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: I would stir the chicken , the mayonnaise , the celery , pine nuts , lemon juice , the relish , jalapeno pepper , and black pepper together in a mixing bowl until evenly blended .
+PREDID: 0
+PRED: stir
+   DOBJ: the chicken , the mayonnaise , the celery , pine nuts , lemon juice , the relish , jalapeno pepper , black pepper
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: cracked black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  pine nuts 
+         INGREDIENTS: pine nuts
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: small jalapeno pepper seeded minced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: large stalk celery diced
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked chicken diced
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: evenly blended
+     PREP: until
+      NON-INGREDIENT SPAN: evenly blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cover , and refrigerate 20 to 30 minutes to allow the flavors to blend .
+PREDID: 129
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 138
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 20 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 to 30 minutes
+   OARG: to allow the flavors to blend
+      NON-INGREDIENT SPAN: to allow the flavors to blend
+
+

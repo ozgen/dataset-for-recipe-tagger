@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: I would whisk apple cider vinegar , triple sec , and salt together in a salad bowl , stirring to dissolve salt .
+PREDID: 0
+PRED: whisk
+   DOBJ: apple cider vinegar , triple sec , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  triple sec 
+         INGREDIENTS: fluid ounce jiggers triple sec
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: stirring to dissolve salt
+      NON-INGREDIENT SPAN: stirring to dissolve salt
+
+
+SENTID: 1
+SENT: I would toss green cabbage , purple cabbage , the fennel , and onion in the dressing until coated .
+PREDID: 84
+PRED: toss
+   DOBJ: green cabbage , purple cabbage , the fennel , onion in the dressing
+      INGREDIENT SPAN: green cabbage 
+         INGREDIENTS: shredded purple cabbage
+      INGREDIENT SPAN:  onion in the dressing
+         INGREDIENTS: sweet yellow onion sliced
+      INGREDIENT SPAN:  purple cabbage 
+         INGREDIENTS: shredded green cabbage
+      INGREDIENT SPAN:  the fennel 
+         INGREDIENTS: sliced fennel bulbs
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 2
+SENT: I would chill for at least 30 minutes .
+PREDID: 155
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: at least 30 minutes
+
+
+SENTID: 3
+SENT: I would sprinkle slaw with pine nuts to serve .
+PREDID: 180
+PRED: sprinkle
+   DOBJ: slaw
+      NON-INGREDIENT SPAN: slaw
+   PARG: pine nuts
+     PREP: with
+      INGREDIENT SPAN: pine nuts
+         INGREDIENTS: pine nuts
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

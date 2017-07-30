@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13-inch baking dish with cooking spray .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would stir ground beef , the onion , the oats , Cheddar cheese , the milk , the egg , and salt together in a bowl ;
+PREDID: 88
+PRED: stir
+   DOBJ: ground beef , the onion , the oats , Cheddar cheese , the milk , the egg , salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 160
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would divide meat mixture into 8 equal portions and form each into a loaf shape .
+PREDID: 168
+PRED: divide
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: 8 equal portions
+     PREP: into
+      NON-INGREDIENT SPAN: 8 equal portions
+
+PREDID: 206
+PRED: form
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+
+SENTID: 5
+SENT: I would place loaves in prepared baking dish .
+PREDID: 229
+PRED: place
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 6
+SENT: I would stir ketchup , brown sugar , and mustard together in a bowl until smooth .
+PREDID: 261
+PRED: stir
+   DOBJ: ketchup , brown sugar , mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would spread ketchup mixture over meat loaves .
+PREDID: 321
+PRED: spread
+   DOBJ: ketchup mixture
+      NON-INGREDIENT SPAN: ketchup mixture
+   PARG: meat loaves
+     PREP: over
+      NON-INGREDIENT SPAN: meat loaves
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until no longer pink in the center , about 40 minutes .
+PREDID: 356
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+
+SENTID: 9
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

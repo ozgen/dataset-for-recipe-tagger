@@ -1,0 +1,244 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would make the pastry dough by creaming together 12 ounces of cream cheese with 1 pound of butter and the sugar in a large bowl until thoroughly blended .
+PREDID: 38
+PRED: make
+   DOBJ: the pastry dough
+      NON-INGREDIENT SPAN: the pastry dough
+   PARG: creaming together 12 ounces of cream cheese with 1 pound of butter, the sugar in a large bowl until thoroughly blended
+     PREP: by
+      INGREDIENT SPAN: creaming together 12 ounces of cream cheese with 1 pound of butter
+         INGREDIENTS: cream cheese softened
+      INGREDIENT SPAN:  the sugar in a large bowl until thoroughly blended
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ing together 12 ounces of cream with 1 pound of butter
+         INGREDIENTS: butter softened
+
+
+SENTID: 2
+SENT: I would mix in the flour , a little at a time , until the dough is workable .
+PREDID: 159
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: all-purpose flour
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   PARG: the dough is workable
+     PREP: until
+      NON-INGREDIENT SPAN: the dough is workable
+   OARG: a little
+      NON-INGREDIENT SPAN: a little
+
+
+SENTID: 3
+SENT: I would cut the dough into 4 equal-sized pieces , roll the pieces into balls , and refrigerate until needed .
+PREDID: 212
+PRED: cut
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: 4 equal-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 4 equal-sized pieces
+
+PREDID: 246
+PRED: roll
+   DOBJ: the pieces
+      NON-INGREDIENT SPAN: the pieces
+   PARG: balls
+     PREP: into
+      NON-INGREDIENT SPAN: balls
+
+PREDID: 272
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: needed
+     PREP: until
+      NON-INGREDIENT SPAN: needed
+
+
+SENTID: 4
+SENT: To make the filling , mash 12 ounces of cream cheese with brown sugar , pumpkin pie spice , the cinnamon , and salt in a bowl until smooth and well combined ;
+
+SENTID: 5
+SENT: I would beat in eggs , one at a time , incorporating each egg before adding the next one .
+PREDID: 418
+PRED: beat
+   DOBJ: NULL
+   PARG: eggs , one at a time , incorporating each egg before adding the next one
+     PREP: in
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  one at a time 
+      NON-INGREDIENT SPAN:  incorporating each egg before adding the next one
+
+
+SENTID: 6
+SENT: I would mix in the pumpkin , evaporated milk , and vanilla extract until the filling is smooth .
+PREDID: 483
+PRED: mix
+   DOBJ: NULL
+   PARG: the pumpkin , evaporated milk
+     PREP: in
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: solid pack pumpkin
+   OARG: vanilla extract until the filling is smooth
+      INGREDIENT SPAN: vanilla extract until the filling is smooth
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 7
+SENT: I would cut each dough ball in half , and cut each half into 12 pieces -LRB- 96 total pieces -RRB- .
+PREDID: 555
+PRED: cut
+   DOBJ: each dough ball
+      NON-INGREDIENT SPAN: each dough ball
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 581
+PRED: cut
+   DOBJ: each half
+      NON-INGREDIENT SPAN: each half
+   PARG: 12 pieces -lrb- 96 total pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 12 pieces -lrb- 96 total pieces
+
+
+SENTID: 8
+SENT: I would working in batches , press each small piece of dough into the bottom and up the sides of mini muffin cups .
+PREDID: 637
+PRED: press
+   DOBJ: each small piece of dough
+      NON-INGREDIENT SPAN: each small piece of dough
+   PARG: the bottom
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom
+   OARG: working in batches
+      NON-INGREDIENT SPAN: working in batches
+
+
+SENTID: 9
+SENT: I would fill the little crusts almost to the top with the pumpkin filling .
+PREDID: 706
+PRED: fill
+   DOBJ: the little crusts
+      NON-INGREDIENT SPAN: the little crusts
+   PARG: the pumpkin filling
+     PREP: with
+      INGREDIENT SPAN: the pumpkin filling
+         INGREDIENTS: pumpkin pie spice
+   OARG: almost to the top
+      NON-INGREDIENT SPAN: almost to the top
+
+
+SENTID: 10
+SENT: I would refrigerate unused dough until you need it to make the next batch .
+PREDID: 761
+PRED: refrigerate
+   DOBJ: unused dough
+      NON-INGREDIENT SPAN: unused dough
+   PARG: you need it
+     PREP: until
+      NON-INGREDIENT SPAN: you need it
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until the filling is set and the crusts are lightly golden brown , 25 to 30 minutes .
+PREDID: 816
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the filling is set
+     PREP: until
+      NON-INGREDIENT SPAN: the filling is set
+   OARG: the crusts are lightly golden brown , 25 to 30 minutes
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+      NON-INGREDIENT SPAN: the crusts are lightly golden brown 
+
+
+SENTID: 12
+SENT: I would allow to cool completely before frosting .
+PREDID: 906
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely before frosting
+      NON-INGREDIENT SPAN: to cool completely before frosting
+
+
+SENTID: 13
+SENT: I would mash 1/2 cup of butter , the shortening , and 8 ounces of cream cheese together in a bowl until thoroughly combined , and mix in the confectioners ' sugar and marshmallow creme until smooth and creamy .
+PREDID: 942
+PRED: mash
+   DOBJ: 1/2 cup of butter , the shortening , 8 ounces of cream cheese
+      INGREDIENT SPAN: 1/2 cup of butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the shortening 
+         INGREDIENTS: vegetable shortening
+      NON-INGREDIENT SPAN:  8 ounces of cream cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly combined , mix in the confectioners ' sugar, marshmallow creme
+     PREP: until
+      INGREDIENT SPAN:  marshmallow creme
+         INGREDIENTS: ounce jar marshmallow creme
+      INGREDIENT SPAN:  mix in the confectioners ' sugar
+         INGREDIENTS: ounce package confectioners sugar
+      NON-INGREDIENT SPAN: thoroughly combined 
+   PARG: smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 14
+SENT: I would spread or pipe the frosting onto the cooled tarts .
+PREDID: 1107
+PRED: spread or pipe
+   DOBJ: the frosting
+      NON-INGREDIENT SPAN: the frosting
+   PARG: the cooled tarts
+     PREP: onto
+      NON-INGREDIENT SPAN: the cooled tarts
+
+
+SENTID: 15
+SENT: I would sprinkle each tart with a few chopped pecans .
+PREDID: 1149
+PRED: sprinkle
+   DOBJ: each tart
+      NON-INGREDIENT SPAN: each tart
+   PARG: a few chopped pecans
+     PREP: with
+      INGREDIENT SPAN: a few chopped pecans
+         INGREDIENTS: chopped pecans divided
+
+
+SENTID: 16
+SENT: I would refrigerate until serving .
+PREDID: 1187
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

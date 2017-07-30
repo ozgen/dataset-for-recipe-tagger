@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: small red potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large bowl , I would whisk together the mayonnaise and curry powder .
+PREDID: 123
+PRED: whisk
+   DOBJ: the mayonnaise
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 152
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+
+
+SENTID: 4
+SENT: I would add the potatoes , the chicken , the onion and artichoke hearts and mix together until evenly coated .
+PREDID: 164
+PRED: add
+   DOBJ: the potatoes , the chicken , the onion, artichoke hearts
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: small red onions diced
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked diced
+      INGREDIENT SPAN:  artichoke hearts
+         INGREDIENTS: ounce artichoke hearts drained chopped
+      NON-INGREDIENT SPAN: the potatoes 
+
+PREDID: 219
+PRED: mix
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would refrigerate until chilled .
+PREDID: 242
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 6
+SENT: To serve , arrange over a lettuce bed and sprinkle with salt and pepper .
+PREDID: 268
+PRED: serve and arrange
+   DOBJ: NULL
+   PARG: a lettuce bed
+     PREP: over
+      INGREDIENT SPAN: a lettuce bed
+         INGREDIENTS: head lettuce rinsed dried torn
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 299
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

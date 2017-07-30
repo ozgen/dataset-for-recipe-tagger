@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: I would place the beef in a large , deep skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: a large , deep skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet over medium heat
+
+PREDID: 50
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 1
+SENT: I would transfer beef to a strainer over a saucepan , and allow grease to drain for about 5 minutes .
+PREDID: 71
+PRED: transfer
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: beef broth
+   PARG: a strainer over a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a strainer over a saucepan
+
+PREDID: 111
+PRED: allow
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: to drain for about 5 minutes
+      NON-INGREDIENT SPAN: to drain for about 5 minutes
+
+
+SENTID: 2
+SENT: I would mix any drippings remaining in skillet into the saucepan .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   OARG: any drippings remaining in skillet into the saucepan
+      NON-INGREDIENT SPAN: any drippings remaining in skillet into the saucepan
+
+
+SENTID: 3
+SENT: There should be about 1/2 cup drippings .
+
+SENTID: 4
+SENT: I would return beef to skillet .
+PREDID: 195
+PRED: return
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: skillet
+     PREP: to
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 5
+SENT: I would heat the beef drippings in the saucepan over medium heat , and gradually mix in 1/4 cup flour .
+PREDID: 215
+PRED: heat
+   DOBJ: the beef drippings
+      NON-INGREDIENT SPAN: the beef drippings
+   PARG: the saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: the saucepan over medium heat
+
+PREDID: 275
+PRED: mix
+   DOBJ: NULL
+   PARG: 1/4 cup flour
+     PREP: in
+      INGREDIENT SPAN: 1/4 cup flour
+         INGREDIENTS: allpurpose flour divided
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 6
+SENT: I would reduce heat to low , and continue the cooking 10 minutes , stirring continuously , to form a golden brown roux .
+PREDID: 292
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 311
+PRED: continue
+   DOBJ: NULL
+   PARG: the cooking 10 minutes , stirring continuously
+     PREP: for
+      NON-INGREDIENT SPAN: the cooking 10 minutes 
+      NON-INGREDIENT SPAN:  stirring continuously
+   OARG: to form a golden brown roux
+      NON-INGREDIENT SPAN: to form a golden brown roux
+
+
+SENTID: 7
+SENT: I would pour in the beef broth , and remove from heat .
+PREDID: 380
+PRED: pour
+   DOBJ: NULL
+   PARG: the beef broth
+     PREP: in
+      NON-INGREDIENT SPAN: the beef broth
+
+PREDID: 402
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 8
+SENT: I would pour the water into the skillet with the beef , and mix in remaining flour .
+PREDID: 417
+PRED: pour
+   DOBJ: the water
+      INGREDIENT SPAN: the water
+         INGREDIENTS: water
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the beef , mix in remaining flour
+     PREP: with
+      INGREDIENT SPAN:  mix in remaining flour
+         INGREDIENTS: allpurpose flour divided
+      NON-INGREDIENT SPAN: the beef 
+
+
+SENTID: 9
+SENT: I would stir in the roux mixture , chili powder , the carrot , the vinegar , the onion , the salt , the sugar , the paprika , and garlic powder .
+PREDID: 478
+PRED: stir
+   DOBJ: NULL
+   PARG: the roux mixture , chili powder , the carrot , the vinegar , the onion , the salt , the sugar , the paprika , garlic powder
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: grated carrot
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: granulated sugar
+      NON-INGREDIENT SPAN: the roux mixture 
+
+
+SENTID: 10
+SENT: I would bring to a boil , reduce heat to medium-low , and continue cooking 15 minutes , until thickened .
+PREDID: 567
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 580
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 606
+PRED: continue
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   PARG: thickened
+     PREP: until
+      NON-INGREDIENT SPAN: thickened
+   OARG: cooking
+      NON-INGREDIENT SPAN: cooking
+
+
+SENTID: 11
+SENT: When it 's done cooking , take the chili off the heat , cover it , and let it sit for 30 minutes before using it on burgers , etc. .
+PREDID: 666
+PRED: take
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: the heat
+     PREP: off
+      NON-INGREDIENT SPAN: the heat
+   OARG: when it 's done cooking
+      NON-INGREDIENT SPAN: when it 's done cooking
+
+PREDID: 689
+PRED: cover
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+
+PREDID: 700
+PRED: let sit
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: using it on burgers , etc.
+     PREP: before
+      NON-INGREDIENT SPAN:  etc.
+      NON-INGREDIENT SPAN: using it on burgers 
+
+
+SENTID: 12
+SENT: It should thicken to a tasty brown paste as it sits .
+

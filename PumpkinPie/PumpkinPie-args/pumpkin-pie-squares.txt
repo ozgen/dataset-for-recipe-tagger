@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray or grease one 9x13 inch pan .
+PREDID: 38
+PRED: spray or grease
+   DOBJ: one 9x13 inch pan
+      NON-INGREDIENT SPAN: one 9x13 inch pan
+
+
+SENTID: 2
+SENT: I would mix together the flour , the oatmeal , brown sugar and butter or margarine .
+PREDID: 66
+PRED: mix
+   DOBJ: the flour , the oatmeal , brown sugar, butter or margarine
+      INGREDIENT SPAN:  butter or margarine
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  the oatmeal 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would press into pan ;
+PREDID: 125
+PRED: press
+   DOBJ: NULL
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 4
+SENT: I would bake for 20 minutes or until golden brown .
+PREDID: 138
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 5
+SENT: In a large deep metal bowl , I would beat egg whites until soft peaks form .
+PREDID: 195
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a large deep metal bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large deep metal bowl
+   PARG: soft peaks form
+     PREP: until
+      NON-INGREDIENT SPAN: soft peaks form
+
+
+SENTID: 6
+SENT: I would blend together the pumpkin , evaporated milk , egg whites , the sugar , the salt , the cinnamon , the ginger and clove .
+PREDID: 227
+PRED: blend
+   DOBJ: the pumpkin , evaporated milk , egg whites , the sugar , the salt , the cinnamon , the ginger, clove
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  egg whites 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  clove
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+      NON-INGREDIENT SPAN:  the sugar 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour custard into baked crust ;
+PREDID: 311
+PRED: pour
+   DOBJ: NULL
+
+PREDID: 315
+PRED: custard
+   DOBJ: NULL
+   PARG: baked crust
+     PREP: into
+      NON-INGREDIENT SPAN: baked crust
+
+
+SENTID: 8
+SENT: I would bake for 30 minutes or until firm .
+PREDID: 337
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 9
+SENT: I would mix together the chopped nuts , brown sugar and butter .
+PREDID: 365
+PRED: mix
+   DOBJ: the chopped nuts , brown sugar, butter
+      NON-INGREDIENT SPAN: the chopped nuts 
+      NON-INGREDIENT SPAN:  butter
+      NON-INGREDIENT SPAN:  brown sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would sprinkle the topping on custard and bake additional 15 minutes .
+PREDID: 411
+PRED: sprinkle
+   DOBJ: the topping
+      NON-INGREDIENT SPAN: the topping
+   PARG: custard, bake additional 15 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: custard
+      NON-INGREDIENT SPAN:  bake additional 15 minutes
+
+
+SENTID: 11
+SENT: I would remove from oven and allow to cool .
+PREDID: 462
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 479
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 12
+SENT: I would cut into squares and top with whipped cream if desired .
+PREDID: 491
+PRED: cut
+   DOBJ: NULL
+   PARG: squares
+     PREP: into
+      NON-INGREDIENT SPAN: squares
+
+PREDID: 508
+PRED: top
+   DOBJ: NULL
+   PARG: whipped cream
+     PREP: with
+      INGREDIENT SPAN: whipped cream
+         INGREDIENTS: whipped cream
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

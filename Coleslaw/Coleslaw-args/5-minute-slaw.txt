@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: I would whisk red wine vinegar , the sugar , the salt , celery seed , and green onions in a salad bowl until sugar and salt have dissolved .
+PREDID: 0
+PRED: whisk
+   DOBJ: red wine vinegar , the sugar , the salt , celery seed , green onions
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+   PARG: sugar, salt have dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar
+      NON-INGREDIENT SPAN:  salt have dissolved
+
+
+SENTID: 1
+SENT: I would toss coleslaw mix with dressing .
+PREDID: 99
+PRED: toss
+   DOBJ: coleslaw mix
+      INGREDIENT SPAN: coleslaw mix
+         INGREDIENTS: ounce packages coleslaw mix
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 2
+SENT: I would refrigerate 4 to 6 hours .
+PREDID: 127
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 4 to 6 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 to 6 hours
+
+

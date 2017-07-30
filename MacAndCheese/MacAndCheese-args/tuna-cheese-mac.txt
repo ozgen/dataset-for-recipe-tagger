@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a saucepan over medium heat , I would combine cheddar cheese , the milk , the butter , cottage cheese , and sour cream ;
+PREDID: 119
+PRED: combine
+   DOBJ: cheddar cheese , the milk , the butter , cottage cheese , sour cream
+      INGREDIENT SPAN: cheddar cheese 
+         INGREDIENTS: sharp Cheddar cheese shredded
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 4
+SENT: I would stir until melted .
+PREDID: 179
+PRED: stir
+   DOBJ: NULL
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 5
+SENT: I would pour cooked noodles into the cheese mixture and stir until well mixed .
+PREDID: 195
+PRED: pour
+   DOBJ: cooked noodles
+      INGREDIENT SPAN: cooked noodles
+         INGREDIENTS: uncooked egg noodles
+   PARG: the cheese mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the cheese mixture
+
+PREDID: 235
+PRED: stir
+   DOBJ: NULL
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 6
+SENT: I would stir in canned tuna and green peas ;
+PREDID: 254
+PRED: stir
+   DOBJ: NULL
+   PARG: canned tuna, green peas
+     PREP: in
+      INGREDIENT SPAN:  green peas
+         INGREDIENTS: green peas
+      INGREDIENT SPAN: canned tuna
+         INGREDIENTS: ounce tuna drained
+
+
+SENTID: 7
+SENT: I would heat thoroughly .
+PREDID: 283
+PRED: heat
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+

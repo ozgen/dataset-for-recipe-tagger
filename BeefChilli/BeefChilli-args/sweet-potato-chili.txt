@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would place sweet potatoes , stewed tomatoes , tomato sauce , the onion , the celery , the water , chili powder , the cumin , the cinnamon , the salt , black pepper , cayenne pepper , garlic powder , and onion powder in a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: sweet potatoes , stewed tomatoes , tomato sauce , the onion , the celery , the water , chili powder , the cumin , the cinnamon , the salt , black pepper , cayenne pepper , garlic powder , onion powder in a slow cooker
+      INGREDIENT SPAN:  stewed tomatoes 
+         INGREDIENTS: ounce diced stewed tomatoes chili seasonings
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: sweet potatoes 
+         INGREDIENTS: sweet potatoes diced
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced sweet onion
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  onion powder in a slow cooker
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+
+
+SENTID: 1
+SENT: I would cook on high , stirring occasionally , for 5 hours .
+PREDID: 164
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   OARG: stirring occasionally , for 5 hours
+      NON-INGREDIENT SPAN:  for 5 hours
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 2
+SENT: I would heat a large skillet over medium-high heat and stir in ground turkey and ground beef .
+PREDID: 206
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 245
+PRED: stir
+   DOBJ: NULL
+   PARG: ground turkey, ground beef
+     PREP: in
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: ground turkey
+         INGREDIENTS: ground turkey
+
+
+SENTID: 3
+SENT: I would cook and stir until meat is crumbly , evenly browned , and no longer pink , 10 to 15 minutes .
+PREDID: 277
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: meat is crumbly , evenly browned , no longer pink , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: meat is crumbly 
+      NON-INGREDIENT SPAN:  no longer pink 
+
+
+SENTID: 4
+SENT: I would drain and discard any excess grease .
+PREDID: 351
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 5
+SENT: I would add cooked ground turkey , cooked ground beef , black beans , and corn to sweet potato mixture in the slow cooker ;
+PREDID: 382
+PRED: add
+   DOBJ: cooked ground turkey , cooked ground beef , black beans , corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: corn
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      NON-INGREDIENT SPAN: cooked ground turkey 
+      NON-INGREDIENT SPAN:  cooked ground beef 
+   PARG: sweet potato mixture in the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: sweet potato mixture in the slow cooker
+
+
+SENTID: 6
+SENT: I would cook until flavors have blended , 1 to 2 more hours .
+PREDID: 475
+PRED: cook
+   DOBJ: NULL
+   PARG: flavors have blended , 1 to 2 more hours
+     PREP: until
+      NON-INGREDIENT SPAN:  1 to 2 more hours
+      NON-INGREDIENT SPAN: flavors have blended 
+
+
+SENTID: 7
+SENT: I would serve warm .
+PREDID: 517
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

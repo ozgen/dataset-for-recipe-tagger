@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would place the torn bread into a small bowl , and pour in the milk and Worcestershire sauce ;
+PREDID: 0
+PRED: place
+   DOBJ: the torn bread
+      INGREDIENT SPAN: the torn bread
+         INGREDIENTS: slice white bread torn
+   PARG: a small bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a small bowl
+
+PREDID: 35
+PRED: pour
+   DOBJ: NULL
+   PARG: the milk, worcestershire sauce
+     PREP: in
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 1
+SENT: I would set aside for a few minutes for the bread to absorb the liquid .
+PREDID: 71
+PRED: set
+   DOBJ: NULL
+   PARG: a few minutes for the bread
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes for the bread
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to absorb the liquid
+      NON-INGREDIENT SPAN: to absorb the liquid
+
+
+SENTID: 2
+SENT: I would add the ground beef , green onion , seasoned salt , and pepper to the bread ;
+PREDID: 122
+PRED: add
+   DOBJ: the ground beef , green onion , seasoned salt , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: green onion sliced
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+   PARG: the bread
+     PREP: to
+      NON-INGREDIENT SPAN: the bread
+
+
+SENTID: 3
+SENT: I would mix well and place into a 10 ounce , microwave-safe mug .
+PREDID: 183
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 193
+PRED: place
+   DOBJ: NULL
+   PARG: a 10 ounce , microwave-safe mug
+     PREP: into
+      NON-INGREDIENT SPAN: a 10 ounce 
+      NON-INGREDIENT SPAN:  microwave-safe mug
+
+
+SENTID: 4
+SENT: I would cook in the microwave at 70 percent power until the meatloaf is firm and no longer pink in the center , 4 to 5?1/2 minutes depending on the microwave .
+PREDID: 229
+PRED: cook
+   DOBJ: NULL
+   PARG: the microwave at 70 percent power
+     PREP: in
+      NON-INGREDIENT SPAN: the microwave at 70 percent power
+   PARG: the meatloaf is firm, no longer pink in the center , 4 to 5?1/2 minutes depending on the microwave
+     PREP: until
+      NON-INGREDIENT SPAN: the meatloaf is firm
+      NON-INGREDIENT SPAN:  4 to 5?1/2 minutes depending on the microwave
+      NON-INGREDIENT SPAN:  no longer pink in the center 
+
+
+SENTID: 5
+SENT: I would remove the meatloaf from the microwave , and allow to stand 2 minutes before serving .
+PREDID: 351
+PRED: remove
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: the microwave
+     PREP: from
+      NON-INGREDIENT SPAN: the microwave
+
+PREDID: 388
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand 2 minutes before serving
+      NON-INGREDIENT SPAN: to stand 2 minutes before serving
+
+

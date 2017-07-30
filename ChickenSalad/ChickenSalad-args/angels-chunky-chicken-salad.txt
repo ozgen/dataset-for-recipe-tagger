@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: I would combine the chicken , the celery , the mayonnaise , the onion and pickle ;
+PREDID: 0
+PRED: combine
+   DOBJ: the chicken , the celery , the mayonnaise , the onion, pickle
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  pickle
+         INGREDIENTS: dill pickles chopped
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked boneless chicken breast half chopped
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 51
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would season with the garlic powder , the salt and pepper .
+PREDID: 59
+PRED: season
+   DOBJ: NULL
+   PARG: the garlic powder , the salt, pepper
+     PREP: with
+      INGREDIENT SPAN: the garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would serve with lettuce on fresh crusty bread or bun .
+PREDID: 99
+PRED: serve
+   DOBJ: NULL
+   PARG: lettuce
+     PREP: with
+      NON-INGREDIENT SPAN: lettuce
+   PARG: fresh crusty bread or bun
+     PREP: on
+      NON-INGREDIENT SPAN: fresh crusty bread or bun
+
+

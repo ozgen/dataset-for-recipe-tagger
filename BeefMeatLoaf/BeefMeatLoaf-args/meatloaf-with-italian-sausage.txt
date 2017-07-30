@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would chop sausage finely .
+PREDID: 38
+PRED: chop
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: ounce links Italian sausage casings removed
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+
+SENTID: 2
+SENT: In a large bowl combine beef , I would the sausage , egg beat , bell pepper , the onion , the cereal , the milk , Worcestershire sauce , the salt and pepper .
+
+SENTID: 3
+SENT: I would mix together and press into a loaf pan .
+PREDID: 56
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 70
+PRED: press
+   DOBJ: NULL
+   PARG: a loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven for 1 hour , or until cooked through .
+PREDID: 88
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour , or until cooked through
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour 
+      NON-INGREDIENT SPAN:  or until cooked through
+
+
+SENTID: 5
+SENT: I would drain grease from loaf pan periodically during baking .
+PREDID: 140
+PRED: drain pan
+   DOBJ: grease from loaf
+      NON-INGREDIENT SPAN: grease from loaf
+   PARG: baking
+     PREP: during
+      NON-INGREDIENT SPAN: baking
+   OARG: periodically
+      NON-INGREDIENT SPAN: periodically
+
+
+SENTID: 6
+SENT: I would let stand 10 minutes before serving .
+PREDID: 187
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

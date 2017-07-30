@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2-quart casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 2-quart casserole dish
+      NON-INGREDIENT SPAN: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 66
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 108
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 207
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would stir soup , evaporated milk , Colby cheese , and chipotle chile into the cooked pasta until well combined .
+PREDID: 213
+PRED: stir
+   DOBJ: soup , evaporated milk , Colby cheese , chipotle chile
+      INGREDIENT SPAN: soup 
+         INGREDIENTS: ounce condensed Cheddar cheese soup
+      INGREDIENT SPAN:  Colby cheese 
+         INGREDIENTS: shredded Colby cheese
+      INGREDIENT SPAN:  chipotle chile
+         INGREDIENTS: chipotle chile adobo sauce chopped
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: ounce evaporated milk
+   PARG: the cooked pasta until well combined
+     PREP: into
+      NON-INGREDIENT SPAN: the cooked pasta until well combined
+
+
+SENTID: 6
+SENT: I would spoon mixture into the prepared casserole dish .
+PREDID: 301
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 7
+SENT: I would stir together panko bread crumbs and olive oil in a small bowl .
+PREDID: 342
+PRED: stir
+   DOBJ: panko bread crumbs
+      INGREDIENT SPAN: panko bread crumbs
+         INGREDIENTS: panko bread crumbs
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 373
+PRED: olive
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 8
+SENT: I would sprinkle bread crumb mixture over the top of casserole .
+PREDID: 394
+PRED: sprinkle
+   DOBJ: bread crumb mixture over the top of casserole
+      NON-INGREDIENT SPAN: bread crumb mixture over the top of casserole
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until the top is browned and the casserole is bubbling , 25 to 30 minutes .
+PREDID: 441
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the top is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the top is browned
+   OARG: the casserole is bubbling , 25 to 30 minutes
+      NON-INGREDIENT SPAN: the casserole is bubbling 
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+
+

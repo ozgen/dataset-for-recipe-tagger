@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would whisk olive oil , the vinegar , the sugar , and soy sauce together in a small bowl until sugar dissolves .
+PREDID: 0
+PRED: whisk
+   DOBJ: olive oil , the vinegar , the sugar , soy sauce
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: sugar dissolves
+     PREP: until
+      NON-INGREDIENT SPAN: sugar dissolves
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would toss cabbage , green onions , the almonds , sunflower seed kernels , and raisins together in a large mixing bowl .
+PREDID: 79
+PRED: toss
+   DOBJ: cabbage , green onions , the almonds , sunflower seed kernels , raisins
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  sunflower seed kernels 
+         INGREDIENTS: sunflower seed kernels
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: toasted almonds chopped
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: ounce package shredded cabbage
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle the dressing over salad and toss to coat .
+PREDID: 169
+PRED: drizzle
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+PREDID: 199
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover bowl with plastic wrap and refrigerate at least 1 hour before serving .
+PREDID: 207
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 234
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

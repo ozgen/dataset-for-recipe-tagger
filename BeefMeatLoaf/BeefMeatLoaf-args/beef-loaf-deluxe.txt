@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 15x10 inch roasting pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 15x10 inch roasting pan
+      INGREDIENT SPAN: a 15x10 inch roasting pan
+         INGREDIENTS: baking potatoes peeled sliced inch thick
+
+
+SENTID: 2
+SENT: I would place the potatoes , green and red peppers , and onions in the pan and toss with the 2 tablespoons of vegetable oil .
+PREDID: 66
+PRED: place
+   DOBJ: the potatoes , green, red peppers , onions in the pan
+      INGREDIENT SPAN:  onions in the pan
+         INGREDIENTS: onion sliced
+      INGREDIENT SPAN:  red peppers 
+         INGREDIENTS: green bell pepper sliced
+      NON-INGREDIENT SPAN: the potatoes 
+      NON-INGREDIENT SPAN:  green
+
+PREDID: 122
+PRED: toss
+   DOBJ: NULL
+   PARG: the 2 tablespoons of vegetable oil
+     PREP: with
+      INGREDIENT SPAN: the 2 tablespoons of vegetable oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 3
+SENT: I would bake in a preheated oven , uncovered , for 20 minutes .
+PREDID: 160
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven , uncovered , for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  uncovered 
+      NON-INGREDIENT SPAN: a preheated oven 
+      NON-INGREDIENT SPAN:  for 20 minutes
+
+
+SENTID: 4
+SENT: I would meanwhile , in a mixing bowl , combine egg , ground beef , the parsley , Worcestershire sauce , the garlic and bread crumbs .
+PREDID: 228
+PRED: combine
+   DOBJ: egg , ground beef , the parsley , Worcestershire sauce , the garlic, bread crumbs
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: fine dry bread crumbs
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: minced fresh parsley
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  the garlic
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would mix thoroughly .
+PREDID: 299
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 6
+SENT: I would shape into a loaf about 8x4x4 inches .
+PREDID: 313
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf about 8x4x4 inches
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf about 8x4x4 inches
+
+
+SENTID: 7
+SENT: When vegetables have cooked for 20 minutes , reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 381
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   OARG: when vegetables have cooked for 20 minutes
+      INGREDIENT SPAN: when vegetables have cooked for 20 minutes
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 8
+SENT: I would take the roasting pan out of oven and stir in zucchini .
+PREDID: 418
+PRED: take pan
+   DOBJ: the roasting
+      NON-INGREDIENT SPAN: the roasting
+   PARG: of oven
+     PREP: out
+      NON-INGREDIENT SPAN: of oven
+
+PREDID: 448
+PRED: stir
+   DOBJ: NULL
+   PARG: zucchini
+     PREP: in
+      INGREDIENT SPAN: zucchini
+         INGREDIENTS: zucchini sliced
+
+
+SENTID: 9
+SENT: I would push the vegetables to the sides of the pan .
+PREDID: 460
+PRED: push
+   DOBJ: the vegetables
+      NON-INGREDIENT SPAN: the vegetables
+   PARG: the sides of the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the sides of the pan
+
+
+SENTID: 10
+SENT: I would place the meat loaf in the center of the pan and pour the tomato sauce over the loaf and vegetables .
+PREDID: 496
+PRED: place
+   DOBJ: the meat loaf
+      NON-INGREDIENT SPAN: the meat loaf
+   PARG: the center of the pan
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the pan
+
+PREDID: 534
+PRED: pour
+   DOBJ: the tomato sauce
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce tomato sauce
+   PARG: the loaf, vegetables
+     PREP: over
+      NON-INGREDIENT SPAN: the loaf
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 11
+SENT: I would season with salt and pepper to taste .
+PREDID: 577
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 12
+SENT: I would bake in a preheated oven , uncovered , for 30 minutes or until done .
+PREDID: 608
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven , uncovered , for 30 minutes or until done
+     PREP: in
+      NON-INGREDIENT SPAN:  uncovered 
+      NON-INGREDIENT SPAN:  for 30 minutes or until done
+      NON-INGREDIENT SPAN: a preheated oven 
+
+

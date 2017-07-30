@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9x13 inch pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 9x13 inch pan
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: In a large bowl , I would sift together the flour , baking powder , baking soda , the cinnamon and salt .
+PREDID: 78
+PRED: sift
+   DOBJ: the flour , baking powder , baking soda , the cinnamon, salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: wholewheat flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in the wheat germ .
+PREDID: 139
+PRED: stir
+   DOBJ: NULL
+   PARG: the wheat germ
+     PREP: in
+      INGREDIENT SPAN: the wheat germ
+         INGREDIENTS: wheat germ
+
+
+SENTID: 4
+SENT: I would make a well in the center and add sugar , the oil , the eggs and vanilla .
+PREDID: 158
+PRED: make
+   DOBJ: a well in the center
+      NON-INGREDIENT SPAN: a well in the center
+
+PREDID: 181
+PRED: add
+   DOBJ: sugar , the oil , the eggs, vanilla
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: Mix well , I would 
+
+SENTID: 6
+SENT: I would stir in shredded carrots , chopped nuts , the coconut and pineapple .
+PREDID: 209
+PRED: stir
+   DOBJ: NULL
+   PARG: shredded carrots , chopped nuts , the coconut, pineapple
+     PREP: in
+      INGREDIENT SPAN: shredded carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  chopped nuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the coconut
+         INGREDIENTS: flaked coconut
+
+
+SENTID: 7
+SENT: I would spread batter into a 9x13 inch pan .
+PREDID: 263
+PRED: spread
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: a 9x13 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 45 minutes , or until the center springs back when lightly tapped .
+PREDID: 292
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes , or until the center springs back when lightly tapped
+     PREP: in
+      NON-INGREDIENT SPAN:  or until the center springs back when lightly tapped
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes 
+
+

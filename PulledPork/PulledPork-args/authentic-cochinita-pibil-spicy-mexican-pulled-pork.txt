@@ -1,0 +1,220 @@
+SENTID: 0
+SENT: I would combine the onion , habanero peppers , lime juice , and salt in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: the onion , habanero peppers , lime juice , salt in a bowl
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: red onion sliced thin
+      INGREDIENT SPAN:  habanero peppers 
+         INGREDIENTS: habanero peppers sliced
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: fresh orange juice, limes juiced
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: fresh orange juice, limes juiced
+
+
+SENTID: 1
+SENT: I would cover and refrigerate while preparing and cooking the pork .
+PREDID: 57
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: preparing, cooking the pork
+     PREP: while
+      INGREDIENT SPAN:  cooking the pork
+         INGREDIENTS: boneless pork shoulder cut 1inch cubes
+      NON-INGREDIENT SPAN: preparing
+
+
+SENTID: 2
+SENT: I would use rubber gloves when preparing the habanero peppers and avoid the touching your eyes , the nose , or skin while slicing peppers .
+PREDID: 108
+PRED: use
+   DOBJ: rubber gloves, your eyes , the nose , or skin
+      NON-INGREDIENT SPAN:  or skin
+      NON-INGREDIENT SPAN:  the nose 
+      NON-INGREDIENT SPAN: rubber gloves
+      NON-INGREDIENT SPAN:  your eyes 
+   PARG: slicing peppers
+     PREP: while
+      INGREDIENT SPAN: slicing peppers
+         INGREDIENTS: dried guajillo chile peppers seeded deveined
+   OARG: when preparing the habanero peppers
+      INGREDIENT SPAN: when preparing the habanero peppers
+         INGREDIENTS: salt pepper taste
+
+PREDID: 157
+PRED: avoid
+   DOBJ: the touching
+      NON-INGREDIENT SPAN: the touching
+
+
+SENTID: 3
+SENT: I would place the guajillo peppers in a bowl ;
+PREDID: 210
+PRED: place
+   DOBJ: the guajillo peppers
+      NON-INGREDIENT SPAN: the guajillo peppers
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 4
+SENT: I would pour enough hot water over the peppers to cover .
+PREDID: 241
+PRED: pour
+   DOBJ: enough hot water
+      NON-INGREDIENT SPAN: enough hot water
+   PARG: the peppers
+     PREP: over
+      NON-INGREDIENT SPAN: the peppers
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 5
+SENT: I would allow to soak until the peppers are softened , about 10 minutes .
+PREDID: 281
+PRED: allow
+   DOBJ: NULL
+   OARG: to soak until the peppers are softened , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: to soak until the peppers are softened 
+
+
+SENTID: 6
+SENT: I would heat the oil in a large skillet at medium-high heat .
+PREDID: 334
+PRED: heat
+   DOBJ: the oil in a large skillet
+      INGREDIENT SPAN: the oil in a large skillet
+         INGREDIENTS: vegetable oil
+   PARG: medium-high heat
+     PREP: at
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 7
+SENT: I would season pork with salt and pepper ;
+PREDID: 377
+PRED: season
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 8
+SENT: I would cook in the hot oil until completely browned , 15 to 20 minutes .
+PREDID: 405
+PRED: cook
+   DOBJ: NULL
+   PARG: the hot oil until completely browned , 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil until completely browned 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 9
+SENT: I would transfer the pork to a slow cooker .
+PREDID: 457
+PRED: transfer
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 10
+SENT: I would combine the guajillo peppers , orange juice , the vinegar , the garlic , and achiote paste in a blender ;
+PREDID: 486
+PRED: combine
+   DOBJ: the guajillo peppers , orange juice , the vinegar , the garlic , achiote paste in a blender
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  achiote paste in a blender
+         INGREDIENTS: achiote paste
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  orange juice 
+      NON-INGREDIENT SPAN: the guajillo peppers 
+
+
+SENTID: 11
+SENT: I would blend until smooth .
+PREDID: 565
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 12
+SENT: I would pour the sauce over the pork cubes in the slow cooker .
+PREDID: 582
+PRED: pour
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: the pork cubes in the slow cooker
+     PREP: over
+      NON-INGREDIENT SPAN: the pork cubes in the slow cooker
+
+
+SENTID: 13
+SENT: I would cook on High until the pork easily falls apart , 6 to 8 hours .
+PREDID: 626
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: the pork easily falls apart , 6 to 8 hours
+     PREP: until
+      NON-INGREDIENT SPAN: the pork easily falls apart 
+      NON-INGREDIENT SPAN:  6 to 8 hours
+
+
+SENTID: 14
+SENT: I would remove the pork to a serving dish and shred with 2 forks .
+PREDID: 675
+PRED: remove
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: a serving dish, shred with 2 forks
+     PREP: to
+      NON-INGREDIENT SPAN: a serving dish
+      NON-INGREDIENT SPAN:  shred with 2 forks
+
+
+SENTID: 15
+SENT: I would pour the achiote sauce over the shredded pork .
+PREDID: 721
+PRED: pour
+   DOBJ: the achiote sauce
+      NON-INGREDIENT SPAN: the achiote sauce
+   PARG: the shredded pork
+     PREP: over
+      NON-INGREDIENT SPAN: the shredded pork
+
+
+SENTID: 16
+SENT: To serve , top with the onion-habanero salsa .
+PREDID: 762
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 768
+PRED: top
+   DOBJ: NULL
+   PARG: the onion-habanero salsa
+     PREP: with
+      NON-INGREDIENT SPAN: the onion-habanero salsa
+
+

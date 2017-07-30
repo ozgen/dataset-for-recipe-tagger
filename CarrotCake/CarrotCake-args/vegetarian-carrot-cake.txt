@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would butter an 8 inch springform pan .
+PREDID: 38
+PRED: butter
+   DOBJ: an 8 inch springform pan
+      NON-INGREDIENT SPAN: an 8 inch springform pan
+
+
+SENTID: 2
+SENT: In a small bowl , I would add lemon juice to milk .
+PREDID: 78
+PRED: add
+   DOBJ: lemon juice
+      INGREDIENT SPAN: lemon juice
+         INGREDIENTS: lemon juice
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: milk
+     PREP: to
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+
+SENTID: 3
+SENT: I would stir together and let stand 5 minutes .
+PREDID: 98
+PRED: stir
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 113
+PRED: let
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: stand
+      NON-INGREDIENT SPAN: stand
+
+
+SENTID: 4
+SENT: I would sift flour , baking powder , the cinnamon , the cloves and salt together and set aside .
+PREDID: 130
+PRED: sift
+   DOBJ: flour , baking powder , the cinnamon , the cloves, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 192
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: In a large bowl , I would cream oil , orange zest and brown sugar .
+PREDID: 208
+PRED: cream
+   DOBJ: oil , orange zest, brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN: oil 
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  orange zest
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: I would add sour milk and vanilla .
+PREDID: 241
+PRED: add
+   DOBJ: sour milk, vanilla
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN: sour milk
+
+
+SENTID: 7
+SENT: I would add flour mixture and beat until smooth .
+PREDID: 263
+PRED: add
+   DOBJ: flour mixture
+      INGREDIENT SPAN: flour mixture
+         INGREDIENTS: whole wheat flour
+
+PREDID: 281
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would stir in the grated carrots and chopped nuts .
+PREDID: 297
+PRED: stir
+   DOBJ: NULL
+   PARG: the grated carrots, chopped nuts
+     PREP: in
+      INGREDIENT SPAN: the grated carrots
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  chopped nuts
+         INGREDIENTS: chopped walnuts
+
+
+SENTID: 9
+SENT: I would pour the batter into an 8 inch springform or other deep 8 inch pan .
+PREDID: 334
+PRED: pour
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: an 8 inch springform or other deep 8 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: an 8 inch springform or other deep 8 inch pan
+
+
+SENTID: 10
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour , or until a toothpick inserted into the cake comes out clean .
+PREDID: 388
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 11
+SENT: I would allow to cool .
+PREDID: 477
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+

@@ -1,0 +1,65 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="blend
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="pat
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="layer
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="layer
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="layer
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="using
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="roll
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="keep
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="bake
+11", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees f -lrb- 175 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1_ing[label="DOBJ: ground beef, steak sauce, dry bread crumbs, egg", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="LOCOROBJ:in a large mixing bowl"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: in green bell pepper, bunch fresh cilantro, package dry onion soup mix, clove garlic chopped, onion", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="the beef mixture"]
+P4_0_0[label="LOCOROBJ:on a large piece of aluminum foil", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_1_0[label="LOCOROBJ:into a thin ", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+P4_1_1[label="LOCOROBJ:into  flat rectangle", shape=box, style=filled, fillcolor=white]
+P4_1_1 -> E4
+D5_ing[label="DOBJ: slices thinly ham", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="LOCOROBJ:from end to end"]
+E5 -> E6 [label="ham"]
+P6_0_ing[label="COOBJECT: with slices Cheddar cheese", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="cheese"]
+P7_0_ing[label="COOBJECT: with slices thinly ham", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="the foil"]
+E8 -> E9 [label="the meatloaf"]
+P9_0_0[label="DURATION:while pinching the ends", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="aluminum foil"]
+P10_0_0[label="OTHER:around the meat loaf", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+P10_0_1[label="OTHER:around place on a medium baking sheet", shape=box, style=filled, fillcolor=white]
+P10_0_1 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_0[label="DURATION:in the preheated oven for 1 hour", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

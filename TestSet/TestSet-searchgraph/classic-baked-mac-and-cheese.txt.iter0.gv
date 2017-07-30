@@ -1,0 +1,106 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="heat
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="or
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="whisk
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="simmer
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="or
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="remove
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="add
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="stir
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="heat
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="drain
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="add
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="toss
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="spoon
+19", shape=oval, style=filled, fillcolor=azure]
+E20[label="top
+20", shape=oval, style=filled, fillcolor=azure]
+E21[label="bake
+21", shape=oval, style=filled, fillcolor=azure]
+E22[label="or
+22", shape=oval, style=filled, fillcolor=azure]
+P12_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P12_0 -> E12
+D0[label="DOBJ: elbow macaroni", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="OTHER:as directed on package , omitting salt", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: cloves garlic minced, chopped red onion", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D15[label="DOBJ: oven to 350 degrees f.", shape=box, style=filled, fillcolor=white]
+D15 -> E15
+D1[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:in large saucepan on medium-high heat", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+E2 -> E3 [label="5 min"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="OTHER:until crisp-tender", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT PREP"]
+P6_1_ing[label="COOBJECT: in flour, dry mustard", shape=box, style=filled, fillcolor=peachpuff]
+P6_1_ing -> E6
+E6 -> E7 [label="1 min"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_ing[label="COOBJECT: in milk", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+E1 -> E9 [label="COOBJECT:in  cooking"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="LOCOROBJ:on low heat 5 to 7 min", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_0[label="OTHER:until thickened", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+E12 -> E13 [label="3 cups"]
+E11 -> E13 [label="IMPLICIT PREP"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_0[label="OTHER:until melted", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+E0 -> E16 [label="macaroni"]
+E15 -> E16 [label="IMPLICIT PREP"]
+E16 -> E17 [label="IMPLICIT DOBJ"]
+P17_0_ing[label="COOBJECT: to KRAFT MozzaCheddar Light Shredded Cheese", shape=box, style=filled, fillcolor=peachpuff]
+P17_0_ing -> E17
+E17 -> E18 [label="IMPLICIT DOBJ"]
+E14 -> E18 [label="LOCOROBJ:to coat"]
+E18 -> E19 [label="IMPLICIT DOBJ"]
+P19_0_0[label="LOCOROBJ:into 2.5-l casserole dish", shape=box, style=filled, fillcolor=white]
+P19_0_0 -> E19
+E19 -> E20 [label="IMPLICIT DOBJ"]
+P20_0_ing[label="COOBJECT: with KRAFT MozzaCheddar Light Shredded Cheese", shape=box, style=filled, fillcolor=peachpuff]
+P20_0_ing -> E20
+E20 -> E21 [label="20 min"]
+E21 -> E22 [label="IMPLICIT DOBJ"]
+P22_0_0[label="OTHER:until heated", shape=box, style=filled, fillcolor=white]
+P22_0_0 -> E22
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E22 -> EOR
+}

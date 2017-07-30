@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the ground beef , water chestnuts , the cheese , the onion , chile sauce , the mustard and soy sauce .
+PREDID: 13
+PRED: combine
+   DOBJ: the ground beef , water chestnuts , the cheese , the onion , chile sauce , the mustard, soy sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  chile sauce 
+         INGREDIENTS: chile sauce
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: cubed Cheddar cheese
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  water chestnuts 
+         INGREDIENTS: chopped water chestnuts
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix together well and form into 6 patties .
+PREDID: 92
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 110
+PRED: form
+   DOBJ: NULL
+   PARG: 6 patties
+     PREP: into
+      NON-INGREDIENT SPAN: 6 patties
+
+
+SENTID: 2
+SENT: Using a griddle or skillet , I would cook the patties over medium heat for about 5 minutes per side , or to desired doneness .
+PREDID: 150
+PRED: cook
+   DOBJ: the patties over medium heat
+      NON-INGREDIENT SPAN: the patties over medium heat
+   PARG: about 5 minutes per side
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes per side
+   OARG: using a griddle or skillet
+      NON-INGREDIENT SPAN: using a griddle or skillet
+
+

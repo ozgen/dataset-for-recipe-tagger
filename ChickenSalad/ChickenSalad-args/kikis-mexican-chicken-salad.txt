@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: In a large bowl , I would gently mix the chicken , the carrots , red bell pepper , the jicama , red onion , the corn , cherry tomatoes , the avocados , and cilantro .
+PREDID: 19
+PRED: mix
+   DOBJ: the chicken , the carrots , red bell pepper , the jicama , red onion , the corn , cherry tomatoes , the avocados , cilantro
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: julienned jicama
+      INGREDIENT SPAN:  cherry tomatoes 
+         INGREDIENTS: cherry tomatoes halved
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: julienned red onion
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: julienned carrots
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: julienned red bell pepper
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the avocados 
+         INGREDIENTS: avocados peeled pitted chopped
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: shredded cooked chicken meat
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 1
+SENT: In a separate bowl , I would mix the sour cream , the mayonnaise , lemon juice , the cumin , the salt , the pepper , taco seasoning , and hot pepper sauce .
+PREDID: 128
+PRED: mix
+   DOBJ: the sour cream , the mayonnaise , lemon juice , the cumin , the salt , the pepper , taco seasoning , hot pepper sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  taco seasoning 
+         INGREDIENTS: ounce package taco seasoning
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: hot pepper sauce
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would pour over the salad , and toss to coat .
+PREDID: 216
+PRED: pour
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 236
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover and refrigerate at least 1 hour before serving .
+PREDID: 247
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour before serving
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour before serving
+
+

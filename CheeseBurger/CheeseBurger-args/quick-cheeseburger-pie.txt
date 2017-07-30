@@ -1,0 +1,210 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: To Make Pat-in-Pan Pastry :
+
+SENTID: 2
+SENT: In a medium bowl , I would mix 1?1/3 cups flour and 1/2 teaspoon salt .
+PREDID: 75
+PRED: mix
+   DOBJ: 1?1/3 cups flour, 1/2 teaspoon salt
+      INGREDIENT SPAN: 1?1/3 cups flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 3
+SENT: I would cut in shortening until mixture resembles tiny peas .
+PREDID: 111
+PRED: cut
+   DOBJ: NULL
+   PARG: shortening until mixture resembles tiny peas
+     PREP: in
+      INGREDIENT SPAN: shortening until mixture resembles tiny peas
+         INGREDIENTS: shortening
+
+
+SENTID: 4
+SENT: I would add cold water 1 tablespoon at a time , stirring with a fork after each addition .
+PREDID: 156
+PRED: add
+   DOBJ: cold water
+      INGREDIENT SPAN: cold water
+         INGREDIENTS: cold water
+   OARG: 1 tablespoon at a time
+      NON-INGREDIENT SPAN: 1 tablespoon at a time
+   OARG: stirring with a fork after each addition
+      NON-INGREDIENT SPAN: stirring with a fork after each addition
+
+
+SENTID: 5
+SENT: I would mix lightly just until pastry almost cleans sides of bowl .
+PREDID: 222
+PRED: mix
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: just until pastry almost cleans sides of bowl
+      NON-INGREDIENT SPAN: just until pastry almost cleans sides of bowl
+
+
+SENTID: 6
+SENT: I would pat into bottom and sides of an 8 inch pie pan .
+PREDID: 271
+PRED: pat
+   DOBJ: NULL
+   PARG: bottom, sides of an 8 inch pie pan
+     PREP: into
+      NON-INGREDIENT SPAN: bottom
+      NON-INGREDIENT SPAN:  sides of an 8 inch pie pan
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 15 minutes .
+PREDID: 308
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 8
+SENT: To Make Filling :
+
+SENTID: 9
+SENT: I would crumble ground beef into a large skillet and saute over medium heat for 1 minute .
+PREDID: 354
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 391
+PRED: saute
+   DOBJ: medium heat for 1 minute
+      NON-INGREDIENT SPAN: medium heat for 1 minute
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 10
+SENT: I would add onion and garlic .
+PREDID: 421
+PRED: add
+   DOBJ: NULL
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: onion
+         INGREDIENTS: small onion chopped
+
+
+SENTID: 11
+SENT: I would continue to saute until onion is browned , about 10 minutes .
+PREDID: 439
+PRED: continue
+   DOBJ: NULL
+   OARG: to saute until onion is browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: to saute until onion is browned 
+
+
+SENTID: 12
+SENT: I would drain grease from mixture .
+PREDID: 489
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: mixture
+     PREP: from
+      NON-INGREDIENT SPAN: mixture
+
+
+SENTID: 13
+SENT: I would sprinkle beef mixture with 1/2 teaspoon salt and 1/4 cup flour .
+PREDID: 512
+PRED: sprinkle
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: 1/2 teaspoon salt, 1/4 cup flour
+     PREP: with
+      INGREDIENT SPAN: 1/2 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1/4 cup flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 14
+SENT: I would stir in pickle liquid , the milk , the pickles , and 1 cup shredded cheese .
+PREDID: 565
+PRED: stir
+   DOBJ: NULL
+   PARG: pickle liquid , the milk , the pickles , 1 cup shredded cheese
+     PREP: in
+      INGREDIENT SPAN:  1 cup shredded cheese
+         INGREDIENTS: shredded Swiss cheese divided
+      INGREDIENT SPAN: pickle liquid 
+         INGREDIENTS: dill pickle juice
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: chopped dill pickles
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 15
+SENT: I would spoon mixture into pastry shell .
+PREDID: 619
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pastry shell
+     PREP: into
+      NON-INGREDIENT SPAN: pastry shell
+
+
+SENTID: 16
+SENT: I would bake in preheated oven for 15 minutes .
+PREDID: 647
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+
+
+SENTID: 17
+SENT: I would sprinkle top with remaining 1 cup cheese and bake an additional 5 minutes , until pastry is golden brown and cheese is bubbly .
+PREDID: 679
+PRED: sprinkle
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: remaining 1 cup cheese
+     PREP: with
+      INGREDIENT SPAN: remaining 1 cup cheese
+         INGREDIENTS: shredded Swiss cheese divided
+
+PREDID: 716
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 5 minutes , until pastry is golden brown, cheese is bubbly
+     PREP: for
+      INGREDIENT SPAN:  cheese is bubbly
+         INGREDIENTS: shredded Swiss cheese divided
+      NON-INGREDIENT SPAN:  until pastry is golden brown
+      NON-INGREDIENT SPAN: an additional 5 minutes 
+
+

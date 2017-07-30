@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In large skillet over medium heat , I would cook beef until browned .
+PREDID: 67
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet over medium heat
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 88
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would combine with taco seasoning and refried beans .
+PREDID: 94
+PRED: combine
+   DOBJ: NULL
+   PARG: taco seasoning, refried beans
+     PREP: with
+      INGREDIENT SPAN:  refried beans
+         INGREDIENTS: ounce refried beans
+      INGREDIENT SPAN: taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix
+
+
+SENTID: 4
+SENT: I would spread half of mixture in 9x13 inch baking dish .
+PREDID: 134
+PRED: spread
+   DOBJ: half of mixture
+      NON-INGREDIENT SPAN: half of mixture
+   PARG: 9x13 inch baking dish
+     PREP: in
+      INGREDIENT SPAN: 9x13 inch baking dish
+         INGREDIENTS: inch flour tortillas
+
+
+SENTID: 5
+SENT: I would top with two tortillas , trimming if necessary , and half of cheese .
+PREDID: 174
+PRED: top
+   DOBJ: NULL
+   PARG: two tortillas
+     PREP: with
+      NON-INGREDIENT SPAN: two tortillas
+   OARG: trimming if necessary , half of cheese
+      INGREDIENT SPAN:  half of cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: trimming if necessary 
+
+
+SENTID: 6
+SENT: I would repeat layers .
+PREDID: 230
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 7
+SENT: I would bake 35 to 45 minutes until heated through and cheese is bubbly .
+PREDID: 243
+PRED: bake
+   DOBJ: NULL
+   PARG: 35 to 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 45 minutes
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+   OARG: cheese is bubbly
+      NON-INGREDIENT SPAN: cheese is bubbly
+
+
+SENTID: 8
+SENT: I would top with green onions and tomatoes .
+PREDID: 296
+PRED: top
+   DOBJ: NULL
+   PARG: green onions, tomatoes
+     PREP: with
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: roma plum tomatoes chopped
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: green onions chopped
+
+
+SENTID: 9
+SENT: I would let cool 5 minutes before serving .
+PREDID: 326
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

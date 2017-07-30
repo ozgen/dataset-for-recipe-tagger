@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would bring the wild rice and chicken broth to a boil in a saucepan .
+PREDID: 0
+PRED: bring
+   DOBJ: the wild rice, chicken broth
+      INGREDIENT SPAN: the wild rice
+         INGREDIENTS: wild rice
+      INGREDIENT SPAN:  chicken broth
+         INGREDIENTS: chicken broth
+   PARG: a boil in a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until the rice is tender but not mushy , 30 to 45 minutes .
+
+SENTID: 2
+SENT: I would drain off any excess liquid , fluff the rice with a fork , and cook uncovered 5 minutes more .
+PREDID: 50
+PRED: drain
+   DOBJ: any excess liquid
+      NON-INGREDIENT SPAN: any excess liquid
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 74
+PRED: fluff
+   DOBJ: the rice
+      NON-INGREDIENT SPAN: the rice
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 103
+PRED: uncovered
+   DOBJ: NULL
+   OARG: 5 minutes more
+      NON-INGREDIENT SPAN: 5 minutes more
+
+
+SENTID: 3
+SENT: I would remove from heat and let the rice cool thoroughly in refrigerator , about 1 hour .
+PREDID: 125
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 142
+PRED: let cool
+   DOBJ: the rice
+      NON-INGREDIENT SPAN: the rice
+   PARG: refrigerator , about 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: refrigerator 
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would transfer wild rice to a large salad bowl and toss with cooked chicken , the grapes , the cashews , and water chestnuts .
+PREDID: 192
+PRED: transfer
+   DOBJ: wild rice
+      NON-INGREDIENT SPAN: wild rice
+   PARG: a large salad bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large salad bowl
+
+PREDID: 228
+PRED: toss
+   DOBJ: NULL
+   PARG: cooked chicken , the grapes , the cashews , water chestnuts
+     PREP: with
+      INGREDIENT SPAN:  the cashews 
+         INGREDIENTS: roasted salted cashews
+      INGREDIENT SPAN:  water chestnuts
+         INGREDIENTS: ounce sliced water chestnuts drained
+      INGREDIENT SPAN: cooked chicken 
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes
+
+
+SENTID: 5
+SENT: I would whisk mayonnaise , seasoned salt , soy sauce , and curry powder in a separate bowl .
+PREDID: 283
+PRED: whisk
+   DOBJ: mayonnaise , seasoned salt , soy sauce , curry powder in a separate bowl
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  curry powder in a separate bowl
+         INGREDIENTS: curry powder
+
+
+SENTID: 6
+SENT: I would pour the dressing over the salad and toss again .
+PREDID: 351
+PRED: pour
+   DOBJ: the dressing over the salad
+      NON-INGREDIENT SPAN: the dressing over the salad
+
+PREDID: 381
+PRED: toss
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 7
+SENT: I would chill thoroughly , at least 1 hour or overnight for best flavor .
+PREDID: 391
+PRED: chill
+   DOBJ: NULL
+   PARG: least 1 hour or overnight for best flavor
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour or overnight for best flavor
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+

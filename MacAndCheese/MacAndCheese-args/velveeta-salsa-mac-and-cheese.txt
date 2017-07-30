@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef and garlic in the hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 37
+PRED: cook and stir
+   DOBJ: beef, garlic in the hot skillet
+      INGREDIENT SPAN:  garlic in the hot skillet
+         INGREDIENTS: minced garlic
+      NON-INGREDIENT SPAN: beef
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 111
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would add salsa and water ;
+PREDID: 133
+PRED: add
+   DOBJ: salsa, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: ounce jar chunky salsa
+
+
+SENTID: 4
+SENT: I would bring to a boil .
+PREDID: 150
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would stir in macaroni ;
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni
+     PREP: in
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package elbow macaroni
+
+
+SENTID: 6
+SENT: I would reduce heat and cover skillet .
+PREDID: 178
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 191
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 7
+SENT: I would simmer until macaroni is tender , 8 to 10 minutes .
+PREDID: 204
+PRED: simmer
+   DOBJ: NULL
+   PARG: macaroni is tender , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: macaroni is tender 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 8
+SENT: I would stir cheese into mixture until melted .
+PREDID: 245
+PRED: stir
+   DOBJ: cheese
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: processed cheese food such Velveeta cut 1/2inch
+   PARG: mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mixture
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+

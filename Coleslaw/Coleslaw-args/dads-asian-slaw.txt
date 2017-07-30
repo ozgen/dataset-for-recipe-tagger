@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would crush the ramen noodles in a bowl , and stir in the beef seasoning packet , sunflower seeds , the almonds , green onions , the oil and vinegar dressing , and sugar , mixing until the sugar is dissolved .
+PREDID: 0
+PRED: crush
+   DOBJ: the ramen noodles
+      INGREDIENT SPAN: the ramen noodles
+         INGREDIENTS: ounce package beef flavor ramen noodles seasoning packet
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 31
+PRED: stir
+   DOBJ: NULL
+   PARG: the beef seasoning packet , sunflower seeds , the almonds , green onions , the oil, vinegar dressing , sugar
+     PREP: in
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: bottled oil vinegar salad dressing such Newman Own
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: ounce package roasted sunflower seed kernels
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: ounce package sliced almonds
+      NON-INGREDIENT SPAN: the beef seasoning packet 
+      NON-INGREDIENT SPAN:  vinegar dressing 
+   OARG: mixing until the sugar is dissolved
+      NON-INGREDIENT SPAN: mixing until the sugar is dissolved
+
+
+SENTID: 1
+SENT: I would place the coleslaw mix into a large salad bowl , pour the dressing mixture over , and toss lightly to combine well .
+PREDID: 157
+PRED: place
+   DOBJ: the coleslaw mix
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce package coleslaw mix
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+PREDID: 196
+PRED: pour
+   DOBJ: the dressing mixture
+      NON-INGREDIENT SPAN: the dressing mixture
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 226
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to combine well
+      NON-INGREDIENT SPAN: to combine well
+
+
+SENTID: 2
+SENT: I would refrigerate at least 1 hour before serving .
+PREDID: 251
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

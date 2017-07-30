@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would cut melon in half , and remove seeds .
+PREDID: 0
+PRED: cut
+   DOBJ: melon
+      INGREDIENT SPAN: melon
+         INGREDIENTS: honeydew melon
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 18
+PRED: remove
+   DOBJ: seeds
+      NON-INGREDIENT SPAN: seeds
+
+
+SENTID: 1
+SENT: With a melon baller , I would scoop out melon balls ;
+PREDID: 47
+PRED: scoop
+   DOBJ: melon balls
+      NON-INGREDIENT SPAN: melon balls
+   PARG: a melon baller
+     PREP: with
+      NON-INGREDIENT SPAN: a melon baller
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would place in a large salad bowl .
+PREDID: 66
+PRED: place
+   DOBJ: NULL
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 3
+SENT: I would add chicken , the celery , and grapes to melon .
+PREDID: 89
+PRED: add
+   DOBJ: chicken , the celery , grapes
+      INGREDIENT SPAN:  grapes
+         INGREDIENTS: seedless grapes
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubed cooked chicken meat
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+   PARG: melon
+     PREP: to
+      NON-INGREDIENT SPAN: melon
+
+
+SENTID: 4
+SENT: I would add water chestnuts if desired .
+PREDID: 124
+PRED: add
+   DOBJ: water chestnuts
+      INGREDIENT SPAN: water chestnuts
+         INGREDIENTS: ounce sliced water chestnuts
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 5
+SENT: In a small bowl , I would mix together , sour cream , the yogurt , and curry powder .
+PREDID: 164
+PRED: mix
+   DOBJ: NULL
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 176
+PRED: sour
+   DOBJ: cream , the yogurt
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the yogurt
+         INGREDIENTS: plain yogurt
+
+PREDID: 199
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+
+
+SENTID: 6
+SENT: I would gently stir into salad .
+PREDID: 214
+PRED: stir
+   DOBJ: NULL
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would season with salt and pepper to taste .
+PREDID: 228
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 8
+SENT: I would serve .
+PREDID: 259
+PRED: serve
+   DOBJ: NULL
+
+

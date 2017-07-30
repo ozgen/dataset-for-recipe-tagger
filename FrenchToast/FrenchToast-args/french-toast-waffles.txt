@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: I would preheat waffle iron .
+PREDID: 0
+PRED: preheat
+   DOBJ: waffle iron
+      NON-INGREDIENT SPAN: waffle iron
+
+
+SENTID: 1
+SENT: In a large mixing bowl , I would combine waffle mix , the sugar and cinnamon .
+PREDID: 37
+PRED: combine
+   DOBJ: waffle mix , the sugar, cinnamon
+      INGREDIENT SPAN: waffle mix 
+         INGREDIENTS: pancake/waffle mix
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 2
+SENT: I would stir in milk , the eggs and vanilla extract .
+PREDID: 71
+PRED: stir
+   DOBJ: NULL
+   PARG: milk , the eggs, vanilla extract
+     PREP: in
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: cold milk
+
+
+SENTID: 3
+SENT: I would spray preheated waffle iron with non-stick cooking spray .
+PREDID: 104
+PRED: spray
+   DOBJ: preheated waffle iron
+      NON-INGREDIENT SPAN: preheated waffle iron
+   PARG: non-stick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: non-stick cooking spray
+
+
+SENTID: 4
+SENT: I would pour mix onto hot waffle iron .
+PREDID: 154
+PRED: pour
+   DOBJ: mix
+      NON-INGREDIENT SPAN: mix
+   PARG: hot waffle iron
+     PREP: onto
+      NON-INGREDIENT SPAN: hot waffle iron
+
+
+SENTID: 5
+SENT: I would cook until golden brown .
+PREDID: 179
+PRED: cook
+   DOBJ: NULL
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 6
+SENT: I would serve hot .
+PREDID: 200
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

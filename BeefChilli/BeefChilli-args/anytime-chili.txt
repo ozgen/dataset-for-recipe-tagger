@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would brown meat in large skillet over medium-high heat ;
+PREDID: 0
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 43
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would add tomato sauce , the chili , pinto beans , kidney beans and tomato paste ;
+PREDID: 49
+PRED: add
+   DOBJ: tomato sauce , the chili , pinto beans , kidney beans, tomato paste
+      INGREDIENT SPAN:  the chili 
+         INGREDIENTS: chili beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce red kidney beans drained rinsed
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans drained rinsed
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce Hunt Tomato Paste, ounce Hunt Tomato Sauce
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce Hunt Tomato Paste, ounce Hunt Tomato Sauce
+      NON-INGREDIENT SPAN:  tomato paste
+
+
+SENTID: 3
+SENT: I would stir until well blended .
+PREDID: 107
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 4
+SENT: I would cook over medium heat 15 minutes , or until heated through , stirring occasionally .
+PREDID: 128
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat 15 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat 15 minutes
+
+

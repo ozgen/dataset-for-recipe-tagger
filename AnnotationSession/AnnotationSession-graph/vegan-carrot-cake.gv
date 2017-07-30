@@ -1,0 +1,69 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="prepare (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="whisk (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="set (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="sprinkle (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="pour (S7,P1)", shape=oval, style=filled, fillcolor=azure]
+E10[label="bake (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="cool (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: baking soda
+(text: a 9x13 inch baking pan)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="PREP: with cooking spray", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2_ing[label="DOBJ: soy flour, ground cinnamon, tapioca starch, whole wheat flour, salt, ground cloves
+(text:  cinnamon , the whole wheat flour ,  tapioca starch ,  soy flour ,  ground cloves , salt in a bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="OUTPUT: 
+INPUT:  baking soda "]
+P2_0_0[label="PREP: until blended", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+D4_ing[label="DOBJ: hot water
+(text: the hot water)", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: into a mixing bowl"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_ing[label="PREP: with flax seed meal
+(text: with the flax meal)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: for a minute", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in vanilla extract, packed brown sugar
+(text: in vanilla, the brown sugar)", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: in the dry mixture", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+P9_0_0[label="PREP: into the prepared pan", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+E0 -> E10 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_0[label="PREP: in the pan for 10 minutes", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+P11_1_0[label="PREP: before removing to cool completely on a wire rack", shape=box, style=filled, fillcolor=white]
+P11_1_0 -> E11
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

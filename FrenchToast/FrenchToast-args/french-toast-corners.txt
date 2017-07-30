@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would cut each slice of bread twice diagonally to make each slice into 4 triangles .
+PREDID: 0
+PRED: cut
+   DOBJ: each slice of bread twice diagonally
+      INGREDIENT SPAN: each slice of bread twice diagonally
+         INGREDIENTS: slices white bread
+   OARG: to make each slice into 4 triangles
+      NON-INGREDIENT SPAN: to make each slice into 4 triangles
+
+
+SENTID: 1
+SENT: I would beat together eggs , the milk , the vanilla and cinnamon .
+PREDID: 64
+PRED: beat
+   DOBJ: eggs , the milk , the vanilla, cinnamon
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would dip the bread slices into egg mixture .
+PREDID: 105
+PRED: dip
+   DOBJ: the bread slices
+      NON-INGREDIENT SPAN: the bread slices
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+
+
+SENTID: 3
+SENT: I would heat butter over medium-high heat in a frying pan or skillet .
+PREDID: 137
+PRED: heat
+   DOBJ: butter over medium-high heat
+      INGREDIENT SPAN: butter over medium-high heat
+         INGREDIENTS: butter
+   PARG: a frying pan or skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a frying pan or skillet
+
+
+SENTID: 4
+SENT: I would cook bread until golden brown .
+PREDID: 188
+PRED: cook
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 5
+SENT: I would serve warm with your favorite topping .
+PREDID: 214
+PRED: serve
+   DOBJ: NULL
+   PARG: your favorite topping
+     PREP: with
+      NON-INGREDIENT SPAN: your favorite topping
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

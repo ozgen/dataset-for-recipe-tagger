@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: In a large saucepan over medium high heat , I would combine the ground beef , the onion and bell peppers .
+PREDID: 35
+PRED: combine
+   DOBJ: the ground beef , the onion, bell peppers
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bell peppers
+         INGREDIENTS: chopped green bell pepper
+   PARG: a large saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium high heat
+
+
+SENTID: 1
+SENT: I would saute for about 5 minutes , or until beef is browned .
+PREDID: 76
+PRED: saute
+   DOBJ: NULL
+   PARG: about 5 minutes , or until beef is browned
+     PREP: for
+      NON-INGREDIENT SPAN:  or until beef is browned
+      NON-INGREDIENT SPAN: about 5 minutes 
+
+
+SENTID: 2
+SENT: I would drain excess fat .
+PREDID: 119
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 3
+SENT: I would add the chili powder , the garlic , bay leaf , the cumin , chile peppers , the tomatoes , tomato sauce and salt and pepper to taste .
+PREDID: 134
+PRED: add
+   DOBJ: the chili powder , the garlic , bay leaf , the cumin , chile peppers , the tomatoes , tomato sauce, salt, pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN:  chile peppers 
+         INGREDIENTS: chopped jalapeno chile peppers
+      INGREDIENT SPAN: the chili powder 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would bring to a boil and reduce heat to low .
+PREDID: 230
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 245
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would cover and simmer for 1?1/2 hours , stirring occasionally .
+PREDID: 261
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 1?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 6
+SENT: I would stir in the beans and heat through .
+PREDID: 310
+PRED: stir
+   DOBJ: NULL
+   PARG: the beans
+     PREP: in
+      INGREDIENT SPAN: the beans
+         INGREDIENTS: ounce chili beans undrained
+
+PREDID: 327
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

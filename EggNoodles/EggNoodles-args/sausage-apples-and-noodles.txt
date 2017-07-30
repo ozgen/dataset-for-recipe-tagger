@@ -1,0 +1,192 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 40
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 78
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 132
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 155
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 169
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain well in a colander set in the sink .
+PREDID: 280
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would place a large skillet over medium-high heat ;
+PREDID: 313
+PRED: place
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 6
+SENT: I would cook the sausages until completely cooked , 5 to 7 minutes .
+PREDID: 351
+PRED: cook
+   DOBJ: the sausages
+      INGREDIENT SPAN: the sausages
+         INGREDIENTS: sweet Italian sausage sliced
+   PARG: completely cooked , 5
+     PREP: until
+      NON-INGREDIENT SPAN: completely cooked 
+      NON-INGREDIENT SPAN:  5
+   PARG: 7 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 7 minutes
+
+
+SENTID: 7
+SENT: I would stir together the sugar and cinnamon in a small bowl .
+PREDID: 400
+PRED: stir
+   DOBJ: the sugar, cinnamon in a small bowl
+      INGREDIENT SPAN:  cinnamon in a small bowl
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would pour the melted butter into the bottom of a 9x13 inch baking dish ;
+PREDID: 444
+PRED: pour
+   DOBJ: the melted butter
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: butter melted
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 9
+SENT: I would layer half of the cooked egg noodles into the bottom of the dish ;
+PREDID: 498
+PRED: layer
+   DOBJ: half of the cooked egg noodles
+      NON-INGREDIENT SPAN: half of the cooked egg noodles
+   PARG: the bottom of the dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the dish
+
+
+SENTID: 10
+SENT: I would top with half of the sausage slices and half of the apple slices ;
+PREDID: 551
+PRED: top
+   DOBJ: NULL
+   PARG: half of the sausage slices, half of the apple slices
+     PREP: with
+      INGREDIENT SPAN:  half of the apple slices
+         INGREDIENTS: apples peeled cored sliced
+      NON-INGREDIENT SPAN: half of the sausage slices
+
+
+SENTID: 11
+SENT: I would sprinkle about half of the cinnamon-sugar mix over the dish .
+PREDID: 604
+PRED: sprinkle
+   DOBJ: about half of the cinnamon-sugar mix over the dish
+      NON-INGREDIENT SPAN: about half of the cinnamon-sugar mix over the dish
+
+
+SENTID: 12
+SENT: I would repeat layers with remaining noodles , the sausage , the apples , and cinnamon-sugar .
+PREDID: 655
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   PARG: remaining noodles , the sausage , the apples , cinnamon-sugar
+     PREP: with
+      NON-INGREDIENT SPAN: remaining noodles 
+      NON-INGREDIENT SPAN:  the apples 
+      NON-INGREDIENT SPAN:  cinnamon-sugar
+      NON-INGREDIENT SPAN:  the sausage 
+
+
+SENTID: 13
+SENT: I would dot with the butter pieces .
+PREDID: 721
+PRED: dot
+   DOBJ: NULL
+   PARG: the butter pieces
+     PREP: with
+      INGREDIENT SPAN: the butter pieces
+         INGREDIENTS: butter cut
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until the apples are soft , 30 to 45 minutes .
+PREDID: 744
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until the apples are soft , 30 to 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until the apples are soft 
+      NON-INGREDIENT SPAN:  30 to 45 minutes
+
+

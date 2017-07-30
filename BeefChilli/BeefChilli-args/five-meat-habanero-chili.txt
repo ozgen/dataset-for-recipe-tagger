@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: I would place the bacon in a large pot , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the bacon in a large pot
+      INGREDIENT SPAN: the bacon in a large pot
+         INGREDIENTS: slices hickorysmoked bacon
+
+PREDID: 28
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 1
+SENT: I would drain the bacon slices on a paper towel-lined plate .
+PREDID: 106
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 2
+SENT: In the same pot , I would stir in the ground beef , the sausage , and beef stew meat .
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: the same pot
+     PREP: in
+      NON-INGREDIENT SPAN: the same pot
+   PARG: the ground beef , the sausage , beef stew meat
+     PREP: in
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  beef stew meat
+         INGREDIENTS: cubed beef stew meat
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: bulk pork sausage
+
+
+SENTID: 3
+SENT: I would cook and stir until the ground meat is crumbly , evenly browned , and no longer pink .
+PREDID: 207
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the ground meat is crumbly , evenly browned , no longer pink
+     PREP: until
+      INGREDIENT SPAN: the ground meat is crumbly 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 4
+SENT: I would drain and set meat aside in a bowl .
+PREDID: 276
+PRED: drain and set
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would discard any excess grease .
+PREDID: 304
+PRED: discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 6
+SENT: I would reduce heat to medium ,
+PREDID: 327
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 7
+SENT: I would stir the onion , garlic , celery , habanero pepper , green bell pepper , and red bell pepper into the same large pot ;
+PREDID: 346
+PRED: stir
+   DOBJ: the onion , garlic , celery , habanero pepper , green bell pepper , red bell pepper
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: large green bell pepper chopped
+      INGREDIENT SPAN:  habanero pepper 
+         INGREDIENTS: habanero pepper seeded minced taste
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: large red bell pepper chopped
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: the same large pot
+     PREP: into
+      NON-INGREDIENT SPAN: the same large pot
+
+
+SENTID: 8
+SENT: I would cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 440
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion has softened, turned translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has softened
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 9
+SENT: I would stir in the tomato sauce and cumin ,
+PREDID: 510
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato sauce, cumin
+     PREP: in
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  cumin
+
+
+SENTID: 10
+SENT: I would add the beef and sausage mixture , the bacon , and chicken .
+PREDID: 539
+PRED: add
+   DOBJ: the beef, sausage mixture , the bacon , chicken
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: cubed cooked chicken
+      NON-INGREDIENT SPAN:  the bacon 
+      NON-INGREDIENT SPAN: the beef
+      NON-INGREDIENT SPAN:  sausage mixture 
+
+
+SENTID: 11
+SENT: I would stir in the diced tomatoes , cannellini beans , pinto beans , and butter beans .
+PREDID: 584
+PRED: stir
+   DOBJ: NULL
+   PARG: the diced tomatoes , cannellini beans , pinto beans , butter beans
+     PREP: in
+      INGREDIENT SPAN: the diced tomatoes 
+         INGREDIENTS: ounce fireroasted diced tomatoes juice
+      INGREDIENT SPAN:  butter beans
+         INGREDIENTS: ounce butter beans rinsed drained
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans rinsed drained
+      INGREDIENT SPAN:  cannellini beans 
+         INGREDIENTS: ounce cannellini beans rinsed drained
+
+
+SENTID: 12
+SENT: I would season with salt and pepper .
+PREDID: 649
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 13
+SENT: I would bring to a boil over high heat ,
+PREDID: 673
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 14
+SENT: I would reduce heat to low and simmer for 2 hours .
+PREDID: 698
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 15
+SENT: I would serve with a dollop of sour cream .
+PREDID: 732
+PRED: serve
+   DOBJ: NULL
+   PARG: a dollop of sour cream
+     PREP: with
+      INGREDIENT SPAN: a dollop of sour cream
+         INGREDIENTS: sour cream
+
+

@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would place onion , olive oil , and garlic in a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: onion , olive oil , garlic in a slow cooker
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: white onion cubed
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  garlic in a slow cooker
+
+
+SENTID: 1
+SENT: I would arrange pork over onion mixture and add ale .
+PREDID: 43
+PRED: arrange
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: boneless pork loin roast
+   PARG: onion mixture
+     PREP: over
+      NON-INGREDIENT SPAN: onion mixture
+
+PREDID: 73
+PRED: add
+   DOBJ: ale
+      INGREDIENT SPAN: ale
+         INGREDIENTS: fluid ounce brown ale such Newcastle Brown Ale
+
+
+SENTID: 2
+SENT: I would season with black pepper .
+PREDID: 80
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 3
+SENT: I would cook on Low for 6 to 8 hours .
+PREDID: 102
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 6 to 8 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 6 to 8 hours
+
+
+SENTID: 4
+SENT: I would drain and discard liquid from slow cooker .
+PREDID: 124
+PRED: drain and discard
+   DOBJ: liquid from slow cooker
+      INGREDIENT SPAN: liquid from slow cooker
+         INGREDIENTS: fluid liquid smoke flavoring
+
+
+SENTID: 5
+SENT: I would shred pork with 2 forks and add barbeque sauce and liquid smoke .
+PREDID: 160
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+
+PREDID: 182
+PRED: add
+   DOBJ: barbeque sauce, liquid smoke
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: fluid barbeque sauce
+      NON-INGREDIENT SPAN:  liquid smoke
+
+
+SENTID: 6
+SENT: I would continue to cook on Low for 2 more hours .
+PREDID: 213
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook on low for 2 more hours
+      NON-INGREDIENT SPAN: to cook on low for 2 more hours
+
+

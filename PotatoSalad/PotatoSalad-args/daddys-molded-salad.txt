@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would grease or butter one 2 quart gelatin mold pan .
+
+SENTID: 1
+SENT: In a small saucepan , I would bring 1 cup of water to a boil ;
+PREDID: 17
+PRED: bring
+   DOBJ: 1 cup of water
+      INGREDIENT SPAN: 1 cup of water
+         INGREDIENTS: boiling water
+   PARG: a small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add gelatin and mix until dissolved .
+PREDID: 41
+PRED: add
+   DOBJ: gelatin, mix
+      NON-INGREDIENT SPAN: gelatin
+      NON-INGREDIENT SPAN:  mix
+   PARG: dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: dissolved
+
+
+SENTID: 3
+SENT: I would remove from heat and let cool to room temperature .
+PREDID: 72
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 89
+PRED: let
+   DOBJ: NULL
+   OARG: cool to room temperature
+      NON-INGREDIENT SPAN: cool to room temperature
+
+
+SENTID: 4
+SENT: I would stir in mayonnaise , cottage cheese , the pineapples , the walnuts and marshmallows .
+PREDID: 114
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , cottage cheese , the pineapples , the walnuts, marshmallows
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the pineapples 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  marshmallows
+         INGREDIENTS: miniature marshmallows
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: ounce package small curd cottage cheese
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 5
+SENT: I would pour into molded pan and chill until firm .
+PREDID: 179
+PRED: pour
+   DOBJ: NULL
+   PARG: molded pan
+     PREP: into
+      NON-INGREDIENT SPAN: molded pan
+
+PREDID: 199
+PRED: chill
+   DOBJ: NULL
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+
+SENTID: 6
+SENT: I would remove onto serving dish and garnish with halved cherries .
+PREDID: 214
+PRED: remove
+   DOBJ: NULL
+   PARG: serving dish, garnish with halved cherries
+     PREP: onto
+      INGREDIENT SPAN:  garnish with halved cherries
+         INGREDIENTS: maraschino cherries halved
+      NON-INGREDIENT SPAN: serving dish
+
+

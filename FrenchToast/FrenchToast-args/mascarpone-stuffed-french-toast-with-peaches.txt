@@ -1,0 +1,219 @@
+SENTID: 0
+SENT: I would peel peaches , remove pits , and slice into a heavy saucepan , catching all the juices .
+PREDID: 0
+PRED: peel
+   DOBJ: peaches
+      INGREDIENT SPAN: peaches
+         INGREDIENTS: fresh peaches
+
+PREDID: 12
+PRED: remove
+   DOBJ: pits
+      NON-INGREDIENT SPAN: pits
+
+PREDID: 26
+PRED: slice
+   DOBJ: NULL
+   PARG: a heavy saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a heavy saucepan
+   OARG: catching all the juices
+      NON-INGREDIENT SPAN: catching all the juices
+
+
+SENTID: 1
+SENT: I would stir in sugar , the nutmeg , and cinnamon , and cook over medium heat until bubbly .
+PREDID: 71
+PRED: stir
+   DOBJ: NULL
+   PARG: sugar , the nutmeg , cinnamon
+     PREP: in
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: pinches ground nutmeg
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+PREDID: 108
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would continue cooking , stirring occasionally , until the sauce reaches a syrupy consistency , about 10 minutes .
+PREDID: 135
+PRED: continue
+   DOBJ: cooking , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: cooking 
+   PARG: the sauce reaches a syrupy consistency , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the sauce reaches a syrupy consistency 
+
+
+SENTID: 3
+SENT: I would remove from heat .
+PREDID: 226
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would meanwhile , cut off and discard the ends of the bolillo rolls .
+
+SENTID: 5
+SENT: I would slice the rolls into 1?1/4 - inch-thick slices .
+PREDID: 241
+PRED: slice
+   DOBJ: the rolls
+      INGREDIENT SPAN: the rolls
+         INGREDIENTS: Mexican bolillo rolls
+   PARG: 1?1/4 - inch-thick slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1?1/4 - inch-thick slices
+
+
+SENTID: 6
+SENT: I would lay each slice of bread on a board , and with a sharp knife held parallel to the board , cut a pocket into each slice , leaving three sides intact .
+PREDID: 281
+PRED: lay
+   DOBJ: each slice of bread
+      NON-INGREDIENT SPAN: each slice of bread
+   PARG: a board
+     PREP: on
+      NON-INGREDIENT SPAN: a board
+   OARG: leaving three sides intact
+      NON-INGREDIENT SPAN: leaving three sides intact
+
+PREDID: 350
+PRED: cut
+   DOBJ: a pocket
+      NON-INGREDIENT SPAN: a pocket
+   PARG: each slice
+     PREP: into
+      NON-INGREDIENT SPAN: each slice
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 398
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would stir together the mascarpone , confectioners ' sugar , and lemon zest until smooth .
+PREDID: 407
+PRED: stir
+   DOBJ: the mascarpone , confectioners ' sugar , lemon zest
+      INGREDIENT SPAN: the mascarpone 
+         INGREDIENTS: mascarpone cheese
+      INGREDIENT SPAN:  confectioners ' sugar 
+         INGREDIENTS: confectioners sugar
+      NON-INGREDIENT SPAN:  lemon zest
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would scoop this mixture into a small plastic bag .
+PREDID: 477
+PRED: scoop
+   DOBJ: this mixture
+      NON-INGREDIENT SPAN: this mixture
+   PARG: a small plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: a small plastic bag
+
+
+SENTID: 10
+SENT: I would cut off one corner of the bag , and pipe as much filling into the pocket in each slice of bread as will fit without overflowing .
+PREDID: 514
+PRED: cut
+   DOBJ: one corner of the bag , pipe as much filling into the pocket in each slice of bread as will fit without overflowing
+      NON-INGREDIENT SPAN: one corner of the bag 
+      NON-INGREDIENT SPAN:  pipe as much filling into the pocket in each slice of bread as will fit without overflowing
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 11
+SENT: I would whisk together the eggs , the milk , and vanilla in a shallow bowl .
+PREDID: 617
+PRED: whisk
+   DOBJ: NULL
+   OARG: together the eggs , the milk , vanilla in a shallow bowl
+      INGREDIENT SPAN: together the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla in a shallow bowl
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 12
+SENT: I would melt butter with oil over medium heat in a large nonstick skillet .
+PREDID: 668
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter needed
+   PARG: oil over medium heat in a large nonstick skillet
+     PREP: with
+      INGREDIENT SPAN: oil over medium heat in a large nonstick skillet
+         INGREDIENTS: vegetable oil needed
+
+
+SENTID: 13
+SENT: I would dip each stuffed piece of bread into the batter , add to the skillet , and cook until browned on both sides .
+PREDID: 723
+PRED: dip
+   DOBJ: each stuffed piece of bread
+      NON-INGREDIENT SPAN: each stuffed piece of bread
+   PARG: the batter
+     PREP: into
+      NON-INGREDIENT SPAN: the batter
+
+PREDID: 763
+PRED: add
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 782
+PRED: cook
+   DOBJ: NULL
+   PARG: browned on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: browned on both sides
+
+
+SENTID: 14
+SENT: I would serve hot with the warm peach sauce .
+PREDID: 810
+PRED: serve
+   DOBJ: NULL
+   PARG: the warm peach sauce
+     PREP: with
+      NON-INGREDIENT SPAN: the warm peach sauce
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

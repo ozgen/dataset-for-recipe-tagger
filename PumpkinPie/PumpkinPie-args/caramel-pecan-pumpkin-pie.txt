@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would beat the eggs , the pumpkin , and half-and-half together in a mixing bowl until smooth .
+PREDID: 38
+PRED: beat
+   DOBJ: the eggs , the pumpkin , half-and-half
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  half-and-half
+         INGREDIENTS: half-and-half
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in the sugar , the flour , lemon zest , the vanilla , the salt , the cinnamon , the nutmeg , and allspice until evenly blended .
+PREDID: 107
+PRED: stir
+   DOBJ: NULL
+   PARG: the sugar , the flour , lemon zest , the vanilla , the salt , the cinnamon , the nutmeg , allspice until evenly blended
+     PREP: in
+      INGREDIENT SPAN:  allspice until evenly blended
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  lemon zest 
+         INGREDIENTS: lemon
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: packed light brown sugar
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: all-purpose flour
+
+
+SENTID: 3
+SENT: I would pour the pumpkin mixture into the prepared pie shell .
+PREDID: 197
+PRED: pour
+   DOBJ: the pumpkin mixture
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: the prepared pie shell
+     PREP: into
+      INGREDIENT SPAN: the prepared pie shell
+         INGREDIENTS: inch prepared pie shell
+
+
+SENTID: 4
+SENT: I would cover the edges of the pie with aluminum foil strips to prevent burning .
+PREDID: 242
+PRED: cover
+   DOBJ: the edges of the pie with aluminum foil strips
+      NON-INGREDIENT SPAN: the edges of the pie with aluminum foil strips
+   OARG: to prevent burning
+      NON-INGREDIENT SPAN: to prevent burning
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 20 minutes .
+PREDID: 302
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+
+SENTID: 6
+SENT: I would meanwhile , prepare the pecan caramel topping by mixing the brown sugar , the pecans , and butter together in a bowl until evenly blended .
+
+SENTID: 7
+SENT: I would carefully spoon over the top of the pie .
+PREDID: 343
+PRED: spoon
+   DOBJ: the top of the pie
+      NON-INGREDIENT SPAN: the top of the pie
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would continue the baking the pie until the topping is golden and bubbly , and a knife inserted in the center comes out clean , about 20 minutes more .
+PREDID: 367
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   OARG: the pie until the topping is golden, bubbly
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: the pie until the topping is golden
+   OARG: a knife inserted in the center comes out clean , about 20 minutes more
+      NON-INGREDIENT SPAN: a knife inserted in the center comes out clean 
+      NON-INGREDIENT SPAN:  about 20 minutes more
+
+
+SENTID: 9
+SENT: I would cool on a wire rack .
+PREDID: 481
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+
+

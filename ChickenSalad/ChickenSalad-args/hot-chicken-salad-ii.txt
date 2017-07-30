@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a small skillet , I would saute the mushrooms in oil .
+PREDID: 54
+PRED: saute
+   DOBJ: the mushrooms
+      INGREDIENT SPAN: the mushrooms
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: a small skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a small skillet
+   PARG: oil
+     PREP: in
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 2
+SENT: I would mix together the chicken , the mayonnaise , the soup , sauteed mushrooms , water chestnuts and celery .
+PREDID: 77
+PRED: mix
+   DOBJ: the chicken , the mayonnaise , the soup , sauteed mushrooms , water chestnuts, celery
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  water chestnuts
+         INGREDIENTS: ounce water chestnuts drained chopped
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  sauteed mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked cubed
+      NON-INGREDIENT SPAN:  the soup 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would place mixture in a 12x7 .5 inch casserole dish .
+PREDID: 156
+PRED: place
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 12x7 .5 inch casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 12x7 .5 inch casserole dish
+
+
+SENTID: 4
+SENT: I would top with the crushed crackers , tossed with melted butter .
+PREDID: 195
+PRED: top
+   DOBJ: NULL
+   PARG: the crushed crackers , tossed with melted butter
+     PREP: with
+      INGREDIENT SPAN: the crushed crackers 
+         INGREDIENTS: crushed butter crackers
+      NON-INGREDIENT SPAN:  tossed with melted butter
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven for 30 to 45 minutes .
+PREDID: 244
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 to 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 to 45 minutes
+
+

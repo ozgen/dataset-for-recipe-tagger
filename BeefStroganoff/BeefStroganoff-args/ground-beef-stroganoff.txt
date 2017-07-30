@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would break up ground meat into a large skillet , and add onion , the mushrooms , garlic powder , and mustard powder .
+PREDID: 0
+PRED: break
+   DOBJ: ground meat
+      INGREDIENT SPAN: ground meat
+         INGREDIENTS: ground beef
+   PARG: a large skillet
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 38
+PRED: add
+   DOBJ: onion , the mushrooms , garlic powder , mustard powder
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  mustard powder
+         INGREDIENTS: mustard powder
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+
+
+SENTID: 1
+SENT: I would cook and stir over medium heat until the meat is browned and onion is tender .
+PREDID: 87
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: the meat is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is browned
+   OARG: onion is tender
+      NON-INGREDIENT SPAN: onion is tender
+
+
+SENTID: 2
+SENT: I would drain off excess fat .
+PREDID: 150
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: In a small bowl , I would combine sour cream , the mayonnaise , and beef broth .
+PREDID: 181
+PRED: combine
+   DOBJ: sour cream , the mayonnaise , beef broth
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: beef broth
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 4
+SENT: I would stir into beef mixture , and cook over low heat for 10 to 15 minutes .
+PREDID: 222
+PRED: stir
+   DOBJ: NULL
+   PARG: beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: beef mixture
+
+PREDID: 245
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat for 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: low heat for 10 to 15 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: Do not stir too much .
+
+SENTID: 6
+SENT: I would meanwhile , cook pasta in a large pot of boiling water until done .
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 277
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would serve sauce over hot noodles .
+PREDID: 283
+PRED: serve
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: hot noodles
+     PREP: over
+      INGREDIENT SPAN: hot noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+

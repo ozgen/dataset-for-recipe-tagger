@@ -1,0 +1,230 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together the pecans , 1/3 cup sugar , 1/4 cup butter and miniature chocolate chips .
+PREDID: 55
+PRED: mix
+   DOBJ: the pecans , 1/3 cup sugar , 1/4 cup butter, miniature chocolate chips
+      INGREDIENT SPAN:  1/3 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  miniature chocolate chips
+         INGREDIENTS: miniature semisweet chocolate chips
+      INGREDIENT SPAN:  1/4 cup butter
+         INGREDIENTS: unsalted butter room temperature
+      INGREDIENT SPAN: the pecans 
+         INGREDIENTS: chopped pecans
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would press into the bottom and up the sides of a 9 inch pie plate .
+PREDID: 127
+PRED: press
+   DOBJ: NULL
+   PARG: the bottom
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom
+
+
+SENTID: 3
+SENT: I would bake for 8 to 10 minutes in the preheated oven .
+PREDID: 175
+PRED: bake
+   DOBJ: NULL
+   PARG: 8 to 10 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes in the preheated oven
+
+
+SENTID: 4
+SENT: I would cool completely .
+PREDID: 213
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 5
+SENT: In a metal bowl set over a pan of simmering water , I would combine 1?1/3 cups chocolate chips and 1/2 cup butter .
+PREDID: 268
+PRED: combine
+   DOBJ: 1?1/3 cups chocolate chips, 1/2 cup butter
+      INGREDIENT SPAN:  1/2 cup butter
+         INGREDIENTS: unsalted butter room temperature
+      INGREDIENT SPAN: 1?1/3 cups chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+   PARG: a metal bowl set over a pan of simmering water
+     PREP: in
+      NON-INGREDIENT SPAN: a metal bowl set over a pan of simmering water
+
+
+SENTID: 6
+SENT: I would stir occasionally until melted and smooth .
+PREDID: 314
+PRED: stir
+   DOBJ: NULL
+   PARG: melted, smooth
+     PREP: until
+      INGREDIENT SPAN: melted
+         INGREDIENTS: unsalted butter melted
+      NON-INGREDIENT SPAN:  smooth
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 7
+SENT: I would remove from the heat and stir in the vanilla .
+PREDID: 351
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 371
+PRED: stir
+   DOBJ: NULL
+   PARG: the vanilla
+     PREP: in
+      INGREDIENT SPAN: the vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 8
+SENT: In a separate bowl , I would beat egg yolks with 1/4 cup sugar until thick and pale using an electric mixer , at least 3 minutes .
+PREDID: 404
+PRED: beat
+   DOBJ: egg yolks
+      INGREDIENT SPAN: egg yolks
+         INGREDIENTS: egg yolks
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: 1/4 cup sugar
+     PREP: with
+      INGREDIENT SPAN: 1/4 cup sugar
+         INGREDIENTS: white sugar
+   PARG: thick, pale
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+      NON-INGREDIENT SPAN:  pale
+   OARG: using an electric mixer , at least 3 minutes
+      NON-INGREDIENT SPAN: using an electric mixer 
+      NON-INGREDIENT SPAN:  at least 3 minutes
+
+
+SENTID: 9
+SENT: I would stir into the melted chocolate and set it back over the pan of simmering water .
+PREDID: 485
+PRED: stir
+   DOBJ: NULL
+   PARG: the melted chocolate
+     PREP: into
+      INGREDIENT SPAN: the melted chocolate
+         INGREDIENTS: semisweet chocolate chips
+
+PREDID: 514
+PRED: set
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the pan of simmering water
+     PREP: over
+      NON-INGREDIENT SPAN: the pan of simmering water
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+
+SENTID: 10
+SENT: I would whisk constantly until thick , 3 to 4 minutes .
+PREDID: 550
+PRED: whisk
+   DOBJ: NULL
+   PARG: thick , 3 to 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  3 to 4 minutes
+      NON-INGREDIENT SPAN: thick 
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 11
+SENT: I would pour into the cooled crust and smooth the top .
+PREDID: 588
+PRED: pour
+   DOBJ: NULL
+   PARG: the cooled crust
+     PREP: into
+      NON-INGREDIENT SPAN: the cooled crust
+
+PREDID: 613
+PRED: smooth
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 12
+SENT: I would heat the heavy cream in a small saucepan .
+PREDID: 626
+PRED: heat
+   DOBJ: the heavy cream
+      INGREDIENT SPAN: the heavy cream
+         INGREDIENTS: heavy cream
+   PARG: a small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan
+
+
+SENTID: 13
+SENT: When warm , stir in the remaining chocolate chips until melted .
+
+SENTID: 14
+SENT: I would remove from the heat and stir in the brandy .
+PREDID: 713
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 733
+PRED: stir
+   DOBJ: NULL
+   PARG: the brandy
+     PREP: in
+      INGREDIENT SPAN: the brandy
+         INGREDIENTS: brandy
+
+
+SENTID: 15
+SENT: I would pour over the truffle filling .
+PREDID: 749
+PRED: pour
+   DOBJ: the truffle filling
+      NON-INGREDIENT SPAN: the truffle filling
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 16
+SENT: I would refrigerate for several hours to set before serving .
+PREDID: 775
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: several hours
+     PREP: for
+      NON-INGREDIENT SPAN: several hours
+   OARG: to set before serving
+      NON-INGREDIENT SPAN: to set before serving
+
+

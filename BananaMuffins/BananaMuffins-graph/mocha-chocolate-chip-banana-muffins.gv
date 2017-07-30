@@ -1,0 +1,46 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="blend (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="add (S2,P131)", shape=oval, style=filled, fillcolor=azure]
+E3[label="blend (S2,P169)", shape=oval, style=filled, fillcolor=azure]
+E4[label="add (S3,P199)", shape=oval, style=filled, fillcolor=azure]
+E5[label="mix (S3,P219)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon (S4,P240)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S5,P284)", shape=oval, style=filled, fillcolor=azure]
+E8[label="cool (S6,P301)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: margarine, white sugar, ripe bananas, vanilla extract, egg, instant coffee granules
+(text: butter or margarine , sugar , egg , banana , dissolved coffee , vanilla in food processor for 2 minutes)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D4[label="DOBJ: semisweet chocolate chips
+(text: chocolate chips)", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, all-purpose flour, baking soda, salt
+(text: flour , salt , baking powder , soda)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+O3_0_0[label="OTHER: just until flour disappears", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E1 -> E5 [label="OUTPUT: 
+INPUT: with wooden spoon"]
+O5_0_0[label="OTHER: in", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E0 -> E6 [label="OUTPUT: 
+INPUT: mixture"]
+E3 -> E6 [label="OUTPUT: 
+INPUT: into 15 to 18 paper-lined muffin cups"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E5 -> E7 [label="OUTPUT: 
+INPUT: for 25 minutes"]
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: on wire racks", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

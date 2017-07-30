@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium heat , and place 2 tablespoons of sesame salad dressing in the skillet .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+PREDID: 35
+PRED: place
+   DOBJ: 2 tablespoons of sesame salad dressing in the skillet
+      INGREDIENT SPAN: 2 tablespoons of sesame salad dressing in the skillet
+         INGREDIENTS: Asianstyle toasted sesame salad dressing
+
+
+SENTID: 1
+SENT: I would add the chicken , and cook and stir until no longer pink in the middle and beginning to brown , 5 to 7 minutes .
+PREDID: 86
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut inch
+
+PREDID: 103
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: no longer pink in the middle, beginning to brown , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  beginning to brown 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: no longer pink in the middle
+
+
+SENTID: 2
+SENT: I would stir in the orange juice and 2 more tablespoons of sesame dressing , and bring to a boil .
+PREDID: 174
+PRED: stir
+   DOBJ: NULL
+   PARG: the orange juice, 2 more tablespoons of sesame dressing
+     PREP: in
+      INGREDIENT SPAN:  2 more tablespoons of sesame dressing
+         INGREDIENTS: Asianstyle toasted sesame salad dressing
+      INGREDIENT SPAN: the orange juice
+         INGREDIENTS: orange juice
+
+PREDID: 233
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would stir in the red bell pepper , the zucchini , the broccoli , and green onions , and cook and stir until the vegetables are tender and the broccoli is bright green in color , 5 to 8 minutes .
+PREDID: 246
+PRED: stir
+   DOBJ: NULL
+   PARG: the red bell pepper , the zucchini , the broccoli , green onions
+     PREP: in
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions cut 1/2inch
+      INGREDIENT SPAN: the red bell pepper 
+         INGREDIENTS: red bell pepper cut inch chunks
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini cut inch chunks
+   OARG: the broccoli is bright green in color , 5 to 8 minutes
+      NON-INGREDIENT SPAN: the broccoli is bright green in color 
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+
+PREDID: 311
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: the vegetables are tender
+
+

@@ -1,0 +1,78 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="together mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="work in
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="press
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="mix
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="pull
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="spread
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="return
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="bake
+10", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a 9x5-inch loaf pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D2[label="DOBJ: milk, the beaten eggs, onion, bread crumbs", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+O2_1[label="OTHER: until thoroughly combined", shape=box, style=filled, fillcolor=white]
+O2_1 -> E2
+D6[label="DOBJ: the ketchup, brown sugar, dry mustard powder", shape=box, style=filled, fillcolor=white]
+D6 -> E6
+P6_0[label="LOCATION:a bowl", shape=box, style=filled, fillcolor=white]
+P6_0 -> E6
+O6_0[label="OTHER: while the meat loaf is baking", shape=box, style=filled, fillcolor=white]
+O6_0 -> E6
+O6_1[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O6_1 -> E6
+O6_2[label="OTHER: until the sugar has dissolved", shape=box, style=filled, fillcolor=white]
+O6_2 -> E6
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="COOBJECT:the ground beef", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: gently", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: until mixed", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+E3 -> E4 [label="the meat mixture"]
+E1 -> E4 [label="LOCATION:into the prepared loaf pan"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E0 -> E5 [label="LOCATION:in the preheated oven"]
+E5 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="LOCATION:from the oven", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+O7_0_0[label="OTHER: when loaf is done", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="the loaf"]
+E6 -> E8 [label="COOBJECT:topping"]
+O8_1_0[label="OTHER: over", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCATION:to oven", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+O10_0_0[label="OTHER: until the topping is set", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+O10_1_0[label="OTHER: about 10 more minutes", shape=box, style=filled, fillcolor=white]
+O10_1_0 -> E10
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

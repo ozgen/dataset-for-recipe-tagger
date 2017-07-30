@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would mix cabbage , the cucumber , the celery , the cilantro , and parsley in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: cabbage , the cucumber , the celery , the cilantro , parsley in a bowl
+      INGREDIENT SPAN:  parsley in a bowl
+         INGREDIENTS: chopped fresh flatleaf parsley
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery leaves chopped
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: small head cabbage shredded
+
+
+SENTID: 1
+SENT: I would whisk mayonnaise , the vinegar , onion powder , the salt , and black pepper in a separate bowl ;
+PREDID: 54
+PRED: whisk
+   DOBJ: mayonnaise , the vinegar , onion powder , the salt , black pepper in a separate bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper in a separate bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+
+
+SENTID: 2
+SENT: I would stir the dressing into slaw until thoroughly mixed .
+PREDID: 125
+PRED: stir
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: slaw
+     PREP: into
+      NON-INGREDIENT SPAN: slaw
+   PARG: thoroughly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly mixed
+
+
+SENTID: 3
+SENT: I would chill for 1 hour before serving .
+PREDID: 166
+PRED: chill
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

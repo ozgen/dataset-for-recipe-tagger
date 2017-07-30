@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place sausage in a large , deep skillet .
+PREDID: 38
+PRED: place
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: ground pork sausage
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 2
+SENT: I would cook over medium-high heat until evenly brown .
+PREDID: 71
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would drain off grease and add eggs .
+PREDID: 111
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 128
+PRED: add
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 4
+SENT: I would cook eggs and sausage together until eggs are set .
+PREDID: 136
+PRED: cook
+   DOBJ: eggs, sausage
+      NON-INGREDIENT SPAN: eggs
+      NON-INGREDIENT SPAN:  sausage
+   PARG: eggs are set
+     PREP: until
+      NON-INGREDIENT SPAN: eggs are set
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would place pizza crust on a pizza pan or baking sheet .
+PREDID: 178
+PRED: place
+   DOBJ: pizza crust
+      INGREDIENT SPAN: pizza crust
+         INGREDIENTS: inch prepared pizza crust
+   PARG: a pizza pan or baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a pizza pan or baking sheet
+
+
+SENTID: 6
+SENT: I would spread crust with ricotta cheese leaving the outer edge of the crust bare .
+PREDID: 218
+PRED: spread
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: ricotta cheese leaving the outer edge of the crust bare
+     PREP: with
+      INGREDIENT SPAN: ricotta cheese leaving the outer edge of the crust bare
+         INGREDIENTS: ricotta cheese
+
+
+SENTID: 7
+SENT: I would spread the egg and sausage mixture over the ricotta cheese .
+PREDID: 280
+PRED: spread
+   DOBJ: the egg, sausage mixture over the ricotta cheese
+      INGREDIENT SPAN:  sausage mixture over the ricotta cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN: the egg
+
+
+SENTID: 8
+SENT: I would sprinkle with onion , the tomato , red pepper and green pepper .
+PREDID: 330
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: onion , the tomato , red pepper, green pepper
+     PREP: with
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: chopped fresh tomato
+
+
+SENTID: 9
+SENT: I would top with mozzarella .
+PREDID: 379
+PRED: top
+   DOBJ: NULL
+   PARG: mozzarella
+     PREP: with
+      NON-INGREDIENT SPAN: mozzarella
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 15 minutes , or until cheese and edges of crust are golden brown .
+PREDID: 397
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+   OARG: cheese, edges of crust are golden brown
+      NON-INGREDIENT SPAN:  edges of crust are golden brown
+      NON-INGREDIENT SPAN: cheese
+
+

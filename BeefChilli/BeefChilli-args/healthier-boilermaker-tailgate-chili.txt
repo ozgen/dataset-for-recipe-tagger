@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would crumble ground beef and chicken sausage into a large stock pot over medium-high heat ;
+PREDID: 0
+PRED: crumble
+   DOBJ: ground beef, chicken sausage into a large stock pot over medium-high heat
+      INGREDIENT SPAN:  chicken sausage into a large stock pot over medium-high heat
+         INGREDIENTS: Italian chicken sausage diced
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: extralean ground beef
+
+
+SENTID: 1
+SENT: I would cook and stir until evenly browned , 10 to 12 minutes .
+PREDID: 72
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: evenly browned , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: evenly browned 
+
+
+SENTID: 2
+SENT: I would drain excess grease .
+PREDID: 116
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 3
+SENT: I would pour in chili beans , spicy chili beans , diced tomatoes , and tomato paste .
+PREDID: 134
+PRED: pour
+   DOBJ: NULL
+   PARG: chili beans , spicy chili beans , diced tomatoes , tomato paste
+     PREP: in
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes juice
+      INGREDIENT SPAN:  spicy chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN: chili beans 
+         INGREDIENTS: ounce chili beans spicy sauce
+
+
+SENTID: 4
+SENT: I would add onion , the celery , green bell pepper , red bell pepper , chile peppers , and beer .
+PREDID: 196
+PRED: add
+   DOBJ: onion , the celery , green bell pepper , red bell pepper , chile peppers , beer
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper seeded chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper seeded chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: large yellow onion chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  beer
+         INGREDIENTS: beer
+      INGREDIENT SPAN:  chile peppers 
+         INGREDIENTS: green chile peppers seeded chopped
+
+
+SENTID: 5
+SENT: I would season with chili powder , Worcestershire sauce , the garlic , the oregano , the cumin , hot pepper sauce , the basil , the salt , ground pepper , the cayenne , the paprika , and sugar .
+PREDID: 263
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , worcestershire sauce , the garlic , the oregano , the cumin , hot pepper sauce , the basil , the salt , ground pepper , the cayenne , the paprika , sugar
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  ground pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the cayenne 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce such Tabasco
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 6
+SENT: I would stir to blend ,
+PREDID: 390
+PRED: stir
+   DOBJ: NULL
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+
+SENTID: 7
+SENT: I would cover and simmer over low heat , stirring occasionally , for at least 2 hours .
+PREDID: 402
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   OARG: stirring occasionally , for at least 2 hours
+      NON-INGREDIENT SPAN:  for at least 2 hours
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 8
+SENT: I would taste and adjust salt , ground pepper , and chili powder in necessary , after 2 hours .
+PREDID: 466
+PRED: taste and adjust
+   DOBJ: salt , ground pepper , chili powder
+      NON-INGREDIENT SPAN:  chili powder
+      NON-INGREDIENT SPAN:  ground pepper 
+      NON-INGREDIENT SPAN: salt 
+   PARG: necessary
+     PREP: in
+      NON-INGREDIENT SPAN: necessary
+   PARG: 2 hours
+     PREP: after
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 9
+SENT: I would ladle into bowls and top with baked tortilla chips to serve .
+PREDID: 536
+PRED: ladle
+   DOBJ: NULL
+   PARG: bowls, top
+     PREP: into
+      NON-INGREDIENT SPAN:  top
+      NON-INGREDIENT SPAN: bowls
+   PARG: baked tortilla chips
+     PREP: with
+      INGREDIENT SPAN: baked tortilla chips
+         INGREDIENTS: baked tortilla chips
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

@@ -1,0 +1,331 @@
+SENTID: 0
+SENT: I would set rack in the middle of the oven , and preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: set
+   DOBJ: rack
+      NON-INGREDIENT SPAN: rack
+   PARG: the middle of the oven
+     PREP: in
+      NON-INGREDIENT SPAN: the middle of the oven
+
+PREDID: 31
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly oil a 9 inch pie plate .
+PREDID: 69
+PRED: lightly
+   DOBJ: a 9 inch pie plate
+      NON-INGREDIENT SPAN: a 9 inch pie plate
+   OARG: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 94
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would spread nuts over a baking pan .
+PREDID: 103
+PRED: spread
+   DOBJ: nuts over a baking pan
+      NON-INGREDIENT SPAN: nuts over a baking pan
+
+
+SENTID: 4
+SENT: I would toast for 7 to 10 minutes , or until the smell of nuts fills the kitchen .
+PREDID: 128
+PRED: toast
+   DOBJ: NULL
+   PARG: 7 to 10 minutes , or until the smell of nuts fills the kitchen
+     PREP: for
+      NON-INGREDIENT SPAN: 7 to 10 minutes 
+      NON-INGREDIENT SPAN:  or until the smell of nuts fills the kitchen
+
+
+SENTID: 5
+SENT: I would set aside 16 pecan halves for garnish .
+PREDID: 186
+PRED: set
+   DOBJ: 16 pecan halves for garnish
+      INGREDIENT SPAN: 16 pecan halves for garnish
+         INGREDIENTS: pecan halves
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would combine oats , the flour , remaining pecans , 1/2 teaspoon cinnamon , and a pinch of salt in a food processor bowl .
+PREDID: 218
+PRED: combine
+   DOBJ: oats , the flour , remaining pecans , 1/2 teaspoon cinnamon , a pinch of salt
+      INGREDIENT SPAN:  a pinch of salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  remaining pecans 
+         INGREDIENTS: pecan halves
+      INGREDIENT SPAN:  1/2 teaspoon cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: whole wheat pastry flour
+   PARG: a food processor bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor bowl
+
+
+SENTID: 7
+SENT: I would pulse until mixture becomes a coarse meal .
+PREDID: 308
+PRED: pulse
+   DOBJ: NULL
+   PARG: mixture becomes a coarse meal
+     PREP: until
+      NON-INGREDIENT SPAN: mixture becomes a coarse meal
+
+
+SENTID: 8
+SENT: I would transfer to a mixing bowl .
+PREDID: 344
+PRED: transfer
+   DOBJ: NULL
+   PARG: a mixing bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 9
+SENT: I would whisk together oil and 3 tablespoons maple syrup , and mix into dry ingredients to form a soft dough .
+PREDID: 366
+PRED: whisk
+   DOBJ: oil, 3 tablespoons maple syrup , mix
+      INGREDIENT SPAN:  3 tablespoons maple syrup 
+         INGREDIENTS: real maple syrup
+      NON-INGREDIENT SPAN:  mix
+      NON-INGREDIENT SPAN: oil
+   PARG: dry ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: dry ingredients
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: to form a soft dough
+      NON-INGREDIENT SPAN: to form a soft dough
+
+
+SENTID: 10
+SENT: I would press mixture into prepared pie plate .
+PREDID: 449
+PRED: press
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: prepared pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pie plate
+
+
+SENTID: 11
+SENT: I would crimp edges .
+PREDID: 482
+PRED: crimp
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+
+
+SENTID: 12
+SENT: I would bake for 10 minutes , and set aside to cool .
+PREDID: 493
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+PREDID: 513
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 13
+SENT: I would blend soymilk and arrowroot in the food processor until the arrowroot is completely dissolved and the mixture is smooth , about 15 seconds .
+PREDID: 528
+PRED: blend
+   DOBJ: soymilk, arrowroot
+      INGREDIENT SPAN:  arrowroot
+         INGREDIENTS: arrowroot powder
+      NON-INGREDIENT SPAN: soymilk
+   PARG: the food processor
+     PREP: in
+      NON-INGREDIENT SPAN: the food processor
+   PARG: the arrowroot is completely dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: the arrowroot is completely dissolved
+   OARG: the mixture is smooth , about 15 seconds
+      NON-INGREDIENT SPAN:  about 15 seconds
+      NON-INGREDIENT SPAN: the mixture is smooth 
+
+
+SENTID: 14
+SENT: I would add pumpkin , 1/2 cup maple syrup , the ginger , 1?1/2 teaspoons cinnamon , 1/2 teaspoon salt , the nutmeg , and cloves ;
+PREDID: 645
+PRED: add
+   DOBJ: pumpkin , 1/2 cup maple syrup , the ginger , 1?1/2 teaspoons cinnamon , 1/2 teaspoon salt , the nutmeg , cloves
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: grated fresh ginger
+      INGREDIENT SPAN:  1/2 cup maple syrup 
+         INGREDIENTS: real maple syrup
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  1?1/2 teaspoons cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: grated nutmeg
+      INGREDIENT SPAN:  1/2 teaspoon salt 
+         INGREDIENTS: salt
+
+
+SENTID: 15
+SENT: I would process until thoroughly blended .
+PREDID: 736
+PRED: process
+   DOBJ: NULL
+   PARG: thoroughly blended
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly blended
+
+
+SENTID: 16
+SENT: I would pour the filling into baked crust , and smooth the top with a spatula .
+PREDID: 766
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: baked crust
+     PREP: into
+      NON-INGREDIENT SPAN: baked crust
+
+PREDID: 798
+PRED: smooth
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: a spatula
+     PREP: with
+      NON-INGREDIENT SPAN: a spatula
+
+
+SENTID: 17
+SENT: I would bake for about 35 minutes , or until the crust is lightly browned and the outside inch of the filling is set .
+PREDID: 820
+PRED: bake
+   DOBJ: NULL
+   PARG: about 35 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 35 minutes
+
+PREDID: 866
+PRED: is browned
+   DOBJ: NULL
+   PARG: the crust
+     PREP: until
+      NON-INGREDIENT SPAN: the crust
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 904
+PRED: is set
+   DOBJ: NULL
+
+
+SENTID: 18
+SENT: I would do n't worry if the center is still soft ;
+PREDID: 913
+PRED: do worry
+   DOBJ: NULL
+   PARG: the center is still soft
+     PREP: if
+      NON-INGREDIENT SPAN: the center is still soft
+   OARG: n't
+      NON-INGREDIENT SPAN: n't
+
+
+SENTID: 19
+SENT: it firms up as the pie cools .
+
+SENTID: 20
+SENT: I would transfer pie to a wire the rack .
+PREDID: 941
+PRED: transfer
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: a wire the rack
+     PREP: to
+      NON-INGREDIENT SPAN: a wire the rack
+
+
+SENTID: 21
+SENT: I would gently press toasted pecan halves into hot filling in 2 concentric circles .
+PREDID: 973
+PRED: press
+   DOBJ: toasted pecan halves
+      NON-INGREDIENT SPAN: toasted pecan halves
+   PARG: hot filling
+     PREP: into
+      NON-INGREDIENT SPAN: hot filling
+   PARG: 2 concentric circles
+     PREP: in
+      NON-INGREDIENT SPAN: 2 concentric circles
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 22
+SENT: I would cool to room temperature , and
+PREDID: 1031
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature , and
+     PREP: to
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: room temperature 
+
+
+SENTID: 23
+SENT: I would chill until set , about 3 hours .
+PREDID: 1056
+PRED: chill
+   DOBJ: NULL
+   PARG: set , about 3 hours
+     PREP: until
+      NON-INGREDIENT SPAN: set 
+      NON-INGREDIENT SPAN:  about 3 hours
+
+
+SENTID: 24
+SENT: I would serve chilled or at room temperature .
+PREDID: 1082
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 1087
+PRED: chilled
+   DOBJ: NULL
+   PARG: at room temperature
+     PREP: or
+      NON-INGREDIENT SPAN: at room temperature
+
+

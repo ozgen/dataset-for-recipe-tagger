@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: I would place water and butter in a large , deep skillet and bring to a boil ;
+PREDID: 0
+PRED: place
+   DOBJ: water, butter
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+PREDID: 42
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would stir in bacon and return to a boil .
+PREDID: 55
+PRED: stir
+   DOBJ: NULL
+   PARG: bacon, return
+     PREP: in
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: ounce package bacon chopped
+      NON-INGREDIENT SPAN:  return
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would stir cabbage into the bacon mixture ;
+PREDID: 83
+PRED: stir
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: head cabbage cored chopped
+   PARG: the bacon mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bacon mixture
+
+
+SENTID: 3
+SENT: I would simmer until the thickest pieces of cabbage are fork-tender and the liquid has almost evaporated , about 20 minutes .
+PREDID: 114
+PRED: simmer
+   DOBJ: NULL
+   PARG: the thickest pieces of cabbage are fork-tender, the liquid has almost evaporated , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  the liquid has almost evaporated 
+      NON-INGREDIENT SPAN: the thickest pieces of cabbage are fork-tender
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 212
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 218
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 256
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 6
+SENT: I would stir in egg noodles and return to a boil .
+PREDID: 276
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 295
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 309
+PRED: cook
+   DOBJ: noodles uncovered , stirring occasionally , until tender but still slightly firm
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: noodles uncovered 
+      NON-INGREDIENT SPAN:  until tender but still slightly firm
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 8
+SENT: I would drain well .
+PREDID: 397
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would lightly toss egg noodles with bacon and cabbage ;
+PREDID: 414
+PRED: toss
+   DOBJ: egg noodles
+      NON-INGREDIENT SPAN: egg noodles
+   PARG: bacon, cabbage
+     PREP: with
+      NON-INGREDIENT SPAN:  cabbage
+      NON-INGREDIENT SPAN: bacon
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 10
+SENT: I would season to taste with salt and black pepper .
+PREDID: 448
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would wash and peel the potatoes and cut into 1/2 to 3/4 inch pieces .
+PREDID: 0
+PRED: wash and peel
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes
+
+PREDID: 25
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2 to 3/4 inch pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 to 3/4 inch pieces
+
+
+SENTID: 1
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 51
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the potatoes and cook until tender but still firm , about 10 minutes .
+PREDID: 86
+PRED: add
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 103
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: tender but still firm 
+
+
+SENTID: 3
+SENT: I would slice the bacon into small pieces and cook over medium high heat in a large , deep skillet until evenly brown .
+PREDID: 146
+PRED: slice
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: bacon
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+PREDID: 177
+PRED: cook
+   DOBJ: medium high heat in a large , deep skillet
+      NON-INGREDIENT SPAN: medium high heat in a large 
+      NON-INGREDIENT SPAN:  deep skillet
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 4
+SENT: Do not overcook .
+
+SENTID: 5
+SENT: I would chop the celery , green onions , stuffed olives and radishes into small pieces and put into a large bowl .
+PREDID: 236
+PRED: chop
+   DOBJ: the celery , green onions , stuffed olives, radishes
+      INGREDIENT SPAN:  radishes
+         INGREDIENTS: radishes
+      INGREDIENT SPAN:  stuffed olives
+         INGREDIENTS: stuffed green olives
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: small green onions
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalks celery
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+PREDID: 304
+PRED: put
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: I would add the potatoes and bacon and mix together .
+PREDID: 322
+PRED: add
+   DOBJ: the potatoes, bacon, mix
+      NON-INGREDIENT SPAN: the potatoes
+      NON-INGREDIENT SPAN:  mix
+      NON-INGREDIENT SPAN:  bacon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would add the mayonnaise and lemon juice to taste , stir , and place in the refrigerator for a few hours to chill before serving .
+PREDID: 359
+PRED: add
+   DOBJ: the mayonnaise, lemon juice
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+PREDID: 404
+PRED: place
+   DOBJ: NULL
+   PARG: the refrigerator for a few hours
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for a few hours
+   OARG: to chill before serving
+      NON-INGREDIENT SPAN: to chill before serving
+
+
+SENTID: 8
+SENT: You may want to add a few sliced hard boiled eggs on top .
+
+SENTID: 9
+SENT: I would eNJOY !!!
+PREDID: 464
+PRED: !!!
+   DOBJ: NULL
+   OARG: enjoy
+      NON-INGREDIENT SPAN: enjoy
+
+

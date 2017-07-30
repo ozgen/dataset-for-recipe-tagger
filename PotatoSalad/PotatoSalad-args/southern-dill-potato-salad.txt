@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: I would place the potatoes in a large pot , cover them with water , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: unpeeled red potatoes
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 28
+PRED: cover
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 1
+SENT: I would reduce the heat to medium-low , and simmer until the potatoes are cooked through but still firm , about 20 minutes .
+PREDID: 75
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 104
+PRED: simmer
+   DOBJ: NULL
+   PARG: the potatoes are cooked through but still firm , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the potatoes are cooked through but still firm 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 2
+SENT: I would remove from the water , let cool , and cut the potatoes into chunks .
+PREDID: 170
+PRED: remove
+   DOBJ: NULL
+   PARG: the water
+     PREP: from
+      NON-INGREDIENT SPAN: the water
+
+PREDID: 189
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+PREDID: 200
+PRED: cut
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: chunks
+     PREP: into
+      NON-INGREDIENT SPAN: chunks
+
+
+SENTID: 3
+SENT: I would set the potatoes aside .
+PREDID: 225
+PRED: set
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a bowl , I would stir together the sour cream , the mayonnaise , apple cider vinegar , Dijon mustard , the onion , the celery , celery salt , and salt and pepper until well mixed .
+PREDID: 253
+PRED: stir
+   DOBJ: the sour cream , the mayonnaise , apple cider vinegar , Dijon mustard , the onion , the celery , celery salt , salt, pepper
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN:  celery salt 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: white onion chopped
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard taste
+      INGREDIENT SPAN:  apple cider vinegar 
+         INGREDIENTS: apple cider vinegar taste
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  salt
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would place the potatoes and eggs in a large salad bowl , and sprinkle with dried dill .
+PREDID: 375
+PRED: place
+   DOBJ: the potatoes, eggs in a large salad bowl
+      INGREDIENT SPAN:  eggs in a large salad bowl
+         INGREDIENTS: boiled eggs chopped
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 419
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: dried dill
+     PREP: with
+      INGREDIENT SPAN: dried dill
+         INGREDIENTS: dried dill weed
+
+
+SENTID: 6
+SENT: I would pour the dressing over the potatoes and eggs , and mix lightly .
+PREDID: 441
+PRED: pour
+   DOBJ: the dressing over the potatoes, eggs
+      NON-INGREDIENT SPAN: the dressing over the potatoes
+      NON-INGREDIENT SPAN:  eggs
+
+PREDID: 482
+PRED: mix
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 7
+SENT: I would cover and refrigerate the salad for at least 30 minutes .
+PREDID: 493
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: the salad for at least 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the salad for at least 30 minutes
+
+
+SENTID: 8
+SENT: I would serve cold .
+PREDID: 540
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

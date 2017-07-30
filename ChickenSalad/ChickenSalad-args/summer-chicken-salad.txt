@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: In a large mixing bowl , I would combine the chicken , the oranges , the pineapple and pecans .
+PREDID: 19
+PRED: combine
+   DOBJ: the chicken , the oranges , the pineapple, pecans
+      INGREDIENT SPAN:  the oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the pineapple
+         INGREDIENTS: ounce pineapple chunks drained cut half
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked cooled cubed
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 1
+SENT: I would whisk together the mayonnaise , dill weed and sugar .
+PREDID: 64
+PRED: whisk
+   DOBJ: the mayonnaise , dill weed, sugar
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  dill weed
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add to the chicken mixture , toss well and refrigerate over night so flavors may blend .
+PREDID: 108
+PRED: add
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the chicken mixture
+
+PREDID: 131
+PRED: toss
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 142
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: flavors may blend
+     PREP: so
+      NON-INGREDIENT SPAN: flavors may blend
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: night
+      NON-INGREDIENT SPAN: night
+
+

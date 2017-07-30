@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil , cook the egg noodles 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      INGREDIENT SPAN: a large pot of water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 29
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes
+   OARG: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+
+SENTID: 1
+SENT: I would heat the oil in a skillet over medium heat , and saute the garlic about 1 minute .
+PREDID: 80
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 118
+PRED: saute
+   DOBJ: the garlic about 1 minute
+      NON-INGREDIENT SPAN: the garlic about 1 minute
+
+
+SENTID: 2
+SENT: I would stir in the spinach , and cook about 1 minute .
+PREDID: 145
+PRED: stir
+   DOBJ: NULL
+   PARG: the spinach
+     PREP: in
+      INGREDIENT SPAN: the spinach
+         INGREDIENTS: bunch fresh spinach stems removed chopped
+
+PREDID: 165
+PRED: cook
+   DOBJ: minute
+      NON-INGREDIENT SPAN: minute
+   OARG: about 1
+      NON-INGREDIENT SPAN: about 1
+
+
+SENTID: 3
+SENT: I would mix in the cooked egg noodles , chile paste , and ketchup , and toss until well coated .
+PREDID: 182
+PRED: mix
+   DOBJ: NULL
+   PARG: the cooked egg noodles , chile paste , ketchup
+     PREP: in
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: the cooked egg noodles 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  chile paste 
+         INGREDIENTS: chile paste
+
+PREDID: 232
+PRED: toss
+   DOBJ: NULL
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 4
+SENT: I would make a hole in the center of the noodle mixture .
+PREDID: 252
+PRED: make
+   DOBJ: a hole
+      NON-INGREDIENT SPAN: a hole
+   PARG: the center of the noodle mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the noodle mixture
+
+
+SENTID: 5
+SENT: I would place the egg in the center , and scramble , tossing with the noodles just before egg is finished cooking .
+PREDID: 291
+PRED: place
+   DOBJ: the egg
+      NON-INGREDIENT SPAN: the egg
+   PARG: the center
+     PREP: in
+      NON-INGREDIENT SPAN: the center
+   OARG: just before egg is finished cooking
+      NON-INGREDIENT SPAN: just before egg is finished cooking
+
+PREDID: 326
+PRED: tossing
+   DOBJ: NULL
+   PARG: the noodles
+     PREP: with
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 6
+SENT: I would mix the sugar and enough water to keep the mixture moist into the skillet .
+PREDID: 378
+PRED: mix
+   DOBJ: the sugar, enough water
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  enough water
+   OARG: to keep the mixture moist into the skillet
+      NON-INGREDIENT SPAN: to keep the mixture moist into the skillet
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 439
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would continue to cook , stirring constantly , about 6 minutes .
+PREDID: 463
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook , stirring constantly , about 6 minutes
+      NON-INGREDIENT SPAN:  stirring constantly 
+      NON-INGREDIENT SPAN: to cook 
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 9
+SENT: I would toss in the sprouts and peas , and cook and stir about 4 minutes , until heated through .
+PREDID: 511
+PRED: toss
+   DOBJ: NULL
+   PARG: the sprouts, peas
+     PREP: in
+      INGREDIENT SPAN:  peas
+         INGREDIENTS: green peas
+      INGREDIENT SPAN: the sprouts
+         INGREDIENTS: fresh bean sprouts
+
+PREDID: 538
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 4 minutes , until heated through
+     PREP: for
+      NON-INGREDIENT SPAN:  until heated through
+      NON-INGREDIENT SPAN: about 4 minutes 
+
+

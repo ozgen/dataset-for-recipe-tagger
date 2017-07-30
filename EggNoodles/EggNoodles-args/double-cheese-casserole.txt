@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would cook egg noodles according to package directions .
+PREDID: 38
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 2
+SENT: While noodles are cooking , I would brown the ground beef and onion in a large skillet over medium high heat .
+PREDID: 104
+PRED: brown
+   DOBJ: the ground beef, onion in a large skillet over medium high heat
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  onion in a large skillet over medium high heat
+         INGREDIENTS: large onion diced
+   PARG: noodles are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: noodles are cooking
+
+
+SENTID: 3
+SENT: I would reduce heat to low , add the tomato sauce , stir well , and let simmer for 1 minute .
+PREDID: 164
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 180
+PRED: add
+   DOBJ: the tomato sauce
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce tomato sauce
+
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 210
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 4
+SENT: I would add the cream cheese and cottage cheese , stirring together until well blended .
+PREDID: 230
+PRED: add
+   DOBJ: the cream cheese, cottage cheese
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: cream cheese
+      INGREDIENT SPAN:  cottage cheese
+         INGREDIENTS: cottage cheese
+   OARG: stirring together until well blended
+      NON-INGREDIENT SPAN: stirring together until well blended
+
+
+SENTID: 5
+SENT: I would then stir in the egg noodles and sour cream until all ingredients are well mixed .
+PREDID: 301
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg noodles, sour cream
+     PREP: in
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: ounce container sour cream
+      NON-INGREDIENT SPAN: the egg noodles
+   PARG: all ingredients are well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are well mixed
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 6
+SENT: I would pour into a 2 quart casserole dish .
+PREDID: 364
+PRED: pour
+   DOBJ: NULL
+   PARG: a 2 quart casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 393
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 8
+SENT: I would season with salt and pepper to taste .
+PREDID: 436
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

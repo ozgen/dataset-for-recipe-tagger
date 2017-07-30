@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large saute pan , I would brown ground beef with onion , chipotle peppers and 3 tablespoons of the adobo sauce ;
+PREDID: 17
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large saute pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saute pan
+   PARG: onion , chipotle peppers, 3 tablespoons of the adobo sauce
+     PREP: with
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  3 tablespoons of the adobo sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  chipotle peppers
+         INGREDIENTS: chipotle peppers adobo sauce
+
+
+SENTID: 1
+SENT: I would drain well .
+PREDID: 88
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: In a large stock pot , I would combine beef mixture , stewed tomatoes , kidney beans , Kosher salt , ground cumin , garlic powder and chili powder .
+PREDID: 115
+PRED: combine
+   DOBJ: beef mixture , stewed tomatoes , kidney beans , Kosher salt , ground cumin , garlic powder, chili powder
+      INGREDIENT SPAN:  Kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  stewed tomatoes 
+         INGREDIENTS: ounce diced tomatoes green chile peppers
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained rinsed
+      INGREDIENT SPAN:  ground cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN: beef mixture 
+   PARG: a large stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large stock pot
+
+
+SENTID: 3
+SENT: At this point , I would adjust to taste with hot pepper sauce .
+PREDID: 223
+PRED: adjust
+   DOBJ: NULL
+   PARG: this point
+     PREP: at
+      NON-INGREDIENT SPAN: this point
+   OARG: to taste with hot pepper sauce
+      INGREDIENT SPAN: to taste with hot pepper sauce
+         INGREDIENTS: hot pepper sauce
+
+
+SENTID: 4
+SENT: I would heat through and serve garnished with Cheddar cheese .
+PREDID: 255
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+PREDID: 269
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 274
+PRED: garnished
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would heat oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would cook onions , the garlic , ground beef and cubed sirloin in oil for 10 minutes , or until the meat is well browned and the onions are tender .
+PREDID: 38
+PRED: cook
+   DOBJ: onions , the garlic , ground beef, cubed sirloin
+      INGREDIENT SPAN:  cubed sirloin
+         INGREDIENTS: beef sirloin cubed
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: oil for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: oil for 10 minutes
+   OARG: the onions are tender
+      NON-INGREDIENT SPAN: the onions are tender
+
+PREDID: 122
+PRED: is browned
+   DOBJ: NULL
+   PARG: the meat
+     PREP: until
+      NON-INGREDIENT SPAN: the meat
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would mix in the diced tomatoes with juice , dark beer , the coffee , tomato paste and beef broth .
+PREDID: 148
+PRED: mix
+   DOBJ: NULL
+   PARG: the diced tomatoes
+     PREP: in
+      INGREDIENT SPAN: the diced tomatoes
+         INGREDIENTS: ounce peeled diced tomatoes juice
+   PARG: juice , dark beer , the coffee , tomato paste, beef broth
+     PREP: with
+      INGREDIENT SPAN:  dark beer 
+         INGREDIENTS: fluid ounce bottle dark beer
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  the coffee 
+         INGREDIENTS: strong brewed coffee
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+      NON-INGREDIENT SPAN: juice 
+
+
+SENTID: 3
+SENT: I would season with brown sugar , chili powder , the cumin , cocoa powder , the oregano , cayenne pepper , the coriander and salt .
+PREDID: 219
+PRED: season
+   DOBJ: NULL
+   PARG: brown sugar , chili powder , the cumin , cocoa powder , the oregano , cayenne pepper , the coriander, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: cumin seeds
+      INGREDIENT SPAN:  the coriander
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+
+
+SENTID: 4
+SENT: I would stir in 2 cans of the beans and hot chile peppers .
+PREDID: 309
+PRED: stir
+   DOBJ: NULL
+   PARG: 2 cans of the beans, hot chile peppers
+     PREP: in
+      INGREDIENT SPAN: 2 cans of the beans
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  hot chile peppers
+         INGREDIENTS: fresh hot chile peppers seeded chopped
+
+
+SENTID: 5
+SENT: I would reduce heat to low , and simmer for 1?1/2 hours .
+PREDID: 349
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 368
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours
+
+
+SENTID: 6
+SENT: I would stir in the 2 remaining cans of beans , and simmer for another 30 minutes .
+PREDID: 388
+PRED: stir
+   DOBJ: NULL
+   PARG: the 2 remaining cans of beans
+     PREP: in
+      INGREDIENT SPAN: the 2 remaining cans of beans
+         INGREDIENTS: ounce kidney beans
+
+PREDID: 422
+PRED: simmer
+   DOBJ: NULL
+   PARG: another 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 30 minutes
+
+

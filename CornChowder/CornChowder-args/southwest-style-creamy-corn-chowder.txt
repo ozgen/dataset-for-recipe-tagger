@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: I would place sugar , the corn , cream cheese , Mexican cheese , the milk , chicken broth , the celery , the garlic , the bacon , and pepper into a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: sugar , the corn , cream cheese , Mexican cheese , the milk , chicken broth , the celery , the garlic , the bacon , pepper
+      INGREDIENT SPAN:  chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: ounce package cream cheese
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: slices bacon cut inch
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: % lowfat milk
+      INGREDIENT SPAN:  Mexican cheese 
+         INGREDIENTS: shredded Mexican cheese blend
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: fresh corn kernels
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would cook on High for 1 hour ,
+PREDID: 105
+PRED: cook
+   DOBJ: NULL
+   PARG: high for 1 hour
+     PREP: on
+      NON-INGREDIENT SPAN: high for 1 hour
+
+
+SENTID: 2
+SENT: I would reduce heat to Low and cook for an additional 2?1/2 hours .
+PREDID: 124
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 142
+PRED: cook
+   DOBJ: NULL
+   PARG: an additional 2?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 2?1/2 hours
+
+

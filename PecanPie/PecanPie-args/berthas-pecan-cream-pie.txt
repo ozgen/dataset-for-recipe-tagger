@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB-
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C.
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C.
+
+
+SENTID: 1
+SENT: In the top of a double boiler , I would combine yolks , the milk , 2/3 cup sugar , the cornstarch and salt .
+PREDID: 62
+PRED: combine
+   DOBJ: yolks , the milk , 2/3 cup sugar , the cornstarch, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cornstarch
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  2/3 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: yolks 
+         INGREDIENTS: egg yolks
+   PARG: the top of a double boiler
+     PREP: in
+      NON-INGREDIENT SPAN: the top of a double boiler
+
+
+SENTID: 2
+SENT: I would cook , stirring constantly , until mixture thickens .
+PREDID: 110
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring constantly , until mixture thickens
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  until mixture thickens
+
+
+SENTID: 3
+SENT: I would stir in 1/2 teaspoon vanilla and 1 cup pecans .
+PREDID: 155
+PRED: stir
+   DOBJ: NULL
+   PARG: 1/2 teaspoon vanilla, 1 cup pecans
+     PREP: in
+      INGREDIENT SPAN: 1/2 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1 cup pecans
+         INGREDIENTS: ground pecans
+
+
+SENTID: 4
+SENT: I would pour the filling into baked pie shell .
+PREDID: 193
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: baked pie shell
+     PREP: into
+      INGREDIENT SPAN: baked pie shell
+         INGREDIENTS: inch pie shell baked
+
+
+SENTID: 5
+SENT: In a large glass or metal mixing bowl , I would beat egg whites until foamy .
+PREDID: 253
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a large glass or metal mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large glass or metal mixing bowl
+   PARG: foamy
+     PREP: until
+      NON-INGREDIENT SPAN: foamy
+
+
+SENTID: 6
+SENT: I would beat in 1/2 teaspoon vanilla and gradually add 6 tablespoons white sugar , continuing to beat until stiff peaks form .
+PREDID: 277
+PRED: beat
+   DOBJ: NULL
+   PARG: 1/2 teaspoon vanilla
+     PREP: in
+      INGREDIENT SPAN: 1/2 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+
+PREDID: 313
+PRED: add
+   DOBJ: 6 tablespoons white sugar , continuing to beat until stiff peaks form
+      INGREDIENT SPAN: 6 tablespoons white sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  continuing to beat until stiff peaks form
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 7
+SENT: I would spread meringue over pie , covering completely .
+PREDID: 375
+PRED: spread
+   DOBJ: meringue over pie , covering completely
+      NON-INGREDIENT SPAN: meringue over pie 
+      NON-INGREDIENT SPAN:  covering completely
+
+
+SENTID: 8
+SENT: I would sprinkle with 1/4 cup ground pecans .
+PREDID: 416
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/4 cup ground pecans
+     PREP: with
+      INGREDIENT SPAN: 1/4 cup ground pecans
+         INGREDIENTS: ground pecans
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven for 10 to 15 minutes , or until meringue is delicately browned .
+PREDID: 447
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 10 to 15 minutes , or until meringue is delicately browned
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 10 to 15 minutes 
+      NON-INGREDIENT SPAN:  or until meringue is delicately browned
+
+

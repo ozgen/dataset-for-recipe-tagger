@@ -1,0 +1,42 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="place (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="form (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="place (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="drizzle (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a baking pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: eggs, ground beef, ketchup, panko bread crumbs
+(text: the ground beef , eggs , panko , and 1/2 cup ketchup in a large bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: by salt to taste, ground black pepper to taste, salt-free seasoning blend, garlic powder, onion powder
+(text: by  salt , season with salt-free seasoning blend , pepper,  garlic powder ,  onion powder )", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+P3_0_0[label="PREP: by hand ", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: into a loaf shape", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E1 -> E5 [label="OUTPUT: 
+INPUT: on the prepared baking pan"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: with remaining 1/4 cup ketchup", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT:  to an internal temperature of 160 degrees F -LRB- 70 degrees C"]
+E0 -> E7 [label="OUTPUT: 
+INPUT: 1 hour in the preheated oven "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

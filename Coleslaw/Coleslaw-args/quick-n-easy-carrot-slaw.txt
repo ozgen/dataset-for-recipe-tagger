@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: I would mix the carrots , the raisins , the coconut , pineapple tidbits , mini marshmallows , the yogurt , and cinnamon in a salad bowl , and refrigerate for at least 1 hour to blend the flavors .
+PREDID: 0
+PRED: mix
+   DOBJ: the carrots , the raisins , the coconut , pineapple tidbits , mini marshmallows , the yogurt , cinnamon in a salad bowl
+      INGREDIENT SPAN:  mini marshmallows 
+         INGREDIENTS: miniature marshmallows
+      INGREDIENT SPAN:  pineapple tidbits 
+         INGREDIENTS: ounce pineapple tidbits drained
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: the carrots 
+         INGREDIENTS: large carrots peeled grated
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: fatfree plain yogurt
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: sweetened flake coconut
+      INGREDIENT SPAN:  cinnamon in a salad bowl
+         INGREDIENTS: ground cinnamon taste
+
+PREDID: 107
+PRED: refrigerate
+   DOBJ: hour
+      NON-INGREDIENT SPAN: hour
+   PARG: at least 1
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1
+   OARG: to blend the flavors
+      NON-INGREDIENT SPAN: to blend the flavors
+
+
+SENTID: 1
+SENT: I would serve cold .
+PREDID: 142
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

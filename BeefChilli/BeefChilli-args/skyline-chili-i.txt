@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: I would brown the beef lightly .
+PREDID: 0
+PRED: brown
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: lean ground beef
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 1
+SENT: I would place all the ingredients in a crock pot and mix together well .
+PREDID: 20
+PRED: place
+   DOBJ: all the ingredients
+      NON-INGREDIENT SPAN: all the ingredients
+   PARG: a crock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a crock pot
+
+PREDID: 56
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 2
+SENT: I would cook for 12 hours or more on low .
+PREDID: 72
+PRED: cook
+   DOBJ: NULL
+   PARG: 12 hours or more
+     PREP: for
+      NON-INGREDIENT SPAN: 12 hours or more
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+
+

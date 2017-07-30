@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for medium heat , and scrape the grates clean .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for medium heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium heat
+
+PREDID: 38
+PRED: scrape
+   DOBJ: NULL
+   OARG: the grates clean
+      NON-INGREDIENT SPAN: the grates clean
+
+
+SENTID: 1
+SENT: I would spray grates with nonstick cooking spray .
+PREDID: 59
+PRED: spray
+   DOBJ: grates
+      NON-INGREDIENT SPAN: grates
+   PARG: nonstick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: nonstick cooking spray
+
+
+SENTID: 2
+SENT: In a bowl , I would mix together the ground beef , ground pork , bread crumbs , the onion , the egg , Worcestershire sauce , the garlic , the tarragon , sea salt , and black pepper .
+PREDID: 103
+PRED: mix
+   DOBJ: the ground beef , ground pork , bread crumbs , the onion , the egg , Worcestershire sauce , the garlic , the tarragon , sea salt , black pepper
+      INGREDIENT SPAN:  sea salt 
+         INGREDIENTS: sea salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped sweet onion such Vidalia
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the tarragon 
+         INGREDIENTS: dried tarragon
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: ground pork
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would divide the mixture in half , and form 2 loaves , each about 4 inches in diameter and 6 inches long .
+PREDID: 220
+PRED: divide
+   DOBJ: the mixture in half
+      NON-INGREDIENT SPAN: the mixture in half
+
+PREDID: 246
+PRED: form
+   DOBJ: 2 loaves , each about 4 inches in diameter, 6 inches
+      NON-INGREDIENT SPAN: 2 loaves 
+      NON-INGREDIENT SPAN:  6 inches
+      NON-INGREDIENT SPAN:  each about 4 inches in diameter
+   OARG: long
+      NON-INGREDIENT SPAN: long
+
+
+SENTID: 4
+SENT: In a small bowl , I would mix the barbecue sauce with ketchup until well combined .
+PREDID: 312
+PRED: mix
+   DOBJ: the barbecue sauce
+      INGREDIENT SPAN: the barbecue sauce
+         INGREDIENTS: barbeque sauce
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: ketchup
+     PREP: with
+      INGREDIENT SPAN: ketchup
+         INGREDIENTS: ketchup
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 5
+SENT: I would place each meatloaf directly on the prepared grill grates ,
+PREDID: 360
+PRED: place
+   DOBJ: each meatloaf
+      NON-INGREDIENT SPAN: each meatloaf
+   PARG: the prepared grill grates
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared grill grates
+   OARG: directly
+      NON-INGREDIENT SPAN: directly
+
+
+SENTID: 6
+SENT: I would spread each with about 3 tablespoons of barbecue sauce mixture ;
+PREDID: 410
+PRED: spread
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: about 3 tablespoons of barbecue sauce mixture
+     PREP: with
+      NON-INGREDIENT SPAN: about 3 tablespoons of barbecue sauce mixture
+
+
+SENTID: 7
+SENT: I would grill until the loaves reach an internal temperature of at least 160 degrees F -LRB- 73 degrees C -RRB- , about 1 hour .
+

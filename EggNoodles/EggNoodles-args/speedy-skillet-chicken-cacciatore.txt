@@ -1,0 +1,236 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would add butter and swirl to coat pan ;
+PREDID: 37
+PRED: add
+   DOBJ: butter, swirl
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  swirl
+   PARG: coat pan
+     PREP: to
+      NON-INGREDIENT SPAN: coat pan
+
+
+SENTID: 2
+SENT: I would brown chicken , turning once , for about 2 min per side .
+PREDID: 64
+PRED: brown
+   DOBJ: chicken , turning once
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: small boneless skinless chicken breasts
+      NON-INGREDIENT SPAN:  turning once
+   PARG: about 2 min per side
+     PREP: for
+      NON-INGREDIENT SPAN: about 2 min per side
+
+
+SENTID: 3
+SENT: I would transfer to a plate .
+PREDID: 109
+PRED: transfer
+   DOBJ: NULL
+   PARG: a plate
+     PREP: to
+      NON-INGREDIENT SPAN: a plate
+
+
+SENTID: 4
+SENT: I would add garlic , the mushrooms , green pepper and Italian seasoning to pan and saute for about 3 min or until mushrooms start to brown .
+PREDID: 126
+PRED: add
+   DOBJ: garlic , the mushrooms , green pepper, Italian seasoning
+      INGREDIENT SPAN:  Italian seasoning
+         INGREDIENTS: Italian herb seasoning
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce package sliced mushrooms
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: sweet green pepper cut thin strips
+      NON-INGREDIENT SPAN: garlic 
+   OARG: to pan, saute for about 3 min
+      NON-INGREDIENT SPAN: to pan
+      NON-INGREDIENT SPAN:  saute for about 3 min
+
+
+SENTID: 5
+SENT: I would add tomatoes and bring to a boil , scraping up brown bits stuck to pan .
+PREDID: 230
+PRED: add
+   DOBJ: tomatoes
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce Italianstyle stewed tomatoes
+
+PREDID: 244
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: scraping up brown bits stuck to pan
+      NON-INGREDIENT SPAN: scraping up brown bits stuck to pan
+
+
+SENTID: 6
+SENT: I would arrange chicken in pan in a single layer , turning to coat in sauce .
+PREDID: 287
+PRED: arrange
+   DOBJ: chicken in pan
+      NON-INGREDIENT SPAN: chicken in pan
+   PARG: a single layer
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer
+   OARG: turning to coat in sauce
+      NON-INGREDIENT SPAN: turning to coat in sauce
+
+
+SENTID: 7
+SENT: I would reduce heat and simmer , turning chicken once , for about 8 min or until chicken is no longer pink inside and sauce is thickened .
+PREDID: 342
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   OARG: turning chicken once , for about 8 min or until chicken is no longer pink inside
+      NON-INGREDIENT SPAN: turning chicken once 
+      NON-INGREDIENT SPAN:  for about 8 min or until chicken is no longer pink inside
+
+PREDID: 437
+PRED: is thickened
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would meanwhile , in a large pot of boiling salted water , cook noodles for about 5 min or until just tender or according to package directions .
+PREDID: 489
+PRED: cook
+   DOBJ: NULL
+   PARG: a large pot of boiling salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling salted water
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+   OARG: noodles for about 5 min or until just tender or according to package directions
+      INGREDIENT SPAN: noodles for about 5 min or until just tender or according to package directions
+         INGREDIENTS: ounce package broad egg noodles curly style
+
+
+SENTID: 9
+SENT: I would drain well .
+PREDID: 560
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 10
+SENT: Using tongs , I would transfer chicken to a cutting board .
+PREDID: 581
+PRED: transfer
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+   OARG: using tongs
+      NON-INGREDIENT SPAN: using tongs
+
+
+SENTID: 11
+SENT: I would stir cream into sauce ;
+PREDID: 612
+PRED: stir
+   DOBJ: cream
+      INGREDIENT SPAN: cream
+         INGREDIENTS: % cream
+   PARG: sauce
+     PREP: into
+      NON-INGREDIENT SPAN: sauce
+
+
+SENTID: 12
+SENT: I would increase heat to high and bring to a boil .
+PREDID: 631
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 652
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 13
+SENT: I would season to taste with salt and pepper .
+PREDID: 665
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: Pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: Salt
+
+
+SENTID: 14
+SENT: I would divide noodles among serving bowls ;
+PREDID: 696
+PRED: divide
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: serving bowls
+     PREP: among
+      NON-INGREDIENT SPAN: serving bowls
+
+
+SENTID: 15
+SENT: I would slice chicken and arrange chicken on top of noodles .
+PREDID: 727
+PRED: slice
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 742
+PRED: arrange
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: top of noodles
+     PREP: on
+      NON-INGREDIENT SPAN: top of noodles
+
+
+SENTID: 16
+SENT: I would spoon sauce over top and sprinkle with Canadian Parmesan cheese .
+PREDID: 771
+PRED: spoon
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: top
+     PREP: over
+      NON-INGREDIENT SPAN: top
+
+PREDID: 791
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: canadian parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: canadian parmesan cheese
+         INGREDIENTS: grated Canadian Parmesan cheese
+
+

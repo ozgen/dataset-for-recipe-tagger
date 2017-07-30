@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes ;
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+
+SENTID: 2
+SENT: I would cook until tender but still firm , about 15 minutes .
+PREDID: 47
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 3
+SENT: I would drain , cool and chop .
+PREDID: 90
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a mixing bowl , I would combine the potatoes , the chicken , the peas and corn .
+PREDID: 122
+PRED: combine
+   DOBJ: the potatoes , the chicken , the peas, corn
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: ounce peas drained
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: skinless boneless roasted chicken
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 5
+SENT: I would add enough salad dressing to coat , mix well .
+PREDID: 161
+PRED: add
+   DOBJ: enough salad dressing to coat , mix well
+      INGREDIENT SPAN: enough salad dressing to coat 
+         INGREDIENTS: ounce jar creamy salad dressing
+      NON-INGREDIENT SPAN:  mix well
+
+
+SENTID: 6
+SENT: I would top with sliced tomatoes , cover and refrigerate for 2 hours .
+PREDID: 198
+PRED: top
+   DOBJ: NULL
+   PARG: sliced tomatoes
+     PREP: with
+      INGREDIENT SPAN: sliced tomatoes
+         INGREDIENTS: large tomatoes sliced
+
+PREDID: 228
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 7
+SENT: I would season with salt and pepper to taste .
+PREDID: 249
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

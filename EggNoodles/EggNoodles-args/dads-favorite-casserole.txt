@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would lightly grease a large casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a large casserole dish
+      NON-INGREDIENT SPAN: a large casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a skillet over medium heat , I would cook the ground beef until evenly brown .
+PREDID: 96
+PRED: cook
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 3
+SENT: I would drain grease .
+PREDID: 130
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 4
+SENT: I would mix in garlic , and season with salt and pepper .
+PREDID: 142
+PRED: mix
+   DOBJ: NULL
+   PARG: garlic , season with salt, pepper
+     PREP: in
+      INGREDIENT SPAN: garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would stir in spinach , and cook until heated through .
+PREDID: 181
+PRED: stir
+   DOBJ: NULL
+   PARG: spinach
+     PREP: in
+      INGREDIENT SPAN: spinach
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained
+
+PREDID: 198
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would stir in the uncooked egg noodles , and transfer to the prepared casserole dish .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: the uncooked egg noodles
+     PREP: in
+      INGREDIENT SPAN: the uncooked egg noodles
+         INGREDIENTS: ounce package uncooked wide egg noodles
+
+PREDID: 252
+PRED: transfer
+   DOBJ: NULL
+   PARG: the prepared casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 7
+SENT: I would mix in cream of mushroom soup and milk , and sprinkle with cheese .
+PREDID: 287
+PRED: mix
+   DOBJ: NULL
+   PARG: cream of mushroom soup, milk
+     PREP: in
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: fat free milk
+      INGREDIENT SPAN: cream of mushroom soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+PREDID: 322
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded American cheese
+
+
+SENTID: 8
+SENT: I would bake 45 minutes in the preheated oven , until bubbly .
+PREDID: 341
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+

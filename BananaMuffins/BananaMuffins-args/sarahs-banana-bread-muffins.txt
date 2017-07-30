@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place muffin cups in muffin tin , or grease with a little butter .
+PREDID: 38
+PRED: place
+   DOBJ: muffin cups in muffin tin , or grease with a little butter
+      NON-INGREDIENT SPAN:  or grease with a little butter
+      NON-INGREDIENT SPAN: muffin cups in muffin tin 
+
+
+SENTID: 2
+SENT: I would mix sugar , the oil , and egg until creamy and light yellow in a bowl .
+PREDID: 91
+PRED: mix
+   DOBJ: sugar , the oil , egg
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: creamy, light yellow
+     PREP: until
+      NON-INGREDIENT SPAN: creamy
+      NON-INGREDIENT SPAN:  light yellow
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would add bananas and walnuts .
+PREDID: 143
+PRED: add
+   DOBJ: bananas, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: bananas
+         INGREDIENTS: ripe bananas mashed
+
+
+SENTID: 4
+SENT: I would add flour , baking soda , and salt .
+PREDID: 164
+PRED: add
+   DOBJ: flour , baking soda , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+
+
+SENTID: 5
+SENT: I would stir until completely smooth .
+PREDID: 192
+PRED: stir
+   DOBJ: NULL
+   PARG: completely smooth
+     PREP: until
+      NON-INGREDIENT SPAN: completely smooth
+
+
+SENTID: 6
+SENT: I would spoon the batter into the muffin tin .
+PREDID: 218
+PRED: spoon
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the muffin tin
+     PREP: into
+      NON-INGREDIENT SPAN: the muffin tin
+
+
+SENTID: 7
+SENT: I would bake for 30 to 40 minutes , until toothpick poked in center muffin comes out clean .
+PREDID: 249
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 to 40 minutes
+   PARG: toothpick poked in center muffin comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: toothpick poked in center muffin comes out clean
+
+

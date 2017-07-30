@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would prepare 12 muffin cups with paper liners .
+PREDID: 38
+PRED: prepare
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would sift the flour , baking soda , baking powder , and salt into a bowl ;
+PREDID: 73
+PRED: sift
+   DOBJ: the flour , baking soda , baking powder , salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 127
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would cream together butter and sugar until light and fluffy .
+PREDID: 149
+PRED: cream
+   DOBJ: butter, sugar
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: light, fluffy
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy
+      NON-INGREDIENT SPAN: light
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would beat in the eggs one at a time , mixing well after each addition ,
+PREDID: 196
+PRED: beat
+   DOBJ: one at a time , mixing well after each addition
+      NON-INGREDIENT SPAN: one at a time 
+      NON-INGREDIENT SPAN:  mixing well after each addition
+   PARG: the eggs
+     PREP: in
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: large eggs
+
+
+SENTID: 6
+SENT: I would beat in the bananas and rum extract .
+PREDID: 248
+PRED: beat
+   DOBJ: NULL
+   PARG: the bananas, rum extract
+     PREP: in
+      INGREDIENT SPAN:  rum extract
+         INGREDIENTS: rum extract
+      INGREDIENT SPAN: the bananas
+         INGREDIENTS: medium bananas
+
+
+SENTID: 7
+SENT: I would stir in the flour mixture .
+PREDID: 278
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+
+
+SENTID: 8
+SENT: I would fold in the shredded coconut and pineapple ;
+PREDID: 300
+PRED: fold
+   DOBJ: NULL
+   PARG: the shredded coconut, pineapple
+     PREP: in
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: chopped dried pineapple
+      INGREDIENT SPAN: the shredded coconut
+         INGREDIENTS: shredded coconut
+
+
+SENTID: 9
+SENT: mixing just enough to evenly distribute .
+PREDID: 361
+PRED: mixing distribute
+   DOBJ: NULL
+   OARG: just
+      NON-INGREDIENT SPAN: just
+   OARG: enough to evenly
+      NON-INGREDIENT SPAN: enough to evenly
+
+
+SENTID: 10
+SENT: I would evenly divide the batter among the prepared muffin cups .
+PREDID: 378
+PRED: divide
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared muffin cups
+     PREP: among
+      NON-INGREDIENT SPAN: the prepared muffin cups
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 11
+SENT: I would bake in preheated oven until a toothpick inserted into the center comes out clean , 20 to 25 minutes .
+PREDID: 420
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 20 to 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  20 to 25 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+

@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would heat a large pot over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef , the onion , and garlic in the hot pot until ground beef is browned and crumbly , 5 to 7 minutes ;
+PREDID: 33
+PRED: cook and stir
+   DOBJ: beef , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: chopped garlic
+   PARG: the hot pot
+     PREP: in
+      NON-INGREDIENT SPAN: the hot pot
+   PARG: ground beef is browned, crumbly , 5 to 7 minutes
+     PREP: until
+      INGREDIENT SPAN: ground beef is browned
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 122
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would mix chili powder , the cumin , onion powder , cayenne pepper , the salt , and black pepper into ground beef .
+PREDID: 144
+PRED: mix
+   DOBJ: chili powder , the cumin , onion powder , cayenne pepper , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ounce diced jalapeno peppers, ounce diced green chile peppers
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ounce diced jalapeno peppers, ounce diced green chile peppers
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion chopped taste
+      NON-INGREDIENT SPAN:  the cumin 
+   PARG: ground beef
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef
+
+
+SENTID: 4
+SENT: I would stir tomatoes , hot chili beans , chili beans , tomato sauce , green chile peppers , jalapeno peppers , lime juice , and hot sauce into ground beef mixture ;
+PREDID: 225
+PRED: stir
+   DOBJ: tomatoes , hot chili beans , chili beans , tomato sauce , green chile peppers , jalapeno peppers , lime juice , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot sauce taste
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans
+      INGREDIENT SPAN:  hot chili beans 
+         INGREDIENTS: ounce hot chili beans
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      NON-INGREDIENT SPAN:  jalapeno peppers 
+      NON-INGREDIENT SPAN:  green chile peppers 
+   PARG: ground beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef mixture
+
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 352
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat and simmer until flavors blend , at least 30 minutes .
+PREDID: 365
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: flavors blend , at least 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  at least 30 minutes
+      NON-INGREDIENT SPAN: flavors blend 
+
+

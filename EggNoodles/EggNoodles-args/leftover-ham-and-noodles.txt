@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a medium saucepan , I would combine ham , black pepper , the garlic , and 1?1/2 quarts water .
+PREDID: 18
+PRED: combine
+   DOBJ: ham , black pepper , the garlic , 1?1/2 quarts water
+      INGREDIENT SPAN: ham 
+         INGREDIENTS: slice ham
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  1?1/2 quarts water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper taste
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+
+
+SENTID: 1
+SENT: I would bring to a boil , reduce heat , and simmer for 15 minutes .
+PREDID: 68
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 81
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 95
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 2
+SENT: I would add onion and celery ;
+PREDID: 114
+PRED: add
+   DOBJ: onion, celery
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 3
+SENT: continuing cooking until vegetables are tender , I would about 5 minutes .
+
+SENTID: 4
+SENT: I would add noodles , and cook until al dente .
+PREDID: 132
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 146
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 5
+SENT: I would serve hot .
+PREDID: 163
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

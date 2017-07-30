@@ -1,0 +1,236 @@
+SENTID: 0
+SENT: I would melt butter in a Dutch oven over medium heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a dutch oven over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven over medium heat
+
+
+SENTID: 1
+SENT: I would stir in onion , jalepeno peppers , the celery , and a pinch of salt .
+PREDID: 37
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , jalepeno peppers , the celery , a pinch of salt
+     PREP: in
+      INGREDIENT SPAN:  a pinch of salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  jalepeno peppers 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+
+
+SENTID: 2
+SENT: I would cook until onions are soft and translucent , 7 to 10 minutes .
+PREDID: 88
+PRED: cook
+   DOBJ: NULL
+   PARG: onions are soft, translucent , 7 to 10 minutes
+     PREP: until
+      INGREDIENT SPAN: onions are soft
+         INGREDIENTS: bunch sliced green onion garnish
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN:  translucent 
+
+
+SENTID: 3
+SENT: I would stir seafood seasoning and cayenne pepper into onion mixture ;
+PREDID: 138
+PRED: stir
+   DOBJ: seafood seasoning
+      INGREDIENT SPAN: seafood seasoning
+         INGREDIENTS: seafood seasoning such Old Bay
+
+PREDID: 161
+PRED: cayenne
+   DOBJ: pepper
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: chopped jalapeno peppers
+   PARG: onion mixture
+     PREP: into
+      NON-INGREDIENT SPAN: onion mixture
+
+
+SENTID: 4
+SENT: I would cook for 30 seconds .
+PREDID: 191
+PRED: cook
+   DOBJ: NULL
+   PARG: 30 seconds
+     PREP: for
+      NON-INGREDIENT SPAN: 30 seconds
+
+
+SENTID: 5
+SENT: I would sprinkle flour over onion mixture ;
+PREDID: 208
+PRED: sprinkle
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: onion mixture
+     PREP: over
+      NON-INGREDIENT SPAN: onion mixture
+
+
+SENTID: 6
+SENT: I would cook and stir until mixture is slightly thickened , about 2 minutes .
+PREDID: 238
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: mixture is slightly thickened
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is slightly thickened
+   PARG: 2 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 7
+SENT: I would pour 2?1/2 cups water , 1/2 pound corn kernels , and 2 ounces crabmeat into the onion mixture ;
+PREDID: 295
+PRED: pour
+   DOBJ: 2?1/2 cups water , 1/2 pound corn kernels , 2 ounces crabmeat into the onion mixture
+      INGREDIENT SPAN: 2?1/2 cups water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  1/2 pound corn kernels 
+         INGREDIENTS: sweet corn kernels
+      INGREDIENT SPAN:  2 ounces crabmeat into the onion mixture
+         INGREDIENTS: fresh crabmeat
+
+
+SENTID: 8
+SENT: I would increase heat to medium-high and bring to simmer .
+PREDID: 372
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-high
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high
+
+PREDID: 400
+PRED: bring
+   DOBJ: NULL
+   PARG: simmer
+     PREP: to
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 9
+SENT: I would place 1 cup water , 1/2 pound corn kernels , and garlic into a blender .
+PREDID: 414
+PRED: place
+   DOBJ: 1 cup water , 1/2 pound corn kernels , garlic
+      INGREDIENT SPAN: 1 cup water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: cloves peeled garlic
+      INGREDIENT SPAN:  1/2 pound corn kernels 
+         INGREDIENTS: sweet corn kernels
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 10
+SENT: I would cover and puree until smooth .
+PREDID: 471
+PRED: cover and puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 11
+SENT: I would pour corn puree into the Dutch oven and bring mixture to a boil .
+PREDID: 496
+PRED: pour
+   DOBJ: corn puree
+      INGREDIENT SPAN: corn puree
+         INGREDIENTS: sweet corn kernels
+   PARG: the dutch oven
+     PREP: into
+      NON-INGREDIENT SPAN: the dutch oven
+
+PREDID: 528
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 12
+SENT: I would reduce heat to low ;
+PREDID: 548
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 13
+SENT: I would simmer until chowder is thicker and the color deepens , about 45 minutes .
+PREDID: 564
+PRED: simmer
+   DOBJ: NULL
+   PARG: chowder is thicker, the color deepens , about 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 45 minutes
+      NON-INGREDIENT SPAN: chowder is thicker
+      NON-INGREDIENT SPAN:  the color deepens 
+
+
+SENTID: 14
+SENT: I would stir 6 ounces of crabmeat , the paprika , and heavy cream into chowder .
+PREDID: 625
+PRED: stir
+   DOBJ: 6 ounces of crabmeat , the paprika , heavy cream
+      INGREDIENT SPAN:  heavy cream
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN: 6 ounces of crabmeat 
+         INGREDIENTS: fresh crabmeat
+      NON-INGREDIENT SPAN:  the paprika 
+   PARG: chowder
+     PREP: into
+      NON-INGREDIENT SPAN: chowder
+
+
+SENTID: 15
+SENT: I would season with salt and pepper to taste ;
+PREDID: 680
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 16
+SENT: I would garnish with green onions and a pinch of cayenne pepper .
+PREDID: 711
+PRED: garnish
+   DOBJ: NULL
+   PARG: green onions, a pinch of cayenne pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  a pinch of cayenne pepper
+      NON-INGREDIENT SPAN: green onions
+
+

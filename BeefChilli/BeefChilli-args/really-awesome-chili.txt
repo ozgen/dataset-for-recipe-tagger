@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: In a large soup pot over medium heat , I would cook and stir the ground chuck and ground pork until the meat is browned , about 15 minutes , breaking the meat into crumbles as it cooks .
+PREDID: 30
+PRED: cook and stir
+   DOBJ: the ground chuck, ground pork
+      INGREDIENT SPAN: the ground chuck
+         INGREDIENTS: ground beef chuck
+      INGREDIENT SPAN:  ground pork
+         INGREDIENTS: ground pork
+   PARG: a large soup pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot over medium heat
+   PARG: the meat is browned , about 15 minutes , breaking the meat into crumbles as it cooks
+     PREP: until
+      INGREDIENT SPAN: the meat is browned 
+         INGREDIENTS: meat drippings desired
+      NON-INGREDIENT SPAN:  about 15 minutes 
+      NON-INGREDIENT SPAN:  breaking the meat into crumbles as it cooks
+
+
+SENTID: 1
+SENT: I would drain off the excess grease , reserving about 1/2 cup of drippings , and cook and stir the onion and garlic until they begin to brown , about 10 minutes .
+PREDID: 142
+PRED: drain
+   DOBJ: the excess grease
+      NON-INGREDIENT SPAN: the excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: reserving about 1/2 cup of drippings
+      NON-INGREDIENT SPAN: reserving about 1/2 cup of drippings
+
+PREDID: 201
+PRED: cook and stir
+   DOBJ: the onion, garlic
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: minced onion
+      NON-INGREDIENT SPAN:  garlic
+   PARG: they begin to brown , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: they begin to brown 
+
+
+SENTID: 2
+SENT: I would stir in the stout beer , tomato paste , the water , beef stock , chili powder , the cumin , Mexican oregano , smoked paprika , coriander seed , cocoa powder , chipotle-flavored hot sauce , the cornmeal , and flour until thoroughly combined , and bring to a boil .
+PREDID: 266
+PRED: stir
+   DOBJ: NULL
+   PARG: the stout beer , tomato paste , the water , beef stock , chili powder , the cumin , mexican oregano , smoked paprika , coriander seed , cocoa powder , chipotle-flavored hot sauce , the cornmeal , flour
+     PREP: in
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  coriander seed 
+         INGREDIENTS: ground coriander seed
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  smoked paprika 
+         INGREDIENTS: smoked paprika
+      INGREDIENT SPAN:  chipotle-flavored hot sauce 
+         INGREDIENTS: chipotleflavored hot sauce such Tabasco Chipotle Pepper
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  beef stock 
+         INGREDIENTS: beef stock
+      INGREDIENT SPAN:  mexican oregano 
+         INGREDIENTS: dried Mexican oregano
+      INGREDIENT SPAN: the stout beer 
+         INGREDIENTS: fluid ounce bottle Irish stout beer such Guinness
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the cornmeal 
+         INGREDIENTS: cornmeal
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+PREDID: 465
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce heat to low , and simmer , stirring occasionally , for 8 hours .
+PREDID: 469
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: simmer , stirring occasionally , for 8 hours
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  for 8 hours
+      NON-INGREDIENT SPAN: simmer 
+
+

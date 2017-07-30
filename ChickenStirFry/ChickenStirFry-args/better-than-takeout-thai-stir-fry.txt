@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would bring the chicken broth to a boil in a large , deep skillet over medium-high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: the chicken broth
+      INGREDIENT SPAN: the chicken broth
+         INGREDIENTS: chicken broth
+   PARG: a boil in a large , deep skillet over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a large 
+      NON-INGREDIENT SPAN:  deep skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would add the mushrooms , the onion , and broccoli ;
+PREDID: 67
+PRED: add
+   DOBJ: the mushrooms , the onion , broccoli
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: sweet onion sliced
+      INGREDIENT SPAN: the mushrooms 
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN:  broccoli
+         INGREDIENTS: small head broccoli cut spears
+
+
+SENTID: 2
+SENT: I would cover , and steam until tender , about 5 minutes .
+PREDID: 101
+PRED: cover
+   DOBJ: NULL
+   OARG: steam until tender , about 5 minutes
+      NON-INGREDIENT SPAN: steam until tender 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would stir in tamari , peanut butter , and pepper flakes until smooth .
+PREDID: 141
+PRED: stir
+   DOBJ: NULL
+   PARG: tamari , peanut butter , pepper flakes
+     PREP: in
+      INGREDIENT SPAN: tamari 
+         INGREDIENTS: tamari soy sauce
+      INGREDIENT SPAN:  peanut butter 
+         INGREDIENTS: creamy peanut butter
+      INGREDIENT SPAN:  pepper flakes
+         INGREDIENTS: red pepper flakes
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would add the coleslaw mix , bean sprouts , and chicken ;
+PREDID: 194
+PRED: add
+   DOBJ: the coleslaw mix , bean sprouts , chicken
+      INGREDIENT SPAN:  bean sprouts 
+         INGREDIENTS: bean sprouts
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: ounce package diced cooked chicken breast meat
+      INGREDIENT SPAN: the coleslaw mix 
+         INGREDIENTS: ounce package shredded coleslaw mix
+
+
+SENTID: 5
+SENT: I would cook until heated through .
+PREDID: 235
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would sprinkle with toasted sesame seeds to garnish .
+PREDID: 258
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: toasted sesame seeds
+     PREP: with
+      INGREDIENT SPAN: toasted sesame seeds
+         INGREDIENTS: toasted sesame seeds
+   OARG: to garnish
+      NON-INGREDIENT SPAN: to garnish
+
+

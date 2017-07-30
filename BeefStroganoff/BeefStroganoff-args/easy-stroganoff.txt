@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: In a large , I would heavy skillet , brown ground beef with Worcestershire sauce , seasoning salt , and garlic .
+
+SENTID: 1
+SENT: I would drain well , set aside .
+PREDID: 0
+PRED: drain set
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would cook noodles in a large pot of boiling water until done .
+PREDID: 19
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: a large pot of boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water
+   PARG: done
+     PREP: until
+      NON-INGREDIENT SPAN: done
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 65
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would return noodles to pot .
+PREDID: 71
+PRED: return
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: pot
+     PREP: to
+      NON-INGREDIENT SPAN: pot
+
+
+SENTID: 5
+SENT: I would gently stir in ground beef , the mushrooms , condensed soup and milk .
+PREDID: 96
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef , the mushrooms , condensed soup, milk
+     PREP: in
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: fluid milk
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      NON-INGREDIENT SPAN:  condensed soup
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would place the pan over low heat , and heat through .
+PREDID: 144
+PRED: place
+   DOBJ: the pan over low heat
+      NON-INGREDIENT SPAN: the pan over low heat
+
+PREDID: 170
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 7
+SENT: I would stir in sour cream , and serve immediately .
+PREDID: 182
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+
+PREDID: 201
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

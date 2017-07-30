@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix together the pumpkin , the milk , and instant pudding mix .
+PREDID: 14
+PRED: mix
+   DOBJ: the pumpkin , the milk , instant pudding mix
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: skim milk
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  instant pudding mix
+         INGREDIENTS: ounce package instant sugar-free vanilla pudding mix
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in the pumpkin pie spice , and fold in half of the whipped topping .
+PREDID: 62
+PRED: stir
+   DOBJ: NULL
+   PARG: the pumpkin pie spice
+     PREP: in
+      INGREDIENT SPAN: the pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+
+PREDID: 90
+PRED: fold
+   DOBJ: NULL
+   PARG: half of the whipped topping
+     PREP: in
+      INGREDIENT SPAN: half of the whipped topping
+         INGREDIENTS: ounce container fat free frozen whipped topping
+
+
+SENTID: 2
+SENT: I would pour into an 8-inch pie plate , and spread the remaining whipped topping over the top .
+PREDID: 120
+PRED: pour
+   DOBJ: NULL
+   PARG: an 8-inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: an 8-inch pie plate
+
+PREDID: 148
+PRED: spread
+   DOBJ: the remaining whipped topping over the top
+      NON-INGREDIENT SPAN: the remaining whipped topping over the top
+
+
+SENTID: 3
+SENT: I would chill for 1 hour , or until set .
+PREDID: 188
+PRED: chill
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

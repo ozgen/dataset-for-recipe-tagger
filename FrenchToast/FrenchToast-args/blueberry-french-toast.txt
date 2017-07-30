@@ -1,0 +1,213 @@
+SENTID: 0
+SENT: I would place half of the bread cubes in a lightly greased 9x13 inch baking pan .
+PREDID: 0
+PRED: place
+   DOBJ: half of the bread cubes
+      INGREDIENT SPAN: half of the bread cubes
+         INGREDIENTS: pound loaf Italian bread cut 1inch cubes
+   PARG: a lightly greased 9x13 inch baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a lightly greased 9x13 inch baking pan
+
+
+SENTID: 1
+SENT: I would sprinkle cream cheese on top of bread cubes .
+PREDID: 59
+PRED: sprinkle
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese diced
+   PARG: top of bread cubes
+     PREP: on
+      NON-INGREDIENT SPAN: top of bread cubes
+
+
+SENTID: 2
+SENT: I would top with 1 cup blueberries and remaining bread .
+PREDID: 96
+PRED: top
+   DOBJ: NULL
+   PARG: 1 cup blueberries, remaining bread
+     PREP: with
+      INGREDIENT SPAN: 1 cup blueberries
+         INGREDIENTS: blueberries
+      NON-INGREDIENT SPAN:  remaining bread
+
+
+SENTID: 3
+SENT: In a large bowl , I would beat together eggs , the milk and maple syrup .
+PREDID: 149
+PRED: beat
+   DOBJ: eggs , the milk, maple syrup
+      INGREDIENT SPAN:  maple syrup
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would pour egg mixture over bread .
+PREDID: 184
+PRED: pour
+   DOBJ: egg mixture
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: bread
+     PREP: over
+      NON-INGREDIENT SPAN: bread
+
+
+SENTID: 5
+SENT: I would cover the pan and refrigerate overnight .
+PREDID: 208
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 222
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 6
+SENT: The next morning , remove pan from refrigerator 30 minutes before baking .
+
+SENTID: 7
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 240
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 8
+SENT: I would cover the pan with aluminum foil and bake in preheated oven for 30 minutes .
+PREDID: 278
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 308
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 9
+SENT: I would uncover the pan and bake for an additional 30 minutes , until golden brown and center is set .
+PREDID: 337
+PRED: uncover
+   DOBJ: NULL
+   PARG: the pan, bake for an additional 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  bake for an additional 30 minutes
+      NON-INGREDIENT SPAN: the pan
+   PARG: golden brown, center is set
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+      NON-INGREDIENT SPAN:  center is set
+
+
+SENTID: 10
+SENT: To make Sauce :
+
+SENTID: 11
+SENT: In a saucepan , I would combine sugar and cornstarch , add water .
+PREDID: 434
+PRED: combine
+   DOBJ: sugar, cornstarch
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 460
+PRED: add
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 12
+SENT: I would boil over medium heat for 3 minutes , stirring constantly .
+PREDID: 469
+PRED: boil
+   DOBJ: NULL
+   PARG: medium heat for 3 minutes , stirring constantly
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring constantly
+      NON-INGREDIENT SPAN: medium heat for 3 minutes 
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 13
+SENT: I would stir in blueberries and reduce heat .
+PREDID: 518
+PRED: stir
+   DOBJ: NULL
+   PARG: blueberries
+     PREP: in
+      INGREDIENT SPAN: blueberries
+         INGREDIENTS: blueberries
+
+PREDID: 538
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 14
+SENT: I would simmer 8 to 10 minutes , or until the berries have burst .
+PREDID: 549
+PRED: simmer
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+   PARG: the berries have burst
+     PREP: until
+      NON-INGREDIENT SPAN: the berries have burst
+
+
+SENTID: 15
+SENT: I would stir in butter until melted .
+PREDID: 595
+PRED: stir
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 16
+SENT: I would serve the sauce over squares of french toast .
+PREDID: 619
+PRED: serve
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: squares of french toast
+     PREP: over
+      NON-INGREDIENT SPAN: squares of french toast
+
+

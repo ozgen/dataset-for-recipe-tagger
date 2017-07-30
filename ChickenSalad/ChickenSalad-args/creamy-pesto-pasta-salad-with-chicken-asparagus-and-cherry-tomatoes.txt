@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would mix the dressing ingredients in a small bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: the dressing ingredients in a small bowl
+      NON-INGREDIENT SPAN: the dressing ingredients in a small bowl
+
+
+SENTID: 1
+SENT: I would keep chilled until ready to toss with salad .
+PREDID: 35
+PRED: keep
+   DOBJ: NULL
+
+PREDID: 39
+PRED: chilled
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to toss with salad
+      NON-INGREDIENT SPAN: to toss with salad
+
+
+SENTID: 2
+SENT: -LRB- Store in clean jar with lid .
+
+SENTID: 3
+SENT: -RRB-
+
+SENTID: 4
+SENT: I would bring 1 gallon of water and 2 Tbs .
+PREDID: 72
+PRED: bring
+   DOBJ: 1 gallon of water, 2 Tbs
+      NON-INGREDIENT SPAN: 1 gallon of water
+      NON-INGREDIENT SPAN:  2 Tbs
+
+
+SENTID: 5
+SENT: of salt to boil in a large soup kettle .
+
+SENTID: 6
+SENT: I would add pasta and , using package times as a guide , the boil , stirring frequently and adding asparagus the last 1 minute , until just tender .
+PREDID: 130
+PRED: add
+   DOBJ: pasta, , using package times as a guide , the boil , stirring frequently, adding asparagus the last 1 minute , until just tender
+      INGREDIENT SPAN:  adding asparagus the last 1 minute 
+         INGREDIENTS: asparagus cut 1inch lengths
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: bow tie farfalle pasta
+      NON-INGREDIENT SPAN:  using package times as a guide 
+      NON-INGREDIENT SPAN:  until just tender
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN:  the boil 
+
+
+SENTID: 7
+SENT: Drain thoroughly -LRB- do not rinse -RRB- and dump onto a large , lipped cookie sheet .
+
+SENTID: 8
+SENT: I would set aside to cool while preparing remaining salad ingredients .
+PREDID: 240
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool while preparing remaining salad ingredients
+      NON-INGREDIENT SPAN: to cool while preparing remaining salad ingredients
+
+
+SENTID: 9
+SENT: I would place all salad ingredients -LRB- except buttermilk dressing -RRB- in a large bowl or transfer to a gallon-size zippered bag .
+PREDID: 294
+PRED: place
+   DOBJ: all salad ingredients -LRB- except buttermilk dressing -RRB- in a large bowl
+      INGREDIENT SPAN: all salad ingredients -LRB- except buttermilk dressing -RRB- in a large bowl
+         INGREDIENTS: buttermilk
+
+PREDID: 366
+PRED: transfer
+   DOBJ: NULL
+   PARG: a gallon-size zippered bag
+     PREP: to
+      NON-INGREDIENT SPAN: a gallon-size zippered bag
+
+
+SENTID: 10
+SENT: -LRB- Can be covered and refrigerated several hours at this point .
+PREDID: 402
+PRED: be covered and refrigerated
+   DOBJ: NULL
+   PARG: several hours
+     PREP: for
+      NON-INGREDIENT SPAN: several hours
+   PARG: this point
+     PREP: at
+      NON-INGREDIENT SPAN: this point
+
+
+SENTID: 11
+SENT: I would -RRB- When ready to serve , add dressing ;
+
+SENTID: 12
+SENT: I would toss to coat and serve .
+PREDID: 444
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

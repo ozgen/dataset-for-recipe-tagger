@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would add ground beef , add onions , the garlic , and mushrooms ;
+PREDID: 37
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+PREDID: 51
+PRED: add
+   DOBJ: onions , the garlic , mushrooms
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce mushrooms drained
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: onions chopped
+
+
+SENTID: 2
+SENT: I would saute until onion is golden brown .
+PREDID: 81
+PRED: saute
+   DOBJ: NULL
+   PARG: onion is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: onion is golden brown
+
+
+SENTID: 3
+SENT: I would season with salt and black pepper .
+PREDID: 110
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 4
+SENT: I would stir 2 cups hot water , bouillon cubes , and tomato paste into meat mixture .
+PREDID: 139
+PRED: stir
+   DOBJ: 2 cups hot water , bouillon cubes , tomato paste
+      INGREDIENT SPAN:  bouillon cubes 
+         INGREDIENTS: cubes beef bouillon
+      INGREDIENT SPAN: 2 cups hot water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: tomato paste
+   PARG: meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: meat mixture
+
+
+SENTID: 5
+SENT: I would stir together 1?1/2 cups cold water and flour ;
+PREDID: 201
+PRED: stir
+   DOBJ: cold water, flour
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: cold water
+         INGREDIENTS: water
+   OARG: together 1?1/2 cups
+      NON-INGREDIENT SPAN: together 1?1/2 cups
+
+
+SENTID: 6
+SENT: I would stir into pan .
+PREDID: 240
+PRED: stir
+   DOBJ: NULL
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 7
+SENT: I would reduce heat to low , and simmer for 1 hour .
+PREDID: 252
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 271
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

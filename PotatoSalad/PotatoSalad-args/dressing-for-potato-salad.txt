@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: I would mix together the mayonnaise , sour cream , the mustard , the ketchup , Worcestershire sauce , the onion and salt and pepper .
+PREDID: 0
+PRED: mix
+   DOBJ: the mayonnaise , sour cream , the mustard , the ketchup , Worcestershire sauce , the onion, salt, pepper
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would refrigerate until ready to toss with potatoes .
+PREDID: 93
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to toss with potatoes
+      NON-INGREDIENT SPAN: to toss with potatoes
+
+

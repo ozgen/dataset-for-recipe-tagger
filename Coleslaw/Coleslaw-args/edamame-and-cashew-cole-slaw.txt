@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 1
+SENT: I would add edamame and simmer until tender about 5 minutes ;
+PREDID: 54
+PRED: add
+   DOBJ: edamame, simmer
+      NON-INGREDIENT SPAN: edamame
+      NON-INGREDIENT SPAN:  simmer
+   PARG: tender about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender about 5 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 98
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would let stand for 5 minutes .
+PREDID: 104
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would whisk together orange juice , lime juice , olive oil , raspberry vinaigrette , the salt , and pepper in a bowl .
+PREDID: 124
+PRED: whisk
+   DOBJ: orange juice , lime juice , olive oil , raspberry vinaigrette , the salt , pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  raspberry vinaigrette 
+         INGREDIENTS: raspberry vinaigrette
+      INGREDIENT SPAN: orange juice 
+         INGREDIENTS: lime juice
+      NON-INGREDIENT SPAN:  pepper in a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would place coleslaw mix , green onion , the cashews , and edamame in a large bowl .
+PREDID: 211
+PRED: place
+   DOBJ: coleslaw mix , green onion , the cashews , edamame in a large bowl
+      INGREDIENT SPAN:  the cashews 
+         INGREDIENTS: ounce container salted cashews
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN: coleslaw mix 
+         INGREDIENTS: ounce packages coleslaw mix
+      NON-INGREDIENT SPAN:  edamame in a large bowl
+
+
+SENTID: 6
+SENT: I would toss lightly with the orange juice mixture to serve .
+PREDID: 270
+PRED: toss
+   DOBJ: NULL
+   PARG: the orange juice mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the orange juice mixture
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

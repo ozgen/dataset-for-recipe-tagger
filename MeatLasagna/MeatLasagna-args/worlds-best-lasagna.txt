@@ -1,0 +1,273 @@
+SENTID: 0
+SENT: In a Dutch oven , I would cook sausage , ground beef , the onion , and garlic over medium heat until well browned .
+PREDID: 13
+PRED: cook
+   DOBJ: sausage , ground beef , the onion , garlic over medium heat
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN: sausage 
+         INGREDIENTS: sweet Italian sausage
+      NON-INGREDIENT SPAN:  garlic over medium heat
+   PARG: a dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven
+   PARG: well browned
+     PREP: until
+      NON-INGREDIENT SPAN: well browned
+
+
+SENTID: 1
+SENT: I would stir in crushed tomatoes , tomato paste , tomato sauce , and water .
+PREDID: 82
+PRED: stir
+   DOBJ: NULL
+   PARG: crushed tomatoes , tomato paste , tomato sauce , water
+     PREP: in
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce canned tomato sauce
+
+
+SENTID: 2
+SENT: I would season with sugar , the basil , fennel seeds , Italian seasoning , 1 tablespoon salt , the pepper , and 2 tablespoons parsley .
+PREDID: 137
+PRED: season
+   DOBJ: NULL
+   PARG: sugar , the basil , fennel seeds , italian seasoning , 1 tablespoon salt , the pepper , 2 tablespoons
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil leaves
+      INGREDIENT SPAN:  fennel seeds 
+         INGREDIENTS: fennel seeds
+      INGREDIENT SPAN:  1 tablespoon salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: Italian seasoning
+      NON-INGREDIENT SPAN:  2 tablespoons
+   OARG: parsley
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley
+
+
+SENTID: 3
+SENT: I would simmer , covered , for about 1?1/2 hours , stirring occasionally .
+PREDID: 234
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 1?1/2 hours , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: about 1?1/2 hours 
+
+
+SENTID: 4
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 289
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cook lasagna noodles in boiling water for 8 to 10 minutes .
+PREDID: 331
+PRED: cook
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: boiling water for 8 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water for 8 to 10 minutes
+
+
+SENTID: 6
+SENT: I would drain noodles , and rinse with cold water .
+PREDID: 379
+PRED: drain
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+
+PREDID: 395
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 7
+SENT: In a mixing bowl , I would combine ricotta cheese with egg , remaining parsley , and 1/2 teaspoon salt .
+PREDID: 428
+PRED: combine
+   DOBJ: ricotta cheese
+      INGREDIENT SPAN: ricotta cheese
+         INGREDIENTS: ricotta cheese
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: egg , remaining parsley , 1/2 teaspoon salt
+     PREP: with
+      INGREDIENT SPAN:  1/2 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  remaining parsley 
+
+
+SENTID: 8
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 492
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 9
+SENT: To assemble , spread 1?1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 532
+PRED: assemble
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 541
+PRED: spread
+   DOBJ: 1?1/2 cups of meat sauce
+      NON-INGREDIENT SPAN: 1?1/2 cups of meat sauce
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 10
+SENT: I would arrange 6 noodles lengthwise over meat sauce .
+PREDID: 600
+PRED: arrange
+   DOBJ: NULL
+   PARG: meat sauce
+     PREP: over
+      NON-INGREDIENT SPAN: meat sauce
+   OARG: 6 noodles lengthwise
+      NON-INGREDIENT SPAN: 6 noodles lengthwise
+
+
+SENTID: 11
+SENT: I would spread with one half of the ricotta cheese mixture .
+PREDID: 639
+PRED: spread
+   DOBJ: NULL
+   PARG: one half of the ricotta cheese mixture
+     PREP: with
+      INGREDIENT SPAN: one half of the ricotta cheese mixture
+         INGREDIENTS: mozzarella cheese sliced
+
+
+SENTID: 12
+SENT: I would top with a third of mozzarella cheese slices .
+PREDID: 682
+PRED: top
+   DOBJ: NULL
+   PARG: a third of mozzarella cheese slices
+     PREP: with
+      INGREDIENT SPAN: a third of mozzarella cheese slices
+         INGREDIENTS: mozzarella cheese sliced
+
+
+SENTID: 13
+SENT: I would spoon 1?1/2 cups meat sauce over mozzarella , and sprinkle with 1/4 cup Parmesan cheese .
+PREDID: 720
+PRED: spoon
+   DOBJ: 1?1/2 cups meat sauce over mozzarella
+      NON-INGREDIENT SPAN: 1?1/2 cups meat sauce over mozzarella
+
+PREDID: 761
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1/4 cup parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: 1/4 cup parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 14
+SENT: I would repeat layers , and top with remaining mozzarella and Parmesan cheese .
+PREDID: 794
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+PREDID: 810
+PRED: top
+   DOBJ: NULL
+   PARG: remaining mozzarella, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: remaining mozzarella
+
+
+SENTID: 15
+SENT: I would cover with foil :
+PREDID: 854
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 16
+SENT: to prevent sticking , either spray foil with cooking spray , or make sure the foil does not touch the cheese .
+
+SENTID: 17
+SENT: I would bake in preheated oven for 25 minutes .
+PREDID: 868
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 minutes
+
+
+SENTID: 18
+SENT: I would remove foil , and bake an additional 25 minutes .
+PREDID: 900
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 914
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 25 minutes
+
+
+SENTID: 19
+SENT: I would cool for 15 minutes before serving .
+PREDID: 940
+PRED: cool
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

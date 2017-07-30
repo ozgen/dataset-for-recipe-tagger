@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line a baking sheet with aluminum foil .
+PREDID: 40
+PRED: line
+   DOBJ: a baking sheet with aluminum foil
+      NON-INGREDIENT SPAN: a baking sheet with aluminum foil
+
+
+SENTID: 2
+SENT: I would mix ground beef , 1/2 cup ketchup , 1/2 cup shredded cheese , the egg , and garlic powder in a large bowl .
+PREDID: 73
+PRED: mix
+   DOBJ: ground beef , 1/2 cup ketchup , 1/2 cup shredded cheese , the egg , garlic powder in a large bowl
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic powder in a large bowl
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  1/2 cup shredded cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+
+
+SENTID: 3
+SENT: I would form mixture into 1 inch balls , and gently press onto prepared baking sheet to form mini-burgers .
+PREDID: 154
+PRED: form
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: 1 inch balls
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch balls
+
+PREDID: 189
+PRED: press
+   DOBJ: NULL
+   PARG: prepared baking sheet to form mini-burgers
+     PREP: onto
+      NON-INGREDIENT SPAN: prepared baking sheet to form mini-burgers
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 4
+SENT: I would bake in preheated oven for 20 minutes .
+PREDID: 236
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+
+SENTID: 5
+SENT: I would spread the remaining ketchup on burgers , and sprinkle with remaining cheese .
+PREDID: 268
+PRED: spread
+   DOBJ: the remaining ketchup on burgers
+      INGREDIENT SPAN: the remaining ketchup on burgers
+         INGREDIENTS: ketchup
+
+PREDID: 306
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining cheese
+     PREP: with
+      INGREDIENT SPAN: remaining cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 6
+SENT: I would return burgers to the oven , and bake until cheese is melted and bubbly , about 5 minutes .
+PREDID: 331
+PRED: return
+   DOBJ: burgers
+      NON-INGREDIENT SPAN: burgers
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 357
+PRED: bake
+   DOBJ: NULL
+   PARG: cheese is melted, bubbly , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  bubbly 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+

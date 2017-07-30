@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would stir the soup , the milk , the peas , the chicken and noodles in a 1?1/2 - quart casserole .
+PREDID: 0
+PRED: stir
+   DOBJ: the soup , the milk , the peas , the chicken, noodles
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: frozen peas
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  noodles
+         INGREDIENTS: medium egg noodles cooked drained
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce Campbell Condensed Cream Chicken Soup Regular
+      INGREDIENT SPAN:  the chicken
+         INGREDIENTS: ounce Swanson Premium White Chunk Chicken Breast Water
+   PARG: a 1?1/2
+     PREP: in
+      NON-INGREDIENT SPAN: a 1?1/2
+   OARG: quart casserole
+      NON-INGREDIENT SPAN: quart casserole
+
+
+SENTID: 1
+SENT: I would stir the bread crumbs and butter in a small bowl .
+PREDID: 63
+PRED: stir
+   DOBJ: the bread crumbs, butter
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: the bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 2
+SENT: I would bake at 400 degrees F for 20 minutes or until the chicken mixture is hot and bubbling .
+PREDID: 103
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees
+   PARG: f for 20 minutes or until the chicken mixture is hot, bubbling
+     PREP: for
+      NON-INGREDIENT SPAN:  bubbling
+      NON-INGREDIENT SPAN: f for 20 minutes or until the chicken mixture is hot
+
+
+SENTID: 3
+SENT: I would stir the chicken mixture .
+PREDID: 173
+PRED: stir
+   DOBJ: the chicken mixture
+      NON-INGREDIENT SPAN: the chicken mixture
+
+
+SENTID: 4
+SENT: I would sprinkle with the bread crumb mixture .
+PREDID: 195
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the bread crumb mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the bread crumb mixture
+
+
+SENTID: 5
+SENT: I would bake for 5 minutes or until the topping is golden brown .
+PREDID: 228
+PRED: bake
+   DOBJ: NULL
+   PARG: 5 minutes or until the topping is golden brown
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes or until the topping is golden brown
+
+

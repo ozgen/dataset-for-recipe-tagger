@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would cook noodles according to package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would meanwhile , heat butter or margarine and cream in a small saucepan over low heat until butter or margarine is melted .
+
+SENTID: 2
+SENT: I would stir in cheese , the parsley , and salt and pepper ;
+PREDID: 40
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese , the parsley , salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+
+
+SENTID: 3
+SENT: I would keep warm over low heat .
+PREDID: 78
+PRED: keep
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 4
+SENT: I would drain pasta .
+PREDID: 98
+PRED: drain
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+
+
+SENTID: 5
+SENT: I would toss with sauce to coat .
+PREDID: 109
+PRED: toss
+   DOBJ: NULL
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

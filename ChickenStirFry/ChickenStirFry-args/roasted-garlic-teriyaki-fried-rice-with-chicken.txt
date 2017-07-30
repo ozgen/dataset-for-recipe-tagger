@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would cut chicken into thin strips .
+PREDID: 0
+PRED: cut
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken breasts
+   PARG: thin strips
+     PREP: into
+      NON-INGREDIENT SPAN: thin strips
+
+
+SENTID: 1
+SENT: I would heat oil in hot wok or large skillet over high heat .
+PREDID: 25
+PRED: heat
+   DOBJ: oil in hot wok or large skillet over high heat
+      INGREDIENT SPAN: oil in hot wok or large skillet over high heat
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 2
+SENT: I would add chicken , green onions and carrot .
+PREDID: 67
+PRED: add
+   DOBJ: chicken , green onions, carrot
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions tops chopped
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: carrot julienned
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 3
+SENT: I would stir-fry 3 minutes , or until chicken is thoroughly cooked .
+PREDID: 99
+PRED: stir-fry
+   DOBJ: NULL
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+PREDID: 142
+PRED: is cooked
+   DOBJ: NULL
+   PARG: chicken
+     PREP: until
+      NON-INGREDIENT SPAN: chicken
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would add egg ;
+PREDID: 149
+PRED: add
+   DOBJ: egg
+      INGREDIENT SPAN: egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 5
+SENT: I would cook , stirring gently , until firm .
+PREDID: 156
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring gently , until firm
+      NON-INGREDIENT SPAN:  until firm
+      NON-INGREDIENT SPAN: stirring gently 
+
+
+SENTID: 6
+SENT: I would stir in rice and cook until heated through .
+PREDID: 186
+PRED: stir
+   DOBJ: NULL
+   PARG: rice
+     PREP: in
+      INGREDIENT SPAN: rice
+         INGREDIENTS: cold cooked rice
+
+PREDID: 199
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 7
+SENT: I would add roasted garlic teriyaki sauce ;
+PREDID: 222
+PRED: add
+   DOBJ: roasted garlic teriyaki sauce
+      INGREDIENT SPAN: roasted garlic teriyaki sauce
+         INGREDIENTS: Kikkoman Roasted Garlic Teriyaki Marinade Sauce
+
+
+SENTID: 8
+SENT: I would remove the pan from heat .
+PREDID: 252
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 9
+SENT: I would stir mixture until well mixed .
+PREDID: 270
+PRED: stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 10
+SENT: I would serve immediately .
+PREDID: 296
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

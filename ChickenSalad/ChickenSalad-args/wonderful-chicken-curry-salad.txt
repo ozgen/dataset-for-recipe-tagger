@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large saucepan , I would simmer chicken breasts in water for about 7 to 10 minutes , or until cooked through .
+PREDID: 17
+PRED: simmer
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: water for about 7 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: water for about 7 to 10 minutes
+
+
+SENTID: 1
+SENT: I would drain , cool , and tear into small pieces with a fork .
+PREDID: 86
+PRED: drain and cool
+   DOBJ: NULL
+
+PREDID: 100
+PRED: tear
+   DOBJ: NULL
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine mayonnaise , the chutney , curry powder , and pepper .
+PREDID: 142
+PRED: combine
+   DOBJ: mayonnaise , the chutney , curry powder , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: chutney
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would stir in chicken , the pecans , the grapes , and onions .
+PREDID: 190
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken , the pecans , the grapes , onions
+     PREP: in
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless grapes halved
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 4
+SENT: Chill .
+

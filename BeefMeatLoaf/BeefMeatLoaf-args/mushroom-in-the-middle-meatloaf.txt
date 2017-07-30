@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl combine sausage , I would the beef , the eggs , bread crumbs , the onion , bell pepper , the salt , the pepper and garlic powder .
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 38
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would roll out mixture flat , 8 inches by 8 inches square .
+PREDID: 46
+PRED: roll
+   DOBJ: mixture flat , 8 inches by 8 inches square
+      NON-INGREDIENT SPAN: mixture flat 
+      NON-INGREDIENT SPAN:  8 inches by 8 inches square
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would spread 1/2 can of soup over meatloaf , roll up and seal edges .
+PREDID: 88
+PRED: spread
+   DOBJ: 1/2 can of soup
+      INGREDIENT SPAN: 1/2 can of soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: meatloaf
+
+PREDID: 119
+PRED: roll
+   DOBJ: NULL
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 128
+PRED: seal
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+
+
+SENTID: 5
+SENT: I would place in a loaf pan .
+PREDID: 138
+PRED: place
+   DOBJ: NULL
+   PARG: a loaf pan
+     PREP: in
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 154
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 7
+SENT: I would add the remaining soup and bake for another 20 minutes .
+PREDID: 186
+PRED: add
+   DOBJ: the remaining soup
+      INGREDIENT SPAN: the remaining soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+PREDID: 208
+PRED: bake
+   DOBJ: NULL
+   PARG: another 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 20 minutes
+
+

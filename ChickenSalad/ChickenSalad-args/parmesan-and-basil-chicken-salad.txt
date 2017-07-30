@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would season chicken with salt and pepper .
+PREDID: 0
+PRED: season
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: whole skinless boneless chicken breasts
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 1
+SENT: I would roast at 375 degrees F -LRB- 190 degrees C -RRB- for 35 minutes , or until juices run clear .
+PREDID: 31
+PRED: roast
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 35 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 minutes
+
+
+SENTID: 2
+SENT: I would let cool , and chop into chunks .
+PREDID: 97
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+PREDID: 108
+PRED: chop
+   DOBJ: NULL
+   PARG: chunks
+     PREP: into
+      NON-INGREDIENT SPAN: chunks
+
+
+SENTID: 3
+SENT: In a food processor , I would puree the mayonnaise , basil , garlic , and celery .
+PREDID: 140
+PRED: puree
+   DOBJ: the mayonnaise , basil , garlic , celery
+      INGREDIENT SPAN:  basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: cloves crushed garlic
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+
+
+SENTID: 4
+SENT: I would combine the chunked chicken , pureed mixture , and Parmesan cheese ;
+PREDID: 182
+PRED: combine
+   DOBJ: the chunked chicken , pureed mixture , Parmesan cheese
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: the chunked chicken 
+      NON-INGREDIENT SPAN:  pureed mixture 
+
+
+SENTID: 5
+SENT: I would toss .
+PREDID: 239
+PRED: toss
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would refrigerate , and serve .
+PREDID: 244
+PRED: refrigerate
+   DOBJ: NULL
+
+

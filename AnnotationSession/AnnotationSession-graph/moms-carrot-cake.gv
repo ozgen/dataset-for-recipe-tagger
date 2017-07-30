@@ -1,0 +1,68 @@
+digraph recipe {
+E0[label="cover (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook (S1,P1)", shape=oval, style=filled, fillcolor=azure]
+E3[label="let (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="beat (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="add (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="add (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="pour (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="bake (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="place (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="allow (S9,P1)", shape=oval, style=filled, fillcolor=azure]
+E11[label="spread (S12,P0)", shape=oval, style=filled, fillcolor=azure]
+E12[label="cake (S13,P0)", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: cool and mash", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+D0[label="DOBJ: carrots
+(text: carrots)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a small saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="PREP: with water", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+D6[label="DOBJ: ground cinnamon, all-purpose flour, salt, baking soda
+(text: flour , baking soda , ground cinnamon and salt)", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+E0 -> E1 [label="OUTPUT: 
+INPUT: water"]
+P1_0_0[label="PREP: to a boil", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: until  about 15 minutes", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+P2_0_1[label="PREP: until tender ", shape=box, style=filled, fillcolor=white]
+P2_0_1 -> E2
+D4_ing[label="DOBJ: eggs
+(text: eggs)", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: in a large mixing bowl"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_0[label="PREP: into paper towel-lined 13 x 9 x 2-1/2 inch pan", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E5 -> E8 [label="OUTPUT: 
+INPUT: at 350 degrees F -LRB- 175 degrees C"]
+E2 -> E8 [label="OUTPUT: 
+INPUT: for 55 minutes"]
+E7 -> E9 [label="OUTPUT: 
+INPUT: cake"]
+P9_0_0[label="PREP: on a plate", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_0[label="PREP: on cooled cake", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+E8 -> E12 [label="OUTPUT: 
+INPUT: tastes"]
+E11 -> E12 [label="OUTPUT: 
+INPUT: after refrigerating overnight"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

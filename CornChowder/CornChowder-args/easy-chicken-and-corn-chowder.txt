@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would melt butter in a large saucepan over medium heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir carrot , the celery , the onion , and garlic into hot butter until slightly softened , about 2 minutes .
+PREDID: 41
+PRED: cook and stir
+   DOBJ: carrot , the celery , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery diced
+      INGREDIENT SPAN: carrot 
+         INGREDIENTS: small carrot diced
+   PARG: hot butter until slightly softened , about 2 minutes
+     PREP: into
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: hot butter until slightly softened 
+
+
+SENTID: 2
+SENT: I would stir flour into mixture to make a paste ;
+PREDID: 130
+PRED: stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mixture
+   OARG: to make a paste
+      NON-INGREDIENT SPAN: to make a paste
+
+
+SENTID: 3
+SENT: I would cook until lightly browned and flour gives off a slightly toasted smell , about 5 minutes .
+PREDID: 163
+PRED: cook
+   DOBJ: NULL
+   PARG: lightly browned, flour gives off a slightly toasted smell , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+      NON-INGREDIENT SPAN:  flour gives off a slightly toasted smell 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would watch carefully , flour burns easily .
+
+SENTID: 5
+SENT: I would remove saucepan from heat and set aside to cool , about 15 minutes .
+PREDID: 270
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 295
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: to cool 
+
+
+SENTID: 6
+SENT: I would stir white and yellow corn , the potatoes , the chicken , and 3 cups of chicken stock in a large soup pot over medium heat .
+PREDID: 325
+PRED: stir
+   DOBJ: white, yellow corn , the potatoes , the chicken , 3 cups of chicken stock
+      INGREDIENT SPAN:  3 cups of chicken stock
+         INGREDIENTS: chicken stock divided
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cooked rotisserie chicken breast halves shredded
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: russet potatoes diced
+      INGREDIENT SPAN:  yellow corn 
+         INGREDIENTS: white corn kernels
+      NON-INGREDIENT SPAN: white
+   PARG: a large soup pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot over medium heat
+
+
+SENTID: 7
+SENT: I would whisk the remaining 1 cup chicken stock into vegetables and flour mixture until thoroughly combined .
+PREDID: 417
+PRED: whisk
+   DOBJ: the remaining 1 cup chicken stock
+      INGREDIENT SPAN: the remaining 1 cup chicken stock
+         INGREDIENTS: chicken stock divided
+   PARG: vegetables, flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN:  flour mixture
+      NON-INGREDIENT SPAN: vegetables
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 8
+SENT: I would stir mixture into ingredients in soup pot .
+PREDID: 500
+PRED: stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: ingredients in soup pot
+     PREP: into
+      NON-INGREDIENT SPAN: ingredients in soup pot
+
+
+SENTID: 9
+SENT: I would bring to a simmer , stirring constantly , until thick , about 5 minutes .
+PREDID: 536
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+   OARG: stirring constantly , until thick , about 5 minutes
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until thick 
+
+
+SENTID: 10
+SENT: I would stir half-and-half , the nutmeg , the salt , and black pepper into chowder .
+PREDID: 595
+PRED: stir
+   DOBJ: half-and-half , the nutmeg , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: nutmeg
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: half-and-half 
+   PARG: chowder
+     PREP: into
+      NON-INGREDIENT SPAN: chowder
+
+
+SENTID: 11
+SENT: I would bring back to a boil , reduce heat to low , and simmer until potatoes are tender , about 20 minutes .
+PREDID: 651
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+PREDID: 668
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 687
+PRED: simmer
+   DOBJ: NULL
+   PARG: potatoes are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

@@ -1,0 +1,25 @@
+digraph recipe {
+E0[label="stir
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="season
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cover
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: chopped green chiles, chili powder, creamstyle corn, hot sauce, dried parsley, milk, butter, frozen hash brown potatoes, condensed cream mushroom soup, large onion, cubed ham, frozen corn", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_ing[label="COOBJECT: with salt and ground black pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P1_0_ing -> E1
+P1_0_0[label="COOBJECT:with salt", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="DURATION:on high for 4 hours or on low", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+P3_0_1[label="DURATION:on for 6 hours", shape=box, style=filled, fillcolor=white]
+P3_0_1 -> E3
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E3 -> EOR
+}

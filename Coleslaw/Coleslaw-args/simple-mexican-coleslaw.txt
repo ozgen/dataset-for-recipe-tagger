@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: I would place cabbage and carrots in a colander and rinse in cold water ;
+PREDID: 0
+PRED: place
+   DOBJ: cabbage, carrots
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: sliced green cabbage
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: grated carrots
+   PARG: a colander, rinse in cold water
+     PREP: in
+      NON-INGREDIENT SPAN: a colander
+      NON-INGREDIENT SPAN:  rinse in cold water
+
+
+SENTID: 1
+SENT: I would let drain for 5 minutes .
+PREDID: 53
+PRED: let
+   DOBJ: drain
+      NON-INGREDIENT SPAN: drain
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 2
+SENT: I would whisk rice vinegar , olive oil , and cilantro together in a large salad bowl .
+PREDID: 73
+PRED: whisk
+   DOBJ: rice vinegar , olive oil , cilantro
+      INGREDIENT SPAN: rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: extravirgin olive oil
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped cilantro
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir cabbage and carrots into dressing ;
+PREDID: 136
+PRED: stir
+   DOBJ: cabbage, carrots
+      NON-INGREDIENT SPAN: cabbage
+      NON-INGREDIENT SPAN:  carrots
+   PARG: dressing
+     PREP: into
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 4
+SENT: I would season with salt .
+PREDID: 170
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 5
+SENT: I would slaw can be served immediately or covered and refrigerated for up to 1 day .
+PREDID: 185
+PRED: be slaw served
+   DOBJ: NULL
+   OARG: can
+      NON-INGREDIENT SPAN: can
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 213
+PRED: covered and refrigerated
+   DOBJ: NULL
+   PARG: up to 1 day
+     PREP: for
+      NON-INGREDIENT SPAN: up to 1 day
+
+

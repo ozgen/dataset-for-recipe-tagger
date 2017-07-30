@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , I would melt butter .
+PREDID: 31
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would cook onions and celery in butter 3 minutes .
+PREDID: 42
+PRED: cook
+   DOBJ: onions, celery
+      INGREDIENT SPAN: onions
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: diced celery
+   PARG: butter
+     PREP: in
+      NON-INGREDIENT SPAN: butter
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 2
+SENT: I would whisk in flour and cook 6 minutes more , until light brown .
+PREDID: 78
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour, cook
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  cook
+   PARG: light brown
+     PREP: until
+      NON-INGREDIENT SPAN: light brown
+   OARG: 6 minutes more
+      NON-INGREDIENT SPAN: 6 minutes more
+
+
+SENTID: 3
+SENT: I would whisk in broth and simmer 10 minutes .
+PREDID: 126
+PRED: whisk
+   DOBJ: NULL
+   PARG: broth, simmer
+     PREP: in
+      INGREDIENT SPAN: broth
+         INGREDIENTS: ounce vegetable broth
+      NON-INGREDIENT SPAN:  simmer
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 4
+SENT: I would stir in creamed corn , the corn , the carrot , the half-and-half , the milk , the nutmeg , the pepper and salt .
+PREDID: 157
+PRED: stir
+   DOBJ: NULL
+   PARG: creamed corn , the corn , the carrot , the half-and-half , the milk , the nutmeg , the pepper, salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: skim milk
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: shredded carrot
+      INGREDIENT SPAN: creamed corn 
+         INGREDIENTS: ounce creamed corn
+      NON-INGREDIENT SPAN:  the half-and-half 
+
+
+SENTID: 5
+SENT: I would simmer over low heat 10 minutes more .
+PREDID: 227
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   OARG: 10 minutes more
+      NON-INGREDIENT SPAN: 10 minutes more
+
+

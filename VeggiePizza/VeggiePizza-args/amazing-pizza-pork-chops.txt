@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for medium heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for medium heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium heat
+
+
+SENTID: 1
+SENT: I would season the pork chops with salt and black pepper and arrange in the bottom of a disposable aluminum pan ;
+PREDID: 35
+PRED: season
+   DOBJ: the pork chops
+      INGREDIENT SPAN: the pork chops
+         INGREDIENTS: boneless pork chops
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+PREDID: 78
+PRED: arrange
+   DOBJ: NULL
+   PARG: the bottom of a disposable aluminum pan
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a disposable aluminum pan
+
+
+SENTID: 2
+SENT: I would top each with a tomato slice .
+PREDID: 121
+PRED: top
+   DOBJ: each with a tomato slice
+      INGREDIENT SPAN: each with a tomato slice
+         INGREDIENTS: slices tomato 1/2inch thick
+      INGREDIENT SPAN: each with a slice
+         INGREDIENTS: slices mozzarella cheese
+
+
+SENTID: 3
+SENT: I would divide the basil , the oregano , and garlic between the pork chops ;
+PREDID: 145
+PRED: divide
+   DOBJ: the basil , the oregano , garlic between the pork chops
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN: the basil 
+         INGREDIENTS: chopped fresh basil
+      NON-INGREDIENT SPAN:  garlic between the pork chops
+
+
+SENTID: 4
+SENT: I would drizzle with the olive oil .
+PREDID: 197
+PRED: drizzle
+   DOBJ: NULL
+   PARG: the olive oil
+     PREP: with
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 5
+SENT: I would cover the pan with aluminum foil .
+PREDID: 220
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 6
+SENT: I would cook on the preheated grill until the pork is no longer pink in the center , about 25 minutes .
+PREDID: 248
+PRED: cook
+   DOBJ: NULL
+   PARG: the preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: the preheated grill
+   PARG: the pork is no longer pink in the center , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pork is no longer pink in the center 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center should read 145 degrees F -LRB- 63 degrees C -RRB- .
+
+SENTID: 8
+SENT: I would remove the pan from the grill ;
+PREDID: 324
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the grill
+     PREP: from
+      NON-INGREDIENT SPAN: the grill
+
+
+SENTID: 9
+SENT: I would top each pork chop with a slice of mozzarella cheese , replace the aluminum foil over the pan , and wait until the cheese melts , 3 to 5 minutes , before serving .
+PREDID: 349
+PRED: top chop
+   DOBJ: each pork
+      NON-INGREDIENT SPAN: each pork
+   PARG: a slice of mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: a slice of mozzarella cheese
+   PARG: 3 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+PREDID: 393
+PRED: replace
+   DOBJ: the aluminum foil
+      NON-INGREDIENT SPAN: the aluminum foil
+   PARG: the pan
+     PREP: over
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 429
+PRED: wait
+   DOBJ: NULL
+   PARG: the cheese melts
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese melts
+
+

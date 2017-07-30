@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: I would stir milk , cream-style corn , cream of mushroom soup , chopped green chiles , frozen corn , hash brown potatoes , the ham , the onion , the butter , hot sauce , the parsley , and chili powder in a slow cooker .
+
+SENTID: 1
+SENT: I would season with salt and black pepper .
+PREDID: 155
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 2
+SENT: I would cover and cook on High for 4 hours or on Low and for 6 hours .
+PREDID: 184
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high for 4 hours or on low, for 6 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high for 4 hours or on low
+      NON-INGREDIENT SPAN:  for 6 hours
+
+

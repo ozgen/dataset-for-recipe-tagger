@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would heat oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would grease 12-inch pizza pan .
+PREDID: 22
+PRED: grease
+   DOBJ: 12-inch pizza pan
+      INGREDIENT SPAN: 12-inch pizza pan
+         INGREDIENTS: ounce Pillsbury refrigerated thin pizza crust
+
+
+SENTID: 2
+SENT: I would unroll dough ;
+PREDID: 44
+PRED: unroll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+
+
+SENTID: 3
+SENT: I would place in greased pan .
+PREDID: 56
+PRED: place
+   DOBJ: NULL
+   PARG: greased pan
+     PREP: in
+      NON-INGREDIENT SPAN: greased pan
+
+
+SENTID: 4
+SENT: Starting at center , I would press out dough to edges of pan .
+PREDID: 91
+PRED: press
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: at center
+     PREP: starting
+      NON-INGREDIENT SPAN: at center
+   PARG: edges of pan
+     PREP: to
+      NON-INGREDIENT SPAN: edges of pan
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would bake 10 to 12 minutes or until crust begins to brown .
+PREDID: 117
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+   PARG: crust begins to brown
+     PREP: until
+      NON-INGREDIENT SPAN: crust begins to brown
+
+
+SENTID: 6
+SENT: I would meanwhile , cook beef in 10-inch skillet over medium heat , stirring occasionally , until brown ;
+
+SENTID: 7
+SENT: I would drain .
+PREDID: 160
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would stir in sloppy joe sauce .
+PREDID: 166
+PRED: stir
+   DOBJ: NULL
+   PARG: sloppy joe sauce
+     PREP: in
+      INGREDIENT SPAN: sloppy joe sauce
+         INGREDIENTS: ounce original sloppy joe sauce
+
+
+SENTID: 9
+SENT: I would spoon beef mixture over crust .
+PREDID: 187
+PRED: spoon
+   DOBJ: beef mixture
+      INGREDIENT SPAN: beef mixture
+         INGREDIENTS: lean least % ground beef
+   PARG: crust
+     PREP: over
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 10
+SENT: I would sprinkle with cheese .
+PREDID: 213
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 11
+SENT: I would bake an additional 10 to 12 minutes or until cheese is melted and crust is golden brown .
+
+SENTID: 12
+SENT: I would top with tomatoes and onions .
+PREDID: 232
+PRED: top
+   DOBJ: NULL
+   PARG: tomatoes, onions
+     PREP: with
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: medium green onions sliced
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: roma plum tomatoes sliced
+
+

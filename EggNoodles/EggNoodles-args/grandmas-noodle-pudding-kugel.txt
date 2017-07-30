@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2-quart casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 2-quart casserole dish
+      NON-INGREDIENT SPAN: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 66
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 104
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 3
+SENT: I would stir in the egg noodles , and return to a boil .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package broad egg noodles
+
+PREDID: 147
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would cook uncovered , stirring occasionally , until the noodles have cooked through , but are still firm to the bite , about 5 minutes .
+PREDID: 161
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 165
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the noodles have cooked through , but are still firm to the bite , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  but are still firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the noodles have cooked through 
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+PREDID: 232
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would drain well .
+PREDID: 268
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would place cooked noodles into a mixing bowl .
+PREDID: 278
+PRED: place
+   DOBJ: cooked noodles
+      NON-INGREDIENT SPAN: cooked noodles
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 7
+SENT: With an electric mixer , I would beat egg whites in a bowl until they form stiff peaks ;
+PREDID: 332
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: eggs separated
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: they form stiff peaks
+     PREP: until
+      NON-INGREDIENT SPAN: they form stiff peaks
+
+
+SENTID: 8
+SENT: I would set egg whites aside .
+PREDID: 376
+PRED: set
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would whisk the egg yolks together in a bowl until smooth , and mix in the sugar until well combined .
+PREDID: 394
+PRED: whisk
+   DOBJ: the egg yolks
+      NON-INGREDIENT SPAN: the egg yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: mix in the sugar until well combined
+      INGREDIENT SPAN: mix in the sugar until well combined
+         INGREDIENTS: white sugar
+
+
+SENTID: 10
+SENT: I would pour egg yolk mixture over the noodles , and mix in the cinnamon , the apples , raisins , and almonds .
+PREDID: 471
+PRED: pour
+   DOBJ: egg yolk mixture over the noodles
+      NON-INGREDIENT SPAN: egg yolk mixture over the noodles
+   OARG: mix in the cinnamon , the apples , raisins , almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: chopped almonds
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: apples peeled cored chopped
+      INGREDIENT SPAN: mix in the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  raisins 
+         INGREDIENTS: raisins
+
+
+SENTID: 11
+SENT: I would gently fold in the beaten egg whites , trying to keep as much volume as possible .
+PREDID: 556
+PRED: fold
+   DOBJ: NULL
+   PARG: the beaten egg whites
+     PREP: in
+      NON-INGREDIENT SPAN: the beaten egg whites
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: trying to keep as much volume as possible
+      NON-INGREDIENT SPAN: trying to keep as much volume as possible
+
+
+SENTID: 12
+SENT: I would pour the kugel into the prepared baking dish .
+PREDID: 616
+PRED: pour
+   DOBJ: the kugel
+      NON-INGREDIENT SPAN: the kugel
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until the kugel is browned and the center is set , about 30 minutes .
+PREDID: 654
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the kugel is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the kugel is browned
+
+PREDID: 712
+PRED: is set
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 30 minutes
+
+

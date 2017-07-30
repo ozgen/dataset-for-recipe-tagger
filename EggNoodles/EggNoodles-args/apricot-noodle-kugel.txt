@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x9 inch baking pan .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x9 inch baking pan
+      NON-INGREDIENT SPAN: a 9x9 inch baking pan
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large saucepan of lightly salted water to a boil .
+PREDID: 69
+PRED: bring
+   DOBJ: a large saucepan of lightly salted water
+      NON-INGREDIENT SPAN: a large saucepan of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would stir in egg noodles , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 116
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 136
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 170
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: In a medium bowl , I would thoroughly mix egg noodles with 1/4 cup butter , cream cheese , the eggs , 1/2 cup sugar , and vanilla .
+PREDID: 200
+PRED: mix
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: eggs beaten
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: 1/4 cup butter , cream cheese , the eggs , 1/2 cup sugar , vanilla
+     PREP: with
+      INGREDIENT SPAN: 1/4 cup butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  1/2 cup sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the eggs 
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 6
+SENT: I would stir in apricot nectar and milk .
+PREDID: 270
+PRED: stir
+   DOBJ: NULL
+   PARG: apricot nectar, milk
+     PREP: in
+      INGREDIENT SPAN: apricot nectar
+         INGREDIENTS: apricot nectar
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+
+
+SENTID: 7
+SENT: I would mix in raisins .
+PREDID: 297
+PRED: mix
+   DOBJ: NULL
+   PARG: raisins
+     PREP: in
+      INGREDIENT SPAN: raisins
+         INGREDIENTS: golden raisins
+
+
+SENTID: 8
+SENT: I would transfer to the prepared baking pan .
+PREDID: 310
+PRED: transfer
+   DOBJ: NULL
+   PARG: the prepared baking pan
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking pan
+
+
+SENTID: 9
+SENT: In a separate medium bowl , I would mix cornflake crumbs , 1/2 cup butter , 1/4 cup sugar , remaining vanilla , and cinnamon .
+PREDID: 363
+PRED: mix
+   DOBJ: cornflake crumbs , 1/2 cup butter , 1/4 cup sugar , remaining vanilla , cinnamon
+      INGREDIENT SPAN: cornflake crumbs 
+         INGREDIENTS: cornflake crumbs
+      INGREDIENT SPAN:  1/2 cup butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  1/4 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  remaining vanilla 
+   PARG: a separate medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate medium bowl
+
+
+SENTID: 10
+SENT: I would spread over the egg noodle mixture .
+PREDID: 436
+PRED: spread
+   DOBJ: NULL
+   PARG: the egg noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the egg noodle mixture
+
+
+SENTID: 11
+SENT: I would bake 45 minutes in the preheated oven , until bubbly and lightly browned .
+PREDID: 466
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+PREDID: 519
+PRED: browned
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

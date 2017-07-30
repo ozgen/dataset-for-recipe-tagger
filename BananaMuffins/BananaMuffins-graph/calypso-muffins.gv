@@ -1,0 +1,75 @@
+digraph recipe {
+E0[label="bring stir (S0,P12)", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook (S0,P44)", shape=oval, style=filled, fillcolor=azure]
+E2[label="cover (S1,P56)", shape=oval, style=filled, fillcolor=azure]
+E3[label="remove (S1,P65)", shape=oval, style=filled, fillcolor=azure]
+E4[label="allow (S2,P80)", shape=oval, style=filled, fillcolor=azure]
+E5[label="preheat (S3,P92)", shape=oval, style=filled, fillcolor=azure]
+E6[label="grease and flour (S4,P130)", shape=oval, style=filled, fillcolor=azure]
+E7[label="use (S4,P157)", shape=oval, style=filled, fillcolor=azure]
+E8[label="combine (S5,P185)", shape=oval, style=filled, fillcolor=azure]
+E9[label="make (S6,P232)", shape=oval, style=filled, fillcolor=azure]
+E10[label="add (S6,P256)", shape=oval, style=filled, fillcolor=azure]
+E11[label="coconut (S6,P324)", shape=oval, style=filled, fillcolor=azure]
+E12[label="mix (S7,P339)", shape=oval, style=filled, fillcolor=azure]
+E13[label="scoop (S8,P354)", shape=oval, style=filled, fillcolor=azure]
+E14[label="bake (S9,P376)", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: a muffin pan", shape=box, style=filled, fillcolor=white]
+D6 -> E6
+D8[label="DOBJ: baking powder, ground nutmeg, white sugar, all-purpose flour, wheat bran
+(text: flour , bran , sugar , baking powder , nutmeg)", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+P0_0[label="PREP: in a saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="PREP: in rolled oats
+(text: in oats)", shape=box, style=filled, fillcolor=peachpuff]
+P0_1 -> E0
+D7[label="DOBJ: paper liners", shape=box, style=filled, fillcolor=white]
+D7 -> E7
+E0 -> E1 [label="OUTPUT: 
+INPUT: 1 minute"]
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: from heat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+O4_0_0[label="OTHER: to cool", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: oven to 375 degrees F -LRB- 190 degrees C"]
+E7 -> E9 [label="OUTPUT: 
+INPUT: a well in the center"]
+D10_ing[label="DOBJ: (8 ounce) can crushed pineapple, beaten egg, mashed banana, coconut milk
+(text:  egg , mashed banana ,  pineapple ,  coconut milk)", shape=box, style=filled, fillcolor=peachpuff]
+D10_ing -> E10
+E8 -> E10 [label="OUTPUT: 
+INPUT:  cooked"]
+E9 -> E10 [label="OUTPUT: 
+INPUT:  cooled oatmeal "]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+O11_0_ing[label="OTHER: coconut extract
+(text: null extract)", shape=box, style=filled, fillcolor=peachpuff]
+O11_0_ing -> E11
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+P12_0_0[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+E12 -> E13 [label="OUTPUT: 
+INPUT: "]
+E6 -> E13 [label="OUTPUT: 
+INPUT: into 12 muffin cups"]
+E13 -> E14 [label="OUTPUT: 
+INPUT: "]
+E5 -> E14 [label="OUTPUT: 
+INPUT: in preheated oven for 25 to 30 minutes"]
+O14_0_0[label="OTHER: tops spring back when lightly tapped", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E14 -> EOR
+}

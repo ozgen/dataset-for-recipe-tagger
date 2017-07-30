@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would create a pocket about 2/3 of the way into each slice of bread by cutting along an edge .
+PREDID: 0
+PRED: create
+   DOBJ: a pocket about 2/3 of the way
+      NON-INGREDIENT SPAN: a pocket about 2/3 of the way
+   PARG: each slice of bread
+     PREP: into
+      INGREDIENT SPAN: each slice of bread
+         INGREDIENTS: pound loaf French bread cut inch slices
+   PARG: cutting along an edge
+     PREP: by
+      NON-INGREDIENT SPAN: cutting along an edge
+
+
+SENTID: 1
+SENT: I would fill pockets with 2 or 3 banana slices each .
+PREDID: 70
+PRED: fill
+   DOBJ: pockets
+      NON-INGREDIENT SPAN: pockets
+   PARG: 2 or 3 banana slices each
+     PREP: with
+      INGREDIENT SPAN: 2 or 3 banana slices each
+         INGREDIENTS: bananas peeled sliced
+
+
+SENTID: 2
+SENT: In a medium bowl , I would beat together eggs , the water , the milk , vanilla extract , orange liqueur and orange zest .
+PREDID: 120
+PRED: beat
+   DOBJ: eggs , the water , the milk , vanilla extract , orange liqueur, orange zest
+      INGREDIENT SPAN:  orange liqueur
+         INGREDIENTS: orange liqueur
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  orange zest
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would dip the bread slices in the mixture , allowing slices to become saturated .
+PREDID: 190
+PRED: dip
+   DOBJ: the bread slices
+      NON-INGREDIENT SPAN: the bread slices
+   PARG: the mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the mixture
+   OARG: allowing slices to become saturated
+      NON-INGREDIENT SPAN: allowing slices to become saturated
+
+
+SENTID: 4
+SENT: I would melt butter in a medium skillet over medium heat .
+PREDID: 252
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a medium skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet over medium heat
+
+
+SENTID: 5
+SENT: I would place a few slices at a time in the skillet , and cook , turning once , until both sides are golden brown .
+PREDID: 293
+PRED: place
+   DOBJ: a few slices
+      NON-INGREDIENT SPAN: a few slices
+   PARG: a time in the skillet
+     PREP: at
+      NON-INGREDIENT SPAN: a time in the skillet
+   PARG: both sides are golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: both sides are golden brown
+
+PREDID: 336
+PRED: turning
+   DOBJ: NULL
+   OARG: once
+      NON-INGREDIENT SPAN: once
+
+
+SENTID: 6
+SENT: I would dust with confectioners ' sugar to serve .
+PREDID: 377
+PRED: dust
+   DOBJ: NULL
+   PARG: confectioners ' sugar to serve
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar to serve
+         INGREDIENTS: confectioners sugar dusting
+
+

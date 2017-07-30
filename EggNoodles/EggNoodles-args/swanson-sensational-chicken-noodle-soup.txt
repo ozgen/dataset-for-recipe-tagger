@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would heat broth , black pepper , the carrot and celery in 2-quart saucepan over medium-high heat to a boil .
+PREDID: 0
+PRED: heat
+   DOBJ: broth , black pepper , the carrot, celery
+      INGREDIENT SPAN:  
+         INGREDIENTS: Organic
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery sliced
+      INGREDIENT SPAN:  the carrot
+         INGREDIENTS: medium carrot sliced
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: Swanson Chicken Broth Regular Natural Goodness Certified
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: Generous ground black pepper
+   PARG: 2-quart saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: 2-quart saucepan over medium-high heat
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would stir noodles and chicken in saucepan .
+PREDID: 81
+PRED: stir
+   DOBJ: noodles, chicken
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked extrawide egg noodles
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: shredded cooked chicken turkey
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 2
+SENT: I would reduce heat to medium .
+PREDID: 113
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 3
+SENT: I would cook 10 minutes or until noodles are tender , stirring often .
+PREDID: 132
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes or until noodles are tender , stirring often
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes or until noodles are tender 
+      NON-INGREDIENT SPAN:  stirring often
+
+

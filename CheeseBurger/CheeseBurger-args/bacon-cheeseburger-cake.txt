@@ -1,0 +1,316 @@
+SENTID: 0
+SENT: I would preheat oven according to instructions on cake mix box ;
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: to instructions on cake mix box
+     PREP: according
+      INGREDIENT SPAN: to instructions on cake mix box
+         INGREDIENTS: ounce package yellow cake mix
+
+
+SENTID: 1
+SENT: I would prepare mix .
+PREDID: 47
+PRED: prepare
+   DOBJ: mix
+      INGREDIENT SPAN: mix
+         INGREDIENTS: ounce package brownie mix
+
+
+SENTID: 2
+SENT: I would grease and flour a 9 inch pan , and a shallow metal bowl at least 9 inches in diameter .
+PREDID: 58
+PRED: grease and flour
+   DOBJ: a 9 inch pan
+      NON-INGREDIENT SPAN: a 9 inch pan
+   OARG: a shallow metal bowl at least 9 inches in diameter
+      NON-INGREDIENT SPAN: a shallow metal bowl at least 9 inches in diameter
+
+
+SENTID: 3
+SENT: I would fill the 9 inch cake pan 2/3 full with cake batter ;
+PREDID: 127
+PRED: fill pan
+   DOBJ: the 9 inch cake
+      NON-INGREDIENT SPAN: the 9 inch cake
+   OARG: 2/3 full with cake batter
+      NON-INGREDIENT SPAN: 2/3 full with cake batter
+
+
+SENTID: 4
+SENT: pour the remaining batter into the prepared metal bowl -LRB- this will be the top of your `` bun '' -RRB- .
+
+SENTID: 5
+SENT: I would bake the according to directions , remove from pans , and cool on a wire rack .
+PREDID: 168
+PRED: bake
+   DOBJ: the
+      NON-INGREDIENT SPAN: the
+   PARG: to directions
+     PREP: according
+      NON-INGREDIENT SPAN: to directions
+
+PREDID: 197
+PRED: remove
+   DOBJ: NULL
+   PARG: pans
+     PREP: from
+      NON-INGREDIENT SPAN: pans
+
+PREDID: 215
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+
+
+SENTID: 6
+SENT: I would grease and flour a 9 inch pan .
+PREDID: 228
+PRED: grease and flour
+   DOBJ: a 9 inch pan
+      NON-INGREDIENT SPAN: a 9 inch pan
+
+
+SENTID: 7
+SENT: I would prepare brownie batter , and bake the according to instructions on box .
+PREDID: 252
+PRED: prepare
+   DOBJ: brownie batter
+      NON-INGREDIENT SPAN: brownie batter
+
+PREDID: 276
+PRED: bake
+   DOBJ: the
+      NON-INGREDIENT SPAN: the
+   PARG: to instructions on box
+     PREP: according
+      NON-INGREDIENT SPAN: to instructions on box
+
+
+SENTID: 8
+SENT: I would remove from pan , and cool on a wire rack .
+PREDID: 309
+PRED: remove
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 326
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+
+
+SENTID: 9
+SENT: I would shave off the sharp edges of the brownie , making it resemble a hamburger patty .
+PREDID: 342
+PRED: shave
+   DOBJ: the sharp edges of the brownie
+      NON-INGREDIENT SPAN: the sharp edges of the brownie
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: making it resemble a hamburger patty
+      NON-INGREDIENT SPAN: making it resemble a hamburger patty
+
+
+SENTID: 10
+SENT: I would place 1/4 cups of vanilla frosting in a heavy duty plastic sandwich bag , and color with yellow food coloring to make your mustard .
+PREDID: 408
+PRED: place
+   DOBJ: 1/4 cups of vanilla frosting in a heavy duty plastic sandwich bag , color
+      INGREDIENT SPAN: 1/4 cups of vanilla frosting in a heavy duty plastic sandwich bag 
+         INGREDIENTS: fluid ounce vanilla frosting
+      NON-INGREDIENT SPAN:  color
+   PARG: yellow food coloring to make your mustard
+     PREP: with
+      INGREDIENT SPAN: yellow food coloring to make your mustard
+         INGREDIENTS: red food coloring
+
+
+SENTID: 11
+SENT: I would repeat a second time using the red food coloring to make your ketchup .
+PREDID: 516
+PRED: repeat
+   DOBJ: a second time using the red food coloring to make your ketchup
+      INGREDIENT SPAN: a second time using the red food coloring to make your ketchup
+         INGREDIENTS: yellow food coloring
+
+
+SENTID: 12
+SENT: I would place the remaining frosting in a bowl , and color with a mix of red and yellow food coloring until you arrive at the color of a hamburger bun .
+PREDID: 574
+PRED: place
+   DOBJ: the remaining frosting in a bowl
+      INGREDIENT SPAN: the remaining frosting in a bowl
+         INGREDIENTS: fluid ounce vanilla frosting
+   OARG: color with a mix of red, yellow food coloring until you arrive at the color of a hamburger bun
+      NON-INGREDIENT SPAN:  yellow food coloring until you arrive at the color of a hamburger bun
+      NON-INGREDIENT SPAN: color with a mix of red
+
+
+SENTID: 13
+SENT: I would cut the cookies in half and wrap with pieces of red fruit leather to create your tomatoes .
+PREDID: 686
+PRED: cut
+   DOBJ: the cookies in half, wrap
+      INGREDIENT SPAN: the cookies in half
+         INGREDIENTS: vanilla wafer cookies
+      NON-INGREDIENT SPAN:  wrap
+   PARG: pieces of red fruit leather
+     PREP: with
+      INGREDIENT SPAN: pieces of red fruit leather
+         INGREDIENTS: large roll green fruit leather
+   OARG: to create your tomatoes
+      NON-INGREDIENT SPAN: to create your tomatoes
+
+
+SENTID: 14
+SENT: I would unwrap the caramels , and heat in microwave for 10 to 15 seconds to slightly soften .
+PREDID: 760
+PRED: unwrap
+   DOBJ: the caramels
+      INGREDIENT SPAN: the caramels
+         INGREDIENTS: caramels stripes
+
+PREDID: 781
+PRED: heat
+   DOBJ: NULL
+   PARG: microwave for 10 to 15 seconds
+     PREP: in
+      NON-INGREDIENT SPAN: microwave for 10 to 15 seconds
+   OARG: to slightly soften
+      NON-INGREDIENT SPAN: to slightly soften
+
+
+SENTID: 15
+SENT: I would roll the caramels individually between sheets of waxed paper to create bacon strips .
+PREDID: 829
+PRED: roll
+   DOBJ: the caramels
+      NON-INGREDIENT SPAN: the caramels
+   OARG: individually between sheets of waxed paper
+      NON-INGREDIENT SPAN: individually between sheets of waxed paper
+   OARG: to create bacon strips
+      NON-INGREDIENT SPAN: to create bacon strips
+
+
+SENTID: 16
+SENT: I would microwave the chewy fruit-flavored candy squares , place together , and roll between sheets of waxed paper to create your cheese slice ;
+PREDID: 901
+PRED: microwave
+   DOBJ: the chewy fruit-flavored candy squares
+      INGREDIENT SPAN: the chewy fruit-flavored candy squares
+         INGREDIENTS: yellow chewy fruitflavored candy squares
+
+PREDID: 945
+PRED: place
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 962
+PRED: roll
+   DOBJ: NULL
+   PARG: sheets of waxed paper
+     PREP: between
+      NON-INGREDIENT SPAN: sheets of waxed paper
+   OARG: to create your cheese slice
+      NON-INGREDIENT SPAN: to create your cheese slice
+
+
+SENTID: 17
+SENT: I would trim into a square shape .
+PREDID: 1015
+PRED: trim
+   DOBJ: NULL
+   PARG: a square shape
+     PREP: into
+      NON-INGREDIENT SPAN: a square shape
+
+
+SENTID: 18
+SENT: To assemble , place bottom bun on your serving dish , and spread with some of the hamburger bun frosting .
+
+SENTID: 19
+SENT: I would place brownie on top of this , and spread it with chocolate frosting .
+PREDID: 1122
+PRED: place
+   DOBJ: brownie
+      NON-INGREDIENT SPAN: brownie
+   PARG: top of this
+     PREP: on
+      NON-INGREDIENT SPAN: top of this
+
+PREDID: 1149
+PRED: spread
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: chocolate frosting
+     PREP: with
+      INGREDIENT SPAN: chocolate frosting
+         INGREDIENTS: ounce container chocolate frosting
+
+
+SENTID: 20
+SENT: I would decorate edges with the tomatoes , the bacon , the cheese , the mustard , and ketchup ;
+PREDID: 1179
+PRED: decorate
+   DOBJ: edges
+      NON-INGREDIENT SPAN: edges
+   PARG: the tomatoes , the bacon , the cheese , the mustard , ketchup
+     PREP: with
+      NON-INGREDIENT SPAN:  the cheese 
+      NON-INGREDIENT SPAN:  the mustard 
+      NON-INGREDIENT SPAN: the tomatoes 
+      NON-INGREDIENT SPAN:  ketchup
+      NON-INGREDIENT SPAN:  the bacon 
+
+
+SENTID: 21
+SENT: I would use the green fruit leather as lettuce .
+PREDID: 1240
+PRED: use
+   DOBJ: the green fruit leather
+      INGREDIENT SPAN: the green fruit leather
+         INGREDIENTS: large roll green fruit leather
+   PARG: lettuce
+     PREP: as
+      NON-INGREDIENT SPAN: lettuce
+
+
+SENTID: 22
+SENT: I would place top bun over this and spread with the remaining hamburger bun frosting ;
+PREDID: 1273
+PRED: place
+   DOBJ: top bun
+      NON-INGREDIENT SPAN: top bun
+   PARG: this
+     PREP: over
+      NON-INGREDIENT SPAN: this
+
+PREDID: 1295
+PRED: spread
+   DOBJ: NULL
+   PARG: the remaining hamburger bun frosting
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining hamburger bun frosting
+
+
+SENTID: 23
+SENT: I would sprinkle with sesame seeds .
+PREDID: 1338
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sesame seeds
+     PREP: with
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: sesame seeds
+
+

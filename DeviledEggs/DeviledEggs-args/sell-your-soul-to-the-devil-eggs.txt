@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would place the eggs in a saucepan in a single layer with enough water to cover by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover by 1 inch
+      NON-INGREDIENT SPAN: to cover by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 67
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 86
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 141
+PRED: remove
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 161
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would pour out the hot water ,
+PREDID: 202
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water .
+PREDID: 221
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 254
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would dry the eggs thoroughly with paper towels , and slice them in half lengthwise .
+PREDID: 267
+PRED: dry
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: paper towels
+     PREP: with
+      NON-INGREDIENT SPAN: paper towels
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 306
+PRED: slice
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 7
+SENT: I would remove the yolks , and place in a bowl .
+PREDID: 332
+PRED: remove
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+PREDID: 350
+PRED: place
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 8
+SENT: I would mash the yolks with a fork , and stir in the sugar , the salt , onion powder , garlic powder , and white pepper .
+PREDID: 363
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 388
+PRED: stir
+   DOBJ: NULL
+   PARG: the sugar , the salt , onion powder , garlic powder , white pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  white pepper
+         INGREDIENTS: white pepper
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+
+
+SENTID: 9
+SENT: I would add the mustard , the mayonnaise , salad dressing , and vinegar , one at a time , stirring to incorporate each ingredient before adding the next .
+PREDID: 448
+PRED: add
+   DOBJ: the mustard , the mayonnaise , salad dressing , vinegar , one at a time , stirring to incorporate each ingredient before adding the next
+      INGREDIENT SPAN: the mustard 
+         INGREDIENTS: yellow mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+      NON-INGREDIENT SPAN:  one at a time 
+      NON-INGREDIENT SPAN:  stirring to incorporate each ingredient before adding the next
+
+
+SENTID: 10
+SENT: I would mound a heaping teaspoonful of the yolk mixture into the cavity of each egg half , and sprinkle with paprika .
+PREDID: 564
+PRED: mound
+   DOBJ: a heaping teaspoonful of the yolk mixture
+      NON-INGREDIENT SPAN: a heaping teaspoonful of the yolk mixture
+   PARG: the cavity of each egg half
+     PREP: into
+      NON-INGREDIENT SPAN: the cavity of each egg half
+
+PREDID: 634
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+

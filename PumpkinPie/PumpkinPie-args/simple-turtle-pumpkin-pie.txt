@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would combine graham cracker crumbs , the sugar , and melted butter in a mixing bowl until evenly moistened ;
+PREDID: 38
+PRED: combine
+   DOBJ: graham cracker crumbs , the sugar , melted butter in a mixing bowl
+      INGREDIENT SPAN: graham cracker crumbs 
+         INGREDIENTS: crushed graham cracker crumbs
+      INGREDIENT SPAN:  melted butter in a mixing bowl
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: evenly moistened
+     PREP: until
+      NON-INGREDIENT SPAN: evenly moistened
+
+
+SENTID: 2
+SENT: I would press into the bottom and sides of a 9-inch pie pan .
+PREDID: 120
+PRED: press
+   DOBJ: NULL
+   PARG: the bottom, sides of a 9-inch pie pan
+     PREP: into
+      NON-INGREDIENT SPAN:  sides of a 9-inch pie pan
+      NON-INGREDIENT SPAN: the bottom
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until the crust is lightly browned and smells toasted , about 6 minutes .
+PREDID: 162
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the crust is lightly browned, smells toasted , about 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the crust is lightly browned
+      NON-INGREDIENT SPAN:  smells toasted 
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 4
+SENT: I would remove from the oven and allow to cool .
+PREDID: 244
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 264
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      INGREDIENT SPAN: to cool
+         INGREDIENTS: ounce container whipped topping such Cool Whip thawed divided
+
+
+SENTID: 5
+SENT: I would spread 1/4 cup caramel topping onto the cooled crust .
+PREDID: 276
+PRED: spread
+   DOBJ: 1/4 cup caramel topping onto the cooled crust
+      INGREDIENT SPAN: 1/4 cup caramel topping onto the cooled crust
+         INGREDIENTS: caramel topping
+
+
+SENTID: 6
+SENT: I would sprinkle 1/2 cup pecan pieces over the caramel topping .
+PREDID: 321
+PRED: sprinkle
+   DOBJ: 1/2 cup pecan pieces
+      INGREDIENT SPAN: 1/2 cup pecan pieces
+         INGREDIENTS: pecan
+   PARG: the caramel topping
+     PREP: over
+      NON-INGREDIENT SPAN: the caramel topping
+
+
+SENTID: 7
+SENT: I would whisk milk , the pumpkin , pudding mix , the cinnamon , and nutmeg together in a bowl until well combined .
+PREDID: 368
+PRED: whisk
+   DOBJ: milk , the pumpkin , pudding mix , the cinnamon
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: cold milk
+      INGREDIENT SPAN:  pudding mix 
+         INGREDIENTS: 4-serving size packages instant vanilla pudding mix
+
+PREDID: 445
+PRED: nutmeg combined
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: well
+     PREP: until
+      NON-INGREDIENT SPAN: well
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would stir 1?1/2 cups whipped topping into pumpkin mixture .
+PREDID: 448
+PRED: stir
+   DOBJ: 1?1/2 cups whipped topping into pumpkin mixture
+      NON-INGREDIENT SPAN: 1?1/2 cups whipped topping into pumpkin mixture
+
+
+SENTID: 9
+SENT: I would spread pumpkin mixture into crust .
+PREDID: 494
+PRED: spread
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: crust
+     PREP: into
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 10
+SENT: I would spread the remaining whipped topping over the top of the pie .
+PREDID: 524
+PRED: spread
+   DOBJ: the remaining whipped topping over the top of the pie
+      NON-INGREDIENT SPAN: the remaining whipped topping over the top of the pie
+
+
+SENTID: 11
+SENT: I would refrigerate pie until chilled , at least 1 hour .
+PREDID: 572
+PRED: refrigerate
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: chilled , at least 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: chilled 
+      NON-INGREDIENT SPAN:  at least 1 hour
+
+
+SENTID: 12
+SENT: I would sprinkle 2 tablespoons pecans atop the pie and drizzle with 2 tablespoons caramel using a fork .
+PREDID: 612
+PRED: sprinkle
+   DOBJ: 2 tablespoons pecans
+      NON-INGREDIENT SPAN: 2 tablespoons pecans
+   PARG: the pie
+     PREP: atop
+      NON-INGREDIENT SPAN: the pie
+
+PREDID: 651
+PRED: drizzle
+   DOBJ: NULL
+   PARG: 2 tablespoons caramel using a fork
+     PREP: with
+      NON-INGREDIENT SPAN: 2 tablespoons caramel using a fork
+
+

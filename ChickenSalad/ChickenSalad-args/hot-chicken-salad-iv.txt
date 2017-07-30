@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl blend together the chicken , I would the celery , bell pepper , the onion , the pimento , the salt , lemon juice and mayonnaise .
+
+SENTID: 2
+SENT: I would spread mixture into the bottom of a lightly greased 9x13 inch baking dish , sprinkle with cheese and top with potato chip crumbs .
+PREDID: 38
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the bottom of a lightly greased 9x13 inch baking dish , sprinkle with cheese, top with potato chip crumbs
+     PREP: into
+      INGREDIENT SPAN:  top with potato chip crumbs
+         INGREDIENTS: crushed potato chips
+      INGREDIENT SPAN:  sprinkle with cheese
+         INGREDIENTS: Cheddar cheese shredded
+      NON-INGREDIENT SPAN: the bottom of a lightly greased 9x13 inch baking dish 
+
+
+SENTID: 3
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 to 30 minutes , or until cheese is melted and casserole is bubbly .
+PREDID: 145
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+   PARG: cheese is melted, casserole is bubbly
+     PREP: until
+      INGREDIENT SPAN: cheese is melted
+         INGREDIENTS: Cheddar cheese shredded
+      NON-INGREDIENT SPAN:  casserole is bubbly
+
+

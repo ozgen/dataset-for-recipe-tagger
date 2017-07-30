@@ -1,0 +1,205 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would combine graham cracker crumbs , the butter , confectioners ' sugar , and 1 teaspoon cinnamon together in an 8-inch pie pan using a fork ;
+PREDID: 38
+PRED: combine
+   DOBJ: graham cracker crumbs , the butter , confectioners ' sugar , 1 teaspoon cinnamon
+      INGREDIENT SPAN:  1 teaspoon cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: graham cracker crumbs 
+         INGREDIENTS: graham cracker crumbs
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  confectioners ' sugar 
+         INGREDIENTS: confectioners sugar
+   PARG: an 8-inch pie pan using a fork
+     PREP: in
+      NON-INGREDIENT SPAN: an 8-inch pie pan using a fork
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would press lightly into bottom and up sides of pan .
+PREDID: 147
+PRED: press
+   DOBJ: NULL
+   PARG: bottom
+     PREP: into
+      NON-INGREDIENT SPAN: bottom
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until crust is set and lightly browned , about 7 minutes ;
+PREDID: 185
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: crust is set, lightly browned , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  lightly browned 
+      NON-INGREDIENT SPAN: crust is set
+      NON-INGREDIENT SPAN:  about 7 minutes
+
+
+SENTID: 4
+SENT: I would remove from oven and cool .
+PREDID: 254
+PRED: remove
+   DOBJ: NULL
+   PARG: oven, cool
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+      NON-INGREDIENT SPAN:  cool
+
+
+SENTID: 5
+SENT: I would increase oven temperature to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 276
+PRED: increase
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 425 degrees f -lrb- 220 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 425 degrees f -lrb- 220 degrees c
+
+
+SENTID: 6
+SENT: I would whisk pumpkin , sweetened condensed milk , the eggs , 1 teaspoon cinnamon , lemon zest , the salt , 1/4 teaspoon nutmeg , the ginger , and cloves together in a bowl until smooth ;
+PREDID: 326
+PRED: whisk
+   DOBJ: pumpkin , sweetened condensed milk , the eggs , 1 teaspoon cinnamon , lemon zest , the salt , 1/4 teaspoon nutmeg , the ginger , cloves together in a bowl
+      INGREDIENT SPAN:  cloves together in a bowl
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  1/4 teaspoon nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  lemon zest 
+         INGREDIENTS: lemon
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+      NON-INGREDIENT SPAN:  1 teaspoon cinnamon 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would pour over cooled crust .
+PREDID: 461
+PRED: pour
+   DOBJ: NULL
+   PARG: cooled crust
+     PREP: over
+      NON-INGREDIENT SPAN: cooled crust
+
+
+SENTID: 8
+SENT: I would bake in the oven for 15 minutes .
+PREDID: 481
+PRED: bake
+   DOBJ: NULL
+   PARG: the oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the oven for 15 minutes
+
+
+SENTID: 9
+SENT: I would lower oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- and continue the baking until filling is set and edges of crust are dark golden brown , 35 to 40 minutes .
+PREDID: 507
+PRED: lower
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   OARG: edges of crust are dark golden brown , 35 to 40 minutes
+      INGREDIENT SPAN: edges of crust are dark golden brown 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+
+PREDID: 564
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: filling is set
+     PREP: until
+      NON-INGREDIENT SPAN: filling is set
+
+
+SENTID: 10
+SENT: I would cool pie completely .
+PREDID: 635
+PRED: cool
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 11
+SENT: I would beat cream , brown sugar , and vanilla extract together in a bowl using an electric mixer until stiff peaks form .
+PREDID: 653
+PRED: beat extract
+   DOBJ: cream , brown sugar , vanilla
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN:  brown sugar 
+   PARG: a bowl using an electric mixer until stiff peaks form
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl using an electric mixer until stiff peaks form
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would lift your beater :
+PREDID: 746
+PRED: lift
+   DOBJ: your beater
+      NON-INGREDIENT SPAN: your beater
+
+
+SENTID: 13
+SENT: I would whipped cream should form sharp peaks .
+PREDID: 761
+PRED: whipped form
+   DOBJ: sharp peaks, cream
+      NON-INGREDIENT SPAN:  cream
+      NON-INGREDIENT SPAN: sharp peaks
+   OARG: should
+      NON-INGREDIENT SPAN: should
+
+
+SENTID: 14
+SENT: I would spread whipped cream over cooled pie and lightly dust with a pinch nutmeg .
+PREDID: 794
+PRED: spread
+   DOBJ: whipped cream
+      NON-INGREDIENT SPAN: whipped cream
+   PARG: cooled pie, lightly dust with a pinch nutmeg
+     PREP: over
+      NON-INGREDIENT SPAN: cooled pie
+      NON-INGREDIENT SPAN:  lightly dust with a pinch nutmeg
+
+

@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 31
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would crumble and set aside .
+PREDID: 70
+PRED: crumble and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine the bacon , the cabbage and dressing .
+PREDID: 102
+PRED: combine
+   DOBJ: the bacon , the cabbage, dressing
+      INGREDIENT SPAN:  dressing
+         INGREDIENTS: cole slaw dressing
+      INGREDIENT SPAN:  the cabbage
+         INGREDIENTS: shredded cabbage
+      NON-INGREDIENT SPAN: the bacon 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 137
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would sprinkle with halved cherry tomatoes and blue cheese .
+PREDID: 145
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: halved cherry tomatoes, blue cheese
+     PREP: with
+      INGREDIENT SPAN:  blue cheese
+         INGREDIENTS: blue cheese crumbled
+      INGREDIENT SPAN: halved cherry tomatoes
+         INGREDIENTS: cherry tomatoes halved
+
+
+SENTID: 6
+SENT: I would refrigerate and serve chilled .
+PREDID: 191
+PRED: refrigerate and serve
+   DOBJ: chilled
+      NON-INGREDIENT SPAN: chilled
+
+

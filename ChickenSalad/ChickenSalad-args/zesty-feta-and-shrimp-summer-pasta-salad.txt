@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place the chicken in a baking dish , and roast 25 minutes in the preheated oven , or until juices run clear .
+PREDID: 38
+PRED: place
+   DOBJ: the chicken in a baking dish
+      INGREDIENT SPAN: the chicken in a baking dish
+         INGREDIENTS: skinless boneless chicken breast halves
+   OARG: roast 25 minutes in the preheated oven , or until juices run clear
+      NON-INGREDIENT SPAN:  or until juices run clear
+      NON-INGREDIENT SPAN: roast 25 minutes in the preheated oven 
+
+
+SENTID: 2
+SENT: I would remove from heat , cool , and cut into bite-size pieces .
+PREDID: 125
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 148
+PRED: cut
+   DOBJ: NULL
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 171
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would add farfalle pasta , cook 8 to 10 minutes , until al dente , and drain .
+PREDID: 213
+PRED: add
+   DOBJ: farfalle pasta
+      INGREDIENT SPAN: farfalle pasta
+         INGREDIENTS: ounce package uncooked farfalle bow tie pasta
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 230
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would cool to room temperature .
+PREDID: 269
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+
+SENTID: 6
+SENT: In a large bowl , I would mix the chicken , the pasta , the shrimp , the olives , the tomatoes , the carrots , and cucumber .
+PREDID: 304
+PRED: mix
+   DOBJ: the chicken , the pasta , the shrimp , the olives , the tomatoes , the carrots , cucumber
+      INGREDIENT SPAN:  cucumber
+         INGREDIENTS: cucumber diced
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: baby carrots chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: pint cherry tomatoes
+      INGREDIENT SPAN:  the shrimp 
+         INGREDIENTS: frozen cooked cocktail shrimp
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce diced black olives drained
+      NON-INGREDIENT SPAN:  the pasta 
+      NON-INGREDIENT SPAN: the chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would toss with balsamic vinegar and feta cheese , and season with salt-free seasoning blend .
+PREDID: 367
+PRED: toss
+   DOBJ: NULL
+   PARG: balsamic vinegar, feta cheese
+     PREP: with
+      INGREDIENT SPAN: balsamic vinegar
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: ounce package feta cheese crumbled
+   OARG: season with salt-free seasoning blend
+      INGREDIENT SPAN: season with salt-free seasoning blend
+         INGREDIENTS: saltfree seasoning blend taste
+
+

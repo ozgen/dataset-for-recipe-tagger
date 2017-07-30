@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: In a saucepan , I would bring water to a boil .
+PREDID: 12
+PRED: bring
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would stir in oats , and cook 1 minute .
+PREDID: 30
+PRED: stir
+   DOBJ: NULL
+   PARG: oats
+     PREP: in
+      INGREDIENT SPAN: oats
+         INGREDIENTS: rolled oats
+
+PREDID: 44
+PRED: cook
+   DOBJ: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 2
+SENT: I would cover , and remove from heat ;
+PREDID: 56
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 65
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 3
+SENT: I would allow to cool .
+PREDID: 80
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 92
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 5
+SENT: I would grease and flour a muffin pan , or use paper liners .
+PREDID: 130
+PRED: grease and flour
+   DOBJ: a muffin pan
+      NON-INGREDIENT SPAN: a muffin pan
+
+PREDID: 157
+PRED: use
+   DOBJ: paper liners
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 6
+SENT: In a large bowl , I would combine flour , the bran , the sugar , baking powder , and nutmeg .
+PREDID: 185
+PRED: combine
+   DOBJ: flour , the bran , the sugar , baking powder , nutmeg
+      INGREDIENT SPAN:  the bran 
+         INGREDIENTS: wheat bran
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would make a well in the center , and add mashed banana , cooked and cooled oatmeal , the egg , the pineapple , coconut milk , and coconut extract .
+PREDID: 232
+PRED: make
+   DOBJ: a well in the center
+      NON-INGREDIENT SPAN: a well in the center
+
+PREDID: 256
+PRED: add
+   DOBJ: mashed banana , cooked, cooled oatmeal , the egg , the pineapple , coconut milk , coconut extract
+      INGREDIENT SPAN:  coconut extract
+         INGREDIENTS: coconut extract
+      INGREDIENT SPAN: mashed banana 
+         INGREDIENTS: mashed banana
+      INGREDIENT SPAN:  coconut milk 
+         INGREDIENTS: coconut milk
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: beaten egg
+      NON-INGREDIENT SPAN:  cooked
+      NON-INGREDIENT SPAN:  cooled oatmeal 
+
+
+SENTID: 8
+SENT: I would mix until smooth .
+PREDID: 339
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would scoop into 12 muffin cups .
+PREDID: 354
+PRED: scoop
+   DOBJ: NULL
+   PARG: 12 muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: 12 muffin cups
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 25 to 30 minutes , or until golden brown , and tops spring back when lightly tapped .
+PREDID: 376
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 to 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 to 30 minutes
+   OARG: tops spring back when lightly tapped
+      NON-INGREDIENT SPAN: tops spring back when lightly tapped
+
+

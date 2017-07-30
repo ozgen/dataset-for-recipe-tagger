@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: In a large bowl , I would combine chicken , the celery , the chives or green onions , the yogurt , sour cream or mayonnaise , and tarragon ;
+PREDID: 13
+PRED: combine
+   DOBJ: chicken , the celery , the chives or green onions , the yogurt , sour cream or mayonnaise , tarragon
+      INGREDIENT SPAN:  the chives or green onions 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN:  sour cream or mayonnaise 
+         INGREDIENTS: reduced fat sour cream
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: plain lowfat yogurt
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubed cooked chicken meat
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  tarragon
+         INGREDIENTS: dried tarragon
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix lightly .
+PREDID: 96
+PRED: mix
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would cover , and refrigerate for 1 hour .
+PREDID: 107
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 116
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 3
+SENT: I would place nuts in a dry skillet .
+PREDID: 136
+PRED: place
+   DOBJ: nuts
+      NON-INGREDIENT SPAN: nuts
+   PARG: a dry skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a dry skillet
+
+
+SENTID: 4
+SENT: I would toast over medium heat , turning frequently , until nuts are fragrant and lightly browned .
+PREDID: 159
+PRED: toast
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: turning frequently , until nuts are fragrant, lightly browned
+      NON-INGREDIENT SPAN:  until nuts are fragrant
+      NON-INGREDIENT SPAN: turning frequently 
+      NON-INGREDIENT SPAN:  lightly browned
+
+
+SENTID: 5
+SENT: I would add almonds to chicken salad , and season with salt and pepper to taste .
+PREDID: 235
+PRED: add
+   DOBJ: almonds to chicken salad , season with salt, pepper
+      INGREDIENT SPAN: almonds to chicken salad 
+         INGREDIENTS: blanched slivered almonds
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: I would serve immediately .
+PREDID: 294
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

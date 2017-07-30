@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would cook the beef and onion in a large skillet over medium high heat , breaking up beef into tiny pieces , just until meat is no longer pink .
+PREDID: 0
+PRED: cook
+   DOBJ: the beef, onion in a large skillet over medium high heat , breaking up beef into tiny pieces , just until meat is no longer pink
+      INGREDIENT SPAN:  onion in a large skillet over medium high heat 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: extra lean ground beef
+      NON-INGREDIENT SPAN:  breaking up beef into tiny pieces 
+      NON-INGREDIENT SPAN:  just until meat is no longer pink
+
+
+SENTID: 1
+SENT: I would drain and place in a large Dutch oven or slow cooker .
+PREDID: 110
+PRED: drain and place
+   DOBJ: NULL
+   PARG: a large dutch oven or slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a large dutch oven or slow cooker
+
+
+SENTID: 2
+SENT: I would stir in the water , the garlic , the cumin , the cinnamon , the allspice , the cloves , the salt , the pepper , cayenne pepper , cider vinegar , Worcestershire sauce , bay leaves , tomato sauce , and chocolate .
+PREDID: 153
+PRED: stir
+   DOBJ: NULL
+   PARG: the water , the garlic , the cumin , the cinnamon , the allspice , the cloves , the salt , the pepper , cayenne pepper , cider vinegar , worcestershire sauce , bay leaves , tomato sauce , chocolate
+     PREP: in
+      INGREDIENT SPAN:  bay leaves 
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: cloves garlic minced
+      INGREDIENT SPAN:  chocolate
+         INGREDIENTS: unsweetened baking chocolate
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 3
+SENT: I would simmer over medium low heat for 3 to 5 hours .
+PREDID: 300
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium low heat for 3 to 5 hours
+     PREP: for
+      NON-INGREDIENT SPAN: medium low heat for 3 to 5 hours
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

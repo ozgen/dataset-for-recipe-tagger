@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would mix flour , white sugar , brown sugar , the cinnamon , baking powder , baking soda , the nutmeg , and salt together in a large bowl .
+PREDID: 78
+PRED: mix
+   DOBJ: flour , white sugar , brown sugar , the cinnamon , baking powder , baking soda , the nutmeg , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir bananas , canola oil , and coconut milk together in a separate bowl ;
+PREDID: 177
+PRED: stir
+   DOBJ: bananas , canola oil , coconut milk
+      INGREDIENT SPAN:  canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: mashed ripe bananas
+      INGREDIENT SPAN:  coconut milk
+         INGREDIENTS: coconut milk
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would mix banana mixture into flour mixture until just combined .
+PREDID: 237
+PRED: mix
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 5
+SENT: I would fill muffin cups with batter .
+PREDID: 287
+PRED: fill
+   DOBJ: muffin cups
+      NON-INGREDIENT SPAN: muffin cups
+   PARG: batter
+     PREP: with
+      NON-INGREDIENT SPAN: batter
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until a tooth pick inserted in the center of a muffin comes out clean , 30 to 35 minutes .
+PREDID: 312
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a tooth pick inserted in the center of a muffin comes out clean , 30 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+      NON-INGREDIENT SPAN: a tooth pick inserted in the center of a muffin comes out clean 
+
+

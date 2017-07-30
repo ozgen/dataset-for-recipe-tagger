@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would blend the stewed tomatoes and crushed tomatoes in a blender .
+PREDID: 0
+PRED: blend
+   DOBJ: the stewed tomatoes, crushed tomatoes
+      INGREDIENT SPAN: the stewed 
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN: the stewed tomatoes
+         INGREDIENTS: ounce crushed tomatoes
+      NON-INGREDIENT SPAN:  crushed tomatoes
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 1
+SENT: In a stock pot or large kettle , brown the ground beef with the onions , the peppers , garlic .
+
+SENTID: 2
+SENT: I would pour in tomatoes , and reduce heat .
+PREDID: 51
+PRED: pour
+   DOBJ: NULL
+   PARG: tomatoes
+     PREP: in
+      NON-INGREDIENT SPAN: tomatoes
+
+PREDID: 69
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 3
+SENT: I would add sugar , the basil and oregano , and simmer about 40 minutes .
+PREDID: 80
+PRED: add
+   DOBJ: NULL
+   PARG: sugar , the basil, oregano , simmer about 40 minutes
+     PREP: for
+      INGREDIENT SPAN:  oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the basil
+         INGREDIENTS: dried basil
+      NON-INGREDIENT SPAN:  simmer about 40 minutes
+
+
+SENTID: 4
+SENT: I would season with salt and pepper before serving .
+PREDID: 129
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell peppers chopped
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

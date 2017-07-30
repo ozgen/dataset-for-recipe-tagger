@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9 inch pie pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9 inch pie pan
+      NON-INGREDIENT SPAN: a 9 inch pie pan
+
+
+SENTID: 2
+SENT: In a medium mixing bowl , I would combine pumpkin , the milk , the sugar , baking mix , melted butter , the eggs , the allspice , the cinnamon , the cloves , and vanilla extract .
+PREDID: 77
+PRED: combine
+   DOBJ: pumpkin , the milk , the sugar , baking mix , melted butter , the eggs , the allspice , the cinnamon , the cloves , vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  melted butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  baking mix 
+         INGREDIENTS: biscuit baking mix
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium mixing bowl
+
+
+SENTID: 3
+SENT: I would beat on medium speed 2 minutes , until mixture is smooth .
+PREDID: 174
+PRED: beat
+   DOBJ: NULL
+   PARG: medium speed
+     PREP: on
+      NON-INGREDIENT SPAN: medium speed
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+
+
+SENTID: 4
+SENT: I would pour mixture into pan .
+PREDID: 221
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 50 to 55 minutes , until set in center .
+PREDID: 240
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 50 to 55 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 55 minutes
+   PARG: set in center
+     PREP: until
+      NON-INGREDIENT SPAN: set in center
+
+
+SENTID: 6
+SENT: I would allow to cool before serving .
+PREDID: 293
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool before serving
+      NON-INGREDIENT SPAN: to cool before serving
+
+

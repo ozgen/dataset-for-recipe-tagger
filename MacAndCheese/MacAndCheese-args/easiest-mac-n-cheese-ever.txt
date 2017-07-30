@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook until al dente , 8 to 10 minutes ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: al dente , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 83
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would place a saucepan over medium-low heat .
+PREDID: 89
+PRED: place
+   DOBJ: a saucepan over medium-low heat
+      NON-INGREDIENT SPAN: a saucepan over medium-low heat
+
+
+SENTID: 4
+SENT: I would combine the cheese food , the milk , and pepper in the saucepan ;
+PREDID: 122
+PRED: combine
+   DOBJ: the cheese food , the milk , pepper in the saucepan
+      INGREDIENT SPAN:  pepper in the saucepan
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: fluid milk
+      INGREDIENT SPAN: the cheese food 
+         INGREDIENTS: cubed processed cheese food
+
+
+SENTID: 5
+SENT: I would cook until the cheese has melted , stirring frequently .
+PREDID: 171
+PRED: cook
+   DOBJ: NULL
+   PARG: the cheese has melted , stirring frequently
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese has melted 
+      NON-INGREDIENT SPAN:  stirring frequently
+
+
+SENTID: 6
+SENT: I would stir in the drained macaroni until evenly coated .
+PREDID: 218
+PRED: stir
+   DOBJ: NULL
+   PARG: the drained macaroni
+     PREP: in
+      INGREDIENT SPAN: the drained macaroni
+         INGREDIENTS: elbow macaroni
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+

@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: In a large bowl , I would mix the chicken , creamy salad dressing , pickle relish , the apple , the pecans , the celery , and raisins .
+PREDID: 13
+PRED: mix
+   DOBJ: the chicken , creamy salad dressing , pickle relish , the apple , the pecans , the celery , raisins
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: large apple cored diced
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  creamy salad dressing 
+         INGREDIENTS: creamy salad dressing
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: ounce chunk chicken drained flaked
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would season with salt and pepper .
+PREDID: 91
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 2
+SENT: I would chill until serving .
+PREDID: 115
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

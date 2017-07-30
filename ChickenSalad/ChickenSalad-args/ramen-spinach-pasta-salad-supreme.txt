@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would cook ramen noodles according to package directions , without adding the flavor packets .
+PREDID: 0
+PRED: cook
+   DOBJ: ramen noodles
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: ramen noodles
+         INGREDIENTS: ounce packages chicken flavored ramen noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+   PARG: adding the flavor packets package directions
+     PREP: without
+      NON-INGREDIENT SPAN: adding the flavor packets package directions
+
+
+SENTID: 1
+SENT: I would drain noodles and cool .
+PREDID: 75
+PRED: drain
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+
+
+SENTID: 2
+SENT: I would cut noodles into large bite size pieces .
+PREDID: 95
+PRED: cut
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: large bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: large bite size pieces
+
+
+SENTID: 3
+SENT: In a large bowl combine the torn spinach leaves , cooked turkey or chicken , halved grapes , red pepper , the cashews , the Gorgonzola or blue cheese , and ramen noodles .
+
+SENTID: 4
+SENT: In a small bowl mix flavor packets , I would the garlic , and lemon juice and let stand at least 15 minutes .
+
+SENTID: 5
+SENT: I would add oil and mayonnaise and whisk until smooth .
+PREDID: 261
+PRED: add
+   DOBJ: oil, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+
+PREDID: 283
+PRED: whisk
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 6
+SENT: I would pour the dressing over salad and toss until thoroughly mixed .
+PREDID: 300
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+PREDID: 327
+PRED: toss
+   DOBJ: NULL
+   PARG: thoroughly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly mixed
+
+
+SENTID: 7
+SENT: I would garnish with red pepper rings and small grape clusters , if desired .
+PREDID: 349
+PRED: garnish
+   DOBJ: NULL
+   PARG: red pepper rings, small grape clusters
+     PREP: with
+      INGREDIENT SPAN:  small grape clusters
+         INGREDIENTS: grape clusters garnish
+      INGREDIENT SPAN: red pepper rings
+         INGREDIENTS: red bell pepper sliced
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 8
+SENT: I would serve .
+PREDID: 406
+PRED: serve
+   DOBJ: NULL
+
+

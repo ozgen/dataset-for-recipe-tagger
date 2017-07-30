@@ -1,0 +1,54 @@
+digraph recipe {
+E0[label="melt
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook and stir
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="whisk
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="toss
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: butter", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large skillet", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D5[label="DOBJ: vegetable oil, soy sauce, vinegar, sugar", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="LOCATION:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+O5_0[label="OTHER: until sugar has dissolved", shape=box, style=filled, fillcolor=white]
+O5_0 -> E5
+D1_ing[label="DOBJ: sunflower kernels, ramen noodles", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="COOBJECT:in hot butter"]
+O1_0_0[label="OTHER: until sunflower kernels are lightly browned and fragrant, 3 to 5 minutes", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCATION:from heat", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCATION:into a bowl", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: to cool", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="sunflower seeds"]
+E3 -> E4 [label="ramen noodles"]
+P4_0_ing[label="COOBJECT: with spring onions, napa cabbage", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+P4_1_0[label="LOCATION:in a large salad bowl", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E5 -> E6 [label="dressing"]
+E4 -> E6 [label="COOBJECT:over salad"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would place ground beef into a soup pot over medium heat , and cook and stir until the meat is browned , breaking it up into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a soup pot over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a soup pot over medium heat
+
+PREDID: 45
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the meat is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is browned
+   OARG: breaking it up into crumbles as it cooks , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: breaking it up into crumbles as it cooks 
+
+
+SENTID: 1
+SENT: I would stir in onion and garlic , and cook until the onion is translucent , about 5 more minutes .
+PREDID: 127
+PRED: stir
+   DOBJ: NULL
+   PARG: onion, garlic
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+
+PREDID: 151
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion is translucent , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN: the onion is translucent 
+
+
+SENTID: 2
+SENT: I would drain excess grease if necessary , and sprinkle the meat with taco seasoning mix ;
+PREDID: 200
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+
+PREDID: 232
+PRED: sprinkle
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: taco seasoning mix
+     PREP: with
+      INGREDIENT SPAN: taco seasoning mix
+         INGREDIENTS: taco seasoning mix more taste
+
+
+SENTID: 3
+SENT: I would cook the meat with the seasoning for 1 or 2 more minutes .
+PREDID: 268
+PRED: cook
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the seasoning for 1 or 2 more minutes
+     PREP: with
+      INGREDIENT SPAN: the seasoning for 1 or 2 more minutes
+         INGREDIENTS: ounce diced stewed tomatoes chili seasonings
+
+
+SENTID: 4
+SENT: I would pour in the chili-flavored tomatoes , chili beans , tomato sauce , and diced green chilies , and stir to combine ;
+PREDID: 314
+PRED: pour
+   DOBJ: NULL
+   PARG: the chili-flavored tomatoes , chili beans , tomato sauce , diced green chilies
+     PREP: in
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans undrained
+      INGREDIENT SPAN:  diced green chilies
+         INGREDIENTS: ounce diced green chilies
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: the chili-flavored tomatoes 
+         INGREDIENTS: ounce diced stewed tomatoes chili seasonings
+
+PREDID: 393
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 5
+SENT: I would simmer for 30 minutes to blend flavors .
+PREDID: 407
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   OARG: to blend flavors
+      NON-INGREDIENT SPAN: to blend flavors
+
+

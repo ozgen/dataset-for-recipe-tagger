@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes unpeeled
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain ;
+PREDID: 121
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would allow potatoes to cool slightly .
+PREDID: 127
+PRED: allow
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: to cool slightly
+      NON-INGREDIENT SPAN: to cool slightly
+
+
+SENTID: 5
+SENT: I would peel and slice potatoes .
+PREDID: 155
+PRED: peel and slice
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 6
+SENT: I would mix potatoes and onions in a bowl ;
+PREDID: 176
+PRED: mix
+   DOBJ: potatoes, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: small onion diced
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would stir in mustard , the salt , and black pepper .
+PREDID: 204
+PRED: stir
+   DOBJ: NULL
+   PARG: mustard , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: mustard 
+         INGREDIENTS: prepared yellow mustard
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 8
+SENT: I would bring vegetable stock to a boil in a small saucepan , pour over potato mixture and stir to combine .
+PREDID: 238
+PRED: bring
+   DOBJ: vegetable stock
+      INGREDIENT SPAN: vegetable stock
+         INGREDIENTS: vegetable stock
+   PARG: a boil in a small saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a small saucepan
+
+PREDID: 281
+PRED: pour
+   DOBJ: NULL
+   PARG: potato mixture
+     PREP: over
+      NON-INGREDIENT SPAN: potato mixture
+
+PREDID: 305
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 9
+SENT: I would stir in vinegar and let rest for 10 minutes .
+PREDID: 319
+PRED: stir
+   DOBJ: NULL
+   PARG: vinegar
+     PREP: in
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: vinegar more taste
+
+PREDID: 335
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 10
+SENT: I would stir in vegetable oil and season with salt and black pepper if desired .
+PREDID: 355
+PRED: stir
+   DOBJ: NULL
+   PARG: vegetable oil, season
+     PREP: in
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, black pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: salt
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: In a small bowl , I would combine olive oil , wine vinegar , the oregano , the parsley , and onion .
+PREDID: 13
+PRED: combine
+   DOBJ: olive oil , wine vinegar , the oregano , the parsley , onion
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: extra virgin olive oil
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 1
+SENT: I would mix and set aside .
+PREDID: 66
+PRED: mix and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would add potatoes to a large pot of boiling , lightly salted water .
+PREDID: 81
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: large red potatoes
+   PARG: a large pot of boiling , lightly salted water
+     PREP: to
+      NON-INGREDIENT SPAN:  lightly salted water
+      NON-INGREDIENT SPAN: a large pot of boiling 
+
+
+SENTID: 3
+SENT: I would boil for about 20 minutes , or until potatoes are tender .
+PREDID: 132
+PRED: boil
+   DOBJ: NULL
+   PARG: about 20 minutes , or until potatoes are tender
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 minutes 
+      NON-INGREDIENT SPAN:  or until potatoes are tender
+
+
+SENTID: 4
+SENT: I would drain water and let cool .
+PREDID: 179
+PRED: drain
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+
+PREDID: 192
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 5
+SENT: When cooled , the peel and dice .
+PREDID: 204
+PRED: cooled
+   DOBJ: the peel, dice
+      NON-INGREDIENT SPAN:  dice
+      NON-INGREDIENT SPAN: the peel
+   OARG: when
+      NON-INGREDIENT SPAN: when
+
+
+SENTID: 6
+SENT: I would place in a large bowl , add dressing and season with salt and pepper to taste .
+PREDID: 223
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 241
+PRED: add
+   DOBJ: dressing, season
+      NON-INGREDIENT SPAN: dressing
+      NON-INGREDIENT SPAN:  season
+   PARG: salt
+     PREP: with
+      NON-INGREDIENT SPAN: salt
+
+PREDID: 272
+PRED: pepper
+   DOBJ: NULL
+   OARG: to taste
+      NON-INGREDIENT SPAN: to taste
+
+
+SENTID: 7
+SENT: I would toss to coat , cover bowl and refrigerate for several hours or overnight .
+PREDID: 286
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+PREDID: 297
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 309
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: several hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: several hours or overnight
+
+

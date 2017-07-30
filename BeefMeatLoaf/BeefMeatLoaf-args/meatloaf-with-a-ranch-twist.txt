@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine the vegetable juice , brown sugar , and Worcestershire sauce in a saucepan over medium heat ;
+PREDID: 40
+PRED: combine
+   DOBJ: the vegetable juice , brown sugar , Worcestershire sauce
+      INGREDIENT SPAN: the vegetable juice 
+         INGREDIENTS: vegetable juice such V8
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 2
+SENT: I would cook until the sauce thickens , about 10 minutes .
+PREDID: 124
+PRED: cook
+   DOBJ: NULL
+   PARG: the sauce thickens , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the sauce thickens 
+
+
+SENTID: 3
+SENT: Mix the ground beef , garlic powder , onion powder , ranch dressing mix , the sage , the salt , and pepper together in a large bowl .
+PREDID: 165
+PRED: mix
+   DOBJ: the ground beef , garlic powder , onion powder , ranch dressing mix , the sage , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  ranch dressing mix 
+         INGREDIENTS: ounce package ranch dressing mix such Hidden Valley Ranch
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: rubbed sage
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would gradually sprinkle the bread crumbs into the meat while mixing so the crumbs are distributed evenly throughout ;
+PREDID: 273
+PRED: sprinkle
+   DOBJ: the bread crumbs
+      INGREDIENT SPAN: the bread crumbs
+         INGREDIENTS: Italianseasoned dry bread crumbs
+   PARG: the meat
+     PREP: into
+      NON-INGREDIENT SPAN: the meat
+   PARG: mixing so the crumbs are distributed evenly throughout
+     PREP: while
+      NON-INGREDIENT SPAN: mixing so the crumbs are distributed evenly throughout
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 5
+SENT: I would add the egg and milk and continue the mixing .
+PREDID: 359
+PRED: add
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg beaten
+
+PREDID: 371
+PRED: milk and continue
+   DOBJ: the mixing
+      NON-INGREDIENT SPAN: the mixing
+
+
+SENTID: 6
+SENT: I would shape the mixture into a loaf and transfer to a loaf pan .
+PREDID: 393
+PRED: shape
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 420
+PRED: transfer
+   DOBJ: NULL
+   PARG: a loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 7
+SENT: I would pour about half the sauce over the meatloaf .
+PREDID: 439
+PRED: pour
+   DOBJ: about half the sauce over the meatloaf
+      NON-INGREDIENT SPAN: about half the sauce over the meatloaf
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 476
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 9
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 10
+SENT: I would cut the meatloaf into 6 even slices .
+PREDID: 538
+PRED: cut
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: 6 even slices
+     PREP: into
+      NON-INGREDIENT SPAN: 6 even slices
+
+
+SENTID: 11
+SENT: I would pour the remaining sauce over the slices to serve .
+PREDID: 568
+PRED: pour
+   DOBJ: the remaining sauce over the slices to serve
+      NON-INGREDIENT SPAN: the remaining sauce over the slices to serve
+
+

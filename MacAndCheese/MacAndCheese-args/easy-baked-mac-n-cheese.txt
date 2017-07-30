@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 80
+PRED: cook
+   DOBJ: the rotini
+      INGREDIENT SPAN: the rotini
+         INGREDIENTS: rotini pasta
+   PARG: a boil until tender yet firm to the bite , about 8 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain pasta and return to pot .
+PREDID: 142
+PRED: drain
+   DOBJ: pasta, return
+      NON-INGREDIENT SPAN:  return
+      NON-INGREDIENT SPAN: pasta
+   PARG: pot
+     PREP: to
+      NON-INGREDIENT SPAN: pot
+
+
+SENTID: 4
+SENT: I would stir Alfredo sauce and 3/4 pound Cheddar cheese into pasta until cheese begins to melt .
+PREDID: 167
+PRED: stir
+   DOBJ: Alfredo sauce, 3/4 pound Cheddar cheese
+      INGREDIENT SPAN: Alfredo sauce
+         INGREDIENTS: ounce jar Alfredo sauce
+      INGREDIENT SPAN:  3/4 pound Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: pasta
+     PREP: into
+      NON-INGREDIENT SPAN: pasta
+   PARG: cheese begins
+     PREP: until
+      INGREDIENT SPAN: cheese begins
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 5
+SENT: I would pour pasta mixture into a 9x13-inch baking dish ;
+PREDID: 240
+PRED: pour
+   DOBJ: pasta mixture
+      NON-INGREDIENT SPAN: pasta mixture
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 6
+SENT: I would top with bread crumbs and 2 tablespoons Cheddar cheese .
+PREDID: 281
+PRED: top
+   DOBJ: NULL
+   PARG: bread crumbs, 2 tablespoons cheddar cheese
+     PREP: with
+      INGREDIENT SPAN:  2 tablespoons cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese more taste
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs more taste
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until cheese is melted and bread crumbs are golden brown , about 30 minutes .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted
+     PREP: until
+      INGREDIENT SPAN: cheese is melted
+         INGREDIENTS: shredded Cheddar cheese more taste
+   OARG: bread crumbs are golden brown , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: bread crumbs are golden brown 
+
+

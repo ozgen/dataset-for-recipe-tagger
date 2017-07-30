@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes ;
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+
+
+SENTID: 2
+SENT: I would cook until tender but still firm , about 15 minutes .
+PREDID: 47
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 3
+SENT: I would drain , cool and slice .
+PREDID: 90
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine the vinegar , olive oil , the garlic , dill pickle relish and onion .
+PREDID: 122
+PRED: combine
+   DOBJ: the vinegar , olive oil , the garlic , dill pickle relish, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped red onion
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  dill pickle relish
+         INGREDIENTS: dill pickle relish
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: the vinegar 
+         INGREDIENTS: white wine vinegar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would mix and cover with sliced potatoes .
+PREDID: 181
+PRED: mix and cover
+   DOBJ: NULL
+   PARG: sliced potatoes
+     PREP: with
+      INGREDIENT SPAN: sliced potatoes
+         INGREDIENTS: sweet potatoes
+
+
+SENTID: 6
+SENT: I would whisk together mayonnaise , the pepper , sour cream and parsley .
+PREDID: 211
+PRED: whisk
+   DOBJ: mayonnaise , the pepper , sour cream, parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped parsley
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would pour over potatoes and chill at least 8 hours .
+PREDID: 262
+PRED: pour
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 281
+PRED: chill
+   DOBJ: NULL
+   PARG: least 8 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 8 hours
+
+

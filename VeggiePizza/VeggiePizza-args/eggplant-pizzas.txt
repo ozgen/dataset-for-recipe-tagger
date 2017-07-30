@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would beat the eggs in a bowl .
+PREDID: 40
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would mix the flour , the salt , the pepper , and oregano in a 1 gallon resealable plastic bag .
+PREDID: 59
+PRED: mix
+   DOBJ: the flour , the salt , the pepper , oregano in a 1 gallon resealable plastic bag
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  oregano in a 1 gallon resealable plastic bag
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 3
+SENT: I would dip each eggplant slice in the egg ,
+PREDID: 124
+PRED: dip
+   DOBJ: each eggplant slice
+      INGREDIENT SPAN: each eggplant slice
+         INGREDIENTS: large eggplant sliced inch rounds
+   PARG: the egg
+     PREP: in
+      NON-INGREDIENT SPAN: the egg
+
+
+SENTID: 4
+SENT: I would drop the eggplant in the flour mixture one at a time , shaking the bag to coat the eggplant .
+PREDID: 153
+PRED: drop
+   DOBJ: the eggplant in the flour mixture one
+      NON-INGREDIENT SPAN: the eggplant in the flour mixture one
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   OARG: shaking the bag to coat the eggplant
+      NON-INGREDIENT SPAN: shaking the bag to coat the eggplant
+
+
+SENTID: 5
+SENT: I would heat the vegetable oil in a large , deep skillet over medium heat .
+PREDID: 227
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large , deep skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet over medium heat
+
+
+SENTID: 6
+SENT: I would place the eggplant slices in the skillet to cook , turning occasionally , until evenly browned .
+PREDID: 281
+PRED: place
+   DOBJ: the eggplant slices in the skillet to cook , turning occasionally , until evenly browned
+      NON-INGREDIENT SPAN:  turning occasionally 
+      NON-INGREDIENT SPAN: the eggplant slices in the skillet to cook 
+      NON-INGREDIENT SPAN:  until evenly browned
+
+
+SENTID: 7
+SENT: I would drain the eggplant slices on a paper towel-lined plate .
+PREDID: 361
+PRED: drain
+   DOBJ: the eggplant slices
+      NON-INGREDIENT SPAN: the eggplant slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 8
+SENT: I would arrange the eggplant in one layer on a baking sheet .
+PREDID: 408
+PRED: arrange
+   DOBJ: the eggplant
+      NON-INGREDIENT SPAN: the eggplant
+   PARG: one layer on a baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: one layer on a baking sheet
+
+
+SENTID: 9
+SENT: I would spoon enough pizza sauce to cover each eggplant slice .
+PREDID: 451
+PRED: spoon
+   DOBJ: enough pizza sauce
+      INGREDIENT SPAN: enough pizza sauce
+         INGREDIENTS: ounce pizza sauce
+   OARG: to cover each eggplant slice
+      NON-INGREDIENT SPAN: to cover each eggplant slice
+
+
+SENTID: 10
+SENT: I would top each eggplant with mozzarella cheese .
+PREDID: 497
+PRED: top
+   DOBJ: each eggplant
+      NON-INGREDIENT SPAN: each eggplant
+   PARG: mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until the mozzarella cheese is melted , 5 to 10 minutes .
+PREDID: 533
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the mozzarella cheese is melted , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the mozzarella cheese is melted 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+

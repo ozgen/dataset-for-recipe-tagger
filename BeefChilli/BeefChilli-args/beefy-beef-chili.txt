@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: In a 6 quart stock pot over medium-high heat , I would brown the ground beef with the onion until no longer pink .
+PREDID: 37
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a 6 quart stock pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 6 quart stock pot over medium-high heat
+   PARG: the onion
+     PREP: with
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+   PARG: no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+
+
+SENTID: 1
+SENT: I would drain grease from the pan , and stir in the chili beans , tomato juice , and beef stew .
+PREDID: 85
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: the pan
+     PREP: from
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 110
+PRED: stir
+   DOBJ: NULL
+   PARG: the chili beans , tomato juice , beef stew
+     PREP: in
+      INGREDIENT SPAN: the chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: fluid ounce bottle tomato juice
+      INGREDIENT SPAN:  beef stew
+         INGREDIENTS: ounce prepared beef stew
+
+
+SENTID: 2
+SENT: I would season with chili powder , the salt , and pepper to taste .
+PREDID: 154
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would cook over medium heat until simmering .
+PREDID: 198
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: simmering
+     PREP: until
+      NON-INGREDIENT SPAN: simmering
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 4
+SENT: I would serve hot .
+PREDID: 231
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

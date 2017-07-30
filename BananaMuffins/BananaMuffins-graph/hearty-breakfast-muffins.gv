@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P78)", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk (S3,P163)", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix (S4,P202)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S5,P320)", shape=oval, style=filled, fillcolor=azure]
+E6[label="scoop (S6,P372)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S7,P409)", shape=oval, style=filled, fillcolor=azure]
+E8[label="cool (S8,P526)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: 12 muffin cups or line", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D3[label="DOBJ: whole wheat flour, baking soda
+(text: flour, baking soda in a separate bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D2[label="DOBJ: vegetable oil, yogurt, zucchini, eggs, bananas, carrots
+(text: carrots , banana , zucchini , vegetable oil , yogurt , eggs)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+O2_1[label="OTHER: until fully incorporated", shape=box, style=filled, fillcolor=white]
+O2_1 -> E2
+D0[label="DOBJ: oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D4_ing[label="DOBJ: shredded coconut, ground cinnamon, chopped pecans, ground ginger, rolled oats, dried cherries, packed brown sugar, salt
+(text:  salt ,  cinnamon ,  coconut ,  oats ,  ginger,  pecans ,  cherries , brown sugar )", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: into flour mixture"]
+O4_0_0[label="OTHER: until all ingredients are coated in flour", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E2 -> E5 [label="OUTPUT: 
+INPUT: wet ingredients"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: into flour mixture"]
+O5_0_0[label="OTHER: until just combined", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E6 [label="OUTPUT: 
+INPUT: into the prepared muffin cups"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O7_0_0[label="OTHER: until a toothpick inserted in the center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: edges are slightly brown ", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+O7_1_1[label="OTHER:  17 to 22 minutes", shape=box, style=filled, fillcolor=white]
+O7_1_1 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: in the pans for 10 minutes", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+P8_1_0[label="PREP: before removing to cool completely on a wire rack", shape=box, style=filled, fillcolor=white]
+P8_1_0 -> E8
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

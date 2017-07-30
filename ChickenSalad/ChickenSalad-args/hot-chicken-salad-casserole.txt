@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a large bowl mix the chicken , I would the celery , water chestnuts , the mushrooms , the mayonnaise , lemon juice , the salt , the onion , and almonds .
+
+SENTID: 3
+SENT: I would transfer to the baking dish , and top with Cheddar cheese and crushed potato chips .
+PREDID: 71
+PRED: transfer
+   DOBJ: NULL
+   PARG: the baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: the baking dish
+
+PREDID: 98
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese, crushed potato chips
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  crushed potato chips
+         INGREDIENTS: crushed potato chips
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven for 30 minutes , until lightly browned
+PREDID: 140
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+
+

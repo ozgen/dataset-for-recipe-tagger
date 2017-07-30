@@ -1,0 +1,197 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring potatoes to a boil in a large pot of salted water .
+PREDID: 38
+PRED: bring
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: cubed potatoes
+   PARG: a boil in a large pot of salted water
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a large pot of salted water
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 83
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain ;
+PREDID: 141
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would transfer potatoes to a large baking dish .
+PREDID: 147
+PRED: transfer
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a large baking dish
+
+
+SENTID: 5
+SENT: I would place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 182
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 210
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 6
+SENT: I would drain the bacon slices on paper towels ;
+PREDID: 288
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 7
+SENT: I would crumble and sprinkle over potatoes .
+PREDID: 321
+PRED: crumble and sprinkle
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would heat a skillet over medium heat ;
+PREDID: 352
+PRED: heat
+   DOBJ: a skillet over medium heat
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 9
+SENT: I would cook and stir celery and green onion until celery is tender , about 5 minutes .
+PREDID: 379
+PRED: cook and stir
+   DOBJ: celery, green onion
+      INGREDIENT SPAN: celery
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: green onions diced
+   PARG: celery is tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: celery is tender 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 10
+SENT: I would transfer vegetables to baking dish .
+PREDID: 443
+PRED: transfer
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   PARG: baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: baking dish
+
+
+SENTID: 11
+SENT: I would whisk mayonnaise , the vinegar , the sugar , the mustard , the salt , and black pepper in a bowl until smooth .
+PREDID: 474
+PRED: whisk
+   DOBJ: mayonnaise , the vinegar , the sugar , the mustard , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 12
+SENT: I would pour mixture over potatoes and stir until well mixed .
+PREDID: 550
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: potatoes
+     PREP: over
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 576
+PRED: stir
+   DOBJ: NULL
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 13
+SENT: I would sprinkle with Cheddar cheese .
+PREDID: 595
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 14
+SENT: I would bake in preheated oven until cheese is melted , 20 to 35 minutes .
+PREDID: 621
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is melted , 20 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted 
+      NON-INGREDIENT SPAN:  20 to 35 minutes
+
+

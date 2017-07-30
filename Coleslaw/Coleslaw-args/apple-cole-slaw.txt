@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: In a large bowl , I would combine cabbage , red apple , green apple , the carrot , red bell pepper , and green onions .
+PREDID: 13
+PRED: combine
+   DOBJ: cabbage , red apple , green apple , the carrot , red bell pepper , green onions
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  green apple 
+         INGREDIENTS: unpeeled Granny Smith apple cored chopped
+      INGREDIENT SPAN:  red apple 
+         INGREDIENTS: unpeeled red apple cored chopped
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot grated
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: chopped cabbage
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a small bowl , I would mix together mayonnaise , brown sugar , and lemon juice .
+PREDID: 97
+PRED: mix
+   DOBJ: mayonnaise , brown sugar , lemon juice
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice taste
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the dressing over salad .
+PREDID: 144
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+

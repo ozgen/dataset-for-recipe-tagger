@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: I would whisk the vinegar , the honey , the salt , the pepper , and oregano in a bowl until the honey has dissolved .
+PREDID: 0
+PRED: whisk
+   DOBJ: the vinegar , the honey , the salt , the pepper , oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: the honey has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: the honey has dissolved
+
+
+SENTID: 1
+SENT: I would whisk in the olive oil until evenly blended .
+PREDID: 77
+PRED: whisk
+   DOBJ: NULL
+   PARG: the olive oil
+     PREP: in
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: evenly blended
+     PREP: until
+      NON-INGREDIENT SPAN: evenly blended
+
+
+SENTID: 2
+SENT: I would place the kale , Swiss chard , the chicken , feta cheese , the raisins , and walnuts into a bowl .
+PREDID: 114
+PRED: place
+   DOBJ: the kale , Swiss chard , the chicken , feta cheese , the raisins , walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped toasted walnuts
+      INGREDIENT SPAN: the kale 
+         INGREDIENTS: bunch kale torn bitesized
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: ounce container crumbled feta cheese more taste
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: grilled skinless boneless chicken breast sliced
+      INGREDIENT SPAN:  Swiss chard 
+         INGREDIENTS: bunch Swiss chard torn bitesized
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would toss with the dressing to serve .
+PREDID: 185
+PRED: toss
+   DOBJ: NULL
+   PARG: the dressing to serve
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing to serve
+
+

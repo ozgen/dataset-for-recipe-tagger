@@ -1,0 +1,228 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 149
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 190
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water .
+PREDID: 196
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 229
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 242
+PRED: halve
+   DOBJ: the eggs lengthwise
+      NON-INGREDIENT SPAN: the eggs lengthwise
+
+PREDID: 267
+PRED: scoop
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would mash the yolks with a fork .
+PREDID: 290
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 8
+SENT: I would place the tomatoes , cut sides down , onto a paper towel to drain .
+PREDID: 312
+PRED: place
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: cherry tomatoes halved seeded
+   PARG: a paper towel to drain
+     PREP: onto
+      NON-INGREDIENT SPAN: a paper towel to drain
+
+PREDID: 329
+PRED: cut
+   DOBJ: sides
+      NON-INGREDIENT SPAN: sides
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 9
+SENT: I would mash the cream cheese with a spoon in a bowl until smooth and workable ;
+PREDID: 365
+PRED: mash
+   DOBJ: the cream cheese
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: cream cheese softened
+   PARG: a spoon in a bowl
+     PREP: with
+      NON-INGREDIENT SPAN: a spoon in a bowl
+   PARG: smooth, workable
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  workable
+
+
+SENTID: 10
+SENT: I would stir in the egg yolks , the salmon , the mayonnaise , brown mustard , sour cream , lemon juice , pickle relish , lemon peel , and 1 teaspoon of smoked paprika until well combined .
+PREDID: 423
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg yolks , the salmon , the mayonnaise , brown mustard , sour cream , lemon juice , pickle relish , lemon peel , 1 teaspoon of smoked paprika
+     PREP: in
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: pickle relish drained
+      INGREDIENT SPAN:  the salmon 
+         INGREDIENTS: ounce skinless boneless salmon drained flaked
+      INGREDIENT SPAN:  brown mustard 
+         INGREDIENTS: spicy brown mustard
+      INGREDIENT SPAN:  1 teaspoon of smoked paprika
+         INGREDIENTS: smoked paprika
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  lemon peel 
+         INGREDIENTS: grated lemon peel taste
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN: the egg yolks 
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 11
+SENT: I would season with salt and pepper .
+PREDID: 561
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 12
+SENT: I would spoon the salmon mixture into the egg halves and cherry tomato halves .
+PREDID: 585
+PRED: spoon
+   DOBJ: the salmon mixture
+      NON-INGREDIENT SPAN: the salmon mixture
+   PARG: the egg halves, cherry tomato halves
+     PREP: into
+      NON-INGREDIENT SPAN: the egg halves
+      NON-INGREDIENT SPAN:  cherry tomato halves
+
+
+SENTID: 13
+SENT: I would sprinkle with additional smoked paprika for garnish and arrange on a platter .
+PREDID: 644
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: additional smoked paprika for garnish
+     PREP: with
+      INGREDIENT SPAN: additional smoked paprika for garnish
+         INGREDIENTS: smoked paprika garnish
+
+PREDID: 692
+PRED: arrange
+   DOBJ: NULL
+   PARG: a platter
+     PREP: on
+      NON-INGREDIENT SPAN: a platter
+
+
+SENTID: 14
+SENT: I would chill at least 1 hour before serving .
+PREDID: 710
+PRED: chill
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

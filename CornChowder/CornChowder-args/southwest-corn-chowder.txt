@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 1
+SENT: I would add the tomatillos , and boil for 10 minutes ;
+PREDID: 41
+PRED: add
+   DOBJ: the tomatillos
+      INGREDIENT SPAN: the tomatillos
+         INGREDIENTS: tomatillos husked
+
+PREDID: 61
+PRED: boil
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 78
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would meanwhile , melt the butter in a large pot over medium heat .
+PREDID: 94
+PRED: melt
+   DOBJ: the butter in a large pot over medium heat
+      INGREDIENT SPAN: the butter in a large pot over medium heat
+         INGREDIENTS: butter
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would stir in the onions , and cook until they have softened and turned translucent , about 5 minutes .
+PREDID: 133
+PRED: stir
+   DOBJ: NULL
+   PARG: the onions
+     PREP: in
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: onion diced
+
+PREDID: 152
+PRED: cook
+   DOBJ: NULL
+   PARG: they have softened, turned translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: they have softened
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 5
+SENT: I would stir in the hominy , the marjoram , and thyme , cook and stir 5 minutes more .
+PREDID: 212
+PRED: stir
+   DOBJ: NULL
+   PARG: the hominy , the marjoram
+     PREP: in
+      INGREDIENT SPAN: the hominy 
+         INGREDIENTS: ounce white hominy drained
+      INGREDIENT SPAN:  the marjoram
+         INGREDIENTS: chopped fresh marjoram
+
+PREDID: 243
+PRED: thyme and cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: more
+      NON-INGREDIENT SPAN: more
+
+
+SENTID: 6
+SENT: I would pour in the milk , the parsley , and half of the corn kernels , and bring to a simmer over medium-high heat .
+PREDID: 270
+PRED: pour
+   DOBJ: NULL
+   PARG: the milk , the parsley , half of the corn kernels
+     PREP: in
+      INGREDIENT SPAN:  half of the corn kernels
+         INGREDIENTS: ears fresh corn kernels
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: sprigs parsley
+
+PREDID: 322
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over medium-high heat
+
+
+SENTID: 7
+SENT: I would puree the tomatillos with the remaining half of the corn until smooth in a blender ,
+PREDID: 353
+PRED: puree
+   DOBJ: the tomatillos
+      NON-INGREDIENT SPAN: the tomatillos
+   PARG: the remaining half of the corn
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining half of the corn
+   PARG: smooth in a blender
+     PREP: until
+      NON-INGREDIENT SPAN: smooth in a blender
+
+
+SENTID: 8
+SENT: I would stir into the soup along with the roasted peppers .
+PREDID: 422
+PRED: stir
+   DOBJ: NULL
+   PARG: the soup along with the roasted peppers
+     PREP: into
+      INGREDIENT SPAN: the soup along with the roasted peppers
+         INGREDIENTS: roasted red peppers drained chopped
+
+
+SENTID: 9
+SENT: I would simmer the soup for 10 minutes ,
+PREDID: 464
+PRED: simmer
+   DOBJ: NULL
+   PARG: the soup for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the soup for 10 minutes
+
+
+SENTID: 10
+SENT: I would remove the parsley sprigs , and sprinkle with cilantro before serving .
+PREDID: 490
+PRED: remove
+   DOBJ: the parsley sprigs
+      NON-INGREDIENT SPAN: the parsley sprigs
+
+PREDID: 516
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: chopped fresh cilantro
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

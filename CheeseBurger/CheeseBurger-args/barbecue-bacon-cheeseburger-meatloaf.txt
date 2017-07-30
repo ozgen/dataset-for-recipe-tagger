@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 5x9-inch loaf pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 5x9-inch loaf pan
+      NON-INGREDIENT SPAN: a 5x9-inch loaf pan
+
+
+SENTID: 2
+SENT: I would mix ground beef , 1/2 cup barbeque sauce , the milk , the egg , bacon bits , Worcestershire sauce , the salt , and black pepper in a bowl ;
+PREDID: 61
+PRED: mix
+   DOBJ: ground beef , 1/2 cup barbeque sauce , the milk , the egg , bacon bits , Worcestershire sauce , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  1/2 cup barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  bacon bits 
+         INGREDIENTS: ounce package real bacon bits
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  black pepper in a bowl
+
+
+SENTID: 3
+SENT: I would stir in bread crumbs to desired consistency .
+PREDID: 161
+PRED: stir
+   DOBJ: NULL
+   PARG: bread crumbs
+     PREP: in
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs needed
+   PARG: desired consistency
+     PREP: to
+      INGREDIENT SPAN: desired consistency
+         INGREDIENTS: sliced processed cheese food such Velveeta desired
+
+
+SENTID: 4
+SENT: I would place half the ground beef mixture into the prepared loaf pan and press an indentation into the meat mixture , leaving a 1-inch rim of meat all around the indentation .
+PREDID: 199
+PRED: place pan
+   DOBJ: half the ground beef, an indentation
+      NON-INGREDIENT SPAN: half the ground beef
+      NON-INGREDIENT SPAN:  an indentation
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+   OARG: mixture into the prepared loaf
+      NON-INGREDIENT SPAN: mixture into the prepared loaf
+   OARG: leaving a 1-inch rim of meat all around the indentation
+      NON-INGREDIENT SPAN: leaving a 1-inch rim of meat all around the indentation
+
+
+SENTID: 5
+SENT: I would fill the indentation with processed cheese and top with remaining meat mixture .
+PREDID: 337
+PRED: fill
+   DOBJ: the indentation
+      NON-INGREDIENT SPAN: the indentation
+   PARG: processed cheese, top with remaining meat mixture
+     PREP: with
+      NON-INGREDIENT SPAN: processed cheese
+      NON-INGREDIENT SPAN:  top with remaining meat mixture
+
+
+SENTID: 6
+SENT: I would press lightly to seal .
+PREDID: 405
+PRED: press
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to seal
+      NON-INGREDIENT SPAN: to seal
+
+
+SENTID: 7
+SENT: I would brush 2 tablespoons barbeque sauce over the meatloaf .
+PREDID: 424
+PRED: brush
+   DOBJ: 2 tablespoons barbeque sauce over the meatloaf
+      INGREDIENT SPAN: 2 tablespoons barbeque sauce over the meatloaf
+         INGREDIENTS: barbeque sauce
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until juices run clear and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 60 to 80 minutes .
+

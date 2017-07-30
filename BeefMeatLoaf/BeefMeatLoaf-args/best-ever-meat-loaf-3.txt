@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would whisk eggs , the milk , the salt , and ground black pepper in a large bowl .
+PREDID: 38
+PRED: whisk
+   DOBJ: eggs , the milk , the salt , ground black pepper in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  ground black pepper in a large bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 2
+SENT: I would add crumbled bread and stir until dissolved .
+PREDID: 91
+PRED: add
+   DOBJ: crumbled bread
+      INGREDIENT SPAN: crumbled bread
+         INGREDIENTS: slices bread crumbled
+
+PREDID: 110
+PRED: stir
+   DOBJ: NULL
+   PARG: dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: dissolved
+
+
+SENTID: 3
+SENT: I would mix ground beef , the onion , Cheddar cheese , and carrot into bread mixture ;
+PREDID: 129
+PRED: mix
+   DOBJ: ground beef , the onion , Cheddar cheese , carrot
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: shredded carrot
+   PARG: bread mixture
+     PREP: into
+      NON-INGREDIENT SPAN: bread mixture
+
+
+SENTID: 4
+SENT: I would transfer mixture to a 9x5-inch loaf pan .
+PREDID: 189
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 9x5-inch loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+
+
+SENTID: 5
+SENT: I would combine brown sugar , the ketchup , and mustard in a small bowl ;
+PREDID: 223
+PRED: combine
+   DOBJ: brown sugar , the ketchup , mustard in a small bowl
+      INGREDIENT SPAN:  mustard in a small bowl
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 6
+SENT: I would spread over meat mixture .
+PREDID: 272
+PRED: spread
+   DOBJ: NULL
+   PARG: meat mixture
+     PREP: over
+      NON-INGREDIENT SPAN: meat mixture
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until no longer pink in the center , 1 to 1?1/4 hours .
+PREDID: 294
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , 1 to 1?1/4 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  1 to 1?1/4 hours
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 8
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

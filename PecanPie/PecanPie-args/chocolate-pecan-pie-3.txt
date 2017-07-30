@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would pREHEAT oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 180 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 180 degrees C
+
+
+SENTID: 1
+SENT: I would position rack in the bottom third of the oven .
+PREDID: 38
+PRED: position
+   DOBJ: rack
+      NON-INGREDIENT SPAN: rack
+   PARG: the bottom third of the oven
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom third of the oven
+
+
+SENTID: 2
+SENT: I would mELT chocolate in the top of a double boiler over water that is barely simmering .
+PREDID: 76
+PRED: melt
+   DOBJ: chocolate
+      INGREDIENT SPAN: chocolate
+         INGREDIENTS: unsweetened chocolate chopped
+   PARG: the top of a double boiler over water that is barely simmering
+     PREP: in
+      NON-INGREDIENT SPAN: the top of a double boiler over water that is barely simmering
+
+
+SENTID: 3
+SENT: I would stir constantly .
+PREDID: 143
+PRED: stir
+   DOBJ: NULL
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 4
+SENT: I would wHISK together sugar , corn syrup , the eggs , the chocolate , the butter , the vanilla and salt .
+PREDID: 158
+PRED: whisk
+   DOBJ: sugar , corn syrup , the eggs , the chocolate , the butter , the vanilla, salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: unsalted butter melted
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the chocolate 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would add chopped pecans and pour into the unbaked pie shell .
+PREDID: 224
+PRED: add
+   DOBJ: chopped pecans
+      INGREDIENT SPAN: chopped pecans
+         INGREDIENTS: pecans chopped
+
+PREDID: 243
+PRED: pour
+   DOBJ: NULL
+   PARG: the unbaked pie shell
+     PREP: into
+      INGREDIENT SPAN: the unbaked pie shell
+         INGREDIENTS: Tenderflake Frozen Deep Dish Pie Shell defrosted
+
+
+SENTID: 6
+SENT: I would arrange the pecan halves artfully on top of the filling .
+PREDID: 270
+PRED: arrange
+   DOBJ: the pecan halves artfully
+      INGREDIENT SPAN: the pecan halves artfully
+         INGREDIENTS: pecan halves
+   PARG: top of the filling
+     PREP: on
+      NON-INGREDIENT SPAN: top of the filling
+
+
+SENTID: 7
+SENT: I would bAKE in preheated oven for 50-60 minutes .
+PREDID: 317
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50-60 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 50-60 minutes
+
+
+SENTID: 8
+SENT: The center may still seem under-set .
+
+SENTID: 9
+SENT: I would transfer to a wire rack to cool .
+PREDID: 352
+PRED: transfer
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: to
+      NON-INGREDIENT SPAN: a wire rack
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 10
+SENT: I would cut into wedges and serve with a generous dollop of whipped cream .
+PREDID: 378
+PRED: cut
+   DOBJ: NULL
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+
+PREDID: 394
+PRED: serve
+   DOBJ: NULL
+   PARG: a generous dollop of whipped cream
+     PREP: with
+      INGREDIENT SPAN: a generous dollop of whipped cream
+         INGREDIENTS: whipped cream serving
+
+

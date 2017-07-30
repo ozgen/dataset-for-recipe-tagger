@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the mayonnaise , peach juice and whipped cream .
+PREDID: 13
+PRED: whisk
+   DOBJ: the mayonnaise , peach juice, whipped cream
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  peach juice
+         INGREDIENTS: peach juice
+      INGREDIENT SPAN:  whipped cream
+         INGREDIENTS: whipped heavy cream
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add salt and pepper to taste .
+PREDID: 66
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 2
+SENT: I would stir in chicken and peaches and chill until ready to serve .
+PREDID: 90
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken, peaches
+     PREP: in
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN:  peaches
+         INGREDIENTS: pitted diced fresh peaches
+
+PREDID: 116
+PRED: chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

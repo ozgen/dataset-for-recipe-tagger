@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 1
+SENT: I would stir in egg noodles and return to a boil .
+PREDID: 58
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 77
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 91
+PRED: cook
+   DOBJ: noodles uncovered , stirring occasionally , until tender but still slightly firm
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN: noodles uncovered 
+      NON-INGREDIENT SPAN:  until tender but still slightly firm
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 179
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would melt butter in a large skillet or wok over medium heat ;
+PREDID: 189
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet or wok over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium heat
+
+
+SENTID: 5
+SENT: I would cook and stir onion until browned , about 8 minutes .
+PREDID: 234
+PRED: cook and stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion chopped
+   PARG: browned , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 6
+SENT: I would cook and stir cabbage into onions until cabbage has wilted , another 5 to 8 minutes .
+PREDID: 277
+PRED: cook and stir
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: head cabbage cored chopped
+   PARG: onions until cabbage has wilted , another 5 to 8 minutes
+     PREP: into
+      NON-INGREDIENT SPAN:  another 5 to 8 minutes
+      NON-INGREDIENT SPAN: onions until cabbage has wilted 
+
+
+SENTID: 7
+SENT: I would gently stir cooked noodles into cabbage mixture ;
+PREDID: 352
+PRED: stir
+   DOBJ: cooked noodles
+      NON-INGREDIENT SPAN: cooked noodles
+   PARG: cabbage mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cabbage mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 8
+SENT: I would season with salt and black pepper to taste .
+PREDID: 388
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

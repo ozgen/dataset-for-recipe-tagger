@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large mixing bowl , I would combine the ground beef , bread crumbs , the egg and steak sauce .
+PREDID: 57
+PRED: combine
+   DOBJ: the ground beef , bread crumbs , the egg, steak sauce
+      INGREDIENT SPAN:  the egg
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  steak sauce
+         INGREDIENTS: steak sauce
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 2
+SENT: I would mix thoroughly .
+PREDID: 107
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 3
+SENT: I would blend in soup mix , green pepper , the onion , the cilantro and garlic .
+PREDID: 121
+PRED: blend
+   DOBJ: NULL
+   PARG: soup mix , green pepper , the onion , the cilantro, garlic
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic chopped
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: bunch fresh cilantro chopped
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper chopped
+
+
+SENTID: 4
+SENT: On a large piece of aluminum foil , I would pat the beef mixture into a thin , flat rectangle .
+PREDID: 200
+PRED: pat
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: a large piece of aluminum foil
+     PREP: on
+      NON-INGREDIENT SPAN: a large piece of aluminum foil
+   PARG: a thin , flat rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: a thin 
+      NON-INGREDIENT SPAN:  flat rectangle
+
+
+SENTID: 5
+SENT: I would layer about 1/2 the ham on top of the beef from end to end .
+PREDID: 241
+PRED: layer
+   DOBJ: about 1/2 the ham
+      INGREDIENT SPAN: about 1/2 the ham
+         INGREDIENTS: slices sliced ham
+   PARG: top of the beef from end
+     PREP: on
+      NON-INGREDIENT SPAN: top of the beef from end
+   PARG: end
+     PREP: to
+      NON-INGREDIENT SPAN: end
+
+
+SENTID: 6
+SENT: I would layer ham with the Cheddar cheese .
+PREDID: 287
+PRED: layer
+   DOBJ: ham
+      INGREDIENT SPAN: ham
+         INGREDIENTS: slices sliced ham
+   PARG: the cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: the cheddar cheese
+         INGREDIENTS: slices Cheddar cheese
+
+
+SENTID: 7
+SENT: I would layer cheese with remaining ham ,
+PREDID: 316
+PRED: layer
+   DOBJ: cheese
+      NON-INGREDIENT SPAN: cheese
+   PARG: remaining ham
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ham
+
+
+SENTID: 8
+SENT: the broccoli .
+
+SENTID: 9
+SENT: Using the foil , I would roll the meatloaf while pinching the ends .
+PREDID: 357
+PRED: roll
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: pinching the ends
+     PREP: while
+      NON-INGREDIENT SPAN: pinching the ends
+   OARG: using the foil
+      NON-INGREDIENT SPAN: using the foil
+
+
+SENTID: 10
+SENT: I would keep aluminum foil around the meat loaf and place on a medium baking sheet .
+PREDID: 393
+PRED: keep
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+   PARG: the meat loaf
+     PREP: around
+      NON-INGREDIENT SPAN: the meat loaf
+
+PREDID: 429
+PRED: place
+   DOBJ: NULL
+   PARG: a medium baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a medium baking sheet
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven for 1 hour .
+PREDID: 455
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour
+
+

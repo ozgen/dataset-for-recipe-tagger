@@ -1,0 +1,35 @@
+SENTID: 0
+SENT: I would mix together the chicken and mayonnaise in a bowl , stir to coat well ,
+PREDID: 0
+PRED: mix
+   DOBJ: the chicken, mayonnaise in a bowl , stir to coat well
+      INGREDIENT SPAN:  mayonnaise in a bowl 
+         INGREDIENTS: mayonnaise taste
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: cooked chicken breast halves chopped
+      NON-INGREDIENT SPAN:  stir to coat well
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in the green onions , dried cranberries , the apple , the pecans , lime juice , the salt , the pepper , and dill weed .
+
+SENTID: 2
+SENT: I would serve immediately , or refrigerate several hours or overnight -LRB- the flavor just gets better -RRB- .
+PREDID: 142
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 161
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: several hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: several hours or overnight
+   OARG: the flavor just gets better
+      NON-INGREDIENT SPAN: the flavor just gets better
+
+

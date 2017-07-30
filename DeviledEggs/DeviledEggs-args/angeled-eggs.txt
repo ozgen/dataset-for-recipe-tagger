@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would place eggs into a large saucepan , cover with water , and bring to a boil .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 28
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 46
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook for 15 minutes , and cool the eggs under a stream of cold water in the sink , 10 to 15 minutes .
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+PREDID: 79
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: a stream of cold water in the sink , 10 to 15 minutes
+     PREP: under
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: a stream of cold water in the sink 
+
+
+SENTID: 2
+SENT: I would peel the eggs and slice in half lengthwise .
+PREDID: 137
+PRED: peel
+   DOBJ: the eggs, slice in half lengthwise
+      NON-INGREDIENT SPAN: the eggs
+      NON-INGREDIENT SPAN:  slice in half lengthwise
+
+
+SENTID: 3
+SENT: I would scoop the egg yolks into a bowl , and mash them with a fork .
+PREDID: 173
+PRED: scoop
+   DOBJ: the egg yolks
+      NON-INGREDIENT SPAN: the egg yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 202
+PRED: mash
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 4
+SENT: I would mix in the ranch dressing , creamy salad dressing , pickle relish , yellow mustard , celery seed , and black pepper until thoroughly combined .
+PREDID: 220
+PRED: mix
+   DOBJ: NULL
+   PARG: the ranch dressing , creamy salad dressing , pickle relish , yellow mustard , celery seed , black pepper
+     PREP: in
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: the ranch dressing 
+         INGREDIENTS: ranch dressing
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  creamy salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 5
+SENT: I would spoon the filling into the egg white halves .
+PREDID: 338
+PRED: spoon
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: the egg white halves
+
+
+SENTID: 6
+SENT: I would sprinkle each egg half with a pinch of paprika .
+PREDID: 375
+PRED: sprinkle
+   DOBJ: each egg half
+      NON-INGREDIENT SPAN: each egg half
+   PARG: a pinch of paprika
+     PREP: with
+      INGREDIENT SPAN: a pinch of paprika
+         INGREDIENTS: paprika garnish
+
+

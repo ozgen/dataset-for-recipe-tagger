@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would combine 3 tablespoons Country Crock ? Spread , the milk , the rotini , the chicken , the vegetables and cheddar cheese in 8-inch baking dish .
+PREDID: 25
+PRED: combine
+   DOBJ: 3 tablespoons Country Crock ? Spread , the milk , the rotini , the chicken , the vegetables, cheddar cheese
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: % milk
+      INGREDIENT SPAN: 3 tablespoons Country Crock ? Spread 
+         INGREDIENTS: Country Crock Spread melted divided
+      INGREDIENT SPAN:  cheddar cheese
+         INGREDIENTS: shredded lowfat Cheddar cheese
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: diced cooked chicken
+      INGREDIENT SPAN:  the vegetables
+         INGREDIENTS: assorted frozen vegetables thawed
+      INGREDIENT SPAN:  the rotini 
+         INGREDIENTS: dry rotini pasta cooked drained
+   PARG: 8-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: 8-inch baking dish
+
+
+SENTID: 2
+SENT: I would combine bread crumbs , Parmesan cheese and remaining Spread in small bowl ;
+PREDID: 129
+PRED: combine
+   DOBJ: bread crumbs , Parmesan cheese, remaining Spread in small bowl
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  remaining Spread in small bowl
+         INGREDIENTS: Country Crock Spread melted divided
+
+
+SENTID: 3
+SENT: I would sprinkle over top of casserole .
+PREDID: 192
+PRED: sprinkle
+   DOBJ: top of casserole
+      NON-INGREDIENT SPAN: top of casserole
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 4
+SENT: I would bake until heated through and crumbs are toasted , about 30 minutes .
+PREDID: 219
+PRED: bake
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+   OARG: crumbs are toasted , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: crumbs are toasted 
+
+

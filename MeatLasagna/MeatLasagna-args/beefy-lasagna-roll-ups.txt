@@ -1,0 +1,193 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook lasagna noodles in the boiling water , stirring occasionally until cooked through , about 8 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through , about 8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain and pat noodles dry with paper towels .
+PREDID: 169
+PRED: drain and pat
+   DOBJ: noodles dry with paper towels
+      NON-INGREDIENT SPAN: noodles dry with paper towels
+
+
+SENTID: 4
+SENT: I would brown ground beef and onion in a large skillet over medium heat , breaking the meat into crumbles as it cooks , about 10 minutes .
+PREDID: 206
+PRED: brown
+   DOBJ: ground beef, onion in a large skillet
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: extralean ground beef
+      INGREDIENT SPAN:  onion in a large skillet
+         INGREDIENTS: small onion diced
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: breaking the meat into crumbles as it cooks , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: breaking the meat into crumbles as it cooks 
+
+
+SENTID: 5
+SENT: I would pour pasta sauce into beef mixture and stir garlic powder , the basil , the parsley , the chives , the oregano , and nutmeg into beef and sauce .
+PREDID: 311
+PRED: pour
+   DOBJ: pasta sauce
+      INGREDIENT SPAN: pasta sauce
+         INGREDIENTS: ounce jar pasta sauce
+   PARG: beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: beef mixture
+
+PREDID: 343
+PRED: stir
+   DOBJ: garlic powder , the basil , the parsley , the chives , the oregano , nutmeg
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: garlic powder 
+         INGREDIENTS: garlic powder
+   PARG: beef, sauce
+     PREP: into
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 6
+SENT: I would spread half of the beef sauce into a 2-quart casserole dish and sprinkle with 1 cup Cheddar cheese .
+PREDID: 415
+PRED: spread
+   DOBJ: half of the beef sauce
+      NON-INGREDIENT SPAN: half of the beef sauce
+   PARG: a 2-quart casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 2-quart casserole dish
+
+PREDID: 467
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1 cup cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: 1 cup cheddar cheese
+         INGREDIENTS: shredded yellow white marbled Cheddar cheese divided
+
+
+SENTID: 7
+SENT: I would lay a lasagna noodle out onto a lightly floured work surface and spread with 2 tablespoons cream cheese .
+PREDID: 497
+PRED: lay
+   DOBJ: a lasagna noodle
+      NON-INGREDIENT SPAN: a lasagna noodle
+   PARG: a lightly floured work surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured work surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 550
+PRED: spread
+   DOBJ: NULL
+   PARG: 2 tablespoons cream cheese
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons cream cheese
+         INGREDIENTS: ounce package light cream cheese softened
+
+
+SENTID: 8
+SENT: I would spread 2 tablespoons ground beef sauce onto noodle ;
+PREDID: 584
+PRED: spread
+   DOBJ: 2 tablespoons ground beef sauce
+      NON-INGREDIENT SPAN: 2 tablespoons ground beef sauce
+   PARG: noodle
+     PREP: onto
+      NON-INGREDIENT SPAN: noodle
+
+
+SENTID: 9
+SENT: I would roll noodle and place with seam side down atop cheese in casserole dish .
+PREDID: 628
+PRED: roll
+   DOBJ: noodle, place
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: noodle
+   PARG: seam side
+     PREP: with
+      NON-INGREDIENT SPAN: seam side
+   OARG: down atop cheese in casserole dish
+      INGREDIENT SPAN: down atop cheese in casserole dish
+         INGREDIENTS: shredded yellow white marbled Cheddar cheese divided
+
+
+SENTID: 10
+SENT: I would repeat with remaining noodles .
+PREDID: 688
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining noodles
+     PREP: with
+      NON-INGREDIENT SPAN: remaining noodles
+
+
+SENTID: 11
+SENT: I would sprinkle remaining beef sauce and 1 cup Cheddar cheese over noodle rolls .
+PREDID: 715
+PRED: sprinkle
+   DOBJ: remaining beef sauce, 1 cup Cheddar cheese
+      INGREDIENT SPAN:  1 cup Cheddar cheese
+         INGREDIENTS: ounce package light cream cheese softened
+      NON-INGREDIENT SPAN: remaining beef sauce
+   PARG: noodle rolls
+     PREP: over
+      NON-INGREDIENT SPAN: noodle rolls
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until cheese and sauce bubble , 10 to 15 minutes .
+PREDID: 777
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until cheese, sauce bubble , 10 to 15 minutes
+     PREP: in
+      INGREDIENT SPAN: the preheated oven until cheese
+         INGREDIENTS: ounce package light cream cheese softened
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN:  sauce bubble 
+
+

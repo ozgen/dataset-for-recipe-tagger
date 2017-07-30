@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: I would place potatoes in a large saucepan , cover with water , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: large Yukon Gold potatoes
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 30
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 48
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 1
+SENT: I would reduce the heat to medium-low , and simmer until the potatoes are tender , about 15 minutes .
+PREDID: 73
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 102
+PRED: simmer
+   DOBJ: NULL
+   PARG: the potatoes are tender , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the potatoes are tender 
+
+
+SENTID: 2
+SENT: I would drain and cool ,
+PREDID: 149
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would cut into 1-inch cubes .
+PREDID: 162
+PRED: cut
+   DOBJ: NULL
+   PARG: 1-inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1-inch cubes
+
+
+SENTID: 4
+SENT: I would combine the potatoes , the cucumber , the celery , the onion , and olives in a large bowl .
+PREDID: 181
+PRED: combine
+   DOBJ: the potatoes , the cucumber , the celery , the onion , olives in a large bowl
+      INGREDIENT SPAN:  olives in a large bowl
+         INGREDIENTS: green olives pimento chopped
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large red onion chopped
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: large cucumber chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      NON-INGREDIENT SPAN: the potatoes 
+
+
+SENTID: 5
+SENT: I would whisk together the olive oil , red wine vinegar , and garlic powder in a small bowl .
+PREDID: 244
+PRED: whisk
+   DOBJ: the olive oil , red wine vinegar , garlic powder in a small bowl
+      INGREDIENT SPAN:  garlic powder in a small bowl
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would pour the dressing over the potatoes and vegetables ;
+PREDID: 312
+PRED: pour
+   DOBJ: the dressing over the potatoes, vegetables
+      NON-INGREDIENT SPAN: the dressing over the potatoes
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 7
+SENT: I would mix well .
+PREDID: 356
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would season with salt and pepper ,
+PREDID: 364
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 9
+SENT: I would chill .
+PREDID: 388
+PRED: chill
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would stir the potato salad again before serving .
+PREDID: 394
+PRED: stir
+   DOBJ: the potato salad
+      NON-INGREDIENT SPAN: the potato salad
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+

@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease one 2 quart casserole dish .
+PREDID: 53
+PRED: casserole
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   OARG: grease one 2 quart
+      NON-INGREDIENT SPAN: grease one 2 quart
+
+
+SENTID: 2
+SENT: I would cook noodles according to directions on package .
+PREDID: 67
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce packages wide egg noodles
+   PARG: to directions on package
+     PREP: according
+      INGREDIENT SPAN: to directions on package
+         INGREDIENTS: ounce packages cream cheese
+
+
+SENTID: 3
+SENT: I would rinse in cold water and drain .
+PREDID: 109
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water, drain
+     PREP: in
+      NON-INGREDIENT SPAN:  drain
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: I would combine cream cheese , sour cream , the onion , Worcestershire sauce , garlic salt and hot pepper sauce in a blender or food processor .
+PREDID: 134
+PRED: combine
+   DOBJ: cream cheese , sour cream , the onion , Worcestershire sauce , garlic salt, hot pepper sauce
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  sour cream 
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+
+SENTID: 5
+SENT: I would blend until smooth and stir into cooked noodles .
+PREDID: 242
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+PREDID: 261
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked noodles
+     PREP: into
+      NON-INGREDIENT SPAN: cooked noodles
+
+
+SENTID: 6
+SENT: I would pour into prepared casserole dish .
+PREDID: 283
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared casserole dish
+
+
+SENTID: 7
+SENT: I would top with bread crumbs and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes .
+PREDID: 313
+PRED: top
+   DOBJ: NULL
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs
+
+PREDID: 334
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+

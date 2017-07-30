@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would pour chicken broth into a large soup pot and place over medium heat .
+PREDID: 0
+PRED: pour
+   DOBJ: chicken broth
+      INGREDIENT SPAN: chicken broth
+         INGREDIENTS: fluid ounce chicken broth
+   PARG: a large soup pot
+     PREP: into
+      INGREDIENT SPAN: a large soup pot
+         INGREDIENTS: packet dry chicken noodle soup mix
+
+PREDID: 36
+PRED: place
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would add chicken and any accumulated juices from the chicken to the broth .
+PREDID: 56
+PRED: add
+   DOBJ: chicken, any accumulated juices
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: pound whole rotisserie chicken skinned boned meat cut bite
+      NON-INGREDIENT SPAN:  any accumulated juices
+   PARG: the chicken
+     PREP: from
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: chicken soup base paste more taste
+   PARG: the broth
+     PREP: to
+      NON-INGREDIENT SPAN: the broth
+
+
+SENTID: 2
+SENT: I would stir corn , dry soup mix , and chicken soup base into broth mixture .
+PREDID: 114
+PRED: stir
+   DOBJ: corn , dry soup mix , chicken soup base
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: ounce package frozen supersweet white corn
+      NON-INGREDIENT SPAN:  chicken soup base
+      NON-INGREDIENT SPAN:  dry soup mix 
+   PARG: broth mixture
+     PREP: into
+      NON-INGREDIENT SPAN: broth mixture
+
+
+SENTID: 3
+SENT: I would simmer soup for 20 minutes .
+PREDID: 169
+PRED: simmer
+   DOBJ: soup
+      NON-INGREDIENT SPAN: soup
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 4
+SENT: I would add noodles to soup and simmer until tender , about 10 minutes .
+PREDID: 192
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package kluski noodles
+   PARG: soup, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: soup
+   PARG: tender , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 5
+SENT: I would season with salt and black pepper .
+PREDID: 244
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

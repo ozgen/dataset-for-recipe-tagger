@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would mix ricotta cheese , mozzarella cheese and eggs .
+PREDID: 0
+PRED: mix
+   DOBJ: ricotta cheese , mozzarella cheese, eggs
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: ricotta cheese 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+
+
+SENTID: 1
+SENT: I would cook beef in saucepan until browned .
+PREDID: 41
+PRED: cook
+   DOBJ: beef in saucepan
+      INGREDIENT SPAN: beef in saucepan
+         INGREDIENTS: ground beef
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 2
+SENT: I would pour off fat .
+PREDID: 72
+PRED: pour
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would stir in pasta sauce .
+PREDID: 83
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta sauce
+     PREP: in
+      INGREDIENT SPAN: pasta sauce
+         INGREDIENTS: ounce jar Prego Traditional Italian Sauce
+
+
+SENTID: 4
+SENT: I would spread 1 cup beef mixture in each of 2 2-quart shallow baking dishes .
+PREDID: 100
+PRED: spread
+   DOBJ: 1 cup beef mixture
+      NON-INGREDIENT SPAN: 1 cup beef mixture
+   PARG: each of 2 2-quart shallow baking dishes
+     PREP: in
+      NON-INGREDIENT SPAN: each of 2 2-quart shallow baking dishes
+
+
+SENTID: 5
+SENT: I would top each with 2 lasagna noodles and 1 cup ricotta cheese mixture .
+PREDID: 157
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: 2 lasagna noodles, 1 cup ricotta cheese mixture
+     PREP: with
+      INGREDIENT SPAN:  1 cup ricotta cheese mixture
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: 2 lasagna noodles
+         INGREDIENTS: cooked lasagna noodles
+
+
+SENTID: 6
+SENT: I would repeat layers .
+PREDID: 211
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 7
+SENT: I would top each with 2 lasagna noodles , remaining beef mixture and Parmesan cheese .
+PREDID: 224
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: 2 lasagna noodles , remaining beef mixture, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: 2 lasagna noodles 
+         INGREDIENTS: cooked lasagna noodles
+      NON-INGREDIENT SPAN:  remaining beef mixture
+
+
+SENTID: 8
+SENT: I would bake at 400 degrees F for 30 minutes or until hot .
+PREDID: 289
+PRED: bake
+   DOBJ: NULL
+   PARG: 400 degrees f
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees f
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 9
+SENT: I would let stand 10 minutes .
+PREDID: 329
+PRED: let
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: stand
+      NON-INGREDIENT SPAN: stand
+
+

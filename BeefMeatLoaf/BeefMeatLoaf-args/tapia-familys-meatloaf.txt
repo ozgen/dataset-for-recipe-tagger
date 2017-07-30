@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef , Mexican-style tomato sauce , the eggs , onion soup mix , bread crumbs , green chiles , garlic and herb seasoning , and garlic powder in a large bowl until thoroughly combined .
+PREDID: 38
+PRED: mix
+   DOBJ: ground beef , Mexican-style tomato sauce , the eggs , onion soup mix , bread crumbs , green chiles , garlic, herb seasoning , garlic powder in a large bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  green chiles 
+         INGREDIENTS: diced green chiles
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  garlic powder in a large bowl
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  herb seasoning 
+         INGREDIENTS: garlic herb seasoning blend such Mrs. Dash
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  Mexican-style tomato sauce 
+         INGREDIENTS: ounce Mexicanstyle hot tomato sauce
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: ounce envelope dry onion soup mix
+      NON-INGREDIENT SPAN:  garlic
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 2
+SENT: I would place mixture into a large loaf pan and shape into a loaf .
+PREDID: 193
+PRED: place
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a large loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a large loaf pan
+
+PREDID: 225
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until meatloaf is no longer pink inside and an instant-read meat thermometer inserted into the middle of the loaf shows at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1 hour .
+

@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would place potatoes into a large saucepan , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: sweet potatoes peeled cubed
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 35
+PRED: fill
+   DOBJ: NULL
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , and cook for about 8 minutes , or until tender .
+PREDID: 62
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 78
+PRED: cook
+   DOBJ: NULL
+   PARG: about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 minutes
+
+
+SENTID: 2
+SENT: I would drain , and cool slightly .
+PREDID: 113
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 122
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 3
+SENT: In a large bowl , I would stir together the mayonnaise and brown sugar .
+PREDID: 148
+PRED: stir
+   DOBJ: the mayonnaise, brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in the sweet potatoes , the walnuts and raisins until evenly coated .
+PREDID: 187
+PRED: stir
+   DOBJ: NULL
+   PARG: the sweet potatoes , the walnuts, raisins
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      NON-INGREDIENT SPAN: the sweet potatoes 
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 5
+SENT: I would chill for at least 1 hour before serving .
+PREDID: 245
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

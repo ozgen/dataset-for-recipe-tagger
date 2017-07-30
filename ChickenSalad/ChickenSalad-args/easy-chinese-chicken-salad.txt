@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would toss chicken meat , the cabbage , the onions , ramen noodles , sesame seeds , and almonds together in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: chicken meat , the cabbage , the onions , ramen noodles , sesame seeds , almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN: chicken meat 
+         INGREDIENTS: rotisserie chicken meat removed shredded
+      INGREDIENT SPAN:  ramen noodles 
+         INGREDIENTS: ounce package ramen noodles such Nissin Top Ramen
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: medium head cabbage chopped
+      INGREDIENT SPAN:  sesame seeds 
+         INGREDIENTS: sesame seeds
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would beat olive oil , the vinegar , the sugar , the salt , and pepper together in a small bowl ;
+PREDID: 87
+PRED: beat
+   DOBJ: olive oil , the vinegar , the sugar , the salt , pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle over the salad and toss to coat .
+PREDID: 149
+PRED: drizzle
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 171
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

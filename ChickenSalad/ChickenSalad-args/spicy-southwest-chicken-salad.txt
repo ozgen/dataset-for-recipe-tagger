@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would combine 1/4 cup Wish-Bone ? Italian Dressing with chipotle chile pepper in small bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: NULL
+   OARG: 1/4 cup wish-bone ? italian dressing with chipotle chile pepper in small bowl
+      INGREDIENT SPAN: 1/4 cup wish-bone ? italian dressing with chipotle chile pepper in small bowl
+         INGREDIENTS: ground chipotle chile pepper
+      INGREDIENT SPAN: 1/4 cup wish-bone ? italian dressing with in small bowl
+         INGREDIENTS: WishBone Italian Dressing divided
+
+
+SENTID: 1
+SENT: I would brush chicken and onion with dressing mixture .
+PREDID: 73
+PRED: brush
+   DOBJ: chicken, onion
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken breast halves
+      NON-INGREDIENT SPAN:  onion
+   PARG: dressing mixture
+     PREP: with
+      NON-INGREDIENT SPAN: dressing mixture
+
+
+SENTID: 2
+SENT: I would grill or broil chicken and onion , turning once , 10 minutes or until chicken is thoroughly cooked and onion is tender ;
+PREDID: 113
+PRED: grill or broil
+   DOBJ: NULL
+   PARG: chicken, onion , turning once , 10 minutes or until chicken is thoroughly cooked, onion is tender
+     PREP: for
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  turning once 
+      NON-INGREDIENT SPAN:  onion 
+      NON-INGREDIENT SPAN:  onion is tender
+      NON-INGREDIENT SPAN:  10 minutes or until chicken is thoroughly cooked
+
+
+SENTID: 3
+SENT: I would thinly slice chicken .
+PREDID: 211
+PRED: thinly
+   DOBJ: slice chicken
+      INGREDIENT SPAN: slice chicken
+         INGREDIENTS: small onion cut 1/2inchthick slices
+
+
+SENTID: 4
+SENT: I would arrange spring salad mix on serving platter .
+PREDID: 230
+PRED: arrange
+   DOBJ: spring salad mix on serving platter
+      INGREDIENT SPAN: spring salad mix on serving platter
+         INGREDIENTS: spring salad mix
+
+
+SENTID: 5
+SENT: I would top with beans , the mango , the avocado , the onion and chicken .
+PREDID: 268
+PRED: top
+   DOBJ: NULL
+   PARG: beans , the mango , the avocado , the onion, chicken
+     PREP: with
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the mango 
+         INGREDIENTS: medium mango cut bitesize
+      NON-INGREDIENT SPAN:  the onion
+      NON-INGREDIENT SPAN:  chicken
+      NON-INGREDIENT SPAN:  the avocado 
+
+
+SENTID: 6
+SENT: I would just before serving , drizzle with remaining 1/4 cup Dressing .
+PREDID: 329
+PRED: drizzle
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: remaining 1/4 cup dressing
+     PREP: with
+      NON-INGREDIENT SPAN: remaining 1/4 cup dressing
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

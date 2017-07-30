@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together the beef , the pork , bread crumbs , the eggs , the onion , and celery .
+PREDID: 51
+PRED: mix
+   DOBJ: the beef , the pork , bread crumbs , the eggs , the onion , celery
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: slices bread broken small
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with 3 tablespoons soy sauce , the ginger , and 2 tablespoons hoisin sauce .
+PREDID: 108
+PRED: season
+   DOBJ: NULL
+   PARG: 3 tablespoons soy sauce , the ginger , 2 tablespoons hoisin sauce
+     PREP: with
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: minced fresh ginger
+      INGREDIENT SPAN: 3 tablespoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  2 tablespoons hoisin sauce
+         INGREDIENTS: hoisin sauce
+
+
+SENTID: 3
+SENT: I would pat mixture into a shallow 2 quart baking pan .
+PREDID: 173
+PRED: pat
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a shallow 2 quart baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow 2 quart baking pan
+
+
+SENTID: 4
+SENT: I would bake in preheated oven for 40 minutes .
+PREDID: 211
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 40 minutes
+
+
+SENTID: 5
+SENT: I would drain grease from pan .
+PREDID: 243
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix 1/2 cup hoisin with 2 tablespoons ketchup .
+PREDID: 275
+PRED: mix
+   DOBJ: 1/2 cup hoisin
+      INGREDIENT SPAN: 1/2 cup hoisin
+         INGREDIENTS: hoisin sauce
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: 2 tablespoons ketchup
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 7
+SENT: I would spread over top of meatloaf .
+PREDID: 314
+PRED: spread
+   DOBJ: top of meatloaf
+      NON-INGREDIENT SPAN: top of meatloaf
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would continue the baking for 20 minutes or so .
+PREDID: 338
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking for 20 minutes or so
+     PREP: for
+      NON-INGREDIENT SPAN: the baking for 20 minutes or so
+
+
+SENTID: 9
+SENT: I would remove from oven , and let rest for 5 minutes .
+PREDID: 369
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 387
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+

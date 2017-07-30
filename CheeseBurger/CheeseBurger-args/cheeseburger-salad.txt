@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would arrange the strips in a single layer on a baking sheet , and bake for 8 to 10 minutes , until the strips are lightly toasted .
+PREDID: 40
+PRED: arrange
+   DOBJ: the strips
+      INGREDIENT SPAN: the strips
+         INGREDIENTS: hamburger buns split cut inch strips
+   PARG: a single layer on a baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer on a baking sheet
+
+PREDID: 88
+PRED: bake
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+   PARG: the strips are lightly toasted
+     PREP: until
+      NON-INGREDIENT SPAN: the strips are lightly toasted
+
+
+SENTID: 2
+SENT: I would set the strips aside .
+PREDID: 140
+PRED: set
+   DOBJ: the strips
+      NON-INGREDIENT SPAN: the strips
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would place the ground beef into a skillet over medium heat , and brown the meat for about 10 to 12 minutes , breaking the beef apart as it cooks , until the meat is well browned and no longer pink inside .
+PREDID: 158
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a skillet over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 206
+PRED: brown
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: about 10 to 12 minutes , breaking the beef apart as it cooks , until the meat is well browned, no longer pink inside
+     PREP: for
+      NON-INGREDIENT SPAN:  no longer pink inside
+      NON-INGREDIENT SPAN: about 10 to 12 minutes 
+      NON-INGREDIENT SPAN:  until the meat is well browned
+      NON-INGREDIENT SPAN:  breaking the beef apart as it cooks 
+
+
+SENTID: 4
+SENT: I would stir the chopped onion , the ketchup , dill pickle , and mustard into the beef mixture and mix well .
+PREDID: 317
+PRED: stir
+   DOBJ: the chopped onion , the ketchup , dill pickle , mustard
+      INGREDIENT SPAN:  dill pickle 
+         INGREDIENTS: chopped dill pickle
+      INGREDIENT SPAN: the chopped onion 
+         INGREDIENTS: small red onion chopped
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+PREDID: 390
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would arrange the chopped lettuce on a large serving platter , and spoon the beef mixture over the lettuce .
+PREDID: 395
+PRED: arrange
+   DOBJ: the chopped lettuce
+      INGREDIENT SPAN: the chopped lettuce
+         INGREDIENTS: chopped lettuce
+   PARG: a large serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a large serving platter
+
+PREDID: 445
+PRED: spoon
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the lettuce
+     PREP: over
+      NON-INGREDIENT SPAN: the lettuce
+
+
+SENTID: 6
+SENT: I would top the salad with the sliced onion , plum tomatoes , and shredded cheese , and arrange the hamburger bun croutons around the platter .
+PREDID: 479
+PRED: top
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: the sliced onion , plum tomatoes , shredded cheese
+     PREP: with
+      INGREDIENT SPAN:  shredded cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  plum tomatoes 
+         INGREDIENTS: plum tomatoes chopped
+      INGREDIENT SPAN: the sliced onion 
+         INGREDIENTS: small red onion sliced
+
+PREDID: 543
+PRED: arrange
+   DOBJ: the hamburger bun croutons
+      NON-INGREDIENT SPAN: the hamburger bun croutons
+   PARG: the platter
+     PREP: around
+      NON-INGREDIENT SPAN: the platter
+
+

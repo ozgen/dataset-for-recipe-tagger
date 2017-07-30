@@ -1,0 +1,200 @@
+SENTID: 0
+SENT: In a blender or food processor , I would puree the onion and celery ;
+PREDID: 26
+PRED: puree
+   DOBJ: the onion, celery
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalks celery chopped
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 49
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would melt 2 tablespoons margarine in a large saucepan over medium heat .
+PREDID: 55
+PRED: melt
+   DOBJ: 2 tablespoons margarine
+      INGREDIENT SPAN: 2 tablespoons margarine
+         INGREDIENTS: margarine
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 3
+SENT: I would stir in the onion and celery puree and the poblano chile pepper .
+PREDID: 111
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion, celery puree, the poblano chile pepper
+     PREP: in
+      INGREDIENT SPAN:  the poblano chile pepper
+         INGREDIENTS: fresh poblano chile pepper seeded diced
+      NON-INGREDIENT SPAN: the onion
+      NON-INGREDIENT SPAN:  celery puree
+
+
+SENTID: 4
+SENT: Stirring constantly , I would cook about 5 minutes , until tender .
+PREDID: 183
+PRED: cook
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 5
+SENT: I would mix in heavy cream , half-and-half cream , the sugar , and lobster base .
+PREDID: 213
+PRED: mix
+   DOBJ: NULL
+   PARG: heavy cream , half-and-half cream , the sugar , lobster base
+     PREP: in
+      INGREDIENT SPAN: heavy cream 
+         INGREDIENTS: halfandhalf cream
+      INGREDIENT SPAN:  half-and-half cream 
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN:  lobster base
+         INGREDIENTS: lobster base
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 6
+SENT: I would season with chile de arbol and black pepper .
+PREDID: 269
+PRED: season
+   DOBJ: NULL
+   PARG: chile de arbol, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN: chile de arbol
+
+
+SENTID: 7
+SENT: Stirring often , I would bring to a gentle boil .
+PREDID: 320
+PRED: bring
+   DOBJ: NULL
+   PARG: a gentle boil
+     PREP: to
+      NON-INGREDIENT SPAN: a gentle boil
+   OARG: stirring often
+      NON-INGREDIENT SPAN: stirring often
+
+
+SENTID: 8
+SENT: I would melt 1/2 cup margarine in a medium saucepan over medium heat .
+PREDID: 339
+PRED: melt
+   DOBJ: 1/2 cup margarine
+      INGREDIENT SPAN: 1/2 cup margarine
+         INGREDIENTS: margarine
+   PARG: a medium saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium heat
+
+
+SENTID: 9
+SENT: I would mix in the flour , and stir constantly until thickened .
+PREDID: 390
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 407
+PRED: stir
+   DOBJ: NULL
+   PARG: thickened
+     PREP: until
+      NON-INGREDIENT SPAN: thickened
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 10
+SENT: I would remove from heat , and gradually mix into the large saucepan .
+PREDID: 436
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 463
+PRED: mix
+   DOBJ: NULL
+   PARG: the large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: the large saucepan
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 11
+SENT: I would cook and stir until the mixture is well blended and thickened .
+PREDID: 487
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the mixture is well blended, thickened
+     PREP: until
+      NON-INGREDIENT SPAN:  thickened
+      NON-INGREDIENT SPAN: the mixture is well blended
+
+
+SENTID: 12
+SENT: I would mix cream-style corn and whole kernel corn into the large saucepan mixture .
+PREDID: 539
+PRED: mix
+   DOBJ: cream-style corn, whole kernel corn into the large saucepan mixture
+      INGREDIENT SPAN: cream-style corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  whole kernel corn into the large saucepan mixture
+         INGREDIENTS: ounce creamstyle corn
+
+
+SENTID: 13
+SENT: I would stir in the shrimp , and cook 2 minutes , or until opaque .
+PREDID: 603
+PRED: stir
+   DOBJ: NULL
+   PARG: the shrimp , cook 2 minutes
+     PREP: in
+      INGREDIENT SPAN: the shrimp 
+         INGREDIENTS: shrimp peeled deveined diced
+      NON-INGREDIENT SPAN:  cook 2 minutes
+
+
+SENTID: 14
+SENT: I would season with salt and sugar .
+PREDID: 649
+PRED: season
+   DOBJ: NULL
+   PARG: salt, sugar
+     PREP: with
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+

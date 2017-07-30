@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: In a shallow bowl , I would whisk together egg yolks , egg white , the vanilla , rum extract , orange zest , the water and 1 tablespoon honey .
+PREDID: 15
+PRED: whisk
+   DOBJ: egg yolks , egg white , the vanilla , rum extract , orange zest , the water, 1 tablespoon honey
+      INGREDIENT SPAN:  rum extract 
+         INGREDIENTS: rum flavored extract
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  1 tablespoon honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN: egg yolks 
+         INGREDIENTS: eggs separated
+      NON-INGREDIENT SPAN:  orange zest 
+      NON-INGREDIENT SPAN:  egg white 
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would coat bread slices in egg mixture ;
+PREDID: 101
+PRED: coat
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: pound loaf Hawaiian sweet bread sliced
+   PARG: egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: egg mixture
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 129
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a small saucepan , I would combine crushed pineapple , mandarin oranges , the honey and maple syrup .
+PREDID: 155
+PRED: combine
+   DOBJ: crushed pineapple , mandarin oranges , the honey, maple syrup
+      INGREDIENT SPAN:  maple syrup
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN:  the honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: ounce mandarin orange segments drained
+      INGREDIENT SPAN: crushed pineapple 
+         INGREDIENTS: ounce crushed pineapple juice
+   PARG: a small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan
+
+
+SENTID: 4
+SENT: I would simmer over medium-low heat for 3 minutes .
+PREDID: 214
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium-low heat for 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: medium-low heat for 3 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 250
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium high heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium high heat
+
+
+SENTID: 6
+SENT: I would fry bread slices until brown on both sides .
+PREDID: 304
+PRED: fry
+   DOBJ: bread slices
+      NON-INGREDIENT SPAN: bread slices
+   PARG: brown on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: brown on both sides
+
+
+SENTID: 7
+SENT: I would serve hot with warm fruit sauce .
+PREDID: 340
+PRED: serve
+   DOBJ: NULL
+   PARG: warm fruit sauce
+     PREP: with
+      NON-INGREDIENT SPAN: warm fruit sauce
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

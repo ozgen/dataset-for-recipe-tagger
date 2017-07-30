@@ -1,0 +1,74 @@
+digraph recipe {
+E0[label="pour
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="place
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cook
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="remove
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="return
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="spread
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="toast
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="butter
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="spoon
+12", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: vegetable oil", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:into the bottom of a slow cooker", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D11[label="DOBJ: side", shape=box, style=filled, fillcolor=white]
+D11 -> E11
+P11_0[label="LOCOROBJ:in a skillet over medium heat", shape=box, style=filled, fillcolor=white]
+P11_0 -> E11
+P11_1[label="OTHER:until golden brown", shape=box, style=filled, fillcolor=white]
+P11_1 -> E11
+D1[label="DOBJ: pork shoulder roast", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:into the slow cooker", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D9[label="DOBJ: hamburger buns", shape=box, style=filled, fillcolor=peachpuff]
+D9 -> E9
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: in apple cider vinegar, barbeque sauce, chicken broth", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: in light brown sugar, chili powder, large cloves garlic, dried thyme, Worcestershire sauce, prepared yellow mustard, extra large onion", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="OTHER:on high", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+P5_1_0[label="DURATION:until the roast shreds easily with a fork ", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+P5_1_1[label="DURATION:until  5 to 6 hours", shape=box, style=filled, fillcolor=white]
+P5_1_1 -> E5
+E5 -> E6 [label="the roast"]
+P6_0_0[label="LOCOROBJ:from the slow cooker ", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+P6_0_1[label="LOCOROBJ:from shred the meat using two", shape=box, style=filled, fillcolor=white]
+P6_0_1 -> E6
+E6 -> E7 [label="the shredded pork"]
+P7_0_0[label="LOCOROBJ:to the slow cooker", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E7 -> E8 [label="the meat"]
+E0 -> E8 [label="LOCOROBJ:into the juices"]
+E9 -> E10 [label="the buns"]
+E8 -> E12 [label="pork"]
+E11 -> E12 [label="IMPLICIT PREP"]
+E10 -> E12 [label="LOCOROBJ:into the toasted buns"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

@@ -1,0 +1,251 @@
+SENTID: 0
+SENT: I would add the water , the salt , the oil , the flour and yeast to your bread machine in the order listed .
+PREDID: 0
+PRED: add
+   DOBJ: the water , the salt , the oil , the flour, yeast
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  yeast
+         INGREDIENTS: active dry yeast
+      INGREDIENT SPAN:  the flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+   PARG: your bread machine in the order listed
+     PREP: to
+      NON-INGREDIENT SPAN: your bread machine in the order listed
+
+
+SENTID: 1
+SENT: I would select the dough cycle .
+PREDID: 69
+PRED: select
+   DOBJ: the dough cycle
+      NON-INGREDIENT SPAN: the dough cycle
+
+
+SENTID: 2
+SENT: I would check your dough after it has been mixing a few minutes .
+PREDID: 89
+PRED: check
+   DOBJ: your dough
+      NON-INGREDIENT SPAN: your dough
+   PARG: it has been mixing a few minutes
+     PREP: after
+      NON-INGREDIENT SPAN: it has been mixing a few minutes
+
+
+SENTID: 3
+SENT: If it is too dry and not mixing , add water 1 tablespoon at a time , until it is mixing and has a nice dough consistency .
+
+SENTID: 4
+SENT: You want the dough to be pliable but not sticky .
+
+SENTID: 5
+SENT: I would meanwhile , in a small bowl , combine tomato paste , the water , and 3/4 of the package of taco seasoning mix .
+PREDID: 158
+PRED: combine
+   DOBJ: tomato paste , the water , 3/4 of the package of taco seasoning mix
+      INGREDIENT SPAN:  3/4 of the package of taco seasoning mix
+         INGREDIENTS: ounce package taco seasoning mix divided
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: fluid warm water
+      INGREDIENT SPAN: tomato paste 
+         INGREDIENTS: ounce tomato paste
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would stir in chili powder and cayenne pepper ;
+PREDID: 220
+PRED: stir
+   DOBJ: NULL
+   PARG: chili powder, cayenne pepper
+     PREP: in
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder taste
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper taste
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 254
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: In another bowl , I would mix refried beans , the salsa , and onion ;
+PREDID: 277
+PRED: mix
+   DOBJ: refried beans , the salsa , onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: salsa
+      INGREDIENT SPAN: refried beans 
+         INGREDIENTS: ounce fatfree refried beans
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+
+
+SENTID: 9
+SENT: I would set aside .
+PREDID: 308
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: In a large skillet , I would cook ground beef until evenly brown ;
+PREDID: 333
+PRED: cook
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 11
+SENT: I would drain excess fat .
+PREDID: 364
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 12
+SENT: I would season with the remaining 1/4 package of taco seasoning and a small amount of water .
+PREDID: 379
+PRED: season
+   DOBJ: NULL
+   PARG: the remaining 1/4 package of taco seasoning, a small amount of water
+     PREP: with
+      INGREDIENT SPAN: the remaining 1/4 package of taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix divided
+      NON-INGREDIENT SPAN:  a small amount of water
+
+
+SENTID: 13
+SENT: I would simmer a few minutes ,
+PREDID: 449
+PRED: simmer
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+
+
+SENTID: 14
+SENT: I would remove from heat .
+PREDID: 467
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 15
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 482
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 16
+SENT: When the dough cycle is finished , remove the dough from the machine .
+PREDID: 548
+PRED: remove
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: the machine
+     PREP: from
+      NON-INGREDIENT SPAN: the machine
+   OARG: when the dough cycle is finished
+      NON-INGREDIENT SPAN: when the dough cycle is finished
+
+
+SENTID: 17
+SENT: I would divide the dough in half , and pat into two 12 inch pans .
+PREDID: 577
+PRED: divide
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: half , pat into two 12 inch pans
+     PREP: in
+      NON-INGREDIENT SPAN: half 
+      NON-INGREDIENT SPAN:  pat into two 12 inch pans
+
+
+SENTID: 18
+SENT: I would spread a layer of the bean mixture on ,
+PREDID: 622
+PRED: spread
+   DOBJ: a layer of the bean mixture
+      NON-INGREDIENT SPAN: a layer of the bean mixture
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+
+SENTID: 19
+SENT: a layer of the tomato mixture .
+
+SENTID: 20
+SENT: I would sprinkle with seasoned beef and top with cheddar cheese .
+PREDID: 653
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: seasoned beef, top
+     PREP: with
+      NON-INGREDIENT SPAN: seasoned beef
+      NON-INGREDIENT SPAN:  top
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 21
+SENT: I would bake in preheated oven for 10 to 15 minutes , or until crust is golden brown and cheese is melted .
+PREDID: 701
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 10 to 15 minutes , or until crust is golden brown, cheese is melted
+     PREP: in
+      NON-INGREDIENT SPAN:  or until crust is golden brown
+      NON-INGREDIENT SPAN: preheated oven for 10 to 15 minutes 
+      NON-INGREDIENT SPAN:  cheese is melted
+
+
+SENTID: 22
+SENT: I would turn pizzas halfway through baking .
+PREDID: 780
+PRED: turn
+   DOBJ: pizzas
+      NON-INGREDIENT SPAN: pizzas
+   PARG: baking
+     PREP: through
+      NON-INGREDIENT SPAN: baking
+   OARG: halfway
+      NON-INGREDIENT SPAN: halfway
+
+

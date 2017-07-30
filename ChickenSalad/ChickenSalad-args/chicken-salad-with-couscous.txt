@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would prepare couscous pasta according to package directions , using chicken broth for liquid .
+PREDID: 0
+PRED: prepare
+   DOBJ: couscous pasta
+      NON-INGREDIENT SPAN: couscous pasta
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+   OARG: using chicken broth for liquid
+      INGREDIENT SPAN: using chicken broth for liquid
+         INGREDIENTS: chicken broth
+
+
+SENTID: 1
+SENT: I would drain and set aside .
+PREDID: 76
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a large skillet combine the wine , I would the oil , 1 tablespoon lime juice , 1 teaspoon cumin and garlic ;
+
+SENTID: 3
+SENT: I would mix all together and add chicken .
+PREDID: 93
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 110
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast meat cubed
+
+
+SENTID: 4
+SENT: I would simmer over low heat until all liquid has evaporated and chicken juices run clear , 5 to 7 minutes .
+PREDID: 121
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: all liquid has evaporated
+     PREP: until
+      NON-INGREDIENT SPAN: all liquid has evaporated
+   OARG: chicken juices run clear , 5 to 7 minutes
+      INGREDIENT SPAN: chicken juices run clear 
+         INGREDIENTS: fresh lime juice
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 5
+SENT: I would remove chicken from skillet and mix in a large bowl with remaining 1 tablespoon lime juice , remaining 1/2 teaspoon cumin , green bell pepper , red bell pepper , yellow bell pepper , green onion and couscous .
+PREDID: 202
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet, mix in a large bowl
+     PREP: from
+      NON-INGREDIENT SPAN:  mix in a large bowl
+      NON-INGREDIENT SPAN: skillet
+   PARG: remaining 1 tablespoon lime juice , remaining 1/2 teaspoon cumin , green bell pepper , red bell pepper , yellow bell pepper , green onion, couscous
+     PREP: with
+      INGREDIENT SPAN:  couscous
+         INGREDIENTS: couscous
+      INGREDIENT SPAN:  yellow bell pepper 
+         INGREDIENTS: red bell pepper cut large chunks
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: yellow bell pepper cut large chunks
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper cut large chunks
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  remaining 1/2 teaspoon cumin 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN: remaining 1 tablespoon lime juice 
+
+
+SENTID: 6
+SENT: I would garnish with a few black olives per serving .
+PREDID: 373
+PRED: garnish
+   DOBJ: NULL
+   PARG: a few black olives per serving
+     PREP: with
+      INGREDIENT SPAN: a few black olives per serving
+         INGREDIENTS: pitted black olives
+
+

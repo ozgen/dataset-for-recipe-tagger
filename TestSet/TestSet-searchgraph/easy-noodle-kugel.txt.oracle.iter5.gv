@@ -1,0 +1,84 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="oil
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="fill
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="bring
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir in
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="return
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cook
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="drain
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="melt
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="mix in
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="add
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="stir
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="pour
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="bake
+14", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: a 9x13-inch baking dish", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D2[label="DOBJ: a large pot", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+P2_0[label="COOBJECT:with lightly salted water", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O3_0[label="OTHER: to a rolling boil over high heat", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: the package wide egg noodles", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="the pasta"]
+O6_0_0[label="OTHER: uncovered", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: stirring occasionally", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+O6_2_0[label="OTHER: until the pasta has cooked through, but is still firm to the bite, 4 to 5 minutes", shape=box, style=filled, fillcolor=white]
+O6_2_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+D8_ing[label="DOBJ: butter", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E2 -> E8 [label="LOCATION:in the pot"]
+D9_ing[label="DOBJ: small curd cottage cheese, applesauce, salt", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E7 -> E9 [label="the drained noodles"]
+E8 -> E9 [label="IMPLICIT PREP"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: the white sugar", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+O10_0_0[label="OTHER: cinnamon", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+D11_ing[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E10 -> E11 [label="IMPLICIT PREP"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+O12_0_0[label="OTHER: to blend all ingredients", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="mixture"]
+E1 -> E13 [label="LOCATION:into prepared baking dish"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+E0 -> E14 [label="IMPLICIT PREP"]
+O14_0_0[label="OTHER: until top is very brown, about 1 hour", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E14 -> EOR
+}

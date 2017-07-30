@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: ounce jar pasta sauce
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large skillet over medium heat , I would cook beef until brown ;
+PREDID: 161
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 180
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would beat milk and eggs together until well combined ;
+PREDID: 186
+PRED: beat
+   DOBJ: milk, eggs
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 227
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would place pasta in a 9x13 inch baking dish .
+PREDID: 251
+PRED: place
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 9
+SENT: I would pour milk mixture evenly over pasta .
+PREDID: 283
+PRED: pour
+   DOBJ: milk mixture
+      NON-INGREDIENT SPAN: milk mixture
+   OARG: evenly over pasta
+      NON-INGREDIENT SPAN: evenly over pasta
+
+
+SENTID: 10
+SENT: I would pour pasta sauce over that .
+PREDID: 314
+PRED: pour
+   DOBJ: pasta sauce
+      NON-INGREDIENT SPAN: pasta sauce
+   PARG: that
+     PREP: over
+      NON-INGREDIENT SPAN: that
+
+
+SENTID: 11
+SENT: I would distribute beef evenly over pasta sauce and sprinkle with oregano , garlic powder , minced onion and pepperoni slices .
+PREDID: 337
+PRED: distribute
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   OARG: evenly over pasta sauce
+      NON-INGREDIENT SPAN: evenly over pasta sauce
+
+PREDID: 374
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: oregano , garlic powder , minced onion, pepperoni slices
+     PREP: with
+      INGREDIENT SPAN:  pepperoni slices
+         INGREDIENTS: ounce package sliced pepperoni sausage
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  minced onion
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN: oregano 
+         INGREDIENTS: dried oregano
+
+
+SENTID: 12
+SENT: I would top with shredded cheese .
+PREDID: 437
+PRED: top
+   DOBJ: NULL
+   PARG: shredded cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 13
+SENT: I would bake in preheated oven until hot and bubbly , 30 minutes .
+PREDID: 459
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: hot, bubbly
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: hot
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+

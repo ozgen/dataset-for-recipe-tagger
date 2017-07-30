@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would heat olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil needed
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion and garlic in hot oil until tender , about 5 minutes .
+PREDID: 37
+PRED: cook and stir
+   DOBJ: onion, garlic in hot oil
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+      NON-INGREDIENT SPAN:  garlic in hot oil
+   PARG: tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would stir ground beef and chorizo sausage into onion mixture ;
+PREDID: 96
+PRED: stir
+   DOBJ: ground beef, chorizo sausage into onion mixture
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  chorizo sausage into onion mixture
+         INGREDIENTS: chorizo sausage
+
+
+SENTID: 3
+SENT: I would cook , breaking meat apart while stirring , until no longer pink , 10 to 15 minutes .
+PREDID: 144
+PRED: cook
+   DOBJ: NULL
+   PARG: stirring , until no longer pink , 10 to 15 minutes
+     PREP: while
+      NON-INGREDIENT SPAN:  until no longer pink 
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: stirring 
+   OARG: breaking meat apart
+      NON-INGREDIENT SPAN: breaking meat apart
+
+
+SENTID: 4
+SENT: I would mix ground beef-chorizo mixture , diced tomatoes , the chili , butter beans , tomato sauce , chili powder , chipotle seasoning blend , the salt , and black pepper in a slow cooker .
+PREDID: 212
+PRED: mix
+   DOBJ: ground beef-chorizo mixture , diced tomatoes , the chili , butter beans , tomato sauce , chili powder , chipotle seasoning blend , the salt , black pepper in a slow cooker
+      INGREDIENT SPAN:  the chili 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: ounce prepared chili
+      INGREDIENT SPAN:  chipotle seasoning blend 
+         INGREDIENTS: saltfree seasoning blend such Mrs. Dash Chipotle seasoning
+      INGREDIENT SPAN:  butter beans 
+         INGREDIENTS: ounce butter beans
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN: ground beef-chorizo mixture 
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper in a slow cooker
+      NON-INGREDIENT SPAN:  the salt 
+
+
+SENTID: 5
+SENT: I would cook on High until flavors have blended , 3 to 4 hours .
+PREDID: 353
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: flavors have blended , 3 to 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN: flavors have blended 
+      NON-INGREDIENT SPAN:  3 to 4 hours
+
+

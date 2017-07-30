@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would cook and stir bacon in a large skillet over medium heat until bacon is translucent and beginning to brown , about 5 minutes ;
+PREDID: 0
+PRED: cook and stir
+   DOBJ: bacon in a large skillet
+      INGREDIENT SPAN: bacon in a large skillet
+         INGREDIENTS: ounce package centercut smoked bacon diced
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: bacon is translucent, beginning to brown , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: bacon is translucent
+      NON-INGREDIENT SPAN:  beginning to brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 1
+SENT: I would stir in onion and continue the cooking and stirring until bacon is browned and sweet onion is translucent , about 5 more minutes .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: onion
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: sweet onion such Vidalia chopped
+   OARG: stirring until bacon is browned, sweet onion is translucent , about 5 more minutes
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN: stirring until bacon is browned
+      NON-INGREDIENT SPAN:  sweet onion is translucent 
+
+PREDID: 116
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+
+
+SENTID: 2
+SENT: I would mix 1/2 cup ketchup , 2 tablespoons chili powder , 2 tablespoons ancho chile powder , 1 tablespoon Worcestershire sauce , the cumin , the salt , black pepper , and garlic powder in a large bowl .
+PREDID: 206
+PRED: mix
+   DOBJ: 1/2 cup ketchup , 2 tablespoons chili powder , 2 tablespoons ancho chile powder , 1 tablespoon Worcestershire sauce , the cumin , the salt , black pepper , garlic powder in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  2 tablespoons ancho chile powder 
+         INGREDIENTS: ancho chile powder
+      INGREDIENT SPAN:  garlic powder in a large bowl
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: 1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  2 tablespoons chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  1 tablespoon Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground ancho chile pepper
+
+
+SENTID: 3
+SENT: I would mix in ground sirloin , bacon-onion mixture , Cheddar cheese , pepper jack cheese , the eggs , and bread crumbs until thoroughly combined .
+PREDID: 358
+PRED: mix
+   DOBJ: NULL
+   PARG: ground sirloin , bacon-onion mixture , cheddar cheese , pepper jack cheese , the eggs , bread crumbs
+     PREP: in
+      INGREDIENT SPAN:  cheddar cheese 
+         INGREDIENTS: shredded extrasharp Cheddar cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: ground sirloin 
+         INGREDIENTS: ground sirloin
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  pepper jack cheese 
+         INGREDIENTS: shredded pepper jack cheese
+      NON-INGREDIENT SPAN:  bacon-onion mixture 
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 4
+SENT: I would form the mixture into a loaf shape and refrigerate 1 hour .
+PREDID: 470
+PRED: form
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+PREDID: 501
+PRED: refrigerate
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 5
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 518
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 6
+SENT: I would line a 9x13-inch baking pan with aluminum foil and spray the foil with cooking spray .
+PREDID: 556
+PRED: line
+   DOBJ: a 9x13-inch baking pan
+      NON-INGREDIENT SPAN: a 9x13-inch baking pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 598
+PRED: spray
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: serving cooking spray
+
+
+SENTID: 7
+SENT: I would place loaf into the prepared baking dish .
+PREDID: 627
+PRED: place
+   DOBJ: loaf
+      NON-INGREDIENT SPAN: loaf
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 8
+SENT: I would mix 1/2 cup ketchup , 1 tablespoon Worcestershire sauce , 1 teaspoon chili powder , and 1 teaspoon ground ancho chile in a bowl .
+PREDID: 662
+PRED: mix
+   DOBJ: 1/2 cup ketchup , 1 tablespoon Worcestershire sauce , 1 teaspoon chili powder , 1 teaspoon ground ancho chile in a bowl
+      INGREDIENT SPAN:  1 teaspoon chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: 1/2 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  1 teaspoon ground ancho chile in a bowl
+         INGREDIENTS: ancho chile powder
+      INGREDIENT SPAN:  1 teaspoon ground in a bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  1 tablespoon Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 9
+SENT: I would spread the mixture over the loaf .
+PREDID: 767
+PRED: spread
+   DOBJ: the mixture over the loaf
+      NON-INGREDIENT SPAN: the mixture over the loaf
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until the loaf is no longer pink inside and the juices run clear , 1 hour and 5 minutes to 1 hour and 15 minutes .
+PREDID: 795
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the loaf is no longer pink inside, the juices run clear , 1 hour, 5 minutes to 1 hour, 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 minutes to 1 hour
+      NON-INGREDIENT SPAN:  1 hour
+      NON-INGREDIENT SPAN:  the juices run clear 
+      NON-INGREDIENT SPAN: the loaf is no longer pink inside
+      NON-INGREDIENT SPAN:  15 minutes
+
+
+SENTID: 11
+SENT: An instant-read meat thermometer inserted into the center of the loaf should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

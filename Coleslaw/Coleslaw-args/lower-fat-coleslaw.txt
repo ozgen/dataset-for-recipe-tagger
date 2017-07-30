@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would whisk mayonnaise , low-fat milk , white vinegar , apple cider vinegar , lemon juice , the sugar , and salt together in a bowl and allow the dressing to stand while preparing vegetables , about 20 minutes .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , low-fat milk , white vinegar , apple cider vinegar , lemon juice , the sugar , salt
+      INGREDIENT SPAN:  white vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  low-fat milk 
+         INGREDIENTS: lowfat milk
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: extralight mayonnaise
+      INGREDIENT SPAN:  apple cider vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 104
+PRED: allow
+   DOBJ: NULL
+   PARG: the dressing to stand while preparing vegetables , about 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the dressing to stand while preparing vegetables 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 1
+SENT: I would pour the dressing over cabbage , the onion , and carrot in a large salad bowl and toss to combine .
+PREDID: 161
+PRED: pour
+   DOBJ: the dressing over cabbage , the onion , carrot
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion minced
+      INGREDIENT SPAN: the dressing over cabbage 
+         INGREDIENTS: head cabbage shredded
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: carrot shredded chopped
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+
+PREDID: 226
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 2
+SENT: For best flavor , I would refrigerate slaw at least 2 hours to overnight .
+PREDID: 248
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: best flavor
+     PREP: for
+      NON-INGREDIENT SPAN: best flavor
+   PARG: slaw at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: slaw at least 2 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+

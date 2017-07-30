@@ -1,0 +1,266 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 3-quart casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 3-quart casserole dish
+      NON-INGREDIENT SPAN: a 3-quart casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would fill a large pot with water , and bring to a boil over high heat .
+PREDID: 73
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 99
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: I would stir in the shrimp , reduce heat to a simmer , and cook the shrimp until opaque and bright pink , about 3 minutes .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: the shrimp
+     PREP: in
+      INGREDIENT SPAN: the shrimp
+         INGREDIENTS: shrimp peeled deveined
+
+PREDID: 140
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 163
+PRED: cook
+   DOBJ: the shrimp
+      NON-INGREDIENT SPAN: the shrimp
+   PARG: opaque, bright pink , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: opaque
+      NON-INGREDIENT SPAN:  bright pink 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 4
+SENT: I would remove the shrimp to a bowl with a slotted spoon .
+PREDID: 215
+PRED: remove
+   DOBJ: the shrimp
+      NON-INGREDIENT SPAN: the shrimp
+   PARG: a bowl with a slotted spoon
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl with a slotted spoon
+
+
+SENTID: 5
+SENT: I would return the water to a full rolling boil over high heat , and stir in the noodles .
+PREDID: 255
+PRED: return
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a full rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a full rolling boil over high heat
+
+PREDID: 303
+PRED: stir
+   DOBJ: NULL
+   PARG: the noodles
+     PREP: in
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: wide egg noodles
+
+
+SENTID: 6
+SENT: I would cook until the noodles are tender , about 8 minutes ;
+PREDID: 320
+PRED: cook
+   DOBJ: NULL
+   PARG: the noodles are tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the noodles are tender 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 7
+SENT: I would drain in a colander set in the sink .
+PREDID: 363
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+
+
+SENTID: 8
+SENT: I would melt 2 tablespoons of butter in a saucepan over medium heat , and stir the flour into the butter to make a paste .
+PREDID: 392
+PRED: melt
+   DOBJ: 2 tablespoons of butter
+      INGREDIENT SPAN: 2 tablespoons of butter
+         INGREDIENTS: cold butter sliced
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+PREDID: 445
+PRED: stir
+   DOBJ: the flour
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+   PARG: the butter to make a paste
+     PREP: into
+      INGREDIENT SPAN: the butter to make a paste
+         INGREDIENTS: cold butter sliced
+
+
+SENTID: 9
+SENT: I would remove the pan from the heat ;
+PREDID: 483
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 10
+SENT: I would slowly whisk in the milk and cream until smooth .
+PREDID: 513
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk, cream
+     PREP: in
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 11
+SENT: I would season to taste with salt and black pepper .
+PREDID: 547
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, black pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 12
+SENT: I would return the sauce to the heat , lower heat to a simmer , and whisk constantly until the sauce thickens , about 5 minutes .
+PREDID: 583
+PRED: return
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: the heat , lower heat to a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: the heat 
+      NON-INGREDIENT SPAN:  lower heat to a simmer
+
+PREDID: 629
+PRED: whisk
+   DOBJ: NULL
+   PARG: the sauce thickens , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce thickens 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 13
+SENT: I would place noodles into the prepared casserole dish , and top with peas , the mushrooms , and cooked shrimp .
+PREDID: 680
+PRED: place
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: the prepared casserole dish , top with peas , the mushrooms
+     PREP: into
+      INGREDIENT SPAN:  top with peas 
+         INGREDIENTS: frozen green peas thawed
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN: the prepared casserole dish 
+
+PREDID: 752
+PRED: cooked
+   DOBJ: shrimp
+      NON-INGREDIENT SPAN: shrimp
+
+
+SENTID: 14
+SENT: I would pour the sauce over the casserole , and sprinkle the crushed cracker crumbs evenly over the top .
+PREDID: 762
+PRED: pour
+   DOBJ: the sauce over the casserole
+      NON-INGREDIENT SPAN: the sauce over the casserole
+
+PREDID: 794
+PRED: sprinkle
+   DOBJ: the crushed cracker crumbs
+      INGREDIENT SPAN: the crushed cracker crumbs
+         INGREDIENTS: crushed buttery round crackers
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 15
+SENT: I would dot the top of the casserole with about 6 thin slices of butter .
+PREDID: 842
+PRED: dot
+   DOBJ: the top of the casserole
+      NON-INGREDIENT SPAN: the top of the casserole
+   PARG: about 6 thin slices of butter
+     PREP: with
+      INGREDIENT SPAN: about 6 thin slices of butter
+         INGREDIENTS: butter
+
+
+SENTID: 16
+SENT: I would bake in the preheated oven until the cracker topping is crisp and golden brown , about 1 hour .
+PREDID: 894
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cracker topping is crisp, golden brown , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN: the cracker topping is crisp
+
+

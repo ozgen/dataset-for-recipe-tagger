@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 9x13-inch baking dish with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 80
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 8 minutes ;
+PREDID: 122
+PRED: cook
+   DOBJ: NULL
+   PARG: elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 8 minutes
+     PREP: for
+      INGREDIENT SPAN: elbow macaroni in the boiling water 
+         INGREDIENTS: ounce package elbow macaroni
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  8 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 222
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would reserve 1/2 cup shredded mild Cheddar cheese for later use
+PREDID: 228
+PRED: reserve
+   DOBJ: 1/2 cup shredded mild Cheddar cheese for later use
+      INGREDIENT SPAN: 1/2 cup shredded mild Cheddar cheese for later use
+         INGREDIENTS: ounce package sharp Cheddar cheese shredded
+
+
+SENTID: 6
+SENT: I would mix mild Cheddar cheese , sharp Cheddar cheese , sour cream , cottage cheese , and egg together in a bowl ;
+PREDID: 277
+PRED: mix
+   DOBJ: mild Cheddar cheese , sharp Cheddar cheese , sour cream , cottage cheese , egg
+      INGREDIENT SPAN: mild Cheddar cheese 
+         INGREDIENTS: ounce package sharp Cheddar cheese shredded
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  sharp Cheddar cheese 
+         INGREDIENTS: ounce packages mild Cheddar cheese shredded divided
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 363
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would stir cooked macaroni into cheese mixture .
+PREDID: 387
+PRED: stir
+   DOBJ: cooked macaroni
+      NON-INGREDIENT SPAN: cooked macaroni
+   PARG: cheese mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cheese mixture
+
+
+SENTID: 9
+SENT: I would pour macaroni mixture evenly into the prepared baking dish ;
+PREDID: 423
+PRED: pour
+   DOBJ: macaroni mixture
+      NON-INGREDIENT SPAN: macaroni mixture
+   OARG: evenly into the prepared baking dish
+      NON-INGREDIENT SPAN: evenly into the prepared baking dish
+
+
+SENTID: 10
+SENT: I would sprinkle with the reserved 1/2 cup Cheddar cheese .
+PREDID: 474
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the reserved 1/2 cup cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the reserved 1/2 cup cheddar cheese
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until cheese is melted and bubbling , 40 minutes .
+PREDID: 517
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted, bubbling , 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  40 minutes
+      NON-INGREDIENT SPAN:  bubbling 
+
+
+SENTID: 12
+SENT: I would let cool for 10 minutes before serving .
+PREDID: 580
+PRED: let
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: cool for 10 minutes
+      NON-INGREDIENT SPAN: cool for 10 minutes
+
+

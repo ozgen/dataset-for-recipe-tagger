@@ -1,0 +1,52 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="saute
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="reduce
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="simmer
+6", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: the onion, the ground beef", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large saucepan over medium heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: for 10 minutes, or until meat is browned and onion is tender.", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+D2_0[label="DOBJ: grease", shape=box, style=filled, fillcolor=white]
+D2_0 -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+D3_0[label="DOBJ: he ground black pepper", shape=box, style=filled, fillcolor=white]
+D3_0 -> E3
+D3_1[label="DOBJ: garlic salt", shape=box, style=filled, fillcolor=white]
+D3_1 -> E3
+D3_2[label="DOBJ: tomato sauce", shape=box, style=filled, fillcolor=white]
+D3_2 -> E3
+D3_3[label="DOBJ: salsa", shape=box, style=filled, fillcolor=white]
+D3_3 -> E3
+D3_4[label="DOBJ: chili seasoning mix", shape=box, style=filled, fillcolor=white]
+D3_4 -> E3
+D3_5[label="DOBJ: kidney beans", shape=box, style=filled, fillcolor=white]
+D3_5 -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: well", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+D5_0[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D5_0 -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+O5_0_0[label="OTHER: to low", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: for at least an hour", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

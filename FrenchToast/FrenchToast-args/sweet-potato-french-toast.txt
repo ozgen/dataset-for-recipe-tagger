@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would whisk together the sweet potato , the eggs , the cinnamon , and nutmeg until smooth .
+PREDID: 0
+PRED: whisk
+   DOBJ: the sweet potato , the eggs , the cinnamon , nutmeg
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: the sweet potato 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would dip the bread into the egg mixture on both sides for several seconds until the bread is moist all the way through .
+PREDID: 63
+PRED: dip
+   DOBJ: the bread
+      INGREDIENT SPAN: the bread
+         INGREDIENTS: slices whole wheat bread
+   PARG: the egg mixture on both sides for several seconds
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture on both sides for several seconds
+   PARG: the bread is moist all the way through
+     PREP: until
+      NON-INGREDIENT SPAN: the bread is moist all the way through
+
+
+SENTID: 2
+SENT: I would heat a large , lightly-oiled skillet over medium heat .
+PREDID: 156
+PRED: heat
+   DOBJ: a large , lightly-oiled skillet
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  lightly-oiled skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would cook the French toast in batches until golden brown on each side and no longer wet in the center , about 4 minutes per side .
+PREDID: 202
+PRED: cook
+   DOBJ: the French toast in batches
+      NON-INGREDIENT SPAN: the French toast in batches
+   PARG: golden brown on each side
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on each side
+   OARG: no longer wet in the center , about 4 minutes per side
+      NON-INGREDIENT SPAN:  about 4 minutes per side
+      NON-INGREDIENT SPAN: no longer wet in the center 
+
+

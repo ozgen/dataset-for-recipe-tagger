@@ -1,0 +1,222 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5-inch loaf pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x5-inch loaf pan
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+
+
+SENTID: 2
+SENT: I would tear the pumpernickel into pieces , and place into the work bowl of a food processor .
+PREDID: 61
+PRED: tear
+   DOBJ: the pumpernickel
+      INGREDIENT SPAN: the pumpernickel
+         INGREDIENTS: slices pumpernickel bread
+   PARG: pieces
+     PREP: into
+      NON-INGREDIENT SPAN: pieces
+
+PREDID: 94
+PRED: place
+   DOBJ: NULL
+   PARG: the work bowl of a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: the work bowl of a food processor
+
+
+SENTID: 3
+SENT: I would pulse several times to chop the bread into crumbs .
+PREDID: 131
+PRED: pulse
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+   OARG: to chop the bread into crumbs
+      NON-INGREDIENT SPAN: to chop the bread into crumbs
+
+
+SENTID: 4
+SENT: I would lightly mix the pumpernickel crumbs , ground chuck , ground pork , the egg , the onion , diced tomatoes , 1/4 cup of the reserved juice from the tomatoes , green pepper , onion powder , garlic salt , black pepper , Worcestershire sauce , and soy sauce together in a bowl until the mixture is very well combined .
+PREDID: 180
+PRED: mix
+   DOBJ: the pumpernickel crumbs , ground chuck , ground pork , the egg , the onion , diced tomatoes , 1/4 cup of the reserved juice from the tomatoes , green pepper , onion powder , garlic salt , black pepper , Worcestershire sauce , soy sauce
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: dashes Worcestershire sauce
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: petitecut diced tomatoes sweet onions drained juice
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: dashes soy sauce
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  ground chuck 
+         INGREDIENTS: ground chuck
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: chopped green pepper
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: chopped sweet onion
+      NON-INGREDIENT SPAN: the pumpernickel crumbs 
+      NON-INGREDIENT SPAN:  1/4 cup of the reserved juice from the tomatoes 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: the mixture is very well combined
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is very well combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: Do not over mix , or the meat loaf will be tough .
+
+SENTID: 6
+SENT: I would place half the meat mixture into the bottom of the prepared loaf pan , and gently press to smooth the top .
+PREDID: 419
+PRED: place
+   DOBJ: half the meat mixture
+      NON-INGREDIENT SPAN: half the meat mixture
+   PARG: the bottom of the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared loaf pan
+
+PREDID: 485
+PRED: press
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to smooth the top
+      NON-INGREDIENT SPAN: to smooth the top
+
+
+SENTID: 7
+SENT: I would place 3 slices of Swiss cheese over the meat mixture , and spread the sliced mushrooms evenly over the cheese .
+PREDID: 505
+PRED: place
+   DOBJ: 3 slices of Swiss cheese
+      INGREDIENT SPAN: 3 slices of Swiss cheese
+         INGREDIENTS: slices delisliced Swiss cheese
+   PARG: the meat mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the meat mixture
+
+PREDID: 552
+PRED: spread
+   DOBJ: NULL
+   PARG: the cheese
+     PREP: over
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: slices delisliced Swiss cheese
+   OARG: the sliced mushrooms evenly
+      INGREDIENT SPAN: the sliced mushrooms evenly
+         INGREDIENTS: ounce sliced mushrooms drained
+
+
+SENTID: 8
+SENT: I would top the mushrooms with the remaining 3 slices of Swiss cheese , and spread the rest of the meat mixture in an even layer over the cheese .
+PREDID: 596
+PRED: top
+   DOBJ: the mushrooms
+      NON-INGREDIENT SPAN: the mushrooms
+   PARG: the remaining 3 slices of swiss cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining 3 slices of swiss cheese
+
+PREDID: 651
+PRED: spread
+   DOBJ: the rest of the meat mixture
+      NON-INGREDIENT SPAN: the rest of the meat mixture
+   PARG: an even layer over the cheese
+     PREP: in
+      NON-INGREDIENT SPAN: an even layer over the cheese
+
+
+SENTID: 9
+SENT: I would press the top gently to smooth .
+PREDID: 707
+PRED: press
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to smooth
+      NON-INGREDIENT SPAN: to smooth
+
+
+SENTID: 10
+SENT: I would bake the meatloaf in the preheated oven for 45 minutes ,
+PREDID: 733
+PRED: bake
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: the preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 minutes
+
+
+SENTID: 11
+SENT: I would remove from oven and spread with the chili sauce in an even layer .
+PREDID: 779
+PRED: remove
+   DOBJ: NULL
+   PARG: oven, spread
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+      NON-INGREDIENT SPAN:  spread
+   PARG: the chili sauce in an even layer
+     PREP: with
+      INGREDIENT SPAN: the chili sauce in an even layer
+         INGREDIENTS: bottled sweet chili sauce
+
+
+SENTID: 12
+SENT: I would return the meatloaf to the oven and bake until the juices run clear and the chili sauce has thickened into a glaze , about 15 more minutes .
+PREDID: 833
+PRED: return
+   DOBJ: the meatloaf
+      NON-INGREDIENT SPAN: the meatloaf
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+   OARG: the chili sauce has thickened into a glaze , about 15 more minutes
+      NON-INGREDIENT SPAN:  about 15 more minutes
+      NON-INGREDIENT SPAN: the chili sauce has thickened into a glaze 
+
+PREDID: 862
+PRED: bake
+   DOBJ: NULL
+   PARG: the juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: the juices run clear
+
+
+SENTID: 13
+SENT: I would let the meatloaf stand for 10 minutes before slicing .
+PREDID: 946
+PRED: let
+   DOBJ: NULL
+   PARG: the meatloaf stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the meatloaf stand for 10 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

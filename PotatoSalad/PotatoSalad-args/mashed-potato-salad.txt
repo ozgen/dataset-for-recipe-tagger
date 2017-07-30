@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would cube potatoes , if desired you may peel them .
+PREDID: 0
+PRED: cube
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 1
+SENT: I would place potatoes in a large saucepan and cover with water .
+PREDID: 37
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: Yukon Gold potatoes
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 69
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would cook over medium heat until potatoes are tender .
+PREDID: 84
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 3
+SENT: I would drain and place cooked potatoes in a large bowl .
+PREDID: 125
+PRED: drain and place
+   DOBJ: cooked potatoes in a large bowl
+      NON-INGREDIENT SPAN: cooked potatoes in a large bowl
+
+
+SENTID: 4
+SENT: I would mash potatoes with butter and salt and pepper to taste .
+PREDID: 165
+PRED: mash
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: butter, salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: Once mashed stir in the mayonnaise , I would the mustard and sour cream , mixing well .
+
+SENTID: 6
+SENT: I would stir in the celery , onion , pickles and green pepper .
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: the celery , onion , pickles, green pepper
+     PREP: in
+      INGREDIENT SPAN:  pickles
+         INGREDIENTS: small sweet pickles chopped
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: red onion diced
+      NON-INGREDIENT SPAN:  green pepper
+
+
+SENTID: 7
+SENT: I would serve warm or at room temperature .
+PREDID: 255
+PRED: serve
+   DOBJ: NULL
+   OARG: warm or at room temperature
+      NON-INGREDIENT SPAN: warm or at room temperature
+
+

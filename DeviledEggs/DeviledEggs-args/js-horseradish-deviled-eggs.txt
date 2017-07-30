@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: I would cut eggs in half lengthwise ;
+PREDID: 0
+PRED: cut
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: cooked eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 1
+SENT: I would remove yolks and set whites aside .
+PREDID: 24
+PRED: remove
+   DOBJ: yolks, set whites
+      NON-INGREDIENT SPAN: yolks
+      NON-INGREDIENT SPAN:  set whites
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would mix egg yolks , the mayonnaise , the mustard , the horseradish , the shallots , and seasoned salt in a bowl until smooth .
+PREDID: 53
+PRED: mix
+   DOBJ: egg yolks , the mayonnaise , the mustard , the horseradish , the shallots , seasoned salt in a bowl
+      INGREDIENT SPAN:  the shallots 
+         INGREDIENTS: chopped shallots
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  seasoned salt in a bowl
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  the horseradish 
+         INGREDIENTS: prepared horseradish
+      NON-INGREDIENT SPAN: egg yolks 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pipe or spoon yolk mixture into egg whites ;
+PREDID: 139
+PRED: pipe or spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: egg whites
+
+
+SENTID: 4
+SENT: I would top each with a leaf of cilantro .
+PREDID: 175
+PRED: top
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: a leaf of cilantro
+     PREP: with
+      INGREDIENT SPAN: a leaf of cilantro
+         INGREDIENTS: fresh cilantro leaves
+
+

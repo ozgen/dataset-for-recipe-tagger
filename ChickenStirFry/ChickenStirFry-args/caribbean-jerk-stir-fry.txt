@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would heat the oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir the bell pepper and onion in the oil until slightly tender , 5 to 7 minutes .
+PREDID: 45
+PRED: cook and stir
+   DOBJ: the bell pepper, onion in the oil
+      INGREDIENT SPAN: the bell pepper
+         INGREDIENTS: green bell pepper seeded cubed
+      INGREDIENT SPAN:  onion in the oil
+         INGREDIENTS: sliced sweet onions
+   PARG: slightly tender , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: slightly tender 
+
+
+SENTID: 2
+SENT: I would remove pepper and onion from the skillet and set aside .
+PREDID: 117
+PRED: remove
+   DOBJ: pepper, onion
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: red bell pepper seeded cubed
+      NON-INGREDIENT SPAN:  onion
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 154
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would add the chicken to the skillet ;
+PREDID: 163
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast cut strips
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would season with jerk seasoning ;
+PREDID: 189
+PRED: season
+   DOBJ: NULL
+   PARG: jerk seasoning
+     PREP: with
+      INGREDIENT SPAN: jerk seasoning
+         INGREDIENTS: Caribbean jerk seasoning
+
+
+SENTID: 5
+SENT: I would cook and stir chicken until no longer pink inside .
+PREDID: 213
+PRED: cook and stir
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: no longer pink inside
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink inside
+
+
+SENTID: 6
+SENT: I would pour the plum sauce in with the chicken ;
+PREDID: 255
+PRED: pour
+   DOBJ: the plum sauce
+      INGREDIENT SPAN: the plum sauce
+         INGREDIENTS: plum sauce
+   PARG: with the chicken
+     PREP: in
+      NON-INGREDIENT SPAN: with the chicken
+
+
+SENTID: 7
+SENT: I would add the bell peppers and onions ;
+PREDID: 288
+PRED: add
+   DOBJ: the bell peppers, onions
+      NON-INGREDIENT SPAN:  onions
+      NON-INGREDIENT SPAN: the bell peppers
+
+
+SENTID: 8
+SENT: I would toss to combine .
+PREDID: 315
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 9
+SENT: I would cook until the peppers and onions are heated completely , 3 to 5 minutes .
+PREDID: 329
+PRED: cook
+   DOBJ: NULL
+   PARG: the peppers, onions are heated completely , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  onions are heated completely 
+      NON-INGREDIENT SPAN: the peppers
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 10
+SENT: I would sprinkle with soy sauce and chopped peanuts to serve .
+PREDID: 389
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: soy sauce, chopped peanuts
+     PREP: with
+      INGREDIENT SPAN:  chopped peanuts
+         INGREDIENTS: chopped roasted peanuts
+      INGREDIENT SPAN: soy sauce
+         INGREDIENTS: soy sauce
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

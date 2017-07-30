@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease an 8-inch square pan .
+PREDID: 45
+PRED: grease
+   DOBJ: an 8-inch square pan
+      NON-INGREDIENT SPAN: an 8-inch square pan
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 69
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 111
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+         INGREDIENTS: firm tart apples cored quartered sliced
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 212
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would beat cream cheese and brown sugar together in a bowl using an electric mixer until smooth and creamy ;
+PREDID: 218
+PRED: beat
+   DOBJ: cream cheese, brown sugar
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar more taste
+   PARG: a bowl using an electric mixer until smooth, creamy
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl using an electric mixer until smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would beat in cottage cheese , the egg , egg whites , vanilla extract , the cinnamon , and nutmeg until well combined .
+PREDID: 302
+PRED: beat
+   DOBJ: NULL
+   PARG: cottage cheese , the egg , egg whites , vanilla extract , the cinnamon , nutmeg
+     PREP: in
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: ounce package cottage cheese
+      INGREDIENT SPAN:  egg whites 
+         INGREDIENTS: egg whites
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 7
+SENT: I would fold noodles and apples into cheese mixture by hand ;
+PREDID: 387
+PRED: fold
+   DOBJ: noodles, apples
+      NON-INGREDIENT SPAN: noodles
+      NON-INGREDIENT SPAN:  apples
+   PARG: cheese mixture
+     PREP: into
+      NON-INGREDIENT SPAN: cheese mixture
+   PARG: hand
+     PREP: by
+      NON-INGREDIENT SPAN: hand
+
+
+SENTID: 8
+SENT: I would spread into the prepared pan .
+PREDID: 431
+PRED: spread
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until kugel is lightly browned and firm , 45 to 50 minutes .
+PREDID: 456
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: kugel is lightly browned, firm , 45 to 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 to 50 minutes
+      NON-INGREDIENT SPAN:  firm 
+      NON-INGREDIENT SPAN: kugel is lightly browned
+
+

@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would pour coffee into a slow cooker and set slow cooker to High ;
+PREDID: 0
+PRED: pour
+   DOBJ: coffee
+      INGREDIENT SPAN: coffee
+         INGREDIENTS: strong brewed coffee
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 28
+PRED: set
+   DOBJ: slow cooker
+      NON-INGREDIENT SPAN: slow cooker
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 1
+SENT: I would add diced tomatoes , the beer , tomato paste , beef broth , brown sugar , chili sauce , jalapeno peppers , the cumin , cocoa powder , chile powder , the oregano , cayenne pepper , the coriander , and salt .
+PREDID: 48
+PRED: add
+   DOBJ: diced tomatoes , the beer , tomato paste , beef broth , brown sugar , chili sauce , jalapeno peppers , the cumin , cocoa powder , chile powder , the oregano , cayenne pepper , the coriander , salt
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  beef broth 
+         INGREDIENTS: beef broth
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  chile powder 
+         INGREDIENTS: ground ancho chile powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: cocoa powder
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: chopped jalapeno peppers
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: ketchupstyle chili sauce such Heinz
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle porterstyle beer
+
+
+SENTID: 2
+SENT: I would heat oil in a large skillet over medium heat .
+PREDID: 200
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook and stir ground beef , the onions , and garlic in the skillet until the beef is browned completely , 7 to 10 minutes ;
+PREDID: 237
+PRED: cook and stir
+   DOBJ: ground beef , the onions , garlic
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: extra lean ground beef
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the beef is browned completely , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is browned completely 
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+
+
+SENTID: 4
+SENT: I would add to mixture in the slow cooker .
+PREDID: 332
+PRED: add
+   DOBJ: NULL
+   PARG: mixture in the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: mixture in the slow cooker
+
+
+SENTID: 5
+SENT: I would slowly pour cornmeal into the slow cooker while stirring to assure no lumps .
+PREDID: 366
+PRED: pour
+   DOBJ: cornmeal
+      INGREDIENT SPAN: cornmeal
+         INGREDIENTS: cornmeal
+   PARG: the slow cooker while stirring to assure no lumps
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker while stirring to assure no lumps
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 6
+SENT: I would reduce heat to Low and cook for 2 hours .
+PREDID: 424
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 442
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+

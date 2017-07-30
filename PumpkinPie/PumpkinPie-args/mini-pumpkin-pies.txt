@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would roll each pie crust out onto a floured surface to a rough rectangle about 11 inches square .
+PREDID: 38
+PRED: roll
+   DOBJ: each pie crust
+      INGREDIENT SPAN: each pie crust
+         INGREDIENTS: prepared pie crusts
+   PARG: a floured surface to a rough rectangle about 11 inches square
+     PREP: onto
+      NON-INGREDIENT SPAN: a floured surface to a rough rectangle about 11 inches square
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would cut each pie crust into 12 3-inch rounds .
+PREDID: 113
+PRED: cut
+   DOBJ: each pie crust
+      INGREDIENT SPAN: each pie crust
+         INGREDIENTS: pumpkin pie spice
+   PARG: 12 3-inch rounds
+     PREP: into
+      NON-INGREDIENT SPAN: 12 3-inch rounds
+
+
+SENTID: 3
+SENT: I would fit the little pie crust circles into 24 mini pie dishes .
+PREDID: 147
+PRED: fit
+   DOBJ: the little pie crust circles
+      NON-INGREDIENT SPAN: the little pie crust circles
+   PARG: 24 mini pie dishes
+     PREP: into
+      NON-INGREDIENT SPAN: 24 mini pie dishes
+
+
+SENTID: 4
+SENT: I would separate one egg , and place the egg white into a small bowl .
+PREDID: 194
+PRED: separate
+   DOBJ: one egg
+      INGREDIENT SPAN: one egg
+         INGREDIENTS: eggs divided
+
+PREDID: 212
+PRED: place
+   DOBJ: NULL
+   OARG: the egg white into a small bowl
+      INGREDIENT SPAN: the egg white into a small bowl
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: I would beat the egg white until slightly frothy , and brush the edges of each mini pie crust with egg white .
+PREDID: 243
+PRED: beat
+   DOBJ: NULL
+   OARG: the egg white until slightly frothy
+      NON-INGREDIENT SPAN: the egg white until slightly frothy
+
+PREDID: 281
+PRED: brush
+   DOBJ: NULL
+   OARG: the edges of each mini pie crust with egg white
+      NON-INGREDIENT SPAN: the edges of each mini pie crust with egg white
+
+
+SENTID: 6
+SENT: I would place the remaining yolk into a bowl , and beat with remaining 2 eggs .
+PREDID: 325
+PRED: place
+   DOBJ: the remaining yolk
+      NON-INGREDIENT SPAN: the remaining yolk
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 359
+PRED: beat
+   DOBJ: NULL
+   PARG: remaining 2 eggs
+     PREP: with
+      NON-INGREDIENT SPAN: remaining 2 eggs
+
+
+SENTID: 7
+SENT: I would mix the softened cream cheese , the sugar , the pumpkin , vanilla extract , and pumpkin pie spice into the eggs to make a smooth filling .
+PREDID: 382
+PRED: mix
+   DOBJ: the softened cream cheese , the sugar , the pumpkin , vanilla extract , pumpkin pie spice
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN: the softened cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN:  pumpkin pie spice
+      NON-INGREDIENT SPAN:  the sugar 
+   PARG: the eggs
+     PREP: into
+      NON-INGREDIENT SPAN: the eggs
+   OARG: to make a smooth filling
+      NON-INGREDIENT SPAN: to make a smooth filling
+
+
+SENTID: 8
+SENT: I would spoon about 2 tablespoons of the filling into each crust .
+PREDID: 487
+PRED: spoon
+   DOBJ: about 2 tablespoons of the filling
+      NON-INGREDIENT SPAN: about 2 tablespoons of the filling
+   PARG: each crust
+     PREP: into
+      NON-INGREDIENT SPAN: each crust
+
+
+SENTID: 9
+SENT: I would bake the pies in the preheated oven until the crust edges are golden brown and the filling is set , about 15 minutes .
+PREDID: 535
+PRED: bake
+   DOBJ: the pies
+      NON-INGREDIENT SPAN: the pies
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the crust edges are golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: the crust edges are golden brown
+
+PREDID: 611
+PRED: is set
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 10
+SENT: I would allow to cool before eating .
+PREDID: 630
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool before eating
+      NON-INGREDIENT SPAN: to cool before eating
+
+

@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large salad bowl combine the chicken , I would the lettuce , green onion , the celery , the nuts , the seeds and noodles .
+
+SENTID: 1
+SENT: I would mix all together .
+PREDID: 0
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 15
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: To Make Dressing :
+
+SENTID: 4
+SENT: I would put vinegar in a small bowl .
+PREDID: 39
+PRED: put
+   DOBJ: vinegar
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: seasoned rice vinegar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 5
+SENT: I would dissolve sugar and salt in vinegar before adding oil .
+PREDID: 62
+PRED: dissolve
+   DOBJ: sugar, salt in vinegar
+      INGREDIENT SPAN:  salt in vinegar
+         INGREDIENTS: salt
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: adding oil
+     PREP: before
+      INGREDIENT SPAN: adding oil
+         INGREDIENTS: peanut oil
+
+
+SENTID: 6
+SENT: I would shake/Beat well .
+PREDID: 107
+PRED: shake/beat
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would add the dressing to salad and toss to coat .
+PREDID: 122
+PRED: add
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: salad
+     PREP: to
+      NON-INGREDIENT SPAN: salad
+
+PREDID: 146
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 8
+SENT: I would serve and enjoy !
+PREDID: 154
+PRED: serve and enjoy
+   DOBJ: NULL
+
+

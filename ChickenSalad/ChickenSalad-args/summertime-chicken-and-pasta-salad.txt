@@ -1,0 +1,292 @@
+SENTID: 0
+SENT: I would hard boil the eggs by placing them into a saucepan in a single layer .
+PREDID: 4
+PRED: boil
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: placing them into a saucepan in a single layer
+     PREP: by
+      NON-INGREDIENT SPAN: placing them into a saucepan in a single layer
+   OARG: hard
+      NON-INGREDIENT SPAN: hard
+
+
+SENTID: 1
+SENT: I would fill with water to cover the eggs by 1 inch .
+PREDID: 56
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 2
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 91
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 110
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: Once the water is boiling , I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 165
+PRED: remove
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 185
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 4
+SENT: I would pour out the hot water ,
+PREDID: 226
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would cool the eggs under cold running water in the sink .
+PREDID: 245
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water in the sink
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water in the sink
+
+
+SENTID: 6
+SENT: I would peel once cold .
+PREDID: 287
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 7
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 300
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 338
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 8
+SENT: Once the water is boiling , I would stir in the bow tie pasta and return to a boil .
+PREDID: 392
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the bow tie pasta
+     PREP: in
+      INGREDIENT SPAN: the bow tie pasta
+         INGREDIENTS: ounce package farfalle bow tie pasta
+
+PREDID: 415
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes .
+PREDID: 429
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN:  about 12 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 10
+SENT: I would drain well in a colander set in the sink , and rinse with cold water .
+PREDID: 541
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 577
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 11
+SENT: I would simmer the chicken tenders in about 1/4 cup of water in a saucepan over medium-low heat , until no longer pink inside .
+PREDID: 596
+PRED: simmer
+   DOBJ: the chicken tenders in about 1/4 cup of water
+      INGREDIENT SPAN: the chicken tenders in about 1/4 cup of water
+         INGREDIENTS: chicken tenders
+   PARG: a saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium-low heat
+   PARG: no longer pink inside
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink inside
+
+
+SENTID: 12
+SENT: I would remove the tenders from the water , and set aside to cool .
+PREDID: 693
+PRED: remove
+   DOBJ: the tenders
+      INGREDIENT SPAN: the tenders
+         INGREDIENTS: chicken tenders
+   PARG: the water
+     PREP: from
+      NON-INGREDIENT SPAN: the water
+
+PREDID: 725
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 13
+SENT: I would cut the tenders into bite-size pieces .
+PREDID: 740
+PRED: cut
+   DOBJ: the tenders
+      NON-INGREDIENT SPAN: the tenders
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 14
+SENT: I would slice the eggs .
+PREDID: 773
+PRED: slice
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+
+
+SENTID: 15
+SENT: I would combine the cooked pasta , the chicken , the eggs , the cucumber , the radishes , the carrots , green onions , and red onion in a salad bowl , and pour the Italian dressing over .
+PREDID: 786
+PRED: combine
+   DOBJ: the cooked pasta , the chicken , the eggs , the cucumber , the radishes , the carrots , green onions , red onion in a salad bowl
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots peeled sliced
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber sliced
+      INGREDIENT SPAN:  red onion in a salad bowl
+         INGREDIENTS: ounce bottle Italianstyle salad dressing
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: bunch radishes trimmed sliced
+      INGREDIENT SPAN:  red onion in a bowl
+         INGREDIENTS: green onions sliced
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN:  the chicken 
+      NON-INGREDIENT SPAN: the cooked pasta 
+
+PREDID: 901
+PRED: pour
+   DOBJ: the Italian dressing
+      NON-INGREDIENT SPAN: the Italian dressing
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 16
+SENT: I would toss lightly to mix , and refrigerate the salad for at least 1 hour , or until cold .
+PREDID: 913
+PRED: toss
+   DOBJ: NULL
+   PARG: mix
+     PREP: to
+      NON-INGREDIENT SPAN: mix
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 933
+PRED: refrigerate
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: at least 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1 hour
+
+
+SENTID: 17
+SENT: I would place about 3/4 cup of sliced romaine hearts on each plate ,
+PREDID: 980
+PRED: place
+   DOBJ: about 3/4 cup of sliced romaine hearts
+      INGREDIENT SPAN: about 3/4 cup of sliced romaine hearts
+         INGREDIENTS: romaine lettuce hearts sliced
+   PARG: each plate
+     PREP: on
+      NON-INGREDIENT SPAN: each plate
+
+
+SENTID: 18
+SENT: I would top with about 1 cup of pasta-chicken salad to serve .
+PREDID: 1029
+PRED: top
+   DOBJ: NULL
+   PARG: about 1 cup of pasta-chicken salad
+     PREP: with
+      NON-INGREDIENT SPAN: about 1 cup of pasta-chicken salad
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

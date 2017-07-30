@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would pour 1/2 cup caramel topping into bottom of graham cracker crust .
+PREDID: 0
+PRED: pour
+   DOBJ: 1/2 cup caramel topping into bottom of graham cracker crust
+      INGREDIENT SPAN: 1/2 cup caramel topping into bottom of 
+         INGREDIENTS: caramel dessert topping
+      INGREDIENT SPAN: 1/2 cup caramel topping into bottom of graham cracker crust
+         INGREDIENTS: ounce graham cracker crust such Nabisco Honey Maid
+
+
+SENTID: 1
+SENT: I would sprinkle 1/2 cup chopped pecans over caramel layer .
+PREDID: 55
+PRED: sprinkle
+   DOBJ: 1/2 cup chopped pecans
+      INGREDIENT SPAN: 1/2 cup chopped pecans
+         INGREDIENTS: chopped pecans
+   PARG: caramel layer
+     PREP: over
+      NON-INGREDIENT SPAN: caramel layer
+
+
+SENTID: 2
+SENT: I would whisk pumpkin puree , cold milk , pudding mixes , cinnamon , and nutmeg together in a bowl until smooth ;
+PREDID: 99
+PRED: whisk
+   DOBJ: NULL
+   OARG: pumpkin puree , cold milk , pudding mixes , cinnamon , nutmeg together in a bowl until smooth
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  cold milk 
+         INGREDIENTS: cold milk
+      INGREDIENT SPAN:  nutmeg together in a bowl until smooth
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  pudding mixes 
+         INGREDIENTS: ounce packages vanilla instant pudding mix such Jell-O
+
+
+SENTID: 3
+SENT: I would stir in 1?1/2 cups whipped topping .
+PREDID: 184
+PRED: stir
+   DOBJ: NULL
+   PARG: 1?1/2 cups whipped topping
+     PREP: in
+      INGREDIENT SPAN: 1?1/2 cups whipped topping
+         INGREDIENTS: ounce container frozen whipped topping such Cool Whip divided
+
+
+SENTID: 4
+SENT: I would spread pumpkin mixture over caramel and pecans in pie crust ;
+PREDID: 214
+PRED: spread
+   DOBJ: pumpkin mixture over caramel, pecans
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: pecan
+      NON-INGREDIENT SPAN: pumpkin mixture over caramel
+   PARG: pie crust
+     PREP: in
+      NON-INGREDIENT SPAN: pie crust
+
+
+SENTID: 5
+SENT: I would top with remaining whipped topping .
+PREDID: 265
+PRED: top
+   DOBJ: NULL
+   PARG: remaining whipped topping
+     PREP: with
+      NON-INGREDIENT SPAN: remaining whipped topping
+
+
+SENTID: 6
+SENT: I would refrigerate pie until chilled and set , about 1 hour .
+PREDID: 296
+PRED: refrigerate
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: chilled, set , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  set 
+
+
+SENTID: 7
+SENT: I would sprinkle 2 tablespoons pecans over pie .
+PREDID: 340
+PRED: sprinkle
+   DOBJ: 2 tablespoons pecans
+      NON-INGREDIENT SPAN: 2 tablespoons pecans
+   PARG: pie
+     PREP: over
+      NON-INGREDIENT SPAN: pie
+
+
+SENTID: 8
+SENT: I would drizzle 2 tablespoons caramel topping over pie using a fork .
+PREDID: 374
+PRED: drizzle
+   DOBJ: NULL
+   OARG: 2 tablespoons caramel topping over pie using a fork
+      NON-INGREDIENT SPAN: 2 tablespoons caramel topping over pie using a fork
+
+

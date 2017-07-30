@@ -1,0 +1,43 @@
+digraph recipe {
+E0[label="melt (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook and stir (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="whisk (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: butter
+(text: butter)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a large skillet over medium heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1_ing[label="DOBJ: sunflower kernels, (3 ounce) package ramen noodles
+(text: sunflower kernels, ramen noodles)", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="OUTPUT: 
+INPUT: in hot butter"]
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: from heat", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: into a bowl to cool", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: ramen noodles"]
+D4_1[label="DOBJ: sunflower seeds", shape=box, style=filled, fillcolor=white]
+D4_1 -> E4
+P4_0_ing[label="PREP: with head napa cabbage, spring onions
+(text: with napa cabbage, spring onions in a large salad bowl)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+D5_ing[label="DOBJ: vegetable oil, white sugar, vinegar, soy sauce
+(text:  vegetable oil , soy sauce,  sugar , vinegar )", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="OUTPUT: 
+INPUT: in a separate bowl"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

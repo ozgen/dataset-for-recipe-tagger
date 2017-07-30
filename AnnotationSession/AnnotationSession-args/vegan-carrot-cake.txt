@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would prepare a 9x13 inch baking pan with cooking spray .
+PREDID: 38
+PRED: prepare
+   DOBJ: a 9x13 inch baking pan
+      INGREDIENT SPAN: a 9x13 inch baking pan
+         INGREDIENTS: baking soda
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: I would whisk together the whole wheat flour , soy flour , cinnamon , ground cloves , baking soda , tapioca starch , and salt in a bowl until blended ;
+PREDID: 80
+PRED: whisk
+   DOBJ: the whole wheat flour , soy flour , cinnamon , ground cloves , baking soda , tapioca starch , salt in a bowl
+      INGREDIENT SPAN:  cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: the whole wheat flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  tapioca starch 
+         INGREDIENTS: tapioca starch
+      INGREDIENT SPAN:  soy flour 
+         INGREDIENTS: soy flour
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  ground cloves 
+         INGREDIENTS: ground cloves
+      NON-INGREDIENT SPAN:  baking soda 
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 195
+PRED: set
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would pour the hot water into a mixing bowl , and sprinkle with the flax meal .
+PREDID: 204
+PRED: pour
+   DOBJ: the hot water
+      INGREDIENT SPAN: the hot water
+         INGREDIENTS: hot water
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+PREDID: 238
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the flax meal
+     PREP: with
+      INGREDIENT SPAN: the flax meal
+         INGREDIENTS: flax seed meal
+
+
+SENTID: 5
+SENT: I would stir for a minute until the flax begins to absorb the water , and the mixture slightly thickens .
+PREDID: 262
+PRED: stir
+   DOBJ: NULL
+   PARG: a minute
+     PREP: for
+      NON-INGREDIENT SPAN: a minute
+
+
+SENTID: 6
+SENT: I would stir in the brown sugar and vanilla until the sugar has dissolved , then add the currants , carrots , and almonds .
+PREDID: 341
+PRED: stir
+   DOBJ: NULL
+   PARG: the brown sugar, vanilla
+     PREP: in
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: the brown sugar
+         INGREDIENTS: packed brown sugar
+
+
+SENTID: 7
+SENT: I would stir in the dry mixture until just moistened , then pour into the prepared pan .
+PREDID: 434
+PRED: stir
+   DOBJ: NULL
+   PARG: the dry mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the dry mixture
+
+PREDID: 476
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , about 30 minutes .
+PREDID: 499
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+
+
+SENTID: 9
+SENT: I would cool in the pan for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 586
+PRED: cool
+   DOBJ: NULL
+   PARG: the pan for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pan for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+

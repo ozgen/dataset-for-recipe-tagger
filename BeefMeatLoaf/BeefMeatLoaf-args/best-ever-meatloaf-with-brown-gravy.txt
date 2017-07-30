@@ -1,0 +1,202 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine ground beef , bread crumbs , chili sauce , the egg , the salt , and freshly ground black pepper ;
+PREDID: 51
+PRED: combine
+   DOBJ: ground beef , bread crumbs , chili sauce , the egg , the salt , freshly ground black pepper
+      INGREDIENT SPAN:  freshly ground black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: chili sauce
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: fresh bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 129
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would shape into an 8x4 inch loaf pan .
+PREDID: 137
+PRED: shape
+   DOBJ: NULL
+   PARG: an 8x4 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: an 8x4 inch loaf pan
+
+
+SENTID: 4
+SENT: I would place loaf pan on a rack in an oven-roasting pan .
+PREDID: 163
+PRED: place
+   DOBJ: loaf pan
+      NON-INGREDIENT SPAN: loaf pan
+   PARG: a rack in an oven-roasting pan
+     PREP: on
+      NON-INGREDIENT SPAN: a rack in an oven-roasting pan
+
+
+SENTID: 5
+SENT: I would bake for 1 hour , or until done .
+PREDID: 203
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour , or until done
+     PREP: for
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: 1 hour 
+
+
+SENTID: 6
+SENT: I would cook until internal temperature measures 160 degrees F -LRB- 70 degrees C -RRB- ;
+PREDID: 228
+PRED: cook
+   DOBJ: NULL
+   PARG: internal temperature measures 160 degrees f -lrb- 70 degrees c
+     PREP: until
+      NON-INGREDIENT SPAN: internal temperature measures 160 degrees f -lrb- 70 degrees c
+
+
+SENTID: 7
+SENT: the meat should be well done , with no trace of pink .
+
+SENTID: 8
+SENT: I would remove from oven , and allow to rest for 10 minutes before serving .
+PREDID: 288
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 306
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest for 10 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 10 minutes before serving
+
+
+SENTID: 9
+SENT: While the meatloaf is resting , prepare the gravy .
+PREDID: 376
+PRED: prepare
+   DOBJ: the gravy
+      NON-INGREDIENT SPAN: the gravy
+   PARG: the meatloaf is
+     PREP: while
+      NON-INGREDIENT SPAN: the meatloaf is
+
+
+SENTID: 10
+SENT: In a medium saucepan , I would melt butter or margarine over medium heat .
+PREDID: 403
+PRED: melt
+   DOBJ: butter or margarine
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: butter
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 11
+SENT: I would add mushrooms and onions ;
+PREDID: 439
+PRED: add
+   DOBJ: mushrooms, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh sliced mushrooms
+
+
+SENTID: 12
+SENT: I would cook and stir until tender .
+PREDID: 461
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 13
+SENT: I would add beef broth ;
+PREDID: 484
+PRED: add
+   DOBJ: beef broth
+      INGREDIENT SPAN: beef broth
+         INGREDIENTS: beef broth
+
+
+SENTID: 14
+SENT: I would simmer for 5 minutes , stirring occasionally .
+PREDID: 497
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 15
+SENT: I would combine water and cornstarch in a small cup ;
+PREDID: 536
+PRED: combine
+   DOBJ: water, cornstarch
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+   PARG: a small cup
+     PREP: in
+      NON-INGREDIENT SPAN: a small cup
+
+
+SENTID: 16
+SENT: I would stir into broth .
+PREDID: 573
+PRED: stir
+   DOBJ: NULL
+   PARG: broth
+     PREP: into
+      NON-INGREDIENT SPAN: broth
+
+
+SENTID: 17
+SENT: I would cook and stir for 1 minute , or until thickened .
+PREDID: 587
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+

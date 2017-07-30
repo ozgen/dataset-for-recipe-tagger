@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would place chicken in a skillet , and sprinkle with lemon juice and 1/2 the rosemary .
+PREDID: 0
+PRED: place
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+PREDID: 26
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: lemon juice, 1/2 the rosemary
+     PREP: with
+      INGREDIENT SPAN:  1/2 the rosemary
+         INGREDIENTS: chopped fresh rosemary leaves
+      NON-INGREDIENT SPAN: lemon juice
+
+
+SENTID: 1
+SENT: I would pour broth into the skillet .
+PREDID: 66
+PRED: pour
+   DOBJ: broth
+      INGREDIENT SPAN: broth
+         INGREDIENTS: chicken broth
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 2
+SENT: I would bring to a boil , reduce heat to low , and simmer 25 minutes , or until chicken juices run clear .
+PREDID: 90
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 103
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 122
+PRED: simmer
+   DOBJ: NULL
+   PARG: 25 minutes , or until chicken juices run clear
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes 
+      NON-INGREDIENT SPAN:  or until chicken juices run clear
+
+
+SENTID: 3
+SENT: I would drain , cool , and dice chicken .
+PREDID: 167
+PRED: drain and cool
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 4
+SENT: In a large bowl , I would toss chicken with lemon zest , remaining rosemary , the walnuts , the celery , blue cheese , the mayonnaise , brown mustard , the salt and pepper , and garlic powder .
+PREDID: 206
+PRED: toss
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: lemon zest , remaining rosemary , the walnuts , the celery , blue cheese , the mayonnaise , brown mustard , the salt, pepper , garlic powder
+     PREP: with
+      INGREDIENT SPAN:  the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  remaining rosemary 
+         INGREDIENTS: chopped fresh rosemary leaves
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  brown mustard 
+         INGREDIENTS: brown mustard
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  blue cheese 
+         INGREDIENTS: crumbled blue cheese
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder taste
+      NON-INGREDIENT SPAN:  pepper 
+      NON-INGREDIENT SPAN: lemon zest 
+
+
+SENTID: 5
+SENT: I would chill in the refrigerator at least 1 hour before serving .
+PREDID: 329
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator at least
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator at least
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

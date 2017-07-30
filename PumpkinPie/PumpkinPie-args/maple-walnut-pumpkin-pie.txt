@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F
+      NON-INGREDIENT SPAN: oven to 425 degrees F
+
+
+SENTID: 1
+SENT: In large mixing bowl , I would combine pumpkin , sweetened condensed milk , the eggs , the cinnamon , maple flavoring , the ginger , the nutmeg and salt ;
+PREDID: 43
+PRED: combine
+   DOBJ: pumpkin , sweetened condensed milk , the eggs , the cinnamon , maple flavoring , the ginger , the nutmeg, salt
+      INGREDIENT SPAN:  maple flavoring 
+         INGREDIENTS: maple flavoring
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce EAGLE BRAND Sweetened Condensed Milk
+   PARG: large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large mixing bowl
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 131
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would pour into pie shell .
+PREDID: 139
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch Graham cracker pie crust unbaked pie shell
+
+
+SENTID: 4
+SENT: I would bake at 425 degrees F for 15 minutes .
+PREDID: 156
+PRED: bake
+   DOBJ: NULL
+   PARG: 425 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 425 degrees
+   PARG: f for 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: f for 15 minutes
+
+
+SENTID: 5
+SENT: I would reduce oven to 350 degrees F ;
+PREDID: 186
+PRED: reduce
+   DOBJ: oven to 350 degrees F
+      NON-INGREDIENT SPAN: oven to 350 degrees F
+
+
+SENTID: 6
+SENT: I would continue the baking 30 minutes .
+PREDID: 210
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 30 minutes
+
+
+SENTID: 7
+SENT: In medium mixing bowl , I would combine brown sugar , the flour and cinnamon ;
+PREDID: 253
+PRED: combine
+   DOBJ: brown sugar , the flour, cinnamon
+      INGREDIENT SPAN:  the flour
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  cinnamon
+   PARG: medium mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium mixing bowl
+
+
+SENTID: 8
+SENT: I would cut in butter until crumbly .
+PREDID: 288
+PRED: cut
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: crumbly
+
+
+SENTID: 9
+SENT: I would stir in nuts .
+PREDID: 312
+PRED: stir
+   DOBJ: NULL
+   PARG: nuts
+     PREP: in
+      NON-INGREDIENT SPAN: nuts
+
+
+SENTID: 10
+SENT: I would remove pie from oven ;
+PREDID: 323
+PRED: remove
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 11
+SENT: I would top evenly with crumb mixture .
+PREDID: 341
+PRED: top
+   DOBJ: NULL
+   PARG: crumb mixture
+     PREP: with
+      NON-INGREDIENT SPAN: crumb mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 12
+SENT: I would return to oven 10 minutes .
+PREDID: 367
+PRED: return
+   DOBJ: NULL
+   OARG: to oven 10 minutes
+      NON-INGREDIENT SPAN: to oven 10 minutes
+
+
+SENTID: 13
+SENT: I would cool .
+PREDID: 389
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 14
+SENT: I would garnish as desired .
+PREDID: 394
+PRED: garnish
+   DOBJ: NULL
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+
+SENTID: 15
+SENT: I would store covered in refrigerator .
+PREDID: 411
+PRED: store
+   DOBJ: NULL
+
+PREDID: 416
+PRED: covered
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

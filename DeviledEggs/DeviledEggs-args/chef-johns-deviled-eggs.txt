@@ -1,0 +1,245 @@
+SENTID: 0
+SENT: I would place eggs in a large pot and cover with water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: large eggs
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would bring to a simmer over high heat .
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over high heat
+
+
+SENTID: 2
+SENT: I would remove from heat , cover the pot and let the sit for 17 minutes .
+PREDID: 65
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 80
+PRED: cover
+   DOBJ: the pot
+      NON-INGREDIENT SPAN: the pot
+
+PREDID: 94
+PRED: let
+   DOBJ: NULL
+   PARG: the sit for 17 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the sit for 17 minutes
+
+
+SENTID: 3
+SENT: I would combine sugar and water in a saucepan and bring to a boil .
+PREDID: 113
+PRED: combine
+   DOBJ: sugar, water
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  water
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 147
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would pour the warm sugar syrup over the pepper rings in a small bowl .
+PREDID: 160
+PRED: pour
+   DOBJ: the warm sugar syrup
+      NON-INGREDIENT SPAN: the warm sugar syrup
+   PARG: the pepper rings in a small bowl
+     PREP: over
+      INGREDIENT SPAN: the pepper rings in a small bowl
+         INGREDIENTS: red jalapeno pepper sliced thin rings
+
+
+SENTID: 5
+SENT: I would stir and set aside .
+PREDID: 212
+PRED: stir and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would drain eggs and fill the pan with very cold water .
+PREDID: 228
+PRED: drain
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+
+PREDID: 240
+PRED: fill
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: very cold water
+     PREP: with
+      NON-INGREDIENT SPAN: very cold water
+
+
+SENTID: 7
+SENT: I would let eggs sit in cold water until they are cool enough to handle , about 15 minutes .
+PREDID: 268
+PRED: let sit
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: cold water
+     PREP: in
+      NON-INGREDIENT SPAN: cold water
+   PARG: they are cool enough
+     PREP: until
+      NON-INGREDIENT SPAN: they are cool enough
+   PARG: 15 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 8
+SENT: I would peel eggs and slice in half lengthwise .
+PREDID: 335
+PRED: peel
+   DOBJ: eggs, slice
+      NON-INGREDIENT SPAN: eggs
+      NON-INGREDIENT SPAN:  slice
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 9
+SENT: I would remove yolks to a bowl and cover the egg white halves with a damp towel while you prepare the filling .
+PREDID: 368
+PRED: remove
+   DOBJ: yolks, white halves with a damp towel
+      NON-INGREDIENT SPAN:  white halves with a damp towel
+      NON-INGREDIENT SPAN: yolks
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+   PARG: you prepare the filling
+     PREP: while
+      NON-INGREDIENT SPAN: you prepare the filling
+
+PREDID: 389
+PRED: cover
+   DOBJ: the egg
+      NON-INGREDIENT SPAN: the egg
+
+
+SENTID: 10
+SENT: I would mash together egg yolks , cream cheese , the mayonnaise , Sriracha sauce , and Dijon mustard with a spoon or spatula until just combined .
+PREDID: 451
+PRED: mash
+   DOBJ: egg yolks , cream cheese , the mayonnaise , Sriracha sauce , Dijon mustard
+      INGREDIENT SPAN:  Sriracha sauce 
+         INGREDIENTS: Sriracha taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: cream cheese
+      INGREDIENT SPAN:  Dijon mustard
+         INGREDIENTS: Dijon mustard
+      NON-INGREDIENT SPAN: egg yolks 
+   PARG: a spoon or spatula until just combined
+     PREP: with
+      NON-INGREDIENT SPAN: a spoon or spatula until just combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would stir in rice vinegar until smooth .
+PREDID: 561
+PRED: stir
+   DOBJ: NULL
+   PARG: rice vinegar
+     PREP: in
+      INGREDIENT SPAN: rice vinegar
+         INGREDIENTS: rice vinegar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 12
+SENT: I would season with salt and pepper to taste .
+PREDID: 590
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 13
+SENT: I would pipe the filling into the egg shells .
+PREDID: 621
+PRED: pipe
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the egg shells
+     PREP: into
+      NON-INGREDIENT SPAN: the egg shells
+
+
+SENTID: 14
+SENT: I would top each egg with a ring of candied pepper and chopped chives .
+PREDID: 649
+PRED: top
+   DOBJ: each egg
+      NON-INGREDIENT SPAN: each egg
+   PARG: a ring of candied pepper, chopped chives
+     PREP: with
+      INGREDIENT SPAN:  chopped chives
+         INGREDIENTS: chopped chives
+      NON-INGREDIENT SPAN: a ring of candied pepper
+
+
+SENTID: 15
+SENT: I would chill for at least 20 minutes before serving .
+PREDID: 700
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: at least 20 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

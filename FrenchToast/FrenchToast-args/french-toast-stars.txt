@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: I would place a slice of bread on a cutting board .
+PREDID: 0
+PRED: place
+   DOBJ: a slice of bread
+      INGREDIENT SPAN: a slice of bread
+         INGREDIENTS: thick slices white bread
+   PARG: a cutting board
+     PREP: on
+      NON-INGREDIENT SPAN: a cutting board
+
+
+SENTID: 1
+SENT: I would align a star-shaped cookie cutter in the center of the slice .
+PREDID: 34
+PRED: align
+   DOBJ: a star-shaped cookie cutter
+      NON-INGREDIENT SPAN: a star-shaped cookie cutter
+   PARG: the center of the slice
+     PREP: in
+      NON-INGREDIENT SPAN: the center of the slice
+
+
+SENTID: 2
+SENT: I would push the cookie cutter through the bread , rocking it gently back and forth .
+PREDID: 85
+PRED: push
+   DOBJ: the cookie cutter
+      NON-INGREDIENT SPAN: the cookie cutter
+   PARG: the bread
+     PREP: through
+      NON-INGREDIENT SPAN: the bread
+   OARG: rocking it gently back, forth
+      NON-INGREDIENT SPAN:  forth
+      NON-INGREDIENT SPAN: rocking it gently back
+
+
+SENTID: 3
+SENT: Once the cookie cutter makes it all the way through bread , I would remove bread outside the cutter .
+PREDID: 196
+PRED: remove
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: the cookie cutter makes it all the way through bread
+     PREP: once
+      NON-INGREDIENT SPAN: the cookie cutter makes it all the way through bread
+   PARG: the cutter
+     PREP: outside
+      NON-INGREDIENT SPAN: the cutter
+
+
+SENTID: 4
+SENT: I would hold the cutter down on the bread during this step to prevent the star from tearing .
+PREDID: 224
+PRED: hold
+   DOBJ: the cutter
+      NON-INGREDIENT SPAN: the cutter
+   PARG: the bread
+     PREP: on
+      NON-INGREDIENT SPAN: the bread
+   PARG: this step to prevent the star from tearing
+     PREP: during
+      NON-INGREDIENT SPAN: this step to prevent the star from tearing
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 5
+SENT: I would use a sharp knife to trim any bread that lingers outside the cookie cutter .
+PREDID: 293
+PRED: use
+   DOBJ: a sharp knife
+      NON-INGREDIENT SPAN: a sharp knife
+   OARG: to trim any bread that lingers outside the cookie cutter
+      NON-INGREDIENT SPAN: to trim any bread that lingers outside the cookie cutter
+
+
+SENTID: 6
+SENT: I would gently remove the star from the cutter and put aside .
+PREDID: 361
+PRED: remove
+   DOBJ: the star
+      NON-INGREDIENT SPAN: the star
+   PARG: the cutter
+     PREP: from
+      NON-INGREDIENT SPAN: the cutter
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 390
+PRED: put
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would repeat on all slices of bread .
+PREDID: 399
+PRED: repeat
+   DOBJ: NULL
+   PARG: all slices of bread
+     PREP: on
+      NON-INGREDIENT SPAN: all slices of bread
+
+
+SENTID: 8
+SENT: In a medium bowl , I would beat together eggs , whipping cream , the honey , the salt , the cinnamon , orange zest and vanilla extract .
+PREDID: 438
+PRED: beat
+   DOBJ: eggs , whipping cream , the honey , the salt , the cinnamon , orange zest, vanilla extract
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  whipping cream 
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  orange zest
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: In a griddle or frying pan , I would melt the butter over medium high heat .
+PREDID: 539
+PRED: melt
+   DOBJ: the butter over medium high heat
+      INGREDIENT SPAN: the butter over medium high heat
+         INGREDIENTS: butter
+   PARG: a griddle or frying pan
+     PREP: in
+      NON-INGREDIENT SPAN: a griddle or frying pan
+
+
+SENTID: 10
+SENT: I would dip both sides of the stars in the egg mixture and carefully transfer to the hot griddle .
+PREDID: 571
+PRED: dip
+   DOBJ: both sides of the stars in the egg mixture
+      NON-INGREDIENT SPAN: both sides of the stars in the egg mixture
+
+PREDID: 620
+PRED: transfer
+   DOBJ: NULL
+   PARG: the hot griddle
+     PREP: to
+      NON-INGREDIENT SPAN: the hot griddle
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 11
+SENT: I would brown on both sides and transfer to a warm plate while remaining stars cook .
+PREDID: 644
+PRED: brown
+   DOBJ: NULL
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+
+PREDID: 663
+PRED: transfer
+   DOBJ: NULL
+   PARG: a warm plate
+     PREP: to
+      NON-INGREDIENT SPAN: a warm plate
+   PARG: remaining stars cook
+     PREP: while
+      NON-INGREDIENT SPAN: remaining stars cook
+
+
+SENTID: 12
+SENT: I would serve hot .
+PREDID: 707
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

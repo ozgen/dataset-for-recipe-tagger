@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13-inch cake pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13-inch cake pan
+      INGREDIENT SPAN: a 9x13-inch cake pan
+         INGREDIENTS: ounce package yellow cake mix
+
+
+SENTID: 2
+SENT: I would whisk the pumpkin , evaporated milk , brown sugar , the eggs , and pumpkin pie space together in a bowl .
+PREDID: 62
+PRED: whisk
+   DOBJ: the pumpkin , evaporated milk , brown sugar , the eggs , pumpkin pie space
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  pumpkin pie space
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: ounce pumpkin
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk such Carnation
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pour into the prepared pan .
+PREDID: 143
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 4
+SENT: I would scatter the cake mix over the top of the pumpkin mixture ;
+PREDID: 166
+PRED: scatter
+   DOBJ: the cake mix
+      NON-INGREDIENT SPAN: the cake mix
+   PARG: the top of the pumpkin mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the pumpkin mixture
+
+
+SENTID: 5
+SENT: I would sprinkle the nuts over the cake mix .
+PREDID: 213
+PRED: sprinkle
+   DOBJ: the nuts
+      NON-INGREDIENT SPAN: the nuts
+   PARG: the cake mix
+     PREP: over
+      NON-INGREDIENT SPAN: the cake mix
+
+
+SENTID: 6
+SENT: I would drizzle the melted butter over the entire cake .
+PREDID: 243
+PRED: drizzle
+   DOBJ: the melted butter
+      INGREDIENT SPAN: the melted butter
+         INGREDIENTS: melted butter
+   PARG: the entire cake
+     PREP: over
+      NON-INGREDIENT SPAN: the entire cake
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until set in the center , about 50 minutes .
+PREDID: 283
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: set in the center , about 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: set in the center 
+      NON-INGREDIENT SPAN:  about 50 minutes
+
+

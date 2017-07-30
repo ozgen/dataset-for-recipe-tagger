@@ -1,0 +1,197 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would scoop out and discard zucchini seeds , leaving the hollowed-out shells .
+PREDID: 38
+PRED: scoop
+   DOBJ: NULL
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 49
+PRED: discard
+   DOBJ: zucchini seeds
+      INGREDIENT SPAN: zucchini seeds
+         INGREDIENTS: large zucchini cut half lengthwise
+   OARG: leaving the hollowed-out shells
+      NON-INGREDIENT SPAN: leaving the hollowed-out shells
+
+
+SENTID: 2
+SENT: I would sprinkle the garlic salt into the hollowed-out zucchini , and set aside .
+PREDID: 99
+PRED: sprinkle
+   DOBJ: the garlic salt
+      INGREDIENT SPAN: the garlic salt
+         INGREDIENTS: garlic salt
+   PARG: the hollowed-out zucchini
+     PREP: into
+      NON-INGREDIENT SPAN: the hollowed-out zucchini
+
+PREDID: 151
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would heat olive oil in a skillet over medium heat , and cook the onion and garlic until the onion is translucent , about 5 minutes .
+PREDID: 160
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 200
+PRED: cook
+   DOBJ: the onion, garlic
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+   PARG: the onion is translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is translucent 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would remove from heat and allow to cool .
+PREDID: 262
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 279
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: In a mixing bowl , I would mix the ground beef , the eggs , bread crumbs , the basil , the carrot , and Parmesan cheese together with the onion mixture .
+PREDID: 305
+PRED: mix
+   DOBJ: the ground beef , the eggs , bread crumbs , the basil , the carrot , Parmesan cheese
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef sirloin
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: grated carrot
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: with the onion mixture
+     PREP: together
+      NON-INGREDIENT SPAN: with the onion mixture
+
+
+SENTID: 6
+SENT: I would stuff the zucchini halves with the meat mixture , and place them into a baking dish .
+PREDID: 397
+PRED: stuff
+   DOBJ: the zucchini halves
+      NON-INGREDIENT SPAN: the zucchini halves
+   PARG: the meat mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the meat mixture
+
+PREDID: 441
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 7
+SENT: I would spoon about half the spaghetti sauce over the zucchini , covering all the meat and allowing sauce to drip down the sides of the zucchini boats .
+PREDID: 466
+PRED: spoon
+   DOBJ: about half the spaghetti sauce over the zucchini
+      INGREDIENT SPAN: about half the spaghetti sauce over the zucchini
+         INGREDIENTS: ounce spaghetti sauce divided
+
+PREDID: 513
+PRED: covering
+   DOBJ: all the meat
+      NON-INGREDIENT SPAN: all the meat
+
+PREDID: 534
+PRED: allowing
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   OARG: to drip down the sides of the zucchini boats
+      NON-INGREDIENT SPAN: to drip down the sides of the zucchini boats
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until the meat is no longer pink in the center and the zucchini are tender , about 45 minutes .
+
+SENTID: 9
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 10
+SENT: I would sprinkle the mozzarella cheese over the zucchini , and return to oven until the cheese melts , about 5 more minutes .
+PREDID: 682
+PRED: sprinkle
+   DOBJ: the mozzarella cheese
+      INGREDIENT SPAN: the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the zucchini
+     PREP: over
+      NON-INGREDIENT SPAN: the zucchini
+   PARG: about 5 more minutes
+     PREP: and
+      NON-INGREDIENT SPAN: about 5 more minutes
+
+PREDID: 728
+PRED: return
+   DOBJ: NULL
+   OARG: to oven until the cheese melts
+      NON-INGREDIENT SPAN: to oven until the cheese melts
+
+
+SENTID: 11
+SENT: I would heat the remaining spaghetti sauce in a small saucepan over medium heat while the zucchini boats are cooking .
+PREDID: 778
+PRED: heat
+   DOBJ: the remaining spaghetti sauce in a small saucepan over medium heat
+      NON-INGREDIENT SPAN: the remaining spaghetti sauce in a small saucepan over medium heat
+   PARG: the zucchini boats are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the zucchini boats are cooking
+
+
+SENTID: 12
+SENT: I would serve the zucchini boats with the additional sauce on the side .
+PREDID: 870
+PRED: serve
+   DOBJ: the zucchini boats
+      NON-INGREDIENT SPAN: the zucchini boats
+   PARG: the additional sauce on the side
+     PREP: with
+      NON-INGREDIENT SPAN: the additional sauce on the side
+
+

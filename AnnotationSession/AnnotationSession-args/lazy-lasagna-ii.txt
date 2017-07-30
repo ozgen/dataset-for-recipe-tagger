@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , I would brown ground beef with onion ;
+PREDID: 63
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: onion
+     PREP: with
+      INGREDIENT SPAN: onion
+         INGREDIENTS: small onion
+
+
+SENTID: 2
+SENT: I would drain grease .
+PREDID: 88
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would pour in spaghetti sauce and simmer 5 minutes .
+PREDID: 100
+PRED: pour
+   DOBJ: NULL
+   PARG: spaghetti sauce, simmer 5 minutes
+     PREP: in
+      INGREDIENT SPAN: spaghetti sauce
+         INGREDIENTS: (28 ounce) jar spaghetti sauce
+      NON-INGREDIENT SPAN:  simmer 5 minutes
+
+
+SENTID: 4
+SENT: In a 9x13 inch baking dish , I would spread enough sauce and beef to cover bottom and put a layer of ravioli down end to end .
+PREDID: 160
+PRED: spread
+   DOBJ: enough sauce, beef
+      NON-INGREDIENT SPAN:  beef
+      NON-INGREDIENT SPAN: enough sauce
+   PARG: a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 5
+SENT: I would spread a layer of sauce and cheese just like you would with regular lasagna .
+PREDID: 231
+PRED: spread
+   DOBJ: a layer of sauce, cheese
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN: a layer of sauce
+
+
+SENTID: 6
+SENT: I would keep layering and finish with sauce on top .
+PREDID: 294
+PRED: keep
+   DOBJ: layering
+      NON-INGREDIENT SPAN: layering
+
+PREDID: 309
+PRED: finish
+   DOBJ: NULL
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 7
+SENT: I would bake uncovered in a preheated oven for 1 hour .
+PREDID: 330
+PRED: bake
+   DOBJ: NULL
+
+PREDID: 334
+PRED: uncovered
+   DOBJ: NULL
+   PARG: a preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 1 hour
+
+
+SENTID: 8
+SENT: I would let sit for 5 minutes before serving .
+PREDID: 368
+PRED: let
+   DOBJ: NULL
+
+

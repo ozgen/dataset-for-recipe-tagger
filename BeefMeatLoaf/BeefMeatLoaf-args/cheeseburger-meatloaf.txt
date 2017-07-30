@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , bread crumbs , the onion , the eggs , the salt and pepper , and mix well .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , bread crumbs , the onion , the eggs , the salt, pepper , mix
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: fresh bread crumbs
+      NON-INGREDIENT SPAN:  mix
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would pat out meat mixture into a 14x18 inch rectangle on a piece of wax paper .
+PREDID: 114
+PRED: pat
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: a 14x18 inch rectangle on a piece of wax paper
+     PREP: into
+      NON-INGREDIENT SPAN: a 14x18 inch rectangle on a piece of wax paper
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 3
+SENT: I would spread cheese over the meat , leaving a 3/4 inch border around the edges .
+PREDID: 173
+PRED: spread
+   DOBJ: cheese over the meat
+      INGREDIENT SPAN: cheese over the meat
+         INGREDIENTS: shredded Cheddar cheese
+   OARG: leaving a 3/4 inch border around the edges
+      NON-INGREDIENT SPAN: leaving a 3/4 inch border around the edges
+
+
+SENTID: 4
+SENT: I would roll up jelly roll fashion to enclose the filling and form a pinwheel loaf .
+PREDID: 233
+PRED: roll
+   DOBJ: jelly roll fashion to enclose the filling, form a pinwheel loaf
+      NON-INGREDIENT SPAN: jelly roll fashion to enclose the filling
+      NON-INGREDIENT SPAN:  form a pinwheel loaf
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 5
+SENT: I would press beef in on both ends to enclose the cheese .
+PREDID: 295
+PRED: press
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: both ends to enclose the cheese
+     PREP: on
+      NON-INGREDIENT SPAN: both ends to enclose the cheese
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 6
+SENT: I would place in a 10x15 inch baking dish .
+PREDID: 335
+PRED: place
+   DOBJ: a 10x15 inch baking dish
+      NON-INGREDIENT SPAN: a 10x15 inch baking dish
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven 1 hour , or until internal temperature reaches 160 degrees F -LRB- 70 degrees C -RRB- .
+

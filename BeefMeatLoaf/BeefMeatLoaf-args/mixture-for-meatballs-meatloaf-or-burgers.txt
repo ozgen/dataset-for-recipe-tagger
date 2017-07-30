@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the ground beef , the bread , the eggs , the cheese , the parsley and onion and season with salt and pepper to taste .
+PREDID: 13
+PRED: combine
+   DOBJ: the ground beef , the bread , the eggs , the cheese , the parsley, onion, season
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: grated Romano cheese
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the bread 
+         INGREDIENTS: slices white bread soaked water squeezed broken tiny
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  season
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 1
+SENT: For meatballs :
+
+SENTID: 2
+SENT: I would form mixture into golf size balls and brown in a large skillet over medium heat for 5 to 10 minutes , or until well browned .
+PREDID: 101
+PRED: form
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: golf size balls, brown in a large skillet over medium heat for 5 to 10 minutes , or until well browned
+     PREP: into
+      NON-INGREDIENT SPAN:  or until well browned
+      NON-INGREDIENT SPAN:  brown in a large skillet over medium heat for 5 to 10 minutes 
+      NON-INGREDIENT SPAN: golf size balls
+
+
+SENTID: 3
+SENT: I would add to your favorite spaghetti sauce and simmer until meatballs are completely cooked through , about 15 to 20 minutes .
+PREDID: 201
+PRED: add
+   DOBJ: NULL
+   PARG: your favorite spaghetti sauce
+     PREP: to
+      INGREDIENT SPAN: your favorite spaghetti sauce
+         INGREDIENTS: steak sauce
+
+PREDID: 235
+PRED: simmer
+   DOBJ: NULL
+   PARG: meatballs are completely cooked through , about 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: meatballs are completely cooked through 
+      NON-INGREDIENT SPAN:  about 15 to 20 minutes
+
+
+SENTID: 4
+SENT: For meatloaf :
+
+SENTID: 5
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 301
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 6
+SENT: I would add 3 tablespoons ketchup to mixture , mix well , form into a loaf and place in a 9x13 inch baking dish .
+PREDID: 339
+PRED: add
+   DOBJ: 3 tablespoons ketchup
+      INGREDIENT SPAN: 3 tablespoons ketchup
+         INGREDIENTS: ketchup
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 371
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 379
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 395
+PRED: place
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 75 to 90 minutes .
+PREDID: 422
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 75 to 90 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 75 to 90 minutes
+
+
+SENTID: 8
+SENT: For burgers :
+
+SENTID: 9
+SENT: I would add 3 to 4 tablespoons steak sauce to mixture , mix well and form into patties .
+PREDID: 469
+PRED: add
+   DOBJ: 3 to 4 tablespoons steak sauce to mixture
+      NON-INGREDIENT SPAN: 3 to 4 tablespoons steak sauce to mixture
+
+PREDID: 507
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 517
+PRED: form
+   DOBJ: NULL
+   PARG: patties
+     PREP: into
+      NON-INGREDIENT SPAN: patties
+
+
+SENTID: 10
+SENT: I would saute in a large skillet over medium heat for 10 to 15 minutes , or to desired doneness .
+PREDID: 533
+PRED: saute
+   DOBJ: NULL
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+
+

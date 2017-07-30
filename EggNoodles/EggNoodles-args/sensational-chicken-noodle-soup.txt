@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would mix broth , black pepper , the carrot and celery in saucepan .
+PREDID: 0
+PRED: mix
+   DOBJ: broth , black pepper , the carrot, celery
+      INGREDIENT SPAN:  
+         INGREDIENTS: Organic
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery sliced
+      INGREDIENT SPAN:  the carrot
+         INGREDIENTS: medium carrot sliced
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: Swanson Chicken Broth regular Natural Goodness Certified
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: Generous ground black pepper
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 1
+SENT: I would heat to a boil .
+PREDID: 47
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would stir in noodles and chicken .
+PREDID: 59
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles, chicken
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked medium egg noodles
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: cubed cooked chicken turkey
+
+
+SENTID: 3
+SENT: I would cook over medium heat 10 minutes until noodles are done .
+PREDID: 83
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: noodles are done
+     PREP: until
+      NON-INGREDIENT SPAN: noodles are done
+
+

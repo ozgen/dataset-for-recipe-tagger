@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would heat olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would add onion and red pepper ;
+PREDID: 42
+PRED: add
+   DOBJ: onion, red pepper
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN: onion
+         INGREDIENTS: small onion chopped
+
+
+SENTID: 2
+SENT: I would cook and stir until soft , about 3 minutes .
+PREDID: 63
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: soft , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: soft 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 3
+SENT: I would stir corn , the zucchini , and chicken into the onion mixture ;
+PREDID: 98
+PRED: stir
+   DOBJ: corn , the zucchini , chicken
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: chopped cooked chicken
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: large zucchini chopped
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: ears corn kernels cut cob
+   PARG: the onion mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the onion mixture
+
+
+SENTID: 4
+SENT: I would cook and stir until all vegetables are crisp-tender , about 5 minutes .
+PREDID: 146
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: all vegetables are crisp-tender
+     PREP: until
+      NON-INGREDIENT SPAN: all vegetables are crisp-tender
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would remove skillet from heat .
+PREDID: 205
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 6
+SENT: I would sprinkle parsley and about half the cheese over the vegetable mixture and toss to mix ;
+PREDID: 227
+PRED: sprinkle
+   DOBJ: parsley, about half the cheese
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  about half the cheese
+         INGREDIENTS: shredded ColbyMonterey Jack cheese divided
+   PARG: the vegetable mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the vegetable mixture
+
+PREDID: 289
+PRED: toss
+   DOBJ: NULL
+   OARG: to mix
+      NON-INGREDIENT SPAN: to mix
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 299
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would transfer the vegetables to a serving dish and top with remaining cheese .
+PREDID: 323
+PRED: transfer
+   DOBJ: the vegetables
+      NON-INGREDIENT SPAN: the vegetables
+   PARG: a serving dish, top with remaining cheese
+     PREP: to
+      NON-INGREDIENT SPAN: a serving dish
+      NON-INGREDIENT SPAN:  top with remaining cheese
+
+

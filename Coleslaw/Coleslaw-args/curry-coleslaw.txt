@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a large bowl , I would mix the cabbage , green onions , the peas , and peanuts .
+PREDID: 13
+PRED: mix
+   DOBJ: the cabbage , green onions , the peas , peanuts
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: bunches green onions chopped
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce package frozen green peas
+      INGREDIENT SPAN:  peanuts
+         INGREDIENTS: dry roasted peanuts
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head cabbage cored shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a separate bowl , I would mix the sour cream , the mayonnaise , the vinegar , curry powder , the ginger , and cayenne pepper .
+PREDID: 71
+PRED: mix
+   DOBJ: the sour cream , the mayonnaise , the vinegar , curry powder , the ginger , cayenne pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: ground cayenne pepper
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would toss with the slaw to coat .
+PREDID: 142
+PRED: toss
+   DOBJ: NULL
+   PARG: the slaw
+     PREP: with
+      NON-INGREDIENT SPAN: the slaw
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover and refrigerate until serving .
+PREDID: 164
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

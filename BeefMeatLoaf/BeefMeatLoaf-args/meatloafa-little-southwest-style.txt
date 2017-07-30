@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix the ground beef , the eggs , the onion , bread crumbs , the salsa , the ketchup , barbeque sauce , the salt , the pepper , and celery salt together in a bowl ;
+PREDID: 40
+PRED: mix
+   DOBJ: the ground beef , the eggs , the onion , bread crumbs , the salsa , the ketchup , barbeque sauce , the salt , the pepper , celery salt
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: salsa
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  celery salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would transfer to a loaf pan .
+PREDID: 149
+PRED: transfer
+   DOBJ: NULL
+   PARG: a loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: a loaf pan
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until golden brown on top , about 1 hour .
+PREDID: 168
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: golden brown on top , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on top 
+      NON-INGREDIENT SPAN:  about 1 hour
+
+

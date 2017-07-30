@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large bowl , I would mix together the mayonnaise , creamy salad dressing , the horseradish , the vinegar , dill weed and sugar .
+PREDID: 13
+PRED: mix
+   DOBJ: the mayonnaise , creamy salad dressing , the horseradish , the vinegar , dill weed, sugar
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dill weed
+         INGREDIENTS: dill weed
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  the horseradish 
+         INGREDIENTS: prepared horseradish
+      INGREDIENT SPAN:  creamy salad dressing 
+         INGREDIENTS: creamy salad dressing Whip
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add coleslaw mix , and stir to coat .
+PREDID: 95
+PRED: add
+   DOBJ: coleslaw mix
+      INGREDIENT SPAN: coleslaw mix
+         INGREDIENTS: ounce package coleslaw mix
+
+PREDID: 113
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would refrigerate at least 3 hours before serving to blend flavors .
+PREDID: 124
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 3 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 3 hours
+   PARG: serving to blend flavors
+     PREP: before
+      NON-INGREDIENT SPAN: serving to blend flavors
+
+

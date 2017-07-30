@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a small bowl , I would combine ketchup , brown sugar , 1 tablespoon lemon juice and dry mustard until smooth .
+PREDID: 51
+PRED: combine
+   DOBJ: ketchup , brown sugar , 1 tablespoon lemon juice, dry mustard
+      INGREDIENT SPAN:  1 tablespoon lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: dry mustard
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine ground beef , shredded bread , the onion , the egg , the bouillon , 3 tablespoons lemon juice , and 1/3 cup of the ketchup mixture until well mixed .
+PREDID: 136
+PRED: combine
+   DOBJ: ground beef , shredded bread , the onion , the egg , the bouillon , 3 tablespoons lemon juice , 1/3 cup of the ketchup mixture
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  shredded bread 
+         INGREDIENTS: slices bread shredded
+      INGREDIENT SPAN:  3 tablespoons lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the bouillon 
+         INGREDIENTS: cube beef bouillon crumbled
+      NON-INGREDIENT SPAN:  1/3 cup of the ketchup mixture
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: well mixed
+
+
+SENTID: 3
+SENT: I would form into a loaf and place in a 9x5 inch loaf pan .
+PREDID: 253
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf, place in a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN:  place in a 9x5 inch loaf pan
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 4
+SENT: I would bake 1 hour .
+PREDID: 292
+PRED: bake
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 5
+SENT: I would pour off fat .
+PREDID: 302
+PRED: pour
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 6
+SENT: I would pour reserved ketchup mixture over loaf .
+PREDID: 313
+PRED: pour
+   DOBJ: reserved ketchup mixture over loaf
+      NON-INGREDIENT SPAN: reserved ketchup mixture over loaf
+
+
+SENTID: 7
+SENT: I would bake 10 minutes more .
+PREDID: 348
+PRED: bake
+   DOBJ: NULL
+   OARG: 10 minutes more
+      NON-INGREDIENT SPAN: 10 minutes more
+
+

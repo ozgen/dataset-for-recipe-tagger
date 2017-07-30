@@ -1,0 +1,248 @@
+SENTID: 0
+SENT: I would remove any fat and gristle from the roast and cut into strips 1/2-inch thick by 2-inches long .
+PREDID: 0
+PRED: remove
+   DOBJ: NULL
+   PARG: the roast
+     PREP: from
+      INGREDIENT SPAN: the roast
+         INGREDIENTS: beef chuck roast
+   OARG: any fat, gristle
+      NON-INGREDIENT SPAN:  gristle
+      NON-INGREDIENT SPAN: any fat
+
+PREDID: 37
+PRED: cut
+   DOBJ: NULL
+   PARG: strips 1/2-inch thick
+     PREP: into
+      NON-INGREDIENT SPAN: strips 1/2-inch thick
+   PARG: 2-inches long
+     PREP: by
+      NON-INGREDIENT SPAN: 2-inches long
+
+
+SENTID: 1
+SENT: I would season with 1/2 teaspoon salt and 1/2 teaspoon pepper .
+PREDID: 78
+PRED: season
+   DOBJ: NULL
+   PARG: 1/2 teaspoon salt, 1/2 teaspoon pepper
+     PREP: with
+      INGREDIENT SPAN: 1/2 teaspoon salt
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  1/2 teaspoon pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 2
+SENT: I would melt 1 tablespoon butter in a large skillet over medium heat .
+PREDID: 124
+PRED: melt
+   DOBJ: 1 tablespoon butter
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter divided
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would add mushrooms and green onions and cook , stirring occasionally , until mushrooms are browned , about 6 minutes .
+PREDID: 175
+PRED: add
+   DOBJ: mushrooms, green onions
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions sliced white green parts
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: white mushrooms sliced
+
+PREDID: 204
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally , until mushrooms are browned , about 6 minutes
+      NON-INGREDIENT SPAN:  until mushrooms are browned 
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  about 6 minutes
+
+
+SENTID: 4
+SENT: I would remove to a bowl and add 1 tablespoon butter to the skillet .
+PREDID: 269
+PRED: remove
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 285
+PRED: add
+   DOBJ: 1 tablespoon butter
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter divided
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 5
+SENT: I would cook and stir one half the beef strips until browned , about 5 minutes ,
+PREDID: 318
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: one half the beef strips until browned , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN: one half the beef strips until browned 
+         INGREDIENTS: reducedsodium beef stock divided
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would remove to a bowl .
+PREDID: 376
+PRED: remove
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would repeat with the remaining butter and beef strips .
+PREDID: 390
+PRED: repeat
+   DOBJ: NULL
+   PARG: the remaining butter, beef strips
+     PREP: with
+      INGREDIENT SPAN:  beef strips
+         INGREDIENTS: reducedsodium beef stock divided
+      INGREDIENT SPAN: the remaining butter
+         INGREDIENTS: butter divided
+
+
+SENTID: 8
+SENT: I would pour wine into the hot skillet and deglaze the pan , scraping up any browned bits .
+PREDID: 432
+PRED: pour
+   DOBJ: wine
+      INGREDIENT SPAN: wine
+         INGREDIENTS: white wine
+   PARG: the hot skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the hot skillet
+
+PREDID: 460
+PRED: deglaze
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   OARG: scraping up any browned bits
+      NON-INGREDIENT SPAN: scraping up any browned bits
+
+
+SENTID: 9
+SENT: I would combine flour and 1/4 cup beef broth in a jar with a tightly fitting lid and shake until combined .
+PREDID: 499
+PRED: combine
+   DOBJ: flour, 1/4 cup beef broth
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  1/4 cup beef broth
+   PARG: a jar with a tightly fitting lid
+     PREP: in
+      NON-INGREDIENT SPAN: a jar with a tightly fitting lid
+
+PREDID: 560
+PRED: shake
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 10
+SENT: I would stir into the skillet , whisking until smooth .
+PREDID: 579
+PRED: stir
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+   OARG: whisking until smooth
+      NON-INGREDIENT SPAN: whisking until smooth
+
+
+SENTID: 11
+SENT: I would stir in the remaining broth and mustard ,
+PREDID: 618
+PRED: stir
+   DOBJ: NULL
+   PARG: the remaining broth, mustard
+     PREP: in
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      NON-INGREDIENT SPAN: the remaining broth
+
+
+SENTID: 12
+SENT: I would return the beef to the pan .
+PREDID: 652
+PRED: return
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 13
+SENT: I would bring to a simmer .
+PREDID: 674
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 14
+SENT: I would cover and simmer until the meat is tender , about 1 hour .
+PREDID: 689
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: the meat is tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: the meat is tender 
+
+
+SENTID: 15
+SENT: I would stir in the prepared mushrooms and the sour cream five minutes before serving .
+PREDID: 735
+PRED: stir
+   DOBJ: NULL
+   PARG: the prepared mushrooms, the sour cream
+     PREP: in
+      INGREDIENT SPAN:  the sour cream
+         INGREDIENTS: light sour cream
+      NON-INGREDIENT SPAN: the prepared mushrooms
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: five minutes
+      NON-INGREDIENT SPAN: five minutes
+
+
+SENTID: 16
+SENT: I would heat briefly and season with salt and pepper .
+PREDID: 801
+PRED: heat
+   DOBJ: NULL
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+   OARG: season with salt, pepper
+      INGREDIENT SPAN: season with salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+
+

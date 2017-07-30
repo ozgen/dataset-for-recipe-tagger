@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would place cabbage , the jicama , and apple in a large bowl and toss to combine .
+PREDID: 0
+PRED: place
+   DOBJ: cabbage , the jicama , apple in a large bowl
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: jicama sliced matchsticks
+      INGREDIENT SPAN:  apple in a large bowl
+         INGREDIENTS: large sweet apple such Fuji sliced matchsticks
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: small head green cabbage cored sliced
+
+PREDID: 46
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 1
+SENT: I would whisk mayonnaise , pineapple juice , the sugar , hot sauce , the salt , and pepper in a bowl until mixture is smooth and fluffy , 1 to 2 minutes .
+PREDID: 57
+PRED: whisk
+   DOBJ: mayonnaise , pineapple juice , the sugar , hot sauce , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  pineapple juice 
+         INGREDIENTS: pineapple juice
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot sauce taste
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: mixture is smooth, fluffy , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  fluffy 
+      NON-INGREDIENT SPAN: mixture is smooth
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 2
+SENT: I would pour mayonnaise mixture over cabbage , the jicama , and apple ;
+PREDID: 166
+PRED: pour
+   DOBJ: mayonnaise mixture
+      NON-INGREDIENT SPAN: mayonnaise mixture
+   PARG: cabbage , the jicama , apple
+     PREP: over
+      NON-INGREDIENT SPAN:  the jicama 
+      NON-INGREDIENT SPAN:  apple
+      NON-INGREDIENT SPAN: cabbage 
+
+
+SENTID: 3
+SENT: I would toss to combine .
+PREDID: 215
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 4
+SENT: I would let the sit for 5 minutes .
+PREDID: 229
+PRED: let
+   DOBJ: NULL
+   PARG: the sit for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the sit for 5 minutes
+
+
+SENTID: 5
+SENT: I would mix in cilantro and toss again .
+PREDID: 247
+PRED: mix
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: in
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: bunch chopped fresh cilantro
+
+PREDID: 263
+PRED: toss
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 6
+SENT: I would garnish with toasted corn bits and serve immediately .
+PREDID: 273
+PRED: garnish
+   DOBJ: NULL
+   PARG: toasted corn bits
+     PREP: with
+      INGREDIENT SPAN: toasted corn bits
+         INGREDIENTS: toasted corn bits such CornNuts crushed
+
+PREDID: 302
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

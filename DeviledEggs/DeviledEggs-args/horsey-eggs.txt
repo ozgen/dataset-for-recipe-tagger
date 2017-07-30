@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: I would remove yolks from egg halves and place yolks into a bowl ;
+PREDID: 0
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: egg halves, place yolks
+     PREP: from
+      INGREDIENT SPAN: egg halves
+         INGREDIENTS: hardcooked eggs cut half lengthwise
+      NON-INGREDIENT SPAN:  place yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would mash yolks with horseradish sauce , using a fork , until mixture is smooth .
+PREDID: 47
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: horseradish sauce
+     PREP: with
+      INGREDIENT SPAN: horseradish sauce
+         INGREDIENTS: creamstyle horseradish sauce
+   PARG: mixture is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is smooth
+   OARG: using a fork
+      NON-INGREDIENT SPAN: using a fork
+
+
+SENTID: 2
+SENT: I would spoon egg yolk mixture back into the cavities in egg whites ;
+PREDID: 109
+PRED: spoon
+   DOBJ: egg yolk mixture
+      NON-INGREDIENT SPAN: egg yolk mixture
+   PARG: the cavities in egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: the cavities in egg whites
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+
+SENTID: 3
+SENT: I would refrigerate until serving time .
+PREDID: 159
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving time
+     PREP: until
+      NON-INGREDIENT SPAN: serving time
+
+

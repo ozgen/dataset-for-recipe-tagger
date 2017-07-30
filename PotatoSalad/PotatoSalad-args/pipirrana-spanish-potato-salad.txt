@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would place egg in a saucepan , and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: egg
+      INGREDIENT SPAN: egg
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil , I would and immediately remove from heat .
+
+SENTID: 2
+SENT: I would cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 42
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 51
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool , and peel .
+PREDID: 90
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: I would cut eggs into quarters , and set aside .
+PREDID: 122
+PRED: cut
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: quarters
+     PREP: into
+      NON-INGREDIENT SPAN: quarters
+
+PREDID: 145
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would meanwhile , bring a large pot of salted water to a boil .
+PREDID: 164
+PRED: bring
+   DOBJ: a large pot of salted water to a boil
+      NON-INGREDIENT SPAN: a large pot of salted water to a boil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would add potatoes , and cook until tender but still firm , about 15 minutes .
+PREDID: 199
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled cubed
+
+PREDID: 214
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 7
+SENT: I would drain , and transfer to a large bowl .
+PREDID: 257
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 266
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 8
+SENT: I would toss potatoes with eggs , bell peppers , the onion , the tomato , the tuna , green olives , olive oil , and vinegar .
+PREDID: 287
+PRED: toss
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: eggs , bell peppers , the onion , the tomato , the tuna , green olives , olive oil , vinegar
+     PREP: with
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: green bell pepper seeded diced
+      INGREDIENT SPAN:  green olives 
+         INGREDIENTS: green olives pimento anchovy halved
+      INGREDIENT SPAN:  the tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: extra virgin olive oil
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: large fresh tomato chopped
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: distilled white vinegar
+      NON-INGREDIENT SPAN: eggs 
+
+
+SENTID: 9
+SENT: I would season to taste with salt .
+PREDID: 370
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 10
+SENT: I would refrigerate , and serve cold
+PREDID: 392
+PRED: refrigerate
+   DOBJ: NULL
+
+PREDID: 407
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

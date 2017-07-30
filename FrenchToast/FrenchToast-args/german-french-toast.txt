@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: In a shallow bowl , I would beat together eggs and milk .
+PREDID: 50
+PRED: beat
+   DOBJ: eggs, milk
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would dip bread slices one at a time in egg mixture , and fry in butter until golden .
+PREDID: 74
+PRED: dip
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: slices white bread
+   PARG: at a time in egg mixture , fry in butter
+     PREP: one
+      NON-INGREDIENT SPAN:  fry in butter
+      NON-INGREDIENT SPAN: at a time in egg mixture 
+   PARG: golden
+     PREP: until
+      NON-INGREDIENT SPAN: golden
+
+
+SENTID: 3
+SENT: After turning once , I would top with a slice of muenster cheese , and cover until cheese is melted .
+PREDID: 154
+PRED: top
+   DOBJ: NULL
+   PARG: turning once
+     PREP: after
+      NON-INGREDIENT SPAN: turning once
+   PARG: a slice of muenster cheese
+     PREP: with
+      INGREDIENT SPAN: a slice of muenster cheese
+         INGREDIENTS: slices Muenster cheese
+
+PREDID: 187
+PRED: cover
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+

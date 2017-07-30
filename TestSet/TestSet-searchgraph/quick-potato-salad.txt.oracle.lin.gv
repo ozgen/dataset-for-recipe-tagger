@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="bring
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="rinse
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="combine
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="season
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: a large pot of lightly salted water", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1_ing[label="DOBJ: potatoes and", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: until soft, 5 to 7 minutes", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="COOBJECT:with cold water", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+D5_ing[label="DOBJ: hardcooked eggs peeled and diced, tomato, chopped green onion, celery stalk, lowfat mayonnaise, prepared yellow mustard, cucumber and, onion", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="the potatoes"]
+P5_0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: until evenly combined", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: with salt and ground black pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

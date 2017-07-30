@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together cream cheese , 1 tablespoon of milk , and sugar until smooth .
+PREDID: 13
+PRED: whisk
+   DOBJ: cream cheese , 1 tablespoon of milk , sugar
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  1 tablespoon of milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: cream cheese softened
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would gently stir in whipped topping .
+PREDID: 82
+PRED: stir
+   DOBJ: NULL
+   PARG: whipped topping
+     PREP: in
+      INGREDIENT SPAN: whipped topping
+         INGREDIENTS: frozen whipped topping
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 2
+SENT: I would spread into bottom of crust .
+PREDID: 103
+PRED: spread
+   DOBJ: NULL
+   PARG: bottom of crust
+     PREP: into
+      INGREDIENT SPAN: bottom of crust
+         INGREDIENTS: inch prepared graham cracker crust
+
+
+SENTID: 3
+SENT: I would pour 1 cup of milk into large bowl , and thoroughly mix in pudding mix , the pumpkin , the cinnamon , the ginger , and cloves .
+PREDID: 127
+PRED: pour
+   DOBJ: 1 cup of milk
+      INGREDIENT SPAN: 1 cup of milk
+         INGREDIENTS: cold milk
+   PARG: large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: large bowl
+
+PREDID: 168
+PRED: mix
+   DOBJ: NULL
+   PARG: pudding mix , the pumpkin , the cinnamon , the ginger , cloves
+     PREP: in
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce solid pack pumpkin puree
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: pudding mix 
+         INGREDIENTS: ounce packages instant vanilla pudding mix
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: When thickened , spread over cream cheese layer .
+PREDID: 232
+PRED: spread
+   DOBJ: NULL
+   PARG: cream cheese layer
+     PREP: over
+      NON-INGREDIENT SPAN: cream cheese layer
+   OARG: when thickened
+      NON-INGREDIENT SPAN: when thickened
+
+
+SENTID: 5
+SENT: I would refrigerate 4 hours , or until set .
+PREDID: 259
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 4 hours , or until set
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours 
+      NON-INGREDIENT SPAN:  or until set
+
+

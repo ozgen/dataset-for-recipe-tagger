@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would season pork tenderloin with salt , black pepper , and 1/2 teaspoon cayenne pepper .
+PREDID: 0
+PRED: season
+   DOBJ: pork tenderloin
+      INGREDIENT SPAN: pork tenderloin
+         INGREDIENTS: pound package pork tenderloin fat trimmed
+   PARG: salt , black pepper , 1/2 teaspoon cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  1/2 teaspoon cayenne pepper
+         INGREDIENTS: cayenne pepper taste
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: dashes hot pepper sauce
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 1
+SENT: I would heat oil in a skillet over medium-high heat ;
+PREDID: 69
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+
+SENTID: 2
+SENT: I would fry pork in hot oil until browned on all sides , about 10 minutes .
+PREDID: 106
+PRED: fry
+   DOBJ: pork in hot oil
+      NON-INGREDIENT SPAN: pork in hot oil
+   PARG: browned on all sides , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: browned on all sides 
+
+
+SENTID: 3
+SENT: I would transfer meat to a slow cooker .
+PREDID: 159
+PRED: transfer
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 4
+SENT: I would add water , brown sugar , cider vinegar , Worcestershire sauce , the garlic , and hot sauce .
+PREDID: 185
+PRED: add
+   DOBJ: water , brown sugar , cider vinegar , Worcestershire sauce , the garlic , hot sauce
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  hot sauce
+
+
+SENTID: 5
+SENT: I would cook on Low for 7 hours .
+PREDID: 257
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 7 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 7 hours
+
+
+SENTID: 6
+SENT: I would remove tenderloin to a platter and drain cooking liquid , reserving about 1/2 cup .
+PREDID: 276
+PRED: remove
+   DOBJ: tenderloin
+      NON-INGREDIENT SPAN: tenderloin
+   PARG: a platter, drain cooking liquid
+     PREP: to
+      NON-INGREDIENT SPAN:  drain cooking liquid
+      NON-INGREDIENT SPAN: a platter
+   OARG: reserving about 1/2 cup
+      NON-INGREDIENT SPAN: reserving about 1/2 cup
+
+
+SENTID: 7
+SENT: I would shred pork and return to slow cooker .
+PREDID: 345
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+
+PREDID: 357
+PRED: return
+   DOBJ: NULL
+   OARG: to slow cooker
+      NON-INGREDIENT SPAN: to slow cooker
+
+
+SENTID: 8
+SENT: I would add enough reserved liquid to moisten meat .
+PREDID: 376
+PRED: add
+   DOBJ: enough reserved liquid
+      NON-INGREDIENT SPAN: enough reserved liquid
+   PARG: moisten meat
+     PREP: to
+      NON-INGREDIENT SPAN: moisten meat
+
+
+SENTID: 9
+SENT: I would whisk mayonnaise , white vinegar , garlic powder , lemon pepper , and 1 pinch cayenne pepper together in a bowl .
+PREDID: 413
+PRED: whisk
+   DOBJ: mayonnaise , white vinegar , garlic powder , lemon pepper , 1 pinch cayenne pepper
+      INGREDIENT SPAN:  lemon pepper 
+         INGREDIENTS: lemon pepper taste
+      INGREDIENT SPAN:  white vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  1 pinch cayenne pepper
+         INGREDIENTS: cayenne pepper taste
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would serve mayonnaise sauce with shredded pork .
+PREDID: 505
+PRED: serve
+   DOBJ: mayonnaise sauce
+      NON-INGREDIENT SPAN: mayonnaise sauce
+   PARG: shredded pork
+     PREP: with
+      NON-INGREDIENT SPAN: shredded pork
+
+

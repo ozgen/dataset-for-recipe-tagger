@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would heat 1 teaspoon of the oil in a wok over high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: 1 teaspoon of the oil in a wok over high heat
+      INGREDIENT SPAN: 1 teaspoon of the oil in a wok over high heat
+         INGREDIENTS: peanut oil
+
+
+SENTID: 1
+SENT: I would add the carrots and celery and stir fry for 3 minutes .
+PREDID: 40
+PRED: add
+   DOBJ: the carrots
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: carrots peeled sliced
+
+PREDID: 56
+PRED: celery and stir
+   DOBJ: NULL
+   PARG: fry for 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: fry for 3 minutes
+
+
+SENTID: 2
+SENT: I would add the remaining 1 teaspoon oil ,
+PREDID: 84
+PRED: add
+   DOBJ: the remaining 1 teaspoon oil
+      INGREDIENT SPAN: the remaining 1 teaspoon oil
+         INGREDIENTS: peanut oil
+
+
+SENTID: 3
+SENT: I would add the chicken and stir fry for 5 more minutes .
+PREDID: 109
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+
+PREDID: 125
+PRED: stir
+   DOBJ: fry
+      NON-INGREDIENT SPAN: fry
+   PARG: 5 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 more minutes
+
+
+SENTID: 4
+SENT: In a small bowl , I would dissolve the cornstarch into the orange juice .
+PREDID: 161
+PRED: dissolve
+   DOBJ: the cornstarch
+      INGREDIENT SPAN: the cornstarch
+         INGREDIENTS: cornstarch
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: the orange juice
+     PREP: into
+      INGREDIENT SPAN: the orange juice
+         INGREDIENTS: orange juice
+
+
+SENTID: 5
+SENT: I would mix in the soy sauce , the honey and ginger .
+PREDID: 201
+PRED: mix
+   DOBJ: NULL
+   PARG: the soy sauce , the honey, ginger
+     PREP: in
+      INGREDIENT SPAN:  the honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN: the soy sauce 
+         INGREDIENTS: light soy sauce
+
+
+SENTID: 6
+SENT: I would add this sauce to the wok and cook over medium heat until thickened .
+PREDID: 233
+PRED: add
+   DOBJ: this sauce
+      NON-INGREDIENT SPAN: this sauce
+   PARG: the wok
+     PREP: to
+      NON-INGREDIENT SPAN: the wok
+
+PREDID: 256
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: thickened
+     PREP: until
+      NON-INGREDIENT SPAN: thickened
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 7
+SENT: I would top with the cashews and green onions .
+PREDID: 289
+PRED: top
+   DOBJ: NULL
+   PARG: the cashews, green onions
+     PREP: with
+      INGREDIENT SPAN: the cashews
+         INGREDIENTS: cashews
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: minced green onions
+
+

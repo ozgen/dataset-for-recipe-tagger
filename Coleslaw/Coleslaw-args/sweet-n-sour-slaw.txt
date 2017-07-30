@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: In a jar with lid , I would combine SPLENDA ? Granulated Sweetener , the vinegar , the water , the salt , mustard seed and celery seed .
+PREDID: 14
+PRED: combine
+   DOBJ: SPLENDA ? Granulated Sweetener , the vinegar , the water , the salt , mustard seed, celery seed
+      INGREDIENT SPAN:  mustard seed
+         INGREDIENTS: mustard seed
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: SPLENDA ? Granulated Sweetener 
+         INGREDIENTS: SPLENDA No Calorie Sweetener Granulated
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: cold water
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+   PARG: a jar with lid
+     PREP: in
+      NON-INGREDIENT SPAN: a jar with lid
+
+
+SENTID: 1
+SENT: I would cover tightly and shake vigorously until sugar is dissolved .
+PREDID: 93
+PRED: cover
+   DOBJ: tightly
+      NON-INGREDIENT SPAN: tightly
+
+PREDID: 108
+PRED: shake
+   DOBJ: NULL
+   PARG: sugar is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar is dissolved
+   OARG: vigorously
+      NON-INGREDIENT SPAN: vigorously
+
+
+SENTID: 2
+SENT: I would chill the dressing for several hours or overnight .
+PREDID: 145
+PRED: chill
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: several hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: several hours or overnight
+
+
+SENTID: 3
+SENT: In a large bowl , I would toss together the cabbage , the celery , green peppers , the pimento and dressing until evenly coated .
+PREDID: 198
+PRED: toss
+   DOBJ: the cabbage , the celery , green peppers , the pimento, dressing
+      INGREDIENT SPAN:  green peppers 
+         INGREDIENTS: chopped pimento pepper
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded cabbage
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  the pimento
+      NON-INGREDIENT SPAN:  dressing
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would cover and chill until serving .
+PREDID: 277
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

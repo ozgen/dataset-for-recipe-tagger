@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix together egg , the milk and vanilla .
+PREDID: 14
+PRED: mix
+   DOBJ: egg , the milk, vanilla
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a large skillet , I would heat oil over medium high heat .
+PREDID: 60
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: oil frying
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 2
+SENT: I would dip bread into egg mixture and slide into hot oil .
+PREDID: 86
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices bread
+   PARG: egg mixture, slide
+     PREP: into
+      NON-INGREDIENT SPAN:  slide
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: hot oil
+     PREP: into
+      NON-INGREDIENT SPAN: hot oil
+
+
+SENTID: 3
+SENT: I would cook until golden brown , drain and serve .
+PREDID: 127
+PRED: cook
+   DOBJ: NULL
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+

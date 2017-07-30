@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would place pork in slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: boneless pork shoulder roast trimmed
+   PARG: slow cooker
+     PREP: in
+      INGREDIENT SPAN: slow cooker
+         INGREDIENTS: package MCCORMICK Slow Cookers BBQ Pulled Pork Seasoning
+
+
+SENTID: 1
+SENT: I would mix Seasoning Mix , the ketchup , brown sugar and vinegar until blended .
+PREDID: 22
+PRED: mix
+   DOBJ: Seasoning Mix , the ketchup , brown sugar, vinegar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: cider vinegar
+      NON-INGREDIENT SPAN: Seasoning Mix 
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 2
+SENT: I would pour over pork .
+PREDID: 79
+PRED: pour
+   DOBJ: NULL
+   PARG: pork
+     PREP: over
+      NON-INGREDIENT SPAN: pork
+
+
+SENTID: 3
+SENT: I would cover .
+PREDID: 92
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cook 8 hours on LOW or 4 hours on HIGH .
+PREDID: 98
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: low or 4 hours on high
+     PREP: on
+      NON-INGREDIENT SPAN: low or 4 hours on high
+
+
+SENTID: 5
+SENT: I would remove pork from slow cooker .
+PREDID: 128
+PRED: remove
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: slow cooker
+     PREP: from
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 6
+SENT: I would shred pork , using 2 forks .
+PREDID: 153
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   OARG: using 2 forks
+      NON-INGREDIENT SPAN: using 2 forks
+
+
+SENTID: 7
+SENT: I would return pork to slow cooker .
+PREDID: 175
+PRED: return
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   OARG: to slow cooker
+      NON-INGREDIENT SPAN: to slow cooker
+
+
+SENTID: 8
+SENT: I would mix and heat with sauce before serving .
+PREDID: 198
+PRED: mix and heat
+   DOBJ: NULL
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 9
+SENT: I would serve on sandwich rolls , if desired .
+PREDID: 231
+PRED: serve
+   DOBJ: NULL
+   PARG: sandwich rolls
+     PREP: on
+      NON-INGREDIENT SPAN: sandwich rolls
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

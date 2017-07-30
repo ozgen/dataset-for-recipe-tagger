@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would place potato , the carrots , and eggs in a pot and pour in enough water to cover ;
+PREDID: 0
+PRED: place
+   DOBJ: potato , the carrots , eggs in a pot
+      INGREDIENT SPAN:  eggs in a pot
+         INGREDIENTS: eggs more taste
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots
+      INGREDIENT SPAN: potato 
+         INGREDIENTS: russet potato
+
+PREDID: 39
+PRED: pour
+   DOBJ: NULL
+   PARG: enough water
+     PREP: in
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 61
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat and simmer for 15 minutes .
+PREDID: 74
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 3
+SENT: I would remove carrots using a slotted spoon , cool on a work surface , and dice .
+PREDID: 106
+PRED: remove
+   DOBJ: carrots using a slotted spoon , cool on a work surface , dice
+      NON-INGREDIENT SPAN:  dice
+      NON-INGREDIENT SPAN:  cool on a work surface 
+      NON-INGREDIENT SPAN: carrots using a slotted spoon 
+
+
+SENTID: 4
+SENT: I would continue the simmering eggs and potato for 5 more minutes .
+PREDID: 165
+PRED: continue
+   DOBJ: the simmering eggs, potato
+      NON-INGREDIENT SPAN:  potato
+      NON-INGREDIENT SPAN: the simmering eggs
+   PARG: 5 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 more minutes
+
+
+SENTID: 5
+SENT: I would remove eggs with a slotted spoon and transfer to a bowl of ice water until cooled , about 5 minutes .
+PREDID: 211
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+PREDID: 241
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl of ice water until cooled , about 5 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl of ice water until cooled 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 6
+SENT: I would peel eggs and dice .
+PREDID: 292
+PRED: peel
+   DOBJ: eggs, dice
+      NON-INGREDIENT SPAN:  dice
+      NON-INGREDIENT SPAN: eggs
+
+
+SENTID: 7
+SENT: I would continue cooking potato until tender , about 5 more minutes .
+PREDID: 308
+PRED: continue
+   DOBJ: cooking potato
+      NON-INGREDIENT SPAN: cooking potato
+   PARG: tender , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 8
+SENT: I would drain pot , cool potato on a work surface ;
+PREDID: 359
+PRED: drain
+   DOBJ: pot , cool potato on a work surface
+      NON-INGREDIENT SPAN:  cool potato on a work surface
+      NON-INGREDIENT SPAN: pot 
+
+
+SENTID: 9
+SENT: I would dice .
+PREDID: 393
+PRED: dice
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would combine potato , the carrots , the eggs , the peas , the pickles , the onion , the dill , the salt , and pepper in a bowl .
+PREDID: 398
+PRED: combine
+   DOBJ: potato , the carrots , the eggs , the peas , the pickles , the onion , the dill , the salt , pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce peas drained
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: dill pickles diced
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: fresh dill taste
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN:  the carrots 
+      NON-INGREDIENT SPAN:  pepper in a bowl
+      NON-INGREDIENT SPAN: potato 
+
+
+SENTID: 11
+SENT: I would stir mayonnaise into salad until evenly coated .
+PREDID: 471
+PRED: stir
+   DOBJ: mayonnaise
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+

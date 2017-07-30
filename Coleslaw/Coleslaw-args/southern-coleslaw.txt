@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: I would place the tomato in a large bowl , and season with salt and pepper .
+PREDID: 0
+PRED: place
+   DOBJ: the tomato in a large bowl , season with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN: the tomato in a large bowl 
+         INGREDIENTS: medium tomato diced
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt
+
+
+SENTID: 1
+SENT: I would stir in the coleslaw mix and lime juice .
+PREDID: 54
+PRED: stir
+   DOBJ: NULL
+   PARG: the coleslaw mix, lime juice
+     PREP: in
+      INGREDIENT SPAN:  lime juice
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce package shredded coleslaw mix
+
+
+SENTID: 2
+SENT: I would refrigerate for 10 minutes before serving .
+PREDID: 87
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

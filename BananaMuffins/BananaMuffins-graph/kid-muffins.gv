@@ -1,0 +1,75 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P41)", shape=oval, style=filled, fillcolor=azure]
+E2[label="soak (S2,P84)", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain (S3,P149)", shape=oval, style=filled, fillcolor=azure]
+E4[label="chop (S4,P155)", shape=oval, style=filled, fillcolor=azure]
+E5[label="beat (S5,P167)", shape=oval, style=filled, fillcolor=azure]
+E6[label="add (S6,P224)", shape=oval, style=filled, fillcolor=azure]
+E7[label="beat (S7,P273)", shape=oval, style=filled, fillcolor=azure]
+E8[label="fold (S8,P297)", shape=oval, style=filled, fillcolor=azure]
+E9[label="pour (S9,P426)", shape=oval, style=filled, fillcolor=azure]
+E10[label="bake (S10,P453)", shape=oval, style=filled, fillcolor=azure]
+E11[label="cool (S11,P540)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: 12 muffin cups", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with coconut oil
+(text: with 2 teaspoons coconut oil)", shape=box, style=filled, fillcolor=peachpuff]
+P1_0 -> E1
+D2[label="DOBJ: raisins, warm water
+(text: raisins in warm water)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a small bowl until rehydrated , about 10 minutes", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D0[label="DOBJ: the oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D6[label="DOBJ: eggs, ripe bananas, grated carrot, ounces applesauce
+(text: eggs , mashed bananas , applesauce , grated carrot)", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+E3 -> E4 [label="OUTPUT: 
+INPUT: raisins"]
+D5_ing[label="DOBJ: brown sugar, butter
+(text:  butter ,  brown sugar)", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E1 -> E5 [label="OUTPUT: 
+INPUT: 1/4 cup coconut oil "]
+P5_0_0[label="PREP: in a bowl", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+O5_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+O7_0_0[label="OTHER: to incorporate", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+D8_ing[label="DOBJ: bread flour, vanilla extract, ground flax seed, whole-wheat flour, baking soda, salt
+(text:  salt ,  flax seed , bread flour ,  vanilla extract,  baking soda ,  whole-wheat flour )", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E4 -> E8 [label="OUTPUT: 
+INPUT:  chopped raisins "]
+E5 -> E8 [label="OUTPUT: 
+INPUT: into the banana mixture using a rubber spatula"]
+O8_0_0[label="OTHER: gently", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+E7 -> E9 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+E0 -> E10 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O10_0_0[label="OTHER: until a toothpick inserted into the center comes out clean ", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+O10_0_1[label="OTHER:  about 18 minutes", shape=box, style=filled, fillcolor=white]
+O10_0_1 -> E10
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_0[label="PREP: in the pans for 10 minutes", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+P11_1_0[label="PREP: before removing to cool completely on a wire rack", shape=box, style=filled, fillcolor=white]
+P11_1_0 -> E11
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

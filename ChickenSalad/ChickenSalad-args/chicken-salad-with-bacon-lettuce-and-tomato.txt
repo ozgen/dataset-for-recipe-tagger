@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 31
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain , crumble and set aside to cool .
+PREDID: 70
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 86
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would prepare the dressing by mixing together the mayonnaise , the parsley , green onions , lemon juice , Worcestershire sauce , the salt and pepper .
+PREDID: 101
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: mixing together the mayonnaise , the parsley , green onions , lemon juice , worcestershire sauce , the salt, pepper
+     PREP: by
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN: mixing together the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: In a medium bowl , I would stir together the chicken breast , the tomatoes and bacon .
+PREDID: 228
+PRED: stir
+   DOBJ: the chicken breast , the tomatoes, bacon
+      INGREDIENT SPAN: the chicken breast 
+         INGREDIENTS: chopped cooked chicken breast
+      NON-INGREDIENT SPAN:  bacon
+      NON-INGREDIENT SPAN:  the tomatoes
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour the dressing over chicken mixture and toss well to coat .
+PREDID: 274
+PRED: pour
+   DOBJ: the dressing over chicken mixture
+      NON-INGREDIENT SPAN: the dressing over chicken mixture
+
+PREDID: 310
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would refrigerate until chilled ;
+PREDID: 322
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 7
+SENT: I would serve over lettuce leaves and garnish with avocado slices .
+PREDID: 346
+PRED: serve
+   DOBJ: lettuce leaves
+      INGREDIENT SPAN: lettuce leaves
+         INGREDIENTS: leaves romaine lettuce
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 371
+PRED: garnish
+   DOBJ: NULL
+   PARG: avocado slices
+     PREP: with
+      INGREDIENT SPAN: avocado slices
+         INGREDIENTS: avocado peeled seeded sliced
+
+

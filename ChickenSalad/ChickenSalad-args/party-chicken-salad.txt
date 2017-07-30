@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would mix mayonnaise , sour cream , and curry powder in a bowl until smooth .
+PREDID: 0
+PRED: mix
+   DOBJ: mayonnaise
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+
+PREDID: 14
+PRED: sour
+   DOBJ: cream
+      INGREDIENT SPAN: cream
+         INGREDIENTS: sour cream
+
+PREDID: 27
+PRED: curry
+   DOBJ: powder in a bowl
+      INGREDIENT SPAN: powder in a bowl
+         INGREDIENTS: curry powder
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 1
+SENT: I would toss apple and lemon juice in a large bowl .
+PREDID: 57
+PRED: toss
+   DOBJ: apple, lemon juice in a large bowl
+      INGREDIENT SPAN: apple
+         INGREDIENTS: small apple chopped
+      INGREDIENT SPAN:  lemon juice in a large bowl
+         INGREDIENTS: ounce crushed pineapple juice undrained
+
+
+SENTID: 2
+SENT: I would stir in chicken breast meat , the celery , green grapes , the pecans , and pineapple .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken breast meat , the celery , green grapes , the pecans , pineapple
+     PREP: in
+      INGREDIENT SPAN: chicken breast meat 
+         INGREDIENTS: cooked chicken breasts shredded
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  green grapes 
+         INGREDIENTS: seedless green grapes halved
+      NON-INGREDIENT SPAN:  pineapple
+
+
+SENTID: 3
+SENT: I would pour mayonnaise mixture over chicken ;
+PREDID: 155
+PRED: pour
+   DOBJ: mayonnaise mixture
+      NON-INGREDIENT SPAN: mayonnaise mixture
+   PARG: chicken
+     PREP: over
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 4
+SENT: I would toss to combine .
+PREDID: 188
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 5
+SENT: I would cover and refrigerate until chilled .
+PREDID: 202
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

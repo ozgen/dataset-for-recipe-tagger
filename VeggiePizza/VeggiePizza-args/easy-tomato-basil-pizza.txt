@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would mix the tomatoes and salt in a mesh strainer .
+PREDID: 0
+PRED: mix
+   DOBJ: the tomatoes, salt in a mesh strainer
+      INGREDIENT SPAN:  salt in a mesh strainer
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: tomatoes seeded chopped
+
+
+SENTID: 1
+SENT: I would let mixture sit and drain for 15 minutes .
+PREDID: 37
+PRED: let sit
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 53
+PRED: drain
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 2
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 71
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 3
+SENT: I would combine the drained tomatoes , 8 ounces of mozzarella cheese , the onion , the basil , the pepper , olive oil , the jalapenos , the olives , and mushrooms in a bowl .
+PREDID: 109
+PRED: combine
+   DOBJ: the drained tomatoes , 8 ounces of mozzarella cheese , the onion , the basil , the pepper , olive oil , the jalapenos , the olives , mushrooms in a bowl
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  8 ounces of mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  mushrooms in a bowl
+         INGREDIENTS: sliced fresh mushrooms
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the jalapenos 
+      NON-INGREDIENT SPAN: the drained tomatoes 
+
+
+SENTID: 4
+SENT: I would spread the pizza sauce evenly onto the pizza crusts .
+PREDID: 226
+PRED: spread
+   DOBJ: the pizza sauce
+      INGREDIENT SPAN: the pizza sauce
+         INGREDIENTS: pizza sauce
+   OARG: evenly onto the pizza crusts
+      INGREDIENT SPAN: evenly onto the pizza crusts
+         INGREDIENTS: inch prebaked pizza crusts
+
+
+SENTID: 5
+SENT: I would distribute tomato mixture over the two pizza crusts evenly .
+PREDID: 270
+PRED: distribute
+   DOBJ: tomato mixture over the two pizza crusts
+      NON-INGREDIENT SPAN: tomato mixture over the two pizza crusts
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would sprinkle 8 ounces of mozzarella cheese and the Parmesan cheese over both pizzas .
+PREDID: 321
+PRED: sprinkle
+   DOBJ: 8 ounces of mozzarella cheese, the Parmesan cheese over both pizzas
+      INGREDIENT SPAN:  the Parmesan cheese over both pizzas
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: 8 ounces of mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 7
+SENT: I would bake pizzas in preheated oven until cheese is completely melted , 8 to 10 minutes .
+PREDID: 389
+PRED: bake
+   DOBJ: pizzas
+      NON-INGREDIENT SPAN: pizzas
+   PARG: preheated oven until cheese is completely melted , 8 to 10 minutes
+     PREP: in
+      INGREDIENT SPAN: preheated oven until cheese is completely melted 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+

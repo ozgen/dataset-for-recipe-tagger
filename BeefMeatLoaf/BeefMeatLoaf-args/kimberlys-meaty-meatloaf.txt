@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a mixing bowl , I would combine ground beef , the breadcrumbs , the eggs , Worcestershire sauce , the onion , and parmesan cheese .
+PREDID: 52
+PRED: combine
+   DOBJ: ground beef , the breadcrumbs , the eggs , Worcestershire sauce , the onion , parmesan cheese
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: extralean ground beef
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  the breadcrumbs 
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 2
+SENT: I would shape into a loaf and place in a 8x4-inch loaf pan .
+PREDID: 131
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf, place in a 8x4-inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN:  place in a 8x4-inch loaf pan
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would top with tomato sauce .
+PREDID: 172
+PRED: top
+   DOBJ: NULL
+   PARG: tomato sauce
+     PREP: with
+      INGREDIENT SPAN: tomato sauce
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 4
+SENT: I would bake in preheated oven for 1 hour , or until internal temperature measures 160 degrees F -LRB- 70 degrees C -RRB- ;
+PREDID: 191
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour , or until internal temperature measures 160 degrees f -lrb- 70 degrees c
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 1 hour 
+      NON-INGREDIENT SPAN:  or until internal temperature measures 160 degrees f -lrb- 70 degrees c
+
+
+SENTID: 5
+SENT: the meat should be well done , with no trace of pink .
+
+SENTID: 6
+SENT: I would remove from oven , and allow to rest for 10 minutes before serving .
+PREDID: 277
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 295
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest for 10 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 10 minutes before serving
+
+

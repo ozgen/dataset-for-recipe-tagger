@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: In a large Dutch oven heat the oil over high heat and brown the cubed stew meat .
+
+SENTID: 1
+SENT: I would remove from pan .
+PREDID: 64
+PRED: remove
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 2
+SENT: In the same pan , I would saute the bacon , the onion and celery until onions are translucent and bacon is fully cooked .
+PREDID: 91
+PRED: saute
+   DOBJ: the bacon , the onion, celery
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: strips celery diced
+      INGREDIENT SPAN: the bacon 
+         INGREDIENTS: bacon cut inch
+   PARG: the same pan
+     PREP: in
+      NON-INGREDIENT SPAN: the same pan
+   PARG: onions are translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onions are translucent
+
+PREDID: 162
+PRED: is cooked
+   DOBJ: NULL
+   OARG: fully
+      NON-INGREDIENT SPAN: fully
+
+
+SENTID: 3
+SENT: I would return the browned stew meat to the pan .
+PREDID: 166
+PRED: return
+   DOBJ: the browned stew meat
+      INGREDIENT SPAN: the browned stew meat
+         INGREDIENTS: beef stew meat cut inch
+   PARG: the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 4
+SENT: I would stir in seasoning salt , Worcestershire sauce and beef broth .
+PREDID: 199
+PRED: stir
+   DOBJ: NULL
+   PARG: seasoning salt , worcestershire sauce, beef broth
+     PREP: in
+      INGREDIENT SPAN: seasoning salt 
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 5
+SENT: I would bring to a boil ,
+PREDID: 251
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would cover and reduce the heat to medium .
+PREDID: 264
+PRED: cover and reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 7
+SENT: I would simmer for 1 to 1?1/2 hours or until meat is fork tender .
+PREDID: 294
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 to 1?1/2 hours or until meat is fork tender
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 1?1/2 hours or until meat is fork tender
+
+
+SENTID: 8
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 340
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: cold water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would add the egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 382
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package dry egg noodles
+
+PREDID: 401
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 10
+SENT: I would drain .
+PREDID: 435
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: In a skillet , I would melt the butter over medium heat and saute the mushrooms for 3 to 4 minutes .
+PREDID: 452
+PRED: melt
+   DOBJ: the butter over medium heat
+      INGREDIENT SPAN: the butter over medium heat
+         INGREDIENTS: butter
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+PREDID: 482
+PRED: saute
+   DOBJ: the mushrooms
+      INGREDIENT SPAN: the mushrooms
+         INGREDIENTS: ounce sliced mushrooms
+   PARG: 3 to 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 minutes
+
+
+SENTID: 12
+SENT: I would add the mushrooms to the meat mixture .
+PREDID: 514
+PRED: add
+   DOBJ: the mushrooms
+      NON-INGREDIENT SPAN: the mushrooms
+   PARG: the meat mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the meat mixture
+
+
+SENTID: 13
+SENT: I would bring the meat mixture to a boil .
+PREDID: 546
+PRED: bring
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 14
+SENT: I would mix together the cornstarch and the water , and stir into the meat mixture ;
+PREDID: 573
+PRED: mix
+   DOBJ: the cornstarch, the water
+      INGREDIENT SPAN: the cornstarch
+         INGREDIENTS: cornstarch
+      NON-INGREDIENT SPAN:  the water
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 612
+PRED: stir
+   DOBJ: NULL
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+
+
+SENTID: 15
+SENT: stirring constantly .
+PREDID: 635
+PRED: stirring
+   DOBJ: NULL
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 16
+SENT: I would stir in sour cream until creamy serve over the egg noodles .
+PREDID: 654
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: ounce container sour cream
+   PARG: creamy serve over the egg noodles
+     PREP: until
+      NON-INGREDIENT SPAN: creamy serve over the egg noodles
+
+

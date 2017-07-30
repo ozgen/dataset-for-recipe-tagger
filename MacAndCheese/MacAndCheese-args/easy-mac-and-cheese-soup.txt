@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: I would cook macaroni according to package directions ;
+PREDID: 0
+PRED: cook
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package uncooked macaroni cheese
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 41
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: Do not stir in the sauce .
+
+SENTID: 3
+SENT: In a medium saucepan , I would combine broccoli , the onion and water .
+PREDID: 65
+PRED: combine
+   DOBJ: broccoli , the onion, water
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: chopped broccoli
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+
+
+SENTID: 4
+SENT: I would bring to a boil and cook until broccoli is tender .
+PREDID: 95
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 110
+PRED: cook
+   DOBJ: NULL
+   PARG: broccoli is tender
+     PREP: until
+      NON-INGREDIENT SPAN: broccoli is tender
+
+
+SENTID: 5
+SENT: I would stir in macaroni , cheese mixture from package , the milk , the soup and ham .
+PREDID: 136
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni , cheese mixture
+     PREP: in
+      INGREDIENT SPAN:  cheese mixture
+         INGREDIENTS: ounce condensed cream Cheddar cheese soup
+      NON-INGREDIENT SPAN: macaroni 
+   PARG: package , the milk , the soup, ham
+     PREP: from
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  ham
+         INGREDIENTS: cubed cooked ham
+      NON-INGREDIENT SPAN: package 
+      NON-INGREDIENT SPAN:  the soup
+
+
+SENTID: 6
+SENT: I would return to a boil briefly .
+PREDID: 192
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+
+
+SENTID: 7
+SENT: I would serve hot .
+PREDID: 213
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

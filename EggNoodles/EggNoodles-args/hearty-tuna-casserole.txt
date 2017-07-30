@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2 quart casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 2 quart casserole dish
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of salted water to a boil , add noodles , and cook until al dente ;
+PREDID: 65
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 100
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked egg noodles
+
+PREDID: 114
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 131
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large mixing bowl , I would combine noodles , the tuna , the celery , and green onion .
+PREDID: 156
+PRED: combine
+   DOBJ: noodles , the tuna , the celery , green onion
+      INGREDIENT SPAN:  the tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: noodles 
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 5
+SENT: I would stir in sour cream , the mustard , and mayonnaise .
+PREDID: 197
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream , the mustard , mayonnaise
+     PREP: in
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 6
+SENT: I would season with salt and thyme .
+PREDID: 235
+PRED: season
+   DOBJ: NULL
+   PARG: salt, thyme
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  thyme
+
+
+SENTID: 7
+SENT: I would spoon 1/2 of the noodle mixture into the prepared casserole dish .
+PREDID: 258
+PRED: spoon
+   DOBJ: 1/2 of the noodle mixture
+      NON-INGREDIENT SPAN: 1/2 of the noodle mixture
+   PARG: the prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 8
+SENT: I would arrange a layer of zucchini over the mixture .
+PREDID: 313
+PRED: arrange
+   DOBJ: a layer of zucchini over the mixture
+      INGREDIENT SPAN: a layer of zucchini over the mixture
+         INGREDIENTS: small zucchini sliced
+
+
+SENTID: 9
+SENT: I would top with the remaining noodles , followed by a layer of zucchini .
+PREDID: 351
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining noodles , followed by a layer of zucchini
+     PREP: with
+      NON-INGREDIENT SPAN:  followed by a layer of zucchini
+      NON-INGREDIENT SPAN: the remaining noodles 
+
+
+SENTID: 10
+SENT: I would top the entire casserole with cheese .
+PREDID: 405
+PRED: top
+   DOBJ: the entire casserole
+      NON-INGREDIENT SPAN: the entire casserole
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Monterey Jack cheese
+
+
+SENTID: 11
+SENT: I would bake in preheated oven for 30 minutes , or until hot and bubbly .
+PREDID: 437
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 12
+SENT: I would sprinkle the casserole with tomatoes before serving .
+PREDID: 489
+PRED: sprinkle
+   DOBJ: the casserole with tomatoes
+      NON-INGREDIENT SPAN: the casserole with tomatoes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

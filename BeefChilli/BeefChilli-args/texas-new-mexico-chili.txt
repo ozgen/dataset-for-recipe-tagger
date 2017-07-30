@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would combine the onion , garlic , red bell pepper and ground beef and saute for 10 minutes , or until meat is browned .
+PREDID: 26
+PRED: combine
+   DOBJ: the onion , garlic , red bell pepper, ground beef
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: red bell pepper chopped
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+PREDID: 78
+PRED: saute
+   DOBJ: NULL
+   PARG: 10 minutes , or until meat is browned
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes 
+      NON-INGREDIENT SPAN:  or until meat is browned
+
+
+SENTID: 1
+SENT: I would add the cumin , chili powder , the oregano and bay leaf and saute for 2 to 3 more minutes .
+PREDID: 117
+PRED: add
+   DOBJ: the cumin , chili powder , the oregano, bay leaf
+      INGREDIENT SPAN:  bay leaf
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: the cumin 
+         INGREDIENTS: ground cumin
+   PARG: more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: more minutes
+
+PREDID: 164
+PRED: saute
+   DOBJ: NULL
+   PARG: 2 to 3
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3
+
+
+SENTID: 2
+SENT: I would then add the chicken broth and the tomatoes , mix well and cook for 30 minutes .
+PREDID: 189
+PRED: add
+   DOBJ: the chicken broth, the tomatoes
+      INGREDIENT SPAN: the chicken broth
+         INGREDIENTS: ounce chicken broth
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: ounce peeled diced tomatoes juice
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+PREDID: 222
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 232
+PRED: cook
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 3
+SENT: I would add the pinto beans and kidney beans and continue cooking for 10 more minutes .
+PREDID: 249
+PRED: add
+   DOBJ: the pinto beans, kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN: the pinto beans
+         INGREDIENTS: ounce pinto beans
+
+PREDID: 282
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 10 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 more minutes
+
+
+SENTID: 4
+SENT: I would finally , add the cornmeal , stirring well , until the chili thickens , about 10 to 15 minutes .
+
+SENTID: 5
+SENT: I would remove bay leaf .
+PREDID: 314
+PRED: remove
+   DOBJ: bay leaf
+      NON-INGREDIENT SPAN: bay leaf
+
+

@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would place the shredded bok choy , the cucumber , the carrots , and cherry peppers into a large salad bowl .
+PREDID: 0
+PRED: place
+   DOBJ: the shredded bok choy , the cucumber , the carrots , cherry peppers
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots peeled shredded
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber seeded shredded
+      INGREDIENT SPAN: the shredded bok choy 
+         INGREDIENTS: head bok choy shredded
+      INGREDIENT SPAN:  cherry peppers
+         INGREDIENTS: hot cherry peppers seeded shredded
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 1
+SENT: I would place the jalapeno peppers into the work bowl of a food processor ,
+PREDID: 77
+PRED: place
+   DOBJ: the jalapeno peppers
+      INGREDIENT SPAN: the jalapeno peppers
+         INGREDIENTS: cracked black pepper taste
+   PARG: the work bowl of a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: the work bowl of a food processor
+
+
+SENTID: 2
+SENT: I would pour in the apple cider vinegar , brown mustard , soy sauce , and agave syrup .
+PREDID: 132
+PRED: pour
+   DOBJ: NULL
+   PARG: the apple cider vinegar , brown mustard , soy sauce , agave syrup
+     PREP: in
+      INGREDIENT SPAN:  agave syrup
+         INGREDIENTS: agave syrup
+      INGREDIENT SPAN: the apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  brown mustard 
+         INGREDIENTS: coarsegrain brown mustard
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+
+
+SENTID: 3
+SENT: I would pulse several times ,
+PREDID: 195
+PRED: pulse
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+
+
+SENTID: 4
+SENT: I would process for a few seconds to combine .
+PREDID: 213
+PRED: process
+   DOBJ: NULL
+   PARG: a few seconds
+     PREP: for
+      NON-INGREDIENT SPAN: a few seconds
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 5
+SENT: I would pour the dressing over the vegetables and toss .
+PREDID: 244
+PRED: pour
+   DOBJ: the dressing over the vegetables
+      NON-INGREDIENT SPAN: the dressing over the vegetables
+
+
+SENTID: 6
+SENT: I would refrigerate from 1 hour to overnight .
+PREDID: 284
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: from
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 7
+SENT: Before serving , I would sprinkle with roasted ginger and black pepper ;
+PREDID: 330
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: roasted ginger, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: jalapeno peppers seeded chopped
+      INGREDIENT SPAN: roasted ginger
+         INGREDIENTS: roasted ground ginger
+
+
+SENTID: 8
+SENT: I would toss again to serve .
+PREDID: 370
+PRED: toss
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

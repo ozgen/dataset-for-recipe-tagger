@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a bowl , I would mix the hot red pepper sauce , the margarine , brown sugar , Worcestershire sauce , lemon juice , and salt .
+PREDID: 46
+PRED: mix
+   DOBJ: the hot red pepper sauce , the margarine , brown sugar , Worcestershire sauce , lemon juice , salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the hot red pepper sauce 
+         INGREDIENTS: hot red pepper sauce
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the margarine 
+         INGREDIENTS: margarine melted
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 2
+SENT: I would mix pecans into the bowl , tossing to coat evenly .
+PREDID: 130
+PRED: mix
+   DOBJ: pecans
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+   PARG: the bowl , tossing to coat evenly
+     PREP: into
+      NON-INGREDIENT SPAN:  tossing to coat evenly
+      NON-INGREDIENT SPAN: the bowl 
+
+
+SENTID: 3
+SENT: I would spread pecans in a single layer on a baking sheet .
+PREDID: 171
+PRED: spread
+   DOBJ: pecans
+      NON-INGREDIENT SPAN: pecans
+   PARG: a single layer on a baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer on a baking sheet
+
+
+SENTID: 4
+SENT: I would bake 10 minutes in the preheated oven , stirring often and watching carefully , until lightly browned .
+PREDID: 212
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes in the preheated oven
+
+PREDID: 244
+PRED: stirring
+   DOBJ: NULL
+   OARG: often
+      NON-INGREDIENT SPAN: often
+
+PREDID: 260
+PRED: watching
+   DOBJ: NULL
+   PARG: lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: lightly browned
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 5
+SENT: I would remove from heat , and set aside .
+PREDID: 298
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 316
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would rub chicken with the olive oil , place on a baking sheet , and sprinkle with Greek seasoning .
+PREDID: 325
+PRED: rub
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the olive oil , place on a baking sheet
+     PREP: with
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  place on a baking sheet
+
+PREDID: 374
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: greek seasoning
+     PREP: with
+      INGREDIENT SPAN: greek seasoning
+         INGREDIENTS: Greek seasoning
+
+
+SENTID: 7
+SENT: I would bake 20 minutes or until juices run clear .
+PREDID: 401
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes or until juices run clear
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes or until juices run clear
+
+
+SENTID: 8
+SENT: I would slice into strips .
+PREDID: 436
+PRED: slice
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 9
+SENT: In a salad bowl , I would toss together romaine lettuce , chicken strips , cherry tomato halves , the strawberries , the grapes , the raspberries , and blueberries .
+PREDID: 465
+PRED: toss
+   DOBJ: romaine lettuce , chicken strips , cherry tomato halves , the strawberries , the grapes , the raspberries , blueberries
+      INGREDIENT SPAN:  the raspberries 
+         INGREDIENTS: fresh raspberries
+      INGREDIENT SPAN: romaine lettuce 
+         INGREDIENTS: romaine lettuce torn
+      INGREDIENT SPAN:  the strawberries 
+         INGREDIENTS: fresh strawberries
+      INGREDIENT SPAN:  cherry tomato halves 
+         INGREDIENTS: cherry tomato halves
+      INGREDIENT SPAN:  blueberries
+         INGREDIENTS: fresh blueberries
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless grapes
+      NON-INGREDIENT SPAN:  chicken strips 
+   PARG: a salad bowl
+     PREP: in
+      INGREDIENT SPAN: a salad bowl
+         INGREDIENTS: honey mustard salad dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would sprinkle with pecans , and drizzle with dressing .
+PREDID: 572
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      NON-INGREDIENT SPAN: pecans
+
+PREDID: 594
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+

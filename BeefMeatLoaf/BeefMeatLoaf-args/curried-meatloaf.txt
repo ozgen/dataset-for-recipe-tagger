@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large mixing bowl , I would mix together ground beef , the oats , the onion , the apple , the raisins , the peanuts , the ketchup , the egg , curry powder , the cinnamon , and salt .
+PREDID: 57
+PRED: mix
+   DOBJ: ground beef , the oats , the onion , the apple , the raisins , the peanuts , the ketchup , the egg , curry powder , the cinnamon , salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: chopped peeled apple
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: quick cooking oats
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the peanuts 
+         INGREDIENTS: chopped peanuts
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would shape to form six 4x2 inch loaves .
+PREDID: 153
+PRED: shape
+   DOBJ: NULL
+   OARG: to form six 4x2 inch loaves
+      NON-INGREDIENT SPAN: to form six 4x2 inch loaves
+
+
+SENTID: 3
+SENT: I would place in a large shallow pan .
+PREDID: 181
+PRED: place
+   DOBJ: NULL
+   PARG: a large shallow pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large shallow pan
+
+
+SENTID: 4
+SENT: I would bake for about 25 to 30 minutes , or until done .
+PREDID: 205
+PRED: bake
+   DOBJ: NULL
+   PARG: about 25 to 30 minutes , or until done
+     PREP: for
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: about 25 to 30 minutes 
+
+

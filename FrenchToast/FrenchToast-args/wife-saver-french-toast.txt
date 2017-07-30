@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 1
+SENT: I would stir the brown sugar , corn syrup , and butter together in a saucepan over medium-high heat until bubbly .
+PREDID: 26
+PRED: stir
+   DOBJ: the brown sugar , corn syrup , butter
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: light brown sugar
+   PARG: a saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium-high heat
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour into the prepared baking dish ,
+PREDID: 113
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 3
+SENT: I would arrange the sliced French bread evenly over the syrup .
+PREDID: 143
+PRED: arrange
+   DOBJ: the sliced French bread
+      INGREDIENT SPAN: the sliced French bread
+         INGREDIENTS: French bread
+   OARG: evenly over the syrup
+      NON-INGREDIENT SPAN: evenly over the syrup
+
+
+SENTID: 4
+SENT: I would whisk together the eggs , the milk , vanilla extract , the flour , and salt until smooth .
+PREDID: 189
+PRED: whisk
+   DOBJ: the eggs , the milk , vanilla extract , the flour , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: % lowfat milk
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour over the French bread .
+PREDID: 255
+PRED: pour
+   DOBJ: the French bread
+      NON-INGREDIENT SPAN: the French bread
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 6
+SENT: I would cover , and refrigerate overnight .
+PREDID: 278
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 287
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 7
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 308
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 8
+SENT: I would stir together the white sugar and ground cinnamon ;
+PREDID: 346
+PRED: stir
+   DOBJ: the white sugar, ground cinnamon
+      INGREDIENT SPAN: the white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  ground cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would sprinkle over the french toast .
+PREDID: 389
+PRED: sprinkle
+   DOBJ: the french toast
+      NON-INGREDIENT SPAN: the french toast
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 10
+SENT: I would bake in preheated oven until golden brown on top , about 50 minutes .
+PREDID: 416
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: golden brown on top , about 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on top 
+      NON-INGREDIENT SPAN:  about 50 minutes
+
+

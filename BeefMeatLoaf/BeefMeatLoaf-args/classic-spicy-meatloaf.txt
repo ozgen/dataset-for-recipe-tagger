@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat butter in a large heavy skillet over medium heat ;
+PREDID: 38
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: unsalted butter
+   PARG: a large heavy skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large heavy skillet over medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir onion , green onions , the carrot , celery , and garlic until fragrant , about 5 minutes .
+PREDID: 83
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: onion , green onions , the carrot , celery , garlic until fragrant , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: rib celery chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  garlic until fragrant 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot chopped
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would cover skillet with a lid and cook , stirring occasionally , until carrot is tender , about 5 more minutes .
+PREDID: 163
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: a lid
+     PREP: with
+      NON-INGREDIENT SPAN: a lid
+   PARG: carrot is tender , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN: carrot is tender 
+
+PREDID: 191
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 4
+SENT: I would stir 1/3 cup ketchup , Worcestershire sauce , the salt , and pepper into vegetable mixture ;
+PREDID: 250
+PRED: stir
+   DOBJ: 1/3 cup ketchup , Worcestershire sauce , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: 1/3 cup ketchup 
+         INGREDIENTS: ketchup divided
+   PARG: vegetable mixture
+     PREP: into
+      NON-INGREDIENT SPAN: vegetable mixture
+
+
+SENTID: 5
+SENT: I would cook until warmed through , about 1 minute .
+PREDID: 323
+PRED: cook
+   DOBJ: NULL
+   PARG: warmed through , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: warmed through 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 6
+SENT: I would mix ground beef , the sausage , vegetable mixture , bread crumbs , the parsley , and eggs in a large bowl ;
+PREDID: 359
+PRED: mix
+   DOBJ: ground beef , the sausage , vegetable mixture , bread crumbs , the parsley , eggs in a large bowl
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: minced fresh parsley
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: spicy ground pork sausage
+      INGREDIENT SPAN:  eggs in a large bowl
+         INGREDIENTS: large eggs beaten
+      NON-INGREDIENT SPAN:  vegetable mixture 
+
+
+SENTID: 7
+SENT: I would form into a loaf and place in a rectangular baking pan with 2-inch high sides .
+PREDID: 438
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf, place in a rectangular baking pan with 2-inch high sides
+     PREP: into
+      NON-INGREDIENT SPAN:  place in a rectangular baking pan with 2-inch high sides
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 8
+SENT: I would cover loaf with remaining 1/3 cup ketchup .
+PREDID: 502
+PRED: cover
+   DOBJ: loaf
+      NON-INGREDIENT SPAN: loaf
+   PARG: remaining 1/3 cup ketchup
+     PREP: with
+      INGREDIENT SPAN: remaining 1/3 cup ketchup
+         INGREDIENTS: ketchup divided
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 538
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 10
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

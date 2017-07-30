@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat the vegetable oil with butter in a large skillet over medium heat , and cook the onion , the celery , and green pepper until the vegetables are tender , stirring occasionally , about 8 minutes .
+PREDID: 38
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: butter in a large skillet over medium heat
+     PREP: with
+      INGREDIENT SPAN: butter in a large skillet over medium heat
+         INGREDIENTS: butter
+
+PREDID: 100
+PRED: cook
+   DOBJ: the onion , the celery , green pepper
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: green bell pepper chopped
+   PARG: the vegetables are tender , stirring occasionally , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: the vegetables are tender 
+
+
+SENTID: 2
+SENT: I would mix in the pork sausage , and cook until the meat is browned , breaking it up into crumbles as it cooks , about 8 more minutes .
+PREDID: 197
+PRED: mix
+   DOBJ: NULL
+   PARG: the pork sausage
+     PREP: in
+      INGREDIENT SPAN: the pork sausage
+         INGREDIENTS: bulk pork sausage
+
+PREDID: 220
+PRED: cook
+   DOBJ: NULL
+   PARG: the meat is browned , breaking it up into crumbles as it cooks , about 8 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  breaking it up into crumbles as it cooks 
+      NON-INGREDIENT SPAN: the meat is browned 
+      NON-INGREDIENT SPAN:  about 8 more minutes
+
+
+SENTID: 3
+SENT: I would drain off excess grease .
+PREDID: 298
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would stir in the tomatoes , garlic powder , the basil , the sage , and Worcestershire sauce , mixing until well combined .
+PREDID: 319
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomatoes , garlic powder , the basil , the sage , worcestershire sauce
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes chopped
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: dried sage
+   OARG: mixing until well combined
+      NON-INGREDIENT SPAN: mixing until well combined
+
+
+SENTID: 5
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 408
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 446
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 6
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 500
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 523
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 537
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 8
+SENT: I would drain well in a colander set in the sink .
+PREDID: 648
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would mix the noodles gently into the pork mixture , and place into a 9x12-inch baking dish .
+PREDID: 681
+PRED: mix
+   DOBJ: the noodles
+      NON-INGREDIENT SPAN: the noodles
+   PARG: the pork mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the pork mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 722
+PRED: place
+   DOBJ: NULL
+   PARG: a 9x12-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x12-inch baking dish
+
+
+SENTID: 10
+SENT: I would sprinkle the top with Cheddar cheese .
+PREDID: 752
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: grated Cheddar cheese
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until the cheese is bubbling and browned , 30 to 40 minutes .
+PREDID: 784
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese is bubbling, browned , 30 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: the cheese is bubbling
+      NON-INGREDIENT SPAN:  browned 
+
+

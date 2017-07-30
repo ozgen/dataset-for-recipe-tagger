@@ -1,0 +1,260 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 149
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 190
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water .
+PREDID: 196
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 229
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 242
+PRED: halve
+   DOBJ: the eggs lengthwise
+      NON-INGREDIENT SPAN: the eggs lengthwise
+
+PREDID: 267
+PRED: scoop
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would gently mash the yolks with a fork .
+PREDID: 296
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 8
+SENT: I would melt butter in a skillet over medium heat ;
+PREDID: 318
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 9
+SENT: I would cook and stir the shrimp , green onion , and garlic powder in the melted butter until , about 4 minutes .
+PREDID: 353
+PRED: cook and stir
+   DOBJ: the shrimp , green onion , garlic powder
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: green onion chopped
+      INGREDIENT SPAN: the shrimp 
+         INGREDIENTS: small salad shrimp
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+   PARG: the melted butter until , about 4 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 4 minutes
+      NON-INGREDIENT SPAN: the melted butter until 
+
+
+SENTID: 10
+SENT: I would transfer the shrimp to a cutting board and mince .
+PREDID: 437
+PRED: transfer
+   DOBJ: the shrimp
+      NON-INGREDIENT SPAN: the shrimp
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+
+SENTID: 11
+SENT: I would stir 3/4 cup of the minced shrimp and any remaining liquid from the skillet into the egg yolks ;
+PREDID: 478
+PRED: stir
+   DOBJ: 3/4 cup of the minced shrimp, any remaining liquid
+      NON-INGREDIENT SPAN:  any remaining liquid
+      NON-INGREDIENT SPAN: 3/4 cup of the minced shrimp
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: the egg yolks
+
+
+SENTID: 12
+SENT: I would reserve the remaining shrimp for garnish .
+PREDID: 556
+PRED: reserve
+   DOBJ: the remaining shrimp for garnish
+      NON-INGREDIENT SPAN: the remaining shrimp for garnish
+
+
+SENTID: 13
+SENT: I would add the mayonnaise , the mustard , pickle relish , and hot sauce ;
+PREDID: 589
+PRED: add
+   DOBJ: the mayonnaise , the mustard , pickle relish , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish drained
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise taste
+
+
+SENTID: 14
+SENT: I would mix well .
+PREDID: 639
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 15
+SENT: I would scoop the mixture into a resealable plastic bag , seal the bag , and snip a corner off the bag with scissors to make a piping bag .
+PREDID: 647
+PRED: scoop
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a resealable plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: a resealable plastic bag
+
+PREDID: 688
+PRED: seal
+   DOBJ: the bag
+      NON-INGREDIENT SPAN: the bag
+
+PREDID: 702
+PRED: snip
+   DOBJ: a corner
+      NON-INGREDIENT SPAN: a corner
+   PARG: the bag with scissors
+     PREP: off
+      NON-INGREDIENT SPAN: the bag with scissors
+   OARG: to make a piping bag
+      NON-INGREDIENT SPAN: to make a piping bag
+
+
+SENTID: 16
+SENT: I would gently squeeze about 1?1/2 tablespoon of filling into each egg white half .
+PREDID: 757
+PRED: squeeze
+   DOBJ: about 1?1/2 tablespoon of filling into each egg white half
+      NON-INGREDIENT SPAN: about 1?1/2 tablespoon of filling into each egg white half
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 17
+SENT: I would garnish each deviled egg with a few pieces of the reserved chopped shrimp and a pinch of the chopped parsley ;
+PREDID: 814
+PRED: garnish
+   DOBJ: each deviled egg
+      NON-INGREDIENT SPAN: each deviled egg
+   PARG: a few pieces of the reserved chopped shrimp, a pinch of the chopped parsley
+     PREP: with
+      INGREDIENT SPAN: a few pieces of the reserved chopped shrimp
+         INGREDIENTS: chopped fresh parsley needed
+      NON-INGREDIENT SPAN:  a pinch of the chopped parsley
+
+
+SENTID: 18
+SENT: I would chill for at least 30 minutes in refrigerator before serving .
+PREDID: 904
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 30 minutes in refrigerator
+     PREP: for
+      NON-INGREDIENT SPAN: at least 30 minutes in refrigerator
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

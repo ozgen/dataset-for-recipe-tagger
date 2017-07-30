@@ -1,0 +1,224 @@
+SENTID: 0
+SENT: I would place the onion in a food processor , and process until finely chopped .
+PREDID: 0
+PRED: place
+   DOBJ: the onion in a food processor
+      NON-INGREDIENT SPAN: the onion in a food processor
+
+PREDID: 33
+PRED: process
+   DOBJ: NULL
+   PARG: finely chopped
+     PREP: until
+      NON-INGREDIENT SPAN: finely chopped
+
+
+SENTID: 1
+SENT: I would scoop the onions onto the center of a towel , gather up the ends of the towel , and squeeze out the liquid from the onions .
+PREDID: 59
+PRED: scoop
+   DOBJ: the onions
+      NON-INGREDIENT SPAN: the onions
+   PARG: the center of a towel
+     PREP: onto
+      NON-INGREDIENT SPAN: the center of a towel
+
+PREDID: 95
+PRED: gather
+   DOBJ: the ends of the towel
+      NON-INGREDIENT SPAN: the ends of the towel
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 124
+PRED: squeeze
+   DOBJ: the liquid from the onions
+      NON-INGREDIENT SPAN: the liquid from the onions
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 2
+SENT: I would place the onions into a mixing bowl along with the lamb and beef .
+PREDID: 157
+PRED: place
+   DOBJ: the onions
+      NON-INGREDIENT SPAN: the onions
+   PARG: a mixing bowl along with the lamb, beef
+     PREP: into
+      INGREDIENT SPAN: a mixing bowl along with the lamb
+         INGREDIENTS: ground lamb
+      INGREDIENT SPAN:  beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would season with the garlic , the oregano , the cumin , the marjoram , the rosemary , thyme , black pepper , and salt .
+PREDID: 210
+PRED: season
+   DOBJ: NULL
+   PARG: the garlic , the oregano , the cumin , the marjoram , the rosemary , thyme , black pepper , salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: sea salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the marjoram 
+         INGREDIENTS: dried marjoram
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: ground dried rosemary
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  thyme 
+
+
+SENTID: 4
+SENT: I would mix well with your hands until well combined .
+PREDID: 288
+PRED: mix
+   DOBJ: NULL
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+   OARG: well with your hands
+      NON-INGREDIENT SPAN: well with your hands
+
+
+SENTID: 5
+SENT: I would cover , and refrigerate 1 to 2 hours to allow the flavors to blend .
+PREDID: 326
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 335
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 to 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 2 hours
+   OARG: to allow the flavors to blend
+      NON-INGREDIENT SPAN: to allow the flavors to blend
+
+
+SENTID: 6
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 380
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 7
+SENT: I would place the meat mixture into the food processor , and pulse for about a minute until finely chopped and the mixture feels tacky .
+PREDID: 418
+PRED: place
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the food processor
+     PREP: into
+      NON-INGREDIENT SPAN: the food processor
+   OARG: the mixture feels tacky
+      NON-INGREDIENT SPAN: the mixture feels tacky
+
+PREDID: 461
+PRED: pulse
+   DOBJ: NULL
+   PARG: about a minute
+     PREP: for
+      NON-INGREDIENT SPAN: about a minute
+   PARG: finely chopped
+     PREP: until
+      NON-INGREDIENT SPAN: finely chopped
+
+
+SENTID: 8
+SENT: I would pack the meat mixture into a 7x4 inch loaf pan , making sure there are no air pockets .
+PREDID: 523
+PRED: pack
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a 7x4 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 7x4 inch loaf pan
+   OARG: making sure there are no air pockets
+      NON-INGREDIENT SPAN: making sure there are no air pockets
+
+
+SENTID: 9
+SENT: I would line a roasting pan with a damp kitchen towel .
+PREDID: 592
+PRED: line pan
+   DOBJ: a roasting
+      NON-INGREDIENT SPAN: a roasting
+   PARG: a damp kitchen towel
+     PREP: with
+      NON-INGREDIENT SPAN: a damp kitchen towel
+
+
+SENTID: 10
+SENT: I would place the loaf pan on the towel , inside the roasting pan , and place into the preheated oven .
+PREDID: 630
+PRED: place pan
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: the towel , inside the roasting pan
+     PREP: on
+      NON-INGREDIENT SPAN:  inside the roasting pan
+      NON-INGREDIENT SPAN: the towel 
+
+PREDID: 680
+PRED: place
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: into
+      NON-INGREDIENT SPAN: the preheated oven
+
+
+SENTID: 11
+SENT: I would fill the roasting pan with boiling water to reach halfway up the sides of the loaf pan .
+PREDID: 706
+PRED: fill
+   DOBJ: the roasting pan
+      NON-INGREDIENT SPAN: the roasting pan
+   PARG: boiling water to reach halfway up the sides of the loaf pan
+     PREP: with
+      NON-INGREDIENT SPAN: boiling water to reach halfway up the sides of the loaf pan
+
+
+SENTID: 12
+SENT: I would bake until the gyro meat is no longer pink in the center , and the internal temperature registers 165 degrees F -LRB- 75 degrees C -RRB- on a meat thermometer , 45 minutes to 1 hour .
+PREDID: 777
+PRED: bake
+   DOBJ: NULL
+   PARG: the gyro meat is no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the gyro meat is no longer pink in the center
+   OARG: the internal temperature registers 165 degrees f -lrb- 75 degrees c -rrb- on a meat thermometer , 45 minutes to 1 hour
+      NON-INGREDIENT SPAN:  45 minutes to 1 hour
+      NON-INGREDIENT SPAN: the internal temperature registers 165 degrees f -lrb- 75 degrees c -rrb- on a meat thermometer 
+
+
+SENTID: 13
+SENT: I would pour off any accumulated fat , and allow to cool slightly before slicing thinly and serving .
+PREDID: 916
+PRED: pour
+   DOBJ: any accumulated fat
+      NON-INGREDIENT SPAN: any accumulated fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 944
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool slightly before slicing thinly, serving
+      NON-INGREDIENT SPAN: to cool slightly before slicing thinly
+      NON-INGREDIENT SPAN:  serving
+
+

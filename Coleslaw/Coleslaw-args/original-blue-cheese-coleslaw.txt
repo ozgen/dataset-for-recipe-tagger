@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: I would lightly mix together the blue cheese , lemon juice , the mayonnaise , and salt and pepper in a large salad bowl .
+PREDID: 7
+PRED: mix
+   DOBJ: the blue cheese , lemon juice , the mayonnaise , salt, pepper in a large salad bowl
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the blue cheese 
+         INGREDIENTS: crumbled blue cheese
+      NON-INGREDIENT SPAN:  lemon juice 
+      NON-INGREDIENT SPAN:  pepper in a large salad bowl
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in the celery , green onions , and bagged coleslaw , and mix until well-coated .
+PREDID: 88
+PRED: stir
+   DOBJ: NULL
+   PARG: the celery , green onions , bagged coleslaw
+     PREP: in
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions tops sliced
+      INGREDIENT SPAN:  bagged coleslaw
+         INGREDIENTS: ounce package shredded coleslaw mix red green cabbage
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalks celery sliced
+
+PREDID: 137
+PRED: mix
+   DOBJ: NULL
+   PARG: well-coated
+     PREP: until
+      NON-INGREDIENT SPAN: well-coated
+
+

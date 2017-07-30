@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would place the cabbage , the carrot , the jicama , and sesame seeds in a large bowl .
+PREDID: 0
+PRED: place
+   DOBJ: the cabbage , the carrot , the jicama , sesame seeds in a large bowl
+      INGREDIENT SPAN:  the jicama 
+         INGREDIENTS: grated jicama
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head green cabbage shredded
+      INGREDIENT SPAN:  sesame seeds in a large bowl
+         INGREDIENTS: black sesame seeds
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot grated
+
+
+SENTID: 1
+SENT: I would whisk together the mayonnaise , the vinegar , sesame oil , and honey in a small bowl .
+PREDID: 57
+PRED: whisk
+   DOBJ: the mayonnaise , the vinegar , sesame oil , honey in a small bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  honey in a small bowl
+         INGREDIENTS: honey
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle the dressing over the salad ;
+PREDID: 123
+PRED: drizzle
+   DOBJ: the dressing over the salad
+      NON-INGREDIENT SPAN: the dressing over the salad
+
+
+SENTID: 3
+SENT: I would toss until evenly coated .
+PREDID: 154
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 4
+SENT: I would chill at least 4 hours before serving .
+PREDID: 176
+PRED: chill
+   DOBJ: NULL
+   PARG: least 4 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , the eggs , tomato sauce , bread crumbs , the cheese , the garlic , the parsley and oregano .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , the eggs , tomato sauce , bread crumbs , the cheese , the garlic , the parsley, oregano
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: medium slices mozzarella cheese
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: fresh crumbled bread
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix well and form into an 8x10 inch rectangle .
+PREDID: 127
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 137
+PRED: form
+   DOBJ: NULL
+   PARG: an 8x10 inch rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: an 8x10 inch rectangle
+
+
+SENTID: 3
+SENT: I would place the ham over the rectangle mixture , and
+PREDID: 165
+PRED: place
+   DOBJ: the ham
+      INGREDIENT SPAN: the ham
+         INGREDIENTS: slices ham
+   PARG: the rectangle mixture , and
+     PREP: over
+      NON-INGREDIENT SPAN: the rectangle mixture 
+      NON-INGREDIENT SPAN:  and
+
+
+SENTID: 4
+SENT: the cheese over the ham .
+
+SENTID: 5
+SENT: I would roll up jelly-roll style so that you end up with a rolled loaf about 5x8 inches .
+PREDID: 203
+PRED: roll
+   DOBJ: jelly-roll style
+      NON-INGREDIENT SPAN: jelly-roll style
+   OARG: up
+      NON-INGREDIENT SPAN: up
+   OARG: so that you end up with a rolled loaf about 5x8 inches
+      NON-INGREDIENT SPAN: so that you end up with a rolled loaf about 5x8 inches
+
+
+SENTID: 6
+SENT: I would place roll seam side down into a 5x9 inch loaf pan and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 75 minutes .
+PREDID: 268
+PRED: place
+   DOBJ: roll seam side
+      NON-INGREDIENT SPAN: roll seam side
+   PARG: a 5x9 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 5x9 inch loaf pan
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 311
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 75 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 75 minutes
+
+
+SENTID: 7
+SENT: I would drain excess fat .
+PREDID: 354
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+

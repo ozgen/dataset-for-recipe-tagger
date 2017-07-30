@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees C -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees C -LRB- 165 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees C -LRB- 165 degrees C
+
+
+SENTID: 1
+SENT: I would place carrots , the potato , the celery , the pepper , and garlic into a food processor , and puree to a wet paste .
+PREDID: 38
+PRED: place
+   DOBJ: carrots , the potato , the celery , the pepper , garlic
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: carrots peeled sliced inch
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: large green bell pepper seeded cut strips
+      INGREDIENT SPAN:  the potato 
+         INGREDIENTS: large potato peeled cubed
+      NON-INGREDIENT SPAN:  garlic
+      NON-INGREDIENT SPAN:  the celery 
+   PARG: a food processor
+     PREP: into
+      NON-INGREDIENT SPAN: a food processor
+
+PREDID: 112
+PRED: puree
+   DOBJ: NULL
+   PARG: a wet paste
+     PREP: to
+      INGREDIENT SPAN: a wet paste
+         INGREDIENTS: tomato paste
+
+
+SENTID: 2
+SENT: I would add eggs , the mustard , and tomato paste , and process for another few seconds .
+PREDID: 120
+PRED: add
+   DOBJ: eggs , the mustard , tomato paste , process for another few seconds
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijonstyle prepared mustard
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  tomato paste 
+      NON-INGREDIENT SPAN:  process for another few seconds
+
+
+SENTID: 3
+SENT: I would place the ground beef in a large mixing bowl , and add pureed vegetable mixture , thyme , basil , rosemary , cayenne pepper , and salt and pepper .
+PREDID: 182
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: extralean ground beef
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+PREDID: 222
+PRED: add
+   DOBJ: pureed vegetable mixture , thyme , basil , rosemary , cayenne pepper , salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN: pureed vegetable mixture 
+      NON-INGREDIENT SPAN:  thyme 
+
+
+SENTID: 4
+SENT: I would knead together until thoroughly mixed .
+PREDID: 300
+PRED: knead
+   DOBJ: NULL
+   PARG: thoroughly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly mixed
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would form into two loaves , and place in a 9x13 inch baking dish .
+PREDID: 334
+PRED: form
+   DOBJ: NULL
+   PARG: two loaves
+     PREP: into
+      NON-INGREDIENT SPAN: two loaves
+
+PREDID: 355
+PRED: place
+   DOBJ: a 9x13 inch baking dish
+      INGREDIENT SPAN: a 9x13 inch baking dish
+         INGREDIENTS: stalks celery cut inch
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 6
+SENT: I would bake for 50 to 60 minutes , or until done .
+PREDID: 382
+PRED: bake
+   DOBJ: NULL
+   PARG: 50 to 60 minutes , or until done
+     PREP: for
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: 50 to 60 minutes 
+
+
+SENTID: 7
+SENT: I would allow to cool for 10 minutes before slicing .
+PREDID: 415
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool for 10 minutes before slicing
+      NON-INGREDIENT SPAN: to cool for 10 minutes before slicing
+
+
+SENTID: 8
+SENT: You can also press the meat into bread pans to cook .
+

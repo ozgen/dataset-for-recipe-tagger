@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13-inch cake pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13-inch cake pan
+      NON-INGREDIENT SPAN: a 9x13-inch cake pan
+
+
+SENTID: 2
+SENT: I would beat the oil and sugar with an electric mixer in a large bowl .
+PREDID: 62
+PRED: beat
+   DOBJ: the oil, sugar
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   PARG: an electric mixer in a large bowl
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer in a large bowl
+
+
+SENTID: 3
+SENT: I would add eggs , one at a time , allowing each egg to blend into the oil mixture before adding the next .
+PREDID: 112
+PRED: add
+   DOBJ: eggs, one at a time
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  one at a time
+   OARG: allowing each egg to blend into the oil mixture before adding the next
+      NON-INGREDIENT SPAN: allowing each egg to blend into the oil mixture before adding the next
+
+
+SENTID: 4
+SENT: I would stir flour , baking powder , baking soda , the cinnamon , and salt together in a bowl ;
+PREDID: 190
+PRED: stir
+   DOBJ: flour , baking powder , baking soda , the cinnamon , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would beat into the wet mixture .
+PREDID: 256
+PRED: beat
+   DOBJ: NULL
+   PARG: the wet mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the wet mixture
+
+
+SENTID: 6
+SENT: I would fold grated carrots through the batter , mixing just enough to evenly combine .
+PREDID: 278
+PRED: fold
+   DOBJ: grated carrots
+      INGREDIENT SPAN: grated carrots
+         INGREDIENTS: grated carrots
+   PARG: the batter , mixing just enough to evenly combine
+     PREP: through
+      NON-INGREDIENT SPAN: the batter 
+      NON-INGREDIENT SPAN:  mixing just enough to evenly combine
+
+
+SENTID: 7
+SENT: I would pour batter into the prepared pan .
+PREDID: 344
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , 50 to 60 minutes .
+PREDID: 373
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 50 to 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  50 to 60 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+
+SENTID: 9
+SENT: I would cool in the pan for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 459
+PRED: cool
+   DOBJ: NULL
+   PARG: the pan for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pan for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+

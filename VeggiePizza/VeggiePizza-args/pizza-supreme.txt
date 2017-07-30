@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 450 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 450 degrees f.
+
+
+SENTID: 1
+SENT: I would heat oil in large nonstick skillet over medium-high heat and cook Recipe Ready Pizza Supreme Blend , stirring occasionally , 10 minutes or until vegetables are softened and any liquid is absorbed .
+PREDID: 25
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: large nonstick skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large nonstick skillet over medium-high heat
+
+PREDID: 76
+PRED: cook
+   DOBJ: NULL
+   PARG: recipe ready pizza supreme blend , stirring occasionally , 10 minutes or until vegetables are softened
+     PREP: for
+      INGREDIENT SPAN: recipe ready pizza supreme blend 
+         INGREDIENTS: ounce bag Birds Eye Recipe Ready Pizza Supreme Blend, prepared pizza sauce
+      INGREDIENT SPAN: recipe ready pizza supreme blend 
+         INGREDIENTS: ounce bag Birds Eye Recipe Ready Pizza Supreme Blend, prepared pizza sauce
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  10 minutes or until vegetables are softened
+
+PREDID: 181
+PRED: is absorbed
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would arrange pizza crust on baking sheet and evenly spread with pizza sauce .
+PREDID: 190
+PRED: arrange
+   DOBJ: pizza crust on baking sheet, evenly spread with pizza sauce
+      INGREDIENT SPAN: pizza crust on baking sheet
+         INGREDIENTS: ounce prebaked whole wheat regular pizza crust
+      NON-INGREDIENT SPAN:  evenly spread with pizza sauce
+
+
+SENTID: 3
+SENT: I would top with vegetable mixture and pepperoni .
+PREDID: 250
+PRED: top
+   DOBJ: NULL
+   PARG: vegetable mixture, pepperoni
+     PREP: with
+      INGREDIENT SPAN:  pepperoni
+         INGREDIENTS: sliced pepperoni
+      NON-INGREDIENT SPAN: vegetable mixture
+
+
+SENTID: 4
+SENT: I would sprinkle with cheese .
+PREDID: 286
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 5
+SENT: I would bake 10 minutes or until cheese is melted .
+PREDID: 305
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes or until cheese is melted
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes or until cheese is melted
+
+

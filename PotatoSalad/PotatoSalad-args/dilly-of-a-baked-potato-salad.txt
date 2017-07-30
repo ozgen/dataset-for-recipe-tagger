@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of salted water
+      INGREDIENT SPAN: a large pot of salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add potatoes and cook until tender but still firm , about 15 to 20 minutes .
+PREDID: 73
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: russet potatoes
+
+PREDID: 87
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 to 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and cool .
+PREDID: 134
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would peel potatoes and slice 1/4 inch thick ;
+PREDID: 147
+PRED: peel
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 162
+PRED: slice
+   DOBJ: NULL
+   OARG: 1/4 inch thick
+      NON-INGREDIENT SPAN: 1/4 inch thick
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 180
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would heat oil in a medium-size skillet ;
+PREDID: 189
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a medium-size skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a medium-size skillet
+
+
+SENTID: 7
+SENT: I would saute onion until soft .
+PREDID: 218
+PRED: saute
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 8
+SENT: I would stir in flour , the mustard , celery seed and salt .
+PREDID: 238
+PRED: stir
+   DOBJ: NULL
+   PARG: flour , the mustard , celery seed, salt
+     PREP: in
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+
+
+SENTID: 9
+SENT: I would gradually add water and vinegar ;
+PREDID: 285
+PRED: add
+   DOBJ: water, vinegar
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: cider vinegar
+      NON-INGREDIENT SPAN: water
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 10
+SENT: I would cook over low heat , stirring constantly , until mixture boils and thickens .
+PREDID: 304
+PRED: cook
+   DOBJ: low heat
+      NON-INGREDIENT SPAN: low heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring constantly , until mixture boils, thickens
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  until mixture boils
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 11
+SENT: In a mixing bowl , I would combine the potatoes , green pepper , the carrots and dill ;
+PREDID: 382
+PRED: combine
+   DOBJ: the potatoes , green pepper , the carrots, dill
+      INGREDIENT SPAN:  the carrots
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: chopped fresh dill weed
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: chopped green bell pepper
+      NON-INGREDIENT SPAN: the potatoes 
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 12
+SENT: I would add sauce and mix well .
+PREDID: 428
+PRED: add
+   DOBJ: sauce, mix
+      NON-INGREDIENT SPAN:  mix
+      NON-INGREDIENT SPAN: sauce
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 13
+SENT: I would spoon half the mixture into a shallow 8x8 inch baking dish and sprinkle with half the cheese .
+PREDID: 447
+PRED: spoon
+   DOBJ: half the mixture
+      NON-INGREDIENT SPAN: half the mixture
+   PARG: a shallow 8x8 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow 8x8 inch baking dish
+
+PREDID: 498
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: half the cheese
+     PREP: with
+      INGREDIENT SPAN: half the cheese
+         INGREDIENTS: grated Parmesan cheese topping
+
+
+SENTID: 14
+SENT: I would cover with remaining potato mixture and cheese .
+PREDID: 524
+PRED: cover
+   DOBJ: NULL
+   PARG: remaining potato mixture, cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining potato mixture
+      NON-INGREDIENT SPAN:  cheese
+
+
+SENTID: 15
+SENT: I would bake uncovered at 350 degrees F -LRB- 175 degrees C -RRB- for 15 to 20 minutes , or until cheese is melted and vegetables are heated through .
+PREDID: 565
+PRED: bake
+   DOBJ: NULL
+   OARG: uncovered at 350 degrees f -lrb- 175 degrees c -rrb- for 15 to 20 minutes , or until cheese is melted
+      NON-INGREDIENT SPAN:  or until cheese is melted
+      NON-INGREDIENT SPAN: uncovered at 350 degrees f -lrb- 175 degrees c -rrb- for 15 to 20 minutes 
+
+PREDID: 666
+PRED: are heated
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

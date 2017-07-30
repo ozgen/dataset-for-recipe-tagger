@@ -1,0 +1,285 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would grease a deep 9x13 inch baking pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a deep 9x13 inch baking pan
+      NON-INGREDIENT SPAN: a deep 9x13 inch baking pan
+
+
+SENTID: 2
+SENT: I would slice zucchini lengthwise into very thin slices .
+PREDID: 67
+PRED: slice
+   DOBJ: zucchini lengthwise
+      INGREDIENT SPAN: zucchini lengthwise
+         INGREDIENTS: large zucchini
+   PARG: very thin slices
+     PREP: into
+      NON-INGREDIENT SPAN: very thin slices
+
+
+SENTID: 3
+SENT: I would sprinkle slices lightly with salt ;
+PREDID: 109
+PRED: sprinkle
+   DOBJ: slices
+      NON-INGREDIENT SPAN: slices
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 4
+SENT: I would set aside to drain in a colander .
+PREDID: 139
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to drain in a colander
+      NON-INGREDIENT SPAN: to drain in a colander
+
+
+SENTID: 5
+SENT: To prepare the meat sauce , cook and stir ground beef and black pepper in a large skillet over medium high heat for 5 minutes .
+PREDID: 168
+PRED: prepare
+   DOBJ: the meat sauce
+      INGREDIENT SPAN: the meat sauce
+         INGREDIENTS: ounce tomato sauce
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 195
+PRED: stir
+   DOBJ: ground beef, black pepper in a large skillet
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  black pepper in a large skillet
+         INGREDIENTS: ground black pepper
+   PARG: medium high heat for 5 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat for 5 minutes
+
+
+SENTID: 6
+SENT: I would add in green pepper and onion ;
+PREDID: 268
+PRED: add
+   DOBJ: NULL
+   PARG: green pepper, onion
+     PREP: in
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN: green pepper
+         INGREDIENTS: small green bell pepper diced
+
+
+SENTID: 7
+SENT: I would cook and stir until meat is no longer pink .
+PREDID: 293
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: meat is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: meat is no longer pink
+
+
+SENTID: 8
+SENT: I would stir in tomato paste , tomato sauce , the wine , the basil , and oregano , adding a small amount of hot water if sauce is too thick .
+PREDID: 328
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste , tomato sauce , the wine , the basil , oregano
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: chopped fresh oregano
+      INGREDIENT SPAN: tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  the wine 
+         INGREDIENTS: red wine
+      NON-INGREDIENT SPAN:  tomato sauce 
+   OARG: adding a small amount of hot water if sauce is too thick
+      INGREDIENT SPAN: adding a small amount of hot water if sauce is too thick
+         INGREDIENTS: hot water needed
+
+
+SENTID: 9
+SENT: Bring to a boil ;
+PREDID: 426
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 10
+SENT: I would reduce heat and simmer sauce for about 20 minutes , stirring frequently .
+PREDID: 439
+PRED: reduce
+   DOBJ: NULL
+   PARG: heat, simmer sauce for about 20 minutes , stirring frequently
+     PREP: for
+      NON-INGREDIENT SPAN:  simmer sauce for about 20 minutes 
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 11
+SENT: I would meanwhile , stir egg , the ricotta , and parsley together in a bowl until well combined .
+PREDID: 510
+PRED: stir
+   DOBJ: egg , the ricotta
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the ricotta
+         INGREDIENTS: ounce container lowfat ricotta cheese
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+   OARG: parsley together in a bowl until well combined
+      INGREDIENT SPAN: parsley together in a bowl until well combined
+         INGREDIENTS: chopped fresh parsley
+
+
+SENTID: 12
+SENT: To assemble lasagna , spread 1/2 of the meat sauce into the bottom of prepared pan .
+PREDID: 571
+PRED: assemble
+   DOBJ: lasagna
+      NON-INGREDIENT SPAN: lasagna
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 587
+PRED: spread
+   DOBJ: 1/2
+      NON-INGREDIENT SPAN: 1/2
+   PARG: the meat sauce
+     PREP: of
+      NON-INGREDIENT SPAN: the meat sauce
+   PARG: the bottom of prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of prepared pan
+
+
+SENTID: 13
+SENT: I would then layer 1/2 the zucchini slices , 1/2 the ricotta mixture , all of the spinach , followed by all of the mushrooms ,
+PREDID: 641
+PRED: layer
+   DOBJ: all of the spinach , followed by all of the mushrooms, the zucchini slices, 1/2 the ricotta mixture
+      INGREDIENT SPAN: all of the spinach 
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained
+      INGREDIENT SPAN:  followed by all of the mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+      NON-INGREDIENT SPAN:  1/2 the ricotta mixture
+      NON-INGREDIENT SPAN:  the zucchini slices
+   OARG: then
+      NON-INGREDIENT SPAN: then
+   OARG: 1/2
+      NON-INGREDIENT SPAN: 1/2
+
+
+SENTID: 14
+SENT: I would 1/2 the mozzarella cheese .
+
+SENTID: 15
+SENT: I would repeat by layering the remaining meat sauce , zucchini slices , ricotta mixture , and mozzarella .
+PREDID: 732
+PRED: repeat
+   DOBJ: NULL
+   PARG: layering the remaining meat sauce , zucchini slices , ricotta mixture , mozzarella
+     PREP: by
+      INGREDIENT SPAN:  mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  zucchini slices 
+      NON-INGREDIENT SPAN: layering the remaining meat sauce 
+      NON-INGREDIENT SPAN:  ricotta mixture 
+
+
+SENTID: 16
+SENT: I would spread Parmesan cheese evenly over the top ;
+PREDID: 814
+PRED: spread
+   DOBJ: Parmesan cheese
+      INGREDIENT SPAN: Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   OARG: evenly over the top
+      NON-INGREDIENT SPAN: evenly over the top
+
+
+SENTID: 17
+SENT: I would cover with foil .
+PREDID: 851
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 18
+SENT: I would bake for 45 minutes .
+PREDID: 865
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 19
+SENT: I would remove foil ;
+PREDID: 882
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 20
+SENT: I would raise oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- , and bake an additional 15 minutes .
+PREDID: 893
+PRED: raise
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 951
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 15 minutes
+
+
+SENTID: 21
+SENT: I would let stand for 5 minutes before serving .
+PREDID: 969
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: I would place the tomatoes , green chiles , the jalapenos , the onion , the garlic , the cilantro , and cumin in a large saucepan .
+PREDID: 0
+PRED: place
+   DOBJ: the tomatoes , green chiles , the jalapenos , the onion , the garlic , the cilantro , cumin in a large saucepan
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: sprigs fresh cilantro chopped
+      INGREDIENT SPAN:  green chiles 
+         INGREDIENTS: ounce diced green chiles
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: canned crushed tomatoes
+      INGREDIENT SPAN:  cumin in a large saucepan
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN:  the jalapenos 
+
+
+SENTID: 1
+SENT: I would cook over medium heat until the mixture comes to a boil .
+PREDID: 86
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: the mixture comes to a boil
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture comes to a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to low and simmer until the onion is soft , about 45 to 60 minutes .
+PREDID: 132
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   PARG: the onion is soft , about 45 to 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 45 to 60 minutes
+      NON-INGREDIENT SPAN: the onion is soft 
+
+
+SENTID: 3
+SENT: I would meanwhile , heat a large skillet over medium-high heat and stir in the chorizo .
+PREDID: 205
+PRED: heat
+   DOBJ: a large skillet over medium-high heat
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+PREDID: 244
+PRED: stir
+   DOBJ: NULL
+   PARG: the chorizo
+     PREP: in
+      INGREDIENT SPAN: the chorizo
+         INGREDIENTS: chorizo sausage
+
+
+SENTID: 4
+SENT: I would cook and stir until the chorizo is crumbly , and evenly browned .
+PREDID: 261
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chorizo is crumbly , evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned
+      NON-INGREDIENT SPAN: the chorizo is crumbly 
+
+
+SENTID: 5
+SENT: I would drain and discard any excess grease .
+PREDID: 314
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 6
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 345
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 7
+SENT: I would stir together the ricotta cheese and eggs .
+PREDID: 385
+PRED: stir
+   DOBJ: the ricotta cheese, eggs
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: the ricotta cheese
+         INGREDIENTS: ounce container ricotta cheese
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would set aside .
+PREDID: 421
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: To assemble , spread 1/3 of the tomato sauce in the bottom of a 9x13-inch baking dish .
+PREDID: 432
+PRED: assemble
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 441
+PRED: spread
+   DOBJ: 1/3 of the tomato sauce
+      NON-INGREDIENT SPAN: 1/3 of the tomato sauce
+   PARG: the bottom of a 9x13-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch baking dish
+
+
+SENTID: 10
+SENT: I would spread the sausage over the tomato sauce .
+PREDID: 500
+PRED: spread
+   DOBJ: the sausage over the tomato sauce
+      NON-INGREDIENT SPAN: the sausage over the tomato sauce
+
+
+SENTID: 11
+SENT: I would pour 1/2 of the remaining sauce over the sausage and sprinkle 1/2 of the shredded cheese over the top of the sauce .
+PREDID: 535
+PRED: pour
+   DOBJ: 1/2 of the remaining sauce over the sausage
+      NON-INGREDIENT SPAN: 1/2 of the remaining sauce over the sausage
+
+PREDID: 578
+PRED: sprinkle
+   DOBJ: 1/2 of the shredded cheese over the top of the sauce
+      INGREDIENT SPAN: 1/2 of the shredded cheese over the top of the sauce
+         INGREDIENTS: ounce package Mexican style shredded cheese blend
+
+
+SENTID: 12
+SENT: I would arrange a layer of noodles lengthwise over the cheese .
+PREDID: 629
+PRED: arrange
+   DOBJ: a layer of noodles lengthwise
+      INGREDIENT SPAN: a layer of noodles lengthwise
+         INGREDIENTS: ounce package nocook lasagna noodles
+   PARG: the cheese
+     PREP: over
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: ounce package Mexican style shredded cheese blend
+
+
+SENTID: 13
+SENT: I would spread the ricotta cheese mixture over the noodles and place another layer of noodles over the ricotta .
+PREDID: 675
+PRED: spread
+   DOBJ: the ricotta cheese mixture
+      NON-INGREDIENT SPAN: the ricotta cheese mixture
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+PREDID: 721
+PRED: place
+   DOBJ: another layer of noodles over the ricotta
+      NON-INGREDIENT SPAN: another layer of noodles over the ricotta
+
+
+SENTID: 14
+SENT: I would top with the remaining tomato sauce and shredded cheese .
+PREDID: 762
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining tomato sauce, shredded cheese
+     PREP: with
+      NON-INGREDIENT SPAN:  shredded cheese
+      NON-INGREDIENT SPAN: the remaining tomato sauce
+
+
+SENTID: 15
+SENT: I would cover with foil :
+PREDID: 810
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 16
+SENT: to prevent sticking , either spray foil with cooking spray , or make sure the foil does not touch the cheese .
+
+SENTID: 17
+SENT: I would bake in a preheated oven for 30 minutes .
+PREDID: 824
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 30 minutes
+
+
+SENTID: 18
+SENT: I would remove foil , and bake until the top is browned , about 15 to 30 minutes .
+PREDID: 857
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+   OARG: about 15 to 30 minutes
+      NON-INGREDIENT SPAN: about 15 to 30 minutes
+
+PREDID: 871
+PRED: bake
+   DOBJ: NULL
+   PARG: the top is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the top is browned
+
+

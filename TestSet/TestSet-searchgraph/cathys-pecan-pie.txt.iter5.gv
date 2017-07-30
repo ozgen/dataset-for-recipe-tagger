@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="mix
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="beat
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="fold
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="spread
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: corn syrup, butter", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="OTHER:until thick", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D5[label="DOBJ: chopped pecans", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="LOCOROBJ:in unbaked pie shell", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="DURATION:to rolling boil 3-4 minutes", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: in wheat germ, dry milk powder", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E1 -> E4 [label="hot syrup"]
+E3 -> E4 [label="LOCOROBJ:into egg mixture"]
+E4 -> E6 [label="syrup mixture"]
+E5 -> E6 [label="LOCOROBJ:over pecans"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="DURATION:25-30 minutes at 400 degrees f -lrb- 205 degrees c", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

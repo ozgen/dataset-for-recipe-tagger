@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="remove
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="set
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cover
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="refrigerate
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="sprinkle
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: package wild rice", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D3[label="DOBJ: salt and pepper to taste, white sugar, white vinegar, light mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCOROBJ:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: in cubed turkey meat, diced green onion, seedless red grapes", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E2 -> E4 [label="COOBJECT:in rice "]
+P4_1_0[label="OTHER:until evenly coated with dressing", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="DURATION:for 1 to 2 hours", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: blanched almonds", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+P7_0_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+E6 -> E7 [label="LOCOROBJ:over the top of the salad"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

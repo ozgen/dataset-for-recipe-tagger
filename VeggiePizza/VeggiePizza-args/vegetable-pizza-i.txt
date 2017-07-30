@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would roll out the crescent roll dough onto a 9x13 inch baking sheet , and pinch together edges to form the pizza crust .
+PREDID: 38
+PRED: roll
+   DOBJ: the crescent roll dough
+      INGREDIENT SPAN: the crescent roll dough
+         INGREDIENTS: ounce packages refrigerated crescent rolls
+   PARG: a 9x13 inch baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a 9x13 inch baking sheet
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 93
+PRED: pinch
+   DOBJ: edges to form the pizza crust
+      NON-INGREDIENT SPAN: edges to form the pizza crust
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would bake crust for 12 minutes in the preheated oven .
+PREDID: 131
+PRED: bake
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: 12 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 12 minutes in the preheated oven
+
+
+SENTID: 3
+SENT: Once finished cooking , I would remove crust from oven and let cool 15 minutes without removing it from the baking sheet .
+PREDID: 191
+PRED: remove
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: finished cooking
+     PREP: once
+      NON-INGREDIENT SPAN: finished cooking
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 213
+PRED: let
+   DOBJ: NULL
+   PARG: removing it from the baking sheet
+     PREP: without
+      NON-INGREDIENT SPAN: removing it from the baking sheet
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+   OARG: 15 minutes
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 4
+SENT: In a small mixing bowl , I would combine cream cheese , the mayonnaise , and dry Ranch dressing .
+PREDID: 284
+PRED: combine
+   DOBJ: cream cheese , the mayonnaise , dry Ranch dressing
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dry Ranch dressing
+         INGREDIENTS: ounce package dry Ranchstyle dressing mix
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce packages cream cheese softened
+   PARG: a small mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small mixing bowl
+
+
+SENTID: 5
+SENT: I would spread the mixture over the cooled crust .
+PREDID: 334
+PRED: spread
+   DOBJ: the mixture over the cooled crust
+      NON-INGREDIENT SPAN: the mixture over the cooled crust
+
+
+SENTID: 6
+SENT: I would arrange broccoli , the tomato , green bell pepper , the cauliflower , shredded carrots , and Cheddar cheese over the cream cheese layer .
+PREDID: 369
+PRED: arrange
+   DOBJ: broccoli , the tomato , green bell pepper , the cauliflower , shredded carrots , Cheddar cheese over the cream cheese layer
+      INGREDIENT SPAN:  the cauliflower 
+         INGREDIENTS: chopped cauliflower
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: fresh broccoli chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  shredded carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  Cheddar cheese over the cream cheese layer
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  the tomato 
+
+
+SENTID: 7
+SENT: I would chill for one hour , the slice and serve .
+PREDID: 476
+PRED: chill
+   DOBJ: NULL
+   PARG: one hour , the slice
+     PREP: for
+      NON-INGREDIENT SPAN: one hour 
+      NON-INGREDIENT SPAN:  the slice
+
+

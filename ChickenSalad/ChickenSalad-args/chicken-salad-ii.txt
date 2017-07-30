@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add chicken and cook until thoroughly cooked and no longer pink inside , approximately 20 minutes .
+PREDID: 29
+PRED: add
+   DOBJ: chicken, cook
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+      NON-INGREDIENT SPAN:  cook
+   PARG: thoroughly cooked, no longer pink inside , approximately 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  no longer pink inside 
+      NON-INGREDIENT SPAN: thoroughly cooked
+      NON-INGREDIENT SPAN:  approximately 20 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop .
+PREDID: 112
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would meanwhile , place eggs in a saucepan and cover with cold water .
+PREDID: 140
+PRED: place
+   DOBJ: eggs in a saucepan
+      INGREDIENT SPAN: eggs in a saucepan
+         INGREDIENTS: eggs
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+PREDID: 163
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 182
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 213
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 5
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 228
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 6
+SENT: I would remove from hot water , the cool , the peel and slice .
+PREDID: 275
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water , the cool , the peel, slice
+     PREP: from
+      NON-INGREDIENT SPAN:  the peel
+      NON-INGREDIENT SPAN:  the cool 
+      NON-INGREDIENT SPAN:  slice
+      NON-INGREDIENT SPAN: hot water 
+
+
+SENTID: 7
+SENT: In a large bowl , I would mix together the chicken , sliced eggs , the apple , the onions , the relish , the mayonnaise , the celery , pineapple -LRB- with just a little juice for flavor -RRB- , the cilantro , the pecans and fajita seasoning to taste .
+PREDID: 325
+PRED: mix
+   DOBJ: the chicken , sliced eggs , the apple , the onions , the relish , the mayonnaise , the celery , pineapple -LRB- with just a little juice for flavor -RRB- , the cilantro , the pecans, fajita
+      INGREDIENT SPAN:  fajita
+         INGREDIENTS: fajita seasoning taste
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: red apple diced
+      INGREDIENT SPAN:  pineapple -LRB- with just a little juice for flavor -RRB- 
+         INGREDIENTS: ounce pineapple chunks juice reserved
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN:  the pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: sweet pickle relish
+      NON-INGREDIENT SPAN:  sliced eggs 
+      NON-INGREDIENT SPAN: the chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: seasoning to taste
+      NON-INGREDIENT SPAN: seasoning to taste
+
+

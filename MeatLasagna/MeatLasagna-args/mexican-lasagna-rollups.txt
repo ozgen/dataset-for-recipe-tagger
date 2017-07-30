@@ -1,0 +1,279 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the lasagna noodles , about 3 or 4 at a time , and return to a boil .
+PREDID: 80
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the lasagna noodles
+     PREP: in
+      INGREDIENT SPAN: the lasagna noodles
+         INGREDIENTS: uncooked lasagna noodles
+   PARG: 3 or 4 at a time
+     PREP: about
+      NON-INGREDIENT SPAN: 3 or 4 at a time
+
+PREDID: 124
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the noodles uncovered , stirring occasionally , until the pasta has cooked through but is still firm to the bite , about 10 minutes per batch .
+PREDID: 138
+PRED: cook uncovered
+   DOBJ: the noodles
+      NON-INGREDIENT SPAN: the noodles
+   PARG: the pasta has cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta has cooked through
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+   OARG: is still firm to the bite , about 10 minutes per batch
+      NON-INGREDIENT SPAN: is still firm to the bite 
+      NON-INGREDIENT SPAN:  about 10 minutes per batch
+
+
+SENTID: 3
+SENT: I would drain well in a colander set in the sink , and lay the cooked noodles flat on waxed paper or aluminum foil while you finish cooking the rest of the noodles .
+PREDID: 259
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 295
+PRED: lay
+   DOBJ: NULL
+   OARG: the cooked noodles flat on waxed paper or aluminum foil while you finish cooking the rest of the noodles
+      NON-INGREDIENT SPAN: the cooked noodles flat on waxed paper or aluminum foil while you finish cooking the rest of the noodles
+
+
+SENTID: 4
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 385
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 5
+SENT: I would grease a 9x13-inch baking dish , and spread the salsa evenly over the bottom of the dish .
+PREDID: 423
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+PREDID: 453
+PRED: spread
+   DOBJ: NULL
+   PARG: the bottom of the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the bottom of the dish
+   OARG: the salsa evenly
+      INGREDIENT SPAN: the salsa evenly
+         INGREDIENTS: ounce jar prepared salsa con queso sauce
+
+
+SENTID: 6
+SENT: I would place the ground beef in a skillet over medium heat , sprinkle with taco seasoning , and cook and stir the meat , breaking it up as it cooks , until the meat is browned and crumbly , about 10 minutes .
+PREDID: 496
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 539
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: taco seasoning
+     PREP: with
+      INGREDIENT SPAN: taco seasoning
+         INGREDIENTS: ounce packet taco seasoning mix
+
+PREDID: 568
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the meat , breaking it up as it cooks , until the meat is browned, crumbly , about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the meat 
+      NON-INGREDIENT SPAN:  breaking it up as it cooks 
+      NON-INGREDIENT SPAN:  until the meat is browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 7
+SENT: I would drain the fat , and place the meat in a large bowl .
+PREDID: 656
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+
+PREDID: 671
+PRED: place
+   DOBJ: the meat in a large bowl
+      NON-INGREDIENT SPAN: the meat in a large bowl
+
+
+SENTID: 8
+SENT: I would mix cottage cheese and Parmesan cheese into the meat .
+PREDID: 696
+PRED: mix
+   DOBJ: cottage cheese, Parmesan cheese
+      INGREDIENT SPAN: cottage cheese
+         INGREDIENTS: ounce package cottage cheese
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: the meat
+     PREP: into
+      NON-INGREDIENT SPAN: the meat
+
+
+SENTID: 9
+SENT: I would place a cooked lasagna noodle out flat , and spread about 1/3 cup of the cheese and meat mixture along the length of the noodle .
+PREDID: 741
+PRED: place
+   DOBJ: a cooked lasagna noodle
+      NON-INGREDIENT SPAN: a cooked lasagna noodle
+   PARG: flat
+     PREP: out
+      NON-INGREDIENT SPAN: flat
+
+PREDID: 777
+PRED: spread
+   DOBJ: about 1/3 cup of the cheese, meat mixture
+      INGREDIENT SPAN: about 1/3 cup of the cheese
+         INGREDIENTS: shredded Mexican cheese blend
+      NON-INGREDIENT SPAN:  meat mixture
+   PARG: the length of the noodle
+     PREP: along
+      NON-INGREDIENT SPAN: the length of the noodle
+
+
+SENTID: 10
+SENT: I would roll up the noodle , and place the filled rolls , seam sides down , into the prepared baking dish .
+PREDID: 845
+PRED: roll
+   DOBJ: the noodle
+      NON-INGREDIENT SPAN: the noodle
+   PARG: into the prepared baking dish
+     PREP: and
+      NON-INGREDIENT SPAN: into the prepared baking dish
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 864
+PRED: place
+   DOBJ: the filled rolls
+      NON-INGREDIENT SPAN: the filled rolls
+
+PREDID: 884
+PRED: seam
+   DOBJ: sides
+      NON-INGREDIENT SPAN: sides
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 11
+SENT: I would spoon about 1?1/2 tablespoons of the queso sauce over each roll .
+PREDID: 924
+PRED: spoon
+   DOBJ: about 1?1/2 tablespoons of the queso sauce
+      NON-INGREDIENT SPAN: about 1?1/2 tablespoons of the queso sauce
+   PARG: each roll
+     PREP: over
+      NON-INGREDIENT SPAN: each roll
+
+
+SENTID: 12
+SENT: I would cover the dish with aluminum foil .
+PREDID: 978
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until the sauce is hot and bubbling , about 40 minutes .
+PREDID: 1007
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the sauce is hot, bubbling , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce is hot
+      NON-INGREDIENT SPAN:  about 40 minutes
+      NON-INGREDIENT SPAN:  bubbling 
+
+
+SENTID: 14
+SENT: I would uncover the dish , and spread the Mexican cheese blend over the rolls .
+PREDID: 1074
+PRED: uncover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 1092
+PRED: spread blend
+   DOBJ: the rolls, the Mexican cheese
+      INGREDIENT SPAN:  the Mexican cheese
+         INGREDIENTS: shredded Mexican cheese blend
+      NON-INGREDIENT SPAN: the rolls
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 15
+SENT: I would return to the oven , and bake until the cheese is melted , 8 to 10 more minutes .
+PREDID: 1132
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+   OARG: 8 to 10 more minutes
+      NON-INGREDIENT SPAN: 8 to 10 more minutes
+
+PREDID: 1151
+PRED: bake
+   DOBJ: NULL
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+
+

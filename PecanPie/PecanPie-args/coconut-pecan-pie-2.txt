@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would press pie crust into a 9-inch pie dish .
+PREDID: 38
+PRED: press
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked pie crust
+   PARG: a 9-inch pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9-inch pie dish
+
+
+SENTID: 2
+SENT: I would beat butter , the eggs , lemon juice , and vanilla extract together in a bowl ;
+PREDID: 70
+PRED: beat
+   DOBJ: butter , the eggs , lemon juice , vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+
+PREDID: 110
+PRED: extract
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat in sugar until smooth .
+PREDID: 130
+PRED: beat
+   DOBJ: NULL
+   PARG: sugar
+     PREP: in
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would fold coconut and pecans into butter mixture ;
+PREDID: 153
+PRED: fold
+   DOBJ: coconut, pecans
+      INGREDIENT SPAN: coconut
+         INGREDIENTS: flaked coconut
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans needed
+   PARG: butter mixture
+     PREP: into
+      NON-INGREDIENT SPAN: butter mixture
+
+
+SENTID: 5
+SENT: I would pour into pie crust .
+PREDID: 191
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      NON-INGREDIENT SPAN: pie crust
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until pie is set in the middle , 45 to 50 minutes .
+PREDID: 208
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: pie is set in the middle , 45 to 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 to 50 minutes
+      NON-INGREDIENT SPAN: pie is set in the middle 
+
+

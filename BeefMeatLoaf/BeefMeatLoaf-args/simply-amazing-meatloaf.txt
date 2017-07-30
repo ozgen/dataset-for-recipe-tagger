@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: In a mixing bowl , I would combine ground beef , Spanish rice and sauce mix , the eggs , 1 tablespoon of ketchup , and mustard .
+PREDID: 52
+PRED: combine
+   DOBJ: ground beef , Spanish rice, sauce mix , the eggs , 1 tablespoon of ketchup , mustard
+      INGREDIENT SPAN:  1 tablespoon of ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  Spanish rice
+         INGREDIENTS: ounce package Spanish rice sauce mix
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: yellow mustard
+      NON-INGREDIENT SPAN:  sauce mix 
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 2
+SENT: I would mix thoroughly .
+PREDID: 130
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 3
+SENT: I would coat the inside of a 9x5 inch loaf pan with 2 tablespoons of the ketchup .
+PREDID: 144
+PRED: coat pan
+   DOBJ: the inside of a 9x5 inch loaf
+      NON-INGREDIENT SPAN: the inside of a 9x5 inch loaf
+   PARG: 2 tablespoons of the ketchup
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons of the ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 4
+SENT: I would transfer the meat mixture to the loaf pan .
+PREDID: 203
+PRED: transfer
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the loaf pan
+     PREP: to
+      NON-INGREDIENT SPAN: the loaf pan
+
+
+SENTID: 5
+SENT: I would top with the remaining ketchup .
+PREDID: 238
+PRED: top
+   DOBJ: NULL
+   PARG: the remaining ketchup
+     PREP: with
+      INGREDIENT SPAN: the remaining ketchup
+         INGREDIENTS: ketchup
+
+
+SENTID: 6
+SENT: I would bake in a preheated oven for 1 hour or until cooked through .
+PREDID: 265
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 1 hour
+
+

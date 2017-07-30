@@ -1,0 +1,239 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 42
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 73
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 88
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool , and peel .
+PREDID: 135
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: While the eggs are cooking , I would place the potatoes in a saucepan with just enough water to cover .
+PREDID: 190
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: medium baking potatoes peeled cubed
+   PARG: the eggs are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the eggs are cooking
+   PARG: a saucepan with just enough water
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan with just enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 5
+SENT: I would bring to a boil , and cook for 10 to 15 minutes , or until tender .
+PREDID: 244
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 260
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+
+
+SENTID: 6
+SENT: I would remove from heat , drain , and set aside .
+PREDID: 295
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 319
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would heat oil in a skillet over medium heat .
+PREDID: 328
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 8
+SENT: I would add onions , and saute until lightly browned and translucent , about 10 minutes .
+PREDID: 360
+PRED: add
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: large onion chopped
+
+PREDID: 373
+PRED: saute
+   DOBJ: NULL
+   PARG: lightly browned, translucent , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: lightly browned
+      NON-INGREDIENT SPAN:  translucent 
+
+
+SENTID: 9
+SENT: I would flake salmon and spread it over the bottom of a glass baking dish or serving dish .
+PREDID: 427
+PRED: flake
+   DOBJ: salmon
+      INGREDIENT SPAN: salmon
+         INGREDIENTS: ounce salmon drained
+
+PREDID: 441
+PRED: spread
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the bottom of a glass baking dish or serving dish
+     PREP: over
+      NON-INGREDIENT SPAN: the bottom of a glass baking dish or serving dish
+
+
+SENTID: 10
+SENT: I would spread the sauteed onions over the salmon .
+PREDID: 494
+PRED: spread
+   DOBJ: the sauteed onions over the salmon
+      NON-INGREDIENT SPAN: the sauteed onions over the salmon
+
+
+SENTID: 11
+SENT: I would gently spread a little bit of the mayonnaise over the onion layer .
+PREDID: 536
+PRED: spread
+   DOBJ: a little bit of the mayonnaise over the onion layer
+      INGREDIENT SPAN: a little bit of the mayonnaise over the onion layer
+         INGREDIENTS: mayonnaise needed
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 12
+SENT: I would top with potatoes , and spread enough mayonnaise just to add moisture to the layer .
+PREDID: 585
+PRED: top
+   DOBJ: NULL
+   PARG: potatoes
+     PREP: with
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 604
+PRED: spread
+   DOBJ: enough mayonnaise
+      NON-INGREDIENT SPAN: enough mayonnaise
+   OARG: just
+      NON-INGREDIENT SPAN: just
+   OARG: to add moisture to the layer
+      NON-INGREDIENT SPAN: to add moisture to the layer
+
+
+SENTID: 13
+SENT: I would finally , slice the eggs , and cover the layer of potatoes .
+
+SENTID: 14
+SENT: I would spread mayonnaise over the eggs , and garnish with chopped parsley .
+PREDID: 654
+PRED: spread
+   DOBJ: mayonnaise
+      NON-INGREDIENT SPAN: mayonnaise
+   PARG: the eggs
+     PREP: over
+      NON-INGREDIENT SPAN: the eggs
+
+PREDID: 685
+PRED: garnish
+   DOBJ: NULL
+   PARG: chopped parsley
+     PREP: with
+      INGREDIENT SPAN: chopped parsley
+         INGREDIENTS: chopped fresh parsley garnish
+
+
+SENTID: 15
+SENT: If you wish , I would you can reserve some of the egg to chop and sprinkle over the top as well .
+PREDID: 748
+PRED: chop
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 16
+SENT: I would chill for 1 hour before serving .
+PREDID: 780
+PRED: chill
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

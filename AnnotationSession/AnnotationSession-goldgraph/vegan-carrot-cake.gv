@@ -1,0 +1,87 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="prepare
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="whisk together
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="set aside
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="pour
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="sprinkle
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir in
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="add
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir in
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="pour
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="bake
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="cool
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="removing
+13", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: a 9x13 inch baking pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="COOBJECT:with cooking spray", shape=box, style=filled, fillcolor=peachpuff]
+P1_0 -> E1
+D4[label="DOBJ: the hot water", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="LOCATION:into a mixing bowl", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+D2[label="DOBJ: soy flour, cinnamon, the whole wheat flour, tapioca starch, salt, baking soda, ground cloves", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: until blended", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: with the flax meal", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: for a minute", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: until the flax begins to absorb the water, and the mixture slightly thickens", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+D7_ing[label="DOBJ: vanilla, the brown sugar", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+O7_0_0[label="OTHER: until the sugar has dissolved", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+D8_ing[label="DOBJ: almonds, carrots, the currants", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+E3 -> E9 [label="the dry mixture"]
+E8 -> E9 [label="IMPLICIT PREP"]
+O9_0_0[label="OTHER: until just moistened", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+E1 -> E10 [label="LOCATION:into the prepared pan"]
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E0 -> E11 [label="LOCATION:in the preheated oven"]
+O11_0_0[label="OTHER: until a toothpick inserted into the center comes out clean, about 30 minutes", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+P12_0_0[label="LOCATION:in the pan", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+O12_0_0[label="OTHER: for 10 minutes", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_0[label="LOCATION:on a wire rack", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+O13_0_0[label="OTHER: to cool completely", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E13 -> EOR
+}

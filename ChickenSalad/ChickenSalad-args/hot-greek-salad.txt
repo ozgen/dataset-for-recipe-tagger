@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook orzo in the boiling water , stirring occasionally until cooked through but firm to the bite , about 10 minutes .
+PREDID: 42
+PRED: cook
+   DOBJ: orzo in the boiling water
+      INGREDIENT SPAN: orzo in the boiling water
+         INGREDIENTS: orzo pasta
+   OARG: stirring occasionally until cooked through but firm to the bite , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 2
+SENT: I would drain and keep warm .
+PREDID: 138
+PRED: drain and keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 3
+SENT: I would heat olive oil in a large skillet over medium heat ;
+PREDID: 155
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 4
+SENT: I would cook and stir chicken , garlic , and Greek seasoning until chicken is no longer pink in the center and juices run clear , about 10 minutes .
+PREDID: 197
+PRED: cook and stir
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cubed
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+   OARG: greek seasoning until chicken is no longer pink in the center, juices run clear , about 10 minutes
+      INGREDIENT SPAN: greek seasoning until chicken is no longer pink in the center
+         INGREDIENTS: Greek seasoning taste
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  juices run clear 
+
+
+SENTID: 5
+SENT: I would add spinach , the cucumber , the tomato , the olives , and vinaigrette ;
+PREDID: 310
+PRED: add
+   DOBJ: spinach , the cucumber , the tomato , the olives , vinaigrette
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber cubed
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce large black olives drained
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: sundried tomato vinaigrette
+      INGREDIENT SPAN: spinach 
+         INGREDIENTS: fresh spinach
+      NON-INGREDIENT SPAN:  vinaigrette
+
+
+SENTID: 6
+SENT: I would lower heat and simmer until spinach begins to wilt , 5 to 10 minutes .
+PREDID: 359
+PRED: lower
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: spinach begins to wilt , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: spinach begins to wilt 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 7
+SENT: I would serve over orzo ;
+PREDID: 415
+PRED: serve
+   DOBJ: NULL
+   PARG: orzo
+     PREP: over
+      NON-INGREDIENT SPAN: orzo
+
+
+SENTID: 8
+SENT: I would top with feta cheese .
+PREDID: 429
+PRED: top
+   DOBJ: NULL
+   PARG: feta cheese
+     PREP: with
+      INGREDIENT SPAN: feta cheese
+         INGREDIENTS: crumbled feta cheese
+
+

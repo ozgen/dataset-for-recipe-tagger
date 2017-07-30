@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would mix together the barbecue sauce , the ketchup , the onion , the celery , the water , the garlic , the honey , brown sugar , Worcestershire sauce , chili powder , hot pepper sauce , the salt , and black pepper in a slow cooker until thoroughly combined .
+PREDID: 0
+PRED: mix
+   DOBJ: the barbecue sauce , the ketchup , the onion , the celery , the water , the garlic , the honey , brown sugar , Worcestershire sauce , chili powder , hot pepper sauce , the salt , black pepper in a slow cooker
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce such Tabasco taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: the barbecue sauce 
+         INGREDIENTS: bottled barbecue sauce
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  black pepper in a slow cooker
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place the pork roast into the mixture , spoon sauce over the meat , and set the cooker to Low .
+PREDID: 182
+PRED: place
+   DOBJ: the pork roast
+      INGREDIENT SPAN: the pork roast
+         INGREDIENTS: pound pork shoulder roast
+   PARG: the mixture , spoon sauce over the meat
+     PREP: into
+      NON-INGREDIENT SPAN:  spoon sauce over the meat
+      NON-INGREDIENT SPAN: the mixture 
+
+PREDID: 239
+PRED: set
+   DOBJ: the cooker
+      NON-INGREDIENT SPAN: the cooker
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 2
+SENT: I would cook 7 to 8 hours ;
+PREDID: 257
+PRED: cook
+   DOBJ: NULL
+   PARG: 7 to 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 7 to 8 hours
+
+
+SENTID: 3
+SENT: to serve , shred the meat with 2 forks , and serve with sauce .
+PREDID: 273
+PRED: serve and shred
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 305
+PRED: serve
+   DOBJ: NULL
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+
+

@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: I would whip cream to soft peaks .
+PREDID: 0
+PRED: whip
+   DOBJ: cream
+      INGREDIENT SPAN: cream
+         INGREDIENTS: whipping cream
+   PARG: soft peaks
+     PREP: to
+      NON-INGREDIENT SPAN: soft peaks
+
+
+SENTID: 1
+SENT: I would chop almonds in food processor .
+PREDID: 21
+PRED: chop
+   DOBJ: almonds
+      INGREDIENT SPAN: almonds
+         INGREDIENTS: smoked almonds
+   PARG: food processor
+     PREP: in
+      NON-INGREDIENT SPAN: food processor
+
+
+SENTID: 2
+SENT: I would shred chicken or chop finely .
+PREDID: 48
+PRED: shred
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: grilled skinless boneless chicken breast halves
+
+PREDID: 62
+PRED: chop
+   DOBJ: NULL
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+
+SENTID: 3
+SENT: In a large bowl combine the cream , I would the almonds , the chicken , the mayonnaise , the tarragon , the salt and pepper .
+
+SENTID: 4
+SENT: I would mix well and serve .
+PREDID: 73
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+

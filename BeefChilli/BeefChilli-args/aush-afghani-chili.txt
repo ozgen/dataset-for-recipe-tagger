@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: I would brown ground beef in a skillet over medium heat ;
+PREDID: 0
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would remove with slotted spoon to a large pot ;
+PREDID: 40
+PRED: remove
+   DOBJ: NULL
+   PARG: slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: slotted spoon
+   PARG: a large pot
+     PREP: to
+      NON-INGREDIENT SPAN: a large pot
+
+
+SENTID: 2
+SENT: I would reserving drippings in the skillet .
+PREDID: 74
+PRED: reserving
+   DOBJ: drippings
+      NON-INGREDIENT SPAN: drippings
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 3
+SENT: I would cook and stir the onion in the reserved drippings until golden brown ;
+PREDID: 105
+PRED: cook and stir
+   DOBJ: the onion in the reserved drippings
+      INGREDIENT SPAN: the onion in the reserved drippings
+         INGREDIENTS: onion chopped
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 4
+SENT: I would remove with slotted spoon and add to beef in the pot .
+PREDID: 163
+PRED: remove
+   DOBJ: NULL
+   PARG: slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: slotted spoon
+
+PREDID: 188
+PRED: add
+   DOBJ: NULL
+   OARG: to beef in the pot
+      NON-INGREDIENT SPAN: to beef in the pot
+
+
+SENTID: 5
+SENT: I would stir the tomatoes with juice , garlic , red pepper , the cumin , chili powder , the mint , garam masala , garbanzo beans , and spinach into the beef mixture and place the pot over low heat ;
+PREDID: 206
+PRED: stir
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce diced tomatoes juice
+   PARG: juice , garlic , red pepper , the cumin , chili powder , the mint , garam masala , garbanzo beans , spinach
+     PREP: with
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: ounce box frozen chopped spinach thawed drained
+      INGREDIENT SPAN:  garbanzo beans 
+         INGREDIENTS: ounce garbanzo beans chickpeas drained
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the mint 
+         INGREDIENTS: dried mint
+      INGREDIENT SPAN:  garam masala 
+         INGREDIENTS: garam masala
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: minced garlic
+      NON-INGREDIENT SPAN: juice 
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+PREDID: 334
+PRED: place
+   DOBJ: the pot over low heat
+      NON-INGREDIENT SPAN: the pot over low heat
+
+
+SENTID: 6
+SENT: I would simmer 3 to 6 hours .
+PREDID: 351
+PRED: simmer
+   DOBJ: NULL
+   PARG: 3 to 6 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 6 hours
+
+
+SENTID: 7
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 367
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 405
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 8
+SENT: Once the water is boiling , I would stir in the fettuccini , and return to a boil .
+PREDID: 459
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the fettuccini
+     PREP: in
+      NON-INGREDIENT SPAN: the fettuccini
+
+PREDID: 482
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 496
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 10
+SENT: I would drain well in a colander set in the sink .
+PREDID: 607
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 11
+SENT: I would stir into the chili along with the sour cream and serve hot .
+PREDID: 640
+PRED: stir
+   DOBJ: NULL
+   PARG: the chili along with the sour cream
+     PREP: into
+      INGREDIENT SPAN: the chili along with the sour cream
+         INGREDIENTS: sour cream
+
+PREDID: 680
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

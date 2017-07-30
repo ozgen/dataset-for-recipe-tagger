@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would prepare soup from a packet of onion soup mix according to the package directions , and set 1?1/2 cups aside .
+PREDID: 0
+PRED: prepare
+   DOBJ: soup
+      INGREDIENT SPAN: soup
+         INGREDIENTS: onion soup prepared packet dry onion soup mix
+   PARG: a packet of onion soup mix the package directions
+     PREP: from
+      NON-INGREDIENT SPAN: a packet of onion soup mix the package directions
+   PARG: to the package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to the package directions
+
+PREDID: 71
+PRED: set
+   DOBJ: 1?1/2 cups
+      NON-INGREDIENT SPAN: 1?1/2 cups
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would place bacon grease into a large stainless steel soup pot over medium-high heat , and cook and stir the cubed round and sirloin steak meat in the bacon fat until well browned , about 10 minutes .
+PREDID: 89
+PRED: place
+   DOBJ: bacon grease
+      INGREDIENT SPAN: bacon grease
+         INGREDIENTS: bacon grease see notes
+   PARG: a large stainless steel soup pot over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large stainless steel soup pot over medium-high heat
+
+PREDID: 159
+PRED: cook and stir
+   DOBJ: the cubed round, sirloin steak meat in the bacon fat
+      INGREDIENT SPAN:  sirloin steak meat in the bacon fat
+         INGREDIENTS: beef sirloin steak cut 1/3inch cubes
+      INGREDIENT SPAN: the cubed round
+         INGREDIENTS: boneless beef round steak cut 1/3inch cubes
+   PARG: well browned , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: well browned 
+
+
+SENTID: 2
+SENT: I would pour in the reserved onion soup , bring to a boil ,
+PREDID: 247
+PRED: pour
+   DOBJ: NULL
+   PARG: the reserved onion soup
+     PREP: in
+      NON-INGREDIENT SPAN: the reserved onion soup
+
+PREDID: 274
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce to a simmer and cook for 7 minutes , stirring to dissolve any browned flavor bits from the pot .
+PREDID: 287
+PRED: reduce
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 305
+PRED: cook
+   DOBJ: NULL
+   PARG: 7 minutes , stirring to dissolve any browned flavor bits from the pot
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring to dissolve any browned flavor bits from the pot
+      NON-INGREDIENT SPAN: 7 minutes 
+
+
+SENTID: 4
+SENT: I would stir in salt , chili powder , the cumin , black pepper , kidney beans , tomato paste , and tomato sauce .
+PREDID: 370
+PRED: stir
+   DOBJ: NULL
+   PARG: salt , chili powder , the cumin , black pepper , kidney beans , tomato paste , tomato sauce
+     PREP: in
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans undrained
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 5
+SENT: I would bring the mixture to a boil , stirring frequently to avoid the burning the bottom ,
+PREDID: 450
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a boil , stirring frequently to avoid the burning the bottom
+     PREP: to
+      NON-INGREDIENT SPAN:  stirring frequently to avoid the burning the bottom
+      NON-INGREDIENT SPAN: a boil 
+
+
+SENTID: 6
+SENT: I would cover , reduce heat to low , and simmer for 1 hour , stirring occasionally .
+PREDID: 515
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 540
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 7
+SENT: I would stir in the cocoa powder , the cola , and hot sauce , and simmer for 20 more minutes .
+PREDID: 576
+PRED: stir
+   DOBJ: NULL
+   PARG: the cocoa powder , the cola , hot sauce
+     PREP: in
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: yellow sport pepper sauce such Texas Petes
+      INGREDIENT SPAN:  the cola 
+         INGREDIENTS: cola soft drink such Coke
+      INGREDIENT SPAN: the cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+
+PREDID: 620
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 more minutes
+
+
+SENTID: 8
+SENT: I would serve hot .
+PREDID: 640
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

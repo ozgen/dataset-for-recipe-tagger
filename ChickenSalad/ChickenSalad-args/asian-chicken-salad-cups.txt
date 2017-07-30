@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would combine chicken , the cabbage , the corn , the cilantro , green onions , and almonds in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken , the cabbage , the corn , the cilantro , green onions , almonds in a bowl
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: corn kernels
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: head cabbage shredded
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cooked boneless skinless chicken breast halves shredded
+      INGREDIENT SPAN:  almonds in a bowl
+         INGREDIENTS: sliced almonds
+
+
+SENTID: 1
+SENT: I would whisk mayonnaise , rice vinegar , lemon juice , the sugar , black pepper , the salt , chile-garlic sauce , the paprika , red pepper flakes , garlic , sesame oil , the honey , and ginger in a separate bowl until sugar has dissolved .
+PREDID: 67
+PRED: whisk
+   DOBJ: mayonnaise , rice vinegar , lemon juice , the sugar , black pepper , the salt , chile-garlic sauce , the paprika , red pepper flakes , garlic , sesame oil , the honey , ginger
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  chile-garlic sauce 
+         INGREDIENTS: chilegarlic sauce such Sriracha
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: sugar has dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar has dissolved
+
+
+SENTID: 2
+SENT: I would stir the dressing into chicken mixture to thoroughly coat salad with dressing .
+PREDID: 241
+PRED: stir
+   DOBJ: the dressing into chicken mixture to thoroughly coat salad
+      NON-INGREDIENT SPAN: the dressing into chicken mixture to thoroughly coat salad
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 3
+SENT: I would hollow out dinner rolls to make small bowls ;
+PREDID: 305
+PRED: hollow
+   DOBJ: dinner rolls
+      INGREDIENT SPAN: dinner rolls
+         INGREDIENTS: dinner rolls
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to make small bowls
+      NON-INGREDIENT SPAN: to make small bowls
+
+
+SENTID: 4
+SENT: I would fill rolls with salad to serve .
+PREDID: 342
+PRED: fill
+   DOBJ: rolls with salad
+      NON-INGREDIENT SPAN: rolls with salad
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

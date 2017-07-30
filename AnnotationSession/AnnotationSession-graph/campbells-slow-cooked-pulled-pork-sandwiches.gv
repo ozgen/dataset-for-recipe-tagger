@@ -1,0 +1,64 @@
+digraph recipe {
+E0[label="heat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="add (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook (S1,P1)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="add (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="turn (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="cover and cook (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="remove (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="let (S5,P1)", shape=oval, style=filled, fillcolor=azure]
+E9[label="shred (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="return (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="divide (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: boneless pork shoulder roast
+(text: the pork)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D0[label="DOBJ: vegetable oil
+(text: the oil)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a 10-inch skillet over medium-high heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D3[label="DOBJ: cider vinegar, ketchup, (10.5 ounce) can Campbell's® Condensed French Onion Soup, packed brown sugar
+(text: the soup , ketchup , vinegar and brown sugar in a 5-quart slow cooker)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+E2 -> E4 [label="OUTPUT: 
+INPUT: the pork"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_0[label="PREP: to coat", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: on low", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+P6_1_0[label="PREP: for 8 to 9 hours", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+E0 -> E7 [label="OUTPUT: 
+INPUT: the pork"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: from the cooker"]
+P7_1_0[label="PREP: to a cutting board", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+E3 -> E8 [label="OUTPUT: 
+INPUT: stand"]
+P8_0_0[label="PREP: for 10 minutes", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E7 -> E9 [label="OUTPUT: 
+INPUT: the pork"]
+E8 -> E10 [label="OUTPUT: 
+INPUT: the pork"]
+P10_0_0[label="PREP: to the cooker", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+D11_ing[label="DOBJ: round sandwich rolls or hamburger rolls
+(text: sauce mixture among the rolls)", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E9 -> E11 [label="OUTPUT: 
+INPUT: the pork"]
+E10 -> E11 [label="OUTPUT: 
+INPUT:  "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

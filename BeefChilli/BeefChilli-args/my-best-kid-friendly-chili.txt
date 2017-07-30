@@ -1,0 +1,284 @@
+SENTID: 0
+SENT: I would set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 0
+PRED: set
+   DOBJ: oven rack
+      NON-INGREDIENT SPAN: oven rack
+   PARG: 6 inches from the heat source
+     PREP: about
+      NON-INGREDIENT SPAN: 6 inches from the heat source
+
+PREDID: 43
+PRED: preheat
+   DOBJ: the oven 's broiler
+      NON-INGREDIENT SPAN: the oven 's broiler
+
+
+SENTID: 1
+SENT: I would line a baking sheet with aluminum foil .
+PREDID: 67
+PRED: line
+   DOBJ: a baking sheet with aluminum foil
+      NON-INGREDIENT SPAN: a baking sheet with aluminum foil
+
+
+SENTID: 2
+SENT: I would place green bell pepper on the prepared baking sheet .
+PREDID: 100
+PRED: place
+   DOBJ: green bell pepper
+      INGREDIENT SPAN: green bell pepper
+         INGREDIENTS: green bell pepper
+   PARG: the prepared baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+
+SENTID: 3
+SENT: I would broil bell pepper in the oven , turning every 5 minutes , until skin is blackened and bubbling , about 20 minutes .
+PREDID: 145
+PRED: broil
+   DOBJ: bell pepper in the oven
+      NON-INGREDIENT SPAN: bell pepper in the oven
+
+PREDID: 170
+PRED: turning
+   DOBJ: NULL
+   PARG: every 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: every 5 minutes
+   PARG: skin is blackened
+     PREP: until
+      NON-INGREDIENT SPAN: skin is blackened
+
+PREDID: 214
+PRED: bubbling
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 4
+SENT: I would transfer roasted pepper to a resealable plastic bag ;
+PREDID: 238
+PRED: transfer
+   DOBJ: roasted pepper
+      NON-INGREDIENT SPAN: roasted pepper
+   PARG: a resealable plastic bag
+     PREP: to
+      NON-INGREDIENT SPAN: a resealable plastic bag
+
+
+SENTID: 5
+SENT: I would seal and set aside .
+PREDID: 283
+PRED: seal and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would heat a Dutch oven over medium-high heat .
+PREDID: 299
+PRED: heat
+   DOBJ: a Dutch oven
+      NON-INGREDIENT SPAN: a Dutch oven
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 7
+SENT: I would cook and stir ground beef and ground sausage in the hot Dutch oven until browned and crumbly , 5 to 7 minutes ;
+PREDID: 333
+PRED: cook and stir
+   DOBJ: ground beef, ground sausage in the hot Dutch oven
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef sirloin
+      INGREDIENT SPAN:  ground sausage in the hot Dutch oven
+         INGREDIENTS: ground salsiccia sausage
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 8
+SENT: I would drain and discard grease .
+PREDID: 422
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 9
+SENT: I would transfer ground meat to a bowl .
+PREDID: 444
+PRED: transfer
+   DOBJ: ground meat
+      INGREDIENT SPAN: ground meat
+         INGREDIENTS: ground cumin
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 10
+SENT: I would heat olive oil in the same Dutch oven over medium-low heat ;
+PREDID: 470
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: the same dutch oven over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: the same dutch oven over medium-low heat
+
+
+SENTID: 11
+SENT: I would cook and stir onions and garlic in the hot oil until onions are translucent , 5 to 10 minutes .
+
+SENTID: 12
+SENT: I would carefully remove roasted pepper from the plastic bag and peel off the blackened layer ;
+PREDID: 604
+PRED: remove
+   DOBJ: roasted pepper
+      NON-INGREDIENT SPAN: roasted pepper
+   PARG: the plastic bag
+     PREP: from
+      NON-INGREDIENT SPAN: the plastic bag
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+PREDID: 643
+PRED: peel
+   DOBJ: the blackened layer
+      NON-INGREDIENT SPAN: the blackened layer
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 13
+SENT: I would chop the pepper .
+PREDID: 668
+PRED: chop
+   DOBJ: the pepper
+      NON-INGREDIENT SPAN: the pepper
+
+
+SENTID: 14
+SENT: I would add chopped bell pepper , ground meat mixture , chili beans , the coffee , green chiles , cocoa powder , the cumin , and chili powder to the onion mixture ;
+PREDID: 682
+PRED: add
+   DOBJ: chopped bell pepper , ground meat mixture , chili beans , the coffee , green chiles , cocoa powder , the cumin , chili powder
+      INGREDIENT SPAN:  green chiles 
+         INGREDIENTS: ounce diced green chiles
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans undrained
+      INGREDIENT SPAN:  the coffee 
+         INGREDIENTS: brewed coffee
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      NON-INGREDIENT SPAN:  ground meat mixture 
+      NON-INGREDIENT SPAN:  the cumin 
+      NON-INGREDIENT SPAN: chopped bell pepper 
+   PARG: the onion mixture
+     PREP: to
+      INGREDIENT SPAN: the onion mixture
+         INGREDIENTS: onions diced
+
+
+SENTID: 15
+SENT: I would stir well .
+PREDID: 801
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 16
+SENT: I would simmer , stirring frequently , until warmed , about 5 minutes .
+PREDID: 810
+PRED: simmer
+   DOBJ: NULL
+   OARG: stirring frequently , until warmed , about 5 minutes
+      NON-INGREDIENT SPAN:  until warmed 
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 17
+SENT: I would stir crushed tomatoes and water into chili ;
+PREDID: 862
+PRED: stir
+   DOBJ: crushed tomatoes, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water needed
+      INGREDIENT SPAN: crushed tomatoes
+         INGREDIENTS: ounce canned crushed tomatoes
+   PARG: chili
+     PREP: into
+      NON-INGREDIENT SPAN: chili
+
+
+SENTID: 18
+SENT: I would season with salt .
+PREDID: 899
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 19
+SENT: I would bring to boil .
+PREDID: 914
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 20
+SENT: I would cover Dutch oven , reduce heat , and simmer , stirring occasionally , until flavors have blended , at least 30 minutes .
+PREDID: 926
+PRED: cover
+   DOBJ: Dutch oven
+      NON-INGREDIENT SPAN: Dutch oven
+
+PREDID: 941
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 955
+PRED: simmer
+   DOBJ: NULL
+   OARG: stirring occasionally , until flavors have blended , at least 30 minutes
+      NON-INGREDIENT SPAN:  at least 30 minutes
+      NON-INGREDIENT SPAN:  until flavors have blended 
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 21
+SENT: I would remove cover and simmer until chili is thickened , about 30 more minutes .
+PREDID: 1024
+PRED: remove
+   DOBJ: cover, simmer
+      NON-INGREDIENT SPAN: cover
+      NON-INGREDIENT SPAN:  simmer
+   PARG: chili is thickened , about 30 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 more minutes
+      NON-INGREDIENT SPAN: chili is thickened 
+
+

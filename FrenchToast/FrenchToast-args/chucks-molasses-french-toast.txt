@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would beat together the eggs , the molasses , the cream , the vanilla , the ginger , and cinnamon in a bowl until smooth .
+PREDID: 0
+PRED: beat
+   DOBJ: the eggs , the molasses , the cream , the vanilla , the ginger , cinnamon in a bowl
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the cream 
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the molasses 
+         INGREDIENTS: molasses
+      INGREDIENT SPAN:  cinnamon in a bowl
+         INGREDIENTS: ground cinnamon more taste
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would dip the challah slices in the batter until coated on all sides .
+PREDID: 80
+PRED: dip
+   DOBJ: the challah slices in the batter
+      INGREDIENT SPAN: the challah slices in the batter
+         INGREDIENTS: thick slices challah bread
+   PARG: coated on all sides
+     PREP: until
+      NON-INGREDIENT SPAN: coated on all sides
+
+
+SENTID: 2
+SENT: I would melt half of the butter in a large skillet over medium heat .
+PREDID: 132
+PRED: melt
+   DOBJ: half of the butter in a large skillet over medium heat
+      INGREDIENT SPAN: half of the butter in a large skillet over medium heat
+         INGREDIENTS: butter
+
+
+SENTID: 3
+SENT: I would place half of the challah slices into the pan , and cook until golden brown on each side , about 3 minutes per side .
+PREDID: 181
+PRED: place
+   DOBJ: half of the challah slices
+      NON-INGREDIENT SPAN: half of the challah slices
+   PARG: the pan
+     PREP: into
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 222
+PRED: cook
+   DOBJ: NULL
+   PARG: golden brown on each side , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on each side 
+      NON-INGREDIENT SPAN:  about 3 minutes
+   PARG: side
+     PREP: per
+      NON-INGREDIENT SPAN: side
+
+
+SENTID: 4
+SENT: I would repeat with remaining butter and challah slices .
+PREDID: 274
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining butter, challah slices
+     PREP: with
+      NON-INGREDIENT SPAN: remaining butter
+      NON-INGREDIENT SPAN:  challah slices
+
+

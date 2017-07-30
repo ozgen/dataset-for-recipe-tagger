@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: muffin cups or line with paper muffin liners
+      NON-INGREDIENT SPAN: muffin cups or line with paper muffin liners
+
+
+SENTID: 2
+SENT: In a medium bowl , I would mix buttermilk with wheat bran .
+PREDID: 96
+PRED: mix
+   DOBJ: buttermilk
+      INGREDIENT SPAN: buttermilk
+         INGREDIENTS: buttermilk
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: wheat bran
+     PREP: with
+      INGREDIENT SPAN: wheat bran
+         INGREDIENTS: wheat bran
+
+
+SENTID: 3
+SENT: In another bowl , I would beat together egg , the sugar , the oil , the banana , and vanilla .
+PREDID: 137
+PRED: beat
+   DOBJ: egg , the sugar , the oil , the banana , vanilla
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the banana 
+         INGREDIENTS: ripe banana mashed
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: In a large bowl , I would stir together flour , oat bran , baking soda , and baking powder .
+PREDID: 194
+PRED: stir
+   DOBJ: flour , oat bran , baking soda , baking powder
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  oat bran 
+         INGREDIENTS: oat bran
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir buttermilk mixture and egg mixture into flour mixture until flour is just moistened .
+PREDID: 247
+PRED: stir
+   DOBJ: buttermilk mixture, egg mixture
+      NON-INGREDIENT SPAN: buttermilk mixture
+      NON-INGREDIENT SPAN:  egg mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: flour is just moistened
+     PREP: until
+      NON-INGREDIENT SPAN: flour is just moistened
+
+
+SENTID: 6
+SENT: I would stir in berries and walnuts .
+PREDID: 323
+PRED: stir
+   DOBJ: NULL
+   PARG: berries, walnuts
+     PREP: in
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      NON-INGREDIENT SPAN: berries
+
+
+SENTID: 7
+SENT: I would spoon batter into muffin cups .
+PREDID: 347
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: muffin cups
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 20 minutes , or until done .
+PREDID: 373
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes , or until done
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes 
+      NON-INGREDIENT SPAN:  or until done
+
+

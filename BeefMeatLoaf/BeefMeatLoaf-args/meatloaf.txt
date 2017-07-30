@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large bowl , I would combine ground meat , the soup , chopped onion , rolled oats , the eggs , steak sauce , the ketchup and mustard .
+PREDID: 13
+PRED: combine
+   DOBJ: ground meat , the soup , chopped onion , rolled oats , the eggs , steak sauce , the ketchup, mustard
+      INGREDIENT SPAN:  rolled oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  chopped onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN:  steak sauce 
+         INGREDIENTS: steak sauce
+      INGREDIENT SPAN: ground meat 
+         INGREDIENTS: lean ground beef
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 94
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would shape into a loaf , and pat Into a loaf pan .
+PREDID: 102
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf , pat into a loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf 
+      NON-INGREDIENT SPAN:  pat into a loaf pan
+
+
+SENTID: 3
+SENT: I would bake in a preheated 350 degrees F -LRB- 175 degrees C -RRB- oven for 1 hour or until done .
+PREDID: 136
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

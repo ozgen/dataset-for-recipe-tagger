@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly-salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly-salted water
+      NON-INGREDIENT SPAN: a large pot of lightly-salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook until al dente , 8 to 10 minutes ;
+PREDID: 81
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: al dente , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 122
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would cook the bacon in a skillet over medium-high heat until crisp ;
+PREDID: 132
+PRED: cook
+   DOBJ: the bacon in a skillet over medium-high heat
+      INGREDIENT SPAN: the bacon in a skillet over medium-high heat
+         INGREDIENTS: slices smoked bacon
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 5
+SENT: I would drain , crumble , and set aside .
+PREDID: 184
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 201
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would place the drained noodles in a large baking dish .
+PREDID: 210
+PRED: place
+   DOBJ: the drained noodles in a large baking dish
+      INGREDIENT SPAN: the drained noodles in a large baking dish
+         INGREDIENTS: ounce package egg noodles
+
+
+SENTID: 7
+SENT: I would stir the sour cream into the noodles .
+PREDID: 251
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+   PARG: the noodles
+     PREP: into
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 8
+SENT: I would spoon the cottage cheese evenly over the top of the noodle mixture .
+PREDID: 282
+PRED: spoon
+   DOBJ: the cottage cheese
+      INGREDIENT SPAN: the cottage cheese
+         INGREDIENTS: ounce container cottage cheese
+   PARG: the top of the noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the noodle mixture
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 9
+SENT: I would sprinkle the crumbled bacon over the top ;
+PREDID: 338
+PRED: sprinkle
+   DOBJ: the crumbled bacon
+      NON-INGREDIENT SPAN: the crumbled bacon
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 10
+SENT: I would season with salt .
+PREDID: 373
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 11
+SENT: I would bake in preheated oven until the cottage cheese softens , 3 to 5 minutes .
+PREDID: 388
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the cottage cheese softens , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cottage cheese softens 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+

@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 13x9-inch baking dish with non-stick cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 13x9-inch baking dish
+      NON-INGREDIENT SPAN: a 13x9-inch baking dish
+   PARG: non-stick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: non-stick cooking spray
+
+
+SENTID: 2
+SENT: I would heat butter in a skillet over medium heat .
+PREDID: 89
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a skillet over medium heat
+         INGREDIENTS: medium onion chopped
+
+
+SENTID: 3
+SENT: I would stir in mushrooms , the onion , and pepper .
+PREDID: 124
+PRED: stir
+   DOBJ: NULL
+   PARG: mushrooms , the onion , pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: white pepper
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: fresh mushrooms sliced
+      NON-INGREDIENT SPAN:  the onion 
+
+
+SENTID: 4
+SENT: I would cook until soft and tender .
+PREDID: 156
+PRED: cook
+   DOBJ: NULL
+   PARG: soft, tender
+     PREP: until
+      NON-INGREDIENT SPAN:  tender
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 5
+SENT: I would sprinkle flour over vegetables , and stir to coat .
+PREDID: 179
+PRED: sprinkle
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: vegetables
+     PREP: over
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 210
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 6
+SENT: I would stir in milk and chicken broth .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, chicken broth
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  chicken broth
+         INGREDIENTS: canned chicken broth
+
+
+SENTID: 7
+SENT: I would cook until sauce thickens .
+PREDID: 247
+PRED: cook
+   DOBJ: NULL
+   PARG: sauce thickens
+     PREP: until
+      NON-INGREDIENT SPAN: sauce thickens
+
+
+SENTID: 8
+SENT: I would stir in broccoli , the Parmesan , the salt , the pepper , and nutmeg .
+PREDID: 270
+PRED: stir
+   DOBJ: NULL
+   PARG: broccoli , the parmesan , the salt , the pepper , nutmeg
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: ounce package frozen broccoli florets thawed drained
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the parmesan 
+         INGREDIENTS: shredded Parmesan cheese
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: medium bell pepper chopped
+
+
+SENTID: 9
+SENT: I would cook until Parmesan is melted .
+PREDID: 316
+PRED: cook
+   DOBJ: NULL
+   PARG: parmesan is melted
+     PREP: until
+      NON-INGREDIENT SPAN: parmesan is melted
+
+
+SENTID: 10
+SENT: I would layer baking dish with 1/4 sauce , 1/4 noodles , 1/4 ham , 1/4 chicken , and 1/4 Swiss .
+PREDID: 342
+PRED: layer
+   DOBJ: baking dish
+      NON-INGREDIENT SPAN: baking dish
+   PARG: 1/4 sauce , 1/4 noodles , 1/4 ham , 1/4 chicken , 1/4 swiss
+     PREP: with
+      INGREDIENT SPAN:  1/4 chicken 
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN:  1/4 ham 
+         INGREDIENTS: cubed cooked ham
+      INGREDIENT SPAN:  1/4 noodles 
+         INGREDIENTS: lasagna noodles cooked drained
+      NON-INGREDIENT SPAN:  1/4 swiss
+      NON-INGREDIENT SPAN: 1/4 sauce 
+
+
+SENTID: 11
+SENT: I would repeat layers 3 times .
+PREDID: 411
+PRED: repeat
+   DOBJ: 3 times
+      NON-INGREDIENT SPAN: 3 times
+   OARG: layers
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 12
+SENT: I would cover with foil .
+PREDID: 430
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 13
+SENT: I would bake in a preheated oven 35 to 40 minutes .
+PREDID: 444
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven 35 to 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven 35 to 40 minutes
+
+

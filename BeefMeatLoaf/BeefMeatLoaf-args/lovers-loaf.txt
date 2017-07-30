@@ -1,0 +1,245 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place spinach in a microwave safe bowl with a splash of water .
+PREDID: 38
+PRED: place
+   DOBJ: spinach in a microwave safe bowl
+      INGREDIENT SPAN: spinach in a microwave safe bowl
+         INGREDIENTS: ounce bag washed spinach leaves
+   PARG: a splash of water
+     PREP: with
+      INGREDIENT SPAN: a splash of water
+         INGREDIENTS: water
+
+
+SENTID: 2
+SENT: I would cover , and microwave until the spinach has wilted , about 5 minutes .
+PREDID: 89
+PRED: cover
+   DOBJ: NULL
+   OARG: microwave until the spinach has wilted , about 5 minutes
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: microwave until the spinach has wilted 
+
+
+SENTID: 3
+SENT: I would drain and allow to cool .
+PREDID: 146
+PRED: drain and allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix together beef , the pork , the eggs , bread crumbs , and Romano cheese .
+PREDID: 179
+PRED: mix
+   DOBJ: beef , the pork , the eggs , bread crumbs , Romano cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs beaten
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  Romano cheese
+         INGREDIENTS: grated Romano Parmesan cheese
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: ground pork
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would season with salt and pepper .
+PREDID: 233
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would divide into two equal portions , and roll each into balls .
+PREDID: 257
+PRED: divide
+   DOBJ: NULL
+   PARG: two equal portions
+     PREP: into
+      NON-INGREDIENT SPAN: two equal portions
+
+PREDID: 287
+PRED: roll
+   DOBJ: each
+      NON-INGREDIENT SPAN: each
+   PARG: balls
+     PREP: into
+      NON-INGREDIENT SPAN: balls
+
+
+SENTID: 7
+SENT: I would place a 15-inch long piece of plastic wrap on your work surface and lightly sprinkle with flour .
+PREDID: 305
+PRED: place
+   DOBJ: a 15-inch long piece of plastic wrap
+      NON-INGREDIENT SPAN: a 15-inch long piece of plastic wrap
+   PARG: your work surface
+     PREP: on
+      NON-INGREDIENT SPAN: your work surface
+
+PREDID: 367
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: flour
+     PREP: with
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour dusting
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: I would place one of the balls onto the plastic wrap and pat into a thin , 8-inch by 10-inch rectangle .
+PREDID: 385
+PRED: place
+   DOBJ: one of the balls
+      NON-INGREDIENT SPAN: one of the balls
+   PARG: the plastic wrap
+     PREP: onto
+      NON-INGREDIENT SPAN: the plastic wrap
+
+PREDID: 424
+PRED: pat
+   DOBJ: NULL
+   PARG: a thin , 8-inch
+     PREP: into
+      NON-INGREDIENT SPAN: a thin 
+      NON-INGREDIENT SPAN:  8-inch
+   PARG: 10-inch rectangle
+     PREP: by
+      NON-INGREDIENT SPAN: 10-inch rectangle
+
+
+SENTID: 9
+SENT: I would cover evenly with half of the spinach and 3 slices of prosciutto ,
+PREDID: 462
+PRED: cover
+   DOBJ: NULL
+   PARG: half of the spinach, 3 slices of prosciutto
+     PREP: with
+      INGREDIENT SPAN:  3 slices of prosciutto
+         INGREDIENTS: slices provolone cheese
+      NON-INGREDIENT SPAN: half of the spinach
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 10
+SENT: I would shingle three slices of provolone running along the edge facing you .
+PREDID: 516
+PRED: shingle
+   DOBJ: three slices of provolone running along the edge facing you
+      INGREDIENT SPAN: three slices of provolone running along the edge facing you
+         INGREDIENTS: slices provolone cheese
+
+
+SENTID: 11
+SENT: Using the plastic wrap to lift the meat , I would roll the loaf starting from the cheese side into a firmly packed spiral , peeling away the plastic wrap as you go .
+PREDID: 607
+PRED: roll
+   DOBJ: the loaf starting from the cheese side into a firmly packed spiral , peeling away the plastic wrap as you go
+      INGREDIENT SPAN: the loaf starting from the cheese side into a firmly packed spiral 
+         INGREDIENTS: slices provolone cheese
+      NON-INGREDIENT SPAN:  peeling away the plastic wrap as you go
+   OARG: using the plastic wrap to lift the meat
+      NON-INGREDIENT SPAN: using the plastic wrap to lift the meat
+
+
+SENTID: 12
+SENT: I would make a second loaf with remaining ingredients .
+PREDID: 700
+PRED: make
+   DOBJ: a second loaf
+      NON-INGREDIENT SPAN: a second loaf
+   PARG: remaining ingredients
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ingredients
+
+
+SENTID: 13
+SENT: To bake , pour wine into a broiler pan bottom .
+
+SENTID: 14
+SENT: I would oil the slotted top with some of the olive oil before placing the loaves on and brushing them with remaining oil .
+
+SENTID: 15
+SENT: I would cover loaves with a sheet of aluminum foil and bake in preheated oven for 40 minutes .
+PREDID: 777
+PRED: cover
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: a sheet of aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: a sheet of aluminum foil
+
+PREDID: 815
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 40 minutes
+
+
+SENTID: 16
+SENT: I would remove the foil and pour water into the pan .
+PREDID: 847
+PRED: remove
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+
+PREDID: 863
+PRED: pour
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: the pan
+     PREP: into
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 17
+SENT: I would continue the baking for another 35 minutes , until the internal temperature reaches 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 883
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: another 35 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 35 minutes
+   PARG: the internal temperature reaches 160 degrees f -lrb- 72 degrees c
+     PREP: until
+      NON-INGREDIENT SPAN: the internal temperature reaches 160 degrees f -lrb- 72 degrees c
+
+
+SENTID: 18
+SENT: I would allow to rest 10 minutes before slicing into 1-inch thick slices to serve .
+PREDID: 975
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest 10 minutes before slicing into 1-inch thick slices to serve
+      INGREDIENT SPAN: to rest 10 minutes before slicing into 1-inch thick slices to serve
+         INGREDIENTS: slices prosciutto ham sliced
+
+

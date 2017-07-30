@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: In a medium bowl , I would blend the cream cheese with brown sugar , the allspice , the nutmeg and cinnamon
+PREDID: 14
+PRED: blend
+   DOBJ: the cream cheese
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: softened cream cheese
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: brown sugar , the allspice , the nutmeg, cinnamon
+     PREP: with
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 1
+SENT: I would spread 4 slices bread with the cream cheese mixture , and top with remaining bread slices , creating sandwiches .
+PREDID: 74
+PRED: spread
+   DOBJ: 4 slices bread
+      INGREDIENT SPAN: 4 slices bread
+         INGREDIENTS: inch slices egg bread
+   PARG: the cream cheese mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the cream cheese mixture
+
+PREDID: 121
+PRED: top
+   DOBJ: NULL
+   PARG: remaining bread slices
+     PREP: with
+      INGREDIENT SPAN: remaining bread slices
+         INGREDIENTS: inch slices egg bread
+   OARG: creating sandwiches
+      NON-INGREDIENT SPAN: creating sandwiches
+
+
+SENTID: 2
+SENT: I would mix eggs and milk in a shallow bowl .
+PREDID: 168
+PRED: mix
+   DOBJ: eggs, milk
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: extra large eggs beaten
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+
+
+SENTID: 3
+SENT: I would dip bread into the egg and milk to coat thoroughly .
+PREDID: 197
+PRED: dip
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+   PARG: the egg
+     PREP: into
+      NON-INGREDIENT SPAN: the egg
+
+PREDID: 218
+PRED: milk
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would melt butter in a medium skillet over medium high heat .
+PREDID: 239
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a medium skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet over medium high heat
+
+
+SENTID: 5
+SENT: I would cook coated bread slices 2 to 4 minutes on each side , or until golden brown .
+PREDID: 284
+PRED: cook
+   DOBJ: NULL
+   PARG: coated bread slices 2 to 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: coated bread slices 2 to 4 minutes
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+
+

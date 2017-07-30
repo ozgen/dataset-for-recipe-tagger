@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would slice the chicken breasts into strips across the grain , and set aside .
+PREDID: 0
+PRED: slice
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: strips across the grain
+     PREP: into
+      NON-INGREDIENT SPAN: strips across the grain
+
+PREDID: 50
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would peel and grate the ginger root and set aside .
+PREDID: 59
+PRED: peel and grate
+   DOBJ: the ginger root
+      INGREDIENT SPAN: the ginger root
+         INGREDIENTS: inch fresh ginger root
+
+PREDID: 87
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat the coconut oil in a wok over medium-high heat until the oil is melted and hot .
+PREDID: 96
+PRED: heat
+   DOBJ: the coconut oil
+      INGREDIENT SPAN: the coconut oil
+         INGREDIENTS: coconut oil
+   PARG: a wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok over medium-high heat
+   PARG: the oil is melted, hot
+     PREP: until
+      NON-INGREDIENT SPAN: the oil is melted
+      NON-INGREDIENT SPAN:  hot
+
+
+SENTID: 3
+SENT: I would stir in the ginger and garlic , and cook and stir for about 20 seconds , to release the flavor .
+PREDID: 164
+PRED: stir
+   DOBJ: NULL
+   PARG: the ginger, garlic
+     PREP: in
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: pressed garlic
+      NON-INGREDIENT SPAN: the ginger
+
+PREDID: 192
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 20 seconds
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 seconds
+   OARG: to release the flavor
+      NON-INGREDIENT SPAN: to release the flavor
+
+
+SENTID: 4
+SENT: I would toss the chicken strips into the hot oil , and scoop the hoisin sauce over the chicken .
+PREDID: 240
+PRED: toss
+   DOBJ: the chicken strips
+      NON-INGREDIENT SPAN: the chicken strips
+   PARG: the hot oil
+     PREP: into
+      NON-INGREDIENT SPAN: the hot oil
+
+PREDID: 277
+PRED: scoop
+   DOBJ: the hoisin sauce
+      INGREDIENT SPAN: the hoisin sauce
+         INGREDIENTS: hoisin sauce
+   PARG: the chicken
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 5
+SENT: I would cook and stir for 5 to 7 minutes , until the sauce coats the chicken and the meat is no longer pink inside .
+PREDID: 311
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 5 to 7 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 7 minutes
+   PARG: the sauce coats the chicken, the meat is no longer pink inside
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce coats the chicken
+      NON-INGREDIENT SPAN:  the meat is no longer pink inside
+
+

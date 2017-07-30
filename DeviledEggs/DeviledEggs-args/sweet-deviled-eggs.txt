@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: large eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 1
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 51
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 69
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 2
+SENT: I would remove eggs from hot water and place in a bowl of ice water .
+PREDID: 104
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water, place
+     PREP: from
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: hot water
+   PARG: a bowl of ice water
+     PREP: in
+      INGREDIENT SPAN: a bowl of ice water
+         INGREDIENTS: ice cubes
+
+
+SENTID: 3
+SENT: Peel .
+
+SENTID: 4
+SENT: I would slice eggs in half lengthwise .
+PREDID: 152
+PRED: slice
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 5
+SENT: I would remove yolks and transfer to a bowl ;
+PREDID: 178
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+PREDID: 192
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: I would mash with a fork or pastry blender until yolks resemble powder .
+PREDID: 208
+PRED: mash
+   DOBJ: NULL
+   PARG: a fork or pastry blender
+     PREP: with
+      NON-INGREDIENT SPAN: a fork or pastry blender
+   PARG: yolks resemble powder
+     PREP: until
+      NON-INGREDIENT SPAN: yolks resemble powder
+
+
+SENTID: 7
+SENT: I would stir mayonnaise , the sugar , honey mustard , the vinegar , the salt , and pepper into yolks until smooth .
+PREDID: 261
+PRED: stir
+   DOBJ: mayonnaise , the sugar , honey mustard , the vinegar , the salt , pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  honey mustard 
+         INGREDIENTS: honey mustard
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: yolks
+     PREP: into
+      NON-INGREDIENT SPAN: yolks
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would spoon yolk mixture into the egg whites and lightly sprinkle with paprika .
+PREDID: 338
+PRED: spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: the egg whites
+     PREP: into
+      NON-INGREDIENT SPAN: the egg whites
+
+PREDID: 380
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 9
+SENT: I would chill before serving .
+PREDID: 400
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

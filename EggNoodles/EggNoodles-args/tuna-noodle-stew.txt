@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain the leaving about a 1/2 cup of water in the pot .
+PREDID: 87
+PRED: drain
+   DOBJ: the leaving
+      NON-INGREDIENT SPAN: the leaving
+   PARG: a 1/2 cup of water in the pot
+     PREP: about
+      NON-INGREDIENT SPAN: a 1/2 cup of water in the pot
+
+
+SENTID: 3
+SENT: To the pot of pasta , add tuna , celery soup , the peas , red bell pepper , the onion , and salt and pepper to taste .
+PREDID: 143
+PRED: add
+   DOBJ: tuna , celery soup , the peas , red bell pepper , the onion , salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: frozen green peas
+      INGREDIENT SPAN: tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN:  celery soup 
+         INGREDIENTS: ounce condensed cream celery soup
+      NON-INGREDIENT SPAN:  pepper
+   PARG: the pot of pasta
+     PREP: to
+      NON-INGREDIENT SPAN: the pot of pasta
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would simmer until hot .
+PREDID: 211
+PRED: simmer
+   DOBJ: NULL
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 5
+SENT: If needed , I would add more water or milk .
+PREDID: 235
+PRED: add
+   DOBJ: more water
+      NON-INGREDIENT SPAN: more water
+   PARG: needed
+     PREP: if
+      NON-INGREDIENT SPAN: needed
+
+

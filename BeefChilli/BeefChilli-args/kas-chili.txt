@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would place a large skillet over medium-high heat .
+PREDID: 0
+PRED: place
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook the ground beef in the hot skillet until completely browned , 7 to 10 minutes ;
+PREDID: 38
+PRED: cook
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the hot skillet until completely browned , 7 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the hot skillet until completely browned 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 106
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would combine the drained beef in a slow cooker with the bell peppers , the onions , kidney beans , black beans , tomato sauce , and diced tomatoes .
+PREDID: 112
+PRED: combine
+   DOBJ: the drained beef in a slow cooker
+      INGREDIENT SPAN: the drained beef in a slow cooker
+         INGREDIENTS: ounce kidney beans rinsed drained
+   PARG: the bell peppers , the onions , kidney beans , black beans , tomato sauce , diced tomatoes
+     PREP: with
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce black beans
+      INGREDIENT SPAN: the bell peppers 
+         INGREDIENTS: green bell peppers chopped
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  black beans 
+
+
+SENTID: 4
+SENT: I would cook on High for 30 minutes .
+PREDID: 224
+PRED: cook
+   DOBJ: NULL
+   PARG: high for 30 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: high for 30 minutes
+
+
+SENTID: 5
+SENT: I would stir the garlic , chili powder , the paprika , the oregano , the rosemary , the coriander , garlic powder , the salt , the cumin , the cilantro , and bay leaves into the beef mixture .
+PREDID: 247
+PRED: stir
+   DOBJ: the garlic , chili powder , the paprika , the oregano , the rosemary , the coriander , garlic powder , the salt , the cumin , the cilantro , bay leaves
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  bay leaves
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: minced garlic
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 6
+SENT: I would reduce heat to Low and cook another 6?1/2 hours .
+PREDID: 372
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 390
+PRED: cook
+   DOBJ: NULL
+   PARG: another 6?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: another 6?1/2 hours
+
+

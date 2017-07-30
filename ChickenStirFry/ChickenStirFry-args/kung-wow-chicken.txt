@@ -1,0 +1,260 @@
+SENTID: 0
+SENT: I would whisk together 1 tablespoon white wine , 1 tablespoon soy sauce , 1 teaspoon brown sugar , and finely chopped green onion .
+PREDID: 0
+PRED: whisk
+   DOBJ: 1 tablespoon white wine , 1 tablespoon soy sauce , 1 teaspoon brown sugar , finely chopped green onion
+      INGREDIENT SPAN:  1 tablespoon soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: 1 tablespoon white wine 
+         INGREDIENTS: white wine
+      INGREDIENT SPAN:  finely chopped green onion
+         INGREDIENTS: medium green onions chopped white parts
+      INGREDIENT SPAN:  finely onion
+         INGREDIENTS: chopped green onion tops
+      INGREDIENT SPAN:  1 teaspoon brown sugar 
+         INGREDIENTS: brown sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in chicken pieces to coat .
+PREDID: 101
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken pieces
+     PREP: in
+      INGREDIENT SPAN: chicken pieces
+         INGREDIENTS: chicken broth
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would cover and refrigerate for 1 hour .
+PREDID: 127
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 3
+SENT: I would combine white vinegar , rice vinegar , 1 tablespoon soy sauce , sambal chile paste , sesame oil , 2 tablespoons brown sugar , the ketchup , 2 tablespoon white wine , and garlic in a bowl .
+PREDID: 155
+PRED: combine
+   DOBJ: white vinegar , rice vinegar , 1 tablespoon soy sauce , sambal chile paste , sesame oil , 2 tablespoons brown sugar , the ketchup , 2 tablespoon white wine , garlic in a bowl
+      INGREDIENT SPAN:  sambal chile paste 
+         INGREDIENTS: Asian chili paste sambal more taste
+      INGREDIENT SPAN:  1 tablespoon soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  2 tablespoon white wine 
+         INGREDIENTS: white wine
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  2 tablespoons brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: white vinegar 
+         INGREDIENTS: white vinegar
+      NON-INGREDIENT SPAN:  garlic in a bowl
+
+
+SENTID: 4
+SENT: I would whisk thoroughly ;
+PREDID: 303
+PRED: whisk
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 319
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would mix cornstarch with cold water in a small bowl .
+PREDID: 328
+PRED: mix
+   DOBJ: cornstarch
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+   PARG: cold water in a small bowl
+     PREP: with
+      INGREDIENT SPAN: cold water in a small bowl
+         INGREDIENTS: water
+
+
+SENTID: 7
+SENT: I would heat peanut oil in a heavy duty , nonstick skillet over high heat .
+PREDID: 367
+PRED: heat
+   DOBJ: peanut oil
+      INGREDIENT SPAN: peanut oil
+         INGREDIENTS: peanut oil
+   PARG: a heavy duty , nonstick skillet over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a heavy duty 
+      NON-INGREDIENT SPAN:  nonstick skillet over high heat
+
+
+SENTID: 8
+SENT: I would stir in chicken ;
+PREDID: 421
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken
+     PREP: in
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chicken broth
+
+
+SENTID: 9
+SENT: I would cook and stir until chicken begins to brown , about 2 minutes
+PREDID: 435
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken begins to brown , about 2 minutes
+     PREP: until
+      INGREDIENT SPAN: chicken begins to brown 
+         INGREDIENTS: skinless boneless chicken breast cut 1inch
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 10
+SENT: I would stir in zucchini and red bell pepper ;
+PREDID: 485
+PRED: stir
+   DOBJ: NULL
+   PARG: zucchini, red bell pepper
+     PREP: in
+      INGREDIENT SPAN: zucchini
+         INGREDIENTS: cubed zucchini
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: cubed red bell pepper
+
+
+SENTID: 11
+SENT: I would cook for 2 more minutes .
+PREDID: 516
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+
+
+SENTID: 12
+SENT: I would add chicken broth and stir .
+PREDID: 536
+PRED: add
+   DOBJ: chicken broth
+      NON-INGREDIENT SPAN: chicken broth
+
+
+SENTID: 13
+SENT: I would stir in vinegar mixture ;
+PREDID: 559
+PRED: stir
+   DOBJ: NULL
+   PARG: vinegar mixture
+     PREP: in
+      NON-INGREDIENT SPAN: vinegar mixture
+
+
+SENTID: 14
+SENT: I would cook and stir until vegetables are tender and chicken is no longer pink in the center , about 2 minutes .
+PREDID: 580
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: vegetables are tender, chicken is no longer pink in the center , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: vegetables are tender
+      NON-INGREDIENT SPAN:  chicken is no longer pink in the center 
+
+
+SENTID: 15
+SENT: I would stir in cornstarch mixture until sauce is thickened , about 30 seconds ;
+PREDID: 665
+PRED: stir
+   DOBJ: NULL
+   PARG: cornstarch mixture
+     PREP: in
+      NON-INGREDIENT SPAN: cornstarch mixture
+   PARG: sauce is thickened , about 30 seconds
+     PREP: until
+      INGREDIENT SPAN: sauce is thickened 
+         INGREDIENTS: soy sauce
+      NON-INGREDIENT SPAN:  about 30 seconds
+
+
+SENTID: 16
+SENT: I would remove from heat .
+PREDID: 725
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 17
+SENT: I would toss in peanuts ;
+PREDID: 740
+PRED: toss
+   DOBJ: NULL
+   PARG: peanuts
+     PREP: in
+      INGREDIENT SPAN: peanuts
+         INGREDIENTS: roasted salted peanuts
+
+
+SENTID: 18
+SENT: I would season with salt and pepper to taste .
+PREDID: 754
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      INGREDIENT SPAN: taste
+         INGREDIENTS: soy sauce taste
+
+
+SENTID: 19
+SENT: I would stir in green onion tops .
+PREDID: 785
+PRED: stir
+   DOBJ: NULL
+   PARG: green onion tops
+     PREP: in
+      NON-INGREDIENT SPAN: green onion tops
+
+
+SENTID: 20
+SENT: I would serve over white rice .
+PREDID: 806
+PRED: serve
+   DOBJ: NULL
+   PARG: white rice
+     PREP: over
+      INGREDIENT SPAN: white rice
+         INGREDIENTS: cooked white rice
+
+

@@ -1,0 +1,40 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="season
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="toss
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="top
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: black beans and", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a small saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+O0_1[label="OTHER: until heated through", shape=box, style=filled, fillcolor=white]
+O0_1 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_ing[label="COOBJECT: with salt and pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P1_0_ing -> E1
+D2_ing[label="DOBJ: green bell pepper, Cheddar cheese, package romaine lettuce, head cabbage, corn", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+P2_1_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_1_0 -> E2
+O2_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+D3_ing[label="DOBJ: prepared Ranch salad dressing", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+P3_1_0[label="LOCATION:to serving bowls", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: with finely crushed blue tortilla chips", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

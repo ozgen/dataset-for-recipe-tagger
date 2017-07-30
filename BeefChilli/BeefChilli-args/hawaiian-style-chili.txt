@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would heat a large Dutch oven until hot over high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large Dutch oven
+      NON-INGREDIENT SPAN: a large Dutch oven
+   PARG: hot over high heat
+     PREP: until
+      NON-INGREDIENT SPAN: hot over high heat
+
+
+SENTID: 1
+SENT: I would add the ground beef , and cook until barely pink , stirring constantly to break into small pieces .
+PREDID: 40
+PRED: add
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+PREDID: 60
+PRED: cook
+   DOBJ: NULL
+   PARG: barely pink
+     PREP: until
+      NON-INGREDIENT SPAN: barely pink
+   OARG: stirring constantly to break into small pieces
+      NON-INGREDIENT SPAN: stirring constantly to break into small pieces
+
+
+SENTID: 2
+SENT: I would stir in onions and bell pepper , cook until the meat has browned , and the onions have softened and turned translucent , about 5 minutes .
+PREDID: 186
+PRED: have
+   DOBJ: NULL
+   OARG: cook until the meat has browned , the onions have softened, turned translucent , about 5 minutes
+      INGREDIENT SPAN:  the onions have softened
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN: cook until the meat has browned 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turned translucent 
+
+
+SENTID: 3
+SENT: I would pour meat into a large mesh strainer and press to expel excess fat .
+PREDID: 233
+PRED: pour
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a large mesh strainer
+     PREP: into
+      NON-INGREDIENT SPAN: a large mesh strainer
+
+PREDID: 266
+PRED: press
+   DOBJ: NULL
+   OARG: to expel excess fat
+      NON-INGREDIENT SPAN: to expel excess fat
+
+
+SENTID: 4
+SENT: I would place meat back into Dutch oven along with stewed tomatoes , kidney beans , tomato sauce , and pineapple chunks ;
+PREDID: 288
+PRED: place
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: with stewed tomatoes , kidney beans , tomato sauce , pineapple chunks
+     PREP: along
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN: with stewed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes juice
+      INGREDIENT SPAN:  pineapple chunks
+         INGREDIENTS: ounce pineapple chunks drained
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+   OARG: back into dutch oven
+      NON-INGREDIENT SPAN: back into dutch oven
+
+
+SENTID: 5
+SENT: I would season with chili powder and salt .
+PREDID: 381
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder
+
+
+SENTID: 6
+SENT: I would bring to a boil ,
+PREDID: 410
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would reduce heat to medium-low and simmer uncovered for 10 minutes , or until chili reaches desired consistency .
+PREDID: 423
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   OARG: uncovered for 10 minutes , or until chili reaches desired consistency
+      NON-INGREDIENT SPAN: uncovered for 10 minutes 
+      NON-INGREDIENT SPAN:  or until chili reaches desired consistency
+
+

@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would break the ground beef into small pieces into a large pot over medium-high heat .
+PREDID: 0
+PRED: break
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+   PARG: a large pot over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would stir green bell pepper , the onion , seasoned salt , 1?1/2 teaspoon ground annatto seed , 1?1/2 teaspoon ground cumin , 1?1/2 teaspoon paprika , and 1?1/2 teaspoon red pepper flakes through the ground beef ;
+PREDID: 66
+PRED: stir
+   DOBJ: green bell pepper , the onion , seasoned salt , 1?1/2 teaspoon ground annatto seed , 1?1/2 teaspoon ground cumin , 1?1/2 teaspoon paprika , 1?1/2 teaspoon red pepper flakes
+      INGREDIENT SPAN:  1?1/2 teaspoon red pepper flakes
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN: green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  1?1/2 teaspoon ground annatto seed 
+         INGREDIENTS: ground annatto seed
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  1?1/2 teaspoon ground cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  1?1/2 teaspoon paprika 
+         INGREDIENTS: paprika
+   PARG: the ground beef
+     PREP: through
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground cumin
+
+
+SENTID: 2
+SENT: I would cook and stir until the beef is completely browned , about 10 minutes .
+PREDID: 234
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is completely browned
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 3
+SENT: I would pour diced tomatoes , pinto beans , black beans , and red beans into the pot ;
+PREDID: 292
+PRED: pour
+   DOBJ: diced tomatoes , pinto beans , black beans , red beans
+      INGREDIENT SPAN:  red beans
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce red beans drained rinsed
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans drained rinsed
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would season with chili seasoning , 1?1/2 teaspoon ground cumin , 1?1/2 teaspoon paprika , 1?1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , and garlic .
+PREDID: 354
+PRED: season
+   DOBJ: NULL
+   PARG: chili seasoning , 1?1/2 teaspoon ground cumin , 1?1/2 teaspoon paprika , 1?1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , garlic
+     PREP: with
+      INGREDIENT SPAN: chili seasoning 
+         INGREDIENTS: ounce package chili seasoning such McCormick Mild Chili
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced more taste
+      INGREDIENT SPAN:  1 teaspoon red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  1?1/2 teaspoon ground cumin 
+         INGREDIENTS: ground annatto seed
+      INGREDIENT SPAN:  1?1/2 teaspoon paprika 
+         INGREDIENTS: paprika
+      NON-INGREDIENT SPAN:  1?1/2 teaspoon ground annatto seed 
+
+
+SENTID: 5
+SENT: I would bring to a boil , reduce heat to medium-low , and simmer until the beans are tender , about 20 minutes .
+PREDID: 491
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 504
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 530
+PRED: simmer
+   DOBJ: NULL
+   PARG: the beans are tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the beans are tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

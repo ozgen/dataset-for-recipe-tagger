@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would arrange equal amounts of the salad greens on each of 4 salad plates .
+PREDID: 0
+PRED: arrange
+   DOBJ: equal amounts of the salad greens
+      INGREDIENT SPAN: equal amounts of the salad greens
+         INGREDIENTS: torn salad greens chopped romaine
+   PARG: each of 4 salad plates
+     PREP: on
+      INGREDIENT SPAN: each of 4 salad plates
+         INGREDIENTS: reducedcalorie fatfree regular blue cheese salad dressing
+
+
+SENTID: 1
+SENT: I would spoon equal amounts of the dressing evenly over all .
+PREDID: 56
+PRED: spoon
+   DOBJ: equal amounts of the dressing
+      INGREDIENT SPAN: equal amounts of the dressing
+         INGREDIENTS: reducedcalorie fatfree regular blue cheese salad dressing
+   PARG: over all
+     PREP: evenly
+      NON-INGREDIENT SPAN: over all
+
+
+SENTID: 2
+SENT: I would top with the chicken , the peppers , and pears .
+PREDID: 100
+PRED: top
+   DOBJ: NULL
+   PARG: the chicken , the peppers , pears
+     PREP: with
+      INGREDIENT SPAN:  pears
+         INGREDIENTS: ounce DEL MONTE Lite Sliced Pears drained
+      INGREDIENT SPAN:  the peppers 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked chicken strips
+
+
+SENTID: 3
+SENT: I would sprinkle evenly with the blue cheese , black pepper and walnuts , if desired .
+PREDID: 135
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the blue cheese , black pepper, walnuts
+     PREP: with
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: Chopped walnuts
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: medium yellow green bell pepper sliced
+      INGREDIENT SPAN: the blue cheese 
+         INGREDIENTS: crumbled blue cheese
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+

@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB-
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C.
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C.
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together sugar and margarine .
+PREDID: 51
+PRED: mix
+   DOBJ: sugar, margarine
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine softened
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in eggs , the vanilla and vinegar .
+PREDID: 80
+PRED: stir
+   DOBJ: NULL
+   PARG: eggs , the vanilla, vinegar
+     PREP: in
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white vinegar
+
+
+SENTID: 3
+SENT: I would stir in pecans .
+PREDID: 109
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: I would pour into pie shell .
+PREDID: 122
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: prepared inch pie crust
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 45 minutes , or until top is lightly browned , and filling is set .
+PREDID: 139
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+PREDID: 190
+PRED: is browned
+   DOBJ: NULL
+   PARG: top
+     PREP: until
+      NON-INGREDIENT SPAN: top
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 210
+PRED: is set
+   DOBJ: NULL
+
+

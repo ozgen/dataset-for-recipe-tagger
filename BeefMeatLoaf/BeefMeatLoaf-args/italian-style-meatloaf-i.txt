@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together ground beef , the eggs , bread crumbs and ketchup .
+PREDID: 51
+PRED: mix
+   DOBJ: ground beef , the eggs , bread crumbs, ketchup
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with Italian-style seasoning , the oregano , the basil , garlic salt , diced tomatoes and cheese .
+PREDID: 100
+PRED: season
+   DOBJ: NULL
+   PARG: italian-style seasoning , the oregano , the basil , garlic salt , diced tomatoes, cheese
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes drained
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN: italian-style seasoning 
+         INGREDIENTS: Italianstyle seasoning
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 3
+SENT: I would press into a 9x5 inch loaf pan , and cover loosely with foil .
+PREDID: 181
+PRED: press
+   DOBJ: NULL
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+PREDID: 209
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+   OARG: loosely
+      NON-INGREDIENT SPAN: loosely
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven approximately 1 hour , or until internal temperature reaches 160 degrees F -LRB- 70 degrees C -RRB- .
+

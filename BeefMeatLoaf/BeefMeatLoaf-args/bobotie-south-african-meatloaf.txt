@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a large baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a large baking dish
+      NON-INGREDIENT SPAN: a large baking dish
+
+
+SENTID: 2
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 61
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook and stir onion in melted butter until browned , 5 to 7 minutes .
+PREDID: 96
+PRED: cook and stir
+   DOBJ: onion in melted butter
+      INGREDIENT SPAN: onion in melted butter
+         INGREDIENTS: onions diced
+   PARG: browned , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 4
+SENT: I would combine 2 eggs , 1 cup milk , the oats , the raisins , the almonds , the vinegar , curry powder , the sugar , the salt , the turmeric , and black pepper in a large bowl .
+PREDID: 151
+PRED: combine
+   DOBJ: 2 eggs , 1 cup milk , the oats , the raisins , the almonds , the vinegar , curry powder , the sugar , the salt , the turmeric , black pepper in a large bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  1 cup milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder taste
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: golden raisins
+      INGREDIENT SPAN:  the turmeric 
+         INGREDIENTS: ground turmeric
+      INGREDIENT SPAN: 2 eggs 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: oldfashioned oats
+      INGREDIENT SPAN:  black pepper in a large bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 5
+SENT: I would add onions and ground beef ;
+PREDID: 261
+PRED: add
+   DOBJ: onions, ground beef
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: lean ground beef
+      NON-INGREDIENT SPAN: onions
+
+
+SENTID: 6
+SENT: I would mix well .
+PREDID: 284
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would spread the beef evenly into the prepared baking dish ;
+PREDID: 292
+PRED: spread
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   OARG: evenly into the prepared baking dish
+      NON-INGREDIENT SPAN: evenly into the prepared baking dish
+
+
+SENTID: 8
+SENT: I would top with bay leaves .
+PREDID: 337
+PRED: top
+   DOBJ: NULL
+   PARG: bay leaves
+     PREP: with
+      INGREDIENT SPAN: bay leaves
+         INGREDIENTS: bay leaves more taste
+
+
+SENTID: 9
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 354
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 10
+SENT: I would remove from oven and drain excess fat from the beef .
+PREDID: 386
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 403
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   PARG: the beef
+     PREP: from
+      NON-INGREDIENT SPAN: the beef
+
+
+SENTID: 11
+SENT: I would beat 1 egg and 1/4 cup milk together in a bowl ;
+PREDID: 429
+PRED: beat
+   DOBJ: 1 egg, 1/4 cup milk
+      INGREDIENT SPAN: 1 egg
+         INGREDIENTS: eggs, egg
+      INGREDIENT SPAN: 1 egg
+         INGREDIENTS: eggs, egg
+      INGREDIENT SPAN:  1/4 cup milk
+         INGREDIENTS: milk
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would pour over the beef mixture .
+PREDID: 466
+PRED: pour
+   DOBJ: NULL
+   PARG: the beef mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 13
+SENT: I would continue the baking in oven until the top is beginning to brown , about 30 minute more .
+PREDID: 489
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: oven
+     PREP: in
+      NON-INGREDIENT SPAN: oven
+   PARG: the top is beginning to brown , about 30 minute more
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minute more
+      NON-INGREDIENT SPAN: the top is beginning to brown 
+
+
+SENTID: 14
+SENT: I would remove and discard bay leaves to serve .
+PREDID: 557
+PRED: remove and discard
+   DOBJ: bay leaves
+      NON-INGREDIENT SPAN: bay leaves
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

@@ -1,0 +1,304 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 9x13-inch baking dish with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would place the sausage in a skillet over medium heat and cook until browned and crumbly , about 10 minutes .
+PREDID: 80
+PRED: place
+   DOBJ: the sausage
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: bulk mild Italian sausage
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 122
+PRED: cook
+   DOBJ: NULL
+   PARG: browned, crumbly , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 3
+SENT: I would drain the sausage and set aside .
+PREDID: 164
+PRED: drain
+   DOBJ: the sausage
+      NON-INGREDIENT SPAN: the sausage
+
+PREDID: 182
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: To make bechamel sauce , melt the butter in a saucepan over medium heat and whisk in the flour .
+PREDID: 193
+PRED: make
+   DOBJ: bechamel sauce
+      INGREDIENT SPAN: bechamel sauce
+         INGREDIENTS: ounce jars marinara sauce divided
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 211
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+PREDID: 252
+PRED: whisk
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 5
+SENT: I would allow the flour and butter to cook until light and foamy , about 2 minutes , whisking constantly ;
+PREDID: 268
+PRED: allow
+   DOBJ: NULL
+   PARG: the flour, butter to cook until light, foamy , about 2 minutes , whisking constantly
+     PREP: for
+      NON-INGREDIENT SPAN:  about 2 minutes 
+      NON-INGREDIENT SPAN:  butter to cook until light
+      NON-INGREDIENT SPAN: the flour
+      NON-INGREDIENT SPAN:  foamy 
+      NON-INGREDIENT SPAN:  whisking constantly
+
+
+SENTID: 6
+SENT: I would whisk in milk , a little at a time .
+PREDID: 348
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: lowfat milk
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   OARG: a little
+      NON-INGREDIENT SPAN: a little
+
+
+SENTID: 7
+SENT: I would whisk in the salt and nutmeg and bring the sauce to a bare simmer , whisking constantly until thickened , about 10 minutes .
+PREDID: 375
+PRED: whisk
+   DOBJ: NULL
+   PARG: the salt, nutmeg
+     PREP: in
+      INGREDIENT SPAN: the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+
+PREDID: 401
+PRED: bring
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: a bare simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a bare simmer
+   OARG: whisking constantly until thickened , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: whisking constantly until thickened 
+
+
+SENTID: 8
+SENT: I would remove sauce from the heat and set aside .
+PREDID: 476
+PRED: remove
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 501
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: In a bowl , I would beat the egg and stir in the ricotta cheese and parsley until thoroughly combined .
+PREDID: 518
+PRED: beat
+   DOBJ: the egg
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 531
+PRED: stir
+   DOBJ: NULL
+   PARG: the ricotta cheese, parsley until thoroughly combined
+     PREP: in
+      INGREDIENT SPAN:  parsley until thoroughly combined
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN: the ricotta cheese
+         INGREDIENTS: ounce container partskim ricotta cheese
+
+
+SENTID: 10
+SENT: To assemble lasagna , pour about 1?1/2 cup of marinara sauce into the bottom of the prepared baking dish and top the sauce with 4 lasagna noodles , overlapping if necessary .
+PREDID: 589
+PRED: assemble
+   DOBJ: lasagna
+      INGREDIENT SPAN: lasagna
+         INGREDIENTS: ounce package noboil lasagna noodles divided
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 605
+PRED: pour
+   DOBJ: about 1?1/2 cup of marinara sauce
+      NON-INGREDIENT SPAN: about 1?1/2 cup of marinara sauce
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+PREDID: 676
+PRED: top
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: 4 lasagna noodles
+     PREP: with
+      NON-INGREDIENT SPAN: 4 lasagna noodles
+   OARG: overlapping if necessary
+      NON-INGREDIENT SPAN: overlapping if necessary
+
+
+SENTID: 11
+SENT: On the noodles , I would layer 1/3 of the ricotta mixture , followed by 1/3 of the cooked sausage , 1/3 cup of mushrooms , 1/4 of the bechamel sauce , 1 cup of the mozzarella cheese , 1/8 cup of the Parmesan cheese and 1 more cup of marinara sauce .
+PREDID: 743
+PRED: layer
+   DOBJ: 1/3 of the ricotta mixture
+      NON-INGREDIENT SPAN: 1/3 of the ricotta mixture
+   PARG: the noodles 1/3 of the cooked sausage , 1/3 cup of mushrooms , 1/4 of the bechamel sauce , 1 cup of the mozzarella cheese , 1/8 cup of the parmesan cheese, 1 more cup of marinara sauce
+     PREP: on
+      INGREDIENT SPAN:  1/8 cup of the parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+      INGREDIENT SPAN:  1 cup of the mozzarella cheese 
+         INGREDIENTS: ounce package shredded partskim mozzarella cheese divided
+      INGREDIENT SPAN:  1/3 cup of mushrooms 
+         INGREDIENTS: chopped cremini mushrooms divided
+      NON-INGREDIENT SPAN: the noodles 1/3 of the cooked sausage 
+      NON-INGREDIENT SPAN:  1 more cup of marinara sauce
+      NON-INGREDIENT SPAN:  1/4 of the bechamel sauce 
+   PARG: by 1/3 of the cooked sausage , 1/3 cup of mushrooms , 1/4 of the bechamel sauce , 1 cup of the mozzarella cheese , 1/8 cup of the parmesan cheese, 1 more cup of marinara sauce
+     PREP: followed
+      INGREDIENT SPAN:  1/8 cup of the parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+      INGREDIENT SPAN:  1 cup of the mozzarella cheese 
+         INGREDIENTS: ounce package shredded partskim mozzarella cheese divided
+      INGREDIENT SPAN:  1/3 cup of mushrooms 
+         INGREDIENTS: chopped cremini mushrooms divided
+      NON-INGREDIENT SPAN: by 1/3 of the cooked sausage 
+      NON-INGREDIENT SPAN:  1 more cup of marinara sauce
+      NON-INGREDIENT SPAN:  1/4 of the bechamel sauce 
+
+
+SENTID: 12
+SENT: I would repeat the layers twice more , ending with a final layer of noodles topped with a layer of marinara sauce , bechamel sauce , the remaining mozzarella cheese , and remaining Parmesan cheese .
+PREDID: 921
+PRED: repeat
+   DOBJ: the layers
+      NON-INGREDIENT SPAN: the layers
+   OARG: twice more
+      NON-INGREDIENT SPAN: twice more
+   OARG: ending with a final layer of noodles topped with a layer of marinara sauce , bechamel sauce , the remaining mozzarella cheese , remaining parmesan cheese
+      INGREDIENT SPAN:  remaining parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+      INGREDIENT SPAN:  the remaining mozzarella cheese 
+         INGREDIENTS: ounce package shredded partskim mozzarella cheese divided
+      NON-INGREDIENT SPAN:  bechamel sauce 
+      NON-INGREDIENT SPAN: ending with a final layer of noodles topped with a layer of marinara sauce 
+
+
+SENTID: 13
+SENT: I would cover the dish with foil .
+PREDID: 1078
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until bubbly and the noodles are tender , about 1 hour .
+PREDID: 1099
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: bubbly, the noodles are tender , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  the noodles are tender 
+      NON-INGREDIENT SPAN: bubbly
+
+
+SENTID: 15
+SENT: I would remove the foil and bake until the top cheese layer is browned , about 5 more minutes .
+PREDID: 1166
+PRED: remove
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+
+PREDID: 1182
+PRED: bake
+   DOBJ: NULL
+   PARG: the top cheese layer is browned , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the top cheese layer is browned 
+      NON-INGREDIENT SPAN:  about 5 more minutes
+
+
+SENTID: 16
+SENT: I would allow the lasagna to stand for 10 minutes before cutting .
+PREDID: 1233
+PRED: allow
+   DOBJ: NULL
+   PARG: the lasagna to stand for 10 minutes before cutting
+     PREP: for
+      NON-INGREDIENT SPAN: the lasagna to stand for 10 minutes before cutting
+
+

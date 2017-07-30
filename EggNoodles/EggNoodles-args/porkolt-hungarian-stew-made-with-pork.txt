@@ -1,0 +1,352 @@
+SENTID: 0
+SENT: I would place the bacon in a large , deep skillet , and cook over medium-high heat until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the bacon in a large , deep skillet
+      INGREDIENT SPAN: the bacon in a large 
+         INGREDIENTS: slices bacon diced
+      NON-INGREDIENT SPAN:  deep skillet
+
+PREDID: 37
+PRED: cook
+   DOBJ: NULL
+   PARG: medium-high heat until evenly browned , about 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: medium-high heat until evenly browned 
+
+
+SENTID: 1
+SENT: I would drain , and reserve the drippings .
+PREDID: 94
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 103
+PRED: reserve
+   DOBJ: the drippings
+      NON-INGREDIENT SPAN: the drippings
+
+
+SENTID: 2
+SENT: I would add the onions to the bacon and cook together until the onion is translucent .
+PREDID: 123
+PRED: add
+   DOBJ: the onions
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: large onions diced
+   PARG: the bacon
+     PREP: to
+      NON-INGREDIENT SPAN: the bacon
+
+PREDID: 148
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is translucent
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would remove skillet from heat and stir the paprika , garlic powder , and pepper into the bacon mixture .
+PREDID: 187
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 211
+PRED: stir
+   DOBJ: the paprika , garlic powder , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the paprika 
+         INGREDIENTS: Hungarian paprika
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+   PARG: the bacon mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bacon mixture
+
+
+SENTID: 4
+SENT: I would transfer the mixture into a large stockpot .
+PREDID: 268
+PRED: transfer
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a large stockpot
+     PREP: into
+      NON-INGREDIENT SPAN: a large stockpot
+
+
+SENTID: 5
+SENT: I would heat a small amount of the reserved bacon drippings in the skillet again over medium-high heat .
+PREDID: 305
+PRED: heat
+   DOBJ: a small amount of the reserved bacon drippings in the skillet
+      NON-INGREDIENT SPAN: a small amount of the reserved bacon drippings in the skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 6
+SENT: I would cook the pork chops in batches in the hot drippings until evenly browned on both sides .
+PREDID: 385
+PRED: cook
+   DOBJ: the pork chops
+      INGREDIENT SPAN: the pork chops
+         INGREDIENTS: boneless pork chops trimmed
+   PARG: batches in the hot drippings
+     PREP: in
+      NON-INGREDIENT SPAN: batches in the hot drippings
+   PARG: evenly browned on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned on both sides
+
+
+SENTID: 7
+SENT: I would use additional bacon drippings for each batch as needed .
+PREDID: 457
+PRED: use
+   DOBJ: additional bacon drippings
+      NON-INGREDIENT SPAN: additional bacon drippings
+   PARG: each batch as needed
+     PREP: for
+      NON-INGREDIENT SPAN: each batch as needed
+
+
+SENTID: 8
+SENT: I would remove the pork chops to a cutting board and blot excess fat off the surface of the chops with a paper towel ;
+PREDID: 505
+PRED: remove
+   DOBJ: the pork chops
+      NON-INGREDIENT SPAN: the pork chops
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+PREDID: 541
+PRED: blot
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   PARG: the surface of the chops with a paper towel
+     PREP: off
+      NON-INGREDIENT SPAN: the surface of the chops with a paper towel
+
+
+SENTID: 9
+SENT: I would cut into bite-sized cubes and stir into the bacon mixture .
+PREDID: 593
+PRED: cut
+   DOBJ: NULL
+   PARG: bite-sized cubes
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized cubes
+
+PREDID: 618
+PRED: stir
+   DOBJ: NULL
+   PARG: the bacon mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bacon mixture
+
+
+SENTID: 10
+SENT: I would heat a small amount of the bacon drippings in the skillet ;
+PREDID: 642
+PRED: heat
+   DOBJ: a small amount of the bacon drippings
+      NON-INGREDIENT SPAN: a small amount of the bacon drippings
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 11
+SENT: I would cook and stir the bell pepper in the hot drippings until softened and fragrant ;
+PREDID: 690
+PRED: cook and stir
+   DOBJ: the bell pepper in the hot drippings
+      INGREDIENT SPAN: the bell pepper in the hot drippings
+         INGREDIENTS: large yellow bell pepper seeded diced
+   PARG: softened, fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+      NON-INGREDIENT SPAN:  fragrant
+
+
+SENTID: 12
+SENT: I would drain on a plate lined with paper towels .
+PREDID: 756
+PRED: drain
+   DOBJ: NULL
+   PARG: a plate lined with paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: a plate lined with paper towels
+
+
+SENTID: 13
+SENT: I would stir the cooked pepper into the bacon mixture .
+PREDID: 790
+PRED: stir
+   DOBJ: the cooked pepper
+      NON-INGREDIENT SPAN: the cooked pepper
+   PARG: the bacon mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bacon mixture
+
+
+SENTID: 14
+SENT: I would pour the tomatoes with liquid and beef broth into a stockpot and place the pot over medium-high heat .
+PREDID: 829
+PRED: pour
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce diced tomatoes liquid
+   PARG: liquid, beef broth
+     PREP: with
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: beef broth
+      NON-INGREDIENT SPAN: liquid
+   PARG: a stockpot
+     PREP: into
+      NON-INGREDIENT SPAN: a stockpot
+
+PREDID: 882
+PRED: place
+   DOBJ: the pot over medium-high heat
+      NON-INGREDIENT SPAN: the pot over medium-high heat
+
+
+SENTID: 15
+SENT: I would bring to a simmer and reduce heat to medium-low .
+PREDID: 913
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 930
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 16
+SENT: I would cook until the stew begins to thicken , stirring occasionally , about 90 minutes .
+PREDID: 953
+PRED: cook
+   DOBJ: NULL
+   PARG: the stew begins to thicken , stirring occasionally , about 90 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the stew begins to thicken 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 90 minutes
+
+
+SENTID: 17
+SENT: I would stir the sour cream into the stew just before serving .
+PREDID: 1021
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: reducedfat sour cream
+   PARG: the stew
+     PREP: into
+      NON-INGREDIENT SPAN: the stew
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 18
+SENT: I would bring a pot with lightly-salted water and bring to a rolling boil ;
+PREDID: 1066
+PRED: bring
+   DOBJ: a pot
+      NON-INGREDIENT SPAN: a pot
+   PARG: lightly-salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly-salted water
+
+PREDID: 1101
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 19
+SENT: I would add the egg noodles to the water and return to a boil .
+PREDID: 1121
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce packages wide egg noodles
+   PARG: the water
+     PREP: to
+      NON-INGREDIENT SPAN: the water
+
+PREDID: 1150
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 20
+SENT: I would cook uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 1164
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 1168
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta has cooked through 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 21
+SENT: I would drain well in a colander set in the sink .
+PREDID: 1267
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 22
+SENT: I would ladle the stew over the drained noodles to serve .
+PREDID: 1300
+PRED: ladle
+   DOBJ: the stew over the drained noodles
+      NON-INGREDIENT SPAN: the stew over the drained noodles
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

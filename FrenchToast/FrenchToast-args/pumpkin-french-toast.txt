@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would beat the eggs , pumpkin puree , the cinnamon , and nutmeg together in a bowl .
+PREDID: 0
+PRED: beat
+   DOBJ: the eggs , pumpkin puree , the cinnamon , nutmeg
+      INGREDIENT SPAN:  pumpkin puree 
+         INGREDIENTS: canned pumpkin puree
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would dip the bread slices into the pumpkin mixture until coated on both sides .
+PREDID: 59
+PRED: dip
+   DOBJ: the bread slices
+      INGREDIENT SPAN: the bread slices
+         INGREDIENTS: slices whole wheat bread
+   PARG: the pumpkin mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: coated on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: coated on both sides
+
+
+SENTID: 2
+SENT: I would melt 1 teaspoon of butter in a large skillet over medium-high heat .
+PREDID: 120
+PRED: melt
+   DOBJ: 1 teaspoon of butter
+      INGREDIENT SPAN: 1 teaspoon of butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 3
+SENT: I would place 4 of the bread slices into the skillet and cook until browned on both sides , about 3 minutes per side .
+PREDID: 176
+PRED: place
+   DOBJ: 4 of the bread slices
+      NON-INGREDIENT SPAN: 4 of the bread slices
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 215
+PRED: cook
+   DOBJ: NULL
+   PARG: browned on both sides , about 3 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN: browned on both sides 
+      NON-INGREDIENT SPAN:  about 3 minutes per side
+
+
+SENTID: 4
+SENT: I would repeat with the remaining bread and butter .
+PREDID: 264
+PRED: repeat
+   DOBJ: NULL
+   PARG: the remaining bread, butter
+     PREP: with
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN: the remaining bread
+
+

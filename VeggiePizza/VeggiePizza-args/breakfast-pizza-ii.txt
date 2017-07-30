@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place sausage in a large , deep skillet .
+PREDID: 38
+PRED: place
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: ground pork sausage
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 2
+SENT: I would cook over medium-high heat until evenly brown .
+PREDID: 71
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would drain , crumble and set aside .
+PREDID: 111
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 127
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would line the bottom and sides of a 9x13 inch baking dish with crescent rolls .
+PREDID: 136
+PRED: line
+   DOBJ: the bottom, sides of a 9x13 inch baking dish with crescent rolls
+      INGREDIENT SPAN:  sides of a 9x13 inch baking dish with crescent rolls
+         INGREDIENTS: ounce refrigerated crescent rolls
+      NON-INGREDIENT SPAN: the bottom
+
+
+SENTID: 5
+SENT: I would cover rolls with sausage , the tomatoes , the mushrooms , 1 cup Cheddar cheese and 1 cup mozzarella cheese .
+PREDID: 196
+PRED: cover
+   DOBJ: rolls
+      NON-INGREDIENT SPAN: rolls
+   PARG: sausage , the tomatoes , the mushrooms , 1 cup cheddar cheese, 1 cup mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes green chile peppers drained
+      INGREDIENT SPAN:  1 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese divided
+      INGREDIENT SPAN:  1 cup cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese divided
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained chopped
+      NON-INGREDIENT SPAN: sausage 
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 8 to 10 minutes or until crust is golden brown .
+PREDID: 278
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 8 to 10 minutes or until crust is golden brown
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 8 to 10 minutes or until crust is golden brown
+
+
+SENTID: 7
+SENT: I would remove from oven .
+PREDID: 338
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+
+SENTID: 8
+SENT: In a large bowl , I would beat together eggs , Worcestershire sauce , the salt and pepper .
+PREDID: 366
+PRED: beat
+   DOBJ: eggs , Worcestershire sauce , the salt, pepper
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would pour egg mixture over crust .
+PREDID: 417
+PRED: pour
+   DOBJ: egg mixture
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: crust
+     PREP: over
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 10
+SENT: I would bake for another 7 to 9 minutes , or until eggs are set .
+PREDID: 441
+PRED: bake
+   DOBJ: NULL
+   PARG: another 7 to 9 minutes , or until eggs are set
+     PREP: for
+      NON-INGREDIENT SPAN: another 7 to 9 minutes 
+      NON-INGREDIENT SPAN:  or until eggs are set
+
+
+SENTID: 11
+SENT: I would remove from oven and sprinkle with remaining cheese .
+PREDID: 485
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 502
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining cheese
+     PREP: with
+      INGREDIENT SPAN: remaining cheese
+         INGREDIENTS: shredded Cheddar cheese divided
+
+

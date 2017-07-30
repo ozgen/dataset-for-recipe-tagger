@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: I would beat eggs until frothy .
+PREDID: 0
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: frothy
+     PREP: until
+      NON-INGREDIENT SPAN: frothy
+
+
+SENTID: 1
+SENT: I would stir in pumpkin , corn syrup , the sugar , the cinnamon , and salt .
+PREDID: 20
+PRED: stir
+   DOBJ: NULL
+   PARG: pumpkin , corn syrup , the sugar , the cinnamon , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would pour into pie shell .
+PREDID: 67
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 3
+SENT: I would sprinkle with pecans .
+PREDID: 84
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 60 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 103
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 50 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 60 minutes
+
+
+SENTID: 5
+SENT: Chill .
+

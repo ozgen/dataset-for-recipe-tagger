@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would toss kale with carrot , orange juice , lemon juice , the salt , and black pepper in a large salad bowl , using your hands to rub orange and lemon juice into kale leaves .
+PREDID: 0
+PRED: toss
+   DOBJ: kale
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced, orange juiced
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced, orange juiced
+      INGREDIENT SPAN: kale
+         INGREDIENTS: bunch kale stems removed leaves sliced
+   PARG: carrot , orange juice , lemon juice , the salt , black pepper in a large salad bowl
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: carrot 
+         INGREDIENTS: large carrot shredded
+      NON-INGREDIENT SPAN:  black pepper in a large salad bowl
+      NON-INGREDIENT SPAN:  orange juice 
+      NON-INGREDIENT SPAN:  lemon juice 
+   OARG: using your hands to rub orange, lemon juice into kale leaves
+      NON-INGREDIENT SPAN: using your hands to rub orange
+      NON-INGREDIENT SPAN:  lemon juice into kale leaves
+
+
+SENTID: 1
+SENT: I would let the stand a few minutes to absorb flavors .
+PREDID: 132
+PRED: let
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+   OARG: the stand
+      NON-INGREDIENT SPAN: the stand
+   OARG: to absorb flavors
+      NON-INGREDIENT SPAN: to absorb flavors
+
+
+SENTID: 2
+SENT: I would fill a bowl with ice water .
+PREDID: 167
+PRED: fill
+   DOBJ: a bowl
+      NON-INGREDIENT SPAN: a bowl
+   PARG: ice water
+     PREP: with
+      NON-INGREDIENT SPAN: ice water
+
+
+SENTID: 3
+SENT: I would bring a saucepan of water to a boil and stir onion into boiling water ;
+PREDID: 189
+PRED: bring
+   DOBJ: a saucepan of water
+      NON-INGREDIENT SPAN: a saucepan of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 220
+PRED: stir
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: red onion sliced
+   PARG: boiling water
+     PREP: into
+      NON-INGREDIENT SPAN: boiling water
+
+
+SENTID: 4
+SENT: I would cook just until starting to soften , 15 to 30 seconds .
+PREDID: 246
+PRED: cook
+   DOBJ: NULL
+   PARG: starting to soften , 15 to 30 seconds
+     PREP: until
+      NON-INGREDIENT SPAN: starting to soften 
+      NON-INGREDIENT SPAN:  15 to 30 seconds
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 5
+SENT: I would drain and immediately immerse onion in ice water .
+PREDID: 290
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 309
+PRED: immerse
+   DOBJ: onion in ice water
+      NON-INGREDIENT SPAN: onion in ice water
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 6
+SENT: I would drain ice water , blot onion dry on paper towels , and add to kale .
+PREDID: 332
+PRED: drain
+   DOBJ: ice water
+      NON-INGREDIENT SPAN: ice water
+
+PREDID: 346
+PRED: blot
+   DOBJ: onion dry
+      NON-INGREDIENT SPAN: onion dry
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+PREDID: 375
+PRED: add
+   DOBJ: NULL
+   OARG: to kale
+      NON-INGREDIENT SPAN: to kale
+
+
+SENTID: 7
+SENT: I would stir bacon , the mayonnaise , and olive oil into kale mixture and toss to coat .
+PREDID: 385
+PRED: stir
+   DOBJ: bacon , the mayonnaise , olive oil
+      INGREDIENT SPAN:  olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: bacon 
+         INGREDIENTS: slice cooked bacon chopped
+   PARG: kale mixture
+     PREP: into
+      NON-INGREDIENT SPAN: kale mixture
+
+PREDID: 438
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 8
+SENT: Can be made several hours ahead of time and refrigerated until serving time .
+PREDID: 451
+PRED: be made
+   DOBJ: NULL
+   PARG: several hours ahead of time
+     PREP: for
+      NON-INGREDIENT SPAN: several hours ahead of time
+   OARG: can
+      NON-INGREDIENT SPAN: can
+
+PREDID: 481
+PRED: refrigerated
+   DOBJ: NULL
+   PARG: serving time
+     PREP: until
+      NON-INGREDIENT SPAN: serving time
+
+

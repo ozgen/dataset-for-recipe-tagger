@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place pie shell in a 9 inch pie pan .
+PREDID: 38
+PRED: place
+   DOBJ: pie shell
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie shell
+   PARG: a 9 inch pie pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9 inch pie pan
+
+
+SENTID: 2
+SENT: In a medium bowl , I would gently beat eggs .
+PREDID: 86
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 3
+SENT: I would stir in sugar and flour ,
+PREDID: 95
+PRED: stir
+   DOBJ: NULL
+   PARG: sugar, flour
+     PREP: in
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: brown sugar
+
+
+SENTID: 4
+SENT: the syrup , butter and vanilla .
+
+SENTID: 5
+SENT: I would fold in pecans .
+PREDID: 115
+PRED: fold
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecans
+
+
+SENTID: 6
+SENT: I would pour mixture into pie shell .
+PREDID: 128
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+
+SENTID: 7
+SENT: I would bake for 50 to 60 minutes ;
+PREDID: 152
+PRED: bake
+   DOBJ: NULL
+   PARG: 50 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 60 minutes
+
+
+SENTID: 8
+SENT: I would knife inserted in center of pie should come out clean .
+PREDID: 173
+PRED: inserted knife come
+   DOBJ: NULL
+   PARG: center of pie
+     PREP: in
+      NON-INGREDIENT SPAN: center of pie
+   OARG: should
+      NON-INGREDIENT SPAN: should
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: clean
+      NON-INGREDIENT SPAN: clean
+
+

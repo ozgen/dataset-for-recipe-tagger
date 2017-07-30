@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: I would cook the beef in a 12-inch skillet over medium-high heat until it 's well browned , stirring often .
+PREDID: 0
+PRED: cook
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: a 12-inch skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 12-inch skillet over medium-high heat
+   PARG: it 's well browned , stirring often
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring often
+      NON-INGREDIENT SPAN: it 's well browned 
+
+
+SENTID: 1
+SENT: I would pour off any fat .
+PREDID: 82
+PRED: pour
+   DOBJ: any fat
+      NON-INGREDIENT SPAN: any fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would stir the beef , the onion , the garlic , the soup , the tomatoes , the water , the beans , chili powder and cumin in a 3?1/2 - quart slow cooker .
+PREDID: 96
+PRED: stir
+   DOBJ: the beef , the onion , the garlic , the soup , the tomatoes , the water , the beans , chili powder, cumin in a 3?1/2 - quart slow cooker
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  cumin in a 3?1/2 - quart slow cooker
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce Campbell Condensed Tomato Soup Regular %
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  the garlic 
+      NON-INGREDIENT SPAN: the beef 
+
+
+SENTID: 3
+SENT: I would cover and cook on LOW for 8 to 9 hours .
+PREDID: 191
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 8 to 9 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 9 hours
+   OARG: on
+      NON-INGREDIENT SPAN: on
+   OARG: low
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 4
+SENT: *
+

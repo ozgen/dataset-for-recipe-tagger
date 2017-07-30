@@ -1,0 +1,201 @@
+SENTID: 0
+SENT: I would preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: an oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place the zucchini in a colander and sprinkle with salt ;
+PREDID: 40
+PRED: place
+   DOBJ: the zucchini in a colander
+      INGREDIENT SPAN: the zucchini in a colander
+         INGREDIENTS: shredded unpeeled zucchini
+
+PREDID: 70
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 2
+SENT: I would let drain for 15 minutes
+PREDID: 87
+PRED: let
+   DOBJ: drain
+      NON-INGREDIENT SPAN: drain
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 3
+SENT: I would squeeze out the moisture .
+PREDID: 107
+PRED: squeeze
+   DOBJ: the moisture
+      NON-INGREDIENT SPAN: the moisture
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would combine the zucchini , the eggs , the Parmesan , 1 cup mozzarella , and 1/2 cup Monterey Jack in a large bowl .
+PREDID: 129
+PRED: combine
+   DOBJ: the zucchini , the eggs , the Parmesan , 1 cup mozzarella , 1/2 cup Monterey Jack
+      INGREDIENT SPAN:  1/2 cup Monterey Jack
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  1 cup mozzarella 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the Parmesan 
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: the zucchini 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would press the mixture into a greased 9x13 inch baking dish .
+PREDID: 211
+PRED: press
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a greased 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 9x13 inch baking dish
+
+
+SENTID: 6
+SENT: I would bake , uncovered , in the preheated oven for 20 minutes .
+PREDID: 257
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 minutes
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+
+SENTID: 7
+SENT: While the zucchini crust is baking , I would heat a large skillet over medium-high heat and stir in the ground beef and onion .
+PREDID: 333
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: the zucchini crust is baking
+     PREP: while
+      NON-INGREDIENT SPAN: the zucchini crust is baking
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 372
+PRED: stir
+   DOBJ: NULL
+   PARG: the ground beef, onion
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+
+
+SENTID: 8
+SENT: I would cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 400
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the beef is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 9
+SENT: I would drain and discard any excess grease .
+PREDID: 463
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 10
+SENT: I would stir in the tomato sauce and Italian seasoning .
+PREDID: 494
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato sauce, italian seasoning
+     PREP: in
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce Italianstyle tomato sauce
+      INGREDIENT SPAN:  italian seasoning
+         INGREDIENTS: Italian seasoning
+
+
+SENTID: 11
+SENT: I would spoon the sauce mixture over the baked zucchini crust .
+PREDID: 534
+PRED: spoon
+   DOBJ: the sauce mixture
+      NON-INGREDIENT SPAN: the sauce mixture
+   PARG: the baked zucchini crust
+     PREP: over
+      NON-INGREDIENT SPAN: the baked zucchini crust
+
+
+SENTID: 12
+SENT: I would top with the bell pepper , the mushrooms , black olives , and the remaining mozzarella and Monterey Jack cheeses .
+PREDID: 580
+PRED: top
+   DOBJ: NULL
+   PARG: the bell pepper , the mushrooms , black olives , the remaining mozzarella, monterey jack cheeses
+     PREP: with
+      INGREDIENT SPAN:  monterey jack cheeses
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  the remaining mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: the bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced fresh mushrooms
+
+
+SENTID: 13
+SENT: I would return to the preheated oven and bake for 20 minutes or until heated through .
+PREDID: 671
+PRED: return
+   DOBJ: NULL
+   PARG: the preheated oven, bake for 20 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  bake for 20 minutes
+      NON-INGREDIENT SPAN: the preheated oven
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 14
+SENT: I would let the sit for 5 minutes before serving .
+PREDID: 735
+PRED: let
+   DOBJ: NULL
+   PARG: the sit for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the sit for 5 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

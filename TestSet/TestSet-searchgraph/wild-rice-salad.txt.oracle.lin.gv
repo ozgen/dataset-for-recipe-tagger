@@ -1,0 +1,59 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="remove
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="set
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir in
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cover
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="refrigerate
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="sprinkle
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: package wild rice", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+O0_0[label="OTHER: according to package directions", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCATION:from heat", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: aside", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+O2_1_0[label="OTHER: to cool", shape=box, style=filled, fillcolor=white]
+O2_1_0 -> E2
+D3_ing[label="DOBJ: white sugar, salt and pepper to taste, white vinegar, light mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="pepper"]
+P3_0_0[label="LOCATION:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: rice", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+O4_1_0[label="OTHER: turkey", shape=box, style=filled, fillcolor=white]
+O4_1_0 -> E4
+O4_2_0[label="OTHER: onion", shape=box, style=filled, fillcolor=white]
+O4_2_0 -> E4
+O4_3_0[label="OTHER: grapes", shape=box, style=filled, fillcolor=white]
+O4_3_0 -> E4
+O4_4_0[label="OTHER: until evenly coated with dressing", shape=box, style=filled, fillcolor=white]
+O4_4_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: for 1 to 2 hours", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+D7_ing[label="DOBJ: blanched almonds", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="COOBJECT:over the top of the salad"]
+O7_0_0[label="OTHER: before serving", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

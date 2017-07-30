@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a large pot of boiling water , I would blanch snow peas 15 seconds , strain and transfer to a bowl of cold water to chill .
+PREDID: 26
+PRED: blanch
+   DOBJ: 15 seconds , strain, transfer to a bowl of cold water to chill
+      NON-INGREDIENT SPAN:  transfer to a bowl of cold water to chill
+      NON-INGREDIENT SPAN:  strain
+      NON-INGREDIENT SPAN: 15 seconds 
+   PARG: a large pot of boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water
+   OARG: snow peas
+      INGREDIENT SPAN: snow peas
+         INGREDIENTS: snow peas
+
+
+SENTID: 1
+SENT: I would drain and slice thin .
+PREDID: 93
+PRED: drain and slice
+   DOBJ: NULL
+   OARG: thin
+      NON-INGREDIENT SPAN: thin
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine the snow peas , the cabbage , the carrots , bell pepper , green onions , lemon juice , the vinegar and olive oil .
+PREDID: 124
+PRED: combine
+   DOBJ: the snow peas , the cabbage , the carrots , bell pepper , green onions , lemon juice , the vinegar, olive oil
+      INGREDIENT SPAN:  olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper sliced
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: shredded cabbage
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN: the snow peas 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would add salt and pepper to taste ;
+PREDID: 212
+PRED: add
+   DOBJ: salt, pepper
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would toss and serve chilled .
+PREDID: 236
+PRED: toss and serve
+   DOBJ: chilled
+      NON-INGREDIENT SPAN: chilled
+
+

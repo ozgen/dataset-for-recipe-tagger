@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would heat the oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would line 12 -LRB- 2?1/2 - inch -RRB- muffin-pan cups with foil liners .
+PREDID: 25
+PRED: line
+   DOBJ: NULL
+   OARG: 12 -lrb- 2?1/2 - inch -rrb- muffin-pan cups with foil liners
+      NON-INGREDIENT SPAN: 12 -lrb- 2?1/2 - inch -rrb- muffin-pan cups with foil liners
+
+
+SENTID: 2
+SENT: I would cook the beef in a 10-inch skillet over medium-high heat until well browned , stirring often to separate meat .
+PREDID: 72
+PRED: cook
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: a 10-inch skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 10-inch skillet over medium-high heat
+   PARG: well browned , stirring often to separate meat
+     PREP: until
+      NON-INGREDIENT SPAN: well browned 
+      NON-INGREDIENT SPAN:  stirring often to separate meat
+
+
+SENTID: 3
+SENT: I would pour off any fat .
+PREDID: 164
+PRED: pour
+   DOBJ: any fat
+      NON-INGREDIENT SPAN: any fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would remove the skillet from the heat .
+PREDID: 178
+PRED: remove
+   DOBJ: the skillet
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 5
+SENT: I would stir in the soup , the salsa , the corn , the macaroni and 3/4 cup cheese .
+PREDID: 206
+PRED: stir
+   DOBJ: NULL
+   PARG: the soup , the salsa , the corn , the macaroni, 3/4 cup cheese
+     PREP: in
+      INGREDIENT SPAN:  3/4 cup cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the macaroni
+         INGREDIENTS: elbow macaroni cooked drained
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: frozen whole kernel corn thawed
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: Pace Chunky Salsa
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce Campbell Condensed Cheddar Cheese Soup
+
+
+SENTID: 6
+SENT: I would spoon about 1/2 cup beef mixture into each muffin-pan cup .
+PREDID: 255
+PRED: spoon
+   DOBJ: about 1/2 cup beef mixture
+      NON-INGREDIENT SPAN: about 1/2 cup beef mixture
+   PARG: each muffin-pan cup
+     PREP: into
+      NON-INGREDIENT SPAN: each muffin-pan cup
+
+
+SENTID: 7
+SENT: I would sprinkle each with about 1 tablespoon remaining cheese .
+PREDID: 304
+PRED: sprinkle
+   DOBJ: each with about 1 tablespoon remaining cheese
+      INGREDIENT SPAN: each with about 1 tablespoon remaining cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 8
+SENT: I would bake for 15 minutes or until the beef mixture is hot and the cheese is melted .
+PREDID: 352
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes or until the beef mixture is hot
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes or until the beef mixture is hot
+
+PREDID: 408
+PRED: is melted
+   DOBJ: NULL
+
+

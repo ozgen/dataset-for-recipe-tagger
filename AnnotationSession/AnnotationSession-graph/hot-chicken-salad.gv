@@ -1,0 +1,32 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="pour (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="top (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1_ing[label="DOBJ: chopped celery, chopped pimento peppers, chopped salted almonds, mayonnaise, chopped green bell pepper, lemon juice, minced onion, salt
+(text:  salt ,  almonds ,  bell pepper ,  celery ,  onion , mayonnaise,  lemon juice ,  pimento )", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="OUTPUT: 
+INPUT: the chicken "]
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: into a 1Ê1/2 quart casserole dish", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_ing[label="PREP: with crushed potato chips, shredded Swiss cheese
+(text: with the crushed potato chips, grated cheese)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_0[label="PREP: for 25 minutes or until cheese is melted", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would place the potatoes into a pan , and fill with just enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: new potatoes halved
+   PARG: a pan
+     PREP: into
+      NON-INGREDIENT SPAN: a pan
+
+PREDID: 28
+PRED: fill
+   DOBJ: NULL
+   PARG: just enough water
+     PREP: with
+      NON-INGREDIENT SPAN: just enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil ,
+PREDID: 59
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would simmer over low heat until tender , about 10 minutes .
+PREDID: 72
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat until tender , about 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: low heat until tender 
+
+
+SENTID: 3
+SENT: I would drain , and cool under cold running water .
+PREDID: 116
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 125
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 4
+SENT: In a large bowl , I would stir together the sour cream , the mayonnaise , and 1/2 cup of chives .
+PREDID: 164
+PRED: stir
+   DOBJ: the sour cream , the mayonnaise , 1/2 cup of chives
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  1/2 cup of chives
+         INGREDIENTS: chopped fresh chives
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: When the potatoes have cooled , stir them into this mixture .
+PREDID: 244
+PRED: stir
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: this mixture
+     PREP: into
+      NON-INGREDIENT SPAN: this mixture
+   OARG: when the potatoes have cooled
+      NON-INGREDIENT SPAN: when the potatoes have cooled
+
+
+SENTID: 6
+SENT: I would season with salt and pepper .
+PREDID: 268
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 7
+SENT: I would garnish with remaining chives .
+PREDID: 292
+PRED: garnish
+   DOBJ: NULL
+   PARG: remaining chives
+     PREP: with
+      INGREDIENT SPAN: remaining chives
+         INGREDIENTS: chopped fresh chives
+
+

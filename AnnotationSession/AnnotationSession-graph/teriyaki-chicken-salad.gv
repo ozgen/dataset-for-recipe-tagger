@@ -1,0 +1,61 @@
+digraph recipe {
+E0[label="marinate (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="preheat (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="place (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E5[label="remove and cool (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="cut (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E7[label="whisk (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="allow (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="combine (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="pour (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="toss and serve (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: chicken", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+P0_0[label="PREP: in soy sauce, (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage, orange juice
+(text: in the orange juice , soy sauce and lemon-lime carbonated beverage)", shape=box, style=filled, fillcolor=peachpuff]
+P0_0 -> E0
+P0_1[label="PREP: for several hours or overnight", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+D7[label="DOBJ: vegetable oil, cloves garlic, ground black pepper, lemon, salt
+(text: the lemon juice , vegetable oil , salt , pepper and garlic cloves)", shape=box, style=filled, fillcolor=peachpuff]
+D7 -> E7
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+E1 -> E2 [label="OUTPUT: 
+INPUT: chicken"]
+P2_0_0[label="PREP: from marinade", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+P2_0_1[label="PREP: from drain", shape=box, style=filled, fillcolor=white]
+P2_0_1 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: chicken"]
+P3_0_0[label="PREP: on hot grill", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: for 6 to 8 minutes on each side", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: into strips", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E7 -> E8 [label="OUTPUT: 
+INPUT: garlic cloves"]
+D9_ing[label="DOBJ: mozzarella cheese, grated Parmesan cheese, tomatoes, heads romaine lettuce
+(text: the lettuce ,  tomatoes ,  Parmesan,  mozzarella )", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="OUTPUT: 
+INPUT: marinated chicken strips"]
+E6 -> E9 [label="OUTPUT: 
+INPUT: in a salad bowl"]
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

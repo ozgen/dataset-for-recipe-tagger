@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place the creamy garlic dressing and pecans in separate bowls .
+PREDID: 38
+PRED: place
+   DOBJ: the creamy garlic dressing, pecans
+      INGREDIENT SPAN: the creamy garlic dressing
+         INGREDIENTS: creamy garlic salad dressing
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+   PARG: separate bowls
+     PREP: in
+      NON-INGREDIENT SPAN: separate bowls
+
+
+SENTID: 2
+SENT: I would dip each chicken breast in the dressing
+PREDID: 91
+PRED: dip
+   DOBJ: each chicken breast
+      INGREDIENT SPAN: each chicken breast
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the dressing
+     PREP: in
+      INGREDIENT SPAN: the dressing
+         INGREDIENTS: Ranch dressing
+
+
+SENTID: 3
+SENT: in the pecans to coat .
+
+SENTID: 4
+SENT: I would arrange chicken on a baking sheet .
+PREDID: 124
+PRED: arrange
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 5
+SENT: I would bake chicken 25 minutes in the preheated oven , until juices run clear .
+PREDID: 153
+PRED: bake
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: juices run clear
+   OARG: 25 minutes
+      NON-INGREDIENT SPAN: 25 minutes
+
+
+SENTID: 6
+SENT: I would cool slightly , and cut into strips .
+PREDID: 212
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+PREDID: 228
+PRED: cut
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      INGREDIENT SPAN: strips
+         INGREDIENTS: head romaine lettuce leaves torn inch wide strips
+
+
+SENTID: 7
+SENT: On serving plates , I would arrange equal amounts of the lettuce , mandarin oranges , the cranberries , and blue cheese .
+PREDID: 258
+PRED: arrange
+   DOBJ: equal amounts of the lettuce , mandarin oranges , the cranberries , blue cheese
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  blue cheese
+         INGREDIENTS: blue cheese crumbled
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      NON-INGREDIENT SPAN: equal amounts of the lettuce 
+   PARG: serving plates
+     PREP: on
+      NON-INGREDIENT SPAN: serving plates
+
+
+SENTID: 8
+SENT: I would top with equal amounts chicken , and serve with Ranch dressing .
+PREDID: 332
+PRED: top
+   DOBJ: NULL
+   PARG: equal amounts chicken
+     PREP: with
+      NON-INGREDIENT SPAN: equal amounts chicken
+
+PREDID: 362
+PRED: serve
+   DOBJ: NULL
+   PARG: ranch dressing
+     PREP: with
+      NON-INGREDIENT SPAN: ranch dressing
+
+

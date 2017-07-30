@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a small mixing bowl combine cream cheese , I would 1/4 cup sugar , and vanilla extract .
+
+SENTID: 2
+SENT: Beat well , I would 
+
+SENTID: 3
+SENT: I would add 1 egg and mix until thoroughly combined .
+PREDID: 38
+PRED: add
+   DOBJ: 1 egg
+      INGREDIENT SPAN: 1 egg
+         INGREDIENTS: egg beaten
+
+PREDID: 48
+PRED: mix
+   DOBJ: NULL
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 4
+SENT: I would spread onto the bottom of pie shell and set aside .
+PREDID: 75
+PRED: spread
+   DOBJ: NULL
+   PARG: the bottom of pie shell
+     PREP: onto
+      INGREDIENT SPAN: the bottom of pie shell
+         INGREDIENTS: inch pie shell
+
+PREDID: 107
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: In a medium bowl combine pumpkin , I would evaporated milk , 1/2 cup sugar , 2 eggs , the cinnamon , the ginger , the nutmeg , and salt .
+PREDID: 144
+PRED: evaporated
+   DOBJ: milk , 1/2 cup sugar , 2 eggs , the cinnamon , the ginger , the nutmeg , salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1/2 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  2 eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl combine pumpkin
+     PREP: in
+      INGREDIENT SPAN: a medium bowl combine pumpkin
+         INGREDIENTS: pumpkin puree
+
+
+SENTID: 6
+SENT: Mix well , I would 
+
+SENTID: 7
+SENT: I would pour the mixture over the cream cheese layer .
+PREDID: 208
+PRED: pour
+   DOBJ: the mixture over the cream cheese layer
+      INGREDIENT SPAN: the mixture over the cream cheese layer
+         INGREDIENTS: ounce package cream cheese softened
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 1 hour or until set in center .
+PREDID: 246
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 1 hour
+
+
+SENTID: 9
+SENT: I would cool ,
+PREDID: 292
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would brush top with maple syrup .
+PREDID: 297
+PRED: brush
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: maple syrup
+     PREP: with
+      INGREDIENT SPAN: maple syrup
+         INGREDIENTS: maple syrup
+
+

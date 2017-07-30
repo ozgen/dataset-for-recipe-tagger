@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: In a bowl , I would whisk together the ginger , soy sauce , rice vinegar , teriyaki sauce , black pepper , and poppy seeds .
+PREDID: 8
+PRED: whisk
+   DOBJ: the ginger , soy sauce , rice vinegar , teriyaki sauce , black pepper , poppy seeds
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN: the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  teriyaki sauce 
+         INGREDIENTS: teriyaki sauce
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  poppy seeds
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would heat sesame oil over medium-high heat in a large skillet or wok .
+PREDID: 92
+PRED: heat
+   DOBJ: sesame oil
+      INGREDIENT SPAN: sesame oil
+         INGREDIENTS: sesame oil
+   PARG: medium-high heat in a large skillet or wok
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat in a large skillet or wok
+
+
+SENTID: 2
+SENT: I would stir in the garlic and onion , and cook 2 to 3 minutes , until they are just starting to brown .
+PREDID: 145
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic, onion , cook 2 to 3 minutes
+     PREP: in
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: large onion quartered
+      NON-INGREDIENT SPAN:  cook 2 to 3 minutes
+      NON-INGREDIENT SPAN: the garlic
+   PARG: they are just starting to brown
+     PREP: until
+      NON-INGREDIENT SPAN: they are just starting to brown
+
+
+SENTID: 3
+SENT: I would drop in the chicken , and cook and stir for 5 minutes , until no longer pink .
+PREDID: 220
+PRED: drop
+   DOBJ: NULL
+   PARG: the chicken
+     PREP: in
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut 1inch
+
+PREDID: 240
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+
+
+SENTID: 4
+SENT: I would pour in the ginger-soy sauce mixture , bring to a boil , and mix in the vegetables .
+PREDID: 281
+PRED: pour
+   DOBJ: NULL
+   PARG: the ginger-soy sauce mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the ginger-soy sauce mixture
+
+PREDID: 313
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 329
+PRED: mix
+   DOBJ: NULL
+   PARG: the vegetables
+     PREP: in
+      INGREDIENT SPAN: the vegetables
+         INGREDIENTS: ounce bag fresh stirfry vegetables
+
+
+SENTID: 5
+SENT: I would continue to cook and stir 5 to 7 minutes , until the vegetables are tender .
+PREDID: 348
+PRED: continue
+   DOBJ: NULL
+   PARG: the vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: the vegetables are tender
+   OARG: to cook, stir 5 to 7 minutes
+      NON-INGREDIENT SPAN:  stir 5 to 7 minutes
+      NON-INGREDIENT SPAN: to cook
+
+
+SENTID: 6
+SENT: I would serve hot .
+PREDID: 409
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

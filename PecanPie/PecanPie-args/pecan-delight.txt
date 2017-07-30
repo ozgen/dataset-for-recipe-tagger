@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would beat egg whites until slightly stiff .
+PREDID: 0
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: slightly stiff
+     PREP: until
+      NON-INGREDIENT SPAN: slightly stiff
+
+
+SENTID: 1
+SENT: I would add sugar , the vanilla , baking powder , Ritz crackers and pecans .
+PREDID: 32
+PRED: add
+   DOBJ: sugar , the vanilla , baking powder , Ritz crackers, pecans
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  Ritz crackers
+         INGREDIENTS: buttery round crackers crushed fine
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would mix well , and pour into greased 9 inch pie plate .
+PREDID: 84
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 95
+PRED: pour
+   DOBJ: NULL
+   PARG: greased 9 inch pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: greased 9 inch pie plate
+
+
+SENTID: 3
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes exactly .
+PREDID: 124
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+   OARG: exactly
+      NON-INGREDIENT SPAN: exactly
+
+
+SENTID: 4
+SENT: I would allow pie to cool to room temperature , and
+PREDID: 174
+PRED: allow
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   OARG: to cool to room temperature , and
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: to cool to room temperature 
+
+
+SENTID: 5
+SENT: I would cover with nondairy whipped topping .
+PREDID: 209
+PRED: cover
+   DOBJ: NULL
+   PARG: nondairy whipped topping
+     PREP: with
+      INGREDIENT SPAN: nondairy whipped topping
+         INGREDIENTS: ounce container frozen whipped topping
+
+
+SENTID: 6
+SENT: I would refrigerate for 2 hours before serving .
+PREDID: 241
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

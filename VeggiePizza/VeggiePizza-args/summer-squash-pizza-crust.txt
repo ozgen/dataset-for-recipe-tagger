@@ -1,0 +1,204 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: Once zucchini or summer squash has been shredded -LRB- I recommend a food processor -RRB- lightly salt the squash and transfer it to a strainer .
+PREDID: 79
+PRED: shredded
+   DOBJ: NULL
+   PARG: zucchini or summer squash has been i
+     PREP: once
+      INGREDIENT SPAN: zucchini or summer squash has been i
+         INGREDIENTS: shredded zucchini yellow summer squash
+   PARG: the squash
+     PREP: salt
+      NON-INGREDIENT SPAN: the squash
+   OARG: i recommend a food processor
+      NON-INGREDIENT SPAN: i recommend a food processor
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+PREDID: 144
+PRED: transfer
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a strainer
+     PREP: to
+      NON-INGREDIENT SPAN: a strainer
+
+
+SENTID: 2
+SENT: I would let stand 15 to 30 minutes and press all remaining liquid out of squash .
+PREDID: 150
+PRED: let
+   DOBJ: NULL
+   PARG: 15 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 30 minutes
+   OARG: stand
+      NON-INGREDIENT SPAN: stand
+
+PREDID: 174
+PRED: press
+   DOBJ: all remaining liquid out of squash
+      NON-INGREDIENT SPAN: all remaining liquid out of squash
+
+
+SENTID: 3
+SENT: In a medium-sized mixing bowl , I would combine squash , the flour , Parmesan cheese , mozzarella cheese , the eggs , the pepper and salt .
+PREDID: 235
+PRED: combine
+   DOBJ: squash , the flour , Parmesan cheese , mozzarella cheese , the eggs , the pepper, salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN: squash 
+   PARG: a medium-sized mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium-sized mixing bowl
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 306
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would spread the mixture into a greased and floured jelly roll pan .
+PREDID: 314
+PRED: spread
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a greased, floured jelly roll pan
+     PREP: into
+      NON-INGREDIENT SPAN:  floured jelly roll pan
+      NON-INGREDIENT SPAN: a greased
+
+
+SENTID: 6
+SENT: I would bake for 25 minutes in the preheated oven .
+PREDID: 365
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes in the preheated oven
+
+
+SENTID: 7
+SENT: I would remove the crust from the oven and change the oven 's temperature to broil .
+PREDID: 400
+PRED: remove
+   DOBJ: the crust
+      NON-INGREDIENT SPAN: the crust
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 428
+PRED: change
+   DOBJ: the oven 's temperature to broil
+      NON-INGREDIENT SPAN: the oven 's temperature to broil
+
+
+SENTID: 8
+SENT: I would brush the top of the crust with oil , and
+PREDID: 462
+PRED: brush
+   DOBJ: the top of the crust
+      NON-INGREDIENT SPAN: the top of the crust
+   PARG: oil , and
+     PREP: with
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: oil 
+
+
+SENTID: 9
+SENT: I would broil the crust for 3 to 5 minutes until the top is lightly browned .
+PREDID: 494
+PRED: broil
+   DOBJ: NULL
+   PARG: the crust for 3 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the crust for 3 to 5 minutes
+   PARG: the top is lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: the top is lightly browned
+
+
+SENTID: 10
+SENT: I would allow the crust to cool slightly and slide spatula underneath all edges and under the middle .
+PREDID: 549
+PRED: allow
+   DOBJ: the crust to cool slightly, slide spatula underneath all edges, under the middle
+      NON-INGREDIENT SPAN: the crust to cool slightly
+      NON-INGREDIENT SPAN:  under the middle
+      NON-INGREDIENT SPAN:  slide spatula underneath all edges
+
+
+SENTID: 11
+SENT: I would place a large baking sheet over the top of the crust and gently flip the crust over so that the bottom of the crust is now facing upwards .
+PREDID: 627
+PRED: place
+   DOBJ: a large baking sheet over the top of the crust
+      NON-INGREDIENT SPAN: a large baking sheet over the top of the crust
+
+PREDID: 678
+PRED: flip
+   DOBJ: the crust
+      NON-INGREDIENT SPAN: the crust
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: over so that the bottom of the crust is now facing upwards
+      NON-INGREDIENT SPAN: over so that the bottom of the crust is now facing upwards
+
+
+SENTID: 12
+SENT: Because it can be difficult to flip the crust smoothly , I would it may be necessary to cut the crust in half to facilitate the flipping of the crust .
+
+SENTID: 13
+SENT: If you want to omit the flipping stage , I would that is okay , but the crust wo n't be as crunchy .
+
+SENTID: 14
+SENT: I would brush the top of the crust with oil and broil for another 3 to 5 minutes until the top is browned .
+PREDID: 738
+PRED: brush
+   DOBJ: the top of the crust with oil, broil
+      NON-INGREDIENT SPAN:  broil
+      NON-INGREDIENT SPAN: the top of the crust with oil
+   PARG: another 3 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 3 to 5 minutes
+   PARG: the top is browned
+     PREP: until
+      NON-INGREDIENT SPAN: the top is browned
+
+
+SENTID: 15
+SENT: I would cover with toppings as desired .
+PREDID: 816
+PRED: cover
+   DOBJ: NULL
+   PARG: toppings as desired
+     PREP: with
+      NON-INGREDIENT SPAN: toppings as desired
+
+

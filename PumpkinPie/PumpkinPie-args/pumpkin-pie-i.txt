@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would brown the pie crusts ahead of time , and cool .
+PREDID: 0
+PRED: brown
+   DOBJ: the pie crusts ahead of time
+      INGREDIENT SPAN: the pie crusts ahead of time
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 1
+SENT: I would mix together eggs , the sugar , the spices , sweetened condensed milk , the half and half , and pumpkin ;
+PREDID: 37
+PRED: mix
+   DOBJ: eggs , the sugar , the spices , sweetened condensed milk , the half, half , pumpkin
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN:  pumpkin
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  the half
+      NON-INGREDIENT SPAN:  the spices 
+      NON-INGREDIENT SPAN:  half 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would mix until lumps are gone .
+PREDID: 112
+PRED: mix
+   DOBJ: NULL
+   PARG: lumps are gone
+     PREP: until
+      NON-INGREDIENT SPAN: lumps are gone
+
+
+SENTID: 3
+SENT: Do not overbeat .
+
+SENTID: 4
+SENT: I would bake pies at 400 degrees F -LRB- 205 degrees C -RRB- for 45 minutes .
+PREDID: 133
+PRED: bake
+   DOBJ: pies at 400 degrees F -LRB- 205 degrees C
+      NON-INGREDIENT SPAN: pies at 400 degrees F -LRB- 205 degrees C
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 5
+SENT: I would let cool , and serve .
+PREDID: 180
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 6
+SENT: I would store leftovers in refrigerator .
+PREDID: 197
+PRED: store
+   DOBJ: leftovers
+      NON-INGREDIENT SPAN: leftovers
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

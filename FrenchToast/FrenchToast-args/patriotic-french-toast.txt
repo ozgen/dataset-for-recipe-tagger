@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat an oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: an oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 1
+SENT: I would combine the thawed strawberries with their juice and the blueberries in a bowl ;
+PREDID: 40
+PRED: combine
+   DOBJ: the thawed strawberries with their juice, the blueberries in a bowl
+      INGREDIENT SPAN: the thawed strawberries with their juice
+         INGREDIENTS: ounce package frozen strawberries thawed
+      INGREDIENT SPAN:  the blueberries in a bowl
+         INGREDIENTS: fresh blueberries
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 107
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would beat together the softened cream cheese and confectioner 's sugar until smooth ;
+PREDID: 116
+PRED: beat
+   DOBJ: the softened cream cheese, confectioner 's sugar
+      INGREDIENT SPAN:  confectioner 's sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN: the softened cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 184
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would whisk the milk , the eggs , the vanilla , and cinnamon in a shallow bowl .
+PREDID: 193
+PRED: whisk
+   DOBJ: the milk , the eggs , the vanilla , cinnamon in a shallow bowl
+      INGREDIENT SPAN:  cinnamon in a shallow bowl
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 6
+SENT: I would melt butter over medium heat in a large skillet or griddle .
+PREDID: 245
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: medium heat in a large skillet or griddle
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat in a large skillet or griddle
+
+
+SENTID: 7
+SENT: I would dip bread into egg mixture , coating thoroughly .
+PREDID: 294
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: thick slices bread
+   PARG: egg mixture , coating
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture 
+      NON-INGREDIENT SPAN:  coating
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 8
+SENT: I would cook until well-browned on both sides , about 5 minutes .
+PREDID: 335
+PRED: cook
+   DOBJ: NULL
+   PARG: well-browned on both sides , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: well-browned on both sides 
+
+
+SENTID: 9
+SENT: I would place cooked slices on baking sheet and place in oven to keep warm until ready to serve .
+PREDID: 382
+PRED: place
+   DOBJ: cooked slices
+      NON-INGREDIENT SPAN: cooked slices
+   PARG: baking sheet, place
+     PREP: on
+      NON-INGREDIENT SPAN: baking sheet
+      NON-INGREDIENT SPAN:  place
+   PARG: oven
+     PREP: in
+      NON-INGREDIENT SPAN: oven
+   OARG: to keep warm until ready to serve
+      NON-INGREDIENT SPAN: to keep warm until ready to serve
+
+
+SENTID: 10
+SENT: I would spread the cream cheese mixture over each slice of french toast ,
+PREDID: 454
+PRED: spread
+   DOBJ: the cream cheese mixture
+      NON-INGREDIENT SPAN: the cream cheese mixture
+   PARG: each slice of french toast
+     PREP: over
+      NON-INGREDIENT SPAN: each slice of french toast
+
+
+SENTID: 11
+SENT: I would top with 2 tablespoons of the fruit .
+PREDID: 508
+PRED: top
+   DOBJ: NULL
+   PARG: 2 tablespoons of the fruit
+     PREP: with
+      NON-INGREDIENT SPAN: 2 tablespoons of the fruit
+
+
+SENTID: 12
+SENT: I would serve immediately .
+PREDID: 538
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: eggs in a saucepan with enough water
+      INGREDIENT SPAN: eggs in a saucepan with enough water
+         INGREDIENTS: eggs
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring water to a boil and remove saucepan from heat .
+PREDID: 43
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 63
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 2
+SENT: I would let eggs stand in hot water for 15 minutes .
+PREDID: 86
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would drain , cool , and peel .
+PREDID: 121
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cut the eggs in half lengthwise and remove the yolks .
+PREDID: 140
+PRED: cut
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 169
+PRED: remove
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+
+SENTID: 5
+SENT: In a bowl , I would mash the yolks and mix with mayonnaise , the paprika , mustard powder , and Old Bay seasoning .
+PREDID: 192
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 207
+PRED: mix
+   DOBJ: NULL
+   PARG: mayonnaise , the paprika , mustard powder , old bay seasoning
+     PREP: with
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  old bay seasoning
+         INGREDIENTS: Old Bay Seasoning TM
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  mustard powder 
+         INGREDIENTS: mustard powder
+
+
+SENTID: 6
+SENT: I would fold in the crabmeat .
+PREDID: 266
+PRED: fold
+   DOBJ: NULL
+   PARG: the crabmeat
+     PREP: in
+      INGREDIENT SPAN: the crabmeat
+         INGREDIENTS: ounce lump crabmeat drained
+
+
+SENTID: 7
+SENT: I would spoon the mixture evenly into the hollowed egg white halves .
+PREDID: 284
+PRED: spoon
+   DOBJ: white halves
+      NON-INGREDIENT SPAN: white halves
+   OARG: the mixture evenly into the hollowed egg
+      NON-INGREDIENT SPAN: the mixture evenly into the hollowed egg
+
+
+SENTID: 8
+SENT: I would chill at least 1 hour before serving .
+PREDID: 335
+PRED: chill
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the mayonnaise , lime juice , the cumin , the salt and pepper .
+PREDID: 13
+PRED: whisk
+   DOBJ: the mayonnaise , lime juice , the cumin , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juice
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the cabbage , the carrot , green onions and radishes and stir until well-combined .
+PREDID: 70
+PRED: add
+   DOBJ: the cabbage , the carrot , green onions, radishes
+      INGREDIENT SPAN:  radishes
+         INGREDIENTS: radishes sliced
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: medium head green cabbage rinsed sliced
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot shredded
+
+PREDID: 119
+PRED: stir
+   DOBJ: NULL
+   PARG: well-combined
+     PREP: until
+      NON-INGREDIENT SPAN: well-combined
+
+
+SENTID: 2
+SENT: I would chill at least an hour before serving .
+PREDID: 139
+PRED: chill
+   DOBJ: NULL
+   PARG: least an hour
+     PREP: at
+      NON-INGREDIENT SPAN: least an hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

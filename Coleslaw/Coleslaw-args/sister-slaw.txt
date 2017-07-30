@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would stir together the kale , green cabbage , red cabbage , the carrots , and onion in a very large bowl ;
+PREDID: 0
+PRED: stir
+   DOBJ: the kale , green cabbage , red cabbage , the carrots , onion in a very large bowl
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN: the kale 
+         INGREDIENTS: bunch Lacinato dinosaur kale shredded
+      INGREDIENT SPAN:  green cabbage 
+         INGREDIENTS: head green cabbage shredded
+      INGREDIENT SPAN:  onion in a very large bowl
+         INGREDIENTS: small red onion minced
+      INGREDIENT SPAN:  red cabbage 
+         INGREDIENTS: head red cabbage shredded
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 77
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would whisk together the olive oil , the vinegar , lime juice , maple syrup , the salt , and pepper .
+PREDID: 86
+PRED: whisk
+   DOBJ: the olive oil , the vinegar , lime juice , maple syrup , the salt , pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: olive oil
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pour the dressing over the vegetables , and stir thoroughly , making sure to coat the vegetables very well .
+PREDID: 155
+PRED: pour
+   DOBJ: the dressing over the vegetables
+      NON-INGREDIENT SPAN: the dressing over the vegetables
+
+PREDID: 191
+PRED: stir
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+   OARG: making sure to coat the vegetables very well
+      NON-INGREDIENT SPAN: making sure to coat the vegetables very well
+
+
+SENTID: 4
+SENT: I would chill in the refrigerator for two hours before serving .
+PREDID: 244
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator for two hours
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for two hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

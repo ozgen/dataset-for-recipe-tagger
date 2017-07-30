@@ -1,0 +1,236 @@
+SENTID: 0
+SENT: I would grease a 9x13 inch baking pan .
+PREDID: 0
+PRED: grease
+   DOBJ: a 9x13 inch baking pan
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+
+
+SENTID: 1
+SENT: In a small bowl , I would stir together the melted butter , brown sugar and cinnamon .
+PREDID: 38
+PRED: stir
+   DOBJ: the melted butter , brown sugar, cinnamon
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: the melted butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would spread the sugar mixture into the bottom of the prepared pan .
+PREDID: 88
+PRED: spread
+   DOBJ: the sugar mixture
+      NON-INGREDIENT SPAN: the sugar mixture
+   PARG: the bottom of the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared pan
+
+
+SENTID: 3
+SENT: I would spread the apple pie filling evenly over the sugar mixture .
+PREDID: 139
+PRED: spread
+   DOBJ: the apple pie filling evenly over the sugar mixture
+      INGREDIENT SPAN: the apple pie filling evenly over the sugar mixture
+         INGREDIENTS: ounce apple pie filling
+
+
+SENTID: 4
+SENT: I would layer the bread slices on top of the filling , pressing down as you go .
+PREDID: 189
+PRED: layer
+   DOBJ: the bread slices
+      INGREDIENT SPAN: the bread slices
+         INGREDIENTS: slices white bread
+   PARG: top of the filling
+     PREP: on
+      NON-INGREDIENT SPAN: top of the filling
+   OARG: pressing down as you go
+      NON-INGREDIENT SPAN: pressing down as you go
+
+
+SENTID: 5
+SENT: In a medium bowl , I would beat the eggs with the milk and vanilla .
+PREDID: 260
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: the milk, vanilla
+     PREP: with
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 6
+SENT: I would slowly pour this mixture over the bread , making sure that it is completely absorbed .
+PREDID: 299
+PRED: pour
+   DOBJ: this mixture over the bread
+      NON-INGREDIENT SPAN: this mixture over the bread
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+   OARG: making sure that it is completely absorbed
+      NON-INGREDIENT SPAN: making sure that it is completely absorbed
+
+
+SENTID: 7
+SENT: I would cover the pan with aluminum foil and refrigerate overnight .
+PREDID: 364
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 394
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 8
+SENT: In the morning , I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 428
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+   PARG: the morning
+     PREP: in
+      NON-INGREDIENT SPAN: the morning
+
+
+SENTID: 9
+SENT: I would place covered pan into the oven and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 60 to 75 minutes .
+PREDID: 466
+PRED: place
+   DOBJ: NULL
+
+PREDID: 471
+PRED: covered pan
+   DOBJ: NULL
+   PARG: the oven
+     PREP: into
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 495
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 60 to 75 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 60 to 75 minutes
+
+
+SENTID: 10
+SENT: When done remove from oven and turn on broiler .
+PREDID: 550
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+   OARG: when done
+      NON-INGREDIENT SPAN: when done
+
+PREDID: 567
+PRED: turn
+   DOBJ: NULL
+   PARG: broiler
+     PREP: on
+      NON-INGREDIENT SPAN: broiler
+
+
+SENTID: 11
+SENT: I would remove foil and drizzle maple syrup on top of the egg topping ;
+PREDID: 581
+PRED: remove
+   DOBJ: foil, drizzle maple syrup
+      INGREDIENT SPAN:  drizzle maple syrup
+         INGREDIENTS: maple syrup
+      NON-INGREDIENT SPAN: foil
+   PARG: top of the egg topping
+     PREP: on
+      NON-INGREDIENT SPAN: top of the egg topping
+
+
+SENTID: 12
+SENT: I would broil for 2 minutes , or until the syrup begins to caramelize .
+PREDID: 632
+PRED: broil
+   DOBJ: NULL
+   PARG: 2 minutes , or until the syrup begins to caramelize
+     PREP: for
+      NON-INGREDIENT SPAN:  or until the syrup begins to caramelize
+      NON-INGREDIENT SPAN: 2 minutes 
+
+
+SENTID: 13
+SENT: I would remove from the oven and let stand for 10 minutes ,
+PREDID: 683
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 703
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 14
+SENT: I would cut into squares .
+PREDID: 724
+PRED: cut
+   DOBJ: NULL
+   PARG: squares
+     PREP: into
+      NON-INGREDIENT SPAN: squares
+
+
+SENTID: 15
+SENT: I would invert the pan onto a serving tray or baking sheet so the apple filling is on top .
+PREDID: 739
+PRED: invert
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: a serving tray or baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a serving tray or baking sheet
+   PARG: the apple filling is on top
+     PREP: so
+      NON-INGREDIENT SPAN: the apple filling is on top
+
+
+SENTID: 16
+SENT: I would serve hot .
+PREDID: 805
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would cook beef until brown ;
+PREDID: 26
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 45
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir in onion and bell pepper and cook 5 minutes .
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: onion, bell pepper
+     PREP: in
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion diced
+
+PREDID: 78
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 3
+SENT: I would stir in beans , tomato juice , diced tomatoes and pumpkin puree .
+PREDID: 91
+PRED: stir
+   DOBJ: NULL
+   PARG: beans , tomato juice , diced tomatoes, pumpkin puree
+     PREP: in
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: fluid ounce tomato juice
+      INGREDIENT SPAN:  pumpkin puree
+         INGREDIENTS: canned pumpkin puree
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce peeled diced tomatoes juice
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce kidney beans drained
+
+
+SENTID: 4
+SENT: I would season with pumpkin pie spice , chili powder and sugar .
+PREDID: 144
+PRED: season
+   DOBJ: NULL
+   PARG: pumpkin pie spice , chili powder, sugar
+     PREP: with
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 5
+SENT: I would simmer 1 hour .
+PREDID: 190
+PRED: simmer
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

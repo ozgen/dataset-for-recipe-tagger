@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place the pork sausage , the beef , and onion into a large skillet over medium heat , and cook , stirring frequently , until the meat is browned , about 15 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the pork sausage , the beef , onion
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN: the pork sausage 
+         INGREDIENTS: pork sausage
+   PARG: a large skillet over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: the meat is browned , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is browned 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+PREDID: 76
+PRED: stirring
+   DOBJ: NULL
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 1
+SENT: I would break the meat up into crumbles as it cooks .
+PREDID: 129
+PRED: break
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: crumbles
+     PREP: into
+      NON-INGREDIENT SPAN: crumbles
+   PARG: it cooks
+     PREP: as
+      NON-INGREDIENT SPAN: it cooks
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 2
+SENT: I would drain off excess fat ,
+PREDID: 165
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would place the meat into a soup pot .
+PREDID: 183
+PRED: place
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: a soup pot
+     PREP: into
+      NON-INGREDIENT SPAN: a soup pot
+
+
+SENTID: 4
+SENT: I would mix in the diced tomatoes with green peppers , chili beans , tomato sauce , chili powder , masa harina , the cumin , the salt , the paprika , the oregano , garlic powder , and cayenne pepper .
+PREDID: 208
+PRED: mix
+   DOBJ: NULL
+   PARG: the diced tomatoes
+     PREP: in
+      INGREDIENT SPAN: the diced tomatoes
+         INGREDIENTS: ounce diced tomatoes green chile peppers such RO TEL
+   PARG: green peppers , chili beans , tomato sauce , chili powder , masa harina , the cumin , the salt , the paprika , the oregano , garlic powder , cayenne pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: ground paprika
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: green peppers 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  masa harina 
+      NON-INGREDIENT SPAN:  cayenne pepper
+
+
+SENTID: 5
+SENT: I would bring the chili to a simmer , reduce heat , and simmer for 1 hour .
+PREDID: 349
+PRED: bring
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 372
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 386
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

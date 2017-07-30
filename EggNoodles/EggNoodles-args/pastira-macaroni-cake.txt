@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would beat eggs and sugar , add Ricotta , the milk , and vanilla .
+PREDID: 0
+PRED: beat
+   DOBJ: eggs, sugar
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+
+PREDID: 17
+PRED: add
+   DOBJ: Ricotta , the milk , vanilla
+      INGREDIENT SPAN: Ricotta 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 1
+SENT: I would mix thoroughly .
+PREDID: 44
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 2
+SENT: I would cook macaroni , drain , put in large mixing bowl and melt butter over top .
+PREDID: 58
+PRED: cook
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+
+PREDID: 77
+PRED: put
+   DOBJ: NULL
+   PARG: large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large mixing bowl
+
+PREDID: 100
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: top
+     PREP: over
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 3
+SENT: I would add egg/Ricotta mixture , stirring in thoroughly .
+PREDID: 118
+PRED: add
+   DOBJ: egg/Ricotta mixture , stirring in thoroughly
+      NON-INGREDIENT SPAN: egg/Ricotta mixture 
+      NON-INGREDIENT SPAN:  stirring in thoroughly
+
+
+SENTID: 4
+SENT: I would pour into thoroughly buttered 6x10 inch pan .
+PREDID: 161
+PRED: pour
+   DOBJ: NULL
+   PARG: thoroughly buttered 6x10 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: thoroughly buttered 6x10 inch pan
+
+
+SENTID: 5
+SENT: I would bake for 1 hour at 350 degrees F -LRB- 175 degrees C -RRB- , let cool ,
+PREDID: 199
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour at 350 degrees f -lrb- 175 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour at 350 degrees f -lrb- 175 degrees c
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 6
+SENT: I would refrigerate before serving .
+PREDID: 246
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

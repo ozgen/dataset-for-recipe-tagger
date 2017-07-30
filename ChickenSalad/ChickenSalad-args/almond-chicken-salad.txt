@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a large bowl , I would mix together the onions , the carrot , red pepper , the peas , the chicken , the cilantro and almonds .
+PREDID: 13
+PRED: mix
+   DOBJ: the onions , the carrot , red pepper , the peas , the chicken , the cilantro, almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: blanched slivered almonds toasted
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: sugar snap peas halved
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: fresh cilantro leaves
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: chopped cooked chicken breast meat
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: red bell pepper cut inch
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 83
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a small bowl , I would whisk together the sugar , the vinegar , sesame oil , teriyaki sauce and dry mustard until smooth .
+PREDID: 105
+PRED: whisk
+   DOBJ: the sugar , the vinegar , sesame oil , teriyaki sauce, dry mustard
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  teriyaki sauce
+         INGREDIENTS: teriyaki sauce
+      INGREDIENT SPAN:  dry mustard
+         INGREDIENTS: ground dry mustard
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pour over salad mixture and toss until coated .
+PREDID: 183
+PRED: pour
+   DOBJ: NULL
+   PARG: salad mixture
+     PREP: over
+      NON-INGREDIENT SPAN: salad mixture
+
+PREDID: 206
+PRED: toss
+   DOBJ: NULL
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 4
+SENT: I would serve in pita pockets or on a bed of lettuce .
+PREDID: 222
+PRED: serve
+   DOBJ: NULL
+   PARG: pita pockets
+     PREP: in
+      NON-INGREDIENT SPAN: pita pockets
+
+

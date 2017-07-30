@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In medium mixing bowl beat eggs lightly with a rotary beater or fork .
+PREDID: 56
+PRED: mixing beat
+   DOBJ: eggs, bowl
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  bowl
+   PARG: medium
+     PREP: in
+      NON-INGREDIENT SPAN: medium
+   PARG: a rotary beater or fork
+     PREP: with
+      NON-INGREDIENT SPAN: a rotary beater or fork
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would stir in corn syrup , the sugar , and butter ;
+PREDID: 95
+PRED: stir
+   DOBJ: NULL
+   PARG: corn syrup , the sugar , butter
+     PREP: in
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 127
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would stir in pecan and chocolate pieces .
+PREDID: 135
+PRED: stir
+   DOBJ: NULL
+   PARG: pecan, chocolate pieces
+     PREP: in
+      INGREDIENT SPAN: pecan
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  chocolate pieces
+         INGREDIENTS: milk chocolate chips
+
+
+SENTID: 5
+SENT: To prevent overbrowning , cover edges of pie shell with aluminum foil .
+PREDID: 167
+PRED: prevent
+   DOBJ: overbrowning
+      NON-INGREDIENT SPAN: overbrowning
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 187
+PRED: cover
+   DOBJ: edges of pie shell
+      INGREDIENT SPAN: edges of pie shell
+         INGREDIENTS: inch pie shell
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 6
+SENT: I would place pie shell on oven rack and pour the filling into it .
+PREDID: 224
+PRED: place
+   DOBJ: pie shell
+      NON-INGREDIENT SPAN: pie shell
+   PARG: oven rack
+     PREP: on
+      NON-INGREDIENT SPAN: oven rack
+
+PREDID: 250
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: it
+     PREP: into
+      NON-INGREDIENT SPAN: it
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 25 minutes .
+PREDID: 268
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 25 minutes
+
+
+SENTID: 8
+SENT: I would remove the foil from crust edges and bake an additional 25 minutes , or until a knife inserted in center comes out clean .
+PREDID: 300
+PRED: remove
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+   PARG: crust edges, bake an additional 25 minutes , or until a knife inserted in center comes out clean
+     PREP: from
+      NON-INGREDIENT SPAN:  bake an additional 25 minutes 
+      NON-INGREDIENT SPAN: crust edges
+      NON-INGREDIENT SPAN:  or until a knife inserted in center comes out clean
+
+
+SENTID: 9
+SENT: I would chill before serving .
+PREDID: 396
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 10
+SENT: I would may be served with whipped cream or vanilla ice cream .
+PREDID: 420
+PRED: be served
+   DOBJ: NULL
+   PARG: whipped cream or vanilla ice cream
+     PREP: with
+      NON-INGREDIENT SPAN: whipped cream or vanilla ice cream
+   OARG: may
+      NON-INGREDIENT SPAN: may
+
+

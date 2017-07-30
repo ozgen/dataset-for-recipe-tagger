@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would line shallow baking pan with aluminum foil ;
+PREDID: 25
+PRED: line
+   DOBJ: shallow baking pan
+      NON-INGREDIENT SPAN: shallow baking pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 2
+SENT: I would spray foil with cooking spray .
+PREDID: 67
+PRED: foil
+   DOBJ: NULL
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: PAM Original NoStick Cooking Spray
+   OARG: spray
+      NON-INGREDIENT SPAN: spray
+
+
+SENTID: 3
+SENT: I would mix beef , tomato sauce , Egg Beaters , the oats and soup mix in large bowl until well blended .
+PREDID: 88
+PRED: mix
+   DOBJ: beef , tomato sauce , Egg Beaters , the oats, soup mix
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground round beef % lean
+      INGREDIENT SPAN:  Egg Beaters 
+         INGREDIENTS: Egg Beaters Original
+      INGREDIENT SPAN:  the oats
+         INGREDIENTS: quickcooking rolled oats
+      INGREDIENT SPAN:  soup mix
+         INGREDIENTS: dry onion soup mix
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: Hunt Tomato Ketchup, ounce Hunt Tomato SauceNo Salt Added
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: Hunt Tomato Ketchup, ounce Hunt Tomato SauceNo Salt Added
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 4
+SENT: I would shape into 4 mini meatloaves , about 4x3 inches ;
+PREDID: 161
+PRED: shape
+   DOBJ: NULL
+   PARG: 4 mini meatloaves
+     PREP: into
+      NON-INGREDIENT SPAN: 4 mini meatloaves
+   PARG: 4x3 inches
+     PREP: about
+      NON-INGREDIENT SPAN: 4x3 inches
+
+
+SENTID: 5
+SENT: I would place in prepared pan .
+PREDID: 201
+PRED: place
+   DOBJ: NULL
+   PARG: prepared pan
+     PREP: in
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 6
+SENT: I would spread ketchup evenly over tops of meatloaves .
+PREDID: 220
+PRED: spread
+   DOBJ: ketchup
+      NON-INGREDIENT SPAN: ketchup
+   PARG: tops of meatloaves
+     PREP: over
+      NON-INGREDIENT SPAN: tops of meatloaves
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 7
+SENT: I would bake 25 minutes or until meatloaves are cooked through -LRB- 160 degrees F -RRB- .
+PREDID: 260
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes or until meatloaves are cooked through -lrb- 160 degrees f
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes or until meatloaves are cooked through -lrb- 160 degrees f
+
+
+SENTID: 8
+SENT: I would let stand 5 minutes before serving .
+PREDID: 320
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

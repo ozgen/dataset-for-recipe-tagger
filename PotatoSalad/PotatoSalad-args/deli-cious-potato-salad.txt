@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain , cool , and cut into chunks .
+PREDID: 121
+PRED: drain and cool
+   DOBJ: NULL
+
+PREDID: 135
+PRED: cut
+   DOBJ: NULL
+   PARG: chunks
+     PREP: into
+      NON-INGREDIENT SPAN: chunks
+
+
+SENTID: 4
+SENT: I would cook salami in a skillet over medium heat until heated through , about 5 minutes ;
+PREDID: 149
+PRED: cook
+   DOBJ: salami
+      INGREDIENT SPAN: salami
+         INGREDIENTS: salami cubed
+   PARG: a skillet over medium heat until heated through , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: a skillet over medium heat until heated through 
+
+
+SENTID: 5
+SENT: I would drain off excess fat and allow to cool .
+PREDID: 216
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 236
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 6
+SENT: I would mix potatoes , the eggs , the apples , the onion , and pickles in a large bowl .
+PREDID: 248
+PRED: mix
+   DOBJ: potatoes , the eggs , the apples , the onion , pickles in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: apples cored chopped
+      INGREDIENT SPAN:  pickles in a large bowl
+         INGREDIENTS: dill pickles chopped
+      NON-INGREDIENT SPAN: potatoes 
+
+
+SENTID: 7
+SENT: I would stir salami , the mayonnaise , red wine vinegar , the salt , black pepper , and paprika into the potato mixture .
+PREDID: 301
+PRED: stir
+   DOBJ: salami , the mayonnaise , red wine vinegar , the salt , black pepper , paprika
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika taste
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      NON-INGREDIENT SPAN: salami 
+      NON-INGREDIENT SPAN:  black pepper 
+   PARG: the potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the potato mixture
+
+
+SENTID: 8
+SENT: I would chill for at least 2 hours before serving .
+PREDID: 386
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

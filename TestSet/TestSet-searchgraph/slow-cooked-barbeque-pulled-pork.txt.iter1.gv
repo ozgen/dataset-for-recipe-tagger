@@ -1,0 +1,47 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="add
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="reduce
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="continue
+7", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: heat the low", shape=box, style=filled, fillcolor=white]
+D6 -> E6
+D1[label="DOBJ: molasses, paprika, chili powder, ground coriander, cumin seeds, salt", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D0[label="DOBJ: pork shoulder roast", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a slow cooker", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2_ing[label="DOBJ: water to cover", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+P2_1_0[label="LOCOROBJ:into slow cooker to cover pork", shape=box, style=filled, fillcolor=white]
+P2_1_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="DURATION:on high for 6 to 8 hours", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="liquid from slow cooker"]
+E0 -> E4 [label="shred pork"]
+P4_0_0[label="LOCOROBJ:with 2 forks", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+D5_ing[label="DOBJ: bottle barbeque sauce", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+E5 -> E7 [label="cooking"]
+E6 -> E7 [label="IMPLICIT PREP"]
+P7_1_0[label="DURATION:for 1 hour more", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

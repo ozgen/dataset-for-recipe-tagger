@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a 1?1/2 quart glass casserole dish , I would layer noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , and 1/2 of the soup .
+PREDID: 163
+PRED: layer
+   DOBJ: noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , 1/2 of the soup
+      INGREDIENT SPAN:  1/2 of the soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  1/2 of the tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN:  2 slices of cheese 
+         INGREDIENTS: slices American cheese
+      INGREDIENT SPAN: noodles 
+         INGREDIENTS: ounce package wide egg noodles
+      INGREDIENT SPAN:  butter cubes 
+         INGREDIENTS: butter cubed
+   PARG: a 1?1/2 quart glass casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 1?1/2 quart glass casserole dish
+
+
+SENTID: 5
+SENT: I would repeat the layering with the remaining ingredients .
+PREDID: 233
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: the remaining ingredients
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining ingredients
+
+
+SENTID: 6
+SENT: I would top the casserole with bread crumbs .
+PREDID: 278
+PRED: top
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs
+
+
+SENTID: 7
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 10 to 15 minutes .
+PREDID: 309
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+
+

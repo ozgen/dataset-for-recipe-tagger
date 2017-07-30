@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: I would toss together spinach , the cucumber , the broccoli , the feta , the onion , the chicken , and bacon in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: spinach , the cucumber , the broccoli , the feta , the onion , the chicken , bacon in a large bowl
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: cucumber
+      INGREDIENT SPAN:  bacon in a large bowl
+         INGREDIENTS: bacon bits
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: small cooked chicken breast cut small
+      INGREDIENT SPAN:  the feta 
+         INGREDIENTS: feta cheese crumbled
+      INGREDIENT SPAN: spinach 
+         INGREDIENTS: baby spinach rinsed dried
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would pour the dressing over salad , and gently toss again .
+PREDID: 78
+PRED: pour
+   DOBJ: the dressing over salad
+      INGREDIENT SPAN: the dressing over salad
+         INGREDIENTS: ranch dressing
+
+PREDID: 112
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+

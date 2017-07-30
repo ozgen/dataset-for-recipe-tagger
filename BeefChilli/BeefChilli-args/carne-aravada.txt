@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: In a saucepan , I would combine water , 1/2 teaspoon salt , and beef cubes .
+PREDID: 12
+PRED: combine
+   DOBJ: water , 1/2 teaspoon salt , beef cubes
+      INGREDIENT SPAN:  1/2 teaspoon salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  beef cubes
+         INGREDIENTS: beef stew meat cut inch cubes
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would bring to boil , reduce heat , and simmer for 30 minutes .
+PREDID: 54
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+PREDID: 66
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 80
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 2
+SENT: I would combine the chile powder , minced garlic , and oregano in a small bowl .
+PREDID: 99
+PRED: combine
+   DOBJ: the chile powder , minced garlic , oregano in a small bowl
+      INGREDIENT SPAN:  oregano in a small bowl
+         INGREDIENTS: dried Mexican oregano
+      INGREDIENT SPAN: the chile powder 
+         INGREDIENTS: guajillo chile powder
+      NON-INGREDIENT SPAN:  minced garlic 
+
+
+SENTID: 3
+SENT: I would add enough of the beef cooking water to make a paste .
+PREDID: 157
+PRED: add
+   DOBJ: enough of the beef cooking water
+      NON-INGREDIENT SPAN: enough of the beef cooking water
+   OARG: to make a paste
+      NON-INGREDIENT SPAN: to make a paste
+
+
+SENTID: 4
+SENT: After 30 minutes , I would stir the spice paste into the beef mixture .
+PREDID: 215
+PRED: stir paste
+   DOBJ: the spice
+      NON-INGREDIENT SPAN: the spice
+   PARG: 30 minutes
+     PREP: after
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 5
+SENT: I would heat oil in a large heavy skillet over medium heat .
+PREDID: 251
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large heavy skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large heavy skillet over medium heat
+
+
+SENTID: 6
+SENT: I would cook flour , stirring constantly , until golden brown .
+PREDID: 293
+PRED: cook
+   DOBJ: flour , stirring constantly
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  stirring constantly
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 7
+SENT: I would take 1 cup of the spiced cooking water and whisk it into the flour mixture until smooth .
+PREDID: 339
+PRED: take
+   DOBJ: 1 cup of the spiced cooking water
+      NON-INGREDIENT SPAN: 1 cup of the spiced cooking water
+
+PREDID: 373
+PRED: whisk
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would stir in the cumin , chopped parsley , and salt .
+PREDID: 411
+PRED: stir
+   DOBJ: NULL
+   PARG: the cumin , chopped parsley , salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  chopped parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: the cumin 
+         INGREDIENTS: ground cumin
+
+
+SENTID: 9
+SENT: I would transfer the thickened sauce mixture into the saucepan with the beef .
+PREDID: 449
+PRED: transfer
+   DOBJ: the thickened sauce mixture
+      NON-INGREDIENT SPAN: the thickened sauce mixture
+   PARG: the saucepan with the beef
+     PREP: into
+      NON-INGREDIENT SPAN: the saucepan with the beef
+
+
+SENTID: 10
+SENT: I would simmer until tender , about 1?1/2 hours .
+PREDID: 508
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: tender 
+
+

@@ -1,0 +1,29 @@
+SENTID: 0
+SENT: In large saucepan mix soup , I would the milk , the pepper , the cheese , the chicken and noodles .
+
+SENTID: 1
+SENT: Over medium heat , I would heat through , stirring occasionally .
+PREDID: 15
+PRED: heat
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      INGREDIENT SPAN: medium heat
+         INGREDIENTS: cooked medium egg noodles
+   OARG: through
+      NON-INGREDIENT SPAN: through
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 2
+SENT: I would garnish with parsley .
+PREDID: 48
+PRED: garnish
+   DOBJ: NULL
+   PARG: parsley
+     PREP: with
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: Chopped fresh parsley garnish
+
+

@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 40
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook the lasagna noodles in the boiling water until cooked through but still firm to the bite , about 12 minutes .
+PREDID: 82
+PRED: cook
+   DOBJ: the lasagna noodles in the boiling water
+      INGREDIENT SPAN: the lasagna noodles in the boiling water
+         INGREDIENTS: ounce package lasagna noodles
+   PARG: cooked through but still firm to the bite , about 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through but still firm to the bite 
+      NON-INGREDIENT SPAN:  about 12 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 175
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: Bring the pork in barbeque sauce to a simmer in a large pot over medium heat ;
+PREDID: 181
+PRED: bring
+   DOBJ: the pork in barbeque sauce
+      INGREDIENT SPAN: the pork in barbeque sauce
+         INGREDIENTS: ounce containers pulled pork barbeque sauce
+   PARG: a simmer in a large pot over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer in a large pot over medium heat
+
+
+SENTID: 5
+SENT: I would keep warm at a slow simmer .
+PREDID: 243
+PRED: keep
+   DOBJ: NULL
+   PARG: a slow simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a slow simmer
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 6
+SENT: I would toss the mozzarella cheese and Cheddar cheese together in a bowl .
+PREDID: 265
+PRED: toss
+   DOBJ: the mozzarella cheese, Cheddar cheese
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: ounce package Cheddar cheese shredded
+      INGREDIENT SPAN: the mozzarella cheese
+         INGREDIENTS: ounce package shredded mozzarella cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: Beat the ricotta cheese , the egg , the salt , and pepper together in a separate bowl until smooth .
+PREDID: 320
+PRED: beat
+   DOBJ: the ricotta cheese , the egg , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN: the ricotta cheese 
+         INGREDIENTS: ounce container ricotta cheese
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together in a separate bowl
+      NON-INGREDIENT SPAN: together in a separate bowl
+
+
+SENTID: 8
+SENT: I would spread a layer of the barbeque sauce into the bottom of a large , deep baking dish .
+PREDID: 394
+PRED: spread
+   DOBJ: a layer of the barbeque sauce
+      NON-INGREDIENT SPAN: a layer of the barbeque sauce
+   PARG: the bottom of a large , deep baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a large 
+      NON-INGREDIENT SPAN:  deep baking dish
+
+
+SENTID: 9
+SENT: I would lay enough lasagna noodles over the sauce to cover the bottom of the dish .
+PREDID: 461
+PRED: lay
+   DOBJ: enough lasagna noodles
+      NON-INGREDIENT SPAN: enough lasagna noodles
+   PARG: the sauce to cover the bottom of the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the sauce to cover the bottom of the dish
+
+
+SENTID: 10
+SENT: I would spread an even layer of the pulled pork in barbeque sauce over the noodles ;
+PREDID: 522
+PRED: spread
+   DOBJ: an even layer of the pulled pork in barbeque sauce
+      NON-INGREDIENT SPAN: an even layer of the pulled pork in barbeque sauce
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 11
+SENT: I would top with a layer of the ricotta mixture and the mozzarella and Cheddar cheese mixture .
+PREDID: 584
+PRED: top
+   DOBJ: NULL
+   PARG: a layer of the ricotta mixture, the mozzarella, cheddar cheese mixture
+     PREP: with
+      NON-INGREDIENT SPAN:  cheddar cheese mixture
+      NON-INGREDIENT SPAN: a layer of the ricotta mixture
+      NON-INGREDIENT SPAN:  the mozzarella
+
+
+SENTID: 12
+SENT: I would repeat layering .
+PREDID: 656
+PRED: repeat
+   DOBJ: layering
+      NON-INGREDIENT SPAN: layering
+
+
+SENTID: 13
+SENT: I would finish the assembly by topping with a layer of the ricotta mixture , a thin layer of the pork , and a light sprinkling of the cheese mixture .
+PREDID: 671
+PRED: finish
+   DOBJ: the assembly
+      NON-INGREDIENT SPAN: the assembly
+   PARG: topping with a layer of the ricotta mixture , a thin layer of the pork , a light sprinkling of the cheese mixture
+     PREP: by
+      NON-INGREDIENT SPAN: topping with a layer of the ricotta mixture 
+      NON-INGREDIENT SPAN:  a thin layer of the pork 
+      NON-INGREDIENT SPAN:  a light sprinkling of the cheese mixture
+
+
+SENTID: 14
+SENT: I would reserve a small portion of the cheese mixture for later .
+PREDID: 785
+PRED: reserve
+   DOBJ: a small portion of the cheese mixture
+      NON-INGREDIENT SPAN: a small portion of the cheese mixture
+   PARG: later
+     PREP: for
+      NON-INGREDIENT SPAN: later
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven for 40 minutes .
+PREDID: 832
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 40 minutes
+
+
+SENTID: 16
+SENT: I would top the lasagna with the reserved cheese mixture and return to over until the cheese is bubbly , about 5 minutes .
+PREDID: 867
+PRED: top
+   DOBJ: the lasagna
+      NON-INGREDIENT SPAN: the lasagna
+   PARG: the reserved cheese mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the reserved cheese mixture
+
+PREDID: 911
+PRED: return
+   DOBJ: NULL
+   PARG: over
+     PREP: to
+      NON-INGREDIENT SPAN: over
+   PARG: the cheese is bubbly , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is bubbly 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 17
+SENT: I would remove from oven and allow to rest for 15 minutes before serving .
+PREDID: 960
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 977
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest for 15 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 15 minutes before serving
+
+

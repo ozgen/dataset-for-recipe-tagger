@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would combine peaches , the chicken , and cucumber in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: peaches , the chicken , cucumber in a large bowl
+      INGREDIENT SPAN:  cucumber in a large bowl
+         INGREDIENTS: cucumber seeded chopped
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cubed cooked chicken breast
+      INGREDIENT SPAN: peaches 
+         INGREDIENTS: fresh peaches peeled pitted cubed
+
+
+SENTID: 1
+SENT: I would blend vinegar , the mint , the sugar , lemon juice , the salt , the pepper , and hot sauce in a blender until vinaigrette is smooth .
+PREDID: 47
+PRED: blend
+   DOBJ: vinegar , the mint , the sugar , lemon juice , the salt , the pepper , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: dashes hot sauce taste
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mint 
+         INGREDIENTS: minced fresh mint
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: white wine vinegar
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+   PARG: vinaigrette is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: vinaigrette is smooth
+
+
+SENTID: 2
+SENT: I would drizzle vinaigrette over peach mixture ;
+PREDID: 140
+PRED: drizzle
+   DOBJ: vinaigrette
+      NON-INGREDIENT SPAN: vinaigrette
+   PARG: peach mixture
+     PREP: over
+      NON-INGREDIENT SPAN: peach mixture
+
+
+SENTID: 3
+SENT: I would toss to coat .
+PREDID: 175
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would cover bowl with plastic wrap and refrigerate until chilled , at least 30 minutes .
+PREDID: 186
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 213
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled , at least 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  at least 30 minutes
+      NON-INGREDIENT SPAN: chilled 
+
+
+SENTID: 5
+SENT: I would fold avocado into salad before serving .
+PREDID: 254
+PRED: fold
+   DOBJ: avocado
+      INGREDIENT SPAN: avocado
+         INGREDIENTS: avocados peeled pitted cubed
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: large potatoes peeled chopped
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix together the garlic , olive oil , the vinegar and parsley .
+PREDID: 123
+PRED: mix
+   DOBJ: the garlic , olive oil , the vinegar, parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: extra virgin olive oil
+      NON-INGREDIENT SPAN: the garlic 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would add potatoes and toss to evenly coat .
+PREDID: 171
+PRED: add
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 185
+PRED: toss
+   DOBJ: NULL
+   PARG: evenly coat
+     PREP: to
+      NON-INGREDIENT SPAN: evenly coat
+
+
+SENTID: 5
+SENT: I would cover and refrigerate overnight .
+PREDID: 202
+PRED: cover and refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would place potatoes in a large saucepan with enough water to cover , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in a large saucepan
+      INGREDIENT SPAN: potatoes in a large saucepan
+         INGREDIENTS: potatoes peeled
+   PARG: enough water
+     PREP: with
+      NON-INGREDIENT SPAN: enough water
+   OARG: to cover , bring to a boil over high heat
+      NON-INGREDIENT SPAN:  bring to a boil over high heat
+      NON-INGREDIENT SPAN: to cover 
+
+
+SENTID: 1
+SENT: I would reduce heat to medium low , cover and simmer until potatoes are tender .
+PREDID: 80
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+PREDID: 110
+PRED: simmer
+   DOBJ: NULL
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 2
+SENT: I would drain and cool ;
+PREDID: 139
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would cut into 1-inch cubes .
+PREDID: 152
+PRED: cut
+   DOBJ: NULL
+   PARG: 1-inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1-inch cubes
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine potatoes with onion , the celery , roasted red pepper , the pepperoncini and eggs .
+PREDID: 184
+PRED: combine
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: onion , the celery , roasted red pepper , the pepperoncini, eggs
+     PREP: with
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the pepperoncini
+         INGREDIENTS: chopped pepperoncini
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: cooked eggs chopped
+      INGREDIENT SPAN:  roasted red pepper 
+         INGREDIENTS: chopped roasted red pepper
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+
+
+SENTID: 5
+SENT: In a small bowl , I would mix mayonnaise , sour cream , pickle relish , the Dijon and yellow mustards , garlic , dill , parsley and red pepper flakes .
+PREDID: 266
+PRED: mix
+   DOBJ: mayonnaise , sour cream , pickle relish , the Dijon, yellow mustards , garlic , dill , parsley, red pepper flakes
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped parsley
+      INGREDIENT SPAN:  yellow mustards 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: dill pickle relish
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dill 
+         INGREDIENTS: dried dill
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  the Dijon
+         INGREDIENTS: Dijon mustard
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 6
+SENT: I would pour mixture over potatoes and stir gently to combine .
+PREDID: 364
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: potatoes
+     PREP: over
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 390
+PRED: stir
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 7
+SENT: I would season to taste with salt and pepper .
+PREDID: 410
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would cover and chill for 2 hours before serving .
+PREDID: 441
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

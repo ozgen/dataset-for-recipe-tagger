@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would combine the mangos , the carrot , red bell pepper , and jicama in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the mangos , the carrot , red bell pepper , jicama in a large bowl
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper cut matchstick julienne
+      INGREDIENT SPAN: the mangos 
+         INGREDIENTS: mangos peeled cut matchstick julienne
+      INGREDIENT SPAN:  jicama in a large bowl
+         INGREDIENTS: large jicama peeled cut matchstick julienne
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot cut matchstick julienne
+
+
+SENTID: 1
+SENT: I would whisk the vinegar , lime juice , agave nectar , and olive oil together in a separate bowl ;
+PREDID: 60
+PRED: whisk
+   DOBJ: the vinegar
+      INGREDIENT SPAN: the vinegar
+         INGREDIENTS: raspberry vinegar
+
+PREDID: 76
+PRED: lime
+   DOBJ: juice
+      INGREDIENT SPAN: juice
+         INGREDIENTS: lime juice
+
+PREDID: 86
+PRED: agave
+   DOBJ: nectar
+      INGREDIENT SPAN: nectar
+         INGREDIENTS: agave nectar
+
+PREDID: 101
+PRED: olive
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the mango mixture .
+PREDID: 133
+PRED: pour
+   DOBJ: NULL
+   PARG: the mango mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the mango mixture
+
+
+SENTID: 3
+SENT: I would sprinkle the mint and lime zest over the mixture ;
+PREDID: 157
+PRED: sprinkle
+   DOBJ: the mint, lime zest over the mixture
+      INGREDIENT SPAN: the mint
+         INGREDIENTS: minced fresh mint
+      INGREDIENT SPAN:  lime zest over the mixture
+         INGREDIENTS: lime
+
+
+SENTID: 4
+SENT: I would toss to mix .
+PREDID: 198
+PRED: toss
+   DOBJ: NULL
+   OARG: to mix
+      NON-INGREDIENT SPAN: to mix
+
+
+SENTID: 5
+SENT: I would chill at least 30 minutes before serving .
+PREDID: 208
+PRED: chill
+   DOBJ: NULL
+   PARG: least 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 30 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

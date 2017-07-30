@@ -1,0 +1,77 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P40)", shape=oval, style=filled, fillcolor=azure]
+E2[label="line (S1,P61)", shape=oval, style=filled, fillcolor=azure]
+E3[label="cover (S2,P88)", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain (S3,P167)", shape=oval, style=filled, fillcolor=azure]
+E5[label="set (S3,P186)", shape=oval, style=filled, fillcolor=azure]
+E6[label="beat (S4,P195)", shape=oval, style=filled, fillcolor=azure]
+E7[label="mix (S4,P224)", shape=oval, style=filled, fillcolor=azure]
+E8[label="let (S5,P243)", shape=oval, style=filled, fillcolor=azure]
+E9[label="mix (S6,P312)", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir (S6,P413)", shape=oval, style=filled, fillcolor=azure]
+E11[label="spoon (S7,P432)", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: egg
+(text: the egg)", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="PREP: with milk
+(text: with milk in a bowl)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0 -> E6
+D0[label="DOBJ: an oven to 400 degrees F -LRB- 200 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E0 -> E1 [label="OUTPUT: 
+INPUT: 12 muffin cups"]
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: with paper cupcake liners", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D3_ing[label="DOBJ: raisins
+(text: raisins with water in a microwave-safe bowl )", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT:  microwave on High"]
+P3_0_0[label="PREP: for 1 minute", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+P3_1_0[label="PREP: to plump", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: the raisins"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+O5_0_0[label="OTHER: aside", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in bran cereal (such as Kellogg's All-Bran® Original Cereal)
+(text: in the bran cereal)", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E5 -> E8 [label="OUTPUT: 
+INPUT: the mixture stand"]
+O8_0_0[label="OTHER: until the cereal absorbs the liquid ", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_0_1[label="OTHER:  about 5 minutes", shape=box, style=filled, fillcolor=white]
+O8_0_1 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+P9_0_ing[label="PREP: in apple, ground cinnamon, ripe banana, melted butter, whole wheat flour, baking soda, honey
+(text: in  cinnamon ,  honey,  melted butter ,  shredded apple ,  baking soda ,  flour ,  mashed banana )", shape=box, style=filled, fillcolor=peachpuff]
+P9_0_ing -> E9
+P9_0_0[label="PREP: in the plumped raisins ", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+O9_0_0[label="OTHER: gently", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E7 -> E10 [label="OUTPUT: 
+INPUT: a few times"]
+P10_0_0[label="PREP: to mix", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E9 -> E11 [label="OUTPUT: 
+INPUT: the batter"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: into the prepared muffin cups"]
+O11_0_0[label="OTHER: bake in the preheated oven for about 20 minutes ", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+O11_0_1[label="OTHER:  or until a toothpick inserted into the center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+O11_0_1 -> E11
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E11 -> EOR
+}

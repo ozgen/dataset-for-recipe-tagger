@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would heat the refried beans .
+PREDID: 0
+PRED: heat
+   DOBJ: the refried beans
+      INGREDIENT SPAN: the refried beans
+         INGREDIENTS: ounce refried beans
+
+
+SENTID: 1
+SENT: In a large skillet , I would brown the ground beef .
+PREDID: 36
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 2
+SENT: I would stir in the seasoning packet .
+PREDID: 55
+PRED: stir
+   DOBJ: NULL
+   PARG: the seasoning packet
+     PREP: in
+      INGREDIENT SPAN: the seasoning packet
+         INGREDIENTS: ounce package taco seasoning mix
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 80
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: I would place a small amount of vegetable oil in a large skillet .
+PREDID: 118
+PRED: place
+   DOBJ: a small amount of vegetable oil
+      INGREDIENT SPAN: a small amount of vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 5
+SENT: I would let the oil heat ,
+PREDID: 165
+PRED: let
+   DOBJ: the oil heat
+      NON-INGREDIENT SPAN: the oil heat
+
+
+SENTID: 6
+SENT: I would place one corn tortilla in the skillet .
+PREDID: 179
+PRED: place
+   DOBJ: one corn tortilla
+      INGREDIENT SPAN: one corn tortilla
+         INGREDIENTS: inch corn tortillas
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 7
+SENT: After 15 seconds , I would flip the tortilla over and let it fry another 15 seconds .
+PREDID: 227
+PRED: flip
+   DOBJ: the tortilla
+      INGREDIENT SPAN: the tortilla
+         INGREDIENTS: inch corn tortillas
+   PARG: 15 seconds
+     PREP: after
+      NON-INGREDIENT SPAN: 15 seconds
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 249
+PRED: let
+   DOBJ: NULL
+   OARG: it fry another 15 seconds
+      NON-INGREDIENT SPAN: it fry another 15 seconds
+
+
+SENTID: 8
+SENT: I would repeat this process with the remaining tortillas , letting them drain on paper towels once they have been heated .
+PREDID: 274
+PRED: repeat
+   DOBJ: this process
+      NON-INGREDIENT SPAN: this process
+   PARG: the remaining tortillas
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining tortillas
+   OARG: letting them drain on paper towels once they have been heated
+      NON-INGREDIENT SPAN: letting them drain on paper towels once they have been heated
+
+
+SENTID: 9
+SENT: When the tortillas have drained , arrange them on a cookie sheet .
+PREDID: 397
+PRED: arrange
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a cookie sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a cookie sheet
+   OARG: when the tortillas have drained
+      INGREDIENT SPAN: when the tortillas have drained
+         INGREDIENTS: ounce diced green chiles drained
+
+
+SENTID: 10
+SENT: I would spread a thin layer of beans on the tortillas , followed by a layer of beef , and cheese .
+PREDID: 423
+PRED: spread
+   DOBJ: a thin layer of beans
+      NON-INGREDIENT SPAN: a thin layer of beans
+   PARG: the tortillas , followed by a layer of beef , cheese
+     PREP: on
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: the tortillas 
+      NON-INGREDIENT SPAN:  followed by a layer of beef 
+
+
+SENTID: 11
+SENT: I would bake the tortillas in the preheated oven for 20 to 30 minutes .
+PREDID: 494
+PRED: bake
+   DOBJ: the tortillas
+      NON-INGREDIENT SPAN: the tortillas
+   PARG: the preheated oven for 20 to 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 to 30 minutes
+
+
+SENTID: 12
+SENT: I would slice the tortillas into wedges and arrange them on plates or a serving platter and garnish them with the sour cream , the tomatoes , green onions , the chiles , the avocado , and olives .
+PREDID: 545
+PRED: slice
+   DOBJ: the tortillas
+      NON-INGREDIENT SPAN: the tortillas
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+
+PREDID: 575
+PRED: arrange
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: plates or a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: plates or a serving platter
+
+PREDID: 614
+PRED: garnish
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the sour cream , the tomatoes , green onions , the chiles , the avocado , olives
+     PREP: with
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onion chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: roma plum tomatoes chopped
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: black olives sliced
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: avocado diced
+      NON-INGREDIENT SPAN:  the chiles 
+
+

@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a covered jar , I would mix the lime juice , olive oil , the salt , the garlic , cilantro , chili powder , and cumin .
+PREDID: 14
+PRED: mix
+   DOBJ: the lime juice , olive oil , the salt , the garlic , cilantro , chili powder , cumin
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  cilantro 
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+   PARG: a covered jar
+     PREP: in
+      NON-INGREDIENT SPAN: a covered jar
+
+
+SENTID: 1
+SENT: I would cover , and shake until well blended .
+PREDID: 81
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 90
+PRED: shake
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would place the lettuce in a large bowl .
+PREDID: 112
+PRED: place
+   DOBJ: the lettuce in a large bowl
+      INGREDIENT SPAN: the lettuce in a large bowl
+         INGREDIENTS: shredded romaine lettuce
+
+
+SENTID: 3
+SENT: I would toss with the chicken , black beans , the onion , and tomato .
+PREDID: 140
+PRED: toss
+   DOBJ: NULL
+   PARG: the chicken , black beans , the onion , tomato
+     PREP: with
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small red onion sliced rings
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN:  tomato
+         INGREDIENTS: large tomato chopped
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked skinless boneless chicken breast halves cut strips
+
+
+SENTID: 4
+SENT: I would just before serving , toss with the dressing mixture and Parmesan cheese .
+PREDID: 204
+PRED: toss
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: the dressing mixture, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN: the dressing mixture
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 5
+SENT: I would serve with tortilla chips , either crushed over the top of the salad , or on the side .
+PREDID: 248
+PRED: serve
+   DOBJ: NULL
+   PARG: tortilla chips
+     PREP: with
+      INGREDIENT SPAN: tortilla chips
+         INGREDIENTS: tortilla chips
+   OARG: either
+      NON-INGREDIENT SPAN: either
+
+PREDID: 277
+PRED: crushed
+   DOBJ: NULL
+   PARG: the top of the salad
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the salad
+
+

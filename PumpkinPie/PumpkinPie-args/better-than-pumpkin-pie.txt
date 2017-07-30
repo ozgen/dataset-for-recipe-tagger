@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would place squash in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: squash in a saucepan with enough water
+      INGREDIENT SPAN: squash in a saucepan with enough water
+         INGREDIENTS: peeled cubed butternut squash
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , and simmer over medium heat until tender , about 15 minutes .
+PREDID: 45
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil , simmer over medium heat until tender , about 15 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN:  simmer over medium heat until tender 
+      NON-INGREDIENT SPAN: a boil 
+
+
+SENTID: 2
+SENT: I would drain , and cool .
+PREDID: 108
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 122
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: In a blender or food processor , I would combine butternut squash , brown sugar , the cornstarch , the egg , the milk , the cinnamon , the allspice , the cloves , the ginger , and nutmeg .
+PREDID: 186
+PRED: combine
+   DOBJ: butternut squash , brown sugar , the cornstarch , the egg , the milk , the cinnamon , the allspice , the cloves , the ginger , nutmeg
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: butternut squash 
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+
+SENTID: 5
+SENT: I would process until smooth .
+PREDID: 282
+PRED: process
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 6
+SENT: I would pour into the unbaked pie shell .
+PREDID: 301
+PRED: pour
+   DOBJ: NULL
+   PARG: the unbaked pie shell
+     PREP: into
+      INGREDIENT SPAN: the unbaked pie shell
+         INGREDIENTS: inch unbaked pie shell
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 50 minutes , or until a table knife comes out clean when inserted in the center .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50 minutes , or until a table knife comes out clean when inserted in the center
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 50 minutes 
+      NON-INGREDIENT SPAN:  or until a table knife comes out clean when inserted in the center
+
+

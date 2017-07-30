@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would mix together balsamic vinegar , olive oil , white sugar , and water .
+PREDID: 0
+PRED: mix
+   DOBJ: balsamic vinegar , olive oil , white sugar , water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would combine marinade with chicken pieces in a plastic bag .
+PREDID: 56
+PRED: combine
+   DOBJ: marinade
+      NON-INGREDIENT SPAN: marinade
+   PARG: chicken pieces in a plastic bag
+     PREP: with
+      INGREDIENT SPAN: chicken pieces in a plastic bag
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+
+
+SENTID: 2
+SENT: I would leave in bag for 1 hour .
+PREDID: 102
+PRED: leave
+   DOBJ: NULL
+   PARG: bag for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: bag for 1 hour
+
+
+SENTID: 3
+SENT: I would cook drained chicken in a skillet until done , about 10 minutes .
+PREDID: 121
+PRED: cook
+   DOBJ: drained chicken
+      INGREDIENT SPAN: drained chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+   PARG: a skillet until done , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: a skillet until done 
+
+
+SENTID: 4
+SENT: I would assemble greens , the egg , the olives , the radishes , and crumbled bacon on a dinner plate .
+PREDID: 174
+PRED: assemble
+   DOBJ: greens , the egg , the olives , the radishes , crumbled bacon
+      INGREDIENT SPAN:  crumbled bacon
+         INGREDIENTS: slices crisp cooked bacon crumbled
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: small green olives
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: radishes
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: hardcooked egg
+      INGREDIENT SPAN: greens 
+         INGREDIENTS: mixed salad greens
+   PARG: a dinner plate
+     PREP: on
+      NON-INGREDIENT SPAN: a dinner plate
+
+
+SENTID: 5
+SENT: I would top with chicken .
+PREDID: 240
+PRED: top
+   DOBJ: NULL
+   PARG: chicken
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+
+

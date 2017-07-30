@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would heat oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would grease 12-inch pizza pan .
+PREDID: 22
+PRED: grease
+   DOBJ: 12-inch pizza pan
+      INGREDIENT SPAN: 12-inch pizza pan
+         INGREDIENTS: ounce package Pillsbury refrigerated classic pizza crust
+
+
+SENTID: 2
+SENT: I would unroll dough ;
+PREDID: 44
+PRED: unroll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+
+
+SENTID: 3
+SENT: I would place in greased pan .
+PREDID: 56
+PRED: place
+   DOBJ: NULL
+   PARG: greased pan
+     PREP: in
+      NON-INGREDIENT SPAN: greased pan
+
+
+SENTID: 4
+SENT: Starting at center , I would press out dough to edges of pan .
+PREDID: 91
+PRED: press
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: at center
+     PREP: starting
+      NON-INGREDIENT SPAN: at center
+   PARG: edges of pan
+     PREP: to
+      NON-INGREDIENT SPAN: edges of pan
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would bake 10 to 12 minutes or until crust begins to brown .
+PREDID: 117
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+   PARG: crust begins to brown
+     PREP: until
+      NON-INGREDIENT SPAN: crust begins to brown
+
+
+SENTID: 6
+SENT: In medium bowl , I would combine frozen soy crumbles and barbecue sauce ;
+PREDID: 173
+PRED: combine
+   DOBJ: frozen soy crumbles, barbecue sauce
+      INGREDIENT SPAN:  barbecue sauce
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN: frozen soy crumbles
+         INGREDIENTS: frozen soy burger crumbles
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+
+
+SENTID: 7
+SENT: I would mix well .
+PREDID: 214
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would spread evenly over crust .
+PREDID: 222
+PRED: spread
+   DOBJ: NULL
+   PARG: crust
+     PREP: over
+      NON-INGREDIENT SPAN: crust
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 9
+SENT: I would top with cheese and chile slices .
+PREDID: 244
+PRED: top
+   DOBJ: NULL
+   PARG: cheese, chile slices
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded tacoflavored cheese
+      INGREDIENT SPAN:  chile slices
+         INGREDIENTS: pickled jalapeno chile slices drained
+
+
+SENTID: 10
+SENT: I would bake an additional 10 to 12 minutes or until cheese is melted and crust is golden brown .
+

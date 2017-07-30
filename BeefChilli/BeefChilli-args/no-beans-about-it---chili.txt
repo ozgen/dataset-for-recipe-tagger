@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would crumble the ground beef into a stock pot or large Dutch oven over medium-high heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a stock pot or large dutch oven
+     PREP: into
+      NON-INGREDIENT SPAN: a stock pot or large dutch oven
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would add the onion and garlic , and cook the stirring frequently until beef is evenly browned .
+PREDID: 69
+PRED: add
+   DOBJ: the onion, garlic
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+      NON-INGREDIENT SPAN:  garlic
+
+PREDID: 93
+PRED: cook
+   DOBJ: the stirring
+      NON-INGREDIENT SPAN: the stirring
+   PARG: beef is evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: beef is evenly browned
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 2
+SENT: I would drain off excess grease .
+PREDID: 140
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would season with chili powder , the oregano , the cumin and hot sauce .
+PREDID: 161
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , the oregano , the cumin, hot sauce
+     PREP: with
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+
+
+SENTID: 4
+SENT: I would stir in the tomatoes and vinegar .
+PREDID: 208
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomatoes, vinegar
+     PREP: in
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: red wine vinegar
+
+
+SENTID: 5
+SENT: I would bring to a boil ,
+PREDID: 236
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat to low , and simmer for about 1 hour - or longer if you have time .
+PREDID: 249
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: longer
+      NON-INGREDIENT SPAN: longer
+
+PREDID: 268
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: about 1 hour
+
+
+SENTID: 7
+SENT: I would stir occasionally to prevent burning on the bottom .
+PREDID: 310
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+   OARG: to prevent burning on the bottom
+      NON-INGREDIENT SPAN: to prevent burning on the bottom
+
+

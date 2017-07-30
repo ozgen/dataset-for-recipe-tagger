@@ -1,0 +1,201 @@
+SENTID: 0
+SENT: I would heat olive oil and butter in a large , heavy pot or Dutch oven over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil, butter
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+   PARG: a large , heavy pot or dutch oven over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  heavy pot or dutch oven over medium heat
+
+
+SENTID: 1
+SENT: I would combine flour , the salt , and black pepper in a bowl and toss beef stew meat in seasoned flour .
+PREDID: 64
+PRED: combine
+   DOBJ: flour , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+
+PREDID: 109
+PRED: toss
+   DOBJ: beef stew meat in seasoned flour
+      INGREDIENT SPAN: beef stew meat in seasoned flour
+         INGREDIENTS: beef stew meat cubed
+
+
+SENTID: 2
+SENT: I would brown the beef in the hot oil and butter , stirring often , and remove meat from pan .
+PREDID: 138
+PRED: brown
+   DOBJ: the beef in the hot oil, butter , stirring often
+      NON-INGREDIENT SPAN:  butter 
+      NON-INGREDIENT SPAN:  stirring often
+      NON-INGREDIENT SPAN: the beef in the hot oil
+
+PREDID: 188
+PRED: remove
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 3
+SENT: I would pour white wine into pan and scrape up and dissolve any small bits of browned food ;
+PREDID: 206
+PRED: pour
+   DOBJ: white wine
+      INGREDIENT SPAN: white wine
+         INGREDIENTS: white wine
+   PARG: pan, scrape
+     PREP: into
+      NON-INGREDIENT SPAN:  scrape
+      NON-INGREDIENT SPAN: pan
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 240
+PRED: dissolve
+   DOBJ: any small bits of browned food
+      NON-INGREDIENT SPAN: any small bits of browned food
+
+
+SENTID: 4
+SENT: I would stir onion and garlic into white wine .
+PREDID: 274
+PRED: stir
+   DOBJ: NULL
+   PARG: white wine
+     PREP: into
+      NON-INGREDIENT SPAN: white wine
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: large clove garlic minced
+      NON-INGREDIENT SPAN: onion
+
+
+SENTID: 5
+SENT: I would cook until onion is translucent , stirring often , about 5 minutes .
+PREDID: 306
+PRED: cook
+   DOBJ: NULL
+   PARG: onion is translucent , stirring often , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring often 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: onion is translucent 
+
+
+SENTID: 6
+SENT: I would return browned beef to pan .
+PREDID: 362
+PRED: return
+   DOBJ: browned beef
+      NON-INGREDIENT SPAN: browned beef
+   OARG: to pan
+      NON-INGREDIENT SPAN: to pan
+
+
+SENTID: 7
+SENT: I would stir ketchup , Worcestershire sauce , and juice from canned mushrooms with beef mixture .
+PREDID: 385
+PRED: stir
+   DOBJ: ketchup , Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+   OARG: juice from canned mushrooms with beef mixture
+      INGREDIENT SPAN: juice from canned mushrooms with beef mixture
+         INGREDIENTS: ounce button mushrooms undrained
+
+
+SENTID: 8
+SENT: I would reduce heat to low , cover pan , and simmer until beef is tender , about 3 hours .
+PREDID: 460
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 476
+PRED: cover
+   DOBJ: pan
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 488
+PRED: simmer
+   DOBJ: NULL
+   PARG: beef is tender , about 3 hours
+     PREP: until
+      NON-INGREDIENT SPAN: beef is tender 
+      NON-INGREDIENT SPAN:  about 3 hours
+
+
+SENTID: 9
+SENT: I would mix button mushrooms and sour cream into beef mixture and heat through , about 5 minutes .
+PREDID: 524
+PRED: mix
+   DOBJ: button mushrooms, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: ounce container sour cream
+      NON-INGREDIENT SPAN: button mushrooms
+   PARG: beef mixture, heat through , about 5 minutes
+     PREP: into
+      NON-INGREDIENT SPAN:  heat through 
+      NON-INGREDIENT SPAN: beef mixture
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 10
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 598
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 11
+SENT: I would cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes .
+PREDID: 640
+PRED: cook
+   DOBJ: NULL
+   PARG: egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN: egg noodles in the boiling water 
+         INGREDIENTS: ounce package wide egg noodles
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 12
+SENT: I would drain .
+PREDID: 742
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 13
+SENT: I would serve Stroganoff over cooked egg noodles .
+PREDID: 748
+PRED: serve
+   DOBJ: Stroganoff over cooked egg noodles
+      NON-INGREDIENT SPAN: Stroganoff over cooked egg noodles
+
+

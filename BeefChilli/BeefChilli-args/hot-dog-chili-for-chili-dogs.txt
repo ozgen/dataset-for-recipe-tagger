@@ -1,0 +1,280 @@
+SENTID: 0
+SENT: I would place ancho chiles into 1 cup boiling water and set aside until softened , about 15 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: ancho chiles
+      INGREDIENT SPAN: ancho chiles
+         INGREDIENTS: dried ancho chiles stems removed seeds left
+   PARG: 1 cup boiling water
+     PREP: into
+      INGREDIENT SPAN: 1 cup boiling water
+         INGREDIENTS: boiling water
+
+PREDID: 39
+PRED: set
+   DOBJ: NULL
+   PARG: softened , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: softened 
+      NON-INGREDIENT SPAN:  about 15 minutes
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: While chiles are soaking , I would place bacon in a large saucepan and cook over medium-high heat , stirring occasionally , until evenly browned , about 10 minutes .
+PREDID: 98
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices thickcut bacon chopped
+   PARG: chiles are soaking
+     PREP: while
+      NON-INGREDIENT SPAN: chiles are soaking
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 127
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  until evenly browned 
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+
+SENTID: 2
+SENT: I would drain excess grease but reserve 2 tablespoons bacon drippings in the pan .
+PREDID: 206
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+PREDID: 226
+PRED: reserve
+   DOBJ: 2 tablespoons bacon drippings
+      INGREDIENT SPAN: 2 tablespoons bacon drippings
+         INGREDIENTS: bacon drippings
+   PARG: the pan
+     PREP: in
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 3
+SENT: I would cook and stir white and red onion in bacon drippings with bacon over medium heat with a pinch of salt until onions are translucent , about 5 minutes ;
+PREDID: 268
+PRED: cook and stir
+   DOBJ: white, red onion in bacon drippings with bacon over medium heat
+      INGREDIENT SPAN:  red onion in with bacon over medium heat
+         INGREDIENTS: sweet red onion diced
+      INGREDIENT SPAN:  red onion in bacon drippings with bacon over medium heat
+         INGREDIENTS: bacon drippings
+      NON-INGREDIENT SPAN: white
+   PARG: a pinch of salt
+     PREP: with
+      INGREDIENT SPAN: a pinch of salt
+         INGREDIENTS: salt ground black pepper taste
+   PARG: onions are translucent , about 5 minutes
+     PREP: until
+      INGREDIENT SPAN: onions are translucent 
+         INGREDIENTS: white onion diced
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would stir in garlic and cook until softened , about 1 more minute .
+PREDID: 390
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic, cook
+     PREP: in
+      NON-INGREDIENT SPAN: garlic
+      NON-INGREDIENT SPAN:  cook
+   PARG: softened , about 1 more minute
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 more minute
+      NON-INGREDIENT SPAN: softened 
+
+
+SENTID: 5
+SENT: I would pour in 3 cups boiling water and stir in beef chuck , mixing the meat with the water to break it apart .
+PREDID: 440
+PRED: pour
+   DOBJ: NULL
+   PARG: 3 cups boiling water
+     PREP: in
+      INGREDIENT SPAN: 3 cups boiling water
+         INGREDIENTS: boiling water
+
+PREDID: 466
+PRED: stir
+   DOBJ: NULL
+   PARG: beef chuck
+     PREP: in
+      INGREDIENT SPAN: beef chuck
+         INGREDIENTS: ground beef chuck
+   OARG: mixing the meat with the water to break it apart
+      INGREDIENT SPAN: mixing the meat with the water to break it apart
+         INGREDIENTS: boiling water
+
+
+SENTID: 6
+SENT: I would bring to a boil and reduce heat to low .
+PREDID: 522
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 537
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 7
+SENT: I would stir in tomato paste and beef bouillon granules until the granules dissolve ;
+PREDID: 553
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste, beef bouillon granules
+     PREP: in
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  beef bouillon granules
+         INGREDIENTS: packets lowsodium beef bouillon granules
+   PARG: the granules dissolve
+     PREP: until
+      NON-INGREDIENT SPAN: the granules dissolve
+
+
+SENTID: 8
+SENT: I would allow mixture to simmer while you complete the remaining steps .
+PREDID: 618
+PRED: allow
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: to simmer while you complete the remaining steps
+      NON-INGREDIENT SPAN: to simmer while you complete the remaining steps
+
+
+SENTID: 9
+SENT: I would place soaked ancho chiles and their liquid , spicy brown mustard , chili powder , Worcestershire sauce , the cumin , garlic powder , adobo seasoning , and paprika into a blender and blend until smooth ;
+PREDID: 669
+PRED: place
+   DOBJ: soaked ancho chiles, their liquid , spicy brown mustard , chili powder , Worcestershire sauce , the cumin , garlic powder , adobo seasoning , paprika
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: dark red chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: adobo seasoning cumin
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  spicy brown mustard 
+         INGREDIENTS: spicy brown mustard
+      NON-INGREDIENT SPAN: soaked ancho chiles
+      NON-INGREDIENT SPAN:  their liquid 
+      NON-INGREDIENT SPAN:  adobo seasoning 
+   PARG: a blender
+     PREP: into
+      NON-INGREDIENT SPAN: a blender
+
+PREDID: 818
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: I would pour mixture into the chili .
+PREDID: 832
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the chili
+     PREP: into
+      NON-INGREDIENT SPAN: the chili
+
+
+SENTID: 11
+SENT: I would use a little water to dissolve the remaining mixture in blender and pour into the chili .
+PREDID: 856
+PRED: use
+   DOBJ: a little water
+      NON-INGREDIENT SPAN: a little water
+   OARG: to dissolve the remaining mixture in blender, pour into the chili
+      NON-INGREDIENT SPAN: to dissolve the remaining mixture in blender
+      NON-INGREDIENT SPAN:  pour into the chili
+
+
+SENTID: 12
+SENT: I would bring chili to a slow boil over medium-low heat and stir in kidney beans and masa harina .
+PREDID: 926
+PRED: bring
+   DOBJ: chili
+      NON-INGREDIENT SPAN: chili
+   PARG: a slow boil over medium-low heat
+     PREP: to
+      NON-INGREDIENT SPAN: a slow boil over medium-low heat
+
+PREDID: 968
+PRED: stir
+   DOBJ: NULL
+   PARG: kidney beans, masa harina
+     PREP: in
+      INGREDIENT SPAN: kidney beans
+         INGREDIENTS: ounce kidney beans rinsed drained
+      NON-INGREDIENT SPAN:  masa harina
+
+
+SENTID: 13
+SENT: I would reduce heat to low ;
+PREDID: 999
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 14
+SENT: I would allow to simmer until thick and the flavors have blended , at least 45 more minutes .
+PREDID: 1015
+PRED: allow
+   DOBJ: NULL
+   OARG: to simmer until thick
+      NON-INGREDIENT SPAN: to simmer until thick
+   OARG: the flavors have blended , at least 45 more minutes
+      NON-INGREDIENT SPAN: the flavors have blended 
+      NON-INGREDIENT SPAN:  at least 45 more minutes
+
+
+SENTID: 15
+SENT: I would season with salt and black pepper .
+PREDID: 1084
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 16
+SENT: If chili is too thin , mix in more masa harina .
+

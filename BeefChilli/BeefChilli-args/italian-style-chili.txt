@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would crumble ground beef into a large stock pot over medium-high heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large stock pot over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large stock pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would add onions , and cook , stirring , until beef is evenly browned .
+PREDID: 55
+PRED: add
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onion
+
+PREDID: 68
+PRED: cook
+   DOBJ: NULL
+   PARG: beef is evenly browned
+     PREP: until
+      INGREDIENT SPAN: beef is evenly browned
+         INGREDIENTS: beef bouillon
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+
+SENTID: 2
+SENT: I would drain grease , if necessary .
+PREDID: 107
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+
+
+SENTID: 3
+SENT: I would pour in the spaghetti sauce , the water , the sugar , the tomatoes , the mushrooms , the pepperoni , the bouillon , chili powder and kidney beans .
+PREDID: 131
+PRED: pour
+   DOBJ: NULL
+   PARG: the spaghetti sauce , the water , the sugar , the tomatoes , the mushrooms , the pepperoni , the bouillon , chili powder, kidney beans
+     PREP: in
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans drained rinsed
+      INGREDIENT SPAN: the spaghetti sauce 
+         INGREDIENTS: ounce jar cheese spaghetti sauce
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce sliced mushrooms
+      INGREDIENT SPAN:  the pepperoni 
+         INGREDIENTS: sliced pepperoni
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      NON-INGREDIENT SPAN:  the bouillon 
+
+
+SENTID: 4
+SENT: I would bring to a boil .
+PREDID: 231
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat , and simmer uncovered for 30 minutes , stirring occasionally , to blend flavors .
+PREDID: 244
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   OARG: simmer uncovered for 30 minutes , stirring occasionally , to blend flavors
+      NON-INGREDIENT SPAN: simmer uncovered for 30 minutes 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  to blend flavors
+
+

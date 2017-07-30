@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: I would place egg in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+   DOBJ: egg
+      INGREDIENT SPAN: egg
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 22
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 41
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 72
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 2
+SENT: I would cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 87
+PRED: cover and let
+   DOBJ: eggs stand in hot water
+      NON-INGREDIENT SPAN: eggs stand in hot water
+   PARG: 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water , cool , and peel .
+PREDID: 134
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: I would cut eggs in half lengthwise , place the yolks into a mixing bowl , and set the whites aside .
+PREDID: 166
+PRED: cut
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 190
+PRED: place
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+PREDID: 222
+PRED: set
+   DOBJ: the whites
+      NON-INGREDIENT SPAN: the whites
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would mash the yolks with the deviled ham , the mustard , the mayonnaise , and black pepper .
+PREDID: 240
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: the deviled ham , the mustard , the mayonnaise , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: spicy brown mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN: the deviled ham 
+         INGREDIENTS: ounce deviled ham
+
+
+SENTID: 6
+SENT: I would spoon or pipe filling into egg white halves .
+
+SENTID: 7
+SENT: I would garnish each deviled egg with an olive slice ,
+PREDID: 304
+PRED: garnish
+   DOBJ: each deviled egg
+      NON-INGREDIENT SPAN: each deviled egg
+   PARG: an olive slice
+     PREP: with
+      INGREDIENT SPAN: an olive slice
+         INGREDIENTS: slices black olives
+
+
+SENTID: 8
+SENT: I would sprinkle with paprika .
+PREDID: 342
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: Paprika sprinkling
+
+

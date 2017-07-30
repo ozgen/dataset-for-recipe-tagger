@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: In a 4 quart saucepan over medium heat , I would cook ground beef , green pepper , the onion , chili powder and garlic , until beef is browned and vegetables are tender .
+PREDID: 32
+PRED: cook
+   DOBJ: ground beef , green pepper , the onion , chili powder, garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: chopped green bell pepper
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a 4 quart saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 4 quart saucepan over medium heat
+   PARG: beef is browned
+     PREP: until
+      NON-INGREDIENT SPAN: beef is browned
+   OARG: vegetables are tender
+      NON-INGREDIENT SPAN: vegetables are tender
+
+
+SENTID: 1
+SENT: I would drain fat off of beef/vegetable mixture .
+PREDID: 127
+PRED: drain
+   DOBJ: fat
+      NON-INGREDIENT SPAN: fat
+   PARG: of beef/vegetable mixture
+     PREP: off
+      NON-INGREDIENT SPAN: of beef/vegetable mixture
+
+
+SENTID: 2
+SENT: I would add undrained kidney beans , tomato soup , the vinegar and cinnamon to soup , and bring to a boil .
+PREDID: 162
+PRED: add
+   DOBJ: undrained kidney beans , tomato soup , the vinegar, cinnamon
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN: undrained kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: soup
+     PREP: to
+      NON-INGREDIENT SPAN: soup
+
+PREDID: 228
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would simmer for 15 minutes , stirring occasionally .
+PREDID: 238
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 4
+SENT: I would heat through .
+PREDID: 278
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 5
+SENT: I would serve with sprinkled cheese on top .
+PREDID: 290
+PRED: serve
+   DOBJ: NULL
+   PARG: sprinkled cheese on top
+     PREP: with
+      INGREDIENT SPAN: sprinkled cheese on top
+         INGREDIENTS: shredded Cheddar cheese
+
+

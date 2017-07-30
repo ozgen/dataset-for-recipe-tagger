@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: I would heat oil in a large skillet or wok and saute chicken until cooked through -LRB- no longer pink -RRB- .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok, saute chicken
+     PREP: in
+      INGREDIENT SPAN:  saute chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+      NON-INGREDIENT SPAN: a large skillet or wok
+   PARG: cooked through -lrb- no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through -lrb- no longer pink
+
+
+SENTID: 1
+SENT: I would stir in celery and zucchini and stir fry for 3 minutes ;
+PREDID: 75
+PRED: stir
+   DOBJ: NULL
+   PARG: celery, zucchini
+     PREP: in
+      INGREDIENT SPAN:  zucchini
+         INGREDIENTS: zucchini quartered sliced
+      INGREDIENT SPAN: celery
+         INGREDIENTS: stalks celery chopped
+
+PREDID: 101
+PRED: stir
+   DOBJ: fry
+      NON-INGREDIENT SPAN: fry
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 2
+SENT: I would add mushrooms and spinach and stir fry another 2 minutes .
+PREDID: 120
+PRED: add
+   DOBJ: mushrooms, spinach
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: chopped spinach
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: mushrooms sliced
+
+PREDID: 145
+PRED: stir
+   DOBJ: NULL
+   PARG: another 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 2 minutes
+   OARG: fry
+      NON-INGREDIENT SPAN: fry
+
+
+SENTID: 3
+SENT: I would reduce heat to low and allow to simmer .
+PREDID: 168
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 186
+PRED: allow
+   DOBJ: NULL
+   PARG: simmer
+     PREP: to
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 4
+SENT: I would meanwhile , bring salted water to a boil in a medium saucepan .
+PREDID: 210
+PRED: bring
+   DOBJ: salted water to a boil in a medium saucepan
+      INGREDIENT SPAN: salted water to a boil in a medium saucepan
+         INGREDIENTS: cold water
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would add rice , reduce heat , cover and simmer for 20 minutes .
+PREDID: 251
+PRED: add
+   DOBJ: rice
+      INGREDIENT SPAN: rice
+         INGREDIENTS: uncooked longgrain rice
+
+PREDID: 259
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 278
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 6
+SENT: I would prepare ramen noodles according to package directions ,
+PREDID: 297
+PRED: prepare
+   DOBJ: ramen noodles
+      INGREDIENT SPAN: ramen noodles
+         INGREDIENTS: ounce package ramen noodle pasta flavor packet
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 7
+SENT: I would stir ramen into prepared rice and set aside .
+PREDID: 345
+PRED: stir
+   DOBJ: ramen
+      NON-INGREDIENT SPAN: ramen
+   PARG: prepared rice
+     PREP: into
+      NON-INGREDIENT SPAN: prepared rice
+
+PREDID: 373
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: In a small bowl , I would combine the cornstarch , the water , the oil and soy sauce .
+PREDID: 395
+PRED: combine
+   DOBJ: the cornstarch , the water , the oil, soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: the cornstarch 
+         INGREDIENTS: cornstarch
+      NON-INGREDIENT SPAN:  the oil
+      NON-INGREDIENT SPAN:  the water 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 9
+SENT: I would mix well and stir mixture into chicken and vegetables ,
+PREDID: 437
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 447
+PRED: stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: chicken, vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 10
+SENT: I would stir in rice and noodles .
+PREDID: 483
+PRED: stir
+   DOBJ: NULL
+   PARG: rice, noodles
+     PREP: in
+      NON-INGREDIENT SPAN: rice
+      NON-INGREDIENT SPAN:  noodles
+
+
+SENTID: 11
+SENT: I would mix all together and simmer for another 5 minutes .
+PREDID: 504
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 521
+PRED: simmer
+   DOBJ: NULL
+   PARG: another 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 5 minutes
+
+
+SENTID: 12
+SENT: I would serve hot .
+PREDID: 546
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

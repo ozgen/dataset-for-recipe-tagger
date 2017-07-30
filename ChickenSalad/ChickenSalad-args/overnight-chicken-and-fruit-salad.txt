@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would combine chicken , the grapes , pineapple chunks , the celery , and water chestnuts in a large salad bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken , the grapes , pineapple chunks , the celery , water chestnuts in a large salad bowl
+      INGREDIENT SPAN:  water chestnuts in a large salad bowl
+         INGREDIENTS: ounce sliced water chestnuts drained
+      INGREDIENT SPAN:  pineapple chunks 
+         INGREDIENTS: ounce pineapple chunks drained
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubed cooked chicken
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes halved
+
+
+SENTID: 1
+SENT: I would mix mayonnaise , soy sauce , lemon juice , and curry powder in a separate bowl .
+PREDID: 80
+PRED: mix
+   DOBJ: mayonnaise , soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   OARG: lemon juice
+      INGREDIENT SPAN: lemon juice
+         INGREDIENTS: lemon juice
+
+PREDID: 117
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would pour the dressing over salad and toss lightly to coat .
+PREDID: 144
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+PREDID: 171
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 3
+SENT: I would cover and chill 8 hours to overnight .
+PREDID: 186
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 4
+SENT: I would stir almonds into salad just before serving ;
+PREDID: 217
+PRED: stir
+   DOBJ: almonds
+      INGREDIENT SPAN: almonds
+         INGREDIENTS: toasted slivered almonds
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 5
+SENT: I would garnish with papaya and avocado slices .
+PREDID: 255
+PRED: garnish
+   DOBJ: NULL
+   PARG: papaya, avocado slices
+     PREP: with
+      INGREDIENT SPAN: papaya
+         INGREDIENTS: papaya peeled seeded sliced
+      INGREDIENT SPAN:  avocado slices
+         INGREDIENTS: avocado peeled pitted sliced
+
+

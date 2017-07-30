@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would cook the ground beef and onion in a large skillet over medium heat until evenly browned .
+PREDID: 41
+PRED: cook
+   DOBJ: the ground beef, onion in a large skillet over medium heat
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion in a large skillet over medium heat
+         INGREDIENTS: small onion chopped
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 2
+SENT: I would drain off grease .
+PREDID: 114
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would season with salt , the pepper , and garlic powder .
+PREDID: 129
+PRED: season
+   DOBJ: NULL
+   PARG: salt , the pepper , garlic powder
+     PREP: with
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  the pepper 
+
+
+SENTID: 4
+SENT: I would spread the sliced potatoes in a layer on the bottom of a 9x13 inch baking dish .
+PREDID: 167
+PRED: spread
+   DOBJ: the sliced potatoes in a layer
+      INGREDIENT SPAN: the sliced potatoes in a layer
+         INGREDIENTS: peeled sliced potatoes
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: on
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 5
+SENT: I would spread the ground beef and onion over the potatoes .
+PREDID: 231
+PRED: spread
+   DOBJ: the ground beef, onion over the potatoes
+      NON-INGREDIENT SPAN:  onion over the potatoes
+      NON-INGREDIENT SPAN: the ground beef
+
+
+SENTID: 6
+SENT: I would place slices of pepperoni over the ground beef .
+PREDID: 274
+PRED: place
+   DOBJ: slices of pepperoni over the ground beef
+      INGREDIENT SPAN: slices of pepperoni over the ground beef
+         INGREDIENTS: ounce package chopped pepperoni
+
+
+SENTID: 7
+SENT: In a saucepan over medium heat , I would combine the tomato soup , Cheddar cheese soup , and milk .
+PREDID: 340
+PRED: combine
+   DOBJ: the tomato soup , Cheddar cheese soup , milk
+      INGREDIENT SPAN:  Cheddar cheese soup 
+         INGREDIENTS: ounce condensed Cheddar cheese soup
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+
+
+SENTID: 8
+SENT: I would season with oregano , Italian seasoning , and brown sugar .
+PREDID: 387
+PRED: season
+   DOBJ: NULL
+   PARG: oregano , italian seasoning , brown sugar
+     PREP: with
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  italian seasoning 
+         INGREDIENTS: Italian seasoning
+
+
+SENTID: 9
+SENT: I would mix well , and cook until heated through .
+PREDID: 436
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 447
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: I would pour over the contents of the baking dish .
+PREDID: 470
+PRED: pour
+   DOBJ: the contents of the baking dish
+      NON-INGREDIENT SPAN: the contents of the baking dish
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 11
+SENT: I would cover the dish with aluminum foil , and bake for 30 minutes in the preheated oven .
+PREDID: 505
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 537
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+
+
+SENTID: 12
+SENT: I would remove the aluminum foil , sprinkle mozzarella cheese over the top , and bake for an additional 15 minutes , until the cheese is melted and bubbly .
+PREDID: 572
+PRED: remove
+   DOBJ: the aluminum foil
+      NON-INGREDIENT SPAN: the aluminum foil
+
+PREDID: 594
+PRED: sprinkle
+   DOBJ: mozzarella cheese
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+PREDID: 632
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 15 minutes
+   PARG: the cheese is melted, bubbly
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: the cheese is melted
+
+

@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: I would scrub potatoes and cut in half or quarters , if larger .
+PREDID: 0
+PRED: scrub
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: small new potatoes
+
+PREDID: 16
+PRED: cut
+   DOBJ: NULL
+   PARG: half or quarters
+     PREP: in
+      NON-INGREDIENT SPAN: half or quarters
+   PARG: larger
+     PREP: if
+      NON-INGREDIENT SPAN: larger
+
+
+SENTID: 1
+SENT: In a medium saucepan , I would cover potatoes with cold water .
+PREDID: 63
+PRED: cover
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 2
+SENT: Bring to a boil over high heat ;
+PREDID: 90
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 3
+SENT: I would season water with salt .
+PREDID: 121
+PRED: water
+   DOBJ: season
+      NON-INGREDIENT SPAN: season
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt pepper, Salt, salt
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt pepper, Salt, salt
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt pepper, Salt, salt
+
+
+SENTID: 4
+SENT: I would reduce heat and boil gently for about 15 min or until potatoes are tender .
+PREDID: 135
+PRED: reduce
+   DOBJ: heat, boil
+      NON-INGREDIENT SPAN:  boil
+      NON-INGREDIENT SPAN: heat
+   PARG: about 15 min
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 min
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: potatoes are tender
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 5
+SENT: I would drain and transfer to a large bowl ;
+PREDID: 196
+PRED: drain and transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: I would let cool slightly .
+PREDID: 225
+PRED: let
+   DOBJ: NULL
+   OARG: cool slightly
+      NON-INGREDIENT SPAN: cool slightly
+
+
+SENTID: 7
+SENT: I would meanwhile , make Dressing :
+
+SENTID: 8
+SENT: in a blender , I would combine cream , the garlic , the mustard , the salt and pepper ;
+PREDID: 252
+PRED: combine
+   DOBJ: cream , the garlic , the mustard , the salt, pepper
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: % cream
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: cloves garlic
+      NON-INGREDIENT SPAN:  the salt
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 9
+SENT: I would puree until smooth .
+PREDID: 294
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: With motor running , I would pour in lemon juice .
+PREDID: 328
+PRED: pour
+   DOBJ: NULL
+   PARG: motor running
+     PREP: with
+      NON-INGREDIENT SPAN: motor running
+   PARG: lemon juice
+     PREP: in
+      INGREDIENT SPAN: lemon juice
+         INGREDIENTS: squeezed lemon juice
+
+
+SENTID: 11
+SENT: I would add yogurt and pulse to blend .
+PREDID: 345
+PRED: add
+   DOBJ: yogurt, pulse
+      INGREDIENT SPAN: yogurt
+         INGREDIENTS: plain yogurt
+      NON-INGREDIENT SPAN:  pulse
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+
+SENTID: 12
+SENT: I would let stand for 5 min or until thickened .
+PREDID: 370
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 min
+     PREP: for
+      NON-INGREDIENT SPAN: 5 min
+
+
+SENTID: 13
+SENT: I would add half of the Parmesan cheese and bacon -LRB- if using -RRB- to potatoes and pour in dressing ;
+PREDID: 402
+PRED: add
+   DOBJ: half of the Parmesan cheese, bacon -LRB- if using
+      INGREDIENT SPAN: half of the Parmesan cheese
+         INGREDIENTS: grated Canadian Parmesan cheese divided
+      INGREDIENT SPAN:  bacon -LRB- if using
+         INGREDIENTS: slices bacon cooked crisp crumbled
+   PARG: potatoes
+     PREP: to
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 466
+PRED: pour
+   DOBJ: NULL
+   PARG: dressing
+     PREP: in
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 14
+SENT: I would toss gently to coat .
+PREDID: 473
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 15
+SENT: I would just before serving , add lettuce and toss to combine .
+PREDID: 508
+PRED: add
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: ounce package torn romaine lettuce
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 521
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 16
+SENT: I would divide among serving bowls and sprinkle with remaining Parmesan .
+PREDID: 535
+PRED: divide
+   DOBJ: NULL
+   PARG: serving bowls, sprinkle with remaining parmesan
+     PREP: among
+      NON-INGREDIENT SPAN: serving bowls
+      NON-INGREDIENT SPAN:  sprinkle with remaining parmesan
+
+

@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 425 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 425 degrees f.
+
+
+SENTID: 1
+SENT: I would cook macaroni according to package directions ;
+PREDID: 25
+PRED: cook
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: whole grain elbow macaroni
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 66
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would cover and keep warm .
+PREDID: 72
+PRED: cover and keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 4
+SENT: I would meanwhile , for cheese sauce , melt the 2 tablespoons butter over medium heat in a medium saucepan .
+PREDID: 114
+PRED: melt
+   DOBJ: the 2 tablespoons butter
+      INGREDIENT SPAN: the 2 tablespoons butter
+         INGREDIENTS: butter melted
+   PARG: cheese sauce
+     PREP: for
+      INGREDIENT SPAN: cheese sauce
+         INGREDIENTS: shredded reducedfat sharp Cheddar cheese
+   PARG: medium heat in a medium saucepan
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat in a medium saucepan
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would stir in flour , the mustard , the salt and pepper until combined .
+PREDID: 171
+PRED: stir
+   DOBJ: NULL
+   PARG: flour , the mustard , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 6
+SENT: I would add milk all at once .
+PREDID: 218
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: fatfree milk
+   PARG: at once
+     PREP: all
+      NON-INGREDIENT SPAN: at once
+
+
+SENTID: 7
+SENT: I would cook and stir for 5 minutes or until thick and bubbly .
+PREDID: 235
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 8
+SENT: I would cook and stir for 2 more minutes .
+PREDID: 279
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+
+
+SENTID: 9
+SENT: I would remove saucepan from heat .
+PREDID: 306
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 10
+SENT: I would add cheddar and mozzarella cheeses , stirring until cheese is melted and sauce is smooth .
+PREDID: 329
+PRED: add
+   DOBJ: cheddar, mozzarella cheeses
+      INGREDIENT SPAN:  mozzarella cheeses
+         INGREDIENTS: shredded partskim mozzarella cheese
+      NON-INGREDIENT SPAN: cheddar
+   OARG: stirring until cheese is melted
+      INGREDIENT SPAN: stirring until cheese is melted
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: stirring until cheese is 
+         INGREDIENTS: grated Parmesan cheese
+   OARG: sauce is smooth
+      NON-INGREDIENT SPAN: sauce is smooth
+
+
+SENTID: 11
+SENT: I would stir cheese sauce and canned peas into the cooked macaroni .
+PREDID: 404
+PRED: stir
+   DOBJ: cheese sauce, canned peas
+      INGREDIENT SPAN:  canned peas
+         INGREDIENTS: ounce Del Monte Sweet Peas drained
+      NON-INGREDIENT SPAN: cheese sauce
+   PARG: the cooked macaroni
+     PREP: into
+      NON-INGREDIENT SPAN: the cooked macaroni
+
+
+SENTID: 12
+SENT: I would heat through .
+PREDID: 454
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 13
+SENT: I would pour into a greased 2-quart baking dish .
+PREDID: 466
+PRED: pour
+   DOBJ: NULL
+   PARG: a greased 2-quart baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 2-quart baking dish
+
+
+SENTID: 14
+SENT: I would combine breadcrumbs , Parmesan cheese and the 2 teaspoons melted butter in a small bowl .
+PREDID: 500
+PRED: combine
+   DOBJ: breadcrumbs , Parmesan cheese, the 2 teaspoons melted butter
+      INGREDIENT SPAN:  the 2 teaspoons melted butter
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  Parmesan cheese
+      NON-INGREDIENT SPAN: breadcrumbs 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 15
+SENT: I would sprinkle over macaroni .
+PREDID: 574
+PRED: sprinkle
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 16
+SENT: I would bake , uncovered , for 20 minutes or until topping is golden brown .
+PREDID: 595
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 17
+SENT: I would let stand for 10 minutes before serving .
+PREDID: 650
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

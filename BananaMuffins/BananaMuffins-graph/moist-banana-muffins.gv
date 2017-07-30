@@ -1,0 +1,49 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P84)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S3,P145)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P188)", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour (S5,P210)", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake (S6,P251)", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: baking powder, flour, white sugar, baking soda
+(text: the flour , baking soda , baking powder , sugar)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+D0[label="DOBJ: oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: chocolate chips, ripe bananas, mayonnaise
+(text: the bananas , mayonnaise , chocolate chips)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D1[label="DOBJ: 12 muffin cups or line", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper muffin liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+O4_0_0[label="OTHER: until well combined", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E1 -> E5 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+E2 -> E5 [label="OUTPUT: 
+INPUT: to about 3/4 full"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+E0 -> E6 [label="OUTPUT: 
+INPUT: in the preheated oven until golden"]
+P6_0_1[label="PREP: in  the tops", shape=box, style=filled, fillcolor=white]
+P6_0_1 -> E6
+P6_1_0[label="PREP: about 20 minutes", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+O6_0_0[label="OTHER: spring", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: back when lightly pressed", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

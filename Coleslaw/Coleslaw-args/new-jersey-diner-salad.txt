@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together the cabbage , the onions , the carrot , the pepper , and cucumber .
+PREDID: 13
+PRED: toss
+   DOBJ: the cabbage , the onions , the carrot , the pepper , cucumber
+      INGREDIENT SPAN:  cucumber
+         INGREDIENTS: medium cucumber sliced
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: large onions sliced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded cabbage
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot sliced
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: green bell pepper seeded chopped
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a small bowl , I would whisk together the vinegar , the oil , the sugar , and salt .
+PREDID: 82
+PRED: whisk
+   DOBJ: the vinegar , the oil , the sugar , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the dressing over the salad , and stir to coat .
+PREDID: 124
+PRED: pour
+   DOBJ: the dressing over the salad
+      NON-INGREDIENT SPAN: the dressing over the salad
+
+PREDID: 155
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover tightly , and refrigerate overnight before serving .
+PREDID: 166
+PRED: cover
+   DOBJ: tightly
+      NON-INGREDIENT SPAN: tightly
+
+PREDID: 182
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

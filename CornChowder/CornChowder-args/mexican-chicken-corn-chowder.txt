@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: In a Dutch oven , I would brown chicken , onion , and garlic in butter until chicken is no longer pink .
+PREDID: 13
+PRED: brown
+   DOBJ: chicken , onion , garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubes chicken bouillon
+   PARG: a dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: chicken is no longer pink
+     PREP: until
+      INGREDIENT SPAN: chicken is no longer pink
+         INGREDIENTS: boneless skinless chicken breasts cut bitesize
+
+
+SENTID: 1
+SENT: I would dissolve the bouillon in hot water ;
+PREDID: 76
+PRED: dissolve
+   DOBJ: the bouillon in hot water
+      INGREDIENT SPAN: the bouillon in hot water
+         INGREDIENTS: hot water
+
+
+SENTID: 2
+SENT: I would pour into Dutch oven , and season with cumin .
+PREDID: 106
+PRED: pour
+   DOBJ: NULL
+   PARG: dutch oven , season with cumin
+     PREP: into
+      INGREDIENT SPAN:  season with cumin
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN: dutch oven 
+
+
+SENTID: 3
+SENT: I would bring to a boil .
+PREDID: 143
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat to low , cover , and simmer for 5 minutes .
+PREDID: 156
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 181
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would stir in cream , the cheese , the corn , the chilies , and hot pepper sauce .
+PREDID: 199
+PRED: stir
+   DOBJ: NULL
+   PARG: cream , the cheese , the corn , the chilies , hot pepper sauce
+     PREP: in
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: halfandhalf cream
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: hot pepper sauce
+      NON-INGREDIENT SPAN:  the chilies 
+
+
+SENTID: 6
+SENT: I would cook , stirring frequently , until the cheese is melted .
+PREDID: 249
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently , until the cheese is melted
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  until the cheese is melted
+
+
+SENTID: 7
+SENT: I would stir in chopped tomato .
+PREDID: 296
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped tomato
+     PREP: in
+      INGREDIENT SPAN: chopped tomato
+         INGREDIENTS: tomato chopped
+
+
+SENTID: 8
+SENT: I would garnish with cilantro .
+PREDID: 316
+PRED: garnish
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: fresh cilantro sprigs garnish
+
+

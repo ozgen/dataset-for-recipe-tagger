@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13-inch baking dish .
+PREDID: 47
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would mix the ground beef , ground turkey , the zucchini , the onions , green bell pepper , the egg , Worcestershire sauce , Cheddar cheese , bread crumbs , and ranch dressing mix until well combined .
+PREDID: 74
+PRED: mix
+   DOBJ: the ground beef , ground turkey , the zucchini , the onions , green bell pepper , the egg , Worcestershire sauce , Cheddar cheese , bread crumbs , ranch
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: ounce package ranch dressing mix
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: diced onions
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: shredded zucchini
+      INGREDIENT SPAN:  ground turkey 
+         INGREDIENTS: ground turkey
+   OARG: dressing mix until well combined
+      NON-INGREDIENT SPAN: dressing mix until well combined
+
+
+SENTID: 3
+SENT: I would form the mixture into a loaf in the middle of the prepared baking dish .
+PREDID: 223
+PRED: form
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a loaf in the middle of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf in the middle of the prepared baking dish
+
+
+SENTID: 4
+SENT: I would stir together the ketchup and steak sauce in a small bowl .
+PREDID: 281
+PRED: stir
+   DOBJ: the ketchup, steak sauce in a small bowl
+      INGREDIENT SPAN: the ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  steak sauce in a small bowl
+         INGREDIENTS: steak sauce
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour the sauce over the top of the meatloaf .
+PREDID: 329
+PRED: pour
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: the top of the meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the meatloaf
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 365
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together cornmeal , the sugar , the flour , lemon juice , the vanilla and margarine .
+PREDID: 52
+PRED: mix
+   DOBJ: cornmeal , the sugar , the flour , lemon juice , the vanilla, margarine
+      INGREDIENT SPAN: cornmeal 
+         INGREDIENTS: cornmeal
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine melted
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would mix in eggs until well blended .
+PREDID: 115
+PRED: mix
+   DOBJ: NULL
+   PARG: eggs
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 3
+SENT: I would stir in coconut and pecans .
+PREDID: 141
+PRED: stir
+   DOBJ: NULL
+   PARG: coconut, pecans
+     PREP: in
+      INGREDIENT SPAN: coconut
+         INGREDIENTS: flaked coconut
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: I would then pour mixture into pie crust .
+PREDID: 168
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch unbaked pie crust
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 50 to 55 minutes .
+PREDID: 192
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50 to 55 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 50 to 55 minutes
+
+
+SENTID: 6
+SENT: I would be sure to cover pie with foil .
+
+SENTID: 7
+SENT: I would take off foil when there are 10 to 15 minutes left of bake time .
+PREDID: 228
+PRED: take
+   DOBJ: NULL
+   PARG: foil when there are 10 to 15 minutes left of bake time
+     PREP: for
+      NON-INGREDIENT SPAN: foil when there are 10 to 15 minutes left of bake time
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 8
+SENT: Pie will be somewhat `` shaky '' when removed from oven , but will firm up as it cools .
+

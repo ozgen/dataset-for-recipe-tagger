@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9x13-inch baking pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 9x13-inch baking pan
+      NON-INGREDIENT SPAN: a 9x13-inch baking pan
+
+
+SENTID: 2
+SENT: I would whisk vegetable oil , white sugar , the eggs , and 1 teaspoon vanilla extract together in a bowl until smooth .
+PREDID: 72
+PRED: whisk
+   DOBJ: vegetable oil , white sugar , the eggs , 1 teaspoon vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  1 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+
+PREDID: 128
+PRED: extract
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would combine flour , the cinnamon , baking soda , and salt in a separate bowl .
+PREDID: 159
+PRED: combine
+   DOBJ: flour , the cinnamon , baking soda , salt in a separate bowl
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  salt in a separate bowl
+         INGREDIENTS: salt
+
+
+SENTID: 4
+SENT: I would stir oil mixture into flour mixture until a well-mixed batter forms .
+PREDID: 215
+PRED: stir
+   DOBJ: oil mixture
+      NON-INGREDIENT SPAN: oil mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: a well-mixed batter forms
+     PREP: until
+      NON-INGREDIENT SPAN: a well-mixed batter forms
+
+
+SENTID: 5
+SENT: I would fold carrots , the pineapple , the coconut , and walnuts into batter ;
+PREDID: 273
+PRED: fold
+   DOBJ: carrots , the pineapple , the coconut , walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: shredded coconut
+   PARG: batter
+     PREP: into
+      NON-INGREDIENT SPAN: batter
+
+
+SENTID: 6
+SENT: I would pour into prepared baking pan .
+PREDID: 324
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking pan
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until a toothpick inserted in the center comes out clean , about 1 hour ;
+PREDID: 350
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the center comes out clean , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: a toothpick inserted in the center comes out clean 
+
+
+SENTID: 8
+SENT: I would cool completely , about 1 hour .
+PREDID: 431
+PRED: cool
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: about
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 9
+SENT: I would whisk confectioners ' sugar , cream cheese , the butter , and a dash vanilla extract together in a bowl until well blended ;
+PREDID: 457
+PRED: whisk
+   DOBJ: confectioners ' sugar , cream cheese , the butter
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+      INGREDIENT SPAN: confectioners ' sugar 
+         INGREDIENTS: confectioners sugar
+   OARG: a dash vanilla extract together in a bowl until well blended
+      INGREDIENT SPAN: a dash vanilla extract together in a bowl until well blended
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 10
+SENT: I would spread over cooled cake .
+PREDID: 555
+PRED: spread
+   DOBJ: NULL
+   PARG: cooled cake
+     PREP: over
+      NON-INGREDIENT SPAN: cooled cake
+
+

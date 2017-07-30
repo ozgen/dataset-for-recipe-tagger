@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lay a 24-inch long sheet of parchment paper down on a work surface .
+PREDID: 38
+PRED: lay
+   DOBJ: a 24-inch long sheet of parchment paper down
+      NON-INGREDIENT SPAN: a 24-inch long sheet of parchment paper down
+   PARG: a work surface
+     PREP: on
+      NON-INGREDIENT SPAN: a work surface
+
+
+SENTID: 2
+SENT: I would mix together the ground beef , bread crumbs , onion soup mix , barbecue sauce , the garlic , the egg , the flour , and black pepper in a bowl until well combined .
+PREDID: 93
+PRED: mix
+   DOBJ: the ground beef , bread crumbs , onion soup mix , barbecue sauce , the garlic , the egg , the flour , black pepper in a bowl
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  barbecue sauce 
+         INGREDIENTS: barbecue sauce
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would place the meat mixture down on the piece of parchment paper , and pat it into a rectangle shape about 10x16 inches .
+PREDID: 213
+PRED: place
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the piece of parchment paper
+     PREP: on
+      NON-INGREDIENT SPAN: the piece of parchment paper
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 266
+PRED: pat
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a rectangle shape about 10x16 inches
+     PREP: into
+      NON-INGREDIENT SPAN: a rectangle shape about 10x16 inches
+
+
+SENTID: 4
+SENT: I would lay deli ham slices down on the meat , keeping a 1-inch margin around all sides of the rectangle .
+PREDID: 307
+PRED: lay
+   DOBJ: deli ham slices
+      INGREDIENT SPAN: deli ham slices
+         INGREDIENTS: thin slices deli ham needed
+   PARG: the meat
+     PREP: on
+      NON-INGREDIENT SPAN: the meat
+   OARG: down
+      NON-INGREDIENT SPAN: down
+   OARG: keeping a 1-inch margin around all sides of the rectangle
+      NON-INGREDIENT SPAN: keeping a 1-inch margin around all sides of the rectangle
+
+
+SENTID: 5
+SENT: I would sprinkle Swiss cheese over the ham .
+PREDID: 386
+PRED: sprinkle
+   DOBJ: Swiss cheese
+      INGREDIENT SPAN: Swiss cheese
+         INGREDIENTS: shredded Swiss cheese needed
+   PARG: the ham
+     PREP: over
+      NON-INGREDIENT SPAN: the ham
+
+
+SENTID: 6
+SENT: I would carefully lift up the short edge of the meat square with the parchment paper , and gently nudge and roll up the meat .
+PREDID: 425
+PRED: lift
+   DOBJ: the short edge of the meat square
+      NON-INGREDIENT SPAN: the short edge of the meat square
+   PARG: the parchment paper
+     PREP: with
+      NON-INGREDIENT SPAN: the parchment paper
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 489
+PRED: nudge and roll
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 7
+SENT: I would seal the edges and ends well .
+PREDID: 511
+PRED: seal
+   DOBJ: the edges, ends
+      NON-INGREDIENT SPAN: the edges
+      NON-INGREDIENT SPAN:  ends
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would place the meat roll into a 9x13-inch baking dish .
+PREDID: 535
+PRED: place
+   DOBJ: the meat roll
+      NON-INGREDIENT SPAN: the meat roll
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven for 45 minutes .
+PREDID: 576
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 minutes
+
+
+SENTID: 10
+SENT: While the roll is cooking , I would mix together ketchup , the mustard , brown sugar , and soy sauce , stirring until sugar has dissolved .
+PREDID: 633
+PRED: mix
+   DOBJ: ketchup , the mustard , brown sugar , soy sauce
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+   PARG: the roll is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the roll is cooking
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: stirring until sugar has dissolved
+      NON-INGREDIENT SPAN: stirring until sugar has dissolved
+
+
+SENTID: 11
+SENT: I would remove the roll from the oven , and spread the ketchup mixture over the roll .
+PREDID: 714
+PRED: remove
+   DOBJ: the roll
+      NON-INGREDIENT SPAN: the roll
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 742
+PRED: spread
+   DOBJ: the ketchup mixture
+      NON-INGREDIENT SPAN: the ketchup mixture
+   PARG: the roll
+     PREP: over
+      NON-INGREDIENT SPAN: the roll
+
+
+SENTID: 12
+SENT: I would return to the oven for 15 more minutes .
+PREDID: 777
+PRED: return
+   DOBJ: NULL
+   PARG: the oven for 15 more minutes
+     PREP: to
+      NON-INGREDIENT SPAN: the oven for 15 more minutes
+
+

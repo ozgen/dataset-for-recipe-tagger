@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would heat the oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: cooking oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir the green bell peppers , the onion , and garlic in the hot oil until soft , 5 to 7 minutes .
+PREDID: 36
+PRED: cook and stir
+   DOBJ: the green bell peppers , the onion , garlic in the hot oil
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  garlic in the hot oil
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: the green bell peppers 
+         INGREDIENTS: large green bell pepper chopped
+   PARG: soft , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: soft 
+
+
+SENTID: 2
+SENT: I would add the sirloin roast to the pepper mixture and continue the cooking until the beef is completely browned , 25 to 30 minutes .
+PREDID: 115
+PRED: add
+   DOBJ: the sirloin roast
+      INGREDIENT SPAN: the sirloin roast
+         INGREDIENTS: sirloin roast cut 1/2inch cubes
+   PARG: the pepper mixture
+     PREP: to
+      INGREDIENT SPAN: the pepper mixture
+         INGREDIENTS: ground black pepper
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+
+PREDID: 154
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: the beef is completely browned
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is completely browned
+
+
+SENTID: 3
+SENT: I would stir the chili beans , diced tomatoes , tomato sauce , the water , chili powder , the cumin , the nutmeg , the salt , black pepper , lime juice , and Worcestershire sauce into the pot ;
+PREDID: 215
+PRED: stir
+   DOBJ: the chili beans , diced tomatoes , tomato sauce , the water , chili powder , the cumin , the nutmeg , the salt , black pepper , lime juice , Worcestershire sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the chili beans 
+         INGREDIENTS: ounce chili beans
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: drops Worcestershire sauce
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: mild chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg more taste
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  black pepper 
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would reduce heat to medium-low and cook 3 to 5 hours .
+PREDID: 350
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 375
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 to 5 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 5 hours
+
+
+SENTID: 5
+SENT: I would remove from heat and allow to cool slightly before chilling in refrigerator overnight .
+PREDID: 389
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 406
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool slightly before chilling in refrigerator overnight
+      NON-INGREDIENT SPAN: to cool slightly before chilling in refrigerator overnight
+
+
+SENTID: 6
+SENT: Before serving , I would return pot to stove over medium-low heat ;
+PREDID: 477
+PRED: return
+   DOBJ: pot
+      NON-INGREDIENT SPAN: pot
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: stove over medium-low heat
+     PREP: to
+      NON-INGREDIENT SPAN: stove over medium-low heat
+
+
+SENTID: 7
+SENT: I would cook another 3 to 4 hours .
+PREDID: 512
+PRED: cook
+   DOBJ: NULL
+   PARG: another 3 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: another 3 to 4 hours
+
+

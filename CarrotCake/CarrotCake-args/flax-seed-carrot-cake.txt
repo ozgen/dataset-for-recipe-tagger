@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly oil a 9x5 inch loaf pan with vegetable cooking spray .
+PREDID: 38
+PRED: lightly
+   DOBJ: oil a 9x5 inch loaf pan with vegetable cooking spray
+      NON-INGREDIENT SPAN: oil a 9x5 inch loaf pan with vegetable cooking spray
+
+
+SENTID: 2
+SENT: I would whisk together the egg whites , the sugar , the milk , the applesauce , the vanilla , and almond extract in a small bowl ;
+PREDID: 89
+PRED: whisk
+   DOBJ: the egg whites , the sugar , the milk , the applesauce , the vanilla , almond extract in a small bowl
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: nonfat milk
+      INGREDIENT SPAN:  almond extract in a small bowl
+         INGREDIENTS: almond extract
+      INGREDIENT SPAN: the egg whites 
+         INGREDIENTS: egg whites
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix until well blended .
+PREDID: 174
+PRED: mix
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 4
+SENT: In a large bowl , I would sift together the flour , whole wheat flour , flax seed , the cinnamon , the nutmeg , the cloves , and baking soda .
+PREDID: 207
+PRED: sift
+   DOBJ: the flour , whole wheat flour , flax seed , the cinnamon , the nutmeg , the cloves , baking soda
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  flax seed 
+         INGREDIENTS: ground flax seed
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  whole wheat flour 
+         INGREDIENTS: whole wheat flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would mix the egg into the flour ;
+PREDID: 290
+PRED: mix
+   DOBJ: the egg
+      NON-INGREDIENT SPAN: the egg
+   PARG: the flour
+     PREP: into
+      NON-INGREDIENT SPAN: the flour
+
+
+SENTID: 6
+SENT: I would stir until well blended .
+PREDID: 312
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 7
+SENT: I would fold in the walnuts , the raisins , the carrot , and drained pineapple .
+PREDID: 333
+PRED: fold
+   DOBJ: NULL
+   PARG: the walnuts , the raisins , the carrot , drained pineapple
+     PREP: in
+      INGREDIENT SPAN: the walnuts 
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  drained pineapple
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: grated carrot
+
+
+SENTID: 8
+SENT: I would pour batter into the prepared pan .
+PREDID: 385
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 9
+SENT: Bake in preheated oven until a toothpick inserted into the center comes out clean -LRB- but not necessarily dry -RRB- , about 40 minutes .
+
+SENTID: 10
+SENT: I would set aside to cool for 10 to 20 minutes before refrigerating overnight .
+PREDID: 414
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool for 10 to 20 minutes before refrigerating overnight
+      NON-INGREDIENT SPAN: to cool for 10 to 20 minutes before refrigerating overnight
+
+

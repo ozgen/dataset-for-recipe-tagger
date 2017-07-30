@@ -1,0 +1,244 @@
+SENTID: 0
+SENT: I would melt butter in a small saucepan over medium-low heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a small saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium-low heat
+
+
+SENTID: 1
+SENT: I would stir flour , the salt , and pepper into melted butter until flour is dissolved .
+PREDID: 45
+PRED: stir
+   DOBJ: flour , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  pepper
+   PARG: melted butter
+     PREP: into
+      NON-INGREDIENT SPAN: melted butter
+   PARG: flour is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: flour is dissolved
+
+
+SENTID: 2
+SENT: I would slowly whisk milk into butter-flour mixture until a thick white sauce forms , 2 to 4 minutes .
+PREDID: 113
+PRED: whisk
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: warm milk
+   PARG: butter-flour mixture until a thick white sauce forms , 2 to 4 minutes
+     PREP: into
+      INGREDIENT SPAN: butter-flour mixture until a thick white sauce forms 
+         INGREDIENTS: ounce jars spaghetti sauce
+      NON-INGREDIENT SPAN:  2 to 4 minutes
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 3
+SENT: I would remove saucepan from heat .
+PREDID: 184
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 207
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 5
+SENT: I would cook and stir beef in the hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 244
+PRED: cook and stir
+   DOBJ: beef in the hot skillet
+      INGREDIENT SPAN: beef in the hot skillet
+         INGREDIENTS: lean ground beef
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 6
+SENT: I would drain and discard grease .
+PREDID: 309
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 7
+SENT: I would add spaghetti sauce and nutmeg to ground beef ;
+PREDID: 331
+PRED: add
+   DOBJ: spaghetti sauce, nutmeg
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg taste
+      NON-INGREDIENT SPAN: spaghetti sauce
+   PARG: ground beef
+     PREP: to
+      NON-INGREDIENT SPAN: ground beef
+
+
+SENTID: 8
+SENT: I would cook until spaghetti sauce is heated through , about 5 minutes .
+PREDID: 370
+PRED: cook
+   DOBJ: NULL
+   PARG: spaghetti sauce is heated through , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: spaghetti sauce is heated through 
+
+
+SENTID: 9
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 423
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 10
+SENT: I would spread a layer of meat sauce into the bottom of a 9x13-inch baking dish .
+PREDID: 461
+PRED: spread
+   DOBJ: a layer of meat sauce
+      NON-INGREDIENT SPAN: a layer of meat sauce
+   PARG: the bottom of a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch baking dish
+
+
+SENTID: 11
+SENT: I would cover meat sauce layer with a layer of lasagna noodles ;
+PREDID: 520
+PRED: cover
+   DOBJ: meat sauce layer with a layer of lasagna noodles
+      INGREDIENT SPAN: meat sauce layer with a layer of lasagna noodles
+         INGREDIENTS: ounce package noboil lasagna noodles
+
+
+SENTID: 12
+SENT: I would top with 1/3 the white sauce , 1/2 the remaining meat sauce , 1/3 the Mexican cheese blend , and 1/3 the Parmesan cheese , respectively .
+PREDID: 566
+PRED: top
+   DOBJ: NULL
+   PARG: 1/3 the white sauce , 1/2 the remaining meat sauce , 1/3 the mexican cheese blend , 1/3 the parmesan cheese , respectively
+     PREP: with
+      INGREDIENT SPAN:  1/3 the mexican cheese blend 
+         INGREDIENTS: ounce package shredded Mexican cheese blend
+      INGREDIENT SPAN:  1/3 the parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  1/2 the remaining meat sauce 
+      NON-INGREDIENT SPAN:  respectively
+      NON-INGREDIENT SPAN: 1/3 the white sauce 
+
+
+SENTID: 13
+SENT: I would repeat 1 more layer of each ingredient ;
+PREDID: 677
+PRED: repeat
+   DOBJ: 1 more layer of each ingredient
+      NON-INGREDIENT SPAN: 1 more layer of each ingredient
+
+
+SENTID: 14
+SENT: I would top with 1 more layer lasagna noodles , remaining white sauce , Mexican cheese blend , and Parmesan cheese .
+PREDID: 710
+PRED: top
+   DOBJ: NULL
+   PARG: 1 more layer lasagna noodles , remaining white sauce , mexican cheese blend , parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  mexican cheese blend 
+         INGREDIENTS: ounce package shredded Mexican cheese blend
+      NON-INGREDIENT SPAN: 1 more layer lasagna noodles 
+      NON-INGREDIENT SPAN:  remaining white sauce 
+
+
+SENTID: 15
+SENT: I would pour water around the edges of the dish .
+PREDID: 799
+PRED: pour
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: the edges of the dish
+     PREP: around
+      NON-INGREDIENT SPAN: the edges of the dish
+
+
+SENTID: 16
+SENT: I would cover dish with aluminum foil .
+PREDID: 832
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 17
+SENT: I would bake in the preheated oven for 45 minutes .
+PREDID: 858
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 minutes
+
+
+SENTID: 18
+SENT: I would remove aluminum foil and continue the baking until cheeses are melted , about 10 more minutes .
+PREDID: 893
+PRED: remove
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 914
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: cheeses are melted , about 10 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 more minutes
+      NON-INGREDIENT SPAN: cheeses are melted 
+
+
+SENTID: 19
+SENT: I would let lasagna stand 10 minutes before serving .
+PREDID: 969
+PRED: let
+   DOBJ: lasagna stand
+      NON-INGREDIENT SPAN: lasagna stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

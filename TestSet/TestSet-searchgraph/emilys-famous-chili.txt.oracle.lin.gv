@@ -1,0 +1,99 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="return
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir in
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir in
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cook
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="season
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir in
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="puree
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="combine
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="shake
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="pour
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="stir in
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="simmer
+15", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: lean ground beef", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a large pot over medium-high heat", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: until brown", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCATION:to pot", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_ing[label="COOBJECT: bell red bell peppers and", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+O3_0_0[label="OTHER: onions", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: jalapenos", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: until tender", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: garlic", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+O6_0_0[label="OTHER: 1 minute more", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: with ground black pepper", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_ing[label="COOBJECT: the tomato paste", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+P8_1_ing[label="COOBJECT: kidney kidney beans liquid", shape=box, style=filled, fillcolor=peachpuff]
+P8_1_ing -> E8
+D9_ing[label="DOBJ: Italianstyle stewed tomatoes", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="LOCATION:in a food processor or blender"]
+P9_1_ing[label="COOBJECT: with chipotle peppers adobo sauce", shape=box, style=filled, fillcolor=peachpuff]
+P9_1_ing -> E9
+O9_0_0[label="OTHER: until smooth", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="LOCATION:into the pot", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+P10_1_ing[label="COOBJECT: with water", shape=box, style=filled, fillcolor=peachpuff]
+P10_1_ing -> E10
+D11_ing[label="DOBJ: water", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+P11_0_ing[label="COOBJECT: with allpurpose flour", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E10 -> E11 [label="LOCATION:in a jar"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+O12_0_0[label="OTHER: to combine", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_ing[label="COOBJECT: into chili powder", shape=box, style=filled, fillcolor=peachpuff]
+P13_0_ing -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_ing[label="COOBJECT: the rice vinegar", shape=box, style=filled, fillcolor=peachpuff]
+P14_0_ing -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+O15_0_0[label="OTHER: about 45 minutes before serving", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

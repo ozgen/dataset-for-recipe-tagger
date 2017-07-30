@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would stir the soup , the water , chili powder , brown sugar , the cumin and cinnamon in a 6-quart slow cooker .
+PREDID: 0
+PRED: stir
+   DOBJ: the soup , the water , chili powder , brown sugar , the cumin, cinnamon
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce Campbell Condensed French Onion Soup
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+   PARG: a 6-quart slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a 6-quart slow cooker
+
+
+SENTID: 1
+SENT: I would add the pork and turn to coat .
+PREDID: 78
+PRED: add
+   DOBJ: the pork
+      INGREDIENT SPAN: the pork
+         INGREDIENTS: pound boneless pork shoulder roast
+
+PREDID: 91
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would cover and cook on LOW for 8 to 9 hours or until the pork is fork-tender .
+PREDID: 102
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low for 8 to 9 hours or until the pork is fork-tender
+     PREP: on
+      NON-INGREDIENT SPAN: low for 8 to 9 hours or until the pork is fork-tender
+
+
+SENTID: 3
+SENT: I would remove the pork to a cutting board .
+PREDID: 159
+PRED: remove
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+
+SENTID: 4
+SENT: Using 2 forks , I would shred the pork .
+PREDID: 200
+PRED: shred
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   OARG: using 2 forks
+      NON-INGREDIENT SPAN: using 2 forks
+
+
+SENTID: 5
+SENT: I would add the chocolate to the cooker and stir until melted .
+PREDID: 213
+PRED: add
+   DOBJ: the chocolate
+      INGREDIENT SPAN: the chocolate
+         INGREDIENTS: semisweet chocolate
+   PARG: the cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the cooker
+
+PREDID: 242
+PRED: stir
+   DOBJ: NULL
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 6
+SENT: I would return the pork to the cooker .
+PREDID: 258
+PRED: return
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: the cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the cooker
+
+
+SENTID: 7
+SENT: I would place about 1/2 cup pork mixture onto half of each tortilla .
+PREDID: 283
+PRED: place
+   DOBJ: about 1/2 cup pork mixture
+      NON-INGREDIENT SPAN: about 1/2 cup pork mixture
+   PARG: half of each tortilla
+     PREP: onto
+      INGREDIENT SPAN: half of each tortilla
+         INGREDIENTS: inch flour tortillas warmed
+
+
+SENTID: 8
+SENT: I would top with the tomatoes and cilantro .
+PREDID: 333
+PRED: top
+   DOBJ: NULL
+   PARG: the tomatoes, cilantro
+     PREP: with
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: plum tomatoes seeded chopped
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro leaves
+
+
+SENTID: 9
+SENT: I would fold the tortillas over the filling .
+PREDID: 363
+PRED: fold
+   DOBJ: the tortillas
+      NON-INGREDIENT SPAN: the tortillas
+   PARG: the filling
+     PREP: over
+      NON-INGREDIENT SPAN: the filling
+
+

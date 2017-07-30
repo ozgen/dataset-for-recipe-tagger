@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would mix soup , the milk , the peas , the pimiento , the tuna and noodles in 1?1/2 - quart baking dish .
+PREDID: 25
+PRED: mix
+   DOBJ: soup , the milk , the peas , the pimiento , the tuna, noodles
+      INGREDIENT SPAN: soup 
+         INGREDIENTS: Condensed % Fat Free Cream Celery Soup, ounce Campbell Condensed Cream Celery Soup Campbell
+      INGREDIENT SPAN: soup 
+         INGREDIENTS: Condensed % Fat Free Cream Celery Soup, ounce Campbell Condensed Cream Celery Soup Campbell
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: cooked peas
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  noodles
+         INGREDIENTS: hot cooked medium egg noodles
+      INGREDIENT SPAN:  the tuna
+         INGREDIENTS: ounce tuna drained flaked
+      NON-INGREDIENT SPAN:  the pimiento 
+   PARG: 1?1/2
+     PREP: in
+      NON-INGREDIENT SPAN: 1?1/2
+   OARG: quart baking dish
+      NON-INGREDIENT SPAN: quart baking dish
+
+
+SENTID: 2
+SENT: I would bake for 20 minutes .
+PREDID: 90
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 3
+SENT: I would mix bread crumbs with butter .
+PREDID: 107
+PRED: mix
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: butter
+     PREP: with
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter margarine melted
+
+
+SENTID: 4
+SENT: I would sprinkle on top .
+PREDID: 132
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 5
+SENT: I would bake 5 minutes or until hot .
+PREDID: 146
+PRED: bake
+   DOBJ: NULL
+   PARG: 5 minutes or until hot
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes or until hot
+
+

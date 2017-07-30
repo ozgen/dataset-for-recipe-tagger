@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs peeled
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 1
+SENT: I would remove yolks ;
+PREDID: 26
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 2
+SENT: I would place in small bowl .
+PREDID: 38
+PRED: place
+   DOBJ: NULL
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+
+
+SENTID: 3
+SENT: I would mash yolks with fork or potato masher .
+PREDID: 55
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: fork or potato masher
+     PREP: with
+      NON-INGREDIENT SPAN: fork or potato masher
+
+
+SENTID: 4
+SENT: I would stir in mayonnaise , the mustard , the parsley and seasoned salt until smooth and creamy .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , the mustard , the parsley, seasoned salt
+     PREP: in
+      INGREDIENT SPAN:  seasoned salt
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: McCormick Ground Mustard
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: McCormick Parsley Flakes
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: smooth, creamy
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  creamy
+
+
+SENTID: 5
+SENT: I would spoon or pipe yolk mixture into egg white halves .
+PREDID: 155
+PRED: spoon or pipe
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg white halves
+
+
+SENTID: 6
+SENT: I would sprinkle with paprika .
+PREDID: 196
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: McCormick Paprika
+
+
+SENTID: 7
+SENT: I would refrigerate 1 hour or until ready to serve .
+PREDID: 216
+PRED: refrigerate
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: until ready
+     PREP: or
+      NON-INGREDIENT SPAN: until ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: In a saucepan , I would combine the vinegar and sugar ;
+PREDID: 12
+PRED: combine
+   DOBJ: the vinegar, sugar
+      INGREDIENT SPAN: the vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would cook over medium heat until sugar is dissolved .
+PREDID: 38
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      INGREDIENT SPAN: medium heat
+         INGREDIENTS: medium head cabbage chopped
+   PARG: sugar is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar is dissolved
+
+
+SENTID: 2
+SENT: I would remove from heat and refrigerate until chilled .
+PREDID: 78
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, refrigerate
+     PREP: from
+      NON-INGREDIENT SPAN:  refrigerate
+      NON-INGREDIENT SPAN: heat
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine cabbage , the lettuce , bell pepper , the onion , the tomatoes , the ketchup , cayenne pepper and hot sauce .
+PREDID: 132
+PRED: combine
+   DOBJ: cabbage , the lettuce , bell pepper , the onion , the tomatoes , the ketchup , cayenne pepper, hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  the lettuce 
+         INGREDIENTS: head iceberg lettuce rinsed dried chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: tomatoes chopped
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ounce bottle ketchup
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: ground cayenne pepper
+      NON-INGREDIENT SPAN: cabbage 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would mix and pour cooled vinegar and sugar mixture over slaw .
+PREDID: 214
+PRED: mix and pour
+   DOBJ: cooled vinegar, sugar mixture over slaw
+      NON-INGREDIENT SPAN:  sugar mixture over slaw
+      NON-INGREDIENT SPAN: cooled vinegar
+
+
+SENTID: 5
+SENT: I would toss and serve chilled .
+PREDID: 261
+PRED: toss and serve
+   DOBJ: chilled
+      NON-INGREDIENT SPAN: chilled
+
+

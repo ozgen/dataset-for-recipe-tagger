@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the onion , red pepper , the cabbage and carrot .
+PREDID: 13
+PRED: combine
+   DOBJ: the onion , red pepper , the cabbage, carrot
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: large carrot shredded
+      INGREDIENT SPAN:  the cabbage
+         INGREDIENTS: shredded cabbage
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would add raisins and toss well .
+PREDID: 56
+PRED: add
+   DOBJ: raisins
+      INGREDIENT SPAN: raisins
+         INGREDIENTS: raisins
+
+PREDID: 69
+PRED: toss
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: In a small bowl , I would whisk the mayonnaise , sour cream , the mustard and vinegar together .
+PREDID: 91
+PRED: whisk
+   DOBJ: the mayonnaise , sour cream , the mustard, vinegar
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: Dijonstyle prepared mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white wine vinegar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pour the dressing over vegetable mixture and refrigerate for at least 2 hours before serving .
+PREDID: 146
+PRED: pour
+   DOBJ: NULL
+   PARG: the dressing over vegetable mixture, refrigerate for at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: the dressing over vegetable mixture
+      NON-INGREDIENT SPAN:  refrigerate for at least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

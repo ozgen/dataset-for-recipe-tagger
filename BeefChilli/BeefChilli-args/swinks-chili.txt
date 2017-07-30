@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook beef and onion until beef is brown .
+PREDID: 30
+PRED: cook
+   DOBJ: beef, onion
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: beef is brown
+     PREP: until
+      NON-INGREDIENT SPAN: beef is brown
+
+
+SENTID: 1
+SENT: I would stir in chili seasoning and water .
+PREDID: 63
+PRED: stir
+   DOBJ: NULL
+   PARG: chili seasoning, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: chili seasoning
+         INGREDIENTS: ounce package chili seasoning mix
+
+
+SENTID: 2
+SENT: I would pour beef mixture into a slow cooker and stir in tomato paste , chili beans , baked beans , tomato soup and diced tomatoes with green chiles .
+PREDID: 92
+PRED: pour
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 125
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste , chili beans , baked beans , tomato soup, diced tomatoes
+     PREP: in
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans undrained
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes green chile peppers
+      INGREDIENT SPAN:  tomato soup
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN:  baked beans 
+         INGREDIENTS: ounce baked beans
+      INGREDIENT SPAN: tomato paste 
+         INGREDIENTS: ounce tomato paste
+   PARG: green chiles
+     PREP: with
+      NON-INGREDIENT SPAN: green chiles
+
+
+SENTID: 3
+SENT: I would cook on low 2 hours .
+PREDID: 207
+PRED: cook
+   DOBJ: NULL
+   PARG: low 2 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low 2 hours
+
+

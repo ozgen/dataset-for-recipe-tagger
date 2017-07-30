@@ -1,0 +1,220 @@
+SENTID: 0
+SENT: In a small bowl , I would mix mild paprika , light brown sugar , hot paprika , celery salt , garlic salt , dry mustard , ground black pepper , onion powder , and salt .
+PREDID: 13
+PRED: mix
+   DOBJ: mild paprika , light brown sugar , hot paprika , celery salt , garlic salt , dry mustard , ground black pepper , onion powder , salt
+      INGREDIENT SPAN:  celery salt 
+         INGREDIENTS: celery salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  light brown sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN: mild paprika 
+         INGREDIENTS: mild paprika
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  ground black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  hot paprika 
+         INGREDIENTS: hot paprika
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 1
+SENT: I would rub spice mixture into the roast on all sides .
+PREDID: 126
+PRED: rub
+   DOBJ: spice mixture
+      NON-INGREDIENT SPAN: spice mixture
+   PARG: the roast on all sides
+     PREP: into
+      INGREDIENT SPAN: the roast on all sides
+         INGREDIENTS: pork butt roast
+
+
+SENTID: 2
+SENT: I would wrap in plastic wrap , and refrigerate 8 hours , or overnight .
+PREDID: 164
+PRED: wrap
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: in
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 185
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 8 hours , or overnight
+     PREP: for
+      NON-INGREDIENT SPAN:  or overnight
+      NON-INGREDIENT SPAN: 8 hours 
+
+
+SENTID: 3
+SENT: I would prepare a grill for indirect heat .
+PREDID: 215
+PRED: prepare
+   DOBJ: a grill for indirect heat
+      NON-INGREDIENT SPAN: a grill for indirect heat
+
+
+SENTID: 4
+SENT: I would sprinkle a handful of soaked wood over coals , or place in the smoker box of a gas grill .
+PREDID: 244
+PRED: sprinkle
+   DOBJ: a handful of soaked wood over coals , or place in the smoker box of a gas grill
+      INGREDIENT SPAN: a handful of soaked wood over coals 
+         INGREDIENTS: hickory wood chips soaked
+      NON-INGREDIENT SPAN:  or place in the smoker box of a gas grill
+
+
+SENTID: 5
+SENT: I would place pork butt roast on the grate over a drip pan .
+PREDID: 315
+PRED: place
+   DOBJ: pork butt roast on the grate over a drip pan
+      NON-INGREDIENT SPAN: pork butt roast on the grate over a drip pan
+
+
+SENTID: 6
+SENT: I would cover grill , and cook pork until pork is tender and shreds easily , about 6 hours .
+PREDID: 356
+PRED: cover
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: pork is tender, shreds easily , about 6 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 6 hours
+      NON-INGREDIENT SPAN: pork is tender
+      NON-INGREDIENT SPAN:  shreds easily 
+   OARG: grill
+      NON-INGREDIENT SPAN: grill
+
+
+SENTID: 7
+SENT: I would check hourly , adding fresh coals and hickory chips as necessary to maintain heat and smoke .
+PREDID: 423
+PRED: check
+   DOBJ: hourly
+      NON-INGREDIENT SPAN: hourly
+   OARG: adding fresh coals, hickory chips as necessary to maintain heat, smoke
+      NON-INGREDIENT SPAN:  hickory chips as necessary to maintain heat
+      NON-INGREDIENT SPAN:  smoke
+      NON-INGREDIENT SPAN: adding fresh coals
+
+
+SENTID: 8
+SENT: I would remove pork from heat and place on a cutting board .
+PREDID: 500
+PRED: remove
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: heat, place
+     PREP: from
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: heat
+   PARG: a cutting board
+     PREP: on
+      NON-INGREDIENT SPAN: a cutting board
+
+
+SENTID: 9
+SENT: I would allow the meat to cool approximately 15 minutes ,
+PREDID: 542
+PRED: allow
+   DOBJ: NULL
+   PARG: the meat to cool approximately 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the meat to cool approximately 15 minutes
+
+
+SENTID: 10
+SENT: I would shred into bite-sized pieces using two forks .
+PREDID: 583
+PRED: shred
+   DOBJ: NULL
+   PARG: bite-sized pieces using two forks
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces using two forks
+
+
+SENTID: 11
+SENT: This requires patience .
+
+SENTID: 12
+SENT: In a medium bowl , I would whisk together cider vinegar , the water , the ketchup , brown sugar , the salt , red pepper flakes , black pepper , and white pepper .
+PREDID: 636
+PRED: whisk
+   DOBJ: cider vinegar , the water , the ketchup , brown sugar , the salt , red pepper flakes , black pepper , white pepper
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN: cider vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground white pepper
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  white pepper
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 13
+SENT: I would continue the whisking until brown sugar and salt have dissolved .
+PREDID: 735
+PRED: continue
+   DOBJ: the whisking
+      NON-INGREDIENT SPAN: the whisking
+   PARG: brown sugar, salt have dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: brown sugar
+      NON-INGREDIENT SPAN:  salt have dissolved
+
+
+SENTID: 14
+SENT: I would place shredded pork and vinegar sauce in a large roasting pan , and stir to coat pork .
+PREDID: 787
+PRED: place
+   DOBJ: shredded pork, vinegar sauce in a large roasting pan
+      NON-INGREDIENT SPAN:  vinegar sauce in a large roasting pan
+      NON-INGREDIENT SPAN: shredded pork
+
+PREDID: 842
+PRED: stir
+   DOBJ: NULL
+   PARG: coat pork
+     PREP: to
+      NON-INGREDIENT SPAN: coat pork
+
+
+SENTID: 15
+SENT: I would serve immediately , or cover and keep warm on the grill for up to one hour until serving .
+PREDID: 857
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 876
+PRED: cover and keep
+   DOBJ: warm on the grill for up to one hour
+      NON-INGREDIENT SPAN: warm on the grill for up to one hour
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

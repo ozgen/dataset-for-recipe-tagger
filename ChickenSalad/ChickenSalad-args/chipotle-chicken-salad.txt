@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: I would combine the chicken , the mayonnaise , feta cheese , green onions , sour cream , and chipotle peppers in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the chicken , the mayonnaise , feta cheese , green onions , sour cream , chipotle peppers in a bowl
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  chipotle peppers in a bowl
+         INGREDIENTS: chipotle peppers adobo sauce minced
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: crumbled reducedfat feta cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: reducedfat sour cream
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cubed cooked chicken
+
+
+SENTID: 1
+SENT: I would season with garlic salt and pepper to taste ;
+PREDID: 88
+PRED: season
+   DOBJ: NULL
+   PARG: garlic salt, pepper
+     PREP: with
+      INGREDIENT SPAN: garlic salt
+         INGREDIENTS: garlic salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 2
+SENT: I would stir until evenly combined .
+PREDID: 125
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+

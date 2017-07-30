@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would stir cream of mushroom soup , sour cream , and Worcestershire sauce in bowl until well blended .
+PREDID: 38
+PRED: stir
+   DOBJ: cream of mushroom soup , sour cream , Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: bowl
+     PREP: in
+      NON-INGREDIENT SPAN: bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would pour half the soup mixture in a 9x13-inch baking dish .
+PREDID: 117
+PRED: pour
+   DOBJ: half the soup mixture
+      NON-INGREDIENT SPAN: half the soup mixture
+   PARG: a 9x13-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 3
+SENT: I would arrange chicken breast halves in baking dish and cover with remaining soup mixture .
+PREDID: 162
+PRED: arrange
+   DOBJ: chicken breast halves in baking dish
+      INGREDIENT SPAN: chicken breast halves in baking dish
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 203
+PRED: cover
+   DOBJ: NULL
+   PARG: remaining soup mixture
+     PREP: with
+      NON-INGREDIENT SPAN: remaining soup mixture
+
+
+SENTID: 4
+SENT: I would bake chicken in preheated oven until no longer pink in the center and the juices run clear , about 1 hour .
+PREDID: 233
+PRED: bake
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: no longer pink in the center, the juices run clear , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN:  the juices run clear 
+
+
+SENTID: 5
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 6
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 319
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 361
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 8
+SENT: I would drain .
+PREDID: 462
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would cut chicken into bite-size pieces and serve over egg noodles with mushroom sauce .
+PREDID: 468
+PRED: cut
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+PREDID: 500
+PRED: serve
+   DOBJ: egg noodles
+      NON-INGREDIENT SPAN: egg noodles
+   PARG: mushroom sauce
+     PREP: with
+      NON-INGREDIENT SPAN: mushroom sauce
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

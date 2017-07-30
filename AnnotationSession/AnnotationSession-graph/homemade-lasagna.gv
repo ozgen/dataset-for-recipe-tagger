@@ -1,0 +1,95 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="add (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain and set (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="place (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="cook (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="simmer (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="combine (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="place (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="layer (S10,P0)", shape=oval, style=filled, fillcolor=azure]
+E12[label="repeat (S11,P0)", shape=oval, style=filled, fillcolor=azure]
+E13[label="cover (S12,P0)", shape=oval, style=filled, fillcolor=azure]
+E14[label="bake (S12,P1)", shape=oval, style=filled, fillcolor=azure]
+E15[label="remove (S13,P0)", shape=oval, style=filled, fillcolor=azure]
+E16[label="let (S14,P0)", shape=oval, style=filled, fillcolor=azure]
+E17[label="serve (S15,P0)", shape=oval, style=filled, fillcolor=azure]
+D5[label="DOBJ: ground pork, lean ground beef
+(text: pork and beef)", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="PREP: in a large , deep skillet", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+D2[label="DOBJ: (16 ounce) package lasagna noodles
+(text: noodles)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D1[label="DOBJ: a large pot of lightly salted water", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: to a boil", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: for 8 to 10 minutes", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E5 -> E6 [label="OUTPUT: 
+INPUT: medium high heat"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in dried basil, white sugar, (28 ounce) can crushed tomatoes, clove garlic, dried oregano, salt, minced onion, (8 ounce) can tomato sauce, chopped fresh parsley
+(text: in  oregano ,  parsley , tomato sauce ,  basil,  sugar ,  onion , salt,  garlic ,  crushed tomatoes )", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E1 -> E8 [label="OUTPUT: 
+INPUT:  stirring occasionally"]
+E4 -> E8 [label="OUTPUT: 
+INPUT: medium-low heat for 30 minutes "]
+D9_ing[label="DOBJ: eggs, small curd cottage cheese, ground black pepper, grated Parmesan cheese
+(text: cottage cheese ,  eggs ,  Parmesan cheese , pepper)", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E7 -> E9 [label="OUTPUT: 
+INPUT:  salt"]
+D9_1[label="DOBJ:  parsley ", shape=box, style=filled, fillcolor=white]
+D9_1 -> E9
+P9_0_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E8 -> E10 [label="OUTPUT: 
+INPUT: 2 layers of noodles on the bottom of dish"]
+P10_0_0[label="PREP: in a 9x13 inch", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+D11_ing[label="DOBJ: shredded mozzarella cheese
+(text: 1/2 of the cheese mixture )", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E9 -> E11 [label="OUTPUT: 
+INPUT:  1/2 of the mozzarella cheese"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: 1/2 of the sauce"]
+E11 -> E12 [label="OUTPUT: 
+INPUT: layers"]
+E12 -> E13 [label="OUTPUT: 
+INPUT: "]
+P13_0_0[label="PREP: with aluminum foil", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+E13 -> E14 [label="OUTPUT: 
+INPUT: "]
+E0 -> E14 [label="OUTPUT: 
+INPUT: in preheated oven for 30 to 40 minutes"]
+E14 -> E15 [label="OUTPUT: 
+INPUT: foil"]
+D15_1[label="DOBJ: bake", shape=box, style=filled, fillcolor=white]
+D15_1 -> E15
+P15_0_0[label="PREP: for another 5 to 10 minutes", shape=box, style=filled, fillcolor=white]
+P15_0_0 -> E15
+E15 -> E16 [label="OUTPUT: 
+INPUT: stand for 10 minutes"]
+P16_0_0[label="PREP: before cutting", shape=box, style=filled, fillcolor=white]
+P16_0_0 -> E16
+E16 -> E17 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E17 -> EOR
+}

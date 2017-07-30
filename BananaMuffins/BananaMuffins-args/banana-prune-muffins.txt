@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a muffin pan , or use paper liners .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a muffin pan
+      NON-INGREDIENT SPAN: a muffin pan
+
+PREDID: 65
+PRED: use
+   DOBJ: paper liners
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine sugar , the oil and eggs .
+PREDID: 93
+PRED: combine
+   DOBJ: sugar , the oil, eggs
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: egg
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would beat until smooth .
+PREDID: 117
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would blend in banana and vanilla .
+PREDID: 133
+PRED: blend
+   DOBJ: NULL
+   PARG: banana, vanilla
+     PREP: in
+      INGREDIENT SPAN: banana
+         INGREDIENTS: mashed banana
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 5
+SENT: I would mix together flour , baking powder , baking soda , the salt and cinnamon ,
+PREDID: 157
+PRED: mix
+   DOBJ: flour , baking powder , baking soda , the salt, cinnamon
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would stir into egg mixture until just moistened .
+PREDID: 214
+PRED: stir
+   DOBJ: NULL
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: just moistened
+     PREP: until
+      NON-INGREDIENT SPAN: just moistened
+
+
+SENTID: 7
+SENT: I would mix in the prunes .
+PREDID: 251
+PRED: mix
+   DOBJ: NULL
+   PARG: the prunes
+     PREP: in
+      INGREDIENT SPAN: the prunes
+         INGREDIENTS: chopped pitted prunes
+
+
+SENTID: 8
+SENT: I would spoon into muffin cups .
+PREDID: 266
+PRED: spoon
+   DOBJ: NULL
+   PARG: muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: muffin cups
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven for 20 to 25 minutes , or until a toothpick inserted into the center of a muffin comes out clean .
+PREDID: 286
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 20 to 25 minutes , or until a toothpick inserted into the center of a muffin comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 20 to 25 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of a muffin comes out clean
+
+

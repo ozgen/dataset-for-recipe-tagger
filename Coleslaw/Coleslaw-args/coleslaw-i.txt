@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a large bowl , I would combine shredded cabbage and carrot .
+PREDID: 13
+PRED: combine
+   DOBJ: shredded cabbage, carrot
+      INGREDIENT SPAN: shredded cabbage
+         INGREDIENTS: medium head cabbage shredded
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: carrot shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a large empty mayonnaise jar , I would add the 2 cups mayonnaise , the vinegar , the sugar and dry onion flakes .
+PREDID: 72
+PRED: add
+   DOBJ: the 2 cups mayonnaise , the vinegar , the sugar, dry onion flakes
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  dry onion flakes
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN: the 2 cups mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+   PARG: a large empty mayonnaise jar
+     PREP: in
+      INGREDIENT SPAN: a large empty mayonnaise jar
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 2
+SENT: I would shake well until blended .
+PREDID: 125
+PRED: shake
+   DOBJ: NULL
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would pour the dressing mixture over cabbage and carrots and toss well .
+PREDID: 147
+PRED: pour
+   DOBJ: the dressing mixture
+      NON-INGREDIENT SPAN: the dressing mixture
+   PARG: cabbage, carrots
+     PREP: over
+      NON-INGREDIENT SPAN: cabbage
+      NON-INGREDIENT SPAN:  carrots
+
+PREDID: 193
+PRED: toss
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would chill and serve .
+PREDID: 199
+PRED: chill and serve
+   DOBJ: NULL
+
+

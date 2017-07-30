@@ -1,0 +1,175 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease a baking sheet .
+PREDID: 38
+PRED: grease
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would unroll pizza dough onto the prepared baking sheet .
+PREDID: 57
+PRED: unroll
+   DOBJ: pizza dough
+      INGREDIENT SPAN: pizza dough
+         INGREDIENTS: ounce container refrigerated pizza dough such Pillsbury
+   PARG: the prepared baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+
+SENTID: 3
+SENT: I would flatten into desired thickness .
+PREDID: 100
+PRED: flatten
+   DOBJ: NULL
+   PARG: desired thickness
+     PREP: into
+      NON-INGREDIENT SPAN: desired thickness
+
+
+SENTID: 4
+SENT: I would bake crust in the preheated oven until slightly cooked , 5 minutes .
+PREDID: 128
+PRED: bake
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: slightly cooked , 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 minutes
+      NON-INGREDIENT SPAN: slightly cooked 
+
+
+SENTID: 5
+SENT: I would heat olive oil in a skillet over medium heat ;
+PREDID: 184
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 6
+SENT: I would cook and stir garlic until fragrant and sizzling , 1 to 2 minutes .
+PREDID: 221
+PRED: cook and stir
+   DOBJ: garlic
+      NON-INGREDIENT SPAN: garlic
+   PARG: fragrant, sizzling , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+      NON-INGREDIENT SPAN:  sizzling 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 7
+SENT: I would add onion ;
+PREDID: 275
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large red onion sliced
+
+
+SENTID: 8
+SENT: I would cook and stir until tender , 10 to 15 minutes .
+PREDID: 284
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: tender , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 9
+SENT: I would remove from heat ;
+PREDID: 321
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 10
+SENT: I would season with salt and black pepper .
+PREDID: 336
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 11
+SENT: I would brush pizza crust with leftover oil and garlic from skillet .
+PREDID: 365
+PRED: brush
+   DOBJ: pizza crust
+      NON-INGREDIENT SPAN: pizza crust
+   PARG: leftover oil, garlic
+     PREP: with
+      NON-INGREDIENT SPAN: leftover oil
+      NON-INGREDIENT SPAN:  garlic
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+
+SENTID: 12
+SENT: I would distribute onion , sun-dried tomatoes , goat cheese , and provolone cheese onto pizza crust .
+PREDID: 416
+PRED: distribute
+   DOBJ: onion , sun-dried tomatoes , goat cheese , provolone cheese
+      INGREDIENT SPAN:  provolone cheese
+         INGREDIENTS: shredded provolone cheese
+      INGREDIENT SPAN:  sun-dried tomatoes 
+         INGREDIENTS: chopped sundried tomatoes
+      INGREDIENT SPAN:  goat cheese 
+         INGREDIENTS: crumbled goat cheese
+      NON-INGREDIENT SPAN: onion 
+   PARG: pizza crust
+     PREP: onto
+      NON-INGREDIENT SPAN: pizza crust
+
+
+SENTID: 13
+SENT: I would sprinkle with herbes de Provence .
+PREDID: 494
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: herbes de provence
+     PREP: with
+      NON-INGREDIENT SPAN: herbes de provence
+
+
+SENTID: 14
+SENT: I would bake pizza in the preheated oven until crust is lightly browned and cheese is melted , 10 to 15 minutes .
+PREDID: 523
+PRED: bake
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: the preheated oven until crust is lightly browned, cheese is melted , 10 to 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN:  cheese is melted 
+      NON-INGREDIENT SPAN: the preheated oven until crust is lightly browned
+
+

@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: In a medium saucepan over medium heat , I would cook beef until brown .
+PREDID: 32
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: a medium saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would stir in beans , the tomatoes , the onion and bell pepper ;
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: beans , the tomatoes , the onion, bell pepper
+     PREP: in
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes juice
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce chili beans undrained
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: chopped green bell pepper
+
+
+SENTID: 2
+SENT: I would reduce heat and simmer 30 minutes .
+PREDID: 91
+PRED: reduce
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   OARG: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+
+

@@ -1,0 +1,18 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="garnish
+2", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: cooking oil, vinegar, chopped onion, sliced celery, potatoes and, salt and ground black pepper to taste, chopped green bell pepper", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="DURATION:on low 5 to 6 hours", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: with slices bacon crumbled, chopped fresh parsley", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E2 -> EOR
+}

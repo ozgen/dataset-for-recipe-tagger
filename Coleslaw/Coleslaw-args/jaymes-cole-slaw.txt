@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the brown sugar , apple cider vinegar , the mayonnaise , and celery seed .
+PREDID: 13
+PRED: whisk
+   DOBJ: the brown sugar , apple cider vinegar , the mayonnaise , celery seed
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add cabbage and toss to coat .
+PREDID: 83
+PRED: add
+   DOBJ: cabbage
+      INGREDIENT SPAN: cabbage
+         INGREDIENTS: chopped cabbage
+
+PREDID: 96
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

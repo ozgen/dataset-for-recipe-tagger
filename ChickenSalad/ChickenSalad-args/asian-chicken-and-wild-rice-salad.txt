@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would mix soy sauce and sesame oil in a bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: soy sauce, sesame oil in a bowl
+      INGREDIENT SPAN:  sesame oil in a bowl
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: soy sauce
+         INGREDIENTS: soy sauce
+
+
+SENTID: 1
+SENT: I would rub mixture over chicken breasts .
+PREDID: 31
+PRED: rub
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: chicken breasts
+     PREP: over
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: boneless skinless chicken breasts
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 60
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would heat a large skillet over medium heat ;
+PREDID: 84
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 4
+SENT: I would cook marinated chicken in the hot skillet until no longer pink in the center and juices run clear , about 20 minutes .
+PREDID: 116
+PRED: cook
+   DOBJ: marinated chicken in the hot skillet
+      NON-INGREDIENT SPAN: marinated chicken in the hot skillet
+   PARG: no longer pink in the center, juices run clear , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  juices run clear 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 5
+SENT: I would dice chicken when cool enough to handle and transfer to a large bowl .
+PREDID: 212
+PRED: dice
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: when cool enough
+      NON-INGREDIENT SPAN: when cool enough
+   OARG: to handle, transfer to a large bowl
+      NON-INGREDIENT SPAN: to handle
+      NON-INGREDIENT SPAN:  transfer to a large bowl
+
+
+SENTID: 6
+SENT: I would combine water , long grain and wild rice mix , and butter in a saucepan ;
+PREDID: 269
+PRED: combine
+   DOBJ: water , long grain, wild rice mix , butter in a saucepan
+      INGREDIENT SPAN:  long grain
+         INGREDIENTS: ounce packages grain wild rice mix
+      INGREDIENT SPAN:  butter in a saucepan
+         INGREDIENTS: butter
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  wild rice mix 
+
+
+SENTID: 7
+SENT: I would bring to a boil .
+PREDID: 327
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would reduce heat , cover pan , and simmer until rice is tender and liquid is absorbed , about 25 minutes .
+PREDID: 340
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 351
+PRED: cover
+   DOBJ: pan
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 363
+PRED: simmer
+   DOBJ: NULL
+   PARG: rice is tender, liquid is absorbed , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: rice is tender
+      NON-INGREDIENT SPAN:  about 25 minutes
+      NON-INGREDIENT SPAN:  liquid is absorbed 
+
+
+SENTID: 9
+SENT: I would mix rice , mandarin oranges , water chestnuts , green onion , the celery , and almonds with diced chicken ;
+PREDID: 421
+PRED: mix
+   DOBJ: rice , mandarin oranges , water chestnuts , green onion , the celery , almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: chopped almonds
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  water chestnuts 
+         INGREDIENTS: ounce sliced water chestnuts drained
+      NON-INGREDIENT SPAN: rice 
+   PARG: diced chicken
+     PREP: with
+      NON-INGREDIENT SPAN: diced chicken
+
+
+SENTID: 10
+SENT: I would toss well .
+PREDID: 505
+PRED: toss
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 11
+SENT: I would chill mixture in refrigerator for at least 15 minutes .
+PREDID: 514
+PRED: chill
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: refrigerator for at least 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator for at least 15 minutes
+
+
+SENTID: 12
+SENT: I would line a large platter with lettuce leaves ;
+PREDID: 560
+PRED: line
+   DOBJ: a large platter
+      NON-INGREDIENT SPAN: a large platter
+   PARG: lettuce leaves
+     PREP: with
+      INGREDIENT SPAN: lettuce leaves
+         INGREDIENTS: lettuce leaves needed
+
+
+SENTID: 13
+SENT: I would top with chicken mixture .
+PREDID: 595
+PRED: top
+   DOBJ: NULL
+   PARG: chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: chicken mixture
+
+
+SENTID: 14
+SENT: I would sprinkle noodles around salad .
+PREDID: 617
+PRED: sprinkle
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce chow noodles
+   PARG: salad
+     PREP: around
+      NON-INGREDIENT SPAN: salad
+
+

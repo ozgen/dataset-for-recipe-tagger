@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would combine the tomatoes , the pumpkin , vegetable juice , the okra , the broccoli , the carrot , the zucchini , the onion , pumpkin pie spice , the sugar , the vinegar , chili powder , the salt , and pepper in a slow cooker ;
+PREDID: 0
+PRED: combine
+   DOBJ: the tomatoes , the pumpkin , vegetable juice , the okra , the broccoli , the carrot , the zucchini , the onion , pumpkin pie spice , the sugar , the vinegar , chili powder , the salt , pepper in a slow cooker
+      INGREDIENT SPAN:  the okra 
+         INGREDIENTS: chopped okra
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: chopped broccoli
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder taste
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: small zucchini diced
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion diced
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: ounce % pure pumpkin
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  pepper in a slow cooker
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot peeled chopped
+      INGREDIENT SPAN:  vegetable juice 
+         INGREDIENTS: vegetable juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 1
+SENT: I would cook on High until the vegetables are tender , 3 to 4 hours .
+PREDID: 148
+PRED: cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: the vegetables are tender , 3 to 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  3 to 4 hours
+      NON-INGREDIENT SPAN: the vegetables are tender 
+
+
+SENTID: 2
+SENT: I would stir the vegetarian ground beef crumbles , fava beans , and spinach into the tomato mixture ;
+PREDID: 196
+PRED: stir
+   DOBJ: the vegetarian ground beef crumbles , fava beans , spinach
+      INGREDIENT SPAN:  spinach
+         INGREDIENTS: chopped spinach
+      INGREDIENT SPAN: the vegetarian ground beef crumbles 
+         INGREDIENTS: ounce package vegetarian ground beef crumbles
+      INGREDIENT SPAN:  fava beans 
+         INGREDIENTS: ounce fava beans drained
+   PARG: the tomato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the tomato mixture
+
+
+SENTID: 3
+SENT: I would continue cooking until completely warmed , 20 to 30 minutes more .
+PREDID: 273
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: completely warmed , 20 to 30 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: completely warmed 
+      NON-INGREDIENT SPAN:  20 to 30 minutes more
+
+

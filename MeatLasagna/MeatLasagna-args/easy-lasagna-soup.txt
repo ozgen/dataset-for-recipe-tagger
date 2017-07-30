@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would cook and stir the ground beef until evenly brown ;
+PREDID: 26
+PRED: cook and stir
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 67
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would mix the water , the tomatoes , the mushrooms , green bell pepper , the onion , and garlic into the pot with the beef .
+PREDID: 73
+PRED: mix
+   DOBJ: the water , the tomatoes , the mushrooms , green bell pepper , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN: the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes drained
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic crushed
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: quartered fresh mushrooms
+   PARG: the pot with the beef
+     PREP: into
+      NON-INGREDIENT SPAN: the pot with the beef
+
+
+SENTID: 3
+SENT: I would season with basil , the salt , and pepper .
+PREDID: 157
+PRED: season
+   DOBJ: NULL
+   PARG: basil , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: basil 
+         INGREDIENTS: basil
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would bring to a boil , reduce heat , and simmer 45 minutes .
+PREDID: 188
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 201
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 215
+PRED: simmer
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 5
+SENT: I would mix the feta cheese into the soup , and continue cooking about 15 minutes before serving .
+PREDID: 231
+PRED: mix
+   DOBJ: the feta cheese
+      INGREDIENT SPAN: the feta cheese
+         INGREDIENTS: crumbled feta cheese
+   PARG: the soup
+     PREP: into
+      NON-INGREDIENT SPAN: the soup
+
+PREDID: 262
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: about 15 minutes
+      NON-INGREDIENT SPAN: about 15 minutes
+
+

@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Crush the ramen noodles in a bowl , and stir in the beef seasoning packet , sunflower seeds , almonds , green onions , oil and vinegar dressing , and sugar , mixing until the sugar is dissolved .
+PREDID: 0
+PRED: crush
+  DOBJ: the ramen noodles
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the beef seasoning packet , sunflower seeds , almonds , green onions , oil and vinegar dressing , and sugar
+    PREP: in
+  PARG: the sugar is dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Place the coleslaw mix into a large salad bowl , pour the dressing mixture over , and toss lightly to combine well .
+PREDID: 2
+PRED: place
+  DOBJ: the coleslaw mix
+  PARG: a large salad bowl
+    PREP: into
+
+PREDID: 3
+PRED: pour
+  DOBJ: the dressing mixture over
+
+PREDID: 4
+PRED: toss
+
+
+SENTID: 2
+SENT: Refrigerate at least 1 hour before serving .
+PREDID: 5
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+
+

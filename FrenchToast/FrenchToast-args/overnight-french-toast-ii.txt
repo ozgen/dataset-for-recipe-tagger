@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would combine the corn syrup , the butter , and brown sugar in a small saucepan and simmer until the sugar has melted .
+PREDID: 0
+PRED: combine
+   DOBJ: the corn syrup , the butter , brown sugar in a small saucepan
+      INGREDIENT SPAN:  brown sugar in a small saucepan
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the corn syrup 
+         INGREDIENTS: corn syrup
+
+PREDID: 62
+PRED: simmer
+   DOBJ: NULL
+   PARG: the sugar has melted
+     PREP: until
+      NON-INGREDIENT SPAN: the sugar has melted
+
+
+SENTID: 1
+SENT: I would pour this mixture over the bottom of a greased 9x13 inch casserole dish .
+PREDID: 88
+PRED: pour
+   DOBJ: this mixture
+      NON-INGREDIENT SPAN: this mixture
+   PARG: the bottom of a greased 9x13 inch casserole dish
+     PREP: over
+      NON-INGREDIENT SPAN: the bottom of a greased 9x13 inch casserole dish
+
+
+SENTID: 2
+SENT: I would place the bread slices over the sugar-butter mixture in the dish .
+PREDID: 148
+PRED: place
+   DOBJ: the bread slices
+      INGREDIENT SPAN: the bread slices
+         INGREDIENTS: pound loaf French bread sliced
+   PARG: the sugar-butter mixture in the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the sugar-butter mixture in the dish
+
+
+SENTID: 3
+SENT: In a bowl , I would beat together the eggs , the milk , the vanilla , and salt ;
+PREDID: 211
+PRED: beat
+   DOBJ: the eggs , the milk , the vanilla , salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would pour this mixture over the bread .
+PREDID: 252
+PRED: pour
+   DOBJ: this mixture over the bread
+      NON-INGREDIENT SPAN: this mixture over the bread
+
+
+SENTID: 5
+SENT: I would cover the dish and let it stand in the refrigerator overnight .
+PREDID: 280
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 295
+PRED: let stand
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 6
+SENT: The next morning , preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+
+SENTID: 7
+SENT: I would uncover the pan and bake for 45 minutes .
+PREDID: 332
+PRED: uncover
+   DOBJ: NULL
+   PARG: the pan, bake for 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  bake for 45 minutes
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 8
+SENT: I would serve while hot or warm or the French toast will harden in the pan .
+PREDID: 365
+PRED: serve
+   DOBJ: NULL
+   PARG: hot or warm or the french toast will harden in the pan
+     PREP: while
+      NON-INGREDIENT SPAN: hot or warm or the french toast will harden in the pan
+
+
+SENTID: 9
+SENT: It can be reheated .
+

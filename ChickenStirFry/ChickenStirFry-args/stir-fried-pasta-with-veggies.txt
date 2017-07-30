@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook spaghetti pasta in boiling water until al dente .
+PREDID: 29
+PRED: cook
+   DOBJ: spaghetti pasta
+      INGREDIENT SPAN: spaghetti pasta
+         INGREDIENTS: spaghetti
+   PARG: boiling water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water until al dente
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 74
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would meanwhile , heat oil in a large skillet or wok over medium-high heat .
+PREDID: 90
+PRED: heat
+   DOBJ: oil in a large skillet or wok over medium-high heat
+      INGREDIENT SPAN: oil in a large skillet or wok over medium-high heat
+         INGREDIENTS: olive oil
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 4
+SENT: I would cook garlic in oil for 1 minute .
+PREDID: 137
+PRED: cook
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+   OARG: garlic in oil
+      INGREDIENT SPAN: garlic in oil
+         INGREDIENTS: cloves crushed garlic
+
+
+SENTID: 5
+SENT: I would stir in onion , and cook until soft .
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: onion
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion sliced thin rings
+
+PREDID: 178
+PRED: cook
+   DOBJ: NULL
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 6
+SENT: I would stir in chicken , and cook until juices run clear .
+PREDID: 192
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken
+     PREP: in
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut bitesize
+
+PREDID: 209
+PRED: cook
+   DOBJ: NULL
+   PARG: juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: juices run clear
+
+
+SENTID: 7
+SENT: I would mix in the broccoli , the cauliflower , and carrots , and cook for 2 to 5 minutes , stirring frequently .
+PREDID: 233
+PRED: mix
+   DOBJ: NULL
+   PARG: the broccoli , the cauliflower , carrots
+     PREP: in
+      INGREDIENT SPAN:  the cauliflower 
+         INGREDIENTS: cauliflower florets
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: julienned carrots
+      INGREDIENT SPAN: the broccoli 
+         INGREDIENTS: broccoli florets
+
+PREDID: 279
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 5 minutes
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+
+SENTID: 8
+SENT: I would season with soy sauce , the salt , and pepper .
+PREDID: 314
+PRED: season
+   DOBJ: NULL
+   PARG: soy sauce , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: soy sauce 
+         INGREDIENTS: soy sauce
+
+
+SENTID: 9
+SENT: I would toss pasta with vegetables , and serve warm .
+PREDID: 348
+PRED: toss
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: vegetables
+     PREP: with
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 375
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

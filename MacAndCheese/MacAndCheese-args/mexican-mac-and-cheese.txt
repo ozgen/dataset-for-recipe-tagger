@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: In a medium skillet over medium-high heat , I would cook beef with onion flakes until beef is browned .
+PREDID: 36
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: a medium skillet over medium-high heat
+     PREP: in
+      INGREDIENT SPAN: a medium skillet over medium-high heat
+         INGREDIENTS: medium salsa
+   PARG: onion flakes
+     PREP: with
+      INGREDIENT SPAN: onion flakes
+         INGREDIENTS: dried onion flakes
+   PARG: beef is browned
+     PREP: until
+      NON-INGREDIENT SPAN: beef is browned
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 78
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a large saucepan , I would cook the macaroni and cheese according to package directions .
+PREDID: 101
+PRED: cook
+   DOBJ: the macaroni, cheese
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: ounce packages dry macaroni cheese
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: cheese dip
+   PARG: a large saucepan package directions
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan package directions
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 3
+SENT: I would stir in the meat and onion mixture , nacho cheese dip , the salsa and green chiles .
+PREDID: 154
+PRED: stir
+   DOBJ: NULL
+   PARG: the meat, onion mixture , nacho cheese dip , the salsa, green chiles
+     PREP: in
+      INGREDIENT SPAN:  green chiles
+         INGREDIENTS: ounce diced green chiles
+      NON-INGREDIENT SPAN: the meat
+      NON-INGREDIENT SPAN:  nacho cheese dip 
+      NON-INGREDIENT SPAN:  onion mixture 
+      NON-INGREDIENT SPAN:  the salsa
+
+
+SENTID: 4
+SENT: I would reduce heat and simmer 15 minutes , or until heated through .
+PREDID: 218
+PRED: reduce
+   DOBJ: NULL
+   PARG: 15 minutes , or until heated through
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes 
+      NON-INGREDIENT SPAN:  or until heated through
+   OARG: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+
+

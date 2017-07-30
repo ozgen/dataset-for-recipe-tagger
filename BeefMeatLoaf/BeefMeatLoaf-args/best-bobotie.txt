@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13-inch baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would heat the oil in a large skillet over medium-high heat .
+PREDID: 72
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 3
+SENT: I would cook the onions in the hot oil until soft .
+PREDID: 117
+PRED: cook
+   DOBJ: the onions in the hot oil
+      INGREDIENT SPAN: the onions in the hot oil
+         INGREDIENTS: medium onions minced
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 4
+SENT: I would break the ground beef into the skillet and cook until brown .
+PREDID: 151
+PRED: break
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 186
+PRED: cook
+   DOBJ: NULL
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 5
+SENT: I would place the milk in a shallow dish .
+PREDID: 201
+PRED: place
+   DOBJ: the milk in a shallow dish
+      INGREDIENT SPAN: the milk in a shallow dish
+         INGREDIENTS: milk
+
+
+SENTID: 6
+SENT: I would soak the bread in the milk .
+PREDID: 228
+PRED: soak
+   DOBJ: the bread in the milk
+      INGREDIENT SPAN: the bread in the milk
+         INGREDIENTS: slices Texas toast thicksliced bread
+
+
+SENTID: 7
+SENT: I would squeeze the excess milk from the bread .
+PREDID: 250
+PRED: squeeze
+   DOBJ: the excess milk
+      NON-INGREDIENT SPAN: the excess milk
+   PARG: the bread
+     PREP: from
+      NON-INGREDIENT SPAN: the bread
+
+
+SENTID: 8
+SENT: I would set the milk aside .
+PREDID: 283
+PRED: set
+   DOBJ: the milk
+      NON-INGREDIENT SPAN: the milk
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would add the bread to the beef mixture .
+PREDID: 299
+PRED: add
+   DOBJ: the bread
+      NON-INGREDIENT SPAN: the bread
+   PARG: the beef mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 10
+SENT: I would stir in the raisins , apricot jam , the chutney , curry powder , the salt , and black pepper .
+PREDID: 327
+PRED: stir
+   DOBJ: NULL
+   PARG: the raisins , apricot jam , the chutney , curry powder , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  apricot jam 
+         INGREDIENTS: apricot jam
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: hot chutney
+
+
+SENTID: 11
+SENT: I would pour the mixture into the prepared baking dish .
+PREDID: 395
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven 1 hour .
+PREDID: 435
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 1 hour
+
+
+SENTID: 13
+SENT: While the bobotie bakes , I would whisk together the reserved milk , the egg , and a pinch of salt .
+PREDID: 484
+PRED: whisk
+   DOBJ: the reserved milk , the egg , a pinch of salt
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: large egg
+      NON-INGREDIENT SPAN:  a pinch of salt
+      NON-INGREDIENT SPAN: the reserved milk 
+   PARG: the bobotie bakes
+     PREP: while
+      NON-INGREDIENT SPAN: the bobotie bakes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 14
+SENT: I would pour over top of the dish .
+PREDID: 533
+PRED: pour
+   DOBJ: top of the dish
+      NON-INGREDIENT SPAN: top of the dish
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 15
+SENT: I would lay the bay leaf onto the top of the milk mixture .
+PREDID: 554
+PRED: lay
+   DOBJ: the bay leaf
+      INGREDIENT SPAN: the bay leaf
+         INGREDIENTS: bay leaf
+   PARG: the top of the milk mixture
+     PREP: onto
+      NON-INGREDIENT SPAN: the top of the milk mixture
+
+
+SENTID: 16
+SENT: I would return the bobotie to the oven until the top is golden brown , 25 to 30 minutes .
+PREDID: 594
+PRED: return
+   DOBJ: the bobotie
+      NON-INGREDIENT SPAN: the bobotie
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+   PARG: the top is golden brown , 25 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the top is golden brown 
+      NON-INGREDIENT SPAN:  25 to 30 minutes
+
+
+SENTID: 17
+SENT: I would remove bay leaf before serving .
+PREDID: 658
+PRED: remove
+   DOBJ: bay leaf
+      NON-INGREDIENT SPAN: bay leaf
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

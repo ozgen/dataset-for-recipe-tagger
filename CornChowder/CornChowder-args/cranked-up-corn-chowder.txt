@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would combine corn kernels and 1 tablespoon olive oil in a baking dish ;
+PREDID: 38
+PRED: combine
+   DOBJ: corn kernels, 1 tablespoon olive oil
+      INGREDIENT SPAN: corn kernels
+         INGREDIENTS: ears corn kernels cut cob
+      INGREDIENT SPAN:  1 tablespoon olive oil
+         INGREDIENTS: olive oil divided
+   PARG: a baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 2
+SENT: I would stir to coat corn kernels in oil .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: coat corn kernels in oil
+     PREP: to
+      INGREDIENT SPAN: coat corn kernels in 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN: coat corn kernels in oil
+         INGREDIENTS: olive oil divided
+
+
+SENTID: 3
+SENT: I would roast corn in preheated oven for 20 minutes .
+PREDID: 119
+PRED: roast
+   DOBJ: corn
+      NON-INGREDIENT SPAN: corn
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+
+SENTID: 4
+SENT: I would heat 1 tablespoon olive oil in a large pot over medium heat .
+PREDID: 156
+PRED: heat
+   DOBJ: 1 tablespoon olive oil
+      NON-INGREDIENT SPAN: 1 tablespoon olive oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 5
+SENT: I would cook and stir onion , the carrot , the celery , and garlic in the olive oil until tender , 5 to 7 minutes .
+PREDID: 205
+PRED: cook and stir
+   DOBJ: onion , the carrot , the celery , garlic
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: shredded carrot
+   PARG: the olive oil until tender , 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the olive oil until tender 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 6
+SENT: I would stir chicken broth , roasted corn , the potatoes , light cream , cream-style corn , the parsley , the salt , and pepper into the vegetable mixture ;
+PREDID: 282
+PRED: stir
+   DOBJ: chicken broth , roasted corn , the potatoes , light cream , cream-style corn , the parsley , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  light cream 
+         INGREDIENTS: light cream
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped parsley
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: red potatoes cut bitesize
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  roasted corn 
+      NON-INGREDIENT SPAN:  cream-style corn 
+   PARG: the vegetable mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the vegetable mixture
+
+
+SENTID: 7
+SENT: I would bring to a boil .
+PREDID: 393
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would melt butter in a small skillet over medium-low heat ;
+PREDID: 406
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a small skillet over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small skillet over medium-low heat
+
+
+SENTID: 9
+SENT: I would stir flour into melted butter and whisk until a paste forms and begins to thin , about 5 minutes .
+PREDID: 450
+PRED: stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: melted butter, whisk
+     PREP: into
+      NON-INGREDIENT SPAN:  whisk
+      NON-INGREDIENT SPAN: melted butter
+   PARG: a paste forms, begins to thin , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a paste forms
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  begins to thin 
+
+
+SENTID: 10
+SENT: I would stir roux into the chowder ;
+PREDID: 529
+PRED: stir
+   DOBJ: roux
+      NON-INGREDIENT SPAN: roux
+   PARG: the chowder
+     PREP: into
+      NON-INGREDIENT SPAN: the chowder
+
+
+SENTID: 11
+SENT: I would continue the cooking until chowder is thickened , about 30 minutes .
+PREDID: 552
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: chowder is thickened , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chowder is thickened 
+      NON-INGREDIENT SPAN:  about 30 minutes
+
+

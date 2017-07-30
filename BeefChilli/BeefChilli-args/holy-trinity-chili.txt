@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: I would brown the ground beef in a large soup pot over medium-high heat until cooked and crumbly ;
+PREDID: 0
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large soup pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot over medium-high heat
+   PARG: cooked, crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: cooked
+      NON-INGREDIENT SPAN:  crumbly
+
+
+SENTID: 1
+SENT: I would drain and set aside .
+PREDID: 74
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would brown sausages ,
+PREDID: 91
+PRED: brown
+   DOBJ: sausages
+      INGREDIENT SPAN: sausages
+         INGREDIENTS: ounce package smoked sausages cut bitesized
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 105
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would reduce heat to medium and stir in bacon .
+PREDID: 114
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 135
+PRED: stir
+   DOBJ: NULL
+   PARG: bacon
+     PREP: in
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon diced
+
+
+SENTID: 5
+SENT: I would cook until the bacon has released its fat and is beginning to turn crispy .
+PREDID: 147
+PRED: cook
+   DOBJ: NULL
+   PARG: the bacon has released its fat, is beginning
+     PREP: until
+      NON-INGREDIENT SPAN: the bacon has released its fat
+      NON-INGREDIENT SPAN:  is beginning
+
+PREDID: 197
+PRED: turn
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+   OARG: crispy
+      NON-INGREDIENT SPAN: crispy
+
+
+SENTID: 6
+SENT: I would stir in garlic and onions , and cook until the onions soften and turn translucent , about 5 minutes .
+PREDID: 208
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic, onions
+     PREP: in
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: onions diced
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: minced garlic
+
+PREDID: 233
+PRED: cook
+   DOBJ: NULL
+   PARG: the onions soften, turn translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onions soften
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  turn translucent 
+
+
+SENTID: 7
+SENT: I would stir in tomato paste to coat the onions .
+PREDID: 290
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato paste
+     PREP: in
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato paste
+   OARG: to coat the onions
+      NON-INGREDIENT SPAN: to coat the onions
+
+
+SENTID: 8
+SENT: I would pour in beef broth , diced tomatoes , chili beans , and pinto beans .
+PREDID: 323
+PRED: pour
+   DOBJ: NULL
+   PARG: beef broth , diced tomatoes , chili beans , pinto beans
+     PREP: in
+      INGREDIENT SPAN: beef broth 
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  pinto beans
+         INGREDIENTS: ounce pinto beans drained
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce mild chili beans sauce
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+
+
+SENTID: 9
+SENT: I would add the Anaheim peppers , jalapeno peppers , and serrano peppers .
+PREDID: 378
+PRED: add
+   DOBJ: the Anaheim peppers , jalapeno peppers , serrano peppers
+      INGREDIENT SPAN:  serrano peppers
+         INGREDIENTS: serrano peppers seeded minced
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: jalapeno peppers seeded minced
+      INGREDIENT SPAN: the Anaheim peppers 
+         INGREDIENTS: Anaheim New Mexico chile peppers seeded minced
+
+
+SENTID: 10
+SENT: I would season with Worcestershire , brown sugar , chipotle powder , and cumin .
+PREDID: 433
+PRED: season
+   DOBJ: NULL
+   PARG: worcestershire , brown sugar , chipotle powder , cumin
+     PREP: with
+      INGREDIENT SPAN: worcestershire 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  chipotle powder 
+         INGREDIENTS: chipotle chile powder
+
+
+SENTID: 11
+SENT: I would bring to a boil over high heat ,
+PREDID: 493
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 12
+SENT: I would reduce heat to medium-low , and simmer for 2 hours , or until thickened , stirring occasionally .
+PREDID: 518
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+   OARG: and
+      NON-INGREDIENT SPAN: and
+   OARG: simmer
+      NON-INGREDIENT SPAN: simmer
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 13
+SENT: I would season to taste with salt and pepper ,
+PREDID: 598
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 14
+SENT: I would simmer for 5 additional minutes before serving .
+PREDID: 629
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 additional minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 additional minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

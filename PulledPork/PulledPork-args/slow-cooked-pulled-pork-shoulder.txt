@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would place the pork shoulder into the ceramic bowl of a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: the pork shoulder
+      INGREDIENT SPAN: the pork shoulder
+         INGREDIENTS: pound pork shoulder
+   PARG: the ceramic bowl of a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the ceramic bowl of a slow cooker
+
+
+SENTID: 1
+SENT: I would pour enough water and white vinegar into the slow cooker to assure the pork is completely covered , maintaining a 2-to-1 ratio of vinegar to water .
+PREDID: 52
+PRED: pour
+   DOBJ: enough water, white vinegar
+      INGREDIENT SPAN:  white vinegar
+         INGREDIENTS: white vinegar needed
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water needed
+   PARG: the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker
+   OARG: to assure the pork is completely covered , maintaining a 2-to-1 ratio of vinegar to water
+      NON-INGREDIENT SPAN: to assure the pork is completely covered 
+      NON-INGREDIENT SPAN:  maintaining a 2-to-1 ratio of vinegar to water
+
+
+SENTID: 2
+SENT: I would add the salt .
+PREDID: 174
+PRED: add
+   DOBJ: the salt
+      INGREDIENT SPAN: the salt
+         INGREDIENTS: kosher salt
+
+
+SENTID: 3
+SENT: I would put the ceramic bowl in the refrigerator and allow the pork to marinate at least 12 hours and up to 24 hours .
+PREDID: 185
+PRED: put
+   DOBJ: the ceramic bowl
+      NON-INGREDIENT SPAN: the ceramic bowl
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+
+PREDID: 222
+PRED: allow
+   DOBJ: NULL
+   PARG: the pork to marinate at least 12 hours, up to 24 hours
+     PREP: for
+      NON-INGREDIENT SPAN: the pork to marinate at least 12 hours
+      NON-INGREDIENT SPAN:  up to 24 hours
+
+
+SENTID: 4
+SENT: I would drain enough of the liquid from the ceramic bowl until about 1/2-inch of pork is left exposed .
+PREDID: 273
+PRED: drain
+   DOBJ: enough of the liquid
+      NON-INGREDIENT SPAN: enough of the liquid
+   PARG: the ceramic bowl
+     PREP: from
+      NON-INGREDIENT SPAN: the ceramic bowl
+   PARG: about 1/2-inch of pork is left exposed
+     PREP: until
+      NON-INGREDIENT SPAN: about 1/2-inch of pork is left exposed
+
+
+SENTID: 5
+SENT: I would add the onion to the remaining liquid .
+PREDID: 351
+PRED: add
+   DOBJ: the onion
+      NON-INGREDIENT SPAN: the onion
+   PARG: the remaining liquid
+     PREP: to
+      NON-INGREDIENT SPAN: the remaining liquid
+
+
+SENTID: 6
+SENT: I would season the exposed surface of the pork with the cumin , the mustard , chili powder , and brown sugar .
+PREDID: 383
+PRED: season
+   DOBJ: the exposed surface of the pork with the cumin , the mustard , chili powder , brown sugar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the exposed surface of the pork with the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+
+
+SENTID: 7
+SENT: I would place the bowl into the base of the slow cooker and cook on High until the pork is tender and falls apart easily , 8 to 10 hours .
+PREDID: 462
+PRED: place
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+   PARG: the base of the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the base of the slow cooker
+
+PREDID: 503
+PRED: cook
+   DOBJ: NULL
+   PARG: high until the pork is tender, falls apart easily , 8 to 10 hours
+     PREP: on
+      NON-INGREDIENT SPAN:  falls apart easily 
+      NON-INGREDIENT SPAN: high until the pork is tender
+      NON-INGREDIENT SPAN:  8 to 10 hours
+
+
+SENTID: 8
+SENT: I would carefully remove the pork to a cutting board ;
+PREDID: 573
+PRED: remove
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 9
+SENT: I would shred the meat into strands using a pair of forks .
+PREDID: 602
+PRED: shred
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: strands using a pair of forks
+     PREP: into
+      NON-INGREDIENT SPAN: strands using a pair of forks
+
+
+SENTID: 10
+SENT: I would remove and discard any excess fat .
+PREDID: 643
+PRED: remove and discard
+   DOBJ: any excess fat
+      NON-INGREDIENT SPAN: any excess fat
+
+

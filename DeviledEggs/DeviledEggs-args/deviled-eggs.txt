@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would place eggs in saucepan and cover with water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+PREDID: 22
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 1
+SENT: I would bring to boil .
+PREDID: 37
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 2
+SENT: I would cover , remove from heat , and let eggs sit in hot water for 10 to 12 minutes .
+PREDID: 49
+PRED: cover and remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 73
+PRED: let sit
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove from hot water and cool .
+PREDID: 110
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: I would peel and cut in half lengthwise .
+PREDID: 136
+PRED: peel and cut
+   DOBJ: NULL
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 5
+SENT: I would remove yolks and combine with mustard , salad dressing and salt and pepper .
+PREDID: 163
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+PREDID: 177
+PRED: combine
+   DOBJ: NULL
+   PARG: mustard , salad dressing, salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  salad dressing
+         INGREDIENTS: creamy salad dressing
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: mustard 
+         INGREDIENTS: prepared mustard
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would mix together until smooth .
+PREDID: 226
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would refill each egg half with the yolk mixture and sprinkle with paprika .
+PREDID: 249
+PRED: refill
+   DOBJ: each egg half
+      NON-INGREDIENT SPAN: each egg half
+   PARG: the yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the yolk mixture
+
+PREDID: 287
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+
+

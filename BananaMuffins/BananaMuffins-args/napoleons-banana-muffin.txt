@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease two twelve-cup muffin tins .
+PREDID: 41
+PRED: grease
+   DOBJ: two twelve-cup muffin tins
+      NON-INGREDIENT SPAN: two twelve-cup muffin tins
+
+
+SENTID: 2
+SENT: In a mixing bowl , I would mix bananas , 1/2 cup brown sugar , the honey , the rum , and cognac with an electric mixer until smooth .
+PREDID: 85
+PRED: mix
+   DOBJ: bananas , 1/2 cup brown sugar , the honey , the rum , cognac
+      INGREDIENT SPAN:  cognac
+         INGREDIENTS: cognac
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: ripe bananas mashed
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the rum 
+         INGREDIENTS: spiced rum
+      INGREDIENT SPAN:  1/2 cup brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: In a large bowl , I would whisk together 3 cups flour , baking soda , baking powder , and salt .
+PREDID: 176
+PRED: whisk
+   DOBJ: flour , baking soda , baking powder , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together 3 cups
+      NON-INGREDIENT SPAN: together 3 cups
+
+
+SENTID: 4
+SENT: In another bowl , I would cream white sugar , 2/3 cup brown sugar , the eggs , and melted butter .
+PREDID: 246
+PRED: cream
+   DOBJ: white sugar , 2/3 cup brown sugar , the eggs , melted butter
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: unsalted butter melted
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  2/3 cup brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: white sugar 
+         INGREDIENTS: brown sugar
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+
+
+SENTID: 5
+SENT: I would pour banana mixture and creamed egg mixture into the flour , and stir until just combined .
+PREDID: 300
+PRED: pour
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+
+PREDID: 320
+PRED: creamed
+   DOBJ: egg mixture
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: the flour
+     PREP: into
+      NON-INGREDIENT SPAN: the flour
+
+PREDID: 353
+PRED: stir
+   DOBJ: NULL
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 6
+SENT: I would spoon mixture into muffin tins , filling cups 3/4 full .
+PREDID: 375
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: muffin tins
+     PREP: into
+      NON-INGREDIENT SPAN: muffin tins
+   OARG: filling cups 3/4 full
+      NON-INGREDIENT SPAN: filling cups 3/4 full
+
+
+SENTID: 7
+SENT: In a small bowl , I would mix together 1 cup brown sugar , 3 tablespoons flour , and cinnamon .
+PREDID: 434
+PRED: mix
+   DOBJ: 1 cup brown sugar , 3 tablespoons flour , cinnamon
+      INGREDIENT SPAN: 1 cup brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  3 tablespoons flour 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would cut in 3 tablespoons butter until mixture resembles coarse crumbs .
+PREDID: 490
+PRED: cut
+   DOBJ: NULL
+   PARG: 3 tablespoons butter
+     PREP: in
+      INGREDIENT SPAN: 3 tablespoons butter
+         INGREDIENTS: butter
+   PARG: mixture resembles coarse crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: mixture resembles coarse crumbs
+
+
+SENTID: 9
+SENT: I would sprinkle over batter in muffin tins .
+PREDID: 547
+PRED: sprinkle
+   DOBJ: batter in muffin tins
+      NON-INGREDIENT SPAN: batter in muffin tins
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 10
+SENT: I would bake the muffins in preheated oven for 20 minutes , or until done .
+PREDID: 578
+PRED: bake
+   DOBJ: the muffins
+      NON-INGREDIENT SPAN: the muffins
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+

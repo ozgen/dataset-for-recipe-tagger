@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would place pork in a slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pound pork shoulder roast
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would add molasses , chili powder , the salt , the paprika , cumin seeds , and ground coriander .
+PREDID: 23
+PRED: add
+   DOBJ: molasses , chili powder , the salt , the paprika , cumin seeds , ground coriander
+      INGREDIENT SPAN:  cumin seeds 
+         INGREDIENTS: cumin seeds
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  ground coriander
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN: molasses 
+         INGREDIENTS: molasses
+
+
+SENTID: 2
+SENT: I would pour enough water into slow cooker to cover pork .
+PREDID: 90
+PRED: pour
+   DOBJ: enough water
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water cover
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+   OARG: to cover pork
+      NON-INGREDIENT SPAN: to cover pork
+
+
+SENTID: 3
+SENT: I would cook on High for 6 to 8 hours .
+PREDID: 131
+PRED: cook
+   DOBJ: NULL
+   PARG: high for 6 to 8 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high for 6 to 8 hours
+
+
+SENTID: 4
+SENT: I would drain liquid from slow cooker and shred pork with 2 forks .
+PREDID: 154
+PRED: drain
+   DOBJ: NULL
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+   OARG: liquid from slow cooker, shred pork
+      NON-INGREDIENT SPAN: liquid from slow cooker
+      NON-INGREDIENT SPAN:  shred pork
+
+
+SENTID: 5
+SENT: I would add barbeque sauce .
+PREDID: 202
+PRED: add
+   DOBJ: barbeque sauce
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce
+
+
+SENTID: 6
+SENT: I would reduce the heat the Low and continue cooking for 1 hour more .
+PREDID: 219
+PRED: reduce
+   DOBJ: NULL
+   OARG: the heat the low
+      NON-INGREDIENT SPAN: the heat the low
+
+PREDID: 241
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 1 hour more
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour more
+
+

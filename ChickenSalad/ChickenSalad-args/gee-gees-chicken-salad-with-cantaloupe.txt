@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would make the dressing by whisking the mayonnaise , sour cream , lemon juice , lemon zest , the sugar , the ginger , and salt in a mixing bowl .
+PREDID: 0
+PRED: make
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: whisking the mayonnaise , sour cream , lemon juice , lemon zest , the sugar , the ginger , salt in a mixing bowl
+     PREP: by
+      INGREDIENT SPAN:  salt in a mixing bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon
+      INGREDIENT SPAN: whisking the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  lemon zest 
+
+
+SENTID: 1
+SENT: I would add the chicken , the blueberries , the celery , the grapes , and almonds ;
+PREDID: 104
+PRED: add
+   DOBJ: the chicken , the blueberries , the celery , the grapes , almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: sliced almonds
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  the blueberries 
+         INGREDIENTS: fresh blueberries
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless green grapes halved
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cubed cooked chicken
+
+
+SENTID: 2
+SENT: I would stir gently until evenly mixed .
+PREDID: 155
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 3
+SENT: I would cover the bowl and refrigerate for 1 hour .
+PREDID: 182
+PRED: cover
+   DOBJ: the bowl, refrigerate for 1 hour
+      NON-INGREDIENT SPAN: the bowl
+      NON-INGREDIENT SPAN:  refrigerate for 1 hour
+
+
+SENTID: 4
+SENT: I would spoon into cantaloupe halves to serve .
+PREDID: 217
+PRED: spoon
+   DOBJ: NULL
+   PARG: cantaloupe halves
+     PREP: into
+      INGREDIENT SPAN: cantaloupe halves
+         INGREDIENTS: cantaloupes halved seeded
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

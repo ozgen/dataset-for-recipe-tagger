@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would pour 2 cups of warm water into a bowl .
+PREDID: 0
+PRED: pour
+   DOBJ: 2 cups of warm water
+      INGREDIENT SPAN: 2 cups of warm water
+         INGREDIENTS: warm water
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would stir in the instant potato flakes until well blended .
+PREDID: 30
+PRED: stir
+   DOBJ: NULL
+   PARG: the instant potato flakes
+     PREP: in
+      INGREDIENT SPAN: the instant potato flakes
+         INGREDIENTS: instant potato flakes
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would mix in the mayonnaise , the milk , the relish , the mustard and onion .
+PREDID: 75
+PRED: mix
+   DOBJ: NULL
+   PARG: the mayonnaise , the milk , the relish , the mustard, onion
+     PREP: in
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: dill pickle relish
+
+
+SENTID: 3
+SENT: I would season with salt and pepper .
+PREDID: 122
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would mix well , and refrigerate until needed .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 157
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: needed
+     PREP: until
+      NON-INGREDIENT SPAN: needed
+
+

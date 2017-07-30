@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2 quart casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 2 quart casserole dish
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+
+SENTID: 2
+SENT: I would melt butter in a large skillet over medium heat .
+PREDID: 65
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would brown noodles in the butter .
+PREDID: 105
+PRED: brown
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: thin egg noodles
+   PARG: the butter
+     PREP: in
+      NON-INGREDIENT SPAN: the butter
+
+
+SENTID: 4
+SENT: In a large bowl combine browned noodles , the rice , soup mix , the broth , water chestnuts and soy sauce .
+PREDID: 155
+PRED: browned
+   DOBJ: noodles , the rice , soup mix , the broth , water chestnuts, soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce taste
+      INGREDIENT SPAN:  water chestnuts
+         INGREDIENTS: ounce water chestnuts drained sliced
+      INGREDIENT SPAN:  the rice 
+         INGREDIENTS: uncooked instant rice
+      INGREDIENT SPAN:  the broth 
+         INGREDIENTS: vegetable broth
+      INGREDIENT SPAN:  soup mix 
+         INGREDIENTS: ounce packages dry onion soup mix
+      NON-INGREDIENT SPAN: noodles 
+   PARG: a large bowl combine
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl combine
+
+
+SENTID: 5
+SENT: I would mix well and transfer to prepared casserole dish .
+PREDID: 208
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 218
+PRED: transfer
+   DOBJ: NULL
+   PARG: prepared casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: prepared casserole dish
+
+
+SENTID: 6
+SENT: I would bake for 45 minutes , or until liquid has been absorbed and casserole is browned and crispy on top .
+PREDID: 250
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes , or until liquid has been absorbed
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes 
+      NON-INGREDIENT SPAN:  or until liquid has been absorbed
+   OARG: casserole is browned, crispy on top
+      NON-INGREDIENT SPAN: casserole is browned
+      NON-INGREDIENT SPAN:  crispy on top
+
+

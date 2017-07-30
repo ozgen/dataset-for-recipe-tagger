@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease 24 mini muffin cups or 12 standard muffin cups .
+PREDID: 40
+PRED: grease
+   DOBJ: 24 mini muffin cups or 12 standard muffin cups
+      NON-INGREDIENT SPAN: 24 mini muffin cups or 12 standard muffin cups
+
+
+SENTID: 2
+SENT: In a mixing bowl , I would cream together the butter and brown sugar until smooth .
+PREDID: 99
+PRED: cream
+   DOBJ: the butter, brown sugar
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar taste
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter softened
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix in the mashed bananas , the squash , the carrots , and eggs .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   PARG: the mashed bananas , the squash , the carrots , eggs
+     PREP: in
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots grated
+      INGREDIENT SPAN: the mashed bananas 
+         INGREDIENTS: large bananas mashed
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the squash 
+         INGREDIENTS: ounce jar baby food squash
+
+
+SENTID: 4
+SENT: I would stir in the flour , oat bran , baking soda , pumpkin pie spice , and salt until just combined .
+PREDID: 191
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour , oat bran , baking soda , pumpkin pie spice , salt
+     PREP: in
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  oat bran 
+         INGREDIENTS: oat bran
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 5
+SENT: I would spoon the batter equally into the prepared muffin cups .
+PREDID: 266
+PRED: spoon
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin cups
+   OARG: equally
+      NON-INGREDIENT SPAN: equally
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , 15 to 20 minutes .
+PREDID: 313
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 7
+SENT: I would cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 399
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+
+SENTID: 8
+SENT: I would store at room temperature for up to two days , or freeze .
+PREDID: 466
+PRED: store
+   DOBJ: NULL
+   PARG: room temperature for up to two days
+     PREP: at
+      NON-INGREDIENT SPAN: room temperature for up to two days
+
+

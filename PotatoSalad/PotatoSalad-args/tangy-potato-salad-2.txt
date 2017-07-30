@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Bring two pots of water to a boil ;
+PREDID: 0
+PRED: bring
+   DOBJ: two pots of water
+      NON-INGREDIENT SPAN: two pots of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook potatoes in one pot and eggs in the other pot until potatoes are semi-soft , 20 minutes .
+PREDID: 27
+PRED: cook
+   DOBJ: potatoes in one pot, eggs
+      INGREDIENT SPAN: potatoes in one pot
+         INGREDIENTS: potatoes
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+   PARG: the other pot
+     PREP: in
+      NON-INGREDIENT SPAN: the other pot
+   PARG: potatoes are semi-soft , 20 minutes
+     PREP: until
+      INGREDIENT SPAN: potatoes are semi-soft 
+         INGREDIENTS: potatoes
+      NON-INGREDIENT SPAN:  20 minutes
+
+
+SENTID: 2
+SENT: I would transfer potatoes and eggs to a bowl of cold water until both are cooled .
+PREDID: 103
+PRED: transfer
+   DOBJ: potatoes, eggs
+      NON-INGREDIENT SPAN: potatoes
+      NON-INGREDIENT SPAN:  eggs
+   PARG: a bowl of cold water
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl of cold water
+   PARG: both are cooled
+     PREP: until
+      NON-INGREDIENT SPAN: both are cooled
+
+
+SENTID: 3
+SENT: I would dice potatoes and place in a large bowl .
+PREDID: 163
+PRED: dice
+   DOBJ: potatoes, place
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would cut eggs in half ;
+PREDID: 196
+PRED: cut
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+
+SENTID: 5
+SENT: I would remove yolks and place in a separate bowl .
+PREDID: 210
+PRED: remove
+   DOBJ: yolks, place
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: yolks
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 6
+SENT: I would dice egg whites ;
+PREDID: 245
+PRED: dice
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+
+
+SENTID: 7
+SENT: I would add to potatoes .
+PREDID: 259
+PRED: add
+   DOBJ: NULL
+   PARG: potatoes
+     PREP: to
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 8
+SENT: I would mix red onion and pickles into potato mixture .
+PREDID: 273
+PRED: mix
+   DOBJ: red onion, pickles
+      INGREDIENT SPAN:  pickles
+         INGREDIENTS: diced dill pickles
+      INGREDIENT SPAN: red onion
+         INGREDIENTS: diced red onion
+   PARG: potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: potato mixture
+
+
+SENTID: 9
+SENT: I would whisk mayonnaise , the mustard , the chives , black pepper , and egg yolks together until smooth .
+PREDID: 312
+PRED: whisk
+   DOBJ: mayonnaise , the mustard , the chives , black pepper , egg yolks
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: spicy mustard
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  egg yolks
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would gently mix mayonnaise mixture into potato mixture until evenly coated ;
+PREDID: 392
+PRED: mix
+   DOBJ: mayonnaise mixture
+      NON-INGREDIENT SPAN: mayonnaise mixture
+   PARG: potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: potato mixture
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 11
+SENT: I would refrigerate for 10 to 15 minutes .
+PREDID: 447
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+
+

@@ -1,0 +1,228 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease 4 cookie sheets .
+PREDID: 47
+PRED: grease
+   DOBJ: 4 cookie sheets
+      NON-INGREDIENT SPAN: 4 cookie sheets
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would whisk the flour , baking powder , baking soda , the cinnamon , and salt together in a mixing bowl ;
+PREDID: 67
+PRED: whisk
+   DOBJ: the flour , baking powder , baking soda , the cinnamon , salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 143
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: To make the cookie dough , beat 1/2 cup butter , the shortening , white sugar , and brown sugar with an electric mixer in a large bowl until smooth .
+PREDID: 154
+PRED: make
+   DOBJ: the cookie dough
+      NON-INGREDIENT SPAN: the cookie dough
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 173
+PRED: beat
+   DOBJ: 1/2 cup butter , the shortening , white sugar , brown sugar
+      INGREDIENT SPAN:  the shortening 
+         INGREDIENTS: vegetable shortening
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: 1/2 cup butter 
+         INGREDIENTS: softened butter
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: white sugar
+   PARG: an electric mixer in a large bowl
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer in a large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would add 1 egg and allow to blend into the butter mixture before adding the second egg and the vanilla .
+PREDID: 268
+PRED: add
+   DOBJ: 1 egg
+      INGREDIENT SPAN: 1 egg
+         INGREDIENTS: eggs
+
+PREDID: 278
+PRED: allow
+   DOBJ: NULL
+   OARG: to blend into the butter mixture before adding the second egg, the vanilla
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: to blend into the butter mixture before adding the second egg
+         INGREDIENTS: eggs, softened butter
+      INGREDIENT SPAN: to blend into the butter mixture before adding the second egg
+         INGREDIENTS: eggs, softened butter
+
+
+SENTID: 6
+SENT: I would mix in the flour mixture until just incorporated .
+PREDID: 348
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: just incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: just incorporated
+
+
+SENTID: 7
+SENT: I would fold in the crushed pineapple , the carrot , the raisins , and chopped walnuts , mixing just enough to evenly combine .
+PREDID: 390
+PRED: fold
+   DOBJ: NULL
+   PARG: the crushed pineapple , the carrot , the raisins , chopped walnuts
+     PREP: in
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: golden raisins
+      INGREDIENT SPAN: the crushed pineapple 
+         INGREDIENTS: juice canned pineapple
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: grated carrot
+      INGREDIENT SPAN:  chopped walnuts
+         INGREDIENTS: chopped walnuts
+   OARG: mixing just enough to evenly combine
+      NON-INGREDIENT SPAN: mixing just enough to evenly combine
+
+
+SENTID: 8
+SENT: I would drop onto the prepared baking sheets by the heaping teaspoonful , allowing 2 inches of space between the cookies .
+PREDID: 481
+PRED: drop
+   DOBJ: NULL
+   PARG: the prepared baking sheets
+     PREP: onto
+      NON-INGREDIENT SPAN: the prepared baking sheets
+   PARG: the heaping teaspoonful , allowing 2 inches of space between the cookies
+     PREP: by
+      NON-INGREDIENT SPAN:  allowing 2 inches of space between the cookies
+      NON-INGREDIENT SPAN: the heaping teaspoonful 
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until the edges are golden , 10 to 12 minutes .
+PREDID: 576
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the edges are golden , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the edges are golden 
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+
+
+SENTID: 10
+SENT: I would allow the cookies to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely .
+PREDID: 635
+PRED: allow
+   DOBJ: the cookies
+      NON-INGREDIENT SPAN: the cookies
+   OARG: to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely
+      NON-INGREDIENT SPAN: to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely
+
+
+SENTID: 11
+SENT: To make the frosting , beat the cream cheese and 1 tablespoon of butter with an electric mixer in a bowl until smooth .
+PREDID: 726
+PRED: make
+   DOBJ: the frosting
+      NON-INGREDIENT SPAN: the frosting
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 742
+PRED: beat
+   DOBJ: the cream cheese, 1 tablespoon of butter
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+      NON-INGREDIENT SPAN:  1 tablespoon of butter
+   PARG: an electric mixer in a bowl
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer in a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 12
+SENT: I would add the confectioners ' sugar and pineapple juice .
+PREDID: 820
+PRED: add
+   DOBJ: the confectioners ' sugar, pineapple juice
+      INGREDIENT SPAN: the confectioners ' sugar
+         INGREDIENTS: powdered sugar
+      INGREDIENT SPAN:  pineapple juice
+         INGREDIENTS: ounce crushed pineapple drained juice reserved
+
+
+SENTID: 13
+SENT: I would beat until no lumps remain .
+PREDID: 863
+PRED: beat
+   DOBJ: NULL
+   PARG: no lumps remain
+     PREP: until
+      NON-INGREDIENT SPAN: no lumps remain
+
+
+SENTID: 14
+SENT: I would spread the frosting on the cooled cookies , and allow to dry completely before storing .
+PREDID: 886
+PRED: spread
+   DOBJ: the frosting
+      NON-INGREDIENT SPAN: the frosting
+   PARG: the cooled cookies
+     PREP: on
+      NON-INGREDIENT SPAN: the cooled cookies
+
+PREDID: 925
+PRED: allow
+   DOBJ: NULL
+   OARG: to dry completely before storing
+      NON-INGREDIENT SPAN: to dry completely before storing
+
+

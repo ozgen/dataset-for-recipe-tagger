@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would heat oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: corn oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would place chicken in skillet , season with garlic powder and cook 10 minutes on each side or until juices run clear .
+PREDID: 32
+PRED: place
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast half cut bitesize
+   PARG: skillet , season with garlic powder
+     PREP: in
+      INGREDIENT SPAN:  season with garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN: skillet 
+
+PREDID: 79
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 124
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a bowl , I would mix mayonnaise , lime juice , the ginger and milk .
+PREDID: 141
+PRED: mix
+   DOBJ: mayonnaise , lime juice , the ginger, milk
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 4
+SENT: I would arrange spinach on serving dishes .
+PREDID: 179
+PRED: arrange
+   DOBJ: spinach
+      INGREDIENT SPAN: spinach
+         INGREDIENTS: fresh spinach stems removed
+   PARG: serving dishes
+     PREP: on
+      NON-INGREDIENT SPAN: serving dishes
+
+
+SENTID: 5
+SENT: I would top with chicken and strawberries , sprinkle with almonds and drizzle with dressing .
+PREDID: 209
+PRED: top
+   DOBJ: NULL
+   PARG: chicken, strawberries
+     PREP: with
+      INGREDIENT SPAN:  strawberries
+         INGREDIENTS: fresh strawberries sliced
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 239
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: almonds
+     PREP: with
+      INGREDIENT SPAN: almonds
+         INGREDIENTS: slivered almonds
+
+PREDID: 261
+PRED: drizzle
+   DOBJ: NULL
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+
+
+SENTID: 6
+SENT: I would season with pepper to serve .
+PREDID: 281
+PRED: season
+   DOBJ: NULL
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper taste
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

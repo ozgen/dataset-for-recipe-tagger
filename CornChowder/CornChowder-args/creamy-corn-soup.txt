@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would combine the onion , the garlic , the parsley and butter or margarine .
+PREDID: 26
+PRED: combine
+   DOBJ: the onion , the garlic , the parsley, butter or margarine
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  butter or margarine
+         INGREDIENTS: margarine
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would saute for about 5 minutes , or until onions are tender .
+PREDID: 77
+PRED: saute
+   DOBJ: NULL
+   PARG: about 5 minutes , or until onions are tender
+     PREP: for
+      NON-INGREDIENT SPAN:  or until onions are tender
+      NON-INGREDIENT SPAN: about 5 minutes 
+
+
+SENTID: 2
+SENT: I would add the flour , stirring well , to make a pasty mixture .
+PREDID: 122
+PRED: add
+   DOBJ: the flour , stirring well
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  stirring well
+   OARG: to make a pasty mixture
+      NON-INGREDIENT SPAN: to make a pasty mixture
+
+
+SENTID: 3
+SENT: I would whisk in the milk and the broth .
+PREDID: 167
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk, the broth
+     PREP: in
+      INGREDIENT SPAN:  the broth
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+
+
+SENTID: 4
+SENT: I would add the corn and the cream cheese and allow to heat through .
+PREDID: 193
+PRED: add
+   DOBJ: the corn, the cream cheese
+      INGREDIENT SPAN:  the cream cheese
+         INGREDIENTS: cream cheese
+      INGREDIENT SPAN: the corn
+         INGREDIENTS: ounce whole kernel corn
+
+PREDID: 223
+PRED: allow
+   DOBJ: NULL
+   OARG: to heat through
+      NON-INGREDIENT SPAN: to heat through
+
+
+SENTID: 5
+SENT: I would add the garlic salt , black pepper and cayenne pepper to taste .
+PREDID: 242
+PRED: add
+   DOBJ: the garlic salt , black pepper, cayenne pepper
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: ground cayenne pepper taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: I would stir together and serve .
+PREDID: 294
+PRED: stir
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+

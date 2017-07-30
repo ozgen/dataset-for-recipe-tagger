@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would cover with water .
+PREDID: 21
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 36
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 49
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 67
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 102
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 125
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 4
+SENT: I would cut each egg in half lengthwise ;
+PREDID: 159
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+
+SENTID: 5
+SENT: I would place egg yolks in a bowl .
+PREDID: 186
+PRED: place
+   DOBJ: egg yolks
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: I would mash yolks with a fork ;
+PREDID: 207
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 7
+SENT: I would stir in mayonnaise , Dijon mustard , Parmesan cheese , the oregano , and pepper sauce ;
+PREDID: 226
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , dijon mustard , parmesan cheese , the oregano , pepper sauce
+     PREP: in
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  pepper sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese taste
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  dijon mustard 
+         INGREDIENTS: Dijon mustard
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 294
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 9
+SENT: I would arrange egg whites cut-side up on a serving platter .
+PREDID: 318
+PRED: arrange
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: cut-side
+      NON-INGREDIENT SPAN: cut-side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 10
+SENT: I would spoon yolk mixture into a resealable plastic bag ;
+PREDID: 362
+PRED: spoon
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: a resealable plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: a resealable plastic bag
+
+
+SENTID: 11
+SENT: I would snip off one corner of the bag , and pipe filling into egg white halves .
+PREDID: 404
+PRED: snip
+   DOBJ: one corner of the bag , pipe
+      NON-INGREDIENT SPAN:  pipe
+      NON-INGREDIENT SPAN: one corner of the bag 
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: filling into egg white halves
+      NON-INGREDIENT SPAN: filling into egg white halves
+
+
+SENTID: 12
+SENT: I would sprinkle deviled eggs with Cheddar cheese and paprika .
+PREDID: 462
+PRED: sprinkle
+   DOBJ: deviled eggs
+      NON-INGREDIENT SPAN: deviled eggs
+   PARG: cheddar cheese, paprika
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese desired
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika desired
+
+

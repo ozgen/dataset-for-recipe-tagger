@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would toss red cabbage , the tomato , baby carrots , the pineapple , the pecans , the apple , red bell pepper , dried cherries , green onion , the cilantro , the parsley , dry mustard , the salt , and black pepper together in a large salad bowl until thoroughly combined .
+PREDID: 0
+PRED: toss
+   DOBJ: red cabbage , the tomato , baby carrots , the pineapple , the pecans , the apple , red bell pepper , dried cherries , green onion , the cilantro , the parsley , dry mustard , the salt , black pepper together in a large salad bowl
+      INGREDIENT SPAN:  baby carrots 
+         INGREDIENTS: baby carrots chopped
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper seeded chopped
+      INGREDIENT SPAN: red cabbage 
+         INGREDIENTS: head red cabbage shredded
+      INGREDIENT SPAN:  dried cherries 
+         INGREDIENTS: dried cherries taste
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: green onion chopped
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley taste
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped cilantro taste
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard powder taste
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: Red Delicious apple cored cut thin chips
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce pineapple tidbits drained
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: ripe tomato chopped
+      NON-INGREDIENT SPAN:  black pepper together in a large salad bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 1
+SENT: I would gently mix mayonnaise into the slaw and drizzle with honey ;
+PREDID: 198
+PRED: mix
+   DOBJ: mayonnaise
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: the slaw
+     PREP: into
+      NON-INGREDIENT SPAN: the slaw
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+PREDID: 225
+PRED: drizzle
+   DOBJ: NULL
+   PARG: honey
+     PREP: with
+      INGREDIENT SPAN: honey
+         INGREDIENTS: honey
+
+
+SENTID: 2
+SENT: I would stir again to combine all ingredients .
+PREDID: 242
+PRED: stir
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+   OARG: to combine all ingredients
+      NON-INGREDIENT SPAN: to combine all ingredients
+
+
+SENTID: 3
+SENT: I would cover bowl and chill before serving .
+PREDID: 275
+PRED: cover
+   DOBJ: bowl, chill
+      NON-INGREDIENT SPAN: bowl
+      NON-INGREDIENT SPAN:  chill
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spread cooked egg noodles in a 9x13 inch baking dish and set aside .
+PREDID: 38
+PRED: spread
+   DOBJ: cooked egg noodles
+      INGREDIENT SPAN: cooked egg noodles
+         INGREDIENTS: ounce package egg noodles cooked
+   PARG: a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+PREDID: 84
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: In a large skillet over medium high heat , I would saute cubed chicken meat with onion for about 7 to 10 minutes , or until chicken is cooked through and no longer pink inside .
+PREDID: 127
+PRED: saute
+   DOBJ: NULL
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+   OARG: cubed chicken meat with onion for about 7 to 10 minutes , or until chicken is cooked through, no longer pink inside
+      INGREDIENT SPAN:  or until chicken is cooked through
+         INGREDIENTS: skinless boneless chicken breast halves cut cubes
+      INGREDIENT SPAN: cubed chicken meat with onion for about 7 to 10 minutes 
+         INGREDIENTS: ounce condensed cream chicken soup
+      INGREDIENT SPAN: cubed meat with onion for about 7 to 10 minutes 
+         INGREDIENTS: slices soft white bread cubed
+      INGREDIENT SPAN:  meat with onion for about 7 to 10 minutes 
+         INGREDIENTS: minced onion
+      NON-INGREDIENT SPAN:  no longer pink inside
+
+
+SENTID: 3
+SENT: I would add the soup , the milk , the peas and carrots and stir together .
+PREDID: 229
+PRED: add
+   DOBJ: the soup , the milk , the peas, carrots
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: ounce peas carrots drained
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  carrots
+      NON-INGREDIENT SPAN: the soup 
+
+PREDID: 268
+PRED: stir
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would season with salt and pepper , the paprika and chili powder to taste .
+PREDID: 275
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper , the paprika, chili powder
+     PREP: with
+      INGREDIENT SPAN:  the paprika
+         INGREDIENTS: paprika taste
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper 
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: I would stir until just bubbly and remove from heat .
+PREDID: 328
+PRED: stir
+   DOBJ: NULL
+   PARG: just bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: just bubbly
+
+PREDID: 350
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 6
+SENT: I would stir chicken mixture into noodles in baking dish until well combined ;
+PREDID: 365
+PRED: stir
+   DOBJ: chicken mixture
+      NON-INGREDIENT SPAN: chicken mixture
+   PARG: noodles in baking dish until well combined
+     PREP: into
+      NON-INGREDIENT SPAN: noodles in baking dish until well combined
+
+
+SENTID: 7
+SENT: I would top with cheese slices ,
+PREDID: 424
+PRED: top
+   DOBJ: NULL
+   PARG: cheese slices
+     PREP: with
+      INGREDIENT SPAN: cheese slices
+         INGREDIENTS: slices Monterey Jack cheese
+
+
+SENTID: 8
+SENT: I would bread cubes .
+PREDID: 444
+PRED: bread
+   DOBJ: cubes
+      NON-INGREDIENT SPAN: cubes
+
+
+SENTID: 9
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for about 30 minutes or until bread is toasted ;
+PREDID: 455
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: about 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 30 minutes
+
+
+SENTID: 10
+SENT: I would serve hot .
+PREDID: 524
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

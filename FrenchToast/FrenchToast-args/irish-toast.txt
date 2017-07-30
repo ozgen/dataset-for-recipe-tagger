@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would cut the bread into 12 slices .
+PREDID: 0
+PRED: cut
+   DOBJ: the bread
+      INGREDIENT SPAN: the bread
+         INGREDIENTS: ounce loaf French bread
+   PARG: 12 slices
+     PREP: into
+      NON-INGREDIENT SPAN: 12 slices
+
+
+SENTID: 1
+SENT: In a bowl , I would whisk together the eggs , Irish whiskey , Irish cream liqueur , and vanilla extract until well blended .
+PREDID: 32
+PRED: whisk
+   DOBJ: the eggs , Irish whiskey , Irish cream liqueur , vanilla
+      INGREDIENT SPAN:  Irish cream liqueur 
+         INGREDIENTS: fluid Irish cream liqueur
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  Irish whiskey 
+         INGREDIENTS: fluid Irish whiskey
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 94
+PRED: extract
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 2
+SENT: I would heat some of the butter in a skillet over medium heat until the butter is hot and the foam has disappeared .
+PREDID: 118
+PRED: heat
+   DOBJ: some of the butter
+      INGREDIENT SPAN: some of the butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: the butter is hot
+     PREP: until
+      NON-INGREDIENT SPAN: the butter is hot
+   OARG: the foam has disappeared
+      NON-INGREDIENT SPAN: the foam has disappeared
+
+
+SENTID: 3
+SENT: I would press each bread slice into the egg mixture ,
+PREDID: 205
+PRED: press
+   DOBJ: each bread slice
+      NON-INGREDIENT SPAN: each bread slice
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 4
+SENT: I would fry in the hot skillet until nicely browned on both sides , about 2 minutes per side .
+PREDID: 242
+PRED: fry
+   DOBJ: NULL
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+   PARG: nicely browned on both sides , about 2 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes per side
+      NON-INGREDIENT SPAN: nicely browned on both sides 
+
+
+SENTID: 5
+SENT: I would add more butter to skillet as needed .
+PREDID: 311
+PRED: add
+   DOBJ: more butter
+      NON-INGREDIENT SPAN: more butter
+   PARG: skillet as needed
+     PREP: to
+      NON-INGREDIENT SPAN: skillet as needed
+
+
+SENTID: 6
+SENT: I would brush each slice with butter , and sprinkle with confectioners ' sugar .
+PREDID: 342
+PRED: brush
+   DOBJ: each slice
+      NON-INGREDIENT SPAN: each slice
+   PARG: butter
+     PREP: with
+      NON-INGREDIENT SPAN: butter
+
+PREDID: 370
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar dusting
+
+

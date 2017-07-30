@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would whisk sour cream , the sugar , the vinegar , and ranch dressing mix together in a large bowl ;
+PREDID: 0
+PRED: whisk
+   DOBJ: sour cream , the sugar , the vinegar , ranch
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: dry ranch dressing mix
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   OARG: dressing mix together in a large bowl
+      INGREDIENT SPAN: dressing mix together in a large bowl
+         INGREDIENTS: ounce package shredded cabbage carrot mix
+
+
+SENTID: 1
+SENT: I would fold in cabbage mix , the apples , the celery , and green onion .
+PREDID: 69
+PRED: fold
+   DOBJ: NULL
+   PARG: cabbage mix , the apples , the celery , green onion
+     PREP: in
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: apples peeled cored diced
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      NON-INGREDIENT SPAN: cabbage mix 
+
+
+SENTID: 2
+SENT: I would toss mixture to coat ;
+PREDID: 114
+PRED: toss
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would season with salt and pepper .
+PREDID: 132
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would cover bowl tightly with plastic wrap and chill until flavors blend , 20 minutes to 4 hours .
+

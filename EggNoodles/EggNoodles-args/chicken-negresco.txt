@@ -1,0 +1,333 @@
+SENTID: 0
+SENT: I would combine chicken , the celery , 1 teaspoon salt , and black pepper in a saucepan .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken , the celery , 1 teaspoon salt , black pepper in a saucepan
+      INGREDIENT SPAN:  black pepper in a saucepan
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  1 teaspoon salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: large chicken breasts
+      NON-INGREDIENT SPAN:  the celery 
+
+
+SENTID: 1
+SENT: I would pour enough water into the saucepan to cover the ingredients completely .
+PREDID: 62
+PRED: pour
+   DOBJ: enough water
+      NON-INGREDIENT SPAN: enough water
+   PARG: the saucepan to cover the ingredients completely
+     PREP: into
+      NON-INGREDIENT SPAN: the saucepan to cover the ingredients completely
+
+
+SENTID: 2
+SENT: I would bring water to a boil and cook until the chicken is no longer pink in the center and the juices run clear , 20 to 25 minutes .
+PREDID: 124
+PRED: bring
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 144
+PRED: cook
+   DOBJ: NULL
+   PARG: the chicken is no longer pink in the center, the juices
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is no longer pink in the center
+      NON-INGREDIENT SPAN:  the juices
+
+
+SENTID: 3
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 4
+SENT: I would remove chicken to a cutting board to cool .
+PREDID: 223
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a cutting board to cool
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board to cool
+
+
+SENTID: 5
+SENT: I would cut cooled chicken into bite-sized pieces .
+PREDID: 258
+PRED: cut
+   DOBJ: cooled chicken
+      NON-INGREDIENT SPAN: cooled chicken
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 6
+SENT: I would discard water and celery .
+PREDID: 295
+PRED: discard
+   DOBJ: water, celery
+      NON-INGREDIENT SPAN: water
+      NON-INGREDIENT SPAN:  celery
+
+
+SENTID: 7
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 317
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 8
+SENT: I would prepare a 9x13-inch casserole dish with cooking spray .
+PREDID: 355
+PRED: prepare
+   DOBJ: a 9x13-inch casserole dish
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 9
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 402
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 10
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 444
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package extra wide egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 11
+SENT: I would drain .
+PREDID: 545
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 12
+SENT: I would transfer noodles to a large bowl ;
+PREDID: 551
+PRED: transfer
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 13
+SENT: I would add chicken and toss to combine .
+PREDID: 579
+PRED: add
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 592
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 14
+SENT: I would bring milk to a simmer in a large saucepan over medium heat ;
+PREDID: 606
+PRED: bring
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   PARG: a simmer in a large saucepan over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer in a large saucepan over medium heat
+
+
+SENTID: 15
+SENT: I would keep at a simmer until needed .
+PREDID: 655
+PRED: keep
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: needed
+     PREP: until
+      NON-INGREDIENT SPAN: needed
+
+
+SENTID: 16
+SENT: I would melt butter in a large saucepan over medium-high heat .
+PREDID: 680
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium-high heat
+
+
+SENTID: 17
+SENT: I would whisk flour into the melted butter in small amounts , assuring each addition is integrated before adding more ;
+PREDID: 726
+PRED: whisk
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: the melted butter in small amounts
+     PREP: into
+      NON-INGREDIENT SPAN: the melted butter in small amounts
+   OARG: assuring each addition is integrated before adding more
+      NON-INGREDIENT SPAN: assuring each addition is integrated before adding more
+
+
+SENTID: 18
+SENT: I would cook and stir the flour mixture until you have a blonde roux , 5 to 10 minutes .
+PREDID: 819
+PRED: cook and stir
+   DOBJ: the flour mixture
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: you have a blonde roux , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: you have a blonde roux 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 19
+SENT: I would slowly pour milk into the flour mixture while continually stirring ;
+PREDID: 888
+PRED: pour
+   DOBJ: milk
+      NON-INGREDIENT SPAN: milk
+   PARG: the flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the flour mixture
+   PARG: continually stirring
+     PREP: while
+      NON-INGREDIENT SPAN: continually stirring
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 20
+SENT: I would bring to a boil and cook for 10 minutes .
+PREDID: 940
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 955
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 21
+SENT: I would stir 2 teaspoons salt , garlic powder , and nutmeg into the milk mixture ;
+PREDID: 972
+PRED: stir
+   DOBJ: salt , garlic powder , nutmeg into the milk mixture
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  nutmeg into the milk mixture
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+   OARG: 2 teaspoons
+      NON-INGREDIENT SPAN: 2 teaspoons
+
+
+SENTID: 22
+SENT: I would pour over the noodle mixture and stir to coat .
+PREDID: 1032
+PRED: pour
+   DOBJ: the noodle mixture
+      NON-INGREDIENT SPAN: the noodle mixture
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 1059
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 23
+SENT: I would spread bread crumbs into the bottom of the prepared casserole dish .
+PREDID: 1070
+PRED: spread
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs
+   PARG: the bottom of the prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared casserole dish
+
+
+SENTID: 24
+SENT: I would pour the noodle mixture over the bread crumbs .
+PREDID: 1127
+PRED: pour
+   DOBJ: the noodle mixture
+      NON-INGREDIENT SPAN: the noodle mixture
+   PARG: the bread crumbs
+     PREP: over
+      NON-INGREDIENT SPAN: the bread crumbs
+
+
+SENTID: 25
+SENT: I would sprinkle Parmesan cheese over the noodle mixture .
+PREDID: 1166
+PRED: sprinkle
+   DOBJ: Parmesan cheese
+      INGREDIENT SPAN: Parmesan cheese
+         INGREDIENTS: Parmesan cheese
+   PARG: the noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the noodle mixture
+
+
+SENTID: 26
+SENT: I would drizzle olive oil over the Parmesan cheese .
+PREDID: 1209
+PRED: drizzle
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: the parmesan cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the parmesan cheese
+
+
+SENTID: 27
+SENT: I would bake in preheated oven until filling is bubbly and top layer of noodles are a crispy golden brown , 45 minutes to 1 hour .
+

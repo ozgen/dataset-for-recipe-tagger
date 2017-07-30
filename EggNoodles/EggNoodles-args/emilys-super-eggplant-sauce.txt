@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would heat olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook eggplant , bell pepper , the onion , and garlic until soft and tender , stirring often .
+PREDID: 42
+PRED: cook
+   DOBJ: eggplant , bell pepper , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: large green bell pepper chopped
+      NON-INGREDIENT SPAN:  garlic
+      NON-INGREDIENT SPAN: eggplant 
+   PARG: soft, tender
+     PREP: until
+      NON-INGREDIENT SPAN:  tender
+      NON-INGREDIENT SPAN: soft
+   OARG: stirring often
+      NON-INGREDIENT SPAN: stirring often
+
+
+SENTID: 2
+SENT: I would meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 124
+PRED: bring
+   DOBJ: a large pot of lightly salted water to a boil
+      INGREDIENT SPAN: a large pot of lightly salted water to a boil
+         INGREDIENTS: water
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would add egg noodles and cook for 8 to 10 minutes , or until al dente ;
+PREDID: 166
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+
+PREDID: 182
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain , and set aside .
+PREDID: 217
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 226
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: When done , transfer vegetables to a large stock pot .
+PREDID: 244
+PRED: transfer
+   DOBJ: vegetables
+      NON-INGREDIENT SPAN: vegetables
+   PARG: a large stock pot
+     PREP: to
+      NON-INGREDIENT SPAN: a large stock pot
+   OARG: when done
+      NON-INGREDIENT SPAN: when done
+
+
+SENTID: 6
+SENT: I would stir in the diced tomatoes , tomato paste , the sugar , and water .
+PREDID: 279
+PRED: stir
+   DOBJ: NULL
+   PARG: the diced tomatoes , tomato paste , the sugar , water
+     PREP: in
+      INGREDIENT SPAN: the diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      NON-INGREDIENT SPAN:  water
+
+
+SENTID: 7
+SENT: I would simmer for 15 to 20 minutes , stirring occasionally .
+PREDID: 329
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 8
+SENT: I would serve hot over egg noodles .
+PREDID: 373
+PRED: serve
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: over
+      NON-INGREDIENT SPAN: egg noodles
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

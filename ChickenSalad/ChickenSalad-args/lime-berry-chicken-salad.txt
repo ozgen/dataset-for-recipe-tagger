@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would toss chicken breasts , the limeade , and pepper in a bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: chicken breasts , the limeade , pepper in a bowl
+      INGREDIENT SPAN: chicken breasts 
+         INGREDIENTS: skinless boneless chicken breast halves cut thin strips
+      INGREDIENT SPAN:  the limeade 
+         INGREDIENTS: frozen limeade concentrate
+      INGREDIENT SPAN:  pepper in a bowl
+         INGREDIENTS: black pepper
+
+
+SENTID: 1
+SENT: I would cook the chicken breasts in a skillet until no longer pink in the center and the juices run clear , about 8 minutes .
+PREDID: 44
+PRED: cook
+   DOBJ: the chicken breasts
+      NON-INGREDIENT SPAN: the chicken breasts
+   PARG: a skillet until no longer pink in the center, the juices run clear , about 8 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet until no longer pink in the center
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN:  the juices run clear 
+
+
+SENTID: 2
+SENT: I would remove skillet from the heat and set aside .
+PREDID: 138
+PRED: remove
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 165
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would combine sugar , the vinegar , the salt , the mustard , and onion in a blender .
+PREDID: 174
+PRED: combine
+   DOBJ: sugar , the vinegar , the salt , the mustard , onion in a blender
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: ground dry mustard
+      INGREDIENT SPAN:  onion in a blender
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would process for about 20 seconds .
+PREDID: 227
+PRED: process
+   DOBJ: NULL
+   PARG: about 20 seconds
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 seconds
+
+
+SENTID: 5
+SENT: With the blender on high speed , I would gradually add oil in a slow and steady stream .
+PREDID: 287
+PRED: add
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: the blender on high speed
+     PREP: with
+      NON-INGREDIENT SPAN: the blender on high speed
+   PARG: a slow, steady stream
+     PREP: in
+      NON-INGREDIENT SPAN: a slow
+      NON-INGREDIENT SPAN:  steady stream
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 6
+SENT: I would stir in poppy seeds .
+PREDID: 316
+PRED: stir
+   DOBJ: NULL
+   PARG: poppy seeds
+     PREP: in
+      INGREDIENT SPAN: poppy seeds
+         INGREDIENTS: poppy seeds
+
+
+SENTID: 7
+SENT: I would arrange spinach on 4 salad plates and top with strawberries , the peas , the pecans , and the cooked chicken .
+PREDID: 333
+PRED: arrange
+   DOBJ: spinach
+      INGREDIENT SPAN: spinach
+         INGREDIENTS: baby spinach leaves
+   PARG: 4 salad plates
+     PREP: on
+      NON-INGREDIENT SPAN: 4 salad plates
+
+PREDID: 364
+PRED: top
+   DOBJ: NULL
+   PARG: strawberries , the peas , the pecans , the cooked chicken
+     PREP: with
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: sugar snap peas ends strings removed
+      INGREDIENT SPAN: strawberries 
+         INGREDIENTS: sliced fresh strawberries
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: pecan halves
+      NON-INGREDIENT SPAN:  the cooked chicken
+
+
+SENTID: 8
+SENT: I would serve with the poppy seed dressing .
+PREDID: 416
+PRED: serve
+   DOBJ: NULL
+   PARG: the poppy seed dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the poppy seed dressing
+
+

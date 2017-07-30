@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large saucepan or stockpot , I would cook ground beef , the onion and red pepper until beef is browned .
+PREDID: 27
+PRED: cook
+   DOBJ: ground beef , the onion, red pepper
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: chopped onion
+   PARG: a large saucepan or stockpot
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan or stockpot
+   PARG: beef is browned
+     PREP: until
+      NON-INGREDIENT SPAN: beef is browned
+
+
+SENTID: 1
+SENT: I would drain off excess fat .
+PREDID: 78
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would stir in the chili powder , the garlic , bay leaf , diced tomatoes , spaghetti sauce , the salsa and taco sauce .
+PREDID: 96
+PRED: stir
+   DOBJ: NULL
+   PARG: the chili powder , the garlic , bay leaf , diced tomatoes , spaghetti sauce , the salsa, taco sauce
+     PREP: in
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes
+      INGREDIENT SPAN:  spaghetti sauce 
+         INGREDIENTS: spaghetti sauce
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  taco sauce
+         INGREDIENTS: taco sauce
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN:  the salsa
+         INGREDIENTS: salsa
+      INGREDIENT SPAN: the chili powder 
+         INGREDIENTS: chili powder
+
+
+SENTID: 3
+SENT: I would lower heat and simmer for 1?1/2 hours , stirring occasionally .
+PREDID: 179
+PRED: lower
+   DOBJ: NULL
+   PARG: heat, simmer for 1?1/2 hours , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  simmer for 1?1/2 hours 
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would stir in beans just before serving and heat through .
+PREDID: 232
+PRED: stir
+   DOBJ: NULL
+   PARG: beans
+     PREP: in
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce kidney beans drained
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 263
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

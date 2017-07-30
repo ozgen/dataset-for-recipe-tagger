@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would cook macaroni in a large pan of boiling water until al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: a large pan of boiling water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: a large pan of boiling water until al dente
+
+
+SENTID: 1
+SENT: I would drain , and rinse .
+PREDID: 50
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 65
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would place nuts in a dry skillet .
+PREDID: 74
+PRED: place
+   DOBJ: nuts
+      NON-INGREDIENT SPAN: nuts
+   PARG: a dry skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a dry skillet
+
+
+SENTID: 4
+SENT: I would toast over medium heat , turning frequently , until nuts are fragrant and lightly browned .
+PREDID: 97
+PRED: toast
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: turning frequently , until nuts are fragrant, lightly browned
+      NON-INGREDIENT SPAN:  until nuts are fragrant
+      NON-INGREDIENT SPAN: turning frequently 
+      NON-INGREDIENT SPAN:  lightly browned
+
+
+SENTID: 5
+SENT: In a large bowl , I would combine pasta , the chicken , the pineapple , the apples , the celery , mandarin oranges , and toasted nuts .
+PREDID: 186
+PRED: combine
+   DOBJ: pasta , the chicken , the pineapple , the apples , the celery , mandarin oranges , toasted nuts
+      INGREDIENT SPAN: pasta 
+         INGREDIENTS: seashell pasta
+      INGREDIENT SPAN:  mandarin oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: small Gravenstein apples peeled cored diced
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: pineapple tidbits juice reserved
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked skinned
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  toasted nuts
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix together mayonnaise , reserved pineapple juice , and almond flavoring .
+PREDID: 275
+PRED: mix
+   DOBJ: mayonnaise , reserved pineapple juice , almond flavoring
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  almond flavoring
+      NON-INGREDIENT SPAN:  reserved pineapple juice 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would stir into pasta mixture , and mix well .
+PREDID: 339
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta mixture
+     PREP: into
+      NON-INGREDIENT SPAN: pasta mixture
+
+PREDID: 363
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: Chill .
+

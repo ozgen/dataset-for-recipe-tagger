@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: I would combine brown sugar , the salt , the paprika , black pepper , cayenne pepper , white sugar , garlic powder , and onion powder in a bowl until evenly mixed .
+PREDID: 0
+PRED: combine
+   DOBJ: brown sugar , the salt , the paprika , black pepper , cayenne pepper , white sugar , garlic powder , onion powder in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  onion powder in a bowl
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 1
+SENT: I would rub spice mixture over pork .
+PREDID: 119
+PRED: rub
+   DOBJ: spice mixture
+      NON-INGREDIENT SPAN: spice mixture
+   PARG: pork
+     PREP: over
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pound pork shoulder roast butt roast
+
+
+SENTID: 2
+SENT: I would cover pork with plastic wrap and refrigerate at least 1 hour , preferably overnight .
+PREDID: 143
+PRED: cover
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 170
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+   OARG: preferably
+      NON-INGREDIENT SPAN: preferably
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 3
+SENT: I would place the pork into a slow cooker and add enough water to just cover the pork .
+PREDID: 214
+PRED: place
+   DOBJ: the pork
+      NON-INGREDIENT SPAN: the pork
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 244
+PRED: add
+   DOBJ: enough water
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water cover
+   OARG: to just cover the pork
+      NON-INGREDIENT SPAN: to just cover the pork
+
+
+SENTID: 4
+SENT: I would cover and cook on High for 4 hours or on Low for 6 to 8 hours .
+PREDID: 277
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours
+
+
+SENTID: 5
+SENT: I would transfer pork to a large bowl and shred with 2 forks ;
+PREDID: 324
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a large bowl, shred with 2 forks
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+      NON-INGREDIENT SPAN:  shred with 2 forks
+
+
+SENTID: 6
+SENT: I would discard any bone , the skin , and excess fat .
+PREDID: 367
+PRED: discard
+   DOBJ: any bone , the skin , excess fat
+      NON-INGREDIENT SPAN:  excess fat
+      NON-INGREDIENT SPAN:  the skin 
+      NON-INGREDIENT SPAN: any bone 
+
+
+SENTID: 7
+SENT: I would drain and reserve cooking liquid from the slow cooker .
+PREDID: 400
+PRED: drain and reserve
+   DOBJ: cooking liquid
+      NON-INGREDIENT SPAN: cooking liquid
+   PARG: the slow cooker
+     PREP: from
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 8
+SENT: I would return shredded pork to the slow cooker and stir in barbeque sauce .
+PREDID: 446
+PRED: return
+   DOBJ: shredded pork
+      NON-INGREDIENT SPAN: shredded pork
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+PREDID: 482
+PRED: stir
+   DOBJ: NULL
+   PARG: barbeque sauce
+     PREP: in
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce
+
+
+SENTID: 9
+SENT: I would reduce heat to Low and cook for 2 more hours .
+PREDID: 502
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 520
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 more hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more hours
+
+
+SENTID: 10
+SENT: I would add enough reserved cooking liquid to moisten the pork to taste .
+PREDID: 538
+PRED: add
+   DOBJ: NULL
+   OARG: enough reserved
+      NON-INGREDIENT SPAN: enough reserved
+   OARG: cooking liquid to moisten the pork to taste
+      NON-INGREDIENT SPAN: cooking liquid to moisten the pork to taste
+
+

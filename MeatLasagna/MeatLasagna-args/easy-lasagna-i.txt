@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet , I would cook and stir ground beef until brown .
+PREDID: 54
+PRED: cook and stir
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 2
+SENT: I would add mushrooms and onions ;
+PREDID: 86
+PRED: add
+   DOBJ: mushrooms, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: ounce mushrooms drained
+
+
+SENTID: 3
+SENT: I would saute until onions are transparent .
+PREDID: 108
+PRED: saute
+   DOBJ: NULL
+   PARG: onions are transparent
+     PREP: until
+      NON-INGREDIENT SPAN: onions are transparent
+
+
+SENTID: 4
+SENT: I would stir in pasta sauce , and heat through .
+PREDID: 139
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta sauce
+     PREP: in
+      INGREDIENT SPAN: pasta sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+
+PREDID: 159
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 5
+SENT: In a medium size bowl , I would combine cottage cheese , ricotta cheese , grated Parmesan cheese , and eggs .
+PREDID: 189
+PRED: combine
+   DOBJ: cottage cheese , ricotta cheese , grated Parmesan cheese , eggs
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: ounce package cottage cheese
+      INGREDIENT SPAN:  grated Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: pint partskim ricotta cheese
+   PARG: a medium size bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium size bowl
+
+
+SENTID: 6
+SENT: I would spread a thin layer of the meat sauce in the bottom of a 13x9 inch pan .
+PREDID: 253
+PRED: spread
+   DOBJ: a thin layer of the meat sauce
+      NON-INGREDIENT SPAN: a thin layer of the meat sauce
+   PARG: the bottom of a 13x9 inch pan
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 13x9 inch pan
+
+
+SENTID: 7
+SENT: I would layer with uncooked lasagna noodles , cheese mixture , mozzarella cheese , and meat sauce .
+PREDID: 309
+PRED: layer
+   DOBJ: NULL
+   PARG: uncooked lasagna noodles , cheese mixture , mozzarella cheese , meat sauce
+     PREP: with
+      INGREDIENT SPAN:  cheese mixture 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: uncooked lasagna noodles 
+         INGREDIENTS: ounce package lasagna noodles
+      NON-INGREDIENT SPAN:  meat sauce
+      NON-INGREDIENT SPAN:  mozzarella cheese 
+
+
+SENTID: 8
+SENT: I would continue the layering until all ingredients are used , reserving 1/2 cup mozzarella .
+PREDID: 385
+PRED: continue
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: all ingredients are used , reserving 1/2 cup mozzarella
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are used 
+      NON-INGREDIENT SPAN:  reserving 1/2 cup mozzarella
+
+
+SENTID: 9
+SENT: I would cover the pan with aluminum foil .
+PREDID: 454
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 45 minutes .
+PREDID: 479
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+
+SENTID: 11
+SENT: I would uncover , and top with remaining half cup of mozzarella cheese .
+PREDID: 511
+PRED: uncover
+   DOBJ: NULL
+
+PREDID: 522
+PRED: top
+   DOBJ: NULL
+   PARG: remaining half cup of mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: remaining half cup of mozzarella cheese
+
+
+SENTID: 12
+SENT: I would bake for an additional 15 minutes .
+PREDID: 564
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 15 minutes
+
+
+SENTID: 13
+SENT: I would remove from oven , and let the stand 10 to 15 minutes before serving .
+PREDID: 593
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 611
+PRED: let
+   DOBJ: NULL
+   PARG: the stand 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the stand 10 to 15 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

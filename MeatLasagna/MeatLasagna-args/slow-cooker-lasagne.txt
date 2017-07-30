@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would brown meat in large skillet ;
+PREDID: 0
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 24
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir in pasta sauce and water .
+PREDID: 30
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta sauce, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: pasta sauce
+         INGREDIENTS: ml jar pasta sauce
+
+
+SENTID: 3
+SENT: I would mix ricotta , 1-1/2 cups shredded cheese , 2 Tbsp .
+PREDID: 55
+PRED: mix
+   DOBJ: NULL
+   OARG: ricotta , 1-1/2 cups shredded cheese , 2 tbsp
+      INGREDIENT SPAN:  1-1/2 cups shredded cheese 
+         INGREDIENTS: Kraft % Parmesan Grated Cheese divided, KRAFT Cheese Italiano Shredded Cheese divided
+      INGREDIENT SPAN:  1-1/2 cups shredded cheese 
+         INGREDIENTS: Kraft % Parmesan Grated Cheese divided, KRAFT Cheese Italiano Shredded Cheese divided
+      INGREDIENT SPAN: ricotta 
+         INGREDIENTS: ricotta cheese
+      NON-INGREDIENT SPAN:  2 tbsp
+
+
+SENTID: 4
+SENT: I would parmesan , egg and parsley .
+PREDID: 96
+PRED: parmesan and egg
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would spoon 1 cup meat sauce into slow cooker ;
+PREDID: 119
+PRED: spoon
+   DOBJ: 1 cup meat sauce
+      NON-INGREDIENT SPAN: 1 cup meat sauce
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 6
+SENT: I would top with layers of half each of the noodles , broken to fit , and cheese mixture .
+PREDID: 152
+PRED: top
+   DOBJ: NULL
+   PARG: layers of half each of the noodles , broken to fit , cheese mixture
+     PREP: with
+      INGREDIENT SPAN: layers of half each of the noodles 
+         INGREDIENTS: lasagna noodles uncooked
+      NON-INGREDIENT SPAN:  cheese mixture
+      NON-INGREDIENT SPAN:  broken to fit 
+
+
+SENTID: 7
+SENT: I would cover with 2 cups meat sauce .
+PREDID: 217
+PRED: cover
+   DOBJ: NULL
+   PARG: 2 cups meat sauce
+     PREP: with
+      NON-INGREDIENT SPAN: 2 cups meat sauce
+
+
+SENTID: 8
+SENT: I would top with remaining noodles , broken to fit , cheese mixture and sauce .
+PREDID: 241
+PRED: top
+   DOBJ: NULL
+   PARG: remaining noodles , broken to fit , cheese mixture, sauce
+     PREP: with
+      NON-INGREDIENT SPAN:  sauce
+      NON-INGREDIENT SPAN: remaining noodles 
+      NON-INGREDIENT SPAN:  cheese mixture
+      NON-INGREDIENT SPAN:  broken to fit 
+
+
+SENTID: 9
+SENT: I would cover with lid .
+PREDID: 299
+PRED: cover
+   DOBJ: NULL
+   PARG: lid
+     PREP: with
+      NON-INGREDIENT SPAN: lid
+
+
+SENTID: 10
+SENT: I would cook on LOW 4 to 6 hours or until liquid is absorbed .
+PREDID: 312
+PRED: cook
+   DOBJ: NULL
+   PARG: low 4 to 6 hours or until liquid is absorbed
+     PREP: on
+      NON-INGREDIENT SPAN: low 4 to 6 hours or until liquid is absorbed
+
+
+SENTID: 11
+SENT: I would sprinkle with remaining cheeses ;
+PREDID: 354
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining cheeses
+     PREP: with
+      NON-INGREDIENT SPAN: remaining cheeses
+
+
+SENTID: 12
+SENT: I would let stand , covered , 10 min .
+PREDID: 383
+PRED: let
+   DOBJ: NULL
+   OARG: stand , covered , 10 min
+      NON-INGREDIENT SPAN:  covered 
+      NON-INGREDIENT SPAN: stand 
+      NON-INGREDIENT SPAN:  10 min
+
+
+SENTID: 13
+SENT: or until melted .
+

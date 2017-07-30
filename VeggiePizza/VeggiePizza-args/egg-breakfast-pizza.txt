@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place sausage in a large , deep skillet .
+PREDID: 38
+PRED: place
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: ground sausage
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 2
+SENT: I would cook over medium-high heat until evenly brown .
+PREDID: 71
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would drain , crumble and set aside .
+PREDID: 111
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 127
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would place pizza crusts upside down on cookie sheets and bake for 5 to 7 minutes .
+PREDID: 136
+PRED: place
+   DOBJ: pizza crusts
+      INGREDIENT SPAN: pizza crusts
+         INGREDIENTS: inch prepared pizza crusts
+   PARG: cookie sheets
+     PREP: on
+      NON-INGREDIENT SPAN: cookie sheets
+   OARG: upside down
+      NON-INGREDIENT SPAN: upside down
+
+PREDID: 179
+PRED: bake
+   DOBJ: NULL
+   PARG: 5 to 7 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 7 minutes
+
+
+SENTID: 5
+SENT: Do not allow to brown .
+
+SENTID: 6
+SENT: I would beat eggs , the milk , the salt and pepper .
+PREDID: 198
+PRED: beat
+   DOBJ: eggs , the milk , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: small green bell pepper chopped
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+
+
+SENTID: 7
+SENT: I would scramble eggs until firm .
+PREDID: 226
+PRED: scramble
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+
+SENTID: 8
+SENT: I would remove crusts from oven , turn right side up , spread 1/2 can of cream of celery soup on top of each crust .
+PREDID: 248
+PRED: remove
+   DOBJ: crusts
+      NON-INGREDIENT SPAN: crusts
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 269
+PRED: turn
+   DOBJ: right side
+      NON-INGREDIENT SPAN: right side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 285
+PRED: spread
+   DOBJ: 1/2 can of cream of celery soup
+      INGREDIENT SPAN: 1/2 can of cream of celery soup
+         INGREDIENTS: ounce condensed cream celery soup
+   PARG: top of each crust
+     PREP: on
+      NON-INGREDIENT SPAN: top of each crust
+
+
+SENTID: 9
+SENT: I would spread 1/2 of egg mixture on each crust .
+PREDID: 333
+PRED: spread
+   DOBJ: 1/2 of egg mixture
+      NON-INGREDIENT SPAN: 1/2 of egg mixture
+   PARG: each crust
+     PREP: on
+      NON-INGREDIENT SPAN: each crust
+
+
+SENTID: 10
+SENT: I would sprinkle bacon bits on one pizza and cooked sausage on the other .
+PREDID: 366
+PRED: sprinkle
+   DOBJ: bacon bits
+      INGREDIENT SPAN: bacon bits
+         INGREDIENTS: ounce bacon bits
+   PARG: one pizza
+     PREP: on
+      NON-INGREDIENT SPAN: one pizza
+
+PREDID: 396
+PRED: cooked
+   DOBJ: sausage
+      NON-INGREDIENT SPAN: sausage
+   PARG: the other
+     PREP: on
+      NON-INGREDIENT SPAN: the other
+
+
+SENTID: 11
+SENT: I would cover each with onions and peppers .
+PREDID: 420
+PRED: cover
+   DOBJ: each with onions, peppers
+      INGREDIENT SPAN: each with onions
+         INGREDIENTS: small onion minced
+      NON-INGREDIENT SPAN:  peppers
+
+
+SENTID: 12
+SENT: I would top each pizza with 2 cups of cheese .
+PREDID: 450
+PRED: top
+   DOBJ: each pizza
+      NON-INGREDIENT SPAN: each pizza
+   PARG: 2 cups of cheese
+     PREP: with
+      INGREDIENT SPAN: 2 cups of cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 13
+SENT: I would bake in preheated oven , for 25 to 30 minutes , until cheese is golden brown .
+PREDID: 480
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+   PARG: cheese is golden brown
+     PREP: until
+      INGREDIENT SPAN: cheese is golden brown
+         INGREDIENTS: shredded Cheddar cheese
+
+

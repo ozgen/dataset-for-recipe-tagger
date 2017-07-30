@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would stir together the flours , baking powder , the cinnamon , and salt .
+PREDID: 0
+PRED: stir
+   DOBJ: the flours , baking powder , the cinnamon , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: the flours 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: the s 
+         INGREDIENTS: lemon
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a large bowl , I would cream the butter or margarine with the sugars .
+PREDID: 65
+PRED: cream
+   DOBJ: the butter or margarine
+      INGREDIENT SPAN: the butter or margarine
+         INGREDIENTS: butter softened
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: the sugars
+     PREP: with
+      INGREDIENT SPAN: the sugars
+         INGREDIENTS: white sugar
+
+
+SENTID: 2
+SENT: I would beat in the eggs , and
+PREDID: 104
+PRED: beat
+   DOBJ: NULL
+   PARG: the eggs , and
+     PREP: in
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  and
+
+
+SENTID: 3
+SENT: the citrus peels and juices .
+
+SENTID: 4
+SENT: I would stir in the carrots .
+PREDID: 121
+PRED: stir
+   DOBJ: NULL
+   PARG: the carrots
+     PREP: in
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: grated carrots
+
+
+SENTID: 5
+SENT: I would beat the flour mixture into the carrot mixture .
+PREDID: 138
+PRED: beat
+   DOBJ: the flour mixture
+      INGREDIENT SPAN: the flour mixture
+         INGREDIENTS: whole wheat flour
+   PARG: the carrot mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the carrot mixture
+
+
+SENTID: 6
+SENT: I would stir in the walnuts and raisins .
+PREDID: 178
+PRED: stir
+   DOBJ: NULL
+   PARG: the walnuts, raisins
+     PREP: in
+      INGREDIENT SPAN: the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+
+
+SENTID: 7
+SENT: I would turn the batter into a greased and floured tube pan .
+PREDID: 205
+PRED: turn
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: a greased, floured tube pan
+     PREP: into
+      NON-INGREDIENT SPAN:  floured tube pan
+      NON-INGREDIENT SPAN: a greased
+
+
+SENTID: 8
+SENT: I would bake at 350 degrees F -LRB- 175 degrees -RRB- for about 90 minutes , or until it tests done with a toothpick .
+PREDID: 248
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees -rrb- for about 90 minutes , or until it tests done with a toothpick
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees -rrb- for about 90 minutes 
+      NON-INGREDIENT SPAN:  or until it tests done with a toothpick
+
+
+SENTID: 9
+SENT: I would transfer to a rack to cool .
+PREDID: 328
+PRED: transfer
+   DOBJ: NULL
+   PARG: a rack to cool
+     PREP: to
+      NON-INGREDIENT SPAN: a rack to cool
+
+

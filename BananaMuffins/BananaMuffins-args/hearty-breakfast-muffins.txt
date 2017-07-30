@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would mix carrots , the banana , the zucchini , vegetable oil , the yogurt , and eggs together until fully incorporated .
+PREDID: 78
+PRED: mix
+   DOBJ: carrots , the banana , the zucchini , vegetable oil , the yogurt , eggs
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: yogurt
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini shredded
+      INGREDIENT SPAN:  the banana 
+         INGREDIENTS: bananas mashed
+   PARG: fully incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: fully incorporated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would whisk flour and baking soda in a separate bowl .
+PREDID: 163
+PRED: whisk
+   DOBJ: flour, baking soda in a separate bowl
+      INGREDIENT SPAN: flour
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  baking soda in a separate bowl
+         INGREDIENTS: baking soda
+
+
+SENTID: 4
+SENT: I would mix brown sugar , the oats , the coconut , the pecans , the cherries , the cinnamon , the salt , and ginger into flour mixture until all ingredients are coated in flour .
+PREDID: 202
+PRED: mix
+   DOBJ: brown sugar , the oats , the coconut , the pecans , the cherries , the cinnamon , the salt , ginger
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cherries 
+         INGREDIENTS: dried cherries
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: shredded coconut
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: all ingredients are coated in flour
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are coated in flour
+
+
+SENTID: 5
+SENT: I would stir wet ingredients into flour mixture until just combined .
+PREDID: 320
+PRED: stir
+   DOBJ: wet ingredients
+      NON-INGREDIENT SPAN: wet ingredients
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 6
+SENT: I would scoop batter into the prepared muffin cups .
+PREDID: 372
+PRED: scoop
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin cups
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean and edges are slightly brown , 17 to 22 minutes .
+PREDID: 409
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the center of a muffin comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted in the center of a muffin comes out clean
+   OARG: edges are slightly brown , 17 to 22 minutes
+      NON-INGREDIENT SPAN: edges are slightly brown 
+      NON-INGREDIENT SPAN:  17 to 22 minutes
+
+
+SENTID: 8
+SENT: I would cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 526
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+

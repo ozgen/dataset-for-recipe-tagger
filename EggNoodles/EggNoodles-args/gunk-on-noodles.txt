@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would place the egg noodles in the pot , cook 6 to 8 minutes , until al dente , and drain .
+PREDID: 42
+PRED: place
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 69
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes
+
+
+SENTID: 2
+SENT: In a large skillet over medium-high heat , I would cook the ground beef 10 minutes , or until evenly brown .
+PREDID: 142
+PRED: cook
+   DOBJ: NULL
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: 10 minutes , or until evenly brown
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes 
+      NON-INGREDIENT SPAN:  or until evenly brown
+   OARG: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would mix in the onion and garlic , and cook until onion is tender .
+PREDID: 188
+PRED: mix
+   DOBJ: NULL
+   PARG: the onion, garlic
+     PREP: in
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+
+PREDID: 214
+PRED: cook
+   DOBJ: NULL
+   PARG: onion is tender
+     PREP: until
+      NON-INGREDIENT SPAN: onion is tender
+
+
+SENTID: 4
+SENT: I would mix in the tomato paste , the mushrooms and juice , the sugar , the butter , and Worcestershire sauce .
+PREDID: 237
+PRED: mix
+   DOBJ: NULL
+   PARG: the tomato paste , the mushrooms, juice , the sugar , the butter , worcestershire sauce
+     PREP: in
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: ounce sliced mushrooms juice
+      NON-INGREDIENT SPAN:  juice 
+
+
+SENTID: 5
+SENT: I would season with salt and pepper .
+PREDID: 311
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would continue to cook and stir 5 minutes , until bubbly and heated through .
+PREDID: 335
+PRED: continue
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   PARG: bubbly, heated through
+     PREP: until
+      NON-INGREDIENT SPAN:  heated through
+      NON-INGREDIENT SPAN: bubbly
+   OARG: to cook, stir
+      NON-INGREDIENT SPAN:  stir
+      NON-INGREDIENT SPAN: to cook
+
+
+SENTID: 7
+SENT: I would serve over the cooked noodles .
+PREDID: 393
+PRED: serve
+   DOBJ: NULL
+   PARG: the cooked noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the cooked noodles
+
+

@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a large bowl , I would mix the peas , cabbage , and green onion .
+PREDID: 13
+PRED: mix
+   DOBJ: the peas , cabbage , green onion
+      INGREDIENT SPAN:  cabbage 
+         INGREDIENTS: finely shredded cabbage
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: green onion
+      INGREDIENT SPAN: the peas 
+         INGREDIENTS: (10 ounce) package frozen peas
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a separate bowl , I would mix the sour cream , mayonnaise , mustard , vinegar , salt , and curry powder .
+PREDID: 62
+PRED: mix
+   DOBJ: the sour cream , mayonnaise , mustard , vinegar , salt , curry powder
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  curry powder
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would pour the sour cream mixture over the cabbage mixture , and toss to coat .
+PREDID: 125
+PRED: pour
+   DOBJ: the sour cream mixture
+      NON-INGREDIENT SPAN: the sour cream mixture
+   PARG: the cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the cabbage mixture
+
+PREDID: 173
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would cover , and refrigerate at least 1 hour , or overnight .
+PREDID: 184
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 193
+PRED: refrigerate
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would sprinkle with peanuts to serve .
+PREDID: 229
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: peanuts
+     PREP: with
+      INGREDIENT SPAN: peanuts
+         INGREDIENTS: salted peanuts
+
+

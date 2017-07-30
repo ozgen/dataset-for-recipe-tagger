@@ -1,0 +1,50 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir in
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="divide
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="spoon
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="place
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="bake
+6", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 375 degrees f (190 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: eggs, brown sugar, ground beef, barbeque sauce, carrots, dry onion soup mix, mild sageflavored breakfast sausage, onion", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a large mixing bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: until thoroughly combined", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: enough rolled oats or more desired", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+O2_0_0[label="OTHER: to make the mixture hold together", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="the mixture"]
+O3_0_0[label="OTHER: in half", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCATION:into 2 9x5-inch loaf pans", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+D5_ing[label="DOBJ: slices bacon divided", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+P5_1_0[label="COOBJECT:onto each loaf", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+O5_0_0[label="OTHER: the long way", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E0 -> E6 [label="LOCATION:in the preheated oven"]
+O6_0_0[label="OTHER: until the meatloaf is no longer pink in the middle and the juices run clear, about 1 hour", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E6 -> EOR
+}

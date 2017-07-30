@@ -1,0 +1,198 @@
+SENTID: 0
+SENT: I would carrot cake :
+PREDID: 0
+PRED: carrot
+   DOBJ: cake
+      NON-INGREDIENT SPAN: cake
+
+
+SENTID: 1
+SENT: I would mix the butter and the crushed walnuts in a sauce pan and warm slightly until butter softens .
+PREDID: 11
+PRED: mix
+   DOBJ: the butter, the crushed walnuts
+      INGREDIENT SPAN:  the crushed walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the 
+         INGREDIENTS: Lemon
+   PARG: a sauce pan
+     PREP: in
+      NON-INGREDIENT SPAN: a sauce pan
+
+PREDID: 57
+PRED: warm
+   DOBJ: NULL
+   PARG: butter softens
+     PREP: until
+      NON-INGREDIENT SPAN: butter softens
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 88
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would beat the sugar and the eggs with a mixer until it starts forming bubbles .
+PREDID: 97
+PRED: beat
+   DOBJ: the sugar, the eggs
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: egg white
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: brown sugar
+   PARG: a mixer
+     PREP: with
+      NON-INGREDIENT SPAN: a mixer
+   PARG: it starts forming bubbles
+     PREP: until
+      NON-INGREDIENT SPAN: it starts forming bubbles
+
+
+SENTID: 4
+SENT: In another bowl , I would mix the almond flour , baking powder , the salt and flour .
+PREDID: 171
+PRED: mix
+   DOBJ: the almond flour , baking powder , the salt, flour
+      INGREDIENT SPAN: the almond flour 
+         INGREDIENTS: almond flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: flour
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+
+
+SENTID: 5
+SENT: I would blend with egg and sugar mixture until no lumps remain .
+PREDID: 215
+PRED: blend
+   DOBJ: NULL
+   PARG: egg, sugar mixture
+     PREP: with
+      INGREDIENT SPAN:  sugar mixture
+         INGREDIENTS: powdered sugar
+      INGREDIENT SPAN: egg
+         INGREDIENTS: eggs
+   PARG: no lumps remain
+     PREP: until
+      NON-INGREDIENT SPAN: no lumps remain
+
+
+SENTID: 6
+SENT: I would add the butter mixture , grated carrots , Maille ? Old Style mustard , crushed walnuts , the raisins , citrus fruit zests , the cinnamon , the ginger and chopped grains of coriander and mix everything carefully together .
+PREDID: 261
+PRED: add
+   DOBJ: the butter mixture , grated carrots , Maille ? Old Style mustard , crushed walnuts , the raisins , citrus fruit zests , the cinnamon , the ginger, chopped grains of coriander, mix everything
+      INGREDIENT SPAN:  Maille ? Old Style mustard 
+         INGREDIENTS: Maille Old Style mustard
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: white dried raisins
+      INGREDIENT SPAN:  grated carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: powdered cinnamon
+      INGREDIENT SPAN:  chopped grains of coriander
+         INGREDIENTS: coriander grains ground mortar
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: fresh grated ginger
+      NON-INGREDIENT SPAN:  mix everything
+      NON-INGREDIENT SPAN:  crushed walnuts 
+      NON-INGREDIENT SPAN: the butter mixture 
+      NON-INGREDIENT SPAN:  citrus fruit zests 
+   OARG: carefully together
+      NON-INGREDIENT SPAN: carefully together
+
+
+SENTID: 7
+SENT: I would divide mixture into small silicone cooking molds .
+PREDID: 434
+PRED: divide
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: small silicone cooking molds
+     PREP: into
+      NON-INGREDIENT SPAN: small silicone cooking molds
+
+
+SENTID: 8
+SENT: I would cook in a 375 degrees F oven for 15 minutes -LRB- depending on the size of the cake molds -RRB- .
+PREDID: 477
+PRED: cook
+   DOBJ: NULL
+   PARG: a 375 degrees
+     PREP: in
+      NON-INGREDIENT SPAN: a 375 degrees
+   PARG: f oven for 15 minutes -lrb- depending on the size of the cake molds
+     PREP: for
+      NON-INGREDIENT SPAN: f oven for 15 minutes -lrb- depending on the size of the cake molds
+
+
+SENTID: 9
+SENT: Once cooked , I would remove the cakes from the molds and let them cool down all the way .
+PREDID: 557
+PRED: remove
+   DOBJ: the cakes
+      NON-INGREDIENT SPAN: the cakes
+   PARG: cooked
+     PREP: once
+      NON-INGREDIENT SPAN: cooked
+   PARG: the molds
+     PREP: from
+      NON-INGREDIENT SPAN: the molds
+
+PREDID: 586
+PRED: let cool
+   DOBJ: them, all the way
+      NON-INGREDIENT SPAN: them
+      NON-INGREDIENT SPAN:  all the way
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 10
+SENT: I would icing :
+PREDID: 611
+PRED: icing
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would mix all the ingredients together .
+PREDID: 617
+PRED: mix
+   DOBJ: all the ingredients
+      NON-INGREDIENT SPAN: all the ingredients
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would cover the mini carrot cakes with icing and let them harden for 2 hours in the open air .
+PREDID: 646
+PRED: cover
+   DOBJ: the mini carrot cakes
+      NON-INGREDIENT SPAN: the mini carrot cakes
+   PARG: icing
+     PREP: with
+      NON-INGREDIENT SPAN: icing
+
+PREDID: 681
+PRED: let
+   DOBJ: NULL
+   OARG: them harden for 2 hours in the open air
+      NON-INGREDIENT SPAN: them harden for 2 hours in the open air
+
+

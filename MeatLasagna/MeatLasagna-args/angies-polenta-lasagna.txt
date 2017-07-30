@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place the ground beef in a skillet over medium heat .
+PREDID: 38
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir the meat until browned and crumbly , about 10 minutes .
+PREDID: 81
+PRED: cook and stir
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: browned, crumbly , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 3
+SENT: I would drain off excess grease .
+PREDID: 137
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would mix in the tomato sauce and pasta sauce until thoroughly combined ;
+PREDID: 158
+PRED: mix
+   DOBJ: NULL
+   PARG: the tomato sauce, pasta sauce
+     PREP: in
+      INGREDIENT SPAN:  pasta sauce
+         INGREDIENTS: ounce jar prepared pasta sauce
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce tomato sauce
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 5
+SENT: I would bring to a simmer .
+PREDID: 214
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 6
+SENT: I would remove the polenta from its package , and cut into 1/2-inch slices .
+PREDID: 229
+PRED: remove
+   DOBJ: the polenta
+      INGREDIENT SPAN: the polenta
+         INGREDIENTS: ounce package precooked polenta
+   PARG: its package
+     PREP: from
+      INGREDIENT SPAN: its package
+         INGREDIENTS: ounce package shredded mozzarella cheese
+
+PREDID: 263
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2-inch slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2-inch slices
+
+
+SENTID: 7
+SENT: I would lay the slices in a single layer in a 9x12-inch baking dish .
+PREDID: 285
+PRED: lay
+   DOBJ: the slices
+      NON-INGREDIENT SPAN: the slices
+   PARG: a single layer in a 9x12-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer in a 9x12-inch baking dish
+
+
+SENTID: 8
+SENT: I would top each polenta slice with a tablespoon or two of the chive cottage cheese -LRB- use all the cottage cheese -RRB- .
+PREDID: 334
+PRED: top
+   DOBJ: each polenta slice
+      NON-INGREDIENT SPAN: each polenta slice
+   PARG: a tablespoon or two of the chive cottage cheese
+     PREP: with
+      INGREDIENT SPAN: a tablespoon or two of the chive cottage cheese
+         INGREDIENTS: ounce package cottage cheese chives
+
+PREDID: 401
+PRED: use
+   DOBJ: all the cottage cheese
+      INGREDIENT SPAN: all the cottage cheese
+         INGREDIENTS: ounce package cottage cheese chives
+
+
+SENTID: 9
+SENT: I would pour the sauce evenly over the cottage cheese , and sprinkle with the mozzarella cheese .
+PREDID: 421
+PRED: pour
+   DOBJ: NULL
+   PARG: the cottage cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the cottage cheese
+   OARG: the sauce evenly
+      NON-INGREDIENT SPAN: the sauce evenly
+
+PREDID: 463
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the mozzarella cheese
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until the cheese is lightly browned and bubbling , about 20 minutes .
+PREDID: 495
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese is lightly browned, bubbling , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is lightly browned
+      NON-INGREDIENT SPAN:  bubbling 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

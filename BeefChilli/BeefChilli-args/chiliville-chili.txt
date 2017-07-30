@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: In a Dutch oven , I would cook sausage and ground beef over medium heat until meat is cooked and browned ;
+PREDID: 13
+PRED: cook
+   DOBJ: sausage, ground beef
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: Sausage
+      INGREDIENT SPAN:  ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven
+   PARG: medium heat
+     PREP: over
+      INGREDIENT SPAN: medium heat
+         INGREDIENTS: medium onion chopped
+   PARG: meat is cooked, browned
+     PREP: until
+      NON-INGREDIENT SPAN:  browned
+      NON-INGREDIENT SPAN: meat is cooked
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 79
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir in onion , the celery and garlic .
+PREDID: 85
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , the celery, garlic
+     PREP: in
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: ounce diced tomatoes green peppers onions, chopped onions
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: ounce diced tomatoes green peppers onions, chopped onions
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: celery stalks diced
+      NON-INGREDIENT SPAN:  garlic
+
+
+SENTID: 3
+SENT: I would cook and stir until tender .
+PREDID: 113
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 4
+SENT: I would add tomatoes , the beans , the broth , tomato paste , the sugar , chili powder , Worcestershire sauce , the cumin and red pepper flakes .
+PREDID: 136
+PRED: add
+   DOBJ: tomatoes , the beans , the broth , tomato paste , the sugar , chili powder , Worcestershire sauce , the cumin, red pepper flakes
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  the broth 
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN: tomatoes 
+
+
+SENTID: 5
+SENT: Bring to a boil ;
+PREDID: 234
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat , the cover and simmer for 20 minutes , stirring occasionally .
+PREDID: 247
+PRED: reduce
+   DOBJ: NULL
+   OARG: heat , the cover, simmer for 20 minutes , stirring occasionally
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN:  simmer for 20 minutes 
+      NON-INGREDIENT SPAN:  the cover
+
+
+SENTID: 7
+SENT: I would serve with cheese , sour cream and onion .
+PREDID: 306
+PRED: serve
+   DOBJ: NULL
+   PARG: cheese , sour cream, onion
+     PREP: with
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: cheese 
+         INGREDIENTS: Shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  onion
+
+

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would sprinkle chicken breast evenly with Montreal steak seasoning .
+PREDID: 0
+PRED: sprinkle
+   DOBJ: chicken breast
+      INGREDIENT SPAN: chicken breast
+         INGREDIENTS: whole skinless boneless chicken breast halved
+   OARG: evenly with montreal steak seasoning
+      INGREDIENT SPAN: evenly with montreal steak seasoning
+         INGREDIENTS: Montreal steak seasoning
+
+
+SENTID: 1
+SENT: I would melt butter in a frying pan over medium heat ;
+PREDID: 54
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a frying pan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a frying pan over medium heat
+
+
+SENTID: 2
+SENT: I would cook chicken until no longer pink in the center and juices run clear , 5 to 10 minutes per side .
+PREDID: 91
+PRED: cook
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: no longer pink in the center, juices run clear , 5 to 10 minutes per side
+     PREP: until
+      INGREDIENT SPAN:  juices run clear 
+         INGREDIENTS: seeded chopped jalapeno peppers juice reserved
+      NON-INGREDIENT SPAN:  5 to 10 minutes per side
+      NON-INGREDIENT SPAN: no longer pink in the center
+
+
+SENTID: 3
+SENT: I would remove chicken from pan and cut into small pieces .
+PREDID: 168
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 191
+PRED: cut
+   DOBJ: NULL
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+
+SENTID: 4
+SENT: I would mix lettuce , the chicken , the tomato , green bell pepper , jalapeno peppers , green chile peppers , the corn , black olives , black beans , and Cheddar-Monterey Jack cheese blend in a large bowl ;
+PREDID: 210
+PRED: mix
+   DOBJ: lettuce , the chicken , the tomato , green bell pepper , jalapeno peppers , green chile peppers , the corn , black olives , black beans , Cheddar-Monterey Jack cheese blend in a large bowl
+      INGREDIENT SPAN:  Cheddar-Monterey Jack cheese blend in a large bowl
+         INGREDIENTS: shredded CheddarMonterey Jack cheese blend
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: chopped green chile peppers
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: drained rinsed black beans
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper cut 1/4inch cubes
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: drained canned corn kernels
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: drained sliced black olives
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: tomato chopped
+      INGREDIENT SPAN: lettuce 
+         INGREDIENTS: head iceberg lettuce chopped
+      INGREDIENT SPAN:  green chile peppers 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the chicken 
+
+
+SENTID: 5
+SENT: I would gently toss .
+PREDID: 367
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would whisk ranch dressing , reserved 3 tablespoons jalapeno juice , black pepper , and garlic powder together in a bowl ;
+PREDID: 372
+PRED: whisk
+   DOBJ: ranch dressing , reserved 3 tablespoons jalapeno juice , black pepper , garlic powder
+      INGREDIENT SPAN: ranch dressing 
+         INGREDIENTS: ranch dressing
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  reserved 3 tablespoons jalapeno juice 
+      NON-INGREDIENT SPAN:  black pepper 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would drizzle over salad .
+PREDID: 468
+PRED: drizzle
+   DOBJ: NULL
+   PARG: salad
+     PREP: over
+      NON-INGREDIENT SPAN: salad
+
+
+SENTID: 8
+SENT: I would toss to coat .
+PREDID: 485
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

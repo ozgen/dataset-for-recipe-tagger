@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would place pumpkin seeds , the water , and salt in a saucepan , bring to a boil , and reduce heat to medium ;
+PREDID: 0
+PRED: place
+   DOBJ: pumpkin seeds , the water , salt in a saucepan
+      INGREDIENT SPAN: pumpkin seeds 
+         INGREDIENTS: raw cleaned pumpkin seeds sugar pumpkin
+      INGREDIENT SPAN:  salt in a saucepan
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+
+PREDID: 46
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 62
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 1
+SENT: I would boil seeds for 10 minutes .
+PREDID: 78
+PRED: boil
+   DOBJ: NULL
+   PARG: seeds for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: seeds for 10 minutes
+
+
+SENTID: 2
+SENT: Drain seeds but do not rinse .
+
+SENTID: 3
+SENT: I would pat seeds dry with paper towels and spread out onto a work surface or a baking sheet for 30 minutes to dry .
+PREDID: 100
+PRED: pat
+   DOBJ: NULL
+   OARG: seeds dry with paper towels
+      NON-INGREDIENT SPAN: seeds dry with paper towels
+   OARG: to dry
+      NON-INGREDIENT SPAN: to dry
+
+PREDID: 129
+PRED: spread
+   DOBJ: NULL
+   PARG: a work surface or a baking sheet for 30 minutes
+     PREP: onto
+      NON-INGREDIENT SPAN: a work surface or a baking sheet for 30 minutes
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 186
+PRED: preheat
+   DOBJ: oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 5
+SENT: I would line a baking sheet with aluminum foil .
+PREDID: 224
+PRED: line
+   DOBJ: a baking sheet with aluminum foil
+      NON-INGREDIENT SPAN: a baking sheet with aluminum foil
+
+
+SENTID: 6
+SENT: I would melt butter in a large microwave-safe bowl until melted , about 1 minute .
+PREDID: 257
+PRED: melt
+   DOBJ: butter in a large microwave-safe bowl
+      INGREDIENT SPAN: butter in a large microwave-safe bowl
+         INGREDIENTS: unsalted butter
+   PARG: melted , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: melted 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 7
+SENT: I would toss seeds in the melted butter and mix in 1 tablespoon sugar , the cinnamon , the ginger , the nutmeg , the cloves , and cardamom ;
+PREDID: 318
+PRED: toss
+   DOBJ: seeds
+      NON-INGREDIENT SPAN: seeds
+   PARG: the melted butter, mix in 1 tablespoon sugar , the cinnamon , the ginger , the nutmeg , the cloves , cardamom
+     PREP: in
+      INGREDIENT SPAN:  cardamom
+         INGREDIENTS: ground cardamom
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  mix in 1 tablespoon sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: the melted butter
+
+
+SENTID: 8
+SENT: I would toss again to coat seeds thoroughly with spices .
+PREDID: 411
+PRED: toss
+   DOBJ: NULL
+   PARG: coat seeds
+     PREP: to
+      NON-INGREDIENT SPAN: coat seeds
+   PARG: spices
+     PREP: with
+      NON-INGREDIENT SPAN: spices
+   OARG: again
+      NON-INGREDIENT SPAN: again
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 9
+SENT: I would spread seeds out onto the prepared baking sheet in a single layer .
+PREDID: 452
+PRED: spread
+   DOBJ: seeds
+      NON-INGREDIENT SPAN: seeds
+   PARG: the prepared baking sheet in a single layer
+     PREP: onto
+      NON-INGREDIENT SPAN: the prepared baking sheet in a single layer
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until toasted and crunchy , 45 minutes to 1 hour .
+PREDID: 507
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: toasted, crunchy , 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 minutes
+      NON-INGREDIENT SPAN:  crunchy 
+      NON-INGREDIENT SPAN: toasted
+   PARG: 1 hour
+     PREP: to
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 11
+SENT: I would stir several times during baking .
+PREDID: 569
+PRED: stir
+   DOBJ: several times
+      NON-INGREDIENT SPAN: several times
+   PARG: baking
+     PREP: during
+      NON-INGREDIENT SPAN: baking
+
+
+SENTID: 12
+SENT: I would sprinkle toasted seeds with 1 tablespoon sugar or as desired ;
+PREDID: 598
+PRED: sprinkle
+   DOBJ: toasted seeds
+      NON-INGREDIENT SPAN: toasted seeds
+   PARG: 1 tablespoon sugar
+     PREP: with
+      INGREDIENT SPAN: 1 tablespoon sugar
+         INGREDIENTS: white sugar taste
+
+
+SENTID: 13
+SENT: I would cool before serving .
+PREDID: 650
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

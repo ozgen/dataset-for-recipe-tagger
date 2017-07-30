@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would mix beer , the mustard , the honey , Worcestershire sauce , garlic , cayenne pepper , and salt in a bowl until honey is dissolved .
+PREDID: 0
+PRED: mix
+   DOBJ: beer , the mustard , the honey , Worcestershire sauce , garlic , cayenne pepper , salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: beer 
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: mustard taste
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: honey is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: honey is dissolved
+
+
+SENTID: 1
+SENT: I would pour a small amount of the beer marinade into a slow cooker ;
+PREDID: 99
+PRED: pour
+   DOBJ: a small amount of the beer marinade
+      NON-INGREDIENT SPAN: a small amount of the beer marinade
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 2
+SENT: I would add pork .
+PREDID: 148
+PRED: add
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pork picnic roast
+
+
+SENTID: 3
+SENT: I would pour the remaining marinade over pork .
+PREDID: 156
+PRED: pour
+   DOBJ: the remaining marinade over pork
+      NON-INGREDIENT SPAN: the remaining marinade over pork
+
+
+SENTID: 4
+SENT: I would cover and refrigerate overnight , turning pork occasionally .
+PREDID: 186
+PRED: cover and refrigerate
+   DOBJ: overnight
+      NON-INGREDIENT SPAN: overnight
+   OARG: turning pork occasionally
+      NON-INGREDIENT SPAN: turning pork occasionally
+
+
+SENTID: 5
+SENT: I would cook pork on Low in the slow cooker for 8 hours , basting occasionally .
+PREDID: 239
+PRED: cook
+   DOBJ: pork on Low
+      NON-INGREDIENT SPAN: pork on Low
+   PARG: the slow cooker for 8 hours
+     PREP: in
+      NON-INGREDIENT SPAN: the slow cooker for 8 hours
+   OARG: basting occasionally
+      NON-INGREDIENT SPAN: basting occasionally
+
+
+SENTID: 6
+SENT: I would add water if the pork becomes dry .
+PREDID: 297
+PRED: add
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: the pork becomes dry
+     PREP: if
+      NON-INGREDIENT SPAN: the pork becomes dry
+
+
+SENTID: 7
+SENT: I would drop onion around pork and continue to cook until pork is very tender , about 2 hours more .
+PREDID: 325
+PRED: drop
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: pork
+     PREP: around
+      NON-INGREDIENT SPAN: pork
+
+PREDID: 347
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until pork is very tender , about 2 hours more
+      NON-INGREDIENT SPAN: to cook until pork is very tender 
+      NON-INGREDIENT SPAN:  about 2 hours more
+
+
+SENTID: 8
+SENT: I would pull and shred pork with two forks , discarding any pieces of fat .
+PREDID: 399
+PRED: pull and shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: two forks
+     PREP: with
+      NON-INGREDIENT SPAN: two forks
+   OARG: discarding any pieces of fat
+      NON-INGREDIENT SPAN: discarding any pieces of fat
+
+
+SENTID: 9
+SENT: I would transfer pork to a serving dish .
+PREDID: 453
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a serving dish
+     PREP: to
+      NON-INGREDIENT SPAN: a serving dish
+
+
+SENTID: 10
+SENT: I would skim the remaining onion from the slow cooker using a sieve and add to pork .
+PREDID: 480
+PRED: skim
+   DOBJ: the remaining onion
+      NON-INGREDIENT SPAN: the remaining onion
+   PARG: the slow cooker using a sieve
+     PREP: from
+      NON-INGREDIENT SPAN: the slow cooker using a sieve
+
+PREDID: 532
+PRED: add
+   DOBJ: NULL
+   PARG: pork
+     PREP: to
+      NON-INGREDIENT SPAN: pork
+
+

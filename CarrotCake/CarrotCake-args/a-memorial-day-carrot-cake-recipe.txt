@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would generously grease 2 9-inch round cake pans .
+PREDID: 48
+PRED: grease
+   DOBJ: 2 9-inch round cake pans
+      NON-INGREDIENT SPAN: 2 9-inch round cake pans
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 2
+SENT: I would stir almond flour , sea salt , the cinnamon , baking soda , and nutmeg together in a large bowl .
+PREDID: 75
+PRED: stir baking
+   DOBJ: soda, almond flour , sea salt , the cinnamon
+      INGREDIENT SPAN:  sea salt 
+         INGREDIENTS: celtic sea salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  almond flour 
+         INGREDIENTS: almond flour
+      INGREDIENT SPAN: soda
+         INGREDIENTS: baking soda
+
+PREDID: 125
+PRED: nutmeg
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat eggs , agave nectar , and grapeseed oil together in a separate large bowl .
+PREDID: 149
+PRED: beat
+   DOBJ: eggs , agave nectar , grapeseed oil
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  grapeseed oil
+         INGREDIENTS: grapeseed oil
+      INGREDIENT SPAN:  agave nectar 
+         INGREDIENTS: agave nectar
+   PARG: a separate large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir carrots , the raisins , and walnuts into the egg mixture .
+PREDID: 214
+PRED: stir
+   DOBJ: carrots , the raisins , walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: walnuts
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: grated carrots
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 5
+SENT: I would stir carrot mixture into flour mixture to form a batter ;
+PREDID: 262
+PRED: stir
+   DOBJ: carrot mixture
+      NON-INGREDIENT SPAN: carrot mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   OARG: to form a batter
+      NON-INGREDIENT SPAN: to form a batter
+
+
+SENTID: 6
+SENT: I would pour into prepared cake pans .
+PREDID: 309
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared cake pans
+     PREP: into
+      NON-INGREDIENT SPAN: prepared cake pans
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , about 35 minutes .
+PREDID: 334
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center comes out clean , about 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+      NON-INGREDIENT SPAN:  about 35 minutes
+
+
+SENTID: 8
+SENT: I would cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 421
+PRED: cool
+   DOBJ: NULL
+   PARG: the pans for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pans for 10 minutes
+   PARG: removing to cool completely on a wire rack
+     PREP: before
+      NON-INGREDIENT SPAN: removing to cool completely on a wire rack
+
+

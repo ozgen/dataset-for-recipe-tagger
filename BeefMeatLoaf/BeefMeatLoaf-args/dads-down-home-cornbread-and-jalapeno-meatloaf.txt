@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium baking dish
+      NON-INGREDIENT SPAN: a medium baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would mix the ground beef and ground pork in a large bowl .
+PREDID: 69
+PRED: mix
+   DOBJ: the ground beef, ground pork in a large bowl
+      INGREDIENT SPAN:  ground pork in a large bowl
+         INGREDIENTS: ground pork
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: In a separate bowl , I would mix the corn , cornbread , sour cream , pepperjack cheese , the onion , the milk , the egg , jalapeno peppers , the garlic , kosher salt , and pepper .
+PREDID: 127
+PRED: mix
+   DOBJ: the corn , cornbread , sour cream , pepperjack cheese , the onion , the milk , the egg , jalapeno peppers , the garlic , kosher salt , pepper
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  pepperjack cheese 
+         INGREDIENTS: shredded pepperjack cheese
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: fresh jalapeno peppers seeded minced
+      INGREDIENT SPAN:  kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: canned whole kernel corn
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cornbread 
+         INGREDIENTS: crumbled cornbread
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 4
+SENT: I would gently mix the corn mixture into the meat mixture .
+PREDID: 240
+PRED: mix
+   DOBJ: the corn mixture
+      NON-INGREDIENT SPAN: the corn mixture
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 5
+SENT: I would form into a rounded loaf shape , and place in the prepared baking dish
+PREDID: 276
+PRED: form
+   DOBJ: NULL
+   PARG: a rounded loaf shape , place in the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a rounded loaf shape 
+      NON-INGREDIENT SPAN:  place in the prepared baking dish
+
+
+SENTID: 6
+SENT: I would bake 1 hour in the preheated oven , to a minimum internal temperature of 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 333
+PRED: bake
+   DOBJ: 1 hour in the preheated oven , to a minimum internal temperature of 160 degrees F -LRB- 72 degrees C
+      NON-INGREDIENT SPAN:  to a minimum internal temperature of 160 degrees F -LRB- 72 degrees C
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven 
+
+
+SENTID: 7
+SENT: I would loosely cover with aluminum foil during the last 15 minutes of cook time if the loaf is overly brown .
+PREDID: 423
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+   PARG: the last 15 minutes of cook time
+     PREP: during
+      NON-INGREDIENT SPAN: the last 15 minutes of cook time
+   PARG: the loaf is overly brown
+     PREP: if
+      NON-INGREDIENT SPAN: the loaf is overly brown
+   OARG: loosely
+      NON-INGREDIENT SPAN: loosely
+
+

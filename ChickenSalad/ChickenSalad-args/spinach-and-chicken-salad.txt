@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: I would place equal portions of spinach onto four salad plates .
+PREDID: 0
+PRED: place
+   DOBJ: equal portions of spinach
+      INGREDIENT SPAN: equal portions of spinach
+         INGREDIENTS: ounce bag fresh spinach rinsed dried
+   PARG: four salad plates
+     PREP: onto
+      INGREDIENT SPAN: four salad plates
+         INGREDIENTS: fatfree roasted garlic salad dressing
+
+
+SENTID: 1
+SENT: I would arrange chicken , the zucchini , bell pepper , and black olives over spinach , and top with cheese .
+PREDID: 47
+PRED: arrange
+   DOBJ: chicken , the zucchini , bell pepper , black olives over spinach
+      INGREDIENT SPAN:  black olives over spinach
+         INGREDIENTS: black olives
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cooked skinless boneless chicken breast halves sliced
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: zucchini halved lengthwise sliced
+
+PREDID: 114
+PRED: top
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: fontina cheese shredded
+
+
+SENTID: 2
+SENT: I would drizzle the dressing over salad .
+PREDID: 125
+PRED: drizzle
+   DOBJ: the dressing over salad
+      INGREDIENT SPAN: the dressing over salad
+         INGREDIENTS: fatfree roasted garlic salad dressing
+
+

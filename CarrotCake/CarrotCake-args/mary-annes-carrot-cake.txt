@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour two 10 inch Bundt pans .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: two 10 inch Bundt pans
+      NON-INGREDIENT SPAN: two 10 inch Bundt pans
+
+
+SENTID: 2
+SENT: I would sift together flour , baking soda and salt .
+PREDID: 71
+PRED: sift
+   DOBJ: flour , baking soda, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 107
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine carrots , the pineapple , the oil and sugar .
+PREDID: 129
+PRED: combine
+   DOBJ: carrots , the pineapple , the oil, sugar
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: ground carrots
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would add eggs , the cinnamon and nutmeg .
+PREDID: 166
+PRED: add
+   DOBJ: eggs , the cinnamon, nutmeg
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+
+
+SENTID: 6
+SENT: I would add flour mixture and mix well .
+PREDID: 192
+PRED: add
+   DOBJ: flour mixture, mix
+      NON-INGREDIENT SPAN: flour mixture
+      NON-INGREDIENT SPAN:  mix
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would stir in raisins .
+PREDID: 218
+PRED: stir
+   DOBJ: NULL
+   PARG: raisins
+     PREP: in
+      INGREDIENT SPAN: raisins
+         INGREDIENTS: raisins
+
+
+SENTID: 8
+SENT: I would pour into prepared greased and floured pans .
+PREDID: 232
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared greased, floured pans
+     PREP: into
+      NON-INGREDIENT SPAN:  floured pans
+      NON-INGREDIENT SPAN: prepared greased
+
+
+SENTID: 9
+SENT: I would bake for 45 minutes , or until a toothpick inserted into the cake comes out clean .
+PREDID: 270
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes , or until a toothpick inserted into the cake comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the cake comes out clean
+
+
+SENTID: 10
+SENT: I would allow to cool ,
+PREDID: 337
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 11
+SENT: I would frost with cream cheese frosting .
+PREDID: 349
+PRED: frost
+   DOBJ: NULL
+   PARG: cream cheese frosting
+     PREP: with
+      NON-INGREDIENT SPAN: cream cheese frosting
+
+

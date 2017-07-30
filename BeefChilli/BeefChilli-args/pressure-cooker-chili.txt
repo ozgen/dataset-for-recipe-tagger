@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would place the ground beef in the pressure cooker over medium high heat ;
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the pressure cooker over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: the pressure cooker over medium high heat
+
+
+SENTID: 1
+SENT: I would cook until brown and crumbly , 8 to 10 minutes .
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: brown, crumbly , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+      NON-INGREDIENT SPAN:  crumbly 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would remove the ground beef , and drain off the excess fat .
+PREDID: 94
+PRED: remove
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground cumin
+
+PREDID: 117
+PRED: drain
+   DOBJ: the excess fat
+      NON-INGREDIENT SPAN: the excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would return the open pressure cooker to the burner over medium heat , pour in the olive oil , and stir in the onion , green pepper , and jalapeno pepper .
+PREDID: 138
+PRED: return
+   DOBJ: the open pressure cooker
+      NON-INGREDIENT SPAN: the open pressure cooker
+   PARG: the burner over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: the burner over medium heat
+
+PREDID: 191
+PRED: pour
+   DOBJ: NULL
+   PARG: the olive oil
+     PREP: in
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+
+PREDID: 212
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , green pepper , jalapeno pepper
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: sweet onion chopped
+      INGREDIENT SPAN:  jalapeno pepper
+         INGREDIENTS: small green bell pepper chopped
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: crushed red pepper flakes taste
+
+
+SENTID: 4
+SENT: I would cook and stir for 3 to 4 minutes , until the onion is translucent .
+PREDID: 257
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 3 to 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 minutes
+   PARG: the onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is translucent
+
+
+SENTID: 5
+SENT: I would add the garlic , and cook and stir for about 30 more seconds .
+PREDID: 310
+PRED: add
+   DOBJ: the garlic
+      NON-INGREDIENT SPAN: the garlic
+
+PREDID: 326
+PRED: cook and stir
+   DOBJ: more seconds
+      NON-INGREDIENT SPAN: more seconds
+   PARG: about 30
+     PREP: for
+      NON-INGREDIENT SPAN: about 30
+
+
+SENTID: 6
+SENT: I would return the meat to the pressure cooker ;
+PREDID: 359
+PRED: return
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the pressure cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the pressure cooker
+
+
+SENTID: 7
+SENT: I would mix in the kidney beans , diced tomatoes , tomato paste , brown sugar , cocoa powder , red pepper flakes , chili powder , the cumin , the salt , and water .
+PREDID: 392
+PRED: mix
+   DOBJ: NULL
+   PARG: the kidney beans , diced tomatoes , tomato paste , brown sugar , cocoa powder , red pepper flakes , chili powder , the cumin , the salt , water
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: kosher salt taste
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes undrained
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the kidney beans 
+         INGREDIENTS: ounce dark red kidney beans drained rinsed
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: dark brown sugar
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: jalapeno pepper seeded chopped
+      NON-INGREDIENT SPAN:  the cumin 
+
+
+SENTID: 8
+SENT: Lock the lid , I would bring the cooker up to pressure , reduce heat to maintain pressure , and cook for 8 minutes .
+PREDID: 520
+PRED: bring
+   DOBJ: the cooker
+      NON-INGREDIENT SPAN: the cooker
+   PARG: the lid
+     PREP: lock
+      NON-INGREDIENT SPAN: the lid
+   PARG: pressure
+     PREP: to
+      NON-INGREDIENT SPAN: pressure
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 547
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   OARG: to maintain pressure
+      NON-INGREDIENT SPAN: to maintain pressure
+
+PREDID: 579
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 minutes
+
+
+SENTID: 9
+SENT: I would remove cooker from the heat , and let the pressure reduce on its own , 5 to 10 minutes .
+PREDID: 595
+PRED: remove
+   DOBJ: cooker
+      NON-INGREDIENT SPAN: cooker
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 622
+PRED: let reduce
+   DOBJ: the pressure
+      NON-INGREDIENT SPAN: the pressure
+   PARG: its own
+     PREP: on
+      NON-INGREDIENT SPAN: its own
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+
+
+SENTID: 10
+SENT: When the pressure is fully released , remove the lid , stir the chili , and serve .
+PREDID: 695
+PRED: remove
+   DOBJ: the lid
+      NON-INGREDIENT SPAN: the lid
+   OARG: when the pressure is fully released
+      NON-INGREDIENT SPAN: when the pressure is fully released
+
+PREDID: 708
+PRED: stir
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+
+

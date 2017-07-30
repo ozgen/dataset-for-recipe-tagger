@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would mix together 3/4 to 1 cup brown sugar , 1/2 teaspoon ground cinnamon , and 1/4 teaspoon salt .
+PREDID: 0
+PRED: mix
+   DOBJ: brown sugar , 1/2 teaspoon ground cinnamon , 1/4 teaspoon salt
+      INGREDIENT SPAN:  1/2 teaspoon ground cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  1/4 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+   OARG: together 3/4 to 1 cup
+      NON-INGREDIENT SPAN: together 3/4 to 1 cup
+
+
+SENTID: 1
+SENT: I would stir in 1 canned pumpkin , the eggs , corn syrup , and 1 teaspoon vanilla .
+PREDID: 76
+PRED: stir
+   DOBJ: NULL
+   PARG: 1 canned pumpkin , the eggs , corn syrup , 1 teaspoon vanilla
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: 1 canned pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  1 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 2
+SENT: I would pour mixture into pie shell and sprinkle with pecans .
+PREDID: 132
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+PREDID: 158
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 3
+SENT: I would arrange additional pecans , if desired , for a `` pretty '' pie .
+PREDID: 177
+PRED: arrange
+   DOBJ: additional pecans
+      NON-INGREDIENT SPAN: additional pecans
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   PARG: a `` pretty '' pie
+     PREP: for
+      NON-INGREDIENT SPAN: a `` pretty '' pie
+
+
+SENTID: 4
+SENT: I would bake 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes .
+PREDID: 229
+PRED: bake
+   DOBJ: 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: 350 degrees F -LRB- 175 degrees C
+   PARG: 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes
+
+
+SENTID: 5
+SENT: I would cool .
+PREDID: 270
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would serve with spicy whipped cream .
+PREDID: 275
+PRED: serve
+   DOBJ: NULL
+   PARG: spicy whipped cream
+     PREP: with
+      INGREDIENT SPAN: spicy whipped cream
+         INGREDIENTS: heavy whipping cream
+
+
+SENTID: 7
+SENT: To Make Spicy Whipped Cream :
+
+SENTID: 8
+SENT: In medium bowl , I would mix 1/2 cup brown sugar , 1/2 teaspoon cinnamon , 1/8 teaspoon nutmeg .
+PREDID: 339
+PRED: mix
+   DOBJ: NULL
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+   OARG: 1/2 cup brown sugar , 1/2 teaspoon cinnamon , 1/8 teaspoon nutmeg
+      INGREDIENT SPAN:  1/8 teaspoon nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  1/2 teaspoon cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: 1/2 cup brown sugar 
+
+
+SENTID: 9
+SENT: I would stir in 3/4 cup whipping cream and 1/2 teaspoon vanilla .
+PREDID: 397
+PRED: stir
+   DOBJ: NULL
+   PARG: 3/4 cup whipping cream, 1/2 teaspoon vanilla
+     PREP: in
+      INGREDIENT SPAN:  1/2 teaspoon vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN: 3/4 cup whipping cream
+
+
+SENTID: 10
+SENT: I would chill 1 hour .
+PREDID: 444
+PRED: chill
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 11
+SENT: I would whip until stiff .
+PREDID: 455
+PRED: whip
+   DOBJ: NULL
+   PARG: stiff
+     PREP: until
+      NON-INGREDIENT SPAN: stiff
+
+

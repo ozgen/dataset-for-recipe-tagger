@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would add hot water to stuffing mix in large bowl ;
+PREDID: 22
+PRED: add
+   DOBJ: hot water
+      INGREDIENT SPAN: hot water
+         INGREDIENTS: hot water
+   PARG: stuffing mix in large bowl
+     PREP: to
+      INGREDIENT SPAN: stuffing mix in large bowl
+         INGREDIENTS: g package STOVE TOP Stuffing Mix Chicken
+
+
+SENTID: 2
+SENT: I would stir just until moistened .
+PREDID: 58
+PRED: stir
+   DOBJ: NULL
+   PARG: moistened
+     PREP: until
+      NON-INGREDIENT SPAN: moistened
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 3
+SENT: I would add meat , the cheese and onions ;
+PREDID: 81
+PRED: add
+   DOBJ: meat , the cheese, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  the cheese
+         INGREDIENTS: KRAFT MozzaCheddar Shredded Cheese
+      NON-INGREDIENT SPAN: meat 
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 105
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would press into 12 muffin cups sprayed with cooking spray .
+PREDID: 113
+PRED: press
+   DOBJ: NULL
+   PARG: 12 muffin cups sprayed with cooking spray
+     PREP: into
+      NON-INGREDIENT SPAN: 12 muffin cups sprayed with cooking spray
+
+
+SENTID: 6
+SENT: I would bake 25 min .
+PREDID: 158
+PRED: bake
+   DOBJ: 25 min
+      NON-INGREDIENT SPAN: 25 min
+
+
+SENTID: 7
+SENT: or until done -LRB- 160 degrees F -RRB- , brushing with combined barbecue sauce and sugar for the last 10 min .
+PREDID: 201
+PRED: brushing
+   DOBJ: NULL
+   PARG: done -lrb- 160 degrees f
+     PREP: until
+      NON-INGREDIENT SPAN: done -lrb- 160 degrees f
+   PARG: combined barbecue sauce, sugar for the last 10 min
+     PREP: with
+      INGREDIENT SPAN: combined barbecue sauce
+         INGREDIENTS: BULL SEYE Bold Original Barbecue Sauce
+      INGREDIENT SPAN:  sugar for the last 10 min
+         INGREDIENTS: brown sugar
+   OARG: or
+      NON-INGREDIENT SPAN: or
+
+

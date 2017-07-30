@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: small seashell pasta
+
+PREDID: 54
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 88
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a medium bowl , I would combine chicken , the celery , the grapes , cooked pasta , the salt , and white pepper ;
+PREDID: 108
+PRED: combine
+   DOBJ: chicken , the celery , the grapes , cooked pasta , the salt , white pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: chopped poached chicken breast meat
+      INGREDIENT SPAN:  white pepper
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless green grapes halved
+      NON-INGREDIENT SPAN:  cooked pasta 
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 4
+SENT: I would mix well and reserve .
+PREDID: 169
+PRED: mix
+   DOBJ: well, reserve
+      NON-INGREDIENT SPAN:  reserve
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: In a medium bowl , I would combine mayonnaise , curry powder , the cumin , rice vinegar , and sugar ;
+PREDID: 201
+PRED: combine
+   DOBJ: mayonnaise , curry powder , the cumin , rice vinegar , sugar
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 6
+SENT: I would whisk ingredients together and toss with chicken mixture .
+PREDID: 258
+PRED: whisk
+   DOBJ: ingredients
+      NON-INGREDIENT SPAN: ingredients
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 285
+PRED: toss
+   DOBJ: NULL
+   PARG: chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: chicken mixture
+
+
+SENTID: 7
+SENT: I would cover salad with plastic wrap and refrigerate for at least 2 to 4 hours before serving .
+PREDID: 308
+PRED: cover
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 336
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 2
+     PREP: for
+      NON-INGREDIENT SPAN: at least 2
+   PARG: 4 hours
+     PREP: to
+      NON-INGREDIENT SPAN: 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

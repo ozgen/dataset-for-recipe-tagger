@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would whisk vegetable oil , the sugar , the vinegar , grated onion , dry mustard , and salt in a bowl , stirring until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+   DOBJ: vegetable oil , the sugar , the vinegar , grated onion , dry mustard , salt
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard powder
+      INGREDIENT SPAN:  grated onion 
+         INGREDIENTS: grated onion
+      INGREDIENT SPAN: vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: stirring until sugar has dissolved
+      NON-INGREDIENT SPAN: stirring until sugar has dissolved
+
+
+SENTID: 1
+SENT: I would toss coleslaw mix , the peas , the peanuts , and poppy seeds together in a large salad bowl until thoroughly combined ;
+PREDID: 101
+PRED: toss
+   DOBJ: coleslaw mix , the peas , the peanuts , poppy seeds
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce packages frozen green peas thawed
+      INGREDIENT SPAN:  the peanuts 
+         INGREDIENTS: dryroasted peanuts
+      INGREDIENT SPAN:  poppy seeds
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN: coleslaw mix 
+         INGREDIENTS: ounce packages coleslaw mix
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour the dressing over coleslaw and stir to coat .
+PREDID: 192
+PRED: pour
+   DOBJ: the dressing over coleslaw
+      NON-INGREDIENT SPAN: the dressing over coleslaw
+
+PREDID: 222
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would let stand 10 minutes before serving .
+PREDID: 230
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

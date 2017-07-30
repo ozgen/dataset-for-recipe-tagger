@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a large skillet over medium high heat , I would saute the ground beef for 5 to 10 minutes , or until browned .
+PREDID: 34
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+
+
+SENTID: 1
+SENT: I would transfer to a slow cooker .
+PREDID: 83
+PRED: transfer
+   DOBJ: NULL
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 2
+SENT: I would then add the onion , green bell peppers , the beans and tomatoes to the slow cooker .
+PREDID: 109
+PRED: add
+   DOBJ: the onion , green bell peppers , the beans, tomatoes
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce whole peeled tomatoes liquid
+      INGREDIENT SPAN:  the beans
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell peppers chopped
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 3
+SENT: I would season with chili powder to taste .
+PREDID: 170
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder
+     PREP: with
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would cook on high setting for 4 hours , or until all vegetables are tender .
+PREDID: 199
+PRED: cook
+   DOBJ: NULL
+   PARG: high setting for 4 hours , or until all vegetables are tender
+     PREP: on
+      NON-INGREDIENT SPAN: high setting for 4 hours 
+      NON-INGREDIENT SPAN:  or until all vegetables are tender
+
+

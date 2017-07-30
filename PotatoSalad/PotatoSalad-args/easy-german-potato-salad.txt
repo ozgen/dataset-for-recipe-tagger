@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would place potatoes in a large saucepan or Dutch oven , and cover with lightly salted water .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+   PARG: a large saucepan or dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan or dutch oven
+
+PREDID: 44
+PRED: cover
+   DOBJ: NULL
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil over high heat ,
+PREDID: 72
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would reduce heat to medium , and simmer until potatoes are tender ;
+PREDID: 97
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 119
+PRED: simmer
+   DOBJ: NULL
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 3
+SENT: I would drain and cool .
+PREDID: 148
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would peel the potatoes and cut into 1/4 inch slices .
+PREDID: 161
+PRED: peel
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 179
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/4 inch slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1/4 inch slices
+
+
+SENTID: 5
+SENT: I would mix together the potatoes , the cucumbers , and mayonnaise ;
+PREDID: 200
+PRED: mix
+   DOBJ: the potatoes , the cucumbers , mayonnaise
+      INGREDIENT SPAN:  the cucumbers 
+         INGREDIENTS: cucumber sliced
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN: the potatoes 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would season with salt and pepper .
+PREDID: 247
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

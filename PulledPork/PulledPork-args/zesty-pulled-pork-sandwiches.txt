@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would stir barbeque sauce , the onion , the ketchup , brown sugar , the salt , black pepper , and chili powder in slow cooker ;
+PREDID: 0
+PRED: stir
+   DOBJ: barbeque sauce , the onion , the ketchup , brown sugar , the salt , black pepper , chili powder in slow cooker
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped white onion
+      INGREDIENT SPAN: barbeque sauce 
+         INGREDIENTS: barbeque sauce more desired
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  chili powder in slow cooker
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 1
+SENT: I would add pork loin and coat with sauce .
+PREDID: 87
+PRED: add
+   DOBJ: pork loin, coat with sauce
+      INGREDIENT SPAN: pork loin
+         INGREDIENTS: boneless pork loin quartered
+      NON-INGREDIENT SPAN:  coat with sauce
+
+
+SENTID: 2
+SENT: I would cover and cook on High until pork is very tender , about 4?1/2 hours .
+PREDID: 115
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: pork is very tender , about 4?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: pork is very tender 
+      NON-INGREDIENT SPAN:  about 4?1/2 hours
+
+
+SENTID: 3
+SENT: I would shred pork with 2 forks .
+PREDID: 171
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: 2 forks
+     PREP: with
+      NON-INGREDIENT SPAN: 2 forks
+
+
+SENTID: 4
+SENT: I would keep warm on Low until ready to serve .
+PREDID: 191
+PRED: keep
+   DOBJ: NULL
+   PARG: ready to serve
+     PREP: until
+      NON-INGREDIENT SPAN: ready to serve
+   OARG: warm on low
+      NON-INGREDIENT SPAN: warm on low
+
+
+SENTID: 5
+SENT: I would serve on onion rolls .
+PREDID: 222
+PRED: serve
+   DOBJ: NULL
+   PARG: onion rolls
+     PREP: on
+      NON-INGREDIENT SPAN: onion rolls
+
+

@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would toss the cabbage , the carrots , green bell pepper , red bell pepper , Red Delicious apple , and Golden Delicious apple together in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: the cabbage , the carrots , green bell pepper , red bell pepper , Red Delicious apple , Golden Delicious apple
+      INGREDIENT SPAN:  Red Delicious apple 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: yellow bell pepper seeded sliced
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper seeded sliced
+      INGREDIENT SPAN:  Golden Delicious apple
+         INGREDIENTS: Golden Delicious apple cored chopped
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: medium head green cabbage shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk the apple cider vinegar , the sugar , and sea salt together in a small bowl ;
+PREDID: 115
+PRED: whisk
+   DOBJ: the apple cider vinegar , the sugar , sea salt
+      INGREDIENT SPAN:  sea salt
+         INGREDIENTS: fine sea salt
+      INGREDIENT SPAN: the apple cider vinegar 
+         INGREDIENTS: Red Delicious apple cored chopped
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with black pepper .
+PREDID: 178
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+
+
+SENTID: 3
+SENT: I would pour the vinegar mixture over the cabbage mixture and gently toss to coat .
+PREDID: 200
+PRED: pour
+   DOBJ: the vinegar mixture
+      NON-INGREDIENT SPAN: the vinegar mixture
+   PARG: the cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the cabbage mixture
+
+PREDID: 251
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 4
+SENT: I would cover the bowl with plastic wrap and refrigerate at least 30 minutes .
+PREDID: 262
+PRED: cover
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 292
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 30 minutes
+
+

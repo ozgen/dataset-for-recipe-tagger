@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: In a heavy saucepan combine gelatin , I would the cinnamon , the ginger , the nutmeg , and salt .
+
+SENTID: 1
+SENT: I would stir in condensed milk and beaten eggs , mixing well .
+PREDID: 0
+PRED: stir
+   DOBJ: NULL
+   PARG: condensed milk, beaten eggs
+     PREP: in
+      INGREDIENT SPAN:  beaten eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: condensed milk
+         INGREDIENTS: ounce sweetened condensed milk
+   OARG: mixing well
+      NON-INGREDIENT SPAN: mixing well
+
+
+SENTID: 2
+SENT: I would let stand one minute ,
+PREDID: 44
+PRED: let
+   DOBJ: stand one minute
+      NON-INGREDIENT SPAN: stand one minute
+
+
+SENTID: 3
+SENT: I would place on burner over low heat , stirring constantly for about 10 minutes , or until gelatin dissolves and mixture thickens .
+PREDID: 62
+PRED: place
+   DOBJ: NULL
+   PARG: burner over low heat
+     PREP: on
+      NON-INGREDIENT SPAN: burner over low heat
+   OARG: stirring constantly for about 10 minutes , or until gelatin dissolves, mixture thickens
+      INGREDIENT SPAN:  or until gelatin dissolves
+         INGREDIENTS: ounce package unflavored gelatin
+      NON-INGREDIENT SPAN:  mixture thickens
+      NON-INGREDIENT SPAN: stirring constantly for about 10 minutes 
+
+
+SENTID: 4
+SENT: I would remove from heat .
+PREDID: 165
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would stir in pumpkin , mixing thoroughly , and pour mixture into graham cracker crust .
+PREDID: 180
+PRED: stir
+   DOBJ: NULL
+   PARG: pumpkin , mixing thoroughly
+     PREP: in
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      NON-INGREDIENT SPAN:  mixing thoroughly
+
+PREDID: 214
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: graham cracker crust
+     PREP: into
+      INGREDIENT SPAN: graham cracker crust
+         INGREDIENTS: inch prepared graham cracker crust
+
+
+SENTID: 6
+SENT: I would chill for at least 3 hours before serving .
+PREDID: 248
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 3 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

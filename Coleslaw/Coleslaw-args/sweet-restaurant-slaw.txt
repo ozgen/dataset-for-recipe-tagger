@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: I would combine the coleslaw mix and onion in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the coleslaw mix, onion in a large bowl
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce bag coleslaw mix
+      INGREDIENT SPAN:  onion in a large bowl
+         INGREDIENTS: diced onion
+
+
+SENTID: 1
+SENT: I would whisk together the salad dressing , vegetable oil , the sugar , the vinegar , the salt , and poppy seeds in a medium bowl ;
+PREDID: 42
+PRED: whisk
+   DOBJ: the salad dressing , vegetable oil , the sugar , the vinegar , the salt , poppy seeds in a medium bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  poppy seeds in a medium bowl
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: the salad dressing 
+         INGREDIENTS: creamy salad dressing such Miracle Whip
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would blend thoroughly .
+PREDID: 131
+PRED: blend
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 3
+SENT: I would pour the dressing mixture over coleslaw mix and toss to coat .
+PREDID: 147
+PRED: pour
+   DOBJ: the dressing mixture
+      NON-INGREDIENT SPAN: the dressing mixture
+   PARG: coleslaw mix
+     PREP: over
+      NON-INGREDIENT SPAN: coleslaw mix
+
+PREDID: 187
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 4
+SENT: I would chill at least 2 hours before serving .
+PREDID: 195
+PRED: chill
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

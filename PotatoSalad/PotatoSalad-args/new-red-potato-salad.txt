@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add red potatoes , and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: red potatoes
+      INGREDIENT SPAN: red potatoes
+         INGREDIENTS: unpeeled red potatoes
+
+PREDID: 53
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain , cool and chop into 1 inch cubes .
+PREDID: 96
+PRED: drain and cool
+   DOBJ: NULL
+
+PREDID: 109
+PRED: chop
+   DOBJ: NULL
+   PARG: 1 inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch cubes
+
+
+SENTID: 3
+SENT: I would place in a medium bowl .
+PREDID: 128
+PRED: place
+   DOBJ: NULL
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 4
+SENT: I would place eggs in a medium saucepan , and cover with cold water .
+PREDID: 147
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+
+PREDID: 177
+PRED: cover
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 5
+SENT: Bring water to a boil , I would and immediately remove from heat .
+
+SENTID: 6
+SENT: I would cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 196
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 205
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 7
+SENT: I would remove from hot water , the cool , the peel and dice .
+PREDID: 244
+PRED: remove
+   DOBJ: NULL
+   PARG: hot water , the cool , the peel, dice
+     PREP: from
+      NON-INGREDIENT SPAN:  dice
+      NON-INGREDIENT SPAN:  the peel
+      NON-INGREDIENT SPAN:  the cool 
+      NON-INGREDIENT SPAN: hot water 
+
+
+SENTID: 8
+SENT: In a small bowl , I would whisk together mayonnaise , the milk , distilled white vinegar , green onions , the salt and pepper .
+PREDID: 293
+PRED: whisk
+   DOBJ: mayonnaise , the milk , distilled white vinegar , green onions , the salt, pepper
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: sliced green onions
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  distilled white vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would pour the mixture over the potatoes , and mix together with the eggs and celery .
+PREDID: 370
+PRED: pour
+   DOBJ: the mixture over the potatoes
+      NON-INGREDIENT SPAN: the mixture over the potatoes
+
+PREDID: 403
+PRED: mix
+   DOBJ: NULL
+   PARG: with the eggs, celery
+     PREP: together
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: sliced celery
+      NON-INGREDIENT SPAN: with the eggs
+
+
+SENTID: 10
+SENT: I would cover , and chill in the refrigerator approximately 2 hours before serving .
+PREDID: 435
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 444
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator approximately 2 hours
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator approximately 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

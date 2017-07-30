@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9x13 inch pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 9x13 inch pan
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine grated carrots , the flour , white sugar , baking soda , baking powder , the salt and cinnamon .
+PREDID: 78
+PRED: combine
+   DOBJ: grated carrots , the flour , white sugar , baking soda , baking powder , the salt, cinnamon
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: grated carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would stir in eggs , the oil , 1?1/4 teaspoon vanilla , the pineapple and 3/4 cup chopped pecans .
+PREDID: 156
+PRED: stir
+   DOBJ: NULL
+   PARG: eggs , the oil , 1?1/4 teaspoon vanilla , the pineapple, 3/4 cup chopped pecans
+     PREP: in
+      INGREDIENT SPAN:  1?1/4 teaspoon vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  3/4 cup chopped pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the pineapple
+         INGREDIENTS: ounce crushed pineapple juice
+
+
+SENTID: 4
+SENT: I would spoon batter into prepared pan .
+PREDID: 224
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven for 30 to 40 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 251
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 to 40 minutes , or until a toothpick inserted into the center of the cake comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 to 40 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of the cake comes out clean
+
+
+SENTID: 6
+SENT: I would allow to cool .
+PREDID: 351
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 7
+SENT: To Make Frosting :
+
+SENTID: 8
+SENT: In a medium bowl , I would combine confectioners ' sugar , Neufchatel cheese , 1/2 cup butter or margarine and 1?1/4 teaspoons vanilla .
+PREDID: 392
+PRED: combine
+   DOBJ: confectioners ' sugar
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: neufchatel cheese , 1/2 cup butter or margarine
+      INGREDIENT SPAN: neufchatel cheese 
+         INGREDIENTS: ounce package Neufchatel cheese
+      INGREDIENT SPAN:  1/2 cup butter or margarine
+         INGREDIENTS: butter softened
+   OARG: 1?1/4 teaspoons vanilla
+      INGREDIENT SPAN: 1?1/4 teaspoons vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 9
+SENT: I would beat until smooth ,
+PREDID: 484
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: I would stir in 1 cup chopped pecans .
+PREDID: 500
+PRED: stir
+   DOBJ: NULL
+   PARG: 1 cup chopped pecans
+     PREP: in
+      INGREDIENT SPAN: 1 cup chopped pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 11
+SENT: I would spread on cooled cake .
+PREDID: 524
+PRED: spread
+   DOBJ: NULL
+   PARG: cooled cake
+     PREP: on
+      NON-INGREDIENT SPAN: cooled cake
+
+

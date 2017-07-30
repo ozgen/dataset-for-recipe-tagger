@@ -1,0 +1,174 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spray an 8x8-inch baking dish with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: an 8x8-inch baking dish
+      NON-INGREDIENT SPAN: an 8x8-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: I would cook and stir the ground beef in a skillet over medium heat , breaking it apart as it cooks , until the meat is no longer pink , about 10 minutes .
+PREDID: 80
+PRED: cook and stir
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a skillet over medium heat , breaking it apart as it cooks
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat 
+      NON-INGREDIENT SPAN:  breaking it apart as it cooks
+   PARG: the meat is no longer pink , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the meat is no longer pink 
+
+
+SENTID: 3
+SENT: I would mix together the cottage cheese , the egg , green onion , the parsley , and salt and pepper in a bowl until the mixture is well combined .
+PREDID: 196
+PRED: mix
+   DOBJ: the cottage cheese , the egg , green onion , the parsley , salt, pepper in a bowl
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: fatfree small curd cottage cheese
+      NON-INGREDIENT SPAN:  pepper in a bowl
+   PARG: the mixture is well combined
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is well combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in the cooked ground beef .
+PREDID: 300
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked ground beef
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked ground beef
+
+
+SENTID: 5
+SENT: I would place the mushrooms , hollow sides up , close together in the prepared baking dish .
+PREDID: 326
+PRED: place
+   DOBJ: the mushrooms
+      INGREDIENT SPAN: the mushrooms
+         INGREDIENTS: large fresh mushrooms more needed stems removed
+   OARG: hollow sides up
+      NON-INGREDIENT SPAN: hollow sides up
+   OARG: close together in the prepared baking dish
+      NON-INGREDIENT SPAN: close together in the prepared baking dish
+
+
+SENTID: 6
+SENT: I would spoon about 1 tablespoon of the cheese filling into the cavity of each mushroom , and allow the remaining filling to overflow between mushrooms .
+PREDID: 395
+PRED: spoon
+   DOBJ: about 1 tablespoon of the cheese filling into the cavity of each mushroom
+      INGREDIENT SPAN: about 1 tablespoon of the cheese filling into the cavity of each mushroom
+         INGREDIENTS: shredded mozzarella cheese divided
+
+PREDID: 465
+PRED: allow
+   DOBJ: the remaining filling
+      NON-INGREDIENT SPAN: the remaining filling
+   PARG: overflow between mushrooms
+     PREP: to
+      NON-INGREDIENT SPAN: overflow between mushrooms
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until the cheese filling is set , about 15 minutes .
+PREDID: 513
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the cheese filling is set , about 15 minutes
+     PREP: until
+      INGREDIENT SPAN: the cheese filling is set 
+         INGREDIENTS: shredded mozzarella cheese divided
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 8
+SENT: I would remove dish from oven , and spread the pasta sauce evenly over the mushrooms .
+PREDID: 577
+PRED: remove
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 599
+PRED: spread
+   DOBJ: the pasta sauce
+      INGREDIENT SPAN: the pasta sauce
+         INGREDIENTS: prepared pasta sauce divided
+   OARG: evenly over the mushrooms
+      NON-INGREDIENT SPAN: evenly over the mushrooms
+
+
+SENTID: 9
+SENT: I would sprinkle an even layer of mozzarella cheese over the sauce , return the dish to the oven , and broil until the cheese is bubbling and beginning to brown , about 5 more minutes .
+PREDID: 641
+PRED: sprinkle
+   DOBJ: an even layer of mozzarella cheese
+      NON-INGREDIENT SPAN: an even layer of mozzarella cheese
+   PARG: the sauce
+     PREP: over
+      NON-INGREDIENT SPAN: the sauce
+
+PREDID: 691
+PRED: return
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 717
+PRED: broil
+   DOBJ: NULL
+   PARG: the cheese is bubbling, beginning to brown , about 5 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 more minutes
+      NON-INGREDIENT SPAN:  beginning to brown 
+      NON-INGREDIENT SPAN: the cheese is bubbling
+
+
+SENTID: 10
+SENT: I would let the mushrooms stand 5 minutes before serving .
+PREDID: 784
+PRED: let
+   DOBJ: the mushrooms stand
+      NON-INGREDIENT SPAN: the mushrooms stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

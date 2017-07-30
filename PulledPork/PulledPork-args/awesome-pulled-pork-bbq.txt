@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would place pork in a slow cooker and season to taste with garlic powder , poultry seasoning , the salt , and pepper .
+PREDID: 0
+PRED: place
+   DOBJ: pork in a slow cooker, season
+      INGREDIENT SPAN: pork in a slow cooker
+         INGREDIENTS: pound boneless pork loin roast
+      NON-INGREDIENT SPAN:  season
+   OARG: to taste with garlic powder , poultry seasoning , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  poultry seasoning 
+         INGREDIENTS: poultry seasoning taste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: to taste with garlic powder 
+         INGREDIENTS: garlic powder taste
+
+
+SENTID: 1
+SENT: I would add quartered onion , the apple , and 3 celery stalks .
+PREDID: 87
+PRED: add
+   DOBJ: quartered onion , the apple , 3 celery stalks
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: apple cored quartered
+      INGREDIENT SPAN: quartered onion 
+         INGREDIENTS: large onion quartered
+      INGREDIENT SPAN:  3 celery stalks
+         INGREDIENTS: stalks celery
+
+
+SENTID: 2
+SENT: I would pour chicken broth into slow cooker .
+PREDID: 128
+PRED: pour
+   DOBJ: chicken broth
+      INGREDIENT SPAN: chicken broth
+         INGREDIENTS: ounce chicken broth
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 3
+SENT: I would cook on Low until very tender , about 8 hours .
+PREDID: 159
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: very tender , about 8 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 hours
+      NON-INGREDIENT SPAN: very tender 
+
+
+SENTID: 4
+SENT: I would transfer pork to a large platter and discard juice and vegetables .
+PREDID: 196
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a large platter
+     PREP: to
+      NON-INGREDIENT SPAN: a large platter
+
+PREDID: 226
+PRED: discard
+   DOBJ: juice, vegetables
+      NON-INGREDIENT SPAN: juice
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 5
+SENT: I would shred pork with a fork and return to the slow cooker .
+PREDID: 252
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 273
+PRED: return
+   DOBJ: NULL
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 6
+SENT: I would prepare barbecue sauce while pork is cooking .
+PREDID: 295
+PRED: prepare
+   DOBJ: barbecue sauce
+      INGREDIENT SPAN: barbecue sauce
+         INGREDIENTS: Worcestershire sauce
+   PARG: pork is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: pork is cooking
+
+
+SENTID: 7
+SENT: I would melt butter in a large saucepan or small Dutch oven over medium heat ;
+PREDID: 334
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan or small dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan or small dutch oven
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 8
+SENT: I would cook and stir 2 cups celery and 1?1/2 cups onion until onion is translucent , about 5 minutes .
+PREDID: 391
+PRED: cook and stir
+   DOBJ: 2 cups
+      NON-INGREDIENT SPAN: 2 cups
+   OARG: celery
+      INGREDIENT SPAN: celery
+         INGREDIENTS: chopped celery
+   OARG: 1?1/2 cups onion until onion is translucent , about 5 minutes
+      INGREDIENT SPAN: 1?1/2 cups onion until onion is translucent 
+         INGREDIENTS: chopped onion
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 9
+SENT: I would add ketchup , the water , the vinegar , brown sugar , Worcestershire sauce , the mustard , liquid smoke , and 1 tablespoon garlic powder ;
+PREDID: 468
+PRED: add
+   DOBJ: ketchup , the water , the vinegar , brown sugar , Worcestershire sauce , the mustard , liquid smoke , 1 tablespoon garlic powder
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  liquid smoke 
+         INGREDIENTS: liquid smoke flavoring
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  1 tablespoon garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  Worcestershire sauce 
+
+
+SENTID: 10
+SENT: I would mix .
+PREDID: 571
+PRED: mix
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would reduce heat to low and simmer , stirring occasionally , until sauce is thickened , about 10 minutes .
+PREDID: 575
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: low
+   OARG: stirring occasionally , until sauce is thickened , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  until sauce is thickened 
+
+
+SENTID: 12
+SENT: I would pour barbecue sauce over shredded pork .
+PREDID: 658
+PRED: pour
+   DOBJ: barbecue sauce
+      NON-INGREDIENT SPAN: barbecue sauce
+   PARG: shredded pork
+     PREP: over
+      NON-INGREDIENT SPAN: shredded pork
+
+
+SENTID: 13
+SENT: I would continue cooking pork on Low heat until flavors combine , about 2 hours .
+PREDID: 692
+PRED: continue
+   DOBJ: cooking pork
+      NON-INGREDIENT SPAN: cooking pork
+   PARG: low heat
+     PREP: on
+      NON-INGREDIENT SPAN: low heat
+   PARG: flavors combine , about 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: flavors combine 
+      NON-INGREDIENT SPAN:  about 2 hours
+
+

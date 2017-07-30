@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: I would heat oven to 400 degrees F for dark or nonstick pan -LRB- 425 degrees F for all other pans -RRB- .
+PREDID: 0
+PRED: heat
+   DOBJ: oven to 400 degrees F
+      NON-INGREDIENT SPAN: oven to 400 degrees F
+   PARG: dark or nonstick pan -lrb- 425 degrees f for all other pans
+     PREP: for
+      NON-INGREDIENT SPAN: dark or nonstick pan -lrb- 425 degrees f for all other pans
+
+
+SENTID: 1
+SENT: I would spray 15x10-inch pan with sides with cooking spray .
+PREDID: 70
+PRED: spray
+   DOBJ: 15x10-inch pan
+      NON-INGREDIENT SPAN: 15x10-inch pan
+   PARG: sides with cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: sides with cooking spray
+
+
+SENTID: 2
+SENT: I would unroll dough in pan ;
+PREDID: 120
+PRED: dough
+   DOBJ: NULL
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+   OARG: unroll
+      NON-INGREDIENT SPAN: unroll
+
+
+SENTID: 3
+SENT: starting at center , I would press dough into 15x10-inch rectangle .
+PREDID: 148
+PRED: press
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: at center
+     PREP: starting
+      NON-INGREDIENT SPAN: at center
+   PARG: 15x10-inch rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: 15x10-inch rectangle
+
+
+SENTID: 4
+SENT: I would bake 4 to 6 minutes or until edges begin to set .
+PREDID: 182
+PRED: bake
+   DOBJ: NULL
+   PARG: 4 to 6 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 4 to 6 minutes
+   PARG: edges begin to set
+     PREP: until
+      NON-INGREDIENT SPAN: edges begin to set
+
+
+SENTID: 5
+SENT: In small bowl , I would stir 6 tablespoons of the pesto with the garlic .
+PREDID: 232
+PRED: stir
+   DOBJ: 6 tablespoons of the pesto
+      INGREDIENT SPAN: 6 tablespoons of the pesto
+         INGREDIENTS: refrigerated basil pesto
+   PARG: small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: small bowl
+   PARG: the garlic
+     PREP: with
+      INGREDIENT SPAN: the garlic
+         INGREDIENTS: roasted chopped garlic
+
+
+SENTID: 6
+SENT: I would spread over crust .
+PREDID: 272
+PRED: spread
+   DOBJ: NULL
+   PARG: crust
+     PREP: over
+      INGREDIENT SPAN: crust
+         INGREDIENTS: ounce Pillsbury refrigerated artisan pizza crust whole
+
+
+SENTID: 7
+SENT: I would sprinkle with cheese .
+PREDID: 288
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded reducedfat mozzarella cheese
+
+
+SENTID: 8
+SENT: I would top with potato slices , and brush the remaining 2 tablespoons pesto over potatoes .
+PREDID: 307
+PRED: top
+   DOBJ: NULL
+   PARG: potato slices
+     PREP: with
+      NON-INGREDIENT SPAN: potato slices
+
+PREDID: 330
+PRED: brush
+   DOBJ: the remaining 2 tablespoons pesto
+      INGREDIENT SPAN: the remaining 2 tablespoons pesto
+         INGREDIENTS: refrigerated basil pesto
+   PARG: potatoes
+     PREP: over
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: small red potatoes sliced
+
+
+SENTID: 9
+SENT: I would bake 8 to 10 minutes longer or until crust is golden brown and cheese is melted .
+PREDID: 374
+PRED: bake
+   DOBJ: NULL
+   OARG: 8 to 10 minutes longer
+      NON-INGREDIENT SPAN: 8 to 10 minutes longer
+   OARG: crust is golden brown, cheese is melted
+      NON-INGREDIENT SPAN: crust is golden brown
+      NON-INGREDIENT SPAN:  cheese is melted
+
+
+SENTID: 10
+SENT: I would garnish with green onions .
+PREDID: 439
+PRED: garnish
+   DOBJ: NULL
+   PARG: green onions
+     PREP: with
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: sliced green onions desired
+
+
+SENTID: 11
+SENT: To serve , cut into 6 rows by 3 rows .
+PREDID: 464
+PRED: serve
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 470
+PRED: cut
+   DOBJ: NULL
+   PARG: 6 rows
+     PREP: into
+      NON-INGREDIENT SPAN: 6 rows
+   PARG: 3 rows
+     PREP: by
+      NON-INGREDIENT SPAN: 3 rows
+
+

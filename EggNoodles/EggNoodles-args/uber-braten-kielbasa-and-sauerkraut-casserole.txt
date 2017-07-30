@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook kluski noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: kluski noodles
+      INGREDIENT SPAN: kluski noodles
+         INGREDIENTS: ounce package kluski egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain and set aside .
+PREDID: 184
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would melt butter in a large pot over medium heat .
+PREDID: 201
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 5
+SENT: I would whisk in flour , dry mustard , and black pepper ;
+PREDID: 237
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour , dry mustard , black pepper
+     PREP: in
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard powder
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 6
+SENT: I would cook until smooth , about 2 minutes .
+PREDID: 276
+PRED: cook
+   DOBJ: NULL
+   PARG: smooth , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: smooth 
+
+
+SENTID: 7
+SENT: I would whisk in milk , a little at a time , and bring white sauce to a boil .
+PREDID: 306
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: a little at a time
+      NON-INGREDIENT SPAN: a little at a time
+
+PREDID: 336
+PRED: bring
+   DOBJ: white sauce
+      NON-INGREDIENT SPAN: white sauce
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would cook for 1 minute , whisking constantly , to make a smooth , thick sauce .
+PREDID: 359
+PRED: cook
+   DOBJ: NULL
+   PARG: 1 minute , whisking constantly , to make a smooth , thick sauce
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute 
+      NON-INGREDIENT SPAN:  whisking constantly 
+      NON-INGREDIENT SPAN:  to make a smooth 
+      NON-INGREDIENT SPAN:  thick sauce
+
+
+SENTID: 9
+SENT: I would whisk 3/4 cup Cheddar cheese into sauce until melted .
+PREDID: 418
+PRED: whisk
+   DOBJ: 3/4 cup Cheddar cheese
+      INGREDIENT SPAN: 3/4 cup Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: sauce
+     PREP: into
+      NON-INGREDIENT SPAN: sauce
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 10
+SENT: I would stir kluski noodles , the sauerkraut , and kielbasa sausage into the sauce and transfer to a 3-quart casserole dish .
+PREDID: 463
+PRED: stir
+   DOBJ: kluski noodles , the sauerkraut , kielbasa sausage
+      INGREDIENT SPAN:  the sauerkraut 
+         INGREDIENTS: sauerkraut drained
+      INGREDIENT SPAN:  kielbasa sausage
+         INGREDIENTS: ounce package kielbasa sausage cubed
+      NON-INGREDIENT SPAN: kluski noodles 
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+PREDID: 528
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 3-quart casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 3-quart casserole dish
+
+
+SENTID: 11
+SENT: I would mix bread crumbs with 1/4 cup Cheddar cheese in a bowl and sprinkle over the casserole .
+PREDID: 557
+PRED: mix
+   DOBJ: bread crumbs
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: 1/4 cup cheddar cheese in a bowl
+     PREP: with
+      INGREDIENT SPAN: 1/4 cup cheddar cheese in a bowl
+         INGREDIENTS: shredded Cheddar cheese
+
+PREDID: 604
+PRED: sprinkle
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until casserole is heated through , about 20 minutes .
+PREDID: 629
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is heated through , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: casserole is heated through 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

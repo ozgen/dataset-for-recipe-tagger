@@ -1,0 +1,257 @@
+SENTID: 0
+SENT: I would preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: an oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly-salted water and bring to a rolling boil ;
+PREDID: 40
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly-salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly-salted water
+
+PREDID: 79
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 2
+SENT: I would stir in the shell pasta and return to a boil .
+PREDID: 99
+PRED: stir
+   DOBJ: NULL
+   PARG: the shell pasta
+     PREP: in
+      INGREDIENT SPAN: the shell pasta
+         INGREDIENTS: jumbo pasta shells
+
+PREDID: 121
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has nearly cooked through but still very firm to the bite , about 5 minutes .
+PREDID: 135
+PRED: cook
+   DOBJ: the pasta
+      NON-INGREDIENT SPAN: the pasta
+
+PREDID: 147
+PRED: uncovered
+   DOBJ: NULL
+   PARG: the pasta has nearly cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta has nearly cooked through
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+   OARG: still
+      NON-INGREDIENT SPAN: still
+   OARG: very firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: very firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain well and rinse with cold water .
+PREDID: 253
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 265
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 5
+SENT: While the shells are cooking , I would heat a large skillet over medium-high heat ;
+PREDID: 309
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: the shells are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the shells are cooking
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 6
+SENT: I would cook and stir the beef and onion in the hot skillet until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 346
+PRED: cook and stir
+   DOBJ: the beef, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+   PARG: the beef is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is crumbly 
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN:  no longer pink
+
+
+SENTID: 7
+SENT: I would drain and discard any excess grease ;
+PREDID: 439
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 8
+SENT: I would stir in the tomato paste , tomato sauce , the salt , the oregano , and garlic powder .
+PREDID: 470
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato paste , tomato sauce , the salt , the oregano , garlic powder
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: the tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 9
+SENT: I would bring to a simmer and cook for 5 minutes .
+PREDID: 532
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 549
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 10
+SENT: I would spread half of the sauce into a 9x13-inch baking dish .
+PREDID: 565
+PRED: spread
+   DOBJ: half of the sauce
+      NON-INGREDIENT SPAN: half of the sauce
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 11
+SENT: I would beat the eggs in a mixing bowl .
+PREDID: 610
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 12
+SENT: I would stir in the cottage cheese , 3/4 of the mozzarella cheese , Parmesan cheese , the parsley , the salt , and pepper .
+PREDID: 635
+PRED: stir
+   DOBJ: NULL
+   PARG: the cottage cheese , 3/4 of the mozzarella cheese , parmesan cheese , the parsley , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  3/4 of the mozzarella cheese 
+         INGREDIENTS: ounce package shredded mozzarella cheese divided
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: cottage cheese
+      NON-INGREDIENT SPAN:  the salt 
+
+
+SENTID: 13
+SENT: I would spoon the cheese mixture into the shells and set them into the prepared baking dish .
+PREDID: 721
+PRED: spoon
+   DOBJ: the cheese mixture
+      INGREDIENT SPAN: the cheese mixture
+         INGREDIENTS: ounce package shredded mozzarella cheese divided
+   PARG: the shells
+     PREP: into
+      NON-INGREDIENT SPAN: the shells
+
+PREDID: 758
+PRED: set
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 14
+SENT: Once all the shells have been filled , I would pour the remaining meat sauce over the shells and sprinkle with the remaining mozzarella cheese .
+PREDID: 822
+PRED: pour
+   DOBJ: the remaining meat sauce over the shells
+      NON-INGREDIENT SPAN: the remaining meat sauce over the shells
+   PARG: all the shells have been filled
+     PREP: once
+      NON-INGREDIENT SPAN: all the shells have been filled
+
+PREDID: 863
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the remaining mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining mozzarella cheese
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven until the shells are hot in the center and the mozzarella cheese is melted and bubbly , about 30 minutes .
+PREDID: 904
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the shells are hot in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the shells are hot in the center
+   OARG: the mozzarella cheese is melted, bubbly , about 30 minutes
+      NON-INGREDIENT SPAN: the mozzarella cheese is melted
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN:  bubbly 
+
+

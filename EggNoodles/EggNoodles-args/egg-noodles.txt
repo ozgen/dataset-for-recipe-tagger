@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: In a large bowl , I would stir together the flour and salt .
+PREDID: 13
+PRED: stir
+   DOBJ: the flour, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the beaten egg , the milk , and butter .
+PREDID: 41
+PRED: add
+   DOBJ: the beaten egg , the milk , butter
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the beaten egg 
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 2
+SENT: I would knead dough until smooth , about 5 minutes .
+PREDID: 77
+PRED: dough
+   DOBJ: NULL
+   PARG: smooth , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: smooth 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: knead
+      NON-INGREDIENT SPAN: knead
+
+
+SENTID: 3
+SENT: I would let rest in a covered bowl for 10 minutes .
+PREDID: 108
+PRED: let
+   DOBJ: rest
+      NON-INGREDIENT SPAN: rest
+   PARG: a covered bowl for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a covered bowl for 10 minutes
+
+
+SENTID: 4
+SENT: On a floured surface , I would roll out to 1/8 or 1/4 inch thickness .
+PREDID: 160
+PRED: roll
+   DOBJ: NULL
+   PARG: a floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a floured surface
+   PARG: 1/8 or 1/4 inch thickness
+     PREP: to
+      NON-INGREDIENT SPAN: 1/8 or 1/4 inch thickness
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would cut into desired lengths and shapes .
+PREDID: 191
+PRED: cut
+   DOBJ: NULL
+   PARG: desired lengths, shapes
+     PREP: into
+      NON-INGREDIENT SPAN: desired lengths
+      NON-INGREDIENT SPAN:  shapes
+
+
+SENTID: 6
+SENT: I would allow to air dry before cooking .
+PREDID: 222
+PRED: allow
+   DOBJ: NULL
+   OARG: to air dry before cooking
+      NON-INGREDIENT SPAN: to air dry before cooking
+
+
+SENTID: 7
+SENT: To cook fresh pasta , in a large pot with boiling salted water cook until al dente .
+PREDID: 310
+PRED: cook dente
+   DOBJ: fresh pasta
+      NON-INGREDIENT SPAN: fresh pasta
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: boiling salted water cook until al
+     PREP: with
+      NON-INGREDIENT SPAN: boiling salted water cook until al
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+

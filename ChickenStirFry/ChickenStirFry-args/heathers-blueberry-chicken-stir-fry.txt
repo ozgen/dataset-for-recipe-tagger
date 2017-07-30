@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would place garlic , the blueberries , peach preserves , sesame oil , the mustard , the vinegar , the sugar , and soy sauce in a blender ;
+PREDID: 0
+PRED: place
+   DOBJ: garlic , the blueberries , peach preserves , sesame oil , the mustard , the vinegar , the sugar , soy sauce in a blender
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice wine vinegar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  peach preserves 
+         INGREDIENTS: peach preserves
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: garlic 
+         INGREDIENTS: chopped garlic
+      INGREDIENT SPAN:  soy sauce in a blender
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the blueberries 
+         INGREDIENTS: fresh blueberries
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 1
+SENT: I would cover and blend until smooth .
+PREDID: 93
+PRED: cover and blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would heat oil in a large skillet or wok over high heat ;
+PREDID: 118
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet or wok over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over high heat
+
+
+SENTID: 3
+SENT: I would cook and stir chicken and mushrooms until chicken is no longer pink in the center and juices run clear , about 7 minutes .
+PREDID: 158
+PRED: cook and stir
+   DOBJ: chicken, mushrooms
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: ounce skinless boneless chicken breast halves cut bite size
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: sliced fresh mushrooms
+   PARG: chicken is no longer pink in the center, juices run clear , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is no longer pink in the center
+      NON-INGREDIENT SPAN:  juices run clear 
+      NON-INGREDIENT SPAN:  about 7 minutes
+
+
+SENTID: 4
+SENT: I would stir in ginger , garlic salt , and black pepper ;
+PREDID: 257
+PRED: stir
+   DOBJ: NULL
+   PARG: ginger , garlic salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt taste
+      INGREDIENT SPAN: ginger 
+         INGREDIENTS: minced fresh ginger
+
+
+SENTID: 5
+SENT: I would cook and stir until fragrant , about 1 minute .
+PREDID: 296
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 6
+SENT: I would toss green onions and mixed vegetables with chicken ;
+PREDID: 334
+PRED: toss
+   DOBJ: green onions, mixed vegetables
+      INGREDIENT SPAN:  mixed vegetables
+         INGREDIENTS: frozen mixed vegetables
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: chopped green onions
+   PARG: chicken
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 7
+SENT: I would pour blueberry sauce over vegetable mixture .
+PREDID: 379
+PRED: pour
+   DOBJ: blueberry sauce
+      NON-INGREDIENT SPAN: blueberry sauce
+   PARG: vegetable mixture
+     PREP: over
+      NON-INGREDIENT SPAN: vegetable mixture
+
+
+SENTID: 8
+SENT: I would continue cooking on medium-high heat until sauce comes to a boil , about 10 minutes .
+PREDID: 418
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: medium-high heat
+     PREP: on
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: sauce comes to a boil , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: sauce comes to a boil 
+
+
+SENTID: 9
+SENT: I would reduce heat to low and cook until vegetables are tender , 2 to 4 minutes .
+PREDID: 488
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 506
+PRED: cook
+   DOBJ: NULL
+   PARG: vegetables are tender , 2 to 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  2 to 4 minutes
+      NON-INGREDIENT SPAN: vegetables are tender 
+
+
+SENTID: 10
+SENT: I would remove from heat and allow sauce to cool for 3 minutes .
+PREDID: 547
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 564
+PRED: allow
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   OARG: to cool for 3 minutes
+      NON-INGREDIENT SPAN: to cool for 3 minutes
+
+
+SENTID: 11
+SENT: I would serve over brown rice and sprinkle with sesame seeds .
+PREDID: 592
+PRED: serve
+   DOBJ: NULL
+   PARG: brown rice
+     PREP: over
+      INGREDIENT SPAN: brown rice
+         INGREDIENTS: cooked brown rice
+
+PREDID: 613
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sesame seeds
+     PREP: with
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: toasted sesame seeds
+
+

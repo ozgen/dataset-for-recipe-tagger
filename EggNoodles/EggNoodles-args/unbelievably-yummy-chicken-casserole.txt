@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add noodles and cook for 7 to 8 minutes or until almost al dente -LRB- until ALMOST cooked -RRB- ;
+PREDID: 42
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 55
+PRED: cook
+   DOBJ: NULL
+   PARG: 7 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 7 to 8 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 113
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 119
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: I would add the chicken , the peas , the soup , whipped topping , American cheese , the milk , the parsley , the salt and pepper .
+PREDID: 157
+PRED: add
+   DOBJ: the chicken , the peas , the soup , whipped topping , American cheese , the milk , the parsley , the salt, pepper
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce package frozen green peas thawed
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  American cheese 
+         INGREDIENTS: cubed processed American cheese
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  whipped topping 
+         INGREDIENTS: frozen whipped topping
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would mix together and transfer mixture to a 9x13 inch baking dish .
+PREDID: 238
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 252
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a 9x13 inch baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 6
+SENT: I would sprinkle with Parmesan cheese and cover with aluminum foil .
+PREDID: 289
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+PREDID: 318
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 45 minutes ,
+PREDID: 340
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+
+SENTID: 8
+SENT: I would remove cover and bake for another 10 minutes .
+PREDID: 372
+PRED: remove
+   DOBJ: cover, bake
+      NON-INGREDIENT SPAN: cover
+      NON-INGREDIENT SPAN:  bake
+   PARG: another 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 10 minutes
+
+
+SENTID: 9
+SENT: I would let cool for 4 to 5 minutes , allowing cheese to thicken slightly .
+PREDID: 410
+PRED: let
+   DOBJ: NULL
+   OARG: cool for 4 to 5 minutes
+      NON-INGREDIENT SPAN: cool for 4 to 5 minutes
+   OARG: allowing cheese to thicken slightly
+      NON-INGREDIENT SPAN: allowing cheese to thicken slightly
+
+

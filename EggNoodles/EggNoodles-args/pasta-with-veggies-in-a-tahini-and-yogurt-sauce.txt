@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would cook noodles in a large pot of boiling water until al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: a large pot of boiling water until al dente
+     PREP: in
+      INGREDIENT SPAN: a large pot of boiling water until al dente
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 49
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , mix together tahini , lemon juice , and water until smooth .
+PREDID: 65
+PRED: mix
+   DOBJ: together tahini , lemon juice , water until smooth
+      INGREDIENT SPAN: together tahini 
+         INGREDIENTS: tahini
+      NON-INGREDIENT SPAN:  water until smooth
+      NON-INGREDIENT SPAN:  lemon juice 
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would add garlic , yogurt , and pepper sauce .
+PREDID: 114
+PRED: add
+   DOBJ: garlic , yogurt , pepper sauce
+      INGREDIENT SPAN:  pepper sauce
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  yogurt 
+         INGREDIENTS: yogurt drained
+      NON-INGREDIENT SPAN: garlic 
+
+
+SENTID: 4
+SENT: In a medium skillet , I would heat oil over medium high heat .
+PREDID: 163
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a medium skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 5
+SENT: I would saute red pepper and zucchini in oil for 2 to 3 minutes , or until tender crisp .
+PREDID: 189
+PRED: saute
+   DOBJ: red pepper, zucchini
+      INGREDIENT SPAN: red pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  zucchini
+         INGREDIENTS: zucchini sliced
+   PARG: oil for 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: oil for 2 to 3 minutes
+
+
+SENTID: 6
+SENT: I would add tahini sauce , and heat through .
+PREDID: 253
+PRED: add
+   DOBJ: tahini sauce
+      NON-INGREDIENT SPAN: tahini sauce
+
+PREDID: 271
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 7
+SENT: I would season to taste with salt and pepper .
+PREDID: 283
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: large red bell pepper sliced
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 8
+SENT: Do not boil or overcook :
+
+SENTID: 9
+SENT: this sauce curdles easily .
+
+SENTID: 10
+SENT: I would toss noodles with sauce .
+PREDID: 314
+PRED: toss
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: sauce
+     PREP: with
+      NON-INGREDIENT SPAN: sauce
+
+

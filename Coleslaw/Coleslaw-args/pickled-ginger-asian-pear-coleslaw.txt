@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would whisk together mayonnaise , rice vinegar , the miso , and chile-garlic sauce in a large bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , rice vinegar , the miso , chile-garlic sauce in a large bowl
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: seasoned rice vinegar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  chile-garlic sauce in a large bowl
+         INGREDIENTS: chilegarlic sauce such Sriracha taste
+      INGREDIENT SPAN:  the miso 
+         INGREDIENTS: yellow miso paste taste
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir cabbage , the pear , and ginger into the mayonnaise mixture until well coated .
+PREDID: 74
+PRED: stir
+   DOBJ: cabbage , the pear , ginger
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: sliced pickled ginger
+      INGREDIENT SPAN:  the pear 
+         INGREDIENTS: large Asian pear sliced
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: small head green cabbage sliced
+   PARG: the mayonnaise mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mayonnaise mixture
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 2
+SENT: I would stir in green onions and sesame seeds .
+PREDID: 140
+PRED: stir
+   DOBJ: NULL
+   PARG: green onions, sesame seeds
+     PREP: in
+      INGREDIENT SPAN:  sesame seeds
+         INGREDIENTS: toasted sesame seeds
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: sliced green onions
+
+
+SENTID: 3
+SENT: I would season with salt to taste .
+PREDID: 172
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

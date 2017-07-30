@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: In a shallow baking pan , I would arrange chicken and pour mesquite-lime marinade over all .
+PREDID: 20
+PRED: arrange
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a shallow baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow baking pan
+
+PREDID: 37
+PRED: pour
+   DOBJ: mesquite-lime marinade
+      INGREDIENT SPAN: mesquite-lime marinade
+         INGREDIENTS: mesquitelime marinade
+   PARG: all
+     PREP: over
+      NON-INGREDIENT SPAN: all
+
+
+SENTID: 1
+SENT: I would cover and place in the refrigerator to marinate for 1/2 hour before grilling .
+PREDID: 70
+PRED: cover and place
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   OARG: to marinate for 1/2 hour before grilling
+      NON-INGREDIENT SPAN: to marinate for 1/2 hour before grilling
+
+
+SENTID: 2
+SENT: I would preheat a charcoal or gas grill to medium high heat .
+PREDID: 135
+PRED: preheat
+   DOBJ: a charcoal or gas grill
+      NON-INGREDIENT SPAN: a charcoal or gas grill
+   PARG: medium high heat
+     PREP: to
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 3
+SENT: I would grill chicken breasts for approximately 15 minutes on each side , or until meat is cooked through and is no longer pink inside .
+PREDID: 178
+PRED: grill
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+   PARG: approximately 15 minutes on each side , or until meat is cooked through, is no longer pink inside
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 15 minutes on each side 
+      NON-INGREDIENT SPAN:  is no longer pink inside
+      NON-INGREDIENT SPAN:  or until meat is cooked through
+
+
+SENTID: 4
+SENT: I would remove from heat , the cool and slice into strips .
+PREDID: 283
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the cool, slice
+     PREP: from
+      NON-INGREDIENT SPAN:  the cool
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  slice
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 5
+SENT: In a large bowl , I would toss together the lettuce , the tomato , the onion , the pepper , the cheese , the croutons , the dressing and chicken until evenly coated .
+PREDID: 334
+PRED: toss
+   DOBJ: the lettuce , the tomato , the onion , the pepper , the cheese , the croutons , the dressing, chicken
+      INGREDIENT SPAN:  the dressing
+         INGREDIENTS: creamy Caesarstyle salad dressing
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: sweet onion sliced
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: large cheese garlic croutons
+      INGREDIENT SPAN: the lettuce 
+         INGREDIENTS: head lettuce torn small
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: large tomato cut wedges
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: green bell pepper seeded sliced
+      NON-INGREDIENT SPAN:  the croutons 
+      NON-INGREDIENT SPAN:  chicken
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would serve immediately .
+PREDID: 429
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would marinate chicken in the orange juice , soy sauce and lemon-lime carbonated beverage for several hours or overnight .
+PREDID: 0
+PRED: marinate
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: the orange juice , soy sauce, lemon-lime carbonated beverage
+     PREP: in
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  lemon-lime carbonated beverage
+         INGREDIENTS: (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage
+      INGREDIENT SPAN: the orange juice 
+         INGREDIENTS: orange juice
+   PARG: several hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: several hours or overnight
+
+
+SENTID: 1
+SENT: I would preheat grill to medium-high heat .
+PREDID: 98
+PRED: preheat
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would remove chicken from marinade and drain .
+PREDID: 128
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: marinade, drain
+     PREP: from
+      NON-INGREDIENT SPAN: marinade
+      NON-INGREDIENT SPAN:  drain
+
+
+SENTID: 3
+SENT: I would place chicken on hot grill and cook for 6 to 8 minutes on each side , or until juices run clear .
+PREDID: 162
+PRED: place
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: hot grill
+     PREP: on
+      NON-INGREDIENT SPAN: hot grill
+
+PREDID: 187
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes on each side
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes on each side
+
+
+SENTID: 4
+SENT: I would remove , cool , and cut into strips .
+PREDID: 238
+PRED: remove and cool
+   DOBJ: NULL
+
+PREDID: 253
+PRED: cut
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 5
+SENT: I would whisk together the lemon juice , vegetable oil , salt , pepper and garlic cloves .
+PREDID: 267
+PRED: whisk
+   DOBJ: the lemon juice , vegetable oil , salt , pepper, garlic cloves
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  garlic cloves
+         INGREDIENTS: cloves garlic
+      INGREDIENT SPAN: the lemon juice 
+         INGREDIENTS: lemon
+
+
+SENTID: 6
+SENT: I would allow garlic cloves to sit in dressing for a few hours and remove before pouring on the salad .
+PREDID: 334
+PRED: allow
+   DOBJ: garlic cloves
+      NON-INGREDIENT SPAN: garlic cloves
+
+
+SENTID: 7
+SENT: In a salad bowl , I would combine the lettuce , tomatoes , mozzarella , Parmesan and marinated chicken strips .
+PREDID: 424
+PRED: combine
+   DOBJ: the lettuce , tomatoes , mozzarella , Parmesan, marinated chicken strips
+      INGREDIENT SPAN: the lettuce 
+         INGREDIENTS: heads romaine lettuce
+      INGREDIENT SPAN:  tomatoes 
+         INGREDIENTS: tomatoes
+      INGREDIENT SPAN:  mozzarella 
+         INGREDIENTS: mozzarella cheese
+      INGREDIENT SPAN:  Parmesan
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  marinated chicken strips
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 8
+SENT: I would pour dressing over salad ;
+PREDID: 496
+PRED: pour
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would toss and serve .
+PREDID: 518
+PRED: toss and serve
+   DOBJ: NULL
+
+

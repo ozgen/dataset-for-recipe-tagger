@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would thoroughly mix 1/2 cup tomato soup , the beef , onion soup mix , bread crumbs and egg in a large bowl .
+PREDID: 10
+PRED: mix
+   DOBJ: 1/2 cup tomato soup , the beef , onion soup mix , bread crumbs, egg
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN: 1/2 cup tomato soup 
+         INGREDIENTS: ounce Campbell Condensed Tomato Soup Regular Healthy, envelope dry onion soup recipe mix
+      INGREDIENT SPAN: 1/2 cup tomato soup 
+         INGREDIENTS: ounce Campbell Condensed Tomato Soup Regular Healthy, envelope dry onion soup recipe mix
+      NON-INGREDIENT SPAN:  onion soup mix 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 1
+SENT: I would place the mixture into a 13x9x2-inch baking pan and firmly shape into an 8x4-inch loaf .
+PREDID: 78
+PRED: place
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 13x9x2-inch baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 13x9x2-inch baking pan
+
+PREDID: 127
+PRED: shape
+   DOBJ: NULL
+   PARG: an 8x4-inch loaf
+     PREP: into
+      NON-INGREDIENT SPAN: an 8x4-inch loaf
+   OARG: firmly
+      NON-INGREDIENT SPAN: firmly
+
+
+SENTID: 2
+SENT: I would bake at 350 degrees F for 1 hour 15 minutes or until the meatloaf is cooked through .
+PREDID: 151
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f for 1 hour 15 minutes or until the meatloaf is cooked through
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f for 1 hour 15 minutes or until the meatloaf is cooked through
+
+
+SENTID: 3
+SENT: I would heat 2 tablespoons pan drippings , remaining tomato soup and water in a 1-quart saucepan over medium heat until the mixture is hot and bubbling .
+PREDID: 219
+PRED: heat
+   DOBJ: 2 tablespoons pan drippings , remaining tomato soup, water in a 1-quart saucepan over medium heat
+      INGREDIENT SPAN:  water in a 1-quart saucepan over medium heat
+         INGREDIENTS: water
+      INGREDIENT SPAN:  remaining tomato soup
+         INGREDIENTS: ounce Campbell Condensed Tomato Soup Regular Healthy, envelope dry onion soup recipe mix
+      INGREDIENT SPAN:  remaining tomato soup
+         INGREDIENTS: ounce Campbell Condensed Tomato Soup Regular Healthy, envelope dry onion soup recipe mix
+      NON-INGREDIENT SPAN: 2 tablespoons pan drippings 
+   PARG: the mixture is hot, bubbling
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbling
+      NON-INGREDIENT SPAN: the mixture is hot
+
+
+SENTID: 4
+SENT: I would serve the sauce with the meatloaf .
+PREDID: 339
+PRED: serve
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: the meatloaf
+     PREP: with
+      NON-INGREDIENT SPAN: the meatloaf
+
+

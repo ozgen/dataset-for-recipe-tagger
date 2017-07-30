@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease 9x13 baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: 9x13 baking dish
+      INGREDIENT SPAN: 9x13 baking dish
+         INGREDIENTS: baking powder
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would place the carrots , the eggs , and oil in a blender or bowl of a food processor .
+PREDID: 66
+PRED: place
+   DOBJ: the carrots , the eggs , oil
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the carrots 
+         INGREDIENTS: large carrots peeled sliced
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: cooking oil
+   PARG: a blender or bowl of a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or bowl of a food processor
+
+
+SENTID: 3
+SENT: I would process until carrots are finely chopped .
+PREDID: 126
+PRED: process
+   DOBJ: NULL
+   PARG: carrots are finely chopped
+     PREP: until
+      NON-INGREDIENT SPAN: carrots are finely chopped
+
+
+SENTID: 4
+SENT: I would pour the carrot mixture into a mixing bowl .
+PREDID: 162
+PRED: pour
+   DOBJ: the carrot mixture
+      NON-INGREDIENT SPAN: the carrot mixture
+   PARG: a mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a mixing bowl
+
+
+SENTID: 5
+SENT: I would stir in 2 cups sugar until well blended .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: 2 cups sugar
+     PREP: in
+      INGREDIENT SPAN: 2 cups sugar
+         INGREDIENTS: white sugar
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 6
+SENT: I would stir in the flour and baking powder ;
+PREDID: 231
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour, baking powder
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  baking powder
+
+
+SENTID: 7
+SENT: I would mix until well blended .
+PREDID: 261
+PRED: mix
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 8
+SENT: I would pour the batter into the prepared baking dish .
+PREDID: 281
+PRED: pour
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 9
+SENT: I would bake in preheated oven until top springs back when lightly touched , about 40 minutes .
+PREDID: 320
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: top springs back when lightly touched , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 40 minutes
+      NON-INGREDIENT SPAN: top springs back when lightly touched 
+
+
+SENTID: 10
+SENT: I would meanwhile , make the icing by placing the butter , 1 cup sugar , instant hot chocolate drink mix , and milk in a pan .
+
+SENTID: 11
+SENT: While stirring , I would heat to almost boiling over medium-high heat until mixture thickens .
+PREDID: 406
+PRED: heat
+   DOBJ: NULL
+   PARG: stirring
+     PREP: while
+      NON-INGREDIENT SPAN: stirring
+   PARG: almost boiling
+     PREP: to
+      NON-INGREDIENT SPAN: almost boiling
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: mixture thickens
+     PREP: until
+      NON-INGREDIENT SPAN: mixture thickens
+
+
+SENTID: 12
+SENT: When the cake is done , remove from the oven and immediately spread the icing evenly over the top .
+PREDID: 483
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+   OARG: when the cake is done
+      NON-INGREDIENT SPAN: when the cake is done
+
+PREDID: 514
+PRED: spread
+   DOBJ: NULL
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+   OARG: the icing evenly
+      NON-INGREDIENT SPAN: the icing evenly
+
+

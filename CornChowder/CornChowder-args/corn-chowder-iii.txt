@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook bacon until crisp .
+PREDID: 30
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon diced
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 1
+SENT: I would drain , reserving 1 tablespoon of bacon grease .
+PREDID: 50
+PRED: drain
+   DOBJ: NULL
+   OARG: reserving 1 tablespoon of bacon grease
+      NON-INGREDIENT SPAN: reserving 1 tablespoon of bacon grease
+
+
+SENTID: 2
+SENT: I would place bacon grease in a large stock pot over medium heat .
+PREDID: 90
+PRED: place
+   DOBJ: bacon grease
+      NON-INGREDIENT SPAN: bacon grease
+   PARG: a large stock pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large stock pot over medium heat
+
+
+SENTID: 3
+SENT: I would cook bell pepper , the onion and celery leaves in grease until just tender .
+PREDID: 137
+PRED: cook
+   DOBJ: bell pepper , the onion, celery leaves
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN: bell pepper 
+         INGREDIENTS: green bell peppers chopped
+      INGREDIENT SPAN:  celery leaves
+         INGREDIENTS: bunch fresh celery leaves
+   PARG: grease
+     PREP: in
+      NON-INGREDIENT SPAN: grease
+   PARG: just tender
+     PREP: until
+      NON-INGREDIENT SPAN: just tender
+
+
+SENTID: 4
+SENT: I would stir in bacon , the corn and water and bring slowly to a boil , stirring frequently .
+PREDID: 196
+PRED: stir
+   DOBJ: NULL
+   PARG: bacon , the corn, water
+     PREP: in
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN: bacon 
+
+PREDID: 226
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil , stirring frequently
+     PREP: to
+      NON-INGREDIENT SPAN:  stirring frequently
+      NON-INGREDIENT SPAN: a boil 
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 5
+SENT: I would stir in milk and heat gently , without boiling .
+PREDID: 261
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, heat
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: fluid ounce evaporated milk
+      NON-INGREDIENT SPAN:  heat
+   PARG: boiling
+     PREP: without
+      NON-INGREDIENT SPAN: boiling
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would serve hot .
+PREDID: 300
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

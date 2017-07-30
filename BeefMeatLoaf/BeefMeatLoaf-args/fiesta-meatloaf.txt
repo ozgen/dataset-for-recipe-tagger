@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5 inch loaf pan .
+PREDID: 40
+PRED: grease pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+
+
+SENTID: 2
+SENT: I would mix the beef , the pork , the water , the eggs , picante sauce , onion soup mix , bread crumbs , and bell pepper together in a mixing bowl until evenly blended .
+PREDID: 62
+PRED: mix
+   DOBJ: the beef , the pork , the water , the eggs , picante sauce , onion soup mix , bread crumbs , bell pepper
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: beaten eggs
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: warm water
+      INGREDIENT SPAN:  the pork 
+         INGREDIENTS: lean ground pork
+      INGREDIENT SPAN:  picante sauce 
+         INGREDIENTS: picante sauce
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: minced green bell pepper
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: evenly blended
+     PREP: until
+      NON-INGREDIENT SPAN: evenly blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would pack into the prepared loaf pan ,
+PREDID: 180
+PRED: pack
+   DOBJ: NULL
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 4
+SENT: I would poke holes into the loaf with a fork nearly to the bottom of the pan .
+PREDID: 207
+PRED: poke
+   DOBJ: holes
+      NON-INGREDIENT SPAN: holes
+   PARG: the loaf with a fork nearly
+     PREP: into
+      NON-INGREDIENT SPAN: the loaf with a fork nearly
+   PARG: the bottom of the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the bottom of the pan
+
+
+SENTID: 5
+SENT: I would pour the undiluted cheese sauce over the top of the roast and spread evenly .
+PREDID: 262
+PRED: pour
+   DOBJ: the undiluted cheese sauce
+      INGREDIENT SPAN: the undiluted cheese sauce
+         INGREDIENTS: ounce condensed nacho cheese soup such Campbell Fiesta
+   PARG: the top of the roast
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the roast
+
+PREDID: 312
+PRED: spread
+   DOBJ: NULL
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1?1/2 hours .
+PREDID: 325
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center should read 160 degrees F -LRB- 72 degrees C -RRB- .
+

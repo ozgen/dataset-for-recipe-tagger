@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: I would cook macaroni and cheese in a saucepan on the stovetop according to package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: macaroni, cheese
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package macaroni cheese mix
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese cheese choice
+   PARG: a saucepan on the stovetop package directions
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan on the stovetop package directions
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: Once macaroni and cheese is done , I would stir in chili , and cook over medium heat until hot , about 2 minutes .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni, cheese is done
+     PREP: once
+      NON-INGREDIENT SPAN:  cheese is done
+      NON-INGREDIENT SPAN: macaroni
+   PARG: chili
+     PREP: in
+      INGREDIENT SPAN: chili
+         INGREDIENTS: ounce hot dog chili
+
+PREDID: 117
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: hot , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: hot 
+      NON-INGREDIENT SPAN:  about 2 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would sprinkle with shredded cheese to serve .
+PREDID: 158
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: shredded cheese
+     PREP: with
+      NON-INGREDIENT SPAN: shredded cheese
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

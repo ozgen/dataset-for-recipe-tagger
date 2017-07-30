@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place the noodles , the ham , the cheese , the soup and milk in a 9x9 inch casserole dish and mix well .
+PREDID: 38
+PRED: place
+   DOBJ: the noodles , the ham , the cheese , the soup, milk
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: cubed Cheddar cheese
+      INGREDIENT SPAN:  the soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: ounce milk
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cubed cooked ham
+      INGREDIENT SPAN: the noodles 
+         INGREDIENTS: cooked egg noodles
+   PARG: a 9x9 inch casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x9 inch casserole dish
+
+PREDID: 111
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 25 to 30 minutes .
+PREDID: 110
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 25 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 to 30 minutes
+
+

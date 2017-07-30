@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would bring a pot of salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a pot of salted water
+      NON-INGREDIENT SPAN: a pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes ;
+PREDID: 68
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: 
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes sliced
+
+PREDID: 82
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would meanwhile , place broccoli in a steamer over 1 inch of boiling water , and cover .
+PREDID: 141
+PRED: place
+   DOBJ: broccoli in a steamer over 1 inch of boiling water
+      INGREDIENT SPAN: broccoli in a steamer over 1 inch of boiling water
+         INGREDIENTS: broccoli chopped
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would cook until tender but still firm , about 2 to 6 minutes ;
+PREDID: 197
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 2 to 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 2 to 6 minutes
+
+
+SENTID: 6
+SENT: I would drain .
+PREDID: 242
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: In a large bowl combine potatoes , I would the broccoli , the cheese , lemon juice , the garlic , the basil , the oregano and parsley .
+
+SENTID: 8
+SENT: On a pizza pan or baking sheet , I would roll out 1 pizza dough .
+PREDID: 273
+PRED: roll
+   DOBJ: 1 pizza dough
+      INGREDIENT SPAN: 1 pizza dough
+         INGREDIENTS: ounce packages refrigerated pizza crust doughs
+   PARG: a pizza pan or baking sheet
+     PREP: on
+      INGREDIENT SPAN: a pizza pan or baking sheet
+         INGREDIENTS: ounce packages refrigerated pizza crust doughs
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 9
+SENT: I would top with potato mixture and cover with second pizza dough ;
+PREDID: 292
+PRED: top
+   DOBJ: NULL
+   PARG: potato mixture
+     PREP: with
+      NON-INGREDIENT SPAN: potato mixture
+
+PREDID: 315
+PRED: cover
+   DOBJ: NULL
+   PARG: second pizza dough
+     PREP: with
+      INGREDIENT SPAN: second pizza dough
+         INGREDIENTS: ounce jar pizza sauce
+
+
+SENTID: 10
+SENT: with moistened fingers seal edges of dough together .
+
+SENTID: 11
+SENT: I would bake in preheated oven for 20 minutes , or until golden brown .
+PREDID: 386
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+
+SENTID: 12
+SENT: I would serve with warmed pizza sauce .
+PREDID: 437
+PRED: serve
+   DOBJ: NULL
+   PARG: warmed pizza sauce
+     PREP: with
+      NON-INGREDIENT SPAN: warmed pizza sauce
+
+

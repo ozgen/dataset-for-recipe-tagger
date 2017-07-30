@@ -1,0 +1,43 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="divide
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="spoon
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="place
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake
+5", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: eggs, brown sugar, ground beef, barbeque sauce, carrots, dry onion soup mix, mild sageflavored breakfast sausage, onion", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:in a large mixing bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+P1_1[label="OTHER:until thoroughly combined", shape=box, style=filled, fillcolor=white]
+P1_1 -> E1
+D0[label="DOBJ: oven to 375 degrees f -lrb- 190 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E1 -> E2 [label="the mixture"]
+P2_0_0[label="LOCOROBJ:in half", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:into 2 9x5-inch loaf pans", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_ing[label="DOBJ: slices bacon divided", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+P4_1_0[label="LOCOROBJ:onto each loaf", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E0 -> E5 [label="LOCOROBJ:in the preheated oven"]
+P5_1_0[label="DURATION:until the meatloaf is no longer pink in the middle", shape=box, style=filled, fillcolor=white]
+P5_1_0 -> E5
+P5_1_1[label="DURATION:until the juices run clear ", shape=box, style=filled, fillcolor=white]
+P5_1_1 -> E5
+P5_1_2[label="DURATION:until  about 1 hour", shape=box, style=filled, fillcolor=white]
+P5_1_2 -> E5
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

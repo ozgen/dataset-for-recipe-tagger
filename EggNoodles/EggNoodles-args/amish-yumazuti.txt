@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place noodles in a pot of lightly salted boiling water .
+PREDID: 41
+PRED: place
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: a pot of lightly salted boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a pot of lightly salted boiling water
+
+
+SENTID: 2
+SENT: I would cook until al dente , about 8 minutes .
+PREDID: 87
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 3
+SENT: I would drain and set aside .
+PREDID: 118
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would cook ground beef , onion , celery and garlic in a skillet over medium heat until meat is evenly browned .
+PREDID: 135
+PRED: cook
+   DOBJ: ground beef , onion , celery, garlic
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: chopped celery
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: meat is evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: meat is evenly browned
+
+
+SENTID: 5
+SENT: I would drain off excess grease .
+PREDID: 220
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 6
+SENT: I would butter a 9x13 inch baking dish .
+PREDID: 241
+PRED: butter
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 7
+SENT: I would place half of the cooked noodles in the bottom of the dish .
+PREDID: 267
+PRED: place
+   DOBJ: half of the cooked noodles
+      NON-INGREDIENT SPAN: half of the cooked noodles
+   PARG: the bottom of the dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of the dish
+
+
+SENTID: 8
+SENT: I would cover them with half of the meat mixture ,
+PREDID: 315
+PRED: cover
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: half of the meat mixture
+     PREP: with
+      NON-INGREDIENT SPAN: half of the meat mixture
+
+
+SENTID: 9
+SENT: I would half of the tomatoes .
+
+SENTID: 10
+SENT: I would spoon half of the cream of chicken soup over the tomatoes ,
+PREDID: 349
+PRED: spoon
+   DOBJ: half of the cream of chicken soup
+      INGREDIENT SPAN: half of the cream of chicken soup
+         INGREDIENTS: ounce condensed cream chicken soup
+   PARG: the tomatoes
+     PREP: over
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce stewed diced tomatoes
+
+
+SENTID: 11
+SENT: I would sprinkle half of the shredded cheese .
+PREDID: 397
+PRED: sprinkle
+   DOBJ: half of the shredded cheese
+      INGREDIENT SPAN: half of the shredded cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 12
+SENT: I would repeat layers , ending with cheese on the top .
+PREDID: 429
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: ending with cheese on the top
+      NON-INGREDIENT SPAN: ending with cheese on the top
+
+
+SENTID: 13
+SENT: I would bake for 1 hour in the preheated oven , or until cheese is browned and bubbly .
+PREDID: 467
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour in the preheated oven , or until cheese is browned, bubbly
+     PREP: for
+      NON-INGREDIENT SPAN:  or until cheese is browned
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven 
+
+
+SENTID: 14
+SENT: I would let stand for 10 minutes to set before serving .
+PREDID: 530
+PRED: let
+   DOBJ: NULL
+   PARG: stand for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 minutes
+   OARG: to set before serving
+      NON-INGREDIENT SPAN: to set before serving
+
+

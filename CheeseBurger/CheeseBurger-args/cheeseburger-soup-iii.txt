@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , I would combine water , the potatoes , the carrots , the onion , bell pepper , jalapeno and garlic .
+PREDID: 31
+PRED: combine
+   DOBJ: water , the potatoes , the carrots , the onion , bell pepper , jalapeno, garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots grated
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: peeled cubed potatoes
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  jalapeno
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would sprinkle salt and bouillon over the mixture .
+PREDID: 96
+PRED: sprinkle
+   DOBJ: salt, bouillon
+      INGREDIENT SPAN:  bouillon
+         INGREDIENTS: cubes beef bouillon crumbled
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+   PARG: the mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 2
+SENT: I would bring to a boil ,
+PREDID: 134
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would reduce heat , the cover and simmer 15 to 20 minutes , until potatoes are tender .
+PREDID: 147
+PRED: reduce
+   DOBJ: NULL
+   PARG: heat , the cover, simmer 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the cover
+      NON-INGREDIENT SPAN:  simmer 15 to 20 minutes
+   PARG: potatoes are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 4
+SENT: I would meanwhile , in a large skillet over medium heat , cook beef until brown ;
+PREDID: 249
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 268
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would stir cooked beef and 2 cups milk into the soup and heat through .
+PREDID: 274
+PRED: stir
+   DOBJ: NULL
+
+PREDID: 278
+PRED: cooked
+   DOBJ: beef, 2 cups milk
+      INGREDIENT SPAN:  2 cups milk
+         INGREDIENTS: milk divided
+      NON-INGREDIENT SPAN: beef
+   PARG: the soup
+     PREP: into
+      NON-INGREDIENT SPAN: the soup
+
+PREDID: 314
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 7
+SENT: I would combine the remaining 1/2 cup milk with flour , stirring until smooth ;
+PREDID: 326
+PRED: combine
+   DOBJ: the remaining 1/2 cup milk with flour
+      INGREDIENT SPAN: the remaining 1/2 cup with flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: the remaining 1/2 cup milk with flour
+         INGREDIENTS: milk divided
+   OARG: stirring until smooth
+      NON-INGREDIENT SPAN: stirring until smooth
+
+
+SENTID: 8
+SENT: I would stir into soup .
+PREDID: 382
+PRED: stir
+   DOBJ: NULL
+   PARG: soup
+     PREP: into
+      NON-INGREDIENT SPAN: soup
+
+
+SENTID: 9
+SENT: I would bring to a low boil and cook , stirring , until thickened , 3 minutes .
+PREDID: 395
+PRED: bring
+   DOBJ: NULL
+   PARG: a low boil, cook , stirring , until thickened
+     PREP: to
+      NON-INGREDIENT SPAN: a low boil
+      NON-INGREDIENT SPAN:  stirring 
+      NON-INGREDIENT SPAN:  cook 
+      NON-INGREDIENT SPAN:  until thickened
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 10
+SENT: I would reduce heat to low and stir in cheese until melted .
+PREDID: 451
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 469
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: processed American cheese cubed
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 11
+SENT: I would season with cayenne .
+PREDID: 493
+PRED: season
+   DOBJ: NULL
+   PARG: cayenne
+     PREP: with
+      INGREDIENT SPAN: cayenne
+         INGREDIENTS: cayenne pepper
+
+

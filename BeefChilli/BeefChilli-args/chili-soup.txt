@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would combine the ground beef and onions .
+PREDID: 26
+PRED: combine
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would saute for 5 minutes , or until meat is browned .
+PREDID: 56
+PRED: saute
+   DOBJ: NULL
+   PARG: 5 minutes , or until meat is browned
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes 
+      NON-INGREDIENT SPAN:  or until meat is browned
+
+
+SENTID: 2
+SENT: I would drain excess fat and add the potatoes , the beans , tomato soup , tomato juice , chili powder , the water and salt to taste .
+PREDID: 94
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+PREDID: 111
+PRED: add
+   DOBJ: the potatoes , the beans , tomato soup , tomato juice , chili powder , the water, salt
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: tomato juice
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN: the potatoes 
+         INGREDIENTS: potatoes cubed
+      INGREDIENT SPAN:  tomato soup 
+         INGREDIENTS: ounce condensed tomato soup
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would bring just to a boil and reduce heat to low .
+PREDID: 187
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 206
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 4
+SENT: I would simmer for 1 hour and serve .
+PREDID: 222
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

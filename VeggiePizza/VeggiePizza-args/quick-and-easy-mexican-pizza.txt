@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat vegetable oil in a large skillet over medium-high heat until hot ;
+PREDID: 38
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 2
+SENT: I would fry tortillas , one at a time , until golden brown , 2 to 3 minutes per side .
+PREDID: 97
+PRED: fry
+   DOBJ: one at a time, tortillas
+      INGREDIENT SPAN:  tortillas
+         INGREDIENTS: large flour tortillas
+      NON-INGREDIENT SPAN: one at a time
+   PARG: golden brown , 2 to 3 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  2 to 3 minutes per side
+      NON-INGREDIENT SPAN: golden brown 
+
+
+SENTID: 3
+SENT: I would transfer fried tortillas using tongs to a baking sheet .
+PREDID: 157
+PRED: transfer
+   DOBJ: fried tortillas
+      NON-INGREDIENT SPAN: fried tortillas
+   OARG: using tongs to a baking sheet
+      NON-INGREDIENT SPAN: using tongs to a baking sheet
+
+
+SENTID: 4
+SENT: I would spread salsa onto each fried tortilla ;
+PREDID: 204
+PRED: spread
+   DOBJ: salsa
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: salsa
+   PARG: each fried tortilla
+     PREP: onto
+      NON-INGREDIENT SPAN: each fried tortilla
+
+
+SENTID: 5
+SENT: I would top with Cheddar cheese and Parmesan cheese .
+PREDID: 237
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until cheese is melted , about 8 minutes .
+PREDID: 275
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+

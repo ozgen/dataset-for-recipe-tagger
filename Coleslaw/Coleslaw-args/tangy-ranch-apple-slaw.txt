@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would whisk sour cream , the sweetener , apple cider vinegar , and ranch dressing mix in a bowl until thoroughly combined .
+PREDID: 0
+PRED: whisk
+   DOBJ: sour cream , the sweetener , apple cider vinegar , ranch
+      INGREDIENT SPAN:  the sweetener 
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  ranch
+         INGREDIENTS: dry ranch salad dressing mix such Hidden Valley Ranch
+      INGREDIENT SPAN:  apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+   OARG: dressing mix in a bowl until thoroughly combined
+      NON-INGREDIENT SPAN: dressing mix in a bowl until thoroughly combined
+
+
+SENTID: 1
+SENT: I would toss green apples , shredded cabbage , and green onions in a salad bowl and pour the dressing over the slaw ;
+PREDID: 93
+PRED: toss
+   DOBJ: green apples , shredded cabbage , green onions in a salad bowl
+      INGREDIENT SPAN:  green onions in a salad bowl
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN:  shredded cabbage 
+         INGREDIENTS: ounce package shredded cabbage
+      INGREDIENT SPAN: green apples 
+         INGREDIENTS: large green apples cored diced
+
+PREDID: 154
+PRED: pour
+   DOBJ: the dressing over the slaw
+      NON-INGREDIENT SPAN: the dressing over the slaw
+
+
+SENTID: 2
+SENT: I would toss to coat .
+PREDID: 178
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would season with salt and black pepper .
+PREDID: 189
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 4
+SENT: I would cover bowl with plastic wrap and chill at least 20 minutes or up to 4 hours before serving .
+PREDID: 218
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 245
+PRED: chill
+   DOBJ: NULL
+   PARG: least 20 minutes or up to 4 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 20 minutes or up to 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

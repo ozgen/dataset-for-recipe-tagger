@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would brown ground beef in a large skillet over medium heat .
+PREDID: 0
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would season with salt .
+PREDID: 45
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 2
+SENT: I would stir in butter , the mushrooms , the onion , and garlic ;
+PREDID: 60
+PRED: stir
+   DOBJ: NULL
+   PARG: butter , the mushrooms , the onion , garlic
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+
+
+SENTID: 3
+SENT: I would cook until the onions are soft .
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+   PARG: the onions are soft
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are soft
+
+
+SENTID: 4
+SENT: In a small bowl , I would stir together white wine and flour .
+PREDID: 138
+PRED: stir
+   DOBJ: white wine, flour
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: flour
+      INGREDIENT SPAN: white wine
+         INGREDIENTS: white wine
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir into meat , along with mushroom soup and beef broth .
+PREDID: 168
+PRED: stir
+   DOBJ: NULL
+   PARG: meat , along with mushroom soup, beef broth
+     PREP: into
+      INGREDIENT SPAN:  beef broth
+         INGREDIENTS: ounce beef broth
+      INGREDIENT SPAN:  along with mushroom soup
+         INGREDIENTS: ounce cream mushroom soup
+      NON-INGREDIENT SPAN: meat 
+
+
+SENTID: 6
+SENT: I would simmer for 10 to 15 minutes , allowing to thicken .
+PREDID: 215
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+   OARG: allowing to thicken
+      NON-INGREDIENT SPAN: allowing to thicken
+
+
+SENTID: 7
+SENT: -LRB- If you need more liquid , stir in additional broth .
+PREDID: 281
+PRED: stir
+   DOBJ: NULL
+   PARG: you need more liquid
+     PREP: if
+      NON-INGREDIENT SPAN: you need more liquid
+   PARG: additional broth
+     PREP: in
+      NON-INGREDIENT SPAN: additional broth
+
+
+SENTID: 8
+SENT: I would -RRB- Serve seasoned with a dash of Worcestershire sauce .
+PREDID: 304
+PRED: serve
+   DOBJ: NULL
+
+PREDID: 328
+PRED: worcestershire
+   DOBJ: sauce
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: Worcestershire sauce taste
+   PARG: a dash of
+     PREP: with
+      NON-INGREDIENT SPAN: a dash of
+
+

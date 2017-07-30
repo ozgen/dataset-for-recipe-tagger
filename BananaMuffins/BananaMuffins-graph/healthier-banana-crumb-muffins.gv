@@ -1,0 +1,63 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P45)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P86)", shape=oval, style=filled, fillcolor=azure]
+E3[label="beat (S3,P148)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P199)", shape=oval, style=filled, fillcolor=azure]
+E5[label="spoon (S5,P251)", shape=oval, style=filled, fillcolor=azure]
+E6[label="combine (S6,P285)", shape=oval, style=filled, fillcolor=azure]
+E7[label="blend (S7,P345)", shape=oval, style=filled, fillcolor=azure]
+E8[label="sprinkle (S8,P405)", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake (S9,P432)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, all-purpose flour, baking soda, salt
+(text: 1Ê1/2 cups flour , baking soda , baking powder , salt in a large bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D1[label="DOBJ: 10 muffin cups or line", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with muffin papers", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D3[label="DOBJ: white sugar, butter, bananas, egg
+(text: bananas , sugar , egg , melted butter in another bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: banana mixture"]
+E2 -> E4 [label="OUTPUT: 
+INPUT: into flour mixture"]
+O4_0_0[label="OTHER: just until moistened", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+D5_0[label="DOBJ: batter", shape=box, style=filled, fillcolor=white]
+D5_0 -> E5
+E1 -> E5 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+D6_ing[label="DOBJ: ground cinnamon, packed brown sugar
+(text:  cinnamon in a small bowl, brown sugar )", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E4 -> E6 [label="OUTPUT: 
+INPUT:  2 tablespoons flour "]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E5 -> E7 [label="OUTPUT: 
+INPUT: in 1 tablespoon butter"]
+O7_0_0[label="OTHER: until mixture resembles coarse cornmeal", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+O8_0_0[label="OTHER: topping over muffins", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+E0 -> E9 [label="OUTPUT: 
+INPUT: in preheated oven"]
+P9_1_0[label="PREP: until  18 to 20 minutes", shape=box, style=filled, fillcolor=white]
+P9_1_0 -> E9
+P9_1_1[label="PREP: until  tops spring back when lightly pressed ", shape=box, style=filled, fillcolor=white]
+P9_1_1 -> E9
+P9_1_2[label="PREP: until golden", shape=box, style=filled, fillcolor=white]
+P9_1_2 -> E9
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

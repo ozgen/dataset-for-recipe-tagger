@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would cook bacon in a large skillet over medium-high heat until crisp ;
+PREDID: 0
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 1
+SENT: I would drain , crumble , and set aside .
+PREDID: 54
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 71
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would make the dressing by whisking together the mayonnaise , the vinegar , the sugar , and celery seed in a small bowl .
+PREDID: 80
+PRED: make
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: whisking together the mayonnaise , the vinegar , the sugar , celery seed in a small bowl
+     PREP: by
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  celery seed in a small bowl
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: whisking together the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+
+
+SENTID: 3
+SENT: I would toss together the coleslaw mix and green onion in a large bowl ;
+PREDID: 167
+PRED: toss
+   DOBJ: the coleslaw mix, green onion in a large bowl
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce bag coleslaw mix
+      INGREDIENT SPAN:  green onion in a large bowl
+         INGREDIENTS: green onion chopped
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would add the dressing and toss to coat ;
+PREDID: 219
+PRED: add
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+
+PREDID: 236
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would stir in the bacon .
+PREDID: 247
+PRED: stir
+   DOBJ: NULL
+   PARG: the bacon
+     PREP: in
+      NON-INGREDIENT SPAN: the bacon
+
+
+SENTID: 6
+SENT: I would serve immediately .
+PREDID: 262
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

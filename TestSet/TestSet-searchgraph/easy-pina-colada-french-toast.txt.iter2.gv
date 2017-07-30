@@ -1,0 +1,56 @@
+digraph recipe {
+E0[label="whisk
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="milk
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pina
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="heat
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="melt
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="soak
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="turning
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="lay
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="top
+8", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D1[label="DOBJ: bottled pina colada drink mix", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D3_0[label="DOBJ: a skillet over medium heat", shape=box, style=filled, fillcolor=white]
+D3_0 -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+D4_ing[label="DOBJ: butter or needed", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="LOCOROBJ:in the skillet"]
+P4_1_0[label="DURATION:until the foam disappears", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+D5_ing[label="DOBJ: inch thick slices French bread", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="IMPLICIT PREP"]
+E0 -> E5 [label="LOCOROBJ:in the egg mixture"]
+E5 -> E6 [label="the slices"]
+P6_0_0[label="LOCOROBJ:over a couple of times", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="the soaked bread slices"]
+P7_0_0[label="LOCOROBJ:into the hot skillet 2 at a time", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+P7_0_1[label="LOCOROBJ:into pan-fry", shape=box, style=filled, fillcolor=white]
+P7_0_1 -> E7
+P7_1_0[label="DURATION:until the french toast is golden brown ", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+P7_1_1[label="DURATION:until  about 2 minutes per side", shape=box, style=filled, fillcolor=white]
+P7_1_1 -> E7
+D8_ing[label="DOBJ: bananas", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

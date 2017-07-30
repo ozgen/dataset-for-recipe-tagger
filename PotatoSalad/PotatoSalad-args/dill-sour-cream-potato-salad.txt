@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: diced potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain and cool .
+PREDID: 92
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large bowl combine potatoes , I would celery and green onions .
+PREDID: 139
+PRED: combine and
+   DOBJ: green onions, potatoes
+      INGREDIENT SPAN: green onions
+         INGREDIENTS: green onions sliced
+      NON-INGREDIENT SPAN:  potatoes
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: celery
+      INGREDIENT SPAN: celery
+         INGREDIENTS: chopped celery
+
+
+SENTID: 4
+SENT: In a small bowl combine vinegar , I would the oil , the salt , the pepper and dill weed .
+
+SENTID: 5
+SENT: I would pour over potatoes and toss gently .
+PREDID: 154
+PRED: pour
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 173
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would refrigerate for several hours , or overnight .
+PREDID: 184
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: several hours , or overnight
+     PREP: for
+      NON-INGREDIENT SPAN:  or overnight
+      NON-INGREDIENT SPAN: several hours 
+
+
+SENTID: 7
+SENT: I would stir in sour cream , and pickles just before serving .
+PREDID: 223
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+   OARG: pickles just
+      INGREDIENT SPAN: pickles just
+         INGREDIENTS: dill pickles chopped
+
+
+SENTID: 8
+SENT: I would garnish with tomato wedges .
+PREDID: 267
+PRED: garnish
+   DOBJ: NULL
+   PARG: tomato wedges
+     PREP: with
+      INGREDIENT SPAN: tomato wedges
+         INGREDIENTS: tomato cut wedges
+
+

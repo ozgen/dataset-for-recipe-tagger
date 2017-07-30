@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: I would preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 300 degrees F -LRB- 150 degrees C
+      NON-INGREDIENT SPAN: oven to 300 degrees F -LRB- 150 degrees C
+
+
+SENTID: 1
+SENT: In a small bowl mix together 1?1/2 cups crushed gingersnaps and 1 tablespoon sugar .
+
+SENTID: 2
+SENT: I would stir in melted butter or margarine .
+PREDID: 108
+PRED: stir
+   DOBJ: NULL
+   PARG: melted butter or margarine
+     PREP: in
+      INGREDIENT SPAN: melted butter or margarine
+         INGREDIENTS: butter melted
+
+
+SENTID: 3
+SENT: I would press mixture evenly into a 9 inch pie plate .
+PREDID: 138
+PRED: press
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: evenly into a 9 inch pie plate
+      NON-INGREDIENT SPAN: evenly into a 9 inch pie plate
+
+
+SENTID: 4
+SENT: I would bake for 15 minutes .
+PREDID: 175
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 5
+SENT: I would allow to cool .
+PREDID: 192
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 6
+SENT: In a medium bowl , I would combine pumpkin , 1 cup sugar , the salt , the ginger , the cinnamon , and nutmeg .
+PREDID: 218
+PRED: combine
+   DOBJ: pumpkin , 1 cup sugar , the salt , the ginger , the cinnamon , nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  1 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 7
+SENT: I would stir until thoroughly mixed .
+PREDID: 274
+PRED: stir
+   DOBJ: NULL
+   PARG: thoroughly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly mixed
+
+
+SENTID: 8
+SENT: I would fold in whipped topping .
+PREDID: 299
+PRED: fold
+   DOBJ: NULL
+   PARG: whipped topping
+     PREP: in
+      INGREDIENT SPAN: whipped topping
+         INGREDIENTS: frozen whipped topping
+
+
+SENTID: 9
+SENT: I would spread ice cream in an even layer in bottom of cooled gingersnap crust .
+PREDID: 320
+PRED: spread
+   DOBJ: ice cream
+      INGREDIENT SPAN: ice cream
+         INGREDIENTS: vanilla ice cream softened
+   PARG: an even layer in bottom of cooled gingersnap crust
+     PREP: in
+      INGREDIENT SPAN: an even layer in bottom of cooled gingersnap crust
+         INGREDIENTS: crushed gingersnap cookies
+
+
+SENTID: 10
+SENT: I would pour pumpkin mixture over ice cream .
+PREDID: 379
+PRED: pour
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: ice cream
+     PREP: over
+      NON-INGREDIENT SPAN: ice cream
+
+
+SENTID: 11
+SENT: I would freeze at least 2 hours before serving .
+PREDID: 410
+PRED: freeze
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 12
+SENT: I would garnish with whipped topping and crushed gingersnaps if desired .
+PREDID: 443
+PRED: garnish
+   DOBJ: NULL
+   PARG: whipped topping, crushed gingersnaps
+     PREP: with
+      NON-INGREDIENT SPAN: whipped topping
+      NON-INGREDIENT SPAN:  crushed gingersnaps
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

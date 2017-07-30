@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a 9 inch deep-dish pie pan , combine pecans , brown sugar and margarine ;
+PREDID: 54
+PRED: deep-dish
+   DOBJ: pie pan , combine pecans , brown sugar, margarine
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine melted
+      INGREDIENT SPAN:  combine pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: pie pan 
+         INGREDIENTS: pastry inch crust pie
+   PARG: a 9 inch
+     PREP: in
+      NON-INGREDIENT SPAN: a 9 inch
+
+
+SENTID: 2
+SENT: I would spread into a single layer .
+PREDID: 99
+PRED: spread
+   DOBJ: NULL
+   PARG: a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a single layer
+
+
+SENTID: 3
+SENT: I would roll out dough , and place bottom crust over pecan mixture .
+PREDID: 122
+PRED: roll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 138
+PRED: place
+   DOBJ: bottom crust
+      NON-INGREDIENT SPAN: bottom crust
+   PARG: pecan mixture
+     PREP: over
+      NON-INGREDIENT SPAN: pecan mixture
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine apples , the sugar , the flour , the cinnamon and nutmeg .
+PREDID: 184
+PRED: combine
+   DOBJ: apples , the sugar , the flour , the cinnamon, nutmeg
+      INGREDIENT SPAN: apples 
+         INGREDIENTS: Granny Smith apples peeled cored sliced
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would pour into crust in pan .
+PREDID: 228
+PRED: pour
+   DOBJ: NULL
+   PARG: crust in pan
+     PREP: into
+      NON-INGREDIENT SPAN: crust in pan
+
+
+SENTID: 6
+SENT: I would top with second crust .
+PREDID: 247
+PRED: top
+   DOBJ: NULL
+   PARG: second crust
+     PREP: with
+      NON-INGREDIENT SPAN: second crust
+
+
+SENTID: 7
+SENT: I would fold edges of crust over , and flute to seal edges .
+PREDID: 266
+PRED: fold
+   DOBJ: edges of crust
+      NON-INGREDIENT SPAN: edges of crust
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 290
+PRED: flute
+   DOBJ: NULL
+   OARG: to seal edges
+      NON-INGREDIENT SPAN: to seal edges
+
+
+SENTID: 8
+SENT: I would make several small slits in the top to allow steam to escape .
+PREDID: 307
+PRED: make
+   DOBJ: several small slits
+      NON-INGREDIENT SPAN: several small slits
+   PARG: the top to allow steam to escape
+     PREP: in
+      NON-INGREDIENT SPAN: the top to allow steam to escape
+
+
+SENTID: 9
+SENT: I would place the pan on foil or cookie sheet during baking to guard against spillage .
+PREDID: 357
+PRED: place
+   DOBJ: the pan on foil or cookie sheet
+      NON-INGREDIENT SPAN: the pan on foil or cookie sheet
+   PARG: baking to guard against spillage
+     PREP: during
+      NON-INGREDIENT SPAN: baking to guard against spillage
+
+
+SENTID: 10
+SENT: I would bake in preheated oven for 40 to 50 minutes , or until crust is golden brown and apples are tender .
+PREDID: 419
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 40 to 50 minutes , or until crust is golden brown, apples are tender
+     PREP: in
+      NON-INGREDIENT SPAN:  apples are tender
+      NON-INGREDIENT SPAN:  or until crust is golden brown
+      NON-INGREDIENT SPAN: preheated oven for 40 to 50 minutes 
+
+
+SENTID: 11
+SENT: I would cool pie in pan for 5 minutes .
+PREDID: 499
+PRED: cool
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: pan for 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pan for 5 minutes
+
+
+SENTID: 12
+SENT: Place serving plate over pie , and flip to invert , being careful not to come in contact with molten sugar .
+
+SENTID: 13
+SENT: If some of the nuts stick to the pan , I would remove them with a knife , and place on pie .
+PREDID: 552
+PRED: remove
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: some of the nuts stick to the pan
+     PREP: if
+      NON-INGREDIENT SPAN: some of the nuts stick to the pan
+   PARG: a knife , place on pie
+     PREP: with
+      NON-INGREDIENT SPAN:  place on pie
+      NON-INGREDIENT SPAN: a knife 
+
+
+SENTID: 14
+SENT: I would allow to cool for 1 hour .
+PREDID: 587
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool for 1 hour
+      NON-INGREDIENT SPAN: to cool for 1 hour
+
+

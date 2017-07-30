@@ -1,0 +1,143 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="bring
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="remove
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cover
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="let
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="remove
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cool
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="place
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="bring
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="cook
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="remove
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="set
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="heat
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="add
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="saute
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="flake
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="spread
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="spread
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="spread
+19", shape=oval, style=filled, fillcolor=azure]
+E20[label="top
+20", shape=oval, style=filled, fillcolor=azure]
+E21[label="spread
+21", shape=oval, style=filled, fillcolor=azure]
+E22[label="add
+22", shape=oval, style=filled, fillcolor=azure]
+E23[label="finally
+23", shape=oval, style=filled, fillcolor=azure]
+E24[label="slice
+24", shape=oval, style=filled, fillcolor=azure]
+E25[label="cover
+25", shape=oval, style=filled, fillcolor=azure]
+E26[label="spread
+26", shape=oval, style=filled, fillcolor=azure]
+E27[label="chill
+27", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: eggs", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: water", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+P2_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+P3_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+D8[label="DOBJ: medium baking potatoes peeled and cubed", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="DURATION:while the eggs are cooking", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+P8_1[label="LOCOROBJ:in a saucepan with just enough water", shape=box, style=filled, fillcolor=white]
+P8_1 -> E8
+D13[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D13 -> E13
+P13_0[label="LOCOROBJ:in a skillet over medium heat", shape=box, style=filled, fillcolor=white]
+P13_0 -> E13
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:with cold water", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E4 [label="eggs"]
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="DURATION:in hot water for 10 to 12 minutes", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E2 -> E6 [label="LOCOROBJ:from hot water"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="DURATION:for 10 to 15 minutes ", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+P10_0_1[label="DURATION:for  or until tender", shape=box, style=filled, fillcolor=white]
+P10_0_1 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_0[label="LOCOROBJ:from heat", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+D14_ing[label="DOBJ: large onion", shape=box, style=filled, fillcolor=peachpuff]
+D14_ing -> E14
+E13 -> E14 [label="IMPLICIT PREP"]
+E14 -> E15 [label="IMPLICIT DOBJ"]
+P15_0_0[label="DURATION:until lightly browned", shape=box, style=filled, fillcolor=white]
+P15_0_0 -> E15
+P15_0_1[label="DURATION:until translucent ", shape=box, style=filled, fillcolor=white]
+P15_0_1 -> E15
+P15_0_2[label="DURATION:until  about 10 minutes", shape=box, style=filled, fillcolor=white]
+P15_0_2 -> E15
+D16_ing[label="DOBJ: salmon", shape=box, style=filled, fillcolor=peachpuff]
+D16_ing -> E16
+E15 -> E16 [label="IMPLICIT PREP"]
+E16 -> E17 [label="it"]
+P17_0_0[label="LOCOROBJ:over the bottom of a glass baking dish or serving dish", shape=box, style=filled, fillcolor=white]
+P17_0_0 -> E17
+E17 -> E18 [label="the sauteed onions over the salmon"]
+D19_ing[label="DOBJ: mayonnaise or needed", shape=box, style=filled, fillcolor=peachpuff]
+D19_ing -> E19
+E18 -> E19 [label="IMPLICIT PREP"]
+E19 -> E20 [label="enough mayonnaise"]
+E12 -> E20 [label="LOCOROBJ:with potatoes"]
+E20 -> E21 [label="IMPLICIT DOBJ"]
+E21 -> E22 [label="moisture"]
+P22_0_0[label="LOCOROBJ:to the layer", shape=box, style=filled, fillcolor=white]
+P22_0_0 -> E22
+E7 -> E23 [label="the eggs"]
+E23 -> E24 [label="IMPLICIT DOBJ"]
+E22 -> E25 [label="the layer of potatoes"]
+E24 -> E25 [label="IMPLICIT PREP"]
+D26_ing[label="DOBJ: chopped fresh parsley garnish", shape=box, style=filled, fillcolor=peachpuff]
+D26_ing -> E26
+E25 -> E26 [label="mayonnaise over the eggs "]
+P26_0_0[label="LOCOROBJ:with chopped parsley", shape=box, style=filled, fillcolor=white]
+P26_0_0 -> E26
+E26 -> E27 [label="IMPLICIT DOBJ"]
+P27_0_0[label="DURATION:for 1 hour", shape=box, style=filled, fillcolor=white]
+P27_0_0 -> E27
+P27_1_0[label="OTHER:before serving", shape=box, style=filled, fillcolor=white]
+P27_1_0 -> E27
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E27 -> EOR
+}

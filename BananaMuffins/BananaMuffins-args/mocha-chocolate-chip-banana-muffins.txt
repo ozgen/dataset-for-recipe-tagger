@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would blend butter or margarine , the sugar , the egg , the banana , dissolved coffee , and vanilla in food processor for 2 minutes .
+PREDID: 38
+PRED: blend
+   DOBJ: butter or margarine , the sugar , the egg , the banana , dissolved coffee , vanilla
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  dissolved coffee 
+         INGREDIENTS: instant coffee granules dissolved
+      INGREDIENT SPAN: butter or margarine 
+         INGREDIENTS: margarine
+      INGREDIENT SPAN:  the banana 
+         INGREDIENTS: ripe bananas
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: food processor for 2 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: food processor for 2 minutes
+
+
+SENTID: 2
+SENT: I would add flour , the salt , baking powder , and soda , and blend just until flour disappears .
+PREDID: 131
+PRED: add
+   DOBJ: flour , the salt , baking powder , soda
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+
+PREDID: 172
+PRED: blend
+   DOBJ: NULL
+   OARG: just until flour disappears
+      NON-INGREDIENT SPAN: just until flour disappears
+
+
+SENTID: 3
+SENT: I would add chocolate chips and mix in with wooden spoon .
+PREDID: 199
+PRED: add
+   DOBJ: chocolate chips
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+
+PREDID: 219
+PRED: mix
+   DOBJ: NULL
+   PARG: wooden spoon
+     PREP: with
+      NON-INGREDIENT SPAN: wooden spoon
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 4
+SENT: I would spoon mixture into 15 to 18 paper-lined muffin cups .
+PREDID: 240
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: 15 to 18 paper-lined muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: 15 to 18 paper-lined muffin cups
+
+
+SENTID: 5
+SENT: I would bake for 25 minutes .
+PREDID: 284
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+
+SENTID: 6
+SENT: I would cool on wire racks .
+PREDID: 301
+PRED: cool
+   DOBJ: NULL
+   PARG: wire racks
+     PREP: on
+      NON-INGREDIENT SPAN: wire racks
+
+

@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13 inch baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: I would cook ground beef and sausage in a large , deep skillet until well browned , about 5 minutes .
+PREDID: 64
+PRED: cook
+   DOBJ: ground beef, sausage in a large , deep skillet
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  sausage in a large 
+         INGREDIENTS: bulk Italian sausage
+      NON-INGREDIENT SPAN:  deep skillet
+   PARG: well browned , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: well browned 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would drain fat .
+PREDID: 139
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 4
+SENT: I would stir in pasta sauce .
+PREDID: 148
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta sauce
+     PREP: in
+      INGREDIENT SPAN: pasta sauce
+         INGREDIENTS: ounce jars chunky style pasta sauce such Prego
+
+
+SENTID: 5
+SENT: I would bring to a simmer .
+PREDID: 165
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 6
+SENT: While sauce is simmering , I would bring a large pot of salted water to a boil over high heat .
+PREDID: 202
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: sauce is simmering
+     PREP: while
+      NON-INGREDIENT SPAN: sauce is simmering
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 7
+SENT: I would stir in the egg noodles .
+PREDID: 249
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package broad egg noodles
+
+
+SENTID: 8
+SENT: I would boil until cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 269
+PRED: boil
+   DOBJ: NULL
+   PARG: cooked through , but is still firm to the bite , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 9
+SENT: I would drain well .
+PREDID: 330
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 10
+SENT: I would spoon half of the meat sauce into the prepared baking dish .
+PREDID: 340
+PRED: spoon
+   DOBJ: half of the meat sauce
+      NON-INGREDIENT SPAN: half of the meat sauce
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 11
+SENT: I would top with half of the cooked noodles , and 1?1/2 packages of cheese slices .
+PREDID: 389
+PRED: top
+   DOBJ: NULL
+   PARG: half of the cooked noodles , 1?1/2 packages of cheese slices
+     PREP: with
+      INGREDIENT SPAN:  1?1/2 packages of cheese slices
+         INGREDIENTS: ounce packages sliced Swiss cheese such Sargento
+      NON-INGREDIENT SPAN: half of the cooked noodles 
+
+
+SENTID: 12
+SENT: I would repeat with remaining sauce , the noodles , and cheese .
+PREDID: 450
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining sauce , the noodles , cheese
+     PREP: with
+      NON-INGREDIENT SPAN:  the noodles 
+      NON-INGREDIENT SPAN: remaining sauce 
+      NON-INGREDIENT SPAN:  cheese
+
+
+SENTID: 13
+SENT: I would place uncovered dish in preheated oven .
+PREDID: 493
+PRED: place
+   DOBJ: uncovered dish
+      NON-INGREDIENT SPAN: uncovered dish
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+
+
+SENTID: 14
+SENT: I would bake , until cheese is melted and browned , about 40 minutes .
+PREDID: 527
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 40 minutes
+
+PREDID: 545
+PRED: is melted and browned
+   DOBJ: NULL
+   OARG: until
+      NON-INGREDIENT SPAN: until
+
+
+SENTID: 15
+SENT: I would let stand 5 minutes before serving .
+PREDID: 577
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

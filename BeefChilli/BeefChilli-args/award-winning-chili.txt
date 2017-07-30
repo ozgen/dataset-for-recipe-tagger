@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: In a large pot over medium-low heat , I would combine tomatoes , tomato paste , the carrot , the onion , the celery , the wine , pepper flakes , bell peppers and steak sauce .
+PREDID: 30
+PRED: combine
+   DOBJ: tomatoes , tomato paste , the carrot , the onion , the celery , the wine , pepper flakes , bell peppers, steak sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  steak sauce
+         INGREDIENTS: bottled steak sauce
+      INGREDIENT SPAN:  bell peppers
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the wine 
+         INGREDIENTS: white wine
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot sliced
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce stewed tomatoes chopped
+   PARG: a large pot over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium-low heat
+
+
+SENTID: 1
+SENT: While tomato mixture is simmering , I would in a large skillet over medium heat , cook bacon until crisp .
+PREDID: 181
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: tomato mixture is simmering
+     PREP: while
+      NON-INGREDIENT SPAN: tomato mixture is simmering
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 2
+SENT: I would remove to paper towels .
+PREDID: 201
+PRED: remove
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: to
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 3
+SENT: I would cook beef in bacon drippings until brown ;
+PREDID: 221
+PRED: cook
+   DOBJ: beef in bacon drippings
+      INGREDIENT SPAN: beef in bacon drippings
+         INGREDIENTS: ground beef
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 256
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would stir chili seasoning into ground beef .
+PREDID: 262
+PRED: stir
+   DOBJ: chili seasoning into ground beef
+      INGREDIENT SPAN:  into ground beef
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: chili seasoning into ground beef
+         INGREDIENTS: ounce package chili seasoning mix
+
+
+SENTID: 6
+SENT: I would stir seasoned beef , the cumin and bacon into tomato mixture .
+PREDID: 295
+PRED: stir
+   DOBJ: seasoned beef , the cumin, bacon
+      NON-INGREDIENT SPAN: seasoned beef 
+      NON-INGREDIENT SPAN:  bacon
+      NON-INGREDIENT SPAN:  the cumin
+   PARG: tomato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: tomato mixture
+
+
+SENTID: 7
+SENT: I would continue to simmer until vegetables are tender and flavors are well blended .
+PREDID: 343
+PRED: continue
+   DOBJ: NULL
+   OARG: to simmer until vegetables are tender
+      NON-INGREDIENT SPAN: to simmer until vegetables are tender
+   OARG: flavors are well blended
+      NON-INGREDIENT SPAN: flavors are well blended
+
+
+SENTID: 8
+SENT: I would stir in beans , the cilantro and parsley .
+PREDID: 408
+PRED: stir
+   DOBJ: NULL
+   PARG: beans , the cilantro, parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the cilantro
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce kidney beans drained
+
+
+SENTID: 9
+SENT: I would heat through and serve .
+PREDID: 439
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

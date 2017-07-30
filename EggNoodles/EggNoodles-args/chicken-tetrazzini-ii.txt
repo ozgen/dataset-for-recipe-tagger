@@ -1,0 +1,228 @@
+SENTID: 0
+SENT: I would boil chicken breasts and celery in 4 cups of water for about 30 minutes .
+PREDID: 0
+PRED: boil
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 21
+PRED: celery
+   DOBJ: NULL
+   PARG: 4 cups of water for about 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: 4 cups of water for about 30 minutes
+
+
+SENTID: 1
+SENT: I would remove from heat and remove chicken from water to cool .
+PREDID: 59
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 76
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: water
+     PREP: from
+      NON-INGREDIENT SPAN: water
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 2
+SENT: When chicken is cooled , shred and set aside .
+PREDID: 125
+PRED: shred and set
+   DOBJ: NULL
+   OARG: when chicken is cooled
+      NON-INGREDIENT SPAN: when chicken is cooled
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large skillet , I would melt butter or margarine .
+PREDID: 158
+PRED: melt
+   DOBJ: butter or margarine
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: butter
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 4
+SENT: I would drain mushrooms , reserving liquid , and add to skillet .
+PREDID: 180
+PRED: drain
+   DOBJ: mushrooms , reserving liquid
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: ounce sliced mushrooms
+      NON-INGREDIENT SPAN:  reserving liquid
+
+PREDID: 214
+PRED: add
+   DOBJ: NULL
+   OARG: to skillet
+      NON-INGREDIENT SPAN: to skillet
+
+
+SENTID: 5
+SENT: I would heat thoroughly , seasoning with salt and pepper .
+PREDID: 227
+PRED: heat
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+   OARG: seasoning with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: seasoning with salt
+         INGREDIENTS: salt
+
+
+SENTID: 6
+SENT: I would add evaporated milk , reserved mushroom liquid and sherry , stirring well .
+PREDID: 269
+PRED: add
+   DOBJ: evaporated milk , reserved mushroom liquid, sherry , stirring well
+      INGREDIENT SPAN: evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  sherry 
+         INGREDIENTS: dry sherry
+      NON-INGREDIENT SPAN:  stirring well
+      NON-INGREDIENT SPAN:  reserved mushroom liquid
+
+
+SENTID: 7
+SENT: I would add the cheese a few slices at a time until thoroughly melted and blended .
+PREDID: 332
+PRED: add
+   DOBJ: NULL
+   PARG: thoroughly melted, blended
+     PREP: until
+      NON-INGREDIENT SPAN:  blended
+      NON-INGREDIENT SPAN: thoroughly melted
+   OARG: the cheese a few slices at a time
+      INGREDIENT SPAN: the cheese a few slices at a time
+         INGREDIENTS: processed cheese food Velveeta
+
+
+SENTID: 8
+SENT: I would add shredded chicken and bring to a slow boil .
+PREDID: 390
+PRED: add
+   DOBJ: shredded chicken
+      NON-INGREDIENT SPAN: shredded chicken
+
+PREDID: 411
+PRED: bring
+   DOBJ: NULL
+   PARG: a slow boil
+     PREP: to
+      NON-INGREDIENT SPAN: a slow boil
+
+
+SENTID: 9
+SENT: I would preheat oven to 350 degrees -LRB- 175 C -RRB- .
+PREDID: 428
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees -lrb- 175 c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees -lrb- 175 c
+
+
+SENTID: 10
+SENT: I would grease a 9x13x2 glass baking dish .
+PREDID: 458
+PRED: grease
+   DOBJ: a 9x13x2 glass baking dish
+      NON-INGREDIENT SPAN: a 9x13x2 glass baking dish
+
+
+SENTID: 11
+SENT: I would put in noodles at about a 1?1/2 inch depth and pour chicken mixture over noodles .
+PREDID: 487
+PRED: put
+   DOBJ: NULL
+   PARG: noodles
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles cooked drained
+   PARG: about a 1?1/2 inch depth
+     PREP: at
+      NON-INGREDIENT SPAN: about a 1?1/2 inch depth
+
+PREDID: 524
+PRED: pour
+   DOBJ: chicken mixture
+      NON-INGREDIENT SPAN: chicken mixture
+   PARG: noodles
+     PREP: over
+      NON-INGREDIENT SPAN: noodles
+
+
+SENTID: 12
+SENT: I would stir to coat .
+PREDID: 554
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 13
+SENT: I would top with cornflake crumbs and paprika , cover dish and bake for 25 minutes .
+PREDID: 565
+PRED: top
+   DOBJ: NULL
+   PARG: cornflake crumbs, paprika
+     PREP: with
+      INGREDIENT SPAN: cornflake crumbs
+         INGREDIENTS: cornflakes cereal
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+
+PREDID: 598
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+
+PREDID: 610
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+
+SENTID: 14
+SENT: I would uncover dish and bake for 5 more minutes .
+PREDID: 627
+PRED: uncover
+   DOBJ: dish, bake
+      NON-INGREDIENT SPAN: dish
+      NON-INGREDIENT SPAN:  bake
+   PARG: 5 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 more minutes
+
+
+SENTID: 15
+SENT: I would serve warm .
+PREDID: 661
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

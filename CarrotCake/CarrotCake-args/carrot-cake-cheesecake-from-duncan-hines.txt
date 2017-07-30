@@ -1,0 +1,253 @@
+SENTID: 0
+SENT: I would carrot Cake :
+PREDID: 0
+PRED: carrot
+   DOBJ: Cake
+      INGREDIENT SPAN: Cake
+         INGREDIENTS: ounce box Duncan Hines Classic Carrot Cake Mix
+
+
+SENTID: 1
+SENT: I would soak carrots and raisins in 1 cup HOT tap water , allow to stand for 5 mins .
+PREDID: 11
+PRED: soak tap
+   DOBJ: water, carrots, raisins in 1 cup HOT
+      INGREDIENT SPAN: water
+         INGREDIENTS: hot tap water soaking carrots raisins
+      NON-INGREDIENT SPAN:  carrots
+      NON-INGREDIENT SPAN:  raisins in 1 cup HOT
+
+PREDID: 50
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 5 mins
+      NON-INGREDIENT SPAN: to stand for 5 mins
+
+
+SENTID: 2
+SENT: I would drain and squeeze out excess water from carrots and raisins .
+PREDID: 71
+PRED: drain and squeeze
+   DOBJ: excess water
+      NON-INGREDIENT SPAN: excess water
+   PARG: carrots, raisins
+     PREP: from
+      NON-INGREDIENT SPAN:  raisins
+      NON-INGREDIENT SPAN: carrots
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 3
+SENT: In mixing bowl add dry mix , 2 eggs , 1/4 cup oil .
+
+SENTID: 4
+SENT: I would add well drained carrots , the raisins and pineapple .
+PREDID: 160
+PRED: add
+   DOBJ: drained carrots , the raisins, pineapple
+      INGREDIENT SPAN: drained carrots 
+         INGREDIENTS: ounce crushed pineapple packed juice drained reserve
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: pineapple juice
+      NON-INGREDIENT SPAN:  the raisins
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would add coconut and walnuts .
+PREDID: 202
+PRED: add
+   DOBJ: coconut, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: coconut
+         INGREDIENTS: coconut
+
+
+SENTID: 6
+SENT: I would mix well by hand .
+PREDID: 223
+PRED: mix
+   DOBJ: NULL
+   PARG: hand
+     PREP: by
+      NON-INGREDIENT SPAN: hand
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would spread 2 cups of carrot cake on bottom of a greased 9-9 1/2 '' springform pan .
+PREDID: 237
+PRED: spread
+   DOBJ: 2 cups of carrot cake
+      NON-INGREDIENT SPAN: 2 cups of carrot cake
+   PARG: bottom of a greased 9-9 1/2 '' springform pan
+     PREP: on
+      NON-INGREDIENT SPAN: bottom of a greased 9-9 1/2 '' springform pan
+
+
+SENTID: 8
+SENT: I would reserve the remaining carrot cake .
+PREDID: 300
+PRED: reserve
+   DOBJ: the remaining carrot cake
+      NON-INGREDIENT SPAN: the remaining carrot cake
+
+
+SENTID: 9
+SENT: I would cheesecake :
+PREDID: 327
+PRED: cheesecake
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: In large bowl beat cream cheese , I would the sugar and vanilla until smooth .
+
+SENTID: 11
+SENT: I would beat in eggs .
+PREDID: 338
+PRED: beat
+   DOBJ: NULL
+   PARG: eggs
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+
+
+SENTID: 12
+SENT: I would spread 1/2 of the cheesecake batter on top of the carrot cake .
+PREDID: 349
+PRED: spread
+   DOBJ: 1/2 of the cheesecake batter
+      NON-INGREDIENT SPAN: 1/2 of the cheesecake batter
+   PARG: top of the carrot cake
+     PREP: on
+      NON-INGREDIENT SPAN: top of the carrot cake
+
+
+SENTID: 13
+SENT: I would spoon on remaining carrot cake and top with remaining cheese cake batter .
+PREDID: 400
+PRED: spoon
+   DOBJ: NULL
+   PARG: remaining carrot cake
+     PREP: on
+      NON-INGREDIENT SPAN: remaining carrot cake
+
+PREDID: 429
+PRED: top
+   DOBJ: NULL
+   PARG: remaining cheese cake batter
+     PREP: with
+      INGREDIENT SPAN: remaining cheese cake batter
+         INGREDIENTS: ounce packages cream cheese
+
+
+SENTID: 14
+SENT: Do not marble with knife .
+
+SENTID: 15
+SENT: I would bake in a 350 degrees F preheated oven for 50-60 mins or until cake is set and cooked through .
+PREDID: 462
+PRED: bake
+   DOBJ: NULL
+   PARG: a 350 degrees
+     PREP: in
+      NON-INGREDIENT SPAN: a 350 degrees
+   OARG: f preheated oven for 50-60 mins or until cake is set, cooked through
+      NON-INGREDIENT SPAN: f preheated oven for 50-60 mins or until cake is set
+      NON-INGREDIENT SPAN:  cooked through
+
+
+SENTID: 16
+SENT: I would cool to room temperature .
+PREDID: 538
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+
+SENTID: 17
+SENT: When cake is cooled frost with Pineapple Cream Cheese frosting .
+PREDID: 576
+PRED: frost
+   DOBJ: NULL
+   PARG: pineapple cream cheese frosting
+     PREP: with
+      INGREDIENT SPAN: pineapple cream cheese frosting
+         INGREDIENTS: cream cheese softened
+   OARG: when cake is cooled
+      NON-INGREDIENT SPAN: when cake is cooled
+
+
+SENTID: 18
+SENT: Or top with Duncan Hines Cream Cheese Frosting .
+PREDID: 616
+PRED: top
+   DOBJ: NULL
+   PARG: duncan hines cream cheese frosting
+     PREP: with
+      NON-INGREDIENT SPAN: duncan hines cream cheese frosting
+   OARG: or
+      NON-INGREDIENT SPAN: or
+
+
+SENTID: 19
+SENT: I would refrigerate for 3 hours and serve chilled .
+PREDID: 654
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 hours
+
+PREDID: 677
+PRED: serve
+   DOBJ: NULL
+
+
+SENTID: 20
+SENT: I would beat Cream cheese , the butter , the vanilla , and pineapple juice until smooth .
+PREDID: 690
+PRED: beat
+   DOBJ: Cream cheese , the butter , the vanilla , pineapple juice
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter softened
+      INGREDIENT SPAN:  pineapple juice
+         INGREDIENTS: juice
+      NON-INGREDIENT SPAN: Cream cheese 
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 21
+SENT: I would beat in powder sugar until smooth .
+PREDID: 750
+PRED: beat
+   DOBJ: NULL
+   PARG: powder sugar
+     PREP: in
+      INGREDIENT SPAN: powder sugar
+         INGREDIENTS: powdered sugar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 22
+SENT: I would frost top of cheesecake .
+PREDID: 779
+PRED: frost
+   DOBJ: top of cheesecake
+      NON-INGREDIENT SPAN: top of cheesecake
+
+

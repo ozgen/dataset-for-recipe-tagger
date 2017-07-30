@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would stir whole wheat flour , rolled oats , the sugar , baking powder , baking soda , and chocolate chips together in a bowl .
+PREDID: 78
+PRED: stir
+   DOBJ: whole wheat flour , rolled oats , the sugar , baking powder , baking soda , chocolate chips
+      INGREDIENT SPAN:  rolled oats 
+         INGREDIENTS: rolled oats
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN: whole wheat flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would make a well in the center .
+PREDID: 172
+PRED: make
+   DOBJ: a well in the center
+      NON-INGREDIENT SPAN: a well in the center
+
+
+SENTID: 4
+SENT: I would whisk eggs in a separate bowl until frothy ;
+PREDID: 193
+PRED: whisk
+   DOBJ: eggs in a separate bowl
+      INGREDIENT SPAN: eggs in a separate bowl
+         INGREDIENTS: large eggs
+   PARG: frothy
+     PREP: until
+      NON-INGREDIENT SPAN: frothy
+
+
+SENTID: 5
+SENT: I would mix applesauce , skim milk , and banana into eggs .
+PREDID: 229
+PRED: mix
+   DOBJ: applesauce , skim milk , banana
+      INGREDIENT SPAN:  skim milk 
+         INGREDIENTS: skim milk
+      INGREDIENT SPAN:  banana
+         INGREDIENTS: mashed banana
+      INGREDIENT SPAN: applesauce 
+         INGREDIENTS: unsweetened applesauce
+   PARG: eggs
+     PREP: into
+      NON-INGREDIENT SPAN: eggs
+
+
+SENTID: 6
+SENT: I would pour moist ingredients into well made in dry ingredients ;
+PREDID: 270
+PRED: pour
+   DOBJ: moist ingredients
+      NON-INGREDIENT SPAN: moist ingredients
+   PARG: well made in dry ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: well made in dry ingredients
+
+
+SENTID: 7
+SENT: I would stir just to moisten .
+PREDID: 319
+PRED: stir
+   DOBJ: NULL
+   PARG: moisten
+     PREP: to
+      NON-INGREDIENT SPAN: moisten
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+
+SENTID: 8
+SENT: Batter will be lumpy .
+
+SENTID: 9
+SENT: I would fill prepared muffin cups about 3/4 full .
+PREDID: 337
+PRED: fill
+   DOBJ: NULL
+   OARG: prepared muffin cups about 3/4 full
+      NON-INGREDIENT SPAN: prepared muffin cups about 3/4 full
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until a toothpick inserted into the center of several muffins comes out clean , 16 to 18 minutes .
+PREDID: 372
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center of several muffins comes out clean , 16 to 18 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center of several muffins comes out clean 
+      NON-INGREDIENT SPAN:  16 to 18 minutes
+
+
+SENTID: 11
+SENT: I would cool in pan for 5 minutes before removing to finish the cooling on wire racks .
+PREDID: 474
+PRED: cool
+   DOBJ: NULL
+   PARG: pan for 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pan for 5 minutes
+   PARG: removing to finish the cooling on wire racks
+     PREP: before
+      NON-INGREDIENT SPAN: removing to finish the cooling on wire racks
+
+

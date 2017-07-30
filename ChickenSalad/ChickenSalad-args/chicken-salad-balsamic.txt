@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together the chicken , the apple , the celery , the onion and walnuts .
+PREDID: 13
+PRED: toss
+   DOBJ: the chicken , the apple , the celery , the onion, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: diced apple
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: diced cold cooked chicken
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: In a small bowl , I would whisk together the vinegar and oil and pour over the salad .
+PREDID: 78
+PRED: whisk
+   DOBJ: the vinegar, oil
+      INGREDIENT SPAN: the vinegar
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: olive oil
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 110
+PRED: pour
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would season with salt and pepper to taste and mix well .
+PREDID: 127
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   OARG: to taste, mix well
+      NON-INGREDIENT SPAN: to taste
+      NON-INGREDIENT SPAN:  mix well
+
+
+SENTID: 3
+SENT: I would let rest 10 to 15 minutes , mix again and chill .
+PREDID: 168
+PRED: let
+   DOBJ: NULL
+   PARG: 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 15 minutes
+   OARG: rest
+      NON-INGREDIENT SPAN: rest
+
+PREDID: 189
+PRED: mix
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+

@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13 inch baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13 inch baking dish
+      INGREDIENT SPAN: a 9x13 inch baking dish
+         INGREDIENTS: potatoes peeled sliced lengthwise inch thick
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a medium bowl , I would whisk together the Alfredo sauce and milk .
+PREDID: 85
+PRED: whisk
+   DOBJ: the Alfredo sauce
+      INGREDIENT SPAN: the Alfredo sauce
+         INGREDIENTS: ounce jar Alfredo sauce
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would spread 1/4 cup of the sauce in the bottom of the baking dish .
+PREDID: 121
+PRED: spread
+   DOBJ: 1/4 cup of the sauce
+      NON-INGREDIENT SPAN: 1/4 cup of the sauce
+   PARG: the bottom of the baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of the baking dish
+
+
+SENTID: 4
+SENT: I would then layer 1/3 of the potatoes over the sauce in the dish .
+PREDID: 174
+PRED: layer
+   DOBJ: 1/3 of the potatoes
+      NON-INGREDIENT SPAN: 1/3 of the potatoes
+   PARG: the sauce in the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the sauce in the dish
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 5
+SENT: I would sprinkle with 1 tablespoon of Parmesan cheese and salt and pepper to taste .
+PREDID: 217
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: 1 tablespoon of parmesan cheese, salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: 1 tablespoon of parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: In a separate medium bowl , I would combine the ham , the broccoli and 1?1/2 cups of the Swiss cheese .
+PREDID: 302
+PRED: combine
+   DOBJ: the ham , the broccoli, 1?1/2 cups of the Swiss cheese
+      INGREDIENT SPAN:  the broccoli
+         INGREDIENTS: ounce package chopped frozen broccoli
+      INGREDIENT SPAN: the ham 
+         INGREDIENTS: diced ham
+      INGREDIENT SPAN:  1?1/2 cups of the Swiss cheese
+         INGREDIENTS: shredded Swiss cheese
+   PARG: a separate medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate medium bowl
+
+
+SENTID: 7
+SENT: I would mix well and spread 1/3 of this mixture over the potatoes in the baking dish .
+PREDID: 353
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 363
+PRED: spread
+   DOBJ: 1/3 of this mixture
+      NON-INGREDIENT SPAN: 1/3 of this mixture
+   PARG: the potatoes in the baking dish
+     PREP: over
+      NON-INGREDIENT SPAN: the potatoes in the baking dish
+
+
+SENTID: 8
+SENT: I would then top with another layer of potatoes , followed by the ham mixture , finally topping all with the remaining Swiss cheese and Parmesan cheese .
+PREDID: 420
+PRED: top
+   DOBJ: NULL
+   PARG: another layer of potatoes , followed by the ham mixture , finally topping all with the remaining swiss cheese, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  finally topping all with the remaining swiss cheese
+         INGREDIENTS: shredded Swiss cheese
+      NON-INGREDIENT SPAN: another layer of potatoes 
+      NON-INGREDIENT SPAN:  followed by the ham mixture 
+   OARG: then
+      NON-INGREDIENT SPAN: then
+
+
+SENTID: 9
+SENT: I would pour the remaining Alfredo sauce over all .
+PREDID: 536
+PRED: pour
+   DOBJ: the remaining Alfredo sauce over all
+      NON-INGREDIENT SPAN: the remaining Alfredo sauce over all
+
+
+SENTID: 10
+SENT: I would cover and bake at 400 degrees F -LRB- 200 degrees C -RRB- for 45 minutes ,
+PREDID: 572
+PRED: cover and bake
+   DOBJ: NULL
+   PARG: 400 degrees f -lrb- 200 degrees c -rrb- for 45 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 200 degrees c -rrb- for 45 minutes
+
+
+SENTID: 11
+SENT: I would uncover and bake at 350 degrees F -LRB- 175 degree C -RRB- for additional 25 minutes or until potatoes are tender .
+PREDID: 623
+PRED: uncover and bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degree c -rrb- for additional 25 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degree c -rrb- for additional 25 minutes
+   OARG: potatoes are tender
+      NON-INGREDIENT SPAN: potatoes are tender
+
+
+SENTID: 12
+SENT: I would let the stand 10 to 15 minutes before serving .
+PREDID: 709
+PRED: let
+   DOBJ: NULL
+   PARG: the stand 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the stand 10 to 15 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

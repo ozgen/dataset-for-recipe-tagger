@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil over high heat .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 1
+SENT: I would add the penne pasta , and cook until al dente , 8 to 10 minutes .
+PREDID: 54
+PRED: add
+   DOBJ: the penne pasta
+      INGREDIENT SPAN: the penne pasta
+         INGREDIENTS: ounce package penne pasta
+
+PREDID: 74
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain , and rinse under cold water until the pasta is cold ;
+PREDID: 104
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 113
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+   PARG: the pasta is cold
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta is cold
+
+
+SENTID: 3
+SENT: I would drain well .
+PREDID: 152
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would place the drained penne pasta into a large mixing bowl , and stir in the chicken , the celery , the cranberries , and green onions .
+PREDID: 162
+PRED: place
+   DOBJ: the drained penne pasta
+      NON-INGREDIENT SPAN: the drained penne pasta
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+PREDID: 211
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken , the celery , the cranberries , green onions
+     PREP: in
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cubed cooked chicken
+
+
+SENTID: 5
+SENT: I would pour in the salad dressing and lemon juice ;
+PREDID: 262
+PRED: pour
+   DOBJ: NULL
+   PARG: the salad dressing, lemon juice
+     PREP: in
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN: the salad dressing
+         INGREDIENTS: creamy poppy seed salad dressing
+
+
+SENTID: 6
+SENT: I would stir until evenly mixed .
+PREDID: 298
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+

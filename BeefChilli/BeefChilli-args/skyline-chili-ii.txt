@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would brown ground beef in skillet with onions .
+PREDID: 0
+PRED: brown
+   DOBJ: ground beef in skillet
+      INGREDIENT SPAN: ground beef in skillet
+         INGREDIENTS: lean ground beef
+   PARG: onions
+     PREP: with
+      INGREDIENT SPAN: onions
+         INGREDIENTS: onions minced
+
+
+SENTID: 1
+SENT: I would drain fat .
+PREDID: 35
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 2
+SENT: I would place the whole peppercorns , bay leaves , small red peppers , and crushed red pepper in a spice bag .
+PREDID: 44
+PRED: place
+   DOBJ: the whole peppercorns , bay leaves , small red peppers , crushed red pepper in a spice bag
+      INGREDIENT SPAN:  bay leaves 
+         INGREDIENTS: bay leaves crushed
+      INGREDIENT SPAN:  small red peppers 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN: the whole peppercorns 
+         INGREDIENTS: black peppercorns
+      INGREDIENT SPAN:  crushed pepper in a spice bag
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  crushed red pepper in a spice bag
+         INGREDIENTS: whole dried red chile peppers seeded diced
+
+
+SENTID: 3
+SENT: In a large pot combine the garlic , I would tomato paste , the water , chili powder , ground red pepper , the vinegar , the cinnamon , allspice , Worcestershire sauce and salt with the ground beef , the onions and spice bag .
+PREDID: 154
+PRED: combine tomato
+   DOBJ: paste , the water , chili powder , ground red pepper , the vinegar , the cinnamon , allspice , Worcestershire sauce, salt, the garlic
+      INGREDIENT SPAN:  allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  ground red pepper 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the garlic
+         INGREDIENTS: cloves garlic
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      NON-INGREDIENT SPAN:  the cinnamon 
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: the ground beef , the onions, spice bag
+     PREP: with
+      NON-INGREDIENT SPAN:  spice bag
+      NON-INGREDIENT SPAN: the ground beef 
+      NON-INGREDIENT SPAN:  the onions
+
+
+SENTID: 4
+SENT: I would cook over low heat for 3 to 4 hours .
+PREDID: 288
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat for 3 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: low heat for 3 to 4 hours
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: When ready to serve , do n't forget to remove spice bag and whole garlic cloves .
+PREDID: 338
+PRED: do forget
+   DOBJ: NULL
+   OARG: when ready
+      NON-INGREDIENT SPAN: when ready
+   OARG: n't
+      NON-INGREDIENT SPAN: n't
+   OARG: to remove spice bag, whole garlic cloves
+      NON-INGREDIENT SPAN: to remove spice bag
+      NON-INGREDIENT SPAN:  whole garlic cloves
+
+

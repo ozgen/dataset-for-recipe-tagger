@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would mix the chicken , the celery , green onions , and tarragon together in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: the chicken , the celery , green onions , tarragon
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery stalk chopped
+      INGREDIENT SPAN:  tarragon
+         INGREDIENTS: fresh tarragon chopped
+      INGREDIENT SPAN: the 
+         INGREDIENTS: lemon
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: chopped cooked chicken breast meat
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in the lemon juice , lemon zest , orange zest , and mayonnaise .
+PREDID: 65
+PRED: stir
+   DOBJ: NULL
+   PARG: the lemon juice , lemon zest , orange zest , mayonnaise
+     PREP: in
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the lemon juice 
+         INGREDIENTS: fresh lemon juice
+      NON-INGREDIENT SPAN:  lemon zest 
+      NON-INGREDIENT SPAN:  orange zest 
+
+
+SENTID: 2
+SENT: I would season to taste with salt and pepper .
+PREDID: 120
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would refrigerate at least 30 minutes before serving .
+PREDID: 151
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least 30 minutes
+     PREP: at
+      NON-INGREDIENT SPAN: least 30 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook elbow macaroni until al dente .
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 63
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a medium saucepan , I would over medium heat melt butter or margarine .
+PREDID: 101
+PRED: melt
+   DOBJ: butter or margarine
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: butter
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would whisk flour and stir vigorously .
+PREDID: 123
+PRED: whisk
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 136
+PRED: stir
+   DOBJ: NULL
+   OARG: vigorously
+      NON-INGREDIENT SPAN: vigorously
+
+
+SENTID: 4
+SENT: I would add milk and cook until thick and bubbly , about 5 to 7 minutes .
+PREDID: 151
+PRED: add
+   DOBJ: milk, cook
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  cook
+   PARG: thick, bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+      NON-INGREDIENT SPAN:  bubbly
+   PARG: 5 to 7 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 to 7 minutes
+
+
+SENTID: 5
+SENT: I would add cheeses and stir until completely melted .
+PREDID: 202
+PRED: add
+   DOBJ: cheeses
+      INGREDIENT SPAN: cheeses
+         INGREDIENTS: shredded Cheddar cheese
+
+PREDID: 215
+PRED: stir
+   DOBJ: NULL
+   PARG: completely melted
+     PREP: until
+      NON-INGREDIENT SPAN: completely melted
+
+
+SENTID: 6
+SENT: In a large bowl mix together the drained pasta and cheese sauce mixture .
+
+SENTID: 7
+SENT: I would toss to coat evenly .
+PREDID: 301
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 8
+SENT: I would pour into a greased 2 quart casserole dish .
+PREDID: 318
+PRED: pour
+   DOBJ: NULL
+   PARG: a greased 2 quart casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a greased 2 quart casserole dish
+
+
+SENTID: 9
+SENT: I would bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- oven for 30 minutes .
+PREDID: 354
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 30 minutes
+
+
+SENTID: 10
+SENT: I would let stand 10 minutes before serving .
+PREDID: 410
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

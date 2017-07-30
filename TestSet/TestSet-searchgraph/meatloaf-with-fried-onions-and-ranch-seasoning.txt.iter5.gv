@@ -1,0 +1,34 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="combine
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="shape
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="fit
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees f -lrb- 175 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1_ing[label="DOBJ: Frenchfried onions, eggs, ketchup, herbseasoned dry bread stuffing mix, package dry Ranchstyle dressing mix", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+D1_0[label="DOBJ: meat ", shape=box, style=filled, fillcolor=white]
+D1_0 -> E1
+E0 -> E1 [label="LOCOROBJ:in a large bowl"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:into loaf", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:into 9 x 5 inch loaf pan", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCOROBJ:with foil", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_1_0[label="DURATION:at 350 degrees f -lrb- 175 degrees c -rrb- for 50 to 60 minutes ", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+P4_1_1[label="DURATION:at  or until meat is thoroughly cooked", shape=box, style=filled, fillcolor=white]
+P4_1_1 -> E4
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

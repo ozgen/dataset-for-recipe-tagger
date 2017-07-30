@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 41
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the noodles , and cook until tender , about 7 minutes .
+PREDID: 83
+PRED: add
+   DOBJ: the noodles
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 100
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 7 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would drain , and return to the pot .
+PREDID: 130
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 139
+PRED: return
+   DOBJ: NULL
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 154
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 5
+SENT: I would cook and stir until evenly browned .
+PREDID: 211
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 6
+SENT: I would drain off grease .
+PREDID: 241
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 7
+SENT: I would stir in the tomato sauce , the corn and olives .
+PREDID: 256
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato sauce , the corn, olives
+     PREP: in
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: ounce sliced black olives drained
+      INGREDIENT SPAN: the tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 8
+SENT: I would season with chili powder .
+PREDID: 291
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder
+     PREP: with
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder taste
+
+
+SENTID: 9
+SENT: I would stir the beef mixture in with the noodles .
+PREDID: 313
+PRED: stir
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: with the noodles
+     PREP: in
+      NON-INGREDIENT SPAN: with the noodles
+
+
+SENTID: 10
+SENT: I would pour into a 9x13 inch baking dish .
+PREDID: 348
+PRED: pour
+   DOBJ: NULL
+   PARG: a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 11
+SENT: I would top with Cheddar cheese .
+PREDID: 376
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 12
+SENT: I would bake for 20 minutes in the preheated oven , until the cheese is melted .
+PREDID: 397
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes in the preheated oven
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+
+

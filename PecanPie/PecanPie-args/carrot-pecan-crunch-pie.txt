@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: To Make Topping :
+
+SENTID: 2
+SENT: In a medium bowl combine brown sugar , melted butter or margarine , and chopped pecans .
+
+SENTID: 3
+SENT: I would mix well and set aside .
+PREDID: 124
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 134
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: To Make Carrot Custard :
+
+SENTID: 5
+SENT: I would steam carrots until tender .
+PREDID: 163
+PRED: steam
+   DOBJ: carrots
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: carrots cut inch
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 6
+SENT: I would drain and cool .
+PREDID: 187
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would place cooled carrots in a blender or food processor and add eggs , condensed milk , pumpkin pie spice , and salt .
+PREDID: 200
+PRED: place
+   DOBJ: cooled carrots
+      NON-INGREDIENT SPAN: cooled carrots
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+PREDID: 246
+PRED: add
+   DOBJ: eggs , condensed milk , pumpkin pie spice , salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pumpkin pie spice 
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+
+
+SENTID: 8
+SENT: I would blend until smooth .
+PREDID: 292
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would pour carrot mixture into pie shell .
+PREDID: 309
+PRED: pour
+   DOBJ: carrot mixture
+      NON-INGREDIENT SPAN: carrot mixture
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie shell
+
+
+SENTID: 10
+SENT: I would sprinkle with pecan topping .
+PREDID: 339
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecan topping
+     PREP: with
+      INGREDIENT SPAN: pecan topping
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 11
+SENT: I would bake in preheated oven for 45 minutes or until toothpick inserted in center comes out clean .
+PREDID: 364
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes or until toothpick inserted in center comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes or until toothpick inserted in center comes out clean
+
+

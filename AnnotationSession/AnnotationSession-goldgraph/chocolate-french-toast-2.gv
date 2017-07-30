@@ -1,0 +1,36 @@
+digraph recipe {
+E0[label="beat together
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="heat
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="dip
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="place
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: baking powder, eggs, milk, salt, cocoa powder, sugar", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D1[label="DOBJ: lightly buttered skillet or griddle", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D2_ing[label="DOBJ: each slice of bread", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E0 -> E2 [label="COOBJECT:into egg mixture"]
+O2_0_0[label="OTHER: until well soaked", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+O2_1_0[label="OTHER: about 20 seconds per side", shape=box, style=filled, fillcolor=white]
+O2_1_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E1 -> E3 [label="LOCATION:in pan"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: on both sides", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+O4_1_0[label="OTHER: until they are no longer gooey or shiny in the middle when cut in half", shape=box, style=filled, fillcolor=white]
+O4_1_0 -> E4
+O4_2_0[label="OTHER: about 3 to 4 minutes per side", shape=box, style=filled, fillcolor=white]
+O4_2_0 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

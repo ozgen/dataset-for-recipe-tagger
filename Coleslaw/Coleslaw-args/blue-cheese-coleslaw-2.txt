@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would combine mayonnaise , salad dressing , the salt , and pepper in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: mayonnaise , salad dressing , the salt , pepper in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: blue cheese salad dressing
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      NON-INGREDIENT SPAN:  pepper in a large bowl
+
+
+SENTID: 1
+SENT: I would stir in the coleslaw mix and bacon .
+PREDID: 59
+PRED: stir
+   DOBJ: NULL
+   PARG: the coleslaw mix, bacon
+     PREP: in
+      INGREDIENT SPAN: the coleslaw mix
+         INGREDIENTS: ounce bag coleslaw mix
+      INGREDIENT SPAN:  bacon
+         INGREDIENTS: ounce package cooked real bacon such Hormel
+
+
+SENTID: 2
+SENT: I would add the tomatoes , and toss gently .
+PREDID: 88
+PRED: add
+   DOBJ: the tomatoes
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: quartered cherry tomatoes
+
+PREDID: 106
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 3
+SENT: I would cover , and refrigerate for 1 hour or overnight before serving .
+PREDID: 117
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 126
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 hour or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour or overnight
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

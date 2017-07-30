@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would mix pumpkin puree , the sugar , and pumpkin pie spice together in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: pumpkin puree , the sugar , pumpkin pie spice
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would slowly whisk in milk ,
+PREDID: 67
+PRED: whisk
+   DOBJ: NULL
+   PARG: milk
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: whole milk
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 2
+SENT: whipping cream , I would 
+
+SENTID: 3
+SENT: I would vanilla extract .
+PREDID: 86
+PRED: extract
+   DOBJ: NULL
+   OARG: vanilla
+      INGREDIENT SPAN: vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 4
+SENT: I would refrigerate to allow flavors to blend , 2 hours to overnight .
+PREDID: 94
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: to allow flavors to blend , 2 hours to overnight
+      NON-INGREDIENT SPAN:  2 hours to overnight
+      NON-INGREDIENT SPAN: to allow flavors to blend 
+
+
+SENTID: 5
+SENT: I would transfer pumpkin mixture into an ice cream maker ;
+PREDID: 145
+PRED: transfer
+   DOBJ: pumpkin mixture
+      NON-INGREDIENT SPAN: pumpkin mixture
+   PARG: an ice cream maker
+     PREP: into
+      INGREDIENT SPAN: an ice cream maker
+         INGREDIENTS: heavy whipping cream
+
+
+SENTID: 6
+SENT: I would churn for 15 to 20 minutes .
+PREDID: 187
+PRED: churn
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 7
+SENT: I would freeze the according to manufacturer 's directions until it reaches ` soft-serve ' consistency .
+PREDID: 209
+PRED: freeze
+   DOBJ: the
+      NON-INGREDIENT SPAN: the
+   PARG: to manufacturer 's directions
+     PREP: according
+      NON-INGREDIENT SPAN: to manufacturer 's directions
+   PARG: it reaches ` soft-serve ' consistency
+     PREP: until
+      NON-INGREDIENT SPAN: it reaches ` soft-serve ' consistency
+
+
+SENTID: 8
+SENT: I would transfer ice cream to a lidded plastic container ;
+PREDID: 288
+PRED: transfer
+   DOBJ: ice cream
+      NON-INGREDIENT SPAN: ice cream
+   PARG: a lidded plastic container
+     PREP: to
+      NON-INGREDIENT SPAN: a lidded plastic container
+
+
+SENTID: 9
+SENT: I would cover surface with plastic wrap and seal .
+PREDID: 330
+PRED: cover
+   DOBJ: surface
+      NON-INGREDIENT SPAN: surface
+   PARG: plastic wrap, seal
+     PREP: with
+      NON-INGREDIENT SPAN:  seal
+      NON-INGREDIENT SPAN: plastic wrap
+
+
+SENTID: 10
+SENT: For best results , I would ice cream should ` bloom ' in the freezer for at least 2 hours or overnight .
+PREDID: 380
+PRED: ice bloom
+   DOBJ: cream
+      NON-INGREDIENT SPAN: cream
+   PARG: best results
+     PREP: for
+      NON-INGREDIENT SPAN: best results
+   PARG: the freezer for at least 2 hours or overnight
+     PREP: in
+      NON-INGREDIENT SPAN: the freezer for at least 2 hours or overnight
+   OARG: should
+      NON-INGREDIENT SPAN: should
+
+

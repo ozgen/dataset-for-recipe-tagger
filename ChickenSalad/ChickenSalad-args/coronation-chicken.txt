@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: In a large pot , I would cook chicken in lightly salted boiling water for 20 minutes .
+PREDID: 12
+PRED: cook
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted boiling water for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: lightly salted boiling water for 20 minutes
+
+
+SENTID: 1
+SENT: I would drain , cool , and cut into 1/2-inch strips .
+PREDID: 63
+PRED: drain and cool
+   DOBJ: NULL
+
+PREDID: 77
+PRED: cut
+   DOBJ: NULL
+   PARG: 1/2-inch strips
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2-inch strips
+
+
+SENTID: 2
+SENT: In a large bowl , I would stir together chicken strips , the raisins , and half of the mango .
+PREDID: 112
+PRED: stir
+   DOBJ: chicken strips , the raisins , half of the mango
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: sultana raisins
+      INGREDIENT SPAN:  half of the mango
+         INGREDIENTS: mango chutney
+      NON-INGREDIENT SPAN: chicken strips 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: In a medium bowl , I would mix together mayonnaise , curry powder , the chutney , and lemon juice .
+PREDID: 178
+PRED: mix
+   DOBJ: mayonnaise , curry powder , the chutney , lemon juice
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: mild curry powder
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: fresh lemon juice
+      NON-INGREDIENT SPAN:  the chutney 
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would season with salt and pepper ,
+PREDID: 234
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would toss gently with chicken mixture .
+PREDID: 258
+PRED: toss
+   DOBJ: NULL
+   PARG: chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: chicken mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would stir in half the nuts .
+PREDID: 287
+PRED: stir
+   DOBJ: NULL
+   PARG: half the nuts
+     PREP: in
+      NON-INGREDIENT SPAN: half the nuts
+
+
+SENTID: 7
+SENT: I would transfer to a platter , and garnish with remaining mango strips and cashews .
+PREDID: 305
+PRED: transfer
+   DOBJ: NULL
+   PARG: a platter
+     PREP: to
+      NON-INGREDIENT SPAN: a platter
+
+PREDID: 327
+PRED: garnish
+   DOBJ: NULL
+   PARG: remaining mango strips
+     PREP: with
+      INGREDIENT SPAN: remaining mango strips
+         INGREDIENTS: pound large mango peeled sliced
+
+

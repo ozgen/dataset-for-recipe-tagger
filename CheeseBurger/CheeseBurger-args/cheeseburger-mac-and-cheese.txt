@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would heat the oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 400 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f.
+
+
+SENTID: 1
+SENT: I would stir the soup , the milk , black pepper , the pasta and 3/4 cup cheese in a medium bowl .
+PREDID: 25
+PRED: stir
+   DOBJ: the soup , the milk , black pepper , the pasta, 3/4 cup cheese
+      INGREDIENT SPAN:  the pasta
+         INGREDIENTS: ounce package medium shellshaped pasta cooked drained
+      INGREDIENT SPAN:  3/4 cup cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce Campbell Condensed Cheddar Cheese Soup
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 2
+SENT: I would arrange the meatballs in the bottom of an 11x8x2-inch baking dish .
+PREDID: 88
+PRED: arrange
+   DOBJ: the meatballs
+      INGREDIENT SPAN: the meatballs
+         INGREDIENTS: ounce package frozen cocktailsize meatballs thawed
+   PARG: the bottom of an 11x8x2-inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of an 11x8x2-inch baking dish
+
+
+SENTID: 3
+SENT: I would pour the soup mixture over the meatballs .
+PREDID: 144
+PRED: pour
+   DOBJ: the soup mixture
+      NON-INGREDIENT SPAN: the soup mixture
+   PARG: the meatballs
+     PREP: over
+      NON-INGREDIENT SPAN: the meatballs
+
+
+SENTID: 4
+SENT: I would sprinkle with the remaining cheese .
+PREDID: 179
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the remaining cheese
+     PREP: with
+      INGREDIENT SPAN: the remaining cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 5
+SENT: I would bake for 25 minutes or until the mixture is hot and bubbling .
+PREDID: 210
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes or until the mixture is hot, bubbling
+     PREP: for
+      NON-INGREDIENT SPAN:  bubbling
+      NON-INGREDIENT SPAN: 25 minutes or until the mixture is hot
+
+

@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13 inch pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13 inch pan
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: I would sift together the flour , baking soda and cinnamon .
+PREDID: 57
+PRED: sift
+   DOBJ: the flour , baking soda, cinnamon
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 100
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine the sugar and oil until blended .
+PREDID: 122
+PRED: combine
+   DOBJ: the sugar, oil
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 5
+SENT: I would beat in the eggs one at a time ,
+PREDID: 156
+PRED: beat
+   DOBJ: NULL
+   PARG: the eggs one
+     PREP: in
+      INGREDIENT SPAN: the eggs one
+         INGREDIENTS: eggs
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 6
+SENT: I would stir in the vanilla .
+PREDID: 180
+PRED: stir
+   DOBJ: NULL
+   PARG: the vanilla
+     PREP: in
+      INGREDIENT SPAN: the vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 7
+SENT: I would stir in the flour mixture just until incorporated .
+PREDID: 197
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+   OARG: just until incorporated
+      NON-INGREDIENT SPAN: just until incorporated
+
+
+SENTID: 8
+SENT: I would fold in the pineapple , the carrots , the coconut and walnuts .
+PREDID: 240
+PRED: fold
+   DOBJ: NULL
+   PARG: the pineapple , the carrots , the coconut, walnuts
+     PREP: in
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots grated
+      INGREDIENT SPAN: the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  the coconut
+         INGREDIENTS: flaked coconut
+
+
+SENTID: 9
+SENT: I would pour batter into prepared pan .
+PREDID: 285
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven for 45 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 311
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 45 minutes , or until a toothpick inserted into the center of the cake comes out clean
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 minutes 
+      NON-INGREDIENT SPAN:  or until a toothpick inserted into the center of the cake comes out clean
+
+
+SENTID: 11
+SENT: While still warm , I would poke holes in the cake with a fork .
+PREDID: 422
+PRED: poke
+   DOBJ: holes
+      NON-INGREDIENT SPAN: holes
+   PARG: still warm
+     PREP: while
+      NON-INGREDIENT SPAN: still warm
+   PARG: the cake with a fork
+     PREP: in
+      NON-INGREDIENT SPAN: the cake with a fork
+
+
+SENTID: 12
+SENT: For the glaze :
+
+SENTID: 13
+SENT: In a saucepan , I would combine butter , the sugar , the buttermilk and vanilla .
+PREDID: 462
+PRED: combine
+   DOBJ: butter , the sugar , the buttermilk, vanilla
+      INGREDIENT SPAN:  the buttermilk
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  vanilla
+      NON-INGREDIENT SPAN:  the sugar 
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 14
+SENT: I would bring mixture to a boil over medium heat ,
+PREDID: 503
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium heat
+
+
+SENTID: 15
+SENT: I would reduce heat and cook for 5 minutes .
+PREDID: 537
+PRED: reduce
+   DOBJ: heat, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 16
+SENT: I would pour the glaze over warm cake ,
+PREDID: 566
+PRED: pour
+   DOBJ: the glaze over warm cake
+      NON-INGREDIENT SPAN: the glaze over warm cake
+
+
+SENTID: 17
+SENT: I would allow to cool completely .
+PREDID: 588
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely
+      NON-INGREDIENT SPAN: to cool completely
+
+

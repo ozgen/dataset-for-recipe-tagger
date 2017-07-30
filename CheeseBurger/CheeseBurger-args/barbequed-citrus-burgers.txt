@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would grate the zest from the lemon , the lime , and orange into a large bowl .
+PREDID: 0
+PRED: grate
+   DOBJ: the zest
+      NON-INGREDIENT SPAN: the zest
+   PARG: the lemon , the lime , orange
+     PREP: from
+      INGREDIENT SPAN: the lemon 
+         INGREDIENTS: lemon
+      INGREDIENT SPAN:  the lime 
+         INGREDIENTS: lime
+      INGREDIENT SPAN:  orange
+         INGREDIENTS: orange
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would squeeze the juice from half of each piece of fruit into the bowl .
+PREDID: 54
+PRED: squeeze
+   DOBJ: the juice
+      NON-INGREDIENT SPAN: the juice
+   PARG: half of each piece of fruit
+     PREP: from
+      NON-INGREDIENT SPAN: half of each piece of fruit
+   PARG: the bowl
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl
+
+
+SENTID: 2
+SENT: I would whisk in 1 tablespoon barbeque sauce .
+PREDID: 107
+PRED: whisk
+   DOBJ: NULL
+   PARG: 1 tablespoon barbeque sauce
+     PREP: in
+      INGREDIENT SPAN: 1 tablespoon barbeque sauce
+         INGREDIENTS: barbeque sauce
+
+
+SENTID: 3
+SENT: I would stir in ground beef ;
+PREDID: 139
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef
+     PREP: in
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 156
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would cover and refrigerate for 10 to 30 minutes .
+PREDID: 164
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 10 to 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 to 30 minutes
+
+
+SENTID: 6
+SENT: I would preheat an outdoor grill for high heat , and lightly oil the grate .
+PREDID: 200
+PRED: preheat
+   DOBJ: an outdoor grill for high heat , lightly oil the grate
+      NON-INGREDIENT SPAN:  lightly oil the grate
+      NON-INGREDIENT SPAN: an outdoor grill for high heat 
+
+
+SENTID: 7
+SENT: I would form meat into patties .
+PREDID: 255
+PRED: form
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: patties
+     PREP: into
+      NON-INGREDIENT SPAN: patties
+
+
+SENTID: 8
+SENT: I would grill with lid open , about 3 minutes per side .
+PREDID: 275
+PRED: grill
+   DOBJ: NULL
+   PARG: lid open , about 3 minutes per side
+     PREP: with
+      NON-INGREDIENT SPAN: lid open 
+      NON-INGREDIENT SPAN:  about 3 minutes per side
+
+
+SENTID: 9
+SENT: I would brush each burger with one tablespoon barbeque sauce during grilling , the coating both sides .
+PREDID: 313
+PRED: brush
+   DOBJ: each burger with one tablespoon barbeque sauce
+      INGREDIENT SPAN: each burger with one tablespoon barbeque sauce
+         INGREDIENTS: barbeque sauce
+   PARG: grilling , the coating both sides
+     PREP: during
+      NON-INGREDIENT SPAN: grilling 
+      NON-INGREDIENT SPAN:  the coating both sides
+
+
+SENTID: 10
+SENT: I would top burgers with pepperjack cheese and cook until cheese is melted and meat is no longer pink in the center , about 1 additional minute .
+PREDID: 390
+PRED: top
+   DOBJ: burgers
+      NON-INGREDIENT SPAN: burgers
+   PARG: pepperjack cheese
+     PREP: with
+      INGREDIENT SPAN: pepperjack cheese
+         INGREDIENTS: slices pepperjack cheese
+   OARG: meat is no longer pink in the center , about 1 additional minute
+      NON-INGREDIENT SPAN:  about 1 additional minute
+      NON-INGREDIENT SPAN: meat is no longer pink in the center 
+
+PREDID: 423
+PRED: cook
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+

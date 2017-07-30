@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would stir together the peanut butter , peanut oil , the tea , the ginger , garlic , jalapeno pepper , the salt , the sugar , soy sauce , the vinegar , and sesame oil in a large mixing bowl until incorporated .
+PREDID: 0
+PRED: stir
+   DOBJ: the peanut butter , peanut oil , the tea , the ginger , garlic , jalapeno pepper , the salt , the sugar , soy sauce , the vinegar , sesame oil in a large mixing bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice vinegar
+      INGREDIENT SPAN:  the tea 
+         INGREDIENTS: brewed black tea
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: minced fresh ginger
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: jalapeno pepper minced
+      INGREDIENT SPAN:  sesame oil in a large mixing bowl
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: light soy sauce
+      INGREDIENT SPAN:  peanut oil 
+         INGREDIENTS: peanut oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the peanut butter 
+         INGREDIENTS: natural peanut butter
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: incorporated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place the egg noodles in a large bowl ;
+PREDID: 147
+PRED: place
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: cooked egg noodles
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would add the cucumber and cilantro and mix together with your hands .
+PREDID: 178
+PRED: add
+   DOBJ: the cucumber, cilantro
+      INGREDIENT SPAN: the cucumber
+         INGREDIENTS: peeled seeded julienned cucumber
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: fresh cilantro leaves
+
+PREDID: 206
+PRED: mix
+   DOBJ: NULL
+   PARG: with your hands
+     PREP: together
+      NON-INGREDIENT SPAN: with your hands
+
+
+SENTID: 3
+SENT: I would pour the peanut sauce over the noodles ;
+PREDID: 231
+PRED: pour
+   DOBJ: the peanut sauce
+      NON-INGREDIENT SPAN: the peanut sauce
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 4
+SENT: I would mix with your hands until evenly coated .
+PREDID: 264
+PRED: mix
+   DOBJ: NULL
+   PARG: your hands
+     PREP: with
+      NON-INGREDIENT SPAN: your hands
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+

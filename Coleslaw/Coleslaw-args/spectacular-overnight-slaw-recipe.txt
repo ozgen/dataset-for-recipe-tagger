@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would mix cabbage , the onion , green bell pepper , red bell pepper , the carrots , and olives together in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: cabbage , the onion , green bell pepper , red bell pepper , the carrots , olives
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: sliced pimientostuffed olives
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: head cabbage shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk vinegar , the oil , the sugar , Dijon mustard , the salt , celery seed , and mustard seed together in a saucepan .
+PREDID: 85
+PRED: whisk
+   DOBJ: vinegar , the oil , the sugar , Dijon mustard , the salt , celery seed , mustard seed
+      INGREDIENT SPAN:  mustard seed
+         INGREDIENTS: mustard seed
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: white wine vinegar
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: Bring to a boil ;
+PREDID: 171
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook and stir until sugar is dissolved , about 1 minute .
+PREDID: 184
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: sugar is dissolved
+     PREP: until
+      NON-INGREDIENT SPAN: sugar is dissolved
+   PARG: 1 minute
+     PREP: about
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 4
+SENT: I would pour hot dressing over cabbage mixture and toss gently .
+PREDID: 230
+PRED: pour
+   DOBJ: hot dressing
+      NON-INGREDIENT SPAN: hot dressing
+   PARG: cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: cabbage mixture
+
+PREDID: 266
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 5
+SENT: I would cover the bowl with plastic wrap and refrigerate for at least 8 hours or overnight .
+PREDID: 277
+PRED: cover
+   DOBJ: the bowl
+      NON-INGREDIENT SPAN: the bowl
+   PARG: plastic wrap, refrigerate for at least 8 hours or overnight
+     PREP: with
+      NON-INGREDIENT SPAN:  refrigerate for at least 8 hours or overnight
+      NON-INGREDIENT SPAN: plastic wrap
+
+

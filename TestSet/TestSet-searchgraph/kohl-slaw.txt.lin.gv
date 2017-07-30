@@ -1,0 +1,29 @@
+digraph recipe {
+E0[label="whisk
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="stir
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cover
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="refrigerate
+3", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: Dijon mustard, cherry vinegar, vegan mayonnaise such Follow Heart   Veganaise, brown mustard seeds, agave nectar, salt and ground black pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D1_ing[label="DOBJ: kohlrabi bulbs and, carrots, crisp apples", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_0[label="OTHER:into dressing", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+P1_2_0[label="OTHER:until evenly coated", shape=box, style=filled, fillcolor=white]
+P1_2_0 -> E1
+E1 -> E2 [label="bowl"]
+P2_0_0[label="LOCOROBJ:with plastic wrap", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="DURATION:for flavors to blend ", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+P3_0_1[label="DURATION:for  at least 1 hour", shape=box, style=filled, fillcolor=white]
+P3_0_1 -> E3
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E3 -> EOR
+}

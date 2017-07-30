@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 38
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 66
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 2
+SENT: I would drain the bacon slices on paper towels .
+PREDID: 144
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 3
+SENT: When cool , crumble into a large bowl .
+PREDID: 186
+PRED: crumble
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+
+SENTID: 4
+SENT: I would mix ketchup and mustard in a bowl .
+PREDID: 208
+PRED: mix
+   DOBJ: ketchup, mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: ketchup
+         INGREDIENTS: ketchup
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 5
+SENT: I would thoroughly combine 1/4 the ketchup mixture , ground chuck , Cheddar cheese , the eggs , bread crumbs , the mayonnaise , Worcestershire sauce , the salt , and black pepper with crumbled bacon in bowl ;
+PREDID: 246
+PRED: combine
+   DOBJ: 1/4 the ketchup mixture , ground chuck , Cheddar cheese , the eggs , bread crumbs , the mayonnaise , Worcestershire sauce , the salt , black pepper
+      INGREDIENT SPAN:  ground chuck 
+         INGREDIENTS: ground beef chuck
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: ounce package shredded Cheddar cheese
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      NON-INGREDIENT SPAN: 1/4 the ketchup mixture 
+   PARG: crumbled bacon in bowl
+     PREP: with
+      NON-INGREDIENT SPAN: crumbled bacon in bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 6
+SENT: I would pat the mixture into a 5x9-inch loaf pan .
+PREDID: 391
+PRED: pat
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 5x9-inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 5x9-inch loaf pan
+
+
+SENTID: 7
+SENT: I would spread the remaining ketchup mixture evenly over top of meatloaf .
+PREDID: 425
+PRED: spread
+   DOBJ: the remaining ketchup mixture
+      NON-INGREDIENT SPAN: the remaining ketchup mixture
+   PARG: top of meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: top of meatloaf
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until the meatloaf is no longer pink inside , about 45 minutes .
+PREDID: 478
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the meatloaf is no longer pink inside , about 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the meatloaf is no longer pink inside 
+      NON-INGREDIENT SPAN:  about 45 minutes
+
+
+SENTID: 9
+SENT: I would spread French-fried onions over the top of the loaf and return to oven until onions are browned and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 10 to 15 more minutes .
+

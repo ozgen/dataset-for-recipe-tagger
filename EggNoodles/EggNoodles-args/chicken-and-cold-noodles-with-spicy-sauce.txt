@@ -1,0 +1,250 @@
+SENTID: 0
+SENT: In large saucepan over medium high heat , I would bring 6 cups water to boil .
+PREDID: 34
+PRED: bring
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+   PARG: large saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large saucepan over medium high heat
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+   OARG: 6 cups
+      NON-INGREDIENT SPAN: 6 cups
+
+
+SENTID: 1
+SENT: I would add chicken breast , and return to boil .
+PREDID: 56
+PRED: add
+   DOBJ: chicken breast
+      INGREDIENT SPAN: chicken breast
+         INGREDIENTS: whole bonein chicken breast skin
+
+PREDID: 76
+PRED: return
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 2
+SENT: I would reduce heat to low .
+PREDID: 89
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 3
+SENT: I would simmer , uncovered , about 15 minutes .
+PREDID: 105
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 15 minutes
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+
+SENTID: 4
+SENT: I would remove meat from broth , and set aside to cool .
+PREDID: 137
+PRED: remove
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: broth
+     PREP: from
+      NON-INGREDIENT SPAN: broth
+
+PREDID: 160
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: I would bring broth to boil again , and add noodles .
+PREDID: 175
+PRED: bring
+   DOBJ: broth
+      NON-INGREDIENT SPAN: broth
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+PREDID: 200
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: dry Chinese noodles
+
+
+SENTID: 6
+SENT: I would cook , stirring occasionally , 5 to 7 minutes .
+PREDID: 211
+PRED: cook
+   DOBJ: 5
+      NON-INGREDIENT SPAN: 5
+   PARG: 7 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 7 minutes
+
+PREDID: 216
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 7
+SENT: I would drain , reserving broth for another use if desired .
+PREDID: 249
+PRED: drain
+   DOBJ: NULL
+   OARG: reserving broth for another use if desired
+      NON-INGREDIENT SPAN: reserving broth for another use if desired
+
+
+SENTID: 8
+SENT: I would rinse noodles under cold running water until chilled .
+PREDID: 292
+PRED: rinse
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 9
+SENT: I would drain again , and transfer to serving bowl .
+PREDID: 338
+PRED: drain
+   DOBJ: NULL
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+PREDID: 352
+PRED: transfer
+   DOBJ: NULL
+   PARG: serving bowl
+     PREP: to
+      NON-INGREDIENT SPAN: serving bowl
+
+
+SENTID: 10
+SENT: I would toss lightly with 1 teaspoon sesame oil .
+PREDID: 374
+PRED: toss
+   DOBJ: NULL
+   PARG: 1 teaspoon sesame oil
+     PREP: with
+      INGREDIENT SPAN: 1 teaspoon sesame oil
+         INGREDIENTS: sesame oil
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 11
+SENT: I would cut or pull chicken meat into fine shreds , discarding skin and bones .
+PREDID: 408
+PRED: cut or pull
+   DOBJ: chicken meat
+      NON-INGREDIENT SPAN: chicken meat
+   PARG: fine shreds , discarding skin, bones
+     PREP: into
+      NON-INGREDIENT SPAN: fine shreds 
+      NON-INGREDIENT SPAN:  bones
+      NON-INGREDIENT SPAN:  discarding skin
+
+
+SENTID: 12
+SENT: I would set aside .
+PREDID: 466
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 13
+SENT: I would combine tahini and 3 tablespoons water , stirring to blend .
+PREDID: 475
+PRED: combine
+   DOBJ: tahini, 3 tablespoons water
+      INGREDIENT SPAN: tahini
+         INGREDIENTS: tahini
+      NON-INGREDIENT SPAN:  3 tablespoons water
+   OARG: stirring to blend
+      NON-INGREDIENT SPAN: stirring to blend
+
+
+SENTID: 14
+SENT: I would add chili oil , soy sauce , the vinegar , 1 tablespoon sesame oil , peanut oil , and garlic .
+PREDID: 525
+PRED: add
+   DOBJ: chili oil , soy sauce , the vinegar , 1 tablespoon sesame oil , peanut oil , garlic
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  1 tablespoon sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: chili oil 
+         INGREDIENTS: chili oil
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  peanut oil 
+         INGREDIENTS: peanut oil
+
+
+SENTID: 15
+SENT: I would mix well .
+PREDID: 595
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 16
+SENT: I would arrange the chicken on top of noodles in serving dish .
+PREDID: 603
+PRED: arrange
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: top of noodles
+     PREP: on
+      NON-INGREDIENT SPAN: top of noodles
+   PARG: serving dish
+     PREP: in
+      NON-INGREDIENT SPAN: serving dish
+
+
+SENTID: 17
+SENT: I would spoon sauce over all .
+PREDID: 648
+PRED: spoon
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: all
+     PREP: over
+      NON-INGREDIENT SPAN: all
+
+

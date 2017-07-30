@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would preheat grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: grill
+      NON-INGREDIENT SPAN: grill
+   PARG: medium-high heat
+     PREP: for
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: In a bowl , I would whisk together the orange juice , the vinegar , olive oil , seasoning blend , and sugar .
+PREDID: 39
+PRED: whisk
+   DOBJ: the orange juice , the vinegar , olive oil , seasoning blend , sugar
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  seasoning blend 
+         INGREDIENTS: saltfree garlic herb seasoning blend
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: the orange juice 
+         INGREDIENTS: orange juice
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would set aside about 1/2 cup for basting .
+PREDID: 108
+PRED: set
+   DOBJ: about 1/2 cup for basting
+      NON-INGREDIENT SPAN: about 1/2 cup for basting
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would lightly oil the grill grate .
+PREDID: 138
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 4
+SENT: I would grill chicken for 6 to 8 minutes on each side , basting frequently with the reserved portion of the dressing , or until juices run clear .
+PREDID: 162
+PRED: grill
+   DOBJ: NULL
+   PARG: chicken for 6 to 8 minutes
+     PREP: for
+      INGREDIENT SPAN: chicken for 6 to 8 minutes
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: each side , basting frequently with the reserved portion of the dressing
+     PREP: on
+      NON-INGREDIENT SPAN: each side 
+      NON-INGREDIENT SPAN:  basting frequently with the reserved portion of the dressing
+
+
+SENTID: 5
+SENT: I would cool , and cut into strips .
+PREDID: 274
+PRED: cool
+   DOBJ: NULL
+
+PREDID: 282
+PRED: cut
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 6
+SENT: I would discard basting sauce .
+PREDID: 296
+PRED: discard
+   DOBJ: basting sauce
+      NON-INGREDIENT SPAN: basting sauce
+
+
+SENTID: 7
+SENT: In a large bowl , I would toss together the lettuce , the oranges , the broccoli , and carrots .
+PREDID: 329
+PRED: toss
+   DOBJ: the lettuce , the oranges , the broccoli , carrots
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: chopped fresh broccoli
+      INGREDIENT SPAN:  the oranges 
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN: the lettuce 
+         INGREDIENTS: head romaine lettuce rinsed dried chopped
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: chopped baby carrots
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would top the salad with grilled chicken strips , and drizzle with remaining dressing to serve .
+PREDID: 380
+PRED: top
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: grilled chicken strips
+     PREP: with
+      INGREDIENT SPAN: grilled chicken strips
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 419
+PRED: drizzle
+   DOBJ: NULL
+   PARG: remaining dressing to serve
+     PREP: with
+      NON-INGREDIENT SPAN: remaining dressing to serve
+
+

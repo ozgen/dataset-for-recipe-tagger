@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would cook and drain pasta as directed on package ;
+PREDID: 0
+PRED: cook and drain
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: uncooked penne pasta
+   PARG: directed on package
+     PREP: as
+      INGREDIENT SPAN: directed on package
+         INGREDIENTS: ounce package cooked real bacon bits
+
+
+SENTID: 1
+SENT: I would keep warm .
+PREDID: 37
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 2
+SENT: I would meanwhile , in 2-quart saucepan , heat cooking sauce to boiling , stirring occasionally .
+PREDID: 74
+PRED: heat
+   DOBJ: cooking sauce
+      INGREDIENT SPAN: cooking sauce
+         INGREDIENTS: ounce Progresso Recipe Starters creamy cheese cooking sauce
+   PARG: 2-quart saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: 2-quart saucepan
+   PARG: boiling , stirring occasionally
+     PREP: to
+      NON-INGREDIENT SPAN: boiling 
+      NON-INGREDIENT SPAN:  stirring occasionally
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would remove from heat ;
+PREDID: 121
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would stir in cheese until melted .
+PREDID: 136
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 5
+SENT: I would reserve 1 tablespoon of the bacon ;
+PREDID: 160
+PRED: reserve
+   DOBJ: 1 tablespoon of the bacon
+      NON-INGREDIENT SPAN: 1 tablespoon of the bacon
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 189
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would stir in pasta and remaining bacon .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta, remaining bacon
+     PREP: in
+      NON-INGREDIENT SPAN:  remaining bacon
+      NON-INGREDIENT SPAN: pasta
+
+
+SENTID: 8
+SENT: If necessary , I would cook over medium heat until thoroughly heated , stirring occasionally .
+PREDID: 239
+PRED: cook
+   DOBJ: NULL
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: thoroughly heated
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly heated
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 9
+SENT: I would mix reserved bacon with bread crumbs ;
+PREDID: 300
+PRED: mix
+   DOBJ: reserved bacon
+      NON-INGREDIENT SPAN: reserved bacon
+   PARG: bread crumbs
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: ProgressoR Italian style panko crispy bread crumbs
+
+
+SENTID: 10
+SENT: I would sprinkle over pasta .
+PREDID: 332
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pasta
+     PREP: over
+      NON-INGREDIENT SPAN: pasta
+
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: Unroll crescent roll dough and lay flat on a baking sheet -LRB- do not separate sections -RRB- .
+
+SENTID: 2
+SENT: I would bake in preheated oven for 11 to 13 minutes , until golden brown .
+PREDID: 38
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 11 to 13 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 11 to 13 minutes
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 3
+SENT: I would remove and allow to cool .
+PREDID: 91
+PRED: remove and allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: While crust is baking , I would mix together cream cheese and sour cream until smooth .
+PREDID: 131
+PRED: mix
+   DOBJ: cream cheese, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: reduced fat sour cream
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package light cream cheese softened
+   PARG: crust is baking
+     PREP: while
+      NON-INGREDIENT SPAN: crust is baking
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir in dill .
+PREDID: 177
+PRED: stir
+   DOBJ: NULL
+   PARG: dill
+     PREP: in
+      INGREDIENT SPAN: dill
+         INGREDIENTS: dried dill weed
+
+
+SENTID: 6
+SENT: When crust is cool , spread cream cheese mixture evenly over top and cover with carrots , the broccoli , the cauliflower , and green pepper .
+PREDID: 204
+PRED: spread
+   DOBJ: cream cheese mixture
+      NON-INGREDIENT SPAN: cream cheese mixture
+   OARG: when crust is cool
+      NON-INGREDIENT SPAN: when crust is cool
+   OARG: evenly over top
+      NON-INGREDIENT SPAN: evenly over top
+
+PREDID: 244
+PRED: cover
+   DOBJ: NULL
+   PARG: carrots , the broccoli , the cauliflower , green pepper
+     PREP: with
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: shredded carrots
+      NON-INGREDIENT SPAN:  the broccoli 
+      NON-INGREDIENT SPAN:  the cauliflower 
+      NON-INGREDIENT SPAN:  green pepper
+
+
+SENTID: 7
+SENT: Chill approximately 5 minutes , until cream cheese mixture is firm .
+PREDID: 297
+PRED: chill
+   DOBJ: NULL
+   PARG: approximately 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 5 minutes
+   PARG: cream cheese mixture is firm
+     PREP: until
+      NON-INGREDIENT SPAN: cream cheese mixture is firm
+
+
+SENTID: 8
+SENT: I would cut into 4 portions and serve .
+PREDID: 354
+PRED: cut
+   DOBJ: NULL
+   PARG: 4 portions
+     PREP: into
+      NON-INGREDIENT SPAN: 4 portions
+
+

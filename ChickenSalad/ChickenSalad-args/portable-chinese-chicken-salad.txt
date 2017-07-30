@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would saute chicken in a large skillet until well browned .
+PREDID: 0
+PRED: saute
+   DOBJ: chicken in a large skillet
+      INGREDIENT SPAN: chicken in a large skillet
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: well browned
+     PREP: until
+      NON-INGREDIENT SPAN: well browned
+
+
+SENTID: 1
+SENT: Place coleslaw in a large bowl , add chicken and set aside -LRB- or refrigerate if not serving soon -RRB- .
+
+SENTID: 2
+SENT: I would break up ramen noodles into a small bowl ;
+PREDID: 44
+PRED: break
+   DOBJ: ramen noodles
+      INGREDIENT SPAN: ramen noodles
+         INGREDIENTS: ounce packages chicken flavored ramen noodles crushed seasoning packet
+   PARG: a small bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 3
+SENT: I would add almonds and set aside .
+PREDID: 78
+PRED: add
+   DOBJ: almonds
+      INGREDIENT SPAN: almonds
+         INGREDIENTS: blanched slivered almonds
+
+PREDID: 91
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a small bowl combine the corn oil , I would the vinegar , ramen seasoning packets and artificial sweetener .
+
+SENTID: 5
+SENT: I would mix well and set aside until ready to serve .
+PREDID: 100
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 110
+PRED: set
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+
+SENTID: 6
+SENT: When you arrive at your destination , add noodle mixture and dressing mixture to large chicken/coleslaw bowl and stir together .
+PREDID: 167
+PRED: add
+   DOBJ: noodle mixture, dressing mixture
+      NON-INGREDIENT SPAN: noodle mixture
+      NON-INGREDIENT SPAN:  dressing mixture
+   PARG: large chicken/coleslaw bowl
+     PREP: to
+      NON-INGREDIENT SPAN: large chicken/coleslaw bowl
+   OARG: when you arrive at your destination
+      NON-INGREDIENT SPAN: when you arrive at your destination
+
+PREDID: 231
+PRED: stir
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would serve with a smile !
+PREDID: 244
+PRED: serve
+   DOBJ: NULL
+   PARG: a smile
+     PREP: with
+      NON-INGREDIENT SPAN: a smile
+
+

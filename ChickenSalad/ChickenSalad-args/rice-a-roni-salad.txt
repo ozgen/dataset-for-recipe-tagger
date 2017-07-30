@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: I would prepare rice mix as directed on package and chill .
+PREDID: 0
+PRED: prepare
+   DOBJ: rice mix
+      INGREDIENT SPAN: rice mix
+         INGREDIENTS: ounce package chicken flavored rice mix Rice A Roni
+   PARG: directed on package, chill
+     PREP: as
+      NON-INGREDIENT SPAN:  chill
+      NON-INGREDIENT SPAN: directed on package
+
+
+SENTID: 1
+SENT: To the cooked rice , add the green onions , water chestnuts , the celery , the chicken , the mayonnaise , Worcestershire sauce and salt and pepper to taste .
+PREDID: 58
+PRED: add
+   DOBJ: the green onions , water chestnuts , the celery , the chicken , the mayonnaise , Worcestershire sauce, salt, pepper
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: chopped cooked chicken breast meat
+      INGREDIENT SPAN: the green onions 
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  water chestnuts 
+         INGREDIENTS: ounce water chestnuts drained chopped
+      NON-INGREDIENT SPAN:  pepper
+   PARG: the cooked rice
+     PREP: to
+      NON-INGREDIENT SPAN: the cooked rice
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 2
+SENT: Mix well , chill and serve .
+PREDID: 168
+PRED: chill and serve
+   DOBJ: NULL
+   OARG: mix well
+      NON-INGREDIENT SPAN: mix well
+
+

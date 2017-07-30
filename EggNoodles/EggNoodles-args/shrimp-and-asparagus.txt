@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: In a small saucepan , I would the boil or steam asparagus in enough water to cover until tender ;
+
+SENTID: 1
+SENT: I would chop and set aside .
+PREDID: 0
+PRED: chop and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would bring a large pot of salted water to full boil , place the pasta in the pot and return to a rolling boil ;
+PREDID: 16
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: full boil
+     PREP: to
+      NON-INGREDIENT SPAN: full boil
+
+PREDID: 54
+PRED: place
+   DOBJ: the pasta in the pot
+      NON-INGREDIENT SPAN: the pasta in the pot
+
+PREDID: 78
+PRED: return
+   DOBJ: NULL
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 3
+SENT: I would cook until al dente .
+PREDID: 99
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 4
+SENT: I would drain well .
+PREDID: 116
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: In a large saucepan , I would saute garlic in the olive oil over medium-low heat until the garlic is golden brown .
+PREDID: 143
+PRED: saute
+   DOBJ: NULL
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: the garlic is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: the garlic is golden brown
+   OARG: garlic in the olive oil over medium-low heat
+      INGREDIENT SPAN: garlic in the olive oil over medium-low heat
+         INGREDIENTS: extra virgin olive oil
+
+
+SENTID: 6
+SENT: I would place butter and lemon juice in the saucepan .
+PREDID: 213
+PRED: place
+   DOBJ: butter, lemon juice in the saucepan
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  lemon juice in the saucepan
+         INGREDIENTS: lemon juice
+
+
+SENTID: 7
+SENT: I would heat until the butter has melted .
+PREDID: 251
+PRED: heat
+   DOBJ: NULL
+   PARG: the butter has melted
+     PREP: until
+      NON-INGREDIENT SPAN: the butter has melted
+
+
+SENTID: 8
+SENT: I would place the shrimp in the saucepan and cook until the shrimp turns pink .
+PREDID: 279
+PRED: place
+   DOBJ: the shrimp in the saucepan
+      INGREDIENT SPAN: the shrimp in the saucepan
+         INGREDIENTS: medium shrimp peeled deveined
+
+PREDID: 309
+PRED: cook
+   DOBJ: NULL
+   PARG: the shrimp turns pink
+     PREP: until
+      NON-INGREDIENT SPAN: the shrimp turns pink
+
+
+SENTID: 9
+SENT: I would place the mushrooms and asparagus into the saucepan , cook until mushrooms are tender .
+PREDID: 337
+PRED: place
+   DOBJ: the mushrooms, asparagus
+      INGREDIENT SPAN:  asparagus
+         INGREDIENTS: fresh asparagus
+      INGREDIENT SPAN: the mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+   PARG: the saucepan , cook
+     PREP: into
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: the saucepan 
+   PARG: mushrooms are tender
+     PREP: until
+      NON-INGREDIENT SPAN: mushrooms are tender
+
+
+SENTID: 10
+SENT: I would toss the shrimp and vegetable mixture with the egg noodles and sprinkle with Parmesan cheese .
+PREDID: 410
+PRED: toss
+   DOBJ: the shrimp, vegetable mixture with the egg noodles
+      INGREDIENT SPAN:  vegetable mixture with the egg noodles
+         INGREDIENTS: ounce package egg noodles
+      NON-INGREDIENT SPAN: the shrimp
+
+PREDID: 462
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 11
+SENT: I would salt and pepper to taste .
+
+SENTID: 12
+SENT: I would serve immediately .
+PREDID: 489
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

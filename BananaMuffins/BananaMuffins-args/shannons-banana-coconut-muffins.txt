@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour 12 muffins cups or line with paper liners .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: 12 muffins cups or line
+      NON-INGREDIENT SPAN: 12 muffins cups or line
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would beat sugar and margarine together in a bowl using an electric mixer until smooth and creamy ;
+PREDID: 87
+PRED: beat
+   DOBJ: sugar, margarine
+      INGREDIENT SPAN:  margarine
+         INGREDIENTS: margarine
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: a bowl using an electric mixer until smooth, creamy
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl using an electric mixer until smooth
+      NON-INGREDIENT SPAN:  creamy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would stir in eggs .
+PREDID: 164
+PRED: stir
+   DOBJ: NULL
+   PARG: eggs
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 4
+SENT: I would stir bananas into margarine mixture ;
+PREDID: 175
+PRED: stir
+   DOBJ: bananas
+      INGREDIENT SPAN: bananas
+         INGREDIENTS: mashed bananas
+   PARG: margarine mixture
+     PREP: into
+      NON-INGREDIENT SPAN: margarine mixture
+
+
+SENTID: 5
+SENT: I would stir in vanilla extract .
+PREDID: 207
+PRED: stir
+   DOBJ: NULL
+   PARG: vanilla extract
+     PREP: in
+      INGREDIENT SPAN: vanilla extract
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 6
+SENT: I would whisk flour , baking powder , and salt together in a bowl ;
+PREDID: 228
+PRED: whisk
+   DOBJ: flour , baking powder , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would stir into margarine mixture until just combined .
+PREDID: 275
+PRED: stir
+   DOBJ: NULL
+   PARG: margarine mixture
+     PREP: into
+      NON-INGREDIENT SPAN: margarine mixture
+   PARG: just combined
+     PREP: until
+      NON-INGREDIENT SPAN: just combined
+
+
+SENTID: 8
+SENT: I would fold oranges and coconut into batter .
+PREDID: 317
+PRED: fold
+   DOBJ: oranges, coconut
+      INGREDIENT SPAN:  coconut
+         INGREDIENTS: shredded coconut
+      INGREDIENT SPAN: oranges
+         INGREDIENTS: ounce mandarin oranges drained chopped
+   PARG: batter
+     PREP: into
+      NON-INGREDIENT SPAN: batter
+
+
+SENTID: 9
+SENT: I would spoon batter into muffin tins .
+PREDID: 349
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: muffin tins
+     PREP: into
+      NON-INGREDIENT SPAN: muffin tins
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , 20 to 30 minutes .
+PREDID: 375
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the center of a muffin comes out clean , 20 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted in the center of a muffin comes out clean 
+      NON-INGREDIENT SPAN:  20 to 30 minutes
+
+

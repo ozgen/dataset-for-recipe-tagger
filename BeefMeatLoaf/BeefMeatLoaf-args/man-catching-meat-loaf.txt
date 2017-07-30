@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would melt the butter in a skillet over medium heat .
+PREDID: 38
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir the onion , bell pepper , and mushrooms in the butter for 2 to 3 minutes ;
+PREDID: 76
+PRED: cook and stir
+   DOBJ: the onion , bell pepper , mushrooms
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: yellow onion minced
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: crimini mushrooms chopped
+   PARG: the butter for 2 to 3 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the butter for 2 to 3 minutes
+
+
+SENTID: 3
+SENT: I would stir in the garlic , diced tomatoes , the oregano , the basil , ground mustard , curry powder , and red pepper ;
+PREDID: 145
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic , diced tomatoes , the oregano , the basil , ground mustard , curry powder , red pepper
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  ground mustard 
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: minced garlic
+
+
+SENTID: 4
+SENT: I would continue to cook until the onions are translucent and the mushrooms are golden brown , about 5 minutes ;
+PREDID: 228
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until the onions are translucent, the mushrooms are golden brown , about 5 minutes
+      NON-INGREDIENT SPAN: to cook until the onions are translucent
+      NON-INGREDIENT SPAN:  the mushrooms are golden brown 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 314
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would combine the beef , the veal , the sausage , the egg , 3 tablespoon Worcestershire sauce , 1/4 cup ketchup , the mustard , and teriyaki in a bowl ;
+PREDID: 323
+PRED: combine
+   DOBJ: the beef , the veal , the sausage , the egg , 3 tablespoon Worcestershire sauce , 1/4 cup ketchup , the mustard , teriyaki in a bowl
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared spicy mustard
+      INGREDIENT SPAN:  teriyaki in a bowl
+         INGREDIENTS: teriyaki sauce
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: bulk hot Italian sausage
+      INGREDIENT SPAN:  1/4 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  3 tablespoon Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  the veal 
+         INGREDIENTS: ground veal
+
+
+SENTID: 7
+SENT: I would mix gently with your hands .
+PREDID: 427
+PRED: mix
+   DOBJ: NULL
+   PARG: your hands
+     PREP: with
+      NON-INGREDIENT SPAN: your hands
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 8
+SENT: I would fold in the mushroom mixture and breadcrumbs .
+PREDID: 450
+PRED: fold
+   DOBJ: NULL
+   PARG: the mushroom mixture, breadcrumbs
+     PREP: in
+      NON-INGREDIENT SPAN:  breadcrumbs
+      NON-INGREDIENT SPAN: the mushroom mixture
+
+
+SENTID: 9
+SENT: I would shape the resulting mixture into a loaf and move to a baking dish .
+PREDID: 489
+PRED: shape
+   DOBJ: the resulting mixture
+      NON-INGREDIENT SPAN: the resulting mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 525
+PRED: move
+   DOBJ: NULL
+   PARG: a baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 10
+SENT: I would lay the bacon slices on top of the loaf .
+PREDID: 543
+PRED: lay
+   DOBJ: the bacon slices
+      INGREDIENT SPAN: the bacon slices
+         INGREDIENTS: slices thick sliced bacon
+   PARG: top of the loaf
+     PREP: on
+      NON-INGREDIENT SPAN: top of the loaf
+
+
+SENTID: 11
+SENT: I would bake in preheated oven for 45 minutes .
+PREDID: 575
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+
+SENTID: 12
+SENT: While the meat loaf bakes , I would prepare the glaze by whisking together the 1/3 cup ketchup , 1/4 cup Worcestershire sauce , and yellow mustard in a bowl .
+PREDID: 629
+PRED: prepare
+   DOBJ: the glaze
+      NON-INGREDIENT SPAN: the glaze
+   PARG: the meat loaf bakes
+     PREP: while
+      NON-INGREDIENT SPAN: the meat loaf bakes
+   PARG: whisking together the 1/3 cup ketchup , 1/4 cup worcestershire sauce , yellow mustard in a bowl
+     PREP: by
+      INGREDIENT SPAN:  yellow mustard in a bowl
+         INGREDIENTS: yellow mustard
+      INGREDIENT SPAN: whisking together the 1/3 cup ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  1/4 cup worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 13
+SENT: I would pour the glaze over the loaf and return to oven for another 10 minutes .
+PREDID: 729
+PRED: pour
+   DOBJ: the glaze over the loaf
+      NON-INGREDIENT SPAN: the glaze over the loaf
+
+PREDID: 755
+PRED: return
+   DOBJ: NULL
+   OARG: to oven for another 10 minutes
+      NON-INGREDIENT SPAN: to oven for another 10 minutes
+
+
+SENTID: 14
+SENT: I would allow meat loaf to rest for 5 minutes before serving .
+PREDID: 787
+PRED: allow
+   DOBJ: meat loaf
+      NON-INGREDIENT SPAN: meat loaf
+   OARG: to rest for 5 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 5 minutes before serving
+
+

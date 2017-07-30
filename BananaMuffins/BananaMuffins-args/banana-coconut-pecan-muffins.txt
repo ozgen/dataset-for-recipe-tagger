@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees and line muffin pans with muffin/cupcake liners .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees, line muffin pans
+     PREP: to
+      NON-INGREDIENT SPAN:  line muffin pans
+      NON-INGREDIENT SPAN: 350 degrees
+   PARG: muffin/cupcake liners
+     PREP: with
+      NON-INGREDIENT SPAN: muffin/cupcake liners
+
+
+SENTID: 1
+SENT: You can also lightly spray the pan if you do n't have liners .
+
+SENTID: 2
+SENT: In a small bowl , I would combine flour , baking soda and salt .
+PREDID: 78
+PRED: combine
+   DOBJ: flour , baking soda, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: unbleached allpurpose flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 3
+SENT: I would stir and set aside .
+PREDID: 109
+PRED: stir and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a larger bowl , I would mix sugar and oil together
+PREDID: 139
+PRED: mix
+   DOBJ: sugar, oil
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: extra virgin olive oil
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: raw sugar
+   PARG: a larger bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a larger bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would add mashed bananas .
+PREDID: 161
+PRED: add
+   DOBJ: mashed bananas
+      INGREDIENT SPAN: mashed bananas
+         INGREDIENTS: ripe bananas mashed
+
+
+SENTID: 6
+SENT: I would note :
+PREDID: 178
+PRED: note
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I did n't want to dirty another bowl so I peeled each banana and squished them individually with my clean hands right into the bowl .
+
+SENTID: 8
+SENT: This ` technique ' makes for a chunkier banana consistency , which I like for a breakfast muffin .
+
+SENTID: 9
+SENT: If you do not like that , mash the bananas in a separate bowl
+
+SENTID: 10
+SENT: I would add to the sugar/oil mixture .
+PREDID: 183
+PRED: add
+   DOBJ: NULL
+   PARG: the sugar/oil mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the sugar/oil mixture
+
+
+SENTID: 11
+SENT: To your wet mix also add coconut milk and vanilla , stirring until everything is thoroughly combined .
+
+SENTID: 12
+SENT: I would add flour mixture to wet mixture and stir lightly ,
+PREDID: 293
+PRED: add
+   DOBJ: flour mixture
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: wet mixture
+     PREP: to
+      NON-INGREDIENT SPAN: wet mixture
+
+PREDID: 323
+PRED: stir
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 13
+SENT: I would add pecans and coconut .
+PREDID: 335
+PRED: add
+   DOBJ: pecans, coconut
+      INGREDIENT SPAN:  coconut
+         INGREDIENTS: Delicious Dairy Free Original Coconut Milk, coconut flakes
+      INGREDIENT SPAN:  coconut
+         INGREDIENTS: Delicious Dairy Free Original Coconut Milk, coconut flakes
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: whole pecans pecan
+
+
+SENTID: 14
+SENT: I would stir until everything is just combined .
+PREDID: 355
+PRED: stir
+   DOBJ: NULL
+   PARG: everything is just combined
+     PREP: until
+      NON-INGREDIENT SPAN: everything is just combined
+
+
+SENTID: 15
+SENT: I would note :
+PREDID: 389
+PRED: note
+   DOBJ: NULL
+
+
+SENTID: 16
+SENT: the batter will be fairly thick .
+
+SENTID: 17
+SENT: I would spoon batter into muffin tins about 3/4 full .
+PREDID: 394
+PRED: spoon
+   DOBJ: NULL
+   OARG: batter into muffin tins about 3/4 full
+      NON-INGREDIENT SPAN: batter into muffin tins about 3/4 full
+
+
+SENTID: 18
+SENT: I would bake for 20-25 minutes until muffins are golden brown on top .
+PREDID: 432
+PRED: bake
+   DOBJ: NULL
+   PARG: 20-25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20-25 minutes
+   PARG: muffins are golden brown on top
+     PREP: until
+      NON-INGREDIENT SPAN: muffins are golden brown on top
+
+

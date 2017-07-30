@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would chop the chicken , the eggs , the potatoes and pickled cucumbers into very small pieces .
+PREDID: 0
+PRED: chop
+   DOBJ: the chicken , the eggs , the potatoes, pickled cucumbers
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs
+      INGREDIENT SPAN:  the potatoes
+         INGREDIENTS: potatoes cooked
+      INGREDIENT SPAN:  pickled cucumbers
+         INGREDIENTS: pickled cucumbers
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked
+   PARG: very small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: very small pieces
+
+
+SENTID: 1
+SENT: I would mix all together .
+PREDID: 67
+PRED: mix
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add the salt and mayonnaise ,
+PREDID: 82
+PRED: add
+   DOBJ: the salt, mayonnaise
+      INGREDIENT SPAN: the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 3
+SENT: the olive oil .
+
+SENTID: 4
+SENT: I would toss to coat .
+PREDID: 106
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would refrigerate for 2 to 3 hours before serving .
+PREDID: 117
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 to 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

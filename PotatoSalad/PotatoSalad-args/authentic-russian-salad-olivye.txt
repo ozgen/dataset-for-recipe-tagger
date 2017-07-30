@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil ;
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and carrot .
+PREDID: 29
+PRED: add
+   DOBJ: potatoes, carrot
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: carrot more taste
+
+
+SENTID: 2
+SENT: I would return mixture to a boil and add eggs ;
+PREDID: 50
+PRED: return
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 73
+PRED: add
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+
+
+SENTID: 3
+SENT: I would cook until potatoes are tender , 20 to 30 minutes .
+PREDID: 81
+PRED: cook
+   DOBJ: NULL
+   PARG: potatoes are tender , 20 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  20 to 30 minutes
+      NON-INGREDIENT SPAN: potatoes are tender 
+
+
+SENTID: 4
+SENT: I would drain and slightly cool mixture .
+PREDID: 122
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 138
+PRED: cool
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 5
+SENT: I would chop potatoes and carrot ;
+PREDID: 150
+PRED: chop
+   DOBJ: potatoes, carrot
+      NON-INGREDIENT SPAN: potatoes
+      NON-INGREDIENT SPAN:  carrot
+
+
+SENTID: 6
+SENT: I would peel and chop eggs .
+PREDID: 172
+PRED: peel and chop
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+
+
+SENTID: 7
+SENT: I would mix potatoes , the carrot , the eggs , the pickles , the peas , the ham , and parsley together in a large bowl ;
+PREDID: 188
+PRED: mix
+   DOBJ: potatoes , the carrot , the eggs , the pickles , the peas , the ham , parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley taste
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: ounce peas drained
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: large pickles cut cubes
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cubed cooked ham taste
+      NON-INGREDIENT SPAN:  the eggs 
+      NON-INGREDIENT SPAN: potatoes 
+      NON-INGREDIENT SPAN:  the carrot 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would stir in mayonnaise until salad is evenly coated .
+PREDID: 260
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise
+     PREP: in
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise taste
+   PARG: salad is evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: salad is evenly coated
+
+

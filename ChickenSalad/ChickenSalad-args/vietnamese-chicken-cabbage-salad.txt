@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: In a large bowl , I would toss together the cabbage , the onions , and chicken .
+PREDID: 13
+PRED: toss
+   DOBJ: the cabbage , the onions , chicken
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: shredded cooked chicken breast
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onions halved sliced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head cabbage cored shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would toss with olive oil until everything is lightly coated .
+PREDID: 54
+PRED: toss
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: everything is lightly coated
+     PREP: until
+      NON-INGREDIENT SPAN: everything is lightly coated
+
+
+SENTID: 2
+SENT: I would season with salt and pepper and continue to toss while adding lemon juice .
+PREDID: 101
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 127
+PRED: continue
+   DOBJ: NULL
+   OARG: to toss while adding lemon juice
+      INGREDIENT SPAN: to toss while adding lemon juice
+         INGREDIENTS: lemon juice taste
+
+
+SENTID: 3
+SENT: I would add enough lemon juice so that you can taste it in every bite .
+PREDID: 163
+PRED: add
+   DOBJ: enough lemon juice
+      NON-INGREDIENT SPAN: enough lemon juice
+   OARG: so that you can taste it in every bite
+      NON-INGREDIENT SPAN: so that you can taste it in every bite
+
+
+SENTID: 4
+SENT: I would cover and refrigerate for at least 4 hours before serving .
+PREDID: 213
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: at least 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 4 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 5
+SENT: The longer it sets the more the flavors mesh together and the better it tastes !
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x5-inch loaf pan .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x5-inch loaf pan
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+
+
+SENTID: 2
+SENT: In a bowl , I would lightly mix the beaten eggs , milk , bread crumbs , onion , salt , black pepper , and sage together until thoroughly combined .
+PREDID: 76
+PRED: mix
+   DOBJ: the beaten eggs , milk , bread crumbs , onion , salt , black pepper , sage
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the beaten eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  sage
+         INGREDIENTS: crumbled dried sage
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would gently work in the ground beef until mixed ;
+PREDID: 178
+PRED: work
+   DOBJ: NULL
+   PARG: the ground beef
+     PREP: in
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: mixed
+     PREP: until
+      NON-INGREDIENT SPAN: mixed
+
+
+SENTID: 4
+SENT: I would press the meat mixture into the prepared loaf pan .
+PREDID: 208
+PRED: press
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until the loaf is no longer pink inside and the juices run clear , about 50 minutes .
+PREDID: 250
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+
+
+SENTID: 6
+SENT: An instant-read thermometer inserted into the center of the loaf should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 7
+SENT: While the meat loaf is baking , I would mix together the ketchup , brown sugar , and dry mustard powder in a bowl until the sugar has dissolved .
+PREDID: 365
+PRED: mix
+   DOBJ: the ketchup , brown sugar , dry mustard powder in a bowl
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  dry mustard powder in a bowl
+         INGREDIENTS: dry mustard powder
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 8
+SENT: When loaf is done , pull from the oven , and spread topping over the loaf .
+PREDID: 465
+PRED: pull
+   DOBJ: NULL
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 484
+PRED: spread
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would return to oven , and bake until the topping is set , about 10 more minutes .
+PREDID: 509
+PRED: return
+   DOBJ: NULL
+   PARG: oven
+     PREP: to
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 525
+PRED: bake
+   DOBJ: NULL
+
+

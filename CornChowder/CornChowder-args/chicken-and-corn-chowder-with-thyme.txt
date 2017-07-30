@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: In a large pot , I would cook bacon until crisp .
+PREDID: 12
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon diced
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: crisp
+     PREP: until
+      NON-INGREDIENT SPAN: crisp
+
+
+SENTID: 1
+SENT: I would remove bacon from the pan , and set aside .
+PREDID: 32
+PRED: remove
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: the pan
+     PREP: from
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 57
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would drain all but 3 tablespoons of the bacon fat from the pan .
+PREDID: 66
+PRED: drain
+   DOBJ: all but 3 tablespoons of the bacon fat
+      NON-INGREDIENT SPAN: all but 3 tablespoons of the bacon fat
+   PARG: the pan
+     PREP: from
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 3
+SENT: I would saute the onions in the bacon fat .
+PREDID: 113
+PRED: saute
+   DOBJ: the onions
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: onion chopped
+   PARG: the bacon fat
+     PREP: in
+      NON-INGREDIENT SPAN: the bacon fat
+
+
+SENTID: 4
+SENT: I would add broth and the potato to the pot .
+PREDID: 141
+PRED: add
+   DOBJ: broth, the potato
+      INGREDIENT SPAN: broth
+         INGREDIENTS: ounce chicken broth
+      NON-INGREDIENT SPAN:  the potato
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 5
+SENT: I would cover , and simmer for 10 minutes .
+PREDID: 170
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 179
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 6
+SENT: I would add corn , the chicken , and thyme .
+PREDID: 198
+PRED: add
+   DOBJ: corn , the chicken , thyme
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cut cubes
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: frozen corn kernels
+      NON-INGREDIENT SPAN:  thyme
+
+
+SENTID: 7
+SENT: I would cover .
+PREDID: 223
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would simmer until the chicken is cooked and the vegetables are tender , about 15 minutes .
+PREDID: 229
+PRED: simmer
+   DOBJ: NULL
+   PARG: the chicken is cooked
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is cooked
+   OARG: the vegetables are tender , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the vegetables are tender 
+
+
+SENTID: 9
+SENT: I would stir half and half into the soup , and simmer for 2 minutes .
+PREDID: 299
+PRED: stir
+   DOBJ: NULL
+   PARG: the soup , simmer for 2 minutes
+     PREP: into
+      NON-INGREDIENT SPAN: the soup 
+      NON-INGREDIENT SPAN:  simmer for 2 minutes
+   OARG: half, half
+      NON-INGREDIENT SPAN: half
+      NON-INGREDIENT SPAN:  half
+
+
+SENTID: 10
+SENT: I would season with salt and pepper to taste .
+PREDID: 347
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 11
+SENT: I would ladle into bowls , and sprinkle with the bacon and scallions .
+PREDID: 378
+PRED: ladle
+   DOBJ: NULL
+   PARG: bowls
+     PREP: into
+      NON-INGREDIENT SPAN: bowls
+
+PREDID: 396
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the bacon, scallions
+     PREP: with
+      NON-INGREDIENT SPAN: the bacon
+      NON-INGREDIENT SPAN:  scallions
+
+
+SENTID: 12
+SENT: I would serve .
+PREDID: 429
+PRED: serve
+   DOBJ: NULL
+
+

@@ -1,0 +1,248 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles , and cook until al dente , about 7 minutes .
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: dried egg noodles
+
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente , about 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  about 7 minutes
+
+
+SENTID: 2
+SENT: I would remove from heat , drain , and set aside .
+PREDID: 90
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 114
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: At the same time , I would melt butter in a large heavy skillet over medium heat .
+PREDID: 137
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: the same time
+     PREP: at
+      NON-INGREDIENT SPAN: the same time
+   PARG: a large heavy skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large heavy skillet over medium heat
+
+
+SENTID: 4
+SENT: I would add onion , and cook , stirring until softened .
+PREDID: 182
+PRED: add
+   DOBJ: NULL
+   OARG: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion chopped
+
+PREDID: 199
+PRED: stirring
+   DOBJ: NULL
+   PARG: softened
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+
+
+SENTID: 5
+SENT: I would turn the heat up to medium-high , and add sliced mushrooms .
+PREDID: 221
+PRED: turn
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-high
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 251
+PRED: add
+   DOBJ: sliced mushrooms
+      INGREDIENT SPAN: sliced mushrooms
+         INGREDIENTS: portobello mushrooms sliced
+
+
+SENTID: 6
+SENT: I would cook until the mushrooms are limp and browned .
+PREDID: 270
+PRED: cook
+   DOBJ: NULL
+   PARG: the mushrooms are limp, browned
+     PREP: until
+      NON-INGREDIENT SPAN:  browned
+      NON-INGREDIENT SPAN: the mushrooms are limp
+
+
+SENTID: 7
+SENT: I would remove to a bowl , and set aside .
+PREDID: 309
+PRED: remove
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 326
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: In the same skillet , I would stir in vegetable broth , being sure to stir in any browned bits off the bottom of the pan .
+PREDID: 352
+PRED: stir
+   DOBJ: NULL
+   PARG: the same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet
+   PARG: vegetable broth
+     PREP: in
+      INGREDIENT SPAN: vegetable broth
+         INGREDIENTS: vegetable broth
+   OARG: being sure to stir in any browned bits off the bottom of the pan
+      NON-INGREDIENT SPAN: being sure to stir in any browned bits off the bottom of the pan
+
+
+SENTID: 9
+SENT: I would bring to a boil , and cook until the mixture has reduced by 1/3 .
+PREDID: 425
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 441
+PRED: cook
+   DOBJ: NULL
+   PARG: the mixture has reduced by 1/3
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture has reduced by 1/3
+
+
+SENTID: 10
+SENT: I would reduce heat to low , and return the mushrooms and onion to the skillet .
+PREDID: 476
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 495
+PRED: return
+   DOBJ: the mushrooms, onion
+      NON-INGREDIENT SPAN: the mushrooms
+      NON-INGREDIENT SPAN:  onion
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 11
+SENT: I would remove the pan from the heat , stir together the sour cream and flour ;
+PREDID: 534
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 558
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would blend into the mushrooms .
+PREDID: 591
+PRED: blend
+   DOBJ: NULL
+   PARG: the mushrooms
+     PREP: into
+      NON-INGREDIENT SPAN: the mushrooms
+
+
+SENTID: 13
+SENT: I would return the skillet to the burner , and continue cooking over low heat , just until the sauce thickens .
+PREDID: 613
+PRED: return
+   DOBJ: the skillet
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the burner
+     PREP: to
+      NON-INGREDIENT SPAN: the burner
+
+PREDID: 644
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   OARG: just until the sauce thickens
+      NON-INGREDIENT SPAN: just until the sauce thickens
+
+
+SENTID: 14
+SENT: I would stir in the parsley , and season to taste with salt and pepper .
+PREDID: 697
+PRED: stir
+   DOBJ: NULL
+   PARG: the parsley
+     PREP: in
+      INGREDIENT SPAN: the parsley
+         INGREDIENTS: chopped fresh parsley
+   OARG: season
+      NON-INGREDIENT SPAN: season
+
+
+SENTID: 15
+SENT: I would serve over cooked egg noodles .
+PREDID: 748
+PRED: serve
+   DOBJ: cooked egg noodles
+      NON-INGREDIENT SPAN: cooked egg noodles
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

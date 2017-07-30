@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: In a large nonstick skillet , I would cook and stir ground beef until browned .
+PREDID: 24
+PRED: cook and stir
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large nonstick skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large nonstick skillet
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would drain off excess fat .
+PREDID: 58
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would stir in salsa and water .
+PREDID: 76
+PRED: stir
+   DOBJ: NULL
+   PARG: salsa, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: salsa
+
+
+SENTID: 3
+SENT: I would simmer for 10 minutes .
+PREDID: 96
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 4
+SENT: I would meanwhile , cook pasta in boiling water until al dente .
+PREDID: 125
+PRED: cook
+   DOBJ: pasta in boiling water until al dente
+      NON-INGREDIENT SPAN: pasta in boiling water until al dente
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 161
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would stir in green pepper and onions , and continue the simmering until veggies are crisp/tender .
+PREDID: 167
+PRED: stir
+   DOBJ: NULL
+   PARG: green pepper, onions
+     PREP: in
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN: green pepper
+         INGREDIENTS: green bell pepper chopped
+
+PREDID: 197
+PRED: continue
+   DOBJ: the simmering
+      NON-INGREDIENT SPAN: the simmering
+   PARG: veggies are crisp/tender
+     PREP: until
+      NON-INGREDIENT SPAN: veggies are crisp/tender
+
+
+SENTID: 7
+SENT: I would stir in noodles and sour cream .
+PREDID: 242
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles, sour cream
+     PREP: in
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+
+SENTID: 8
+SENT: I would sprinkle grated cheese on top , and cover the pan until the cheese melts .
+PREDID: 268
+PRED: sprinkle
+   DOBJ: grated cheese
+      INGREDIENT SPAN: grated cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+PREDID: 297
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the cheese melts
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese melts
+
+
+SENTID: 9
+SENT: I would sprinkle chopped tomatoes on the top , and serve .
+PREDID: 325
+PRED: sprinkle
+   DOBJ: chopped tomatoes
+      INGREDIENT SPAN: chopped tomatoes
+         INGREDIENTS: tomato chopped
+   PARG: the top
+     PREP: on
+      NON-INGREDIENT SPAN: the top
+
+

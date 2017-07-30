@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 2-quart casserole dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 2-quart casserole dish
+      NON-INGREDIENT SPAN: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: I would mix milk , sour cream , Cheddar cheese , the eggs , the butter , the salt , and black pepper in a bowl until well combined .
+PREDID: 66
+PRED: mix
+   DOBJ: milk , sour cream , Cheddar cheese , the eggs , the butter , the salt , black pepper in a bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: ounce package shredded Cheddar cheese
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 3
+SENT: I would stir matzo farfel into sour cream mixture and pour into prepared casserole dish .
+PREDID: 154
+PRED: stir
+   DOBJ: matzo farfel
+      INGREDIENT SPAN: matzo farfel
+         INGREDIENTS: matzo farfel
+   PARG: sour cream mixture
+     PREP: into
+      NON-INGREDIENT SPAN: sour cream mixture
+
+PREDID: 192
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared casserole dish
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until casserole is set and top is lightly browned , 30 to 40 minutes .
+PREDID: 222
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is set
+     PREP: until
+      NON-INGREDIENT SPAN: casserole is set
+   OARG: top is lightly browned , 30 to 40 minutes
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: top is lightly browned 
+
+

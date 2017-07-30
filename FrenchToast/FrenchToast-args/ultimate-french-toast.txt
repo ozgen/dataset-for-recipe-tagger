@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would combine eggs , the milk and cinnamon ;
+PREDID: 0
+PRED: combine
+   DOBJ: eggs , the milk, cinnamon
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 1
+SENT: I would beat well .
+PREDID: 28
+PRED: beat
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would dip bread into egg mixture until completely coated .
+PREDID: 37
+PRED: dip
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices bread
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: completely coated
+     PREP: until
+      NON-INGREDIENT SPAN: completely coated
+
+
+SENTID: 3
+SENT: I would heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 81
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium high heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium high heat
+
+
+SENTID: 4
+SENT: I would cook bread slices until they are golden brown on both sides .
+PREDID: 135
+PRED: cook
+   DOBJ: bread slices
+      NON-INGREDIENT SPAN: bread slices
+   PARG: they are golden brown on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: they are golden brown on both sides
+
+
+SENTID: 5
+SENT: I would serve hot .
+PREDID: 185
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

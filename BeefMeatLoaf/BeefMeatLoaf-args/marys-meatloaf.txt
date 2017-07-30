@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would thoroughly mix ground beef , the onion , the salt , the pepper and garlic powder .
+PREDID: 61
+PRED: mix
+   DOBJ: ground beef , the onion , the salt , the pepper, garlic powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder taste
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 2
+SENT: I would mix in bread , the milk , the egg , 2 tablespoons mustard and 1/4 cup ketchup .
+PREDID: 108
+PRED: mix
+   DOBJ: NULL
+   PARG: bread , the milk , the egg , 2 tablespoons mustard, 1/4 cup ketchup
+     PREP: in
+      INGREDIENT SPAN:  2 tablespoons mustard
+         INGREDIENTS: yellow mustard divided
+      INGREDIENT SPAN:  1/4 cup ketchup
+         INGREDIENTS: ketchup divided
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN: bread 
+         INGREDIENTS: slices white bread cut cubes
+
+
+SENTID: 3
+SENT: I would press the meat mixture into a 9x5 inch loaf pan .
+PREDID: 164
+PRED: press
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 4
+SENT: In a small bowl , I would stir together remaining mustard , the ketchup and brown sugar ;
+PREDID: 216
+PRED: stir
+   DOBJ: remaining mustard , the ketchup, brown sugar
+      INGREDIENT SPAN: remaining mustard 
+         INGREDIENTS: yellow mustard divided
+      INGREDIENT SPAN:  the ketchup
+         INGREDIENTS: ketchup divided
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour on top of the meat loaf .
+PREDID: 266
+PRED: pour
+   DOBJ: NULL
+   PARG: top of the meat loaf
+     PREP: on
+      NON-INGREDIENT SPAN: top of the meat loaf
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 2 hours .
+PREDID: 289
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 2 hours
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 2 hours
+
+

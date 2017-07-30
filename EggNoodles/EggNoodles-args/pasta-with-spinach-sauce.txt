@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would cook noodles in a large pot of boiling water until al dente .
+PREDID: 0
+PRED: cook
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: a large pot of boiling water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water until al dente
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 49
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile prepare the sauce .
+PREDID: 64
+PRED: prepare
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would heat oil in a medium saucepan over medium heat .
+PREDID: 80
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a medium saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium heat
+
+
+SENTID: 4
+SENT: I would add onions , and ham if desired .
+PREDID: 119
+PRED: add
+   DOBJ: onions , ham if desired
+      INGREDIENT SPAN:  ham if desired
+         INGREDIENTS: chopped ham
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: onion chopped
+
+
+SENTID: 5
+SENT: I would cook until onion is transparent , 2 to 3 minutes .
+PREDID: 145
+PRED: cook
+   DOBJ: NULL
+   PARG: onion is transparent , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: onion is transparent 
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 6
+SENT: I would add garlic , and cook for 30 seconds .
+PREDID: 185
+PRED: add
+   DOBJ: NULL
+   OARG: garlic
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: minced garlic
+
+PREDID: 198
+PRED: cook
+   DOBJ: NULL
+   PARG: 30 seconds
+     PREP: for
+      NON-INGREDIENT SPAN: 30 seconds
+
+
+SENTID: 7
+SENT: I would stir in thawed spinach .
+PREDID: 215
+PRED: stir
+   DOBJ: NULL
+   PARG: thawed spinach
+     PREP: in
+      INGREDIENT SPAN: thawed spinach
+         INGREDIENTS: ounce packages frozen chopped spinach
+
+
+SENTID: 8
+SENT: I would mix in sour cream , cream of celery soup , and Parmesan cheese .
+PREDID: 235
+PRED: mix
+   DOBJ: NULL
+   PARG: sour cream , cream of celery soup , parmesan cheese
+     PREP: in
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  cream of celery soup 
+         INGREDIENTS: ounce condensed cream celery soup
+
+
+SENTID: 9
+SENT: I would reduce heat to low , and heat through .
+PREDID: 286
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 305
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: I would serve spinach sauce over spaghetti or egg noodles .
+PREDID: 317
+PRED: serve
+   DOBJ: spinach sauce
+      NON-INGREDIENT SPAN: spinach sauce
+   PARG: spaghetti or egg noodles
+     PREP: over
+      INGREDIENT SPAN: spaghetti or egg noodles
+         INGREDIENTS: spaghetti
+
+

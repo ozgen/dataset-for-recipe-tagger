@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would place the beef in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 40
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 1
+SENT: I would drain grease .
+PREDID: 61
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 2
+SENT: I would place the beef in a slow cooker , and mix in onion , the celery , green bell pepper , the garlic , tomato puree , kidney beans , and cannellini beans .
+PREDID: 73
+PRED: place
+   DOBJ: the beef in a slow cooker , mix in onion , the celery , green bell pepper , the garlic , tomato puree , kidney beans , cannellini beans
+      INGREDIENT SPAN:  cannellini beans
+         INGREDIENTS: ounce cannellini beans liquid
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans liquid
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  mix in onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  tomato puree 
+         INGREDIENTS: ounce tomato puree
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      NON-INGREDIENT SPAN: the beef in a slow cooker 
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 3
+SENT: I would season with chili powder , the parsley , the salt , the basil , the oregano , black pepper , and hot pepper sauce .
+PREDID: 186
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , the parsley , the salt , the basil , the oregano , black pepper , hot pepper sauce
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  hot pepper sauce
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: hot pepper sauce
+
+
+SENTID: 4
+SENT: I would cover , and cook 8 hours on Low .
+PREDID: 265
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 274
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+
+

@@ -1,0 +1,67 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="whisk (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P122)", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk (S3,P142)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P219)", shape=oval, style=filled, fillcolor=azure]
+E5[label="let (S4,P265)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon (S5,P336)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S6,P393)", shape=oval, style=filled, fillcolor=azure]
+E8[label="cool (S7,P498)", shape=oval, style=filled, fillcolor=azure]
+E9[label="serve (S8,P538)", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: vegetable oil, eggs, vanilla extract, buttermilk, very ripe bananas
+(text: the mashed bananas , eggs , vegetable oil , vanilla extract , buttermilk)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+O3_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+D1[label="DOBJ: baking powder, couscous, brown sugar, cornmeal, baking soda, salt
+(text: the cornmeal , couscous , brown sugar , baking powder , baking soda , salt in a bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+O1_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: oven to 400 degrees F -LRB- 200 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_ing[label="PREP: in chopped dried mango
+(text: in the dried mango)", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+E2 -> E4 [label="OUTPUT: 
+INPUT: the cornmeal mixture"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: into the banana mixture"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: the batter rest"]
+O5_0_0[label="OTHER:  about 5 minutes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+O5_0_1[label="OTHER: until the couscous absorbs some of the moisture ", shape=box, style=filled, fillcolor=white]
+O5_0_1 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: the batter"]
+P6_0_0[label="PREP: into ungreased muffin cups", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+O6_0_0[label="OTHER: filling them 2/3 full", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O7_0_0[label="OTHER: until lightly browned", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER:  about 15 minutes", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+O7_1_1[label="OTHER: a toothpick inserted into the center comes out clean ", shape=box, style=filled, fillcolor=white]
+O7_1_1 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: in the pans for 10 minutes", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+P8_1_0[label="PREP: before removing", shape=box, style=filled, fillcolor=white]
+P8_1_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+O9_0_0[label="OTHER: warm or at room temperature", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

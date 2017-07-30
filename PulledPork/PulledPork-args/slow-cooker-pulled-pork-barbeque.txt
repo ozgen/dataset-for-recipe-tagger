@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: I would stir celery , the onion , barbeque sauce , the ketchup , the water , garlic powder , chili powder , the salt , and pepper together in a slow cooker .
+PREDID: 0
+PRED: stir
+   DOBJ: celery , the onion , barbeque sauce , the ketchup , the water , garlic powder , chili powder , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place roast into the mixture .
+PREDID: 106
+PRED: place
+   DOBJ: roast
+      INGREDIENT SPAN: roast
+         INGREDIENTS: pound pork shoulder roast
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 2
+SENT: I would cook on Low for 7 hours -LRB- or High for 5 hours -RRB- .
+PREDID: 131
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 7 hours -lrb- or high for 5 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 7 hours -lrb- or high for 5 hours
+
+
+SENTID: 3
+SENT: I would shred the meat with two forks and stir into the liquid ;
+PREDID: 167
+PRED: shred
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: two forks
+     PREP: with
+      NON-INGREDIENT SPAN: two forks
+
+PREDID: 194
+PRED: stir
+   DOBJ: NULL
+   PARG: the liquid
+     PREP: into
+      NON-INGREDIENT SPAN: the liquid
+
+
+SENTID: 4
+SENT: I would cook for 1 hour more .
+PREDID: 212
+PRED: cook
+   DOBJ: NULL
+   PARG: 1 hour more
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour more
+
+

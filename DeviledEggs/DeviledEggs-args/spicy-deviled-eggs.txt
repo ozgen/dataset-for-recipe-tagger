@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan with a lid , pour in water to cover , bring to a boil , and remove from the heat .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan with a lid
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan with a lid
+
+PREDID: 29
+PRED: pour
+   DOBJ: NULL
+   PARG: water
+     PREP: in
+      NON-INGREDIENT SPAN: water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+PREDID: 48
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 64
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 1
+SENT: I would cover and let stand for 10 to 12 minutes .
+PREDID: 82
+PRED: cover and let
+   DOBJ: NULL
+   PARG: stand for 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: stand for 10 to 12 minutes
+
+
+SENTID: 2
+SENT: I would remove eggs from hot water and let cool .
+PREDID: 115
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 140
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: I would peel the eggs .
+PREDID: 148
+PRED: peel
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+
+
+SENTID: 4
+SENT: I would cut each egg in half lengthwise , remove the yolks , and place the yolks in a bowl with the mustard , the mayonnaise , Worcestershire sauce , hot pepper sauce , and salt and pepper .
+PREDID: 160
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      INGREDIENT SPAN: each egg in half lengthwise
+         INGREDIENTS: ounce black olives drained cut half
+
+PREDID: 187
+PRED: remove
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+PREDID: 205
+PRED: place
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl with the mustard , the mayonnaise , worcestershire sauce , hot pepper sauce , salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt black pepper
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: a bowl with the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce taste
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would mash the yolks , and stir the mixture until smooth and thoroughly combined .
+PREDID: 303
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+
+PREDID: 319
+PRED: stir
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: smooth, thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  thoroughly combined
+
+
+SENTID: 6
+SENT: I would fill each egg half with the deviled yolk mixture , using a spoon , piping bag , or a sturdy plastic bag with a corner cut off .
+PREDID: 366
+PRED: fill
+   DOBJ: each egg half
+      NON-INGREDIENT SPAN: each egg half
+   PARG: the deviled yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the deviled yolk mixture
+   OARG: using a spoon , piping bag , or a sturdy plastic bag with a corner cut off
+      NON-INGREDIENT SPAN:  piping bag 
+      NON-INGREDIENT SPAN: using a spoon 
+      NON-INGREDIENT SPAN:  or a sturdy plastic bag with a corner cut off
+
+
+SENTID: 7
+SENT: I would dust each egg with a pinch of paprika , and place an olive half , round side up , in the center of each .
+PREDID: 466
+PRED: dust
+   DOBJ: each egg
+      NON-INGREDIENT SPAN: each egg
+   PARG: a pinch of paprika
+     PREP: with
+      INGREDIENT SPAN: a pinch of paprika
+         INGREDIENTS: ground paprika dusting divided
+   PARG: in the center of each
+     PREP: and
+      NON-INGREDIENT SPAN: in the center of each
+
+PREDID: 500
+PRED: place
+   DOBJ: an olive half
+      NON-INGREDIENT SPAN: an olive half
+
+PREDID: 517
+PRED: round
+   DOBJ: side
+      NON-INGREDIENT SPAN: side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 8
+SENT: I would refrigerate until chilled , 20 to 30 minutes , and serve cold .
+PREDID: 547
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled , 20 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chilled 
+      NON-INGREDIENT SPAN:  20 to 30 minutes
+
+PREDID: 588
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

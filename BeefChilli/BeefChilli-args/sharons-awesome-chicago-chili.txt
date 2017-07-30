@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would place the ground beef in a large pot and cook over medium heat until evenly brown .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cook
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 1
+SENT: I would drain off the excess fat .
+PREDID: 67
+PRED: drain
+   DOBJ: the excess fat
+      NON-INGREDIENT SPAN: the excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: I would mix in the kidney beans , diced tomatoes , the beer , chili sauce , the onion , garlic , chili seasoning , black pepper , garlic powder , the onion , cayenne pepper , the oregano , the sugar , hot sauce , and Worcestershire sauce .
+PREDID: 88
+PRED: mix
+   DOBJ: NULL
+   PARG: the kidney beans , diced tomatoes , the beer , chili sauce , the onion , garlic , chili seasoning , black pepper , garlic powder , the onion , cayenne pepper , the oregano , the sugar , hot sauce , worcestershire sauce
+     PREP: in
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: ounce bottle tomatobased chili sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder, large white onion chopped
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder, large white onion chopped
+      INGREDIENT SPAN:  chili seasoning 
+         INGREDIENTS: chili seasoning
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: oregano
+      INGREDIENT SPAN: the kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 3
+SENT: I would bring to a boil .
+PREDID: 257
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat to low , and simmer for about 4 hours , stirring occasionally .
+PREDID: 270
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 289
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: about 4 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

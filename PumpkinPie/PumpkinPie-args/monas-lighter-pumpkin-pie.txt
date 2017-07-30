@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would fit the pie crust into a 9-inch pie dish .
+PREDID: 38
+PRED: fit
+   DOBJ: the pie crust
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: prepared 9-inch single pie crust
+   PARG: a 9-inch pie dish
+     PREP: into
+      INGREDIENT SPAN: a 9-inch pie dish
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 2
+SENT: In a bowl , I would whisk the egg substitute , sucralose sweetener , sweetener with brown sugar , and pumpkin pie spice until well combined .
+PREDID: 79
+PRED: whisk
+   DOBJ: the egg substitute , sucralose sweetener , sweetener with brown sugar , pumpkin pie spice until well combined
+      INGREDIENT SPAN:  pumpkin pie spice until well combined
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  sucralose sweetener 
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN: the egg substitute 
+         INGREDIENTS: liquid egg substitute
+      INGREDIENT SPAN:  sweetener with brown sugar 
+         INGREDIENTS: granular sucralose sweetener brown sugar Such Splenda Brown
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would whisk in the pumpkin puree and evaporated milk until smooth .
+PREDID: 180
+PRED: whisk
+   DOBJ: NULL
+   PARG: the pumpkin puree
+     PREP: in
+      NON-INGREDIENT SPAN: the pumpkin puree
+
+PREDID: 205
+PRED: evaporated
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: fluid ounce fat-free evaporated milk
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would pour the filling into the pie shell .
+PREDID: 231
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: the pie shell
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until the pie filling is set in the center , about 40 minutes .
+PREDID: 261
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the pie filling is set in the center , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pie filling is set in the center 
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+

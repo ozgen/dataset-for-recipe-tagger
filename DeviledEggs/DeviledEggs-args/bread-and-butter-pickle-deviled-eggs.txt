@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would halve eggs lengthwise .
+PREDID: 0
+PRED: halve
+   DOBJ: NULL
+   OARG: eggs lengthwise
+      INGREDIENT SPAN: eggs lengthwise
+         INGREDIENTS: hardboiled eggs
+
+
+SENTID: 1
+SENT: I would carefully remove yolks to a small bowl and mash with a fork ;
+PREDID: 29
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a small bowl, mash with a fork
+     PREP: to
+      NON-INGREDIENT SPAN: a small bowl
+      NON-INGREDIENT SPAN:  mash with a fork
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 2
+SENT: I would add mayonnaise , the pickles , honey mustard , and black pepper .
+PREDID: 69
+PRED: add
+   DOBJ: mayonnaise , the pickles , honey mustard , black pepper
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: sliced breadandbutter pickles
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  honey mustard 
+         INGREDIENTS: honey mustard more taste
+
+
+SENTID: 3
+SENT: I would blend the mixture until smooth .
+PREDID: 119
+PRED: blend
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would scoop yolk mixture into egg halves ;
+PREDID: 146
+PRED: scoop
+   DOBJ: yolk mixture
+      NON-INGREDIENT SPAN: yolk mixture
+   PARG: egg halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg halves
+
+
+SENTID: 5
+SENT: I would garnish with paprika .
+PREDID: 176
+PRED: garnish
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika needed
+
+
+SENTID: 6
+SENT: I would keep refrigerated until ready to serve .
+PREDID: 195
+PRED: keep
+   DOBJ: NULL
+   OARG: refrigerated until ready
+      NON-INGREDIENT SPAN: refrigerated until ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

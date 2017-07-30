@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB-
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C.
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C.
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine brown sugar , the flour , the margarine , the milk , the vanilla and eggs .
+PREDID: 51
+PRED: combine
+   DOBJ: brown sugar , the flour , the margarine , the milk , the vanilla, eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  the margarine 
+         INGREDIENTS: melted margarine
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: light brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would blend until smooth .
+PREDID: 105
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would stir in chopped pecans .
+PREDID: 122
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped pecans
+     PREP: in
+      INGREDIENT SPAN: chopped pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 4
+SENT: I would pour into pie crust .
+PREDID: 142
+PRED: pour
+   DOBJ: NULL
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch deep dish pie crust
+
+
+SENTID: 5
+SENT: I would place whole pecan meats gently on top in decorative manner .
+PREDID: 159
+PRED: place
+   DOBJ: whole pecan meats
+      INGREDIENT SPAN: whole pecan meats
+         INGREDIENTS: pecan halves
+   PARG: top in decorative manner
+     PREP: on
+      NON-INGREDIENT SPAN: top in decorative manner
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven for 35 to 40 minutes , or until golden brown and filling is set .
+PREDID: 209
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 35 to 40 minutes , or until golden brown, filling is set
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 35 to 40 minutes 
+      NON-INGREDIENT SPAN:  or until golden brown
+      NON-INGREDIENT SPAN:  filling is set
+
+

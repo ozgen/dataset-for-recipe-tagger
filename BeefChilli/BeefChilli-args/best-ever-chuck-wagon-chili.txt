@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: In a large pot , I would cook the ground beef over medium heat until evenly browned .
+PREDID: 12
+PRED: cook
+   DOBJ: the ground beef over medium heat
+      INGREDIENT SPAN: the ground beef over medium heat
+         INGREDIENTS: ground beef
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 1
+SENT: I would drain off grease , and set aside .
+PREDID: 62
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 80
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 89
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 3
+SENT: I would saute the onions , green pepper and habanero pepper until onions are translucent .
+PREDID: 124
+PRED: saute
+   DOBJ: the onions , green pepper, habanero pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: habanero pepper chopped
+      INGREDIENT SPAN: the onions 
+         INGREDIENTS: large white onions chopped
+      INGREDIENT SPAN:  habanero pepper
+         INGREDIENTS: drop superhot hot pepper sauce
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: green bell peppers seeded chopped
+   PARG: onions are translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onions are translucent
+
+
+SENTID: 4
+SENT: I would remove from heat .
+PREDID: 193
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would transfer the onion mixture to the pot with the ground beef , and set the heat to medium .
+PREDID: 208
+PRED: transfer
+   DOBJ: the onion mixture
+      NON-INGREDIENT SPAN: the onion mixture
+   PARG: the pot with the ground beef
+     PREP: to
+      NON-INGREDIENT SPAN: the pot with the ground beef
+
+PREDID: 260
+PRED: set
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 6
+SENT: I would add the kidney beans and tomato sauce to the beef mixture , and season with chili powder , the salt , garlic salt and hot pepper sauce .
+PREDID: 279
+PRED: add
+   DOBJ: the kidney beans, tomato sauce to the beef mixture , season with chili powder , the salt , garlic salt, hot pepper sauce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the kidney beans
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN:  tomato sauce to the beef mixture 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  season with chili powder 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN:  hot pepper sauce
+
+
+SENTID: 7
+SENT: I would bring to a simmer , and adjust seasonings to taste if necessary .
+PREDID: 385
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 403
+PRED: adjust
+   DOBJ: seasonings
+      NON-INGREDIENT SPAN: seasonings
+   OARG: to taste if necessary
+      NON-INGREDIENT SPAN: to taste if necessary
+
+
+SENTID: 8
+SENT: I would cover , reduce heat to low , and simmer for 1 hour , stirring occasionally .
+PREDID: 438
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 463
+PRED: simmer
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

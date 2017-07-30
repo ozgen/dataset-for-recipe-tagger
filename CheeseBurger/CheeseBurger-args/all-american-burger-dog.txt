@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: I would place half the ground beef on a sheet of plastic wrap .
+PREDID: 0
+PRED: place
+   DOBJ: half the ground beef
+      INGREDIENT SPAN: half the ground beef
+         INGREDIENTS: ground beef % lean
+   PARG: a sheet of plastic wrap
+     PREP: on
+      NON-INGREDIENT SPAN: a sheet of plastic wrap
+
+
+SENTID: 1
+SENT: I would pat it into a rectangular shape , about 1/2 inch thick , 8?1/2 inches long , and 4 inches wide .
+PREDID: 44
+PRED: pat
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a rectangular shape
+     PREP: into
+      NON-INGREDIENT SPAN: a rectangular shape
+   OARG: about 1/2 inch thick , 8?1/2 inches long , 4 inches wide
+      NON-INGREDIENT SPAN: about 1/2 inch thick 
+      NON-INGREDIENT SPAN:  8?1/2 inches long 
+      NON-INGREDIENT SPAN:  4 inches wide
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 120
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would roll the beef into a log , using the plastic wrap as a guide .
+PREDID: 144
+PRED: roll
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: a log
+     PREP: into
+      NON-INGREDIENT SPAN: a log
+   OARG: using the plastic wrap as a guide
+      NON-INGREDIENT SPAN: using the plastic wrap as a guide
+
+
+SENTID: 4
+SENT: I would season with more salt and pepper .
+PREDID: 192
+PRED: season
+   DOBJ: NULL
+   PARG: more salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: more salt
+
+
+SENTID: 5
+SENT: I would wrap the plastic tightly around the log and twist both ends tight .
+PREDID: 220
+PRED: wrap
+   DOBJ: the plastic
+      NON-INGREDIENT SPAN: the plastic
+   OARG: tightly around the log, twist both ends tight
+      NON-INGREDIENT SPAN: tightly around the log
+      NON-INGREDIENT SPAN:  twist both ends tight
+
+
+SENTID: 6
+SENT: I would pat gently to slightly flatten .
+PREDID: 275
+PRED: pat
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to slightly flatten
+      NON-INGREDIENT SPAN: to slightly flatten
+
+
+SENTID: 7
+SENT: I would repeat with remaining ground beef .
+PREDID: 302
+PRED: repeat
+   DOBJ: NULL
+   PARG: remaining ground beef
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ground beef
+
+
+SENTID: 8
+SENT: I would preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 332
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat, lightly oil the grate
+      NON-INGREDIENT SPAN:  lightly oil the grate
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 9
+SENT: I would remove the burger dogs from the plastic wrap and place on the grill , perpendicular to the grates .
+PREDID: 393
+PRED: remove
+   DOBJ: the burger dogs
+      INGREDIENT SPAN: the burger dogs
+         INGREDIENTS: extralong hot dog buns
+   PARG: the plastic wrap
+     PREP: from
+      NON-INGREDIENT SPAN: the plastic wrap
+
+PREDID: 433
+PRED: place
+   DOBJ: NULL
+   PARG: the grill , perpendicular
+     PREP: on
+      NON-INGREDIENT SPAN:  perpendicular
+      NON-INGREDIENT SPAN: the grill 
+   PARG: the grates
+     PREP: to
+      NON-INGREDIENT SPAN: the grates
+
+
+SENTID: 10
+SENT: I would cook until burgers are browned but still pink inside , 4 to 5 minutes , flip , and cook another 2 to 3 minutes .
+PREDID: 474
+PRED: cook
+   DOBJ: NULL
+   PARG: burgers are browned but still pink inside , 4 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: burgers are browned but still pink inside 
+      NON-INGREDIENT SPAN:  4 to 5 minutes
+
+PREDID: 539
+PRED: cook
+   DOBJ: NULL
+   PARG: another 2 to 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 2 to 3 minutes
+
+PREDID: 531
+PRED: flip
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would place a slice of cheese on each burger dog and grill to medium doneness -LRB- an instant-read thermometer inserted into the center should read at least 140 degrees F/60 degrees C -RRB- .
+PREDID: 562
+PRED: place
+   DOBJ: a slice of cheese
+      INGREDIENT SPAN: a slice of cheese
+         INGREDIENTS: slices Cheddar cheese
+   PARG: each burger dog
+     PREP: on
+      NON-INGREDIENT SPAN: each burger dog
+
+PREDID: 599
+PRED: grill
+   DOBJ: NULL
+   PARG: medium doneness -lrb- an instant-read thermometer inserted into the center should read at least 140 degrees f/60 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: medium doneness -lrb- an instant-read thermometer inserted into the center should read at least 140 degrees f/60 degrees c
+
+
+SENTID: 12
+SENT: I would remove and rest 3 to 4 minutes .
+PREDID: 708
+PRED: remove and rest
+   DOBJ: NULL
+   PARG: 3 to 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 minutes
+
+
+SENTID: 13
+SENT: I would toast hot dog buns on the grill and spread each with 2 teaspoons mayonnaise .
+PREDID: 733
+PRED: toast
+   DOBJ: hot dog buns
+      NON-INGREDIENT SPAN: hot dog buns
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+
+PREDID: 761
+PRED: spread
+   DOBJ: each with 2 teaspoons mayonnaise
+      INGREDIENT SPAN: each with 2 teaspoons mayonnaise
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 14
+SENT: I would place burger dog on each bun and squirt 1 tablespoon of ketchup on top .
+PREDID: 796
+PRED: place
+   DOBJ: burger dog
+      NON-INGREDIENT SPAN: burger dog
+   PARG: each bun
+     PREP: on
+      NON-INGREDIENT SPAN: each bun
+
+PREDID: 822
+PRED: squirt
+   DOBJ: 1 tablespoon of ketchup
+      INGREDIENT SPAN: 1 tablespoon of ketchup
+         INGREDIENTS: ketchup
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+

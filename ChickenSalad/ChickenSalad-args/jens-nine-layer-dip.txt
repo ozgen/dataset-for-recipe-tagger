@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: I would place the chicken , 1?1/2 tablespoons of cilantro , and vegetable oil in a skillet over medium heat , and pan-fry the chicken breasts until lightly golden brown , no longer pink in the middle , and the juices run clear , about 5 minutes per side .
+PREDID: 0
+PRED: place
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   OARG: 1?1/2 tablespoons of cilantro , vegetable oil in a skillet over medium heat , pan-fry the chicken breasts until lightly golden brown
+      INGREDIENT SPAN: 1?1/2 tablespoons of cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  vegetable oil in a skillet over medium heat 
+         INGREDIENTS: vegetable oil
+      NON-INGREDIENT SPAN:  pan-fry the chicken breasts until lightly golden brown
+   OARG: no longer pink in the middle
+      NON-INGREDIENT SPAN: no longer pink in the middle
+   OARG: the juices run clear , about 5 minutes per side
+      NON-INGREDIENT SPAN: the juices run clear 
+      NON-INGREDIENT SPAN:  about 5 minutes per side
+
+
+SENTID: 1
+SENT: I would remove the chicken and set aside .
+PREDID: 200
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+
+PREDID: 219
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: When cooled , cut into cubes .
+PREDID: 239
+PRED: cut
+   DOBJ: NULL
+   PARG: cubes
+     PREP: into
+      NON-INGREDIENT SPAN: cubes
+   OARG: when cooled
+      NON-INGREDIENT SPAN: when cooled
+
+
+SENTID: 3
+SENT: I would place the bacon in the same skillet , and cook over medium-high heat , stirring often , until evenly browned , about 10 minutes .
+PREDID: 252
+PRED: place
+   DOBJ: the bacon in the same skillet
+      INGREDIENT SPAN: the bacon in the same skillet
+         INGREDIENTS: slices lean bacon chopped
+
+PREDID: 285
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring often , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: stirring often 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 4
+SENT: I would mix the refried beans into the skillet with the bacon , and cook , stirring frequently , until the beans are hot and bubbling , 5 to 10 minutes .
+PREDID: 357
+PRED: mix
+   DOBJ: the refried beans
+      INGREDIENT SPAN: the refried beans
+         INGREDIENTS: ounce refried beans
+   PARG: the skillet with the bacon
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet with the bacon
+   PARG: the beans are hot, bubbling , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the beans are hot
+      NON-INGREDIENT SPAN:  bubbling 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+PREDID: 410
+PRED: stirring
+   DOBJ: NULL
+   OARG: frequently
+      NON-INGREDIENT SPAN: frequently
+
+
+SENTID: 5
+SENT: I would mix the taco seasoning and sour cream together in a bowl .
+PREDID: 473
+PRED: mix
+   DOBJ: the taco seasoning, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the taco seasoning
+         INGREDIENTS: taco seasoning mix
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: To assemble , spread the hot bean and bacon mixture into the bottom of an 8x8-inch glass dish .
+PREDID: 522
+PRED: assemble
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 531
+PRED: spread
+   DOBJ: the hot bean, bacon mixture
+      NON-INGREDIENT SPAN:  bacon mixture
+      NON-INGREDIENT SPAN: the hot bean
+   PARG: the bottom of an 8x8-inch glass dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of an 8x8-inch glass dish
+
+
+SENTID: 7
+SENT: I would sprinkle the chicken cubes over the bean mixture ,
+PREDID: 597
+PRED: sprinkle
+   DOBJ: the chicken cubes
+      NON-INGREDIENT SPAN: the chicken cubes
+   PARG: the bean mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the bean mixture
+
+
+SENTID: 8
+SENT: I would follow with these layers :
+PREDID: 639
+PRED: follow
+   DOBJ: NULL
+   PARG: these layers
+     PREP: with
+      NON-INGREDIENT SPAN: these layers
+
+
+SENTID: 9
+SENT: I would 3/4 cup of Cheddar cheese , the guacamole , sour cream mixture , and sliced tomatoes .
+
+SENTID: 10
+SENT: I would sprinkle the top with 1?1/2 tablespoons of cilantro , black olives , green onions , and 1/4 cup of shredded cheddar cheese .
+PREDID: 661
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: 1?1/2 tablespoons of cilantro , black olives , green onions , 1/4 cup of shredded cheddar cheese
+     PREP: with
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: sliced green onions
+      INGREDIENT SPAN:  1/4 cup of shredded cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: sliced black olives
+      NON-INGREDIENT SPAN: 1?1/2 tablespoons of cilantro 
+
+

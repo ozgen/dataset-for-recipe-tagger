@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven broiler .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven broiler
+      NON-INGREDIENT SPAN: oven broiler
+
+
+SENTID: 1
+SENT: I would grease a 1?1/2 quart microwave safe dish .
+PREDID: 19
+PRED: grease
+   DOBJ: a 1?1/2 quart microwave safe dish
+      NON-INGREDIENT SPAN: a 1?1/2 quart microwave safe dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 54
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 96
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 141
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would microwave frozen mac and cheese according to package directions .
+PREDID: 147
+PRED: microwave
+   DOBJ: frozen mac, cheese
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: frozen mac
+   PARG: to package directions
+     PREP: according
+      INGREDIENT SPAN: to package directions
+         INGREDIENTS: ounce package frozen macaroni cheese
+
+
+SENTID: 6
+SENT: I would stir together macaroni , the mac and cheese , the milk and pepper in prepared dish .
+PREDID: 203
+PRED: stir
+   DOBJ: macaroni , the mac, cheese , the milk, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: macaroni 
+         INGREDIENTS: elbow macaroni
+      NON-INGREDIENT SPAN:  the mac
+   PARG: prepared dish
+     PREP: in
+      NON-INGREDIENT SPAN: prepared dish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would mix well .
+PREDID: 265
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would microwave on high 2 minutes , until heated through .
+PREDID: 273
+PRED: microwave
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+   PARG: heated through
+     PREP: until
+      NON-INGREDIENT SPAN: heated through
+
+
+SENTID: 9
+SENT: I would sprinkle with Cheddar and Parmesan and place under oven broiler .
+PREDID: 316
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar, parmesan
+     PREP: with
+      NON-INGREDIENT SPAN: cheddar
+      NON-INGREDIENT SPAN:  parmesan
+
+PREDID: 349
+PRED: place
+   DOBJ: NULL
+   PARG: oven broiler
+     PREP: under
+      NON-INGREDIENT SPAN: oven broiler
+
+
+SENTID: 10
+SENT: I would broil until cheese is melted and beginning to brown , 2 to 5 minutes .
+PREDID: 371
+PRED: broil
+   DOBJ: NULL
+   PARG: cheese is melted, beginning to brown , 2 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  2 to 5 minutes
+      NON-INGREDIENT SPAN:  beginning to brown 
+
+

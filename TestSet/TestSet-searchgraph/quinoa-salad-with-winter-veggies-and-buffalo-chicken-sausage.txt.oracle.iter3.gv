@@ -1,0 +1,117 @@
+digraph recipe {
+E0[label="put
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="reduce
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cover
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="simmer
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="fluff
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="heat
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="add
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cook
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="transfer
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="add
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="add
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="cook
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="add
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="cook
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="whisk
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="add
+16", shape=oval, style=filled, fillcolor=azure]
+E17[label="mix
+17", shape=oval, style=filled, fillcolor=azure]
+E18[label="chill
+18", shape=oval, style=filled, fillcolor=azure]
+E19[label="stir in
+19", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+O2_0[label="OTHER: to low", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+D10[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D10 -> E10
+P10_0[label="LOCATION:to pan", shape=box, style=filled, fillcolor=white]
+P10_0 -> E10
+D0[label="DOBJ: uncooked quinoa, lowsodium chicken broth", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="COOBJECT:in medium red bell pepper", shape=box, style=filled, fillcolor=peachpuff]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E2 -> E4 [label="IMPLICIT PREP"]
+O4_0_0[label="OTHER: until the liquid is absorbed, 12 to 15 minutes", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT PREP"]
+O5_0_0[label="OTHER: with a fork", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="IMPLICIT PREP"]
+P6_1_0[label="LOCATION:in a large skillet", shape=box, style=filled, fillcolor=white]
+P6_1_0 -> E6
+O6_0_0[label="OTHER: over medium-high heat", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+D7_ing[label="DOBJ: links Dietz  Watson Buffalo Chicken Sausage chunks", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: stirring occasionally", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: until browned, about 5 minutes", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+E8 -> E9 [label="sausage"]
+P9_0_0[label="LOCATION:to a plate", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+D11_ing[label="DOBJ: medium onion", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E10 -> E11 [label="IMPLICIT PREP"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+O12_0_0[label="OTHER: until softened, about 3 minutes", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+D13_ing[label="DOBJ: shredded carrot, butternut squash 1/2inch cubes", shape=box, style=filled, fillcolor=peachpuff]
+D13_ing -> E13
+E12 -> E13 [label="IMPLICIT PREP"]
+E13 -> E14 [label="IMPLICIT DOBJ"]
+O14_0_0[label="OTHER: about 5 minutes, until the vegetables are tender-firm", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+D15_ing[label="DOBJ: olive oil, fresh lemon juice, freshly ground black pepper, ground cumin, salt", shape=box, style=filled, fillcolor=peachpuff]
+D15_ing -> E15
+E14 -> E15 [label="IMPLICIT PREP"]
+P15_1_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P15_1_0 -> E15
+O15_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+E1 -> E16 [label="quinoa"]
+E9 -> E16 [label="sausage"]
+E15 -> E16 [label="IMPLICIT PREP"]
+E16 -> E17 [label="IMPLICIT DOBJ"]
+E17 -> E18 [label="IMPLICIT DOBJ"]
+P18_0_0[label="LOCATION:in the refrigerator", shape=box, style=filled, fillcolor=white]
+P18_0_0 -> E18
+O18_0_0[label="OTHER: at least 30 minutes or up to two days", shape=box, style=filled, fillcolor=white]
+O18_0_0 -> E18
+E18 -> E19 [label="IMPLICIT DOBJ"]
+P19_0_ing[label="COOBJECT: the fresh flatleaf parsley", shape=box, style=filled, fillcolor=peachpuff]
+P19_0_ing -> E19
+O19_0_0[label="OTHER: when ready to serve", shape=box, style=filled, fillcolor=white]
+O19_0_0 -> E19
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E19 -> EOR
+}

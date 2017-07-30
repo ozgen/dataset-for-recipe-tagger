@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place asparagus on a baking sheet ;
+PREDID: 40
+PRED: place
+   DOBJ: asparagus
+      INGREDIENT SPAN: asparagus
+         INGREDIENTS: bunch asparagus trimmed snapped
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 2
+SENT: I would drizzle with olive oil and sprinkle with salt and pepper .
+PREDID: 69
+PRED: drizzle
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil needed
+
+PREDID: 91
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 3
+SENT: I would bake the asparagus in the preheated oven for 10 minutes .
+PREDID: 117
+PRED: bake
+   DOBJ: the asparagus
+      NON-INGREDIENT SPAN: the asparagus
+   PARG: the preheated oven for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 10 minutes
+
+
+SENTID: 4
+SENT: While asparagus is baking , I would spread the pizza sauce over the pizza crust .
+PREDID: 187
+PRED: spread
+   DOBJ: the pizza sauce
+      INGREDIENT SPAN: the pizza sauce
+         INGREDIENTS: pizza sauce
+   PARG: asparagus is baking
+     PREP: while
+      NON-INGREDIENT SPAN: asparagus is baking
+   PARG: the pizza crust
+     PREP: over
+      INGREDIENT SPAN: the pizza crust
+         INGREDIENTS: ounce prebaked pizza crust such Boboli
+
+
+SENTID: 5
+SENT: I would distribute asparagus pieces and crumbles of blue cheese evenly over the pizza .
+PREDID: 224
+PRED: distribute
+   DOBJ: asparagus pieces, crumbles of blue cheese
+      INGREDIENT SPAN:  crumbles of blue cheese
+         INGREDIENTS: crumbled blue cheese
+      NON-INGREDIENT SPAN: asparagus pieces
+   OARG: evenly over the pizza
+      NON-INGREDIENT SPAN: evenly over the pizza
+
+
+SENTID: 6
+SENT: I would return pizza to center rack of preheated oven ;
+PREDID: 291
+PRED: return
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: center rack of preheated oven
+     PREP: to
+      NON-INGREDIENT SPAN: center rack of preheated oven
+
+
+SENTID: 7
+SENT: I would bake until the cheese is melted and bubbling , 8 to 10 more minutes .
+PREDID: 330
+PRED: bake
+   DOBJ: NULL
+   PARG: the cheese is melted, bubbling , 8 to 10 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  8 to 10 more minutes
+      NON-INGREDIENT SPAN: the cheese is melted
+      NON-INGREDIENT SPAN:  bubbling 
+
+

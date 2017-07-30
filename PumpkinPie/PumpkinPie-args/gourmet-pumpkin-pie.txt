@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: When making your favorite pastry for pie shells add 1/4 cup of the finely chopped pecans to the flour before mixing .
+PREDID: 78
+PRED: add
+   DOBJ: 1/4 cup of the finely chopped pecans to the flour
+      INGREDIENT SPAN: 1/4 cup of the finely chopped pecans to the flour
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: 1/4 cup of the finely to the flour
+         INGREDIENTS: all-purpose flour
+   PARG: mixing
+     PREP: before
+      NON-INGREDIENT SPAN: mixing
+   OARG: when making your favorite pastry for pie shells
+      INGREDIENT SPAN: when making your favorite pastry for pie shells
+         INGREDIENTS: inch unbaked pie shell
+
+
+SENTID: 2
+SENT: I would blend the egg , the pumpkin and condensed milk .
+PREDID: 134
+PRED: blend
+   DOBJ: the egg , the pumpkin, condensed milk
+      INGREDIENT SPAN: the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  condensed milk
+         INGREDIENTS: sweetened condensed milk
+      INGREDIENT SPAN:  the pumpkin
+         INGREDIENTS: pumpkin puree
+
+
+SENTID: 3
+SENT: I would pour mixture into the unbaked pie shell .
+PREDID: 170
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the unbaked pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: the unbaked pie shell
+
+
+SENTID: 4
+SENT: I would combine the brown sugar , the flour , chopped pecans , the butter and cinnamon with a fork until crumbly .
+PREDID: 204
+PRED: combine
+   DOBJ: the brown sugar , the flour , chopped pecans , the butter, cinnamon
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  chopped pecans 
+      NON-INGREDIENT SPAN:  the flour 
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   PARG: crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: crumbly
+
+
+SENTID: 5
+SENT: I would sprinkle streusel mixture on top of pumpkin mixture .
+PREDID: 284
+PRED: sprinkle
+   DOBJ: streusel mixture
+      NON-INGREDIENT SPAN: streusel mixture
+   PARG: top of pumpkin mixture
+     PREP: on
+      NON-INGREDIENT SPAN: top of pumpkin mixture
+
+
+SENTID: 6
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 50 to 55 minutes or until a knife inserted in near the center comes out clean .
+PREDID: 329
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 50 to 55 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 55 minutes
+
+
+SENTID: 7
+SENT: I would let pie cool before serving .
+PREDID: 425
+PRED: let
+   DOBJ: pie cool
+      NON-INGREDIENT SPAN: pie cool
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

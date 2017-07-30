@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a pie dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a pie dish
+      NON-INGREDIENT SPAN: a pie dish
+
+
+SENTID: 2
+SENT: I would beat pumpkin puree , the milk , the sweetener , egg substitute , vanilla extract , the cinnamon , the ginger , and nutmeg in a bowl until smooth ;
+PREDID: 53
+PRED: beat
+   DOBJ: pumpkin puree , the milk , the sweetener , egg substitute , vanilla extract , the cinnamon , the ginger , nutmeg in a bowl
+      INGREDIENT SPAN:  the sweetener 
+         INGREDIENTS: granular sucralose sweetener such Splenda
+      INGREDIENT SPAN: pumpkin puree 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  nutmeg in a bowl
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: skim milk
+      INGREDIENT SPAN:  egg substitute 
+         INGREDIENTS: egg substitute
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour into prepared pie dish .
+PREDID: 158
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared pie dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pie dish
+
+
+SENTID: 4
+SENT: I would bake in preheated oven until set , about 30 minutes .
+PREDID: 182
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven until set , about 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: preheated oven until set 
+
+

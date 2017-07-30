@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would soak the bread in warm water in a small bowl .
+PREDID: 41
+PRED: soak
+   DOBJ: the bread
+      INGREDIENT SPAN: the bread
+         INGREDIENTS: slices whole wheat bread
+   PARG: warm water in a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: warm water in a small bowl
+
+
+SENTID: 2
+SENT: I would place the beef in a large bowl .
+PREDID: 77
+PRED: place
+   DOBJ: the beef in a large bowl
+      INGREDIENT SPAN: the beef in a large bowl
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would drain bread and add to beef along with green onion , the onion , the salsa , Dijon mustard , Worcestershire sauce , the garlic , the salt and pepper .
+PREDID: 102
+PRED: drain
+   DOBJ: bread
+      NON-INGREDIENT SPAN: bread
+
+PREDID: 115
+PRED: add
+   DOBJ: NULL
+   OARG: to beef along with green onion , the onion , the salsa , dijon mustard , worcestershire sauce , the garlic , the salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: green onion chopped
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: to beef along with green onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: medium salsa
+      INGREDIENT SPAN:  dijon mustard 
+         INGREDIENTS: whole grain Dijon mustard
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would mix by hand until well blended .
+PREDID: 210
+PRED: mix
+   DOBJ: NULL
+   PARG: hand
+     PREP: by
+      NON-INGREDIENT SPAN: hand
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would form into a loaf and place in a greased loaf pan .
+PREDID: 236
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf, place in a greased loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN:  place in a greased loaf pan
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 6
+SENT: I would bake for 1 hour in the preheated oven .
+PREDID: 275
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven
+
+
+SENTID: 7
+SENT: I would drain off excess fat and top with barbeque -LRB- Diana -RRB- sauce .
+PREDID: 306
+PRED: drain
+   DOBJ: excess fat, top
+      NON-INGREDIENT SPAN: excess fat
+      NON-INGREDIENT SPAN:  top
+   PARG: barbeque -lrb- diana -rrb- sauce
+     PREP: with
+      INGREDIENT SPAN: barbeque -lrb- diana -rrb- sauce
+         INGREDIENTS: barbeque sauce
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 8
+SENT: I would return to the oven and bake for an additional 15 minutes .
+PREDID: 354
+PRED: return
+   DOBJ: NULL
+   PARG: the oven, bake for an additional 15 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+      NON-INGREDIENT SPAN:  bake for an additional 15 minutes
+
+

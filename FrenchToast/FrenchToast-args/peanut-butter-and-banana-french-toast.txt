@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a small bowl , I would lightly beat the egg and vanilla together .
+PREDID: 20
+PRED: beat
+   DOBJ: the egg, vanilla
+      INGREDIENT SPAN: the egg
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would spread 1 tablespoon of peanut butter on top of each slice of bread .
+PREDID: 49
+PRED: spread
+   DOBJ: 1 tablespoon of peanut butter
+      INGREDIENT SPAN: 1 tablespoon of peanut butter
+         INGREDIENTS: creamy peanut butter
+   PARG: top of each slice of bread
+     PREP: on
+      INGREDIENT SPAN: top of each slice of bread
+         INGREDIENTS: slices bread
+
+
+SENTID: 2
+SENT: I would place the banana slices on top of one of the slices of bread .
+PREDID: 104
+PRED: place
+   DOBJ: the banana slices
+      INGREDIENT SPAN: the banana slices
+         INGREDIENTS: small banana sliced
+   PARG: top of one of the slices of bread
+     PREP: on
+      NON-INGREDIENT SPAN: top of one of the slices of bread
+
+
+SENTID: 3
+SENT: I would place the other slice of bread on top of the first , to make a peanut butter and banana sandwich .
+PREDID: 153
+PRED: place
+   DOBJ: the other slice of bread
+      NON-INGREDIENT SPAN: the other slice of bread
+   PARG: top of the first
+     PREP: on
+      NON-INGREDIENT SPAN: top of the first
+   OARG: to make a peanut butter, banana sandwich
+      INGREDIENT SPAN: to make a peanut butter
+         INGREDIENTS: creamy peanut butter
+      NON-INGREDIENT SPAN:  banana sandwich
+
+
+SENTID: 4
+SENT: In a skillet or frying pan , I would melt the butter over medium heat .
+PREDID: 253
+PRED: melt
+   DOBJ: the butter over medium heat
+      INGREDIENT SPAN: the butter over medium heat
+         INGREDIENTS: butter
+   PARG: a skillet or frying pan
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet or frying pan
+
+
+SENTID: 5
+SENT: I would dip the sandwich into the egg mixture and place in the heated skillet .
+PREDID: 281
+PRED: dip
+   DOBJ: the sandwich
+      NON-INGREDIENT SPAN: the sandwich
+   PARG: the egg mixture, place in the heated skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+      NON-INGREDIENT SPAN:  place in the heated skillet
+
+
+SENTID: 6
+SENT: I would cook until brown on both sides .
+PREDID: 339
+PRED: cook
+   DOBJ: NULL
+   PARG: brown on both sides
+     PREP: until
+      NON-INGREDIENT SPAN: brown on both sides
+
+
+SENTID: 7
+SENT: I would serve hot .
+PREDID: 365
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

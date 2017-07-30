@@ -1,0 +1,53 @@
+digraph recipe {
+E0[label="combine (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="beat (S1,P63)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P81)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S3,P110)", shape=oval, style=filled, fillcolor=azure]
+E4[label="combine (S3,P132)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S4,P150)", shape=oval, style=filled, fillcolor=azure]
+E6[label="line (S5,P207)", shape=oval, style=filled, fillcolor=azure]
+E7[label="divide (S5,P248)", shape=oval, style=filled, fillcolor=azure]
+E8[label="bake (S6,P273)", shape=oval, style=filled, fillcolor=azure]
+D3[label="DOBJ: mashed bananas
+(text: the mashed banana)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D0[label="DOBJ: baking powder, white sugar, rolled oats, all-purpose flour, baking soda, salt
+(text: flour , oats , sugar , baking powder , soda , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D1[label="DOBJ: egg
+(text: the egg)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_ing[label="PREP: in vegetable oil, vanilla extract, milk
+(text: in  oil , the milk ,  vanilla)", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+O4_0_0[label="OTHER: thoroughly", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E0 -> E5 [label="OUTPUT: 
+INPUT: the flour mixture"]
+P5_0_0[label="PREP: into the banana mixture", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+O5_0_0[label="OTHER: until just combined", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E2 -> E6 [label="OUTPUT: 
+INPUT: a 12-cup muffin tin"]
+P6_0_0[label="PREP: with paper bake cups", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E4 -> E7 [label="OUTPUT: 
+INPUT: the batter"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: among them"]
+E5 -> E8 [label="OUTPUT: 
+INPUT: at 400 degrees F -LRB- 205 degrees C"]
+E7 -> E8 [label="OUTPUT: 
+INPUT: for 18 to 20 minutes"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

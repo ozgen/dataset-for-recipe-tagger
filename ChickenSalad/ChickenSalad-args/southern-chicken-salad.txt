@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: I would tO MAKE DRESSING :
+PREDID: 0
+PRED: to
+   DOBJ: MAKE DRESSING
+      NON-INGREDIENT SPAN: MAKE DRESSING
+
+
+SENTID: 1
+SENT: I would whisk the mayonnaise , green onions , the buttermilk , the dill and ground black pepper in a small bowl to blend -LRB- can be made 1 day ahead -RRB- .
+PREDID: 15
+PRED: whisk
+   DOBJ: the mayonnaise , green onions , the buttermilk , the dill, ground black pepper
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: minced green onions
+      INGREDIENT SPAN:  the dill
+         INGREDIENTS: sprigs fresh dill weed garnish
+      INGREDIENT SPAN:  the buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: to blend -lrb- can be made 1 day ahead
+      NON-INGREDIENT SPAN: to blend -lrb- can be made 1 day ahead
+
+
+SENTID: 2
+SENT: I would cover and chill .
+PREDID: 121
+PRED: cover and chill
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would tO MAKE SALAD :
+PREDID: 135
+PRED: to
+   DOBJ: MAKE SALAD
+      NON-INGREDIENT SPAN: MAKE SALAD
+
+
+SENTID: 4
+SENT: I would arrange the chicken in a heavy , medium size skillet .
+PREDID: 147
+PRED: arrange
+   DOBJ: the chicken in a heavy , medium size skillet
+      INGREDIENT SPAN: the chicken in a heavy 
+         INGREDIENTS: skinless boneless chicken breasts
+      NON-INGREDIENT SPAN:  medium size skillet
+
+
+SENTID: 5
+SENT: I would add the wine , the dill and ground black pepper .
+PREDID: 191
+PRED: add
+   DOBJ: the wine , the dill, ground black pepper
+      INGREDIENT SPAN:  the dill
+         INGREDIENTS: chopped fresh dill
+      INGREDIENT SPAN: the wine 
+         INGREDIENTS: dry white wine
+      NON-INGREDIENT SPAN:  ground black pepper
+
+
+SENTID: 6
+SENT: I would season with salt .
+PREDID: 227
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 7
+SENT: If necessary , I would add water to cover the chicken .
+PREDID: 254
+PRED: add
+   DOBJ: water
+      NON-INGREDIENT SPAN: water
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+   OARG: to cover the chicken
+      NON-INGREDIENT SPAN: to cover the chicken
+
+
+SENTID: 8
+SENT: I would simmer over medium low heat until chicken is just cooked through , turning once -LRB- about 11 minutes -RRB- .
+PREDID: 280
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium low heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium low heat
+   PARG: chicken is just cooked through , turning once -lrb- about 11 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is just cooked through 
+      NON-INGREDIENT SPAN:  turning once -lrb- about 11 minutes
+
+
+SENTID: 9
+SENT: I would transfer chicken to a plate and let cool .
+PREDID: 363
+PRED: transfer
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a plate
+     PREP: to
+      NON-INGREDIENT SPAN: a plate
+
+PREDID: 389
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 10
+SENT: I would cut chicken into 1/2 inch pieces .
+PREDID: 397
+PRED: cut
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: 1/2 inch pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch pieces
+
+
+SENTID: 11
+SENT: I would place in a large bowl .
+PREDID: 425
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 12
+SENT: I would add the grapes and the celery and mix in the dressing to thoroughly coat the mixture .
+PREDID: 443
+PRED: add
+   DOBJ: the grapes, the celery, mix
+      INGREDIENT SPAN: the grapes
+         INGREDIENTS: seedless grapes
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: sliced celery
+      NON-INGREDIENT SPAN:  mix
+   PARG: the dressing to thoroughly coat the mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the dressing to thoroughly coat the mixture
+
+
+SENTID: 13
+SENT: I would season with salt and pepper to taste .
+PREDID: 513
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 14
+SENT: I would cover and refrigerate for at least 20 minutes to develop the flavors .
+PREDID: 544
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: at least 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: at least 20 minutes
+   OARG: to develop the flavors
+      NON-INGREDIENT SPAN: to develop the flavors
+
+
+SENTID: 15
+SENT: -LRB- Can be prepared up to 3 hours ahead -RRB- .
+
+SENTID: 16
+SENT: I would arrange the lettuce leaves on plates , mound on the salad and sprinkle with nuts .
+PREDID: 602
+PRED: arrange leaves
+   DOBJ: the lettuce
+      INGREDIENT SPAN: the lettuce
+         INGREDIENTS: leaves red leaf lettuce rinsed
+   PARG: plates , mound on the salad
+     PREP: on
+      NON-INGREDIENT SPAN:  mound on the salad
+      NON-INGREDIENT SPAN: plates 
+
+PREDID: 652
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: nuts
+     PREP: with
+      NON-INGREDIENT SPAN: nuts
+
+
+SENTID: 17
+SENT: I would garnish with fresh dill and serve .
+PREDID: 669
+PRED: garnish
+   DOBJ: NULL
+   PARG: fresh dill
+     PREP: with
+      INGREDIENT SPAN: fresh dill
+         INGREDIENTS: sprig fresh dill weed
+
+

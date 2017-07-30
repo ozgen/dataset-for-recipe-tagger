@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray 16 muffin cups with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: 16 muffin cups
+      NON-INGREDIENT SPAN: 16 muffin cups
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray such Baker Joy
+
+
+SENTID: 2
+SENT: I would sift all-purpose flour , whole wheat flour , baking powder , baking soda , and salt together in a large bowl .
+PREDID: 72
+PRED: sift
+   DOBJ: all-purpose flour , whole wheat flour , baking powder , baking soda , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: all-purpose flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  whole wheat flour 
+         INGREDIENTS: whole wheat flour
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would mix bananas , white sugar , canola oil , brown sugar , and egg together in a separate large bowl ;
+PREDID: 161
+PRED: mix
+   DOBJ: bananas , white sugar , canola oil , brown sugar , egg
+      INGREDIENT SPAN:  canola oil 
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: bananas mashed
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: a separate large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would fold banana mixture into flour mixture until just incorporated .
+PREDID: 239
+PRED: fold
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: just incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: just incorporated
+
+
+SENTID: 5
+SENT: I would scoop batter into prepared muffin cups .
+PREDID: 294
+PRED: scoop
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until muffins spring back when lightly tapped in the middle , 14 to 16 minutes .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: muffins spring back when lightly tapped in the middle , 14 to 16 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  14 to 16 minutes
+      NON-INGREDIENT SPAN: muffins spring back when lightly tapped in the middle 
+
+

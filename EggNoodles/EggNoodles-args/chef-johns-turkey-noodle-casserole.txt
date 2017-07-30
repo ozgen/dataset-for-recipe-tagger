@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook egg noodles in boiling water , stirring occasionally until almost cooked through and still firm to the bite , about 4 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: egg noodles
+   PARG: boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water
+   OARG: stirring occasionally until almost cooked through, still firm to the bite , about 4 minutes
+      INGREDIENT SPAN: stirring occasionally until almost cooked through
+         INGREDIENTS: cubed skinless cooked turkey
+      NON-INGREDIENT SPAN:  about 4 minutes
+      NON-INGREDIENT SPAN:  still firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 189
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would melt butter in a large saucepan over medium heat .
+PREDID: 195
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 5
+SENT: I would whisk in flour ;
+PREDID: 236
+PRED: whisk
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: flour
+
+
+SENTID: 6
+SENT: I would cook , stirring , until mixture is light golden , about 3 minutes .
+
+SENTID: 7
+SENT: I would pour milk into butter and flour mixture , whisking constantly .
+PREDID: 249
+PRED: pour
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: cold milk
+   PARG: butter, flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN:  flour mixture
+      NON-INGREDIENT SPAN: butter
+   OARG: whisking constantly
+      NON-INGREDIENT SPAN: whisking constantly
+
+
+SENTID: 8
+SENT: I would stir in cream of mushroom soup , red bell pepper , green bell pepper , green onions , garam masala , and dried tarragon .
+PREDID: 302
+PRED: stir
+   DOBJ: NULL
+   PARG: cream of mushroom soup , red bell pepper , green bell pepper , green onions , garam masala , dried tarragon
+     PREP: in
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: diced red bell pepper
+      INGREDIENT SPAN: cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  dried tarragon
+         INGREDIENTS: dried tarragon
+      INGREDIENT SPAN:  garam masala 
+         INGREDIENTS: garam masala
+
+
+SENTID: 9
+SENT: I would bring mixture to a simmer , cook for 2 minutes .
+PREDID: 399
+PRED: bring
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a simmer , cook for 2 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  cook for 2 minutes
+      NON-INGREDIENT SPAN: a simmer 
+
+
+SENTID: 10
+SENT: I would remove from heat .
+PREDID: 437
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 11
+SENT: I would stir in pepperjack cheese until cheese is melted and incorporated .
+PREDID: 452
+PRED: stir
+   DOBJ: NULL
+   PARG: pepperjack cheese
+     PREP: in
+      INGREDIENT SPAN: pepperjack cheese
+         INGREDIENTS: shredded pepperjack cheese
+   PARG: cheese is melted, incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+      NON-INGREDIENT SPAN:  incorporated
+
+
+SENTID: 12
+SENT: I would stir pepperjack cheese mixture , turkey meat , and noodles in a large bowl until evenly incorporated .
+PREDID: 509
+PRED: stir
+   DOBJ: pepperjack cheese mixture , turkey meat , noodles in a large bowl
+      NON-INGREDIENT SPAN: pepperjack cheese mixture 
+      NON-INGREDIENT SPAN:  noodles in a large bowl
+      NON-INGREDIENT SPAN:  turkey meat 
+   PARG: evenly incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly incorporated
+
+
+SENTID: 13
+SENT: I would pour mixture into a large casserole dish .
+PREDID: 594
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a large casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a large casserole dish
+
+
+SENTID: 14
+SENT: I would sprinkle chips on top , pressing down slightly with the tines of a fork .
+PREDID: 629
+PRED: sprinkle
+   DOBJ: chips on top , pressing down slightly with the tines of a fork
+      INGREDIENT SPAN: chips on top 
+         INGREDIENTS: crushed potato chips
+      NON-INGREDIENT SPAN:  pressing down slightly with the tines of a fork
+
+
+SENTID: 15
+SENT: I would bake in the preheated oven until casserole top is golden brown and sauce is bubbling , about 30 minutes .
+PREDID: 688
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole top is golden brown, sauce is bubbling , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  sauce is bubbling 
+      NON-INGREDIENT SPAN: casserole top is golden brown
+      NON-INGREDIENT SPAN:  about 30 minutes
+
+

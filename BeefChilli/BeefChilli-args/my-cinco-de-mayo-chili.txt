@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would heat a large stock pot over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large stock pot
+      NON-INGREDIENT SPAN: a large stock pot
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef and pork in the pot until completely browned , about 10 minutes .
+PREDID: 33
+PRED: cook and stir
+   DOBJ: beef, pork
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  pork
+         INGREDIENTS: ground pork
+   PARG: the pot until completely browned , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the pot until completely browned 
+
+
+SENTID: 2
+SENT: I would drain as much grease from the meat mixture as you can and return pot to heat .
+PREDID: 101
+PRED: drain
+   DOBJ: NULL
+   PARG: much grease from the meat mixture
+     PREP: as
+      NON-INGREDIENT SPAN: much grease from the meat mixture
+   PARG: you can
+     PREP: as
+      NON-INGREDIENT SPAN: you can
+
+PREDID: 147
+PRED: return
+   DOBJ: pot
+      NON-INGREDIENT SPAN: pot
+   PARG: heat
+     PREP: to
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 3
+SENT: I would stir sweet onions , green onions , and garlic through the meat mixture ;
+PREDID: 163
+PRED: stir
+   DOBJ: sweet onions , green onions , garlic
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: large sweet onions diced
+      INGREDIENT SPAN: sweet onions 
+         INGREDIENTS: large green onions chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the meat mixture
+     PREP: through
+      NON-INGREDIENT SPAN: the meat mixture
+
+
+SENTID: 4
+SENT: I would cook and stir until the onions are translucent , 5 to 7 minutes .
+PREDID: 222
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onions are translucent , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are translucent 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+
+SENTID: 5
+SENT: I would stir tomatoes , the beer , chili powder , the cumin , chile peppers , corn meal , ancho chile pepper , the tequila , jalapeno pepper , cocoa powder , and salt into the meat mixture .
+PREDID: 274
+PRED: stir
+   DOBJ: tomatoes , the beer , chili powder , the cumin , chile peppers , corn meal , ancho chile pepper , the tequila , jalapeno pepper , cocoa powder , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: slices pickled jalapeno pepper chopped
+      INGREDIENT SPAN:  the tequila 
+         INGREDIENTS: fluid ounce jigger tequila
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  corn meal 
+         INGREDIENTS: corn meal
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  ancho chile pepper 
+         INGREDIENTS: large dried ancho chile pepper
+      INGREDIENT SPAN:  chile peppers 
+         INGREDIENTS: fireroasted diced green chile peppers
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce fireroasted diced tomatoes
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+
+
+SENTID: 6
+SENT: I would bring the mixture to a simmer and cook until the tomatoes are dissolving into the liquid , 1 to 2 hours .
+PREDID: 410
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 437
+PRED: cook
+   DOBJ: NULL
+   PARG: the tomatoes are dissolving into the liquid , 1 to 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: the tomatoes are dissolving into the liquid 
+      NON-INGREDIENT SPAN:  1 to 2 hours
+
+
+SENTID: 7
+SENT: I would stir corn and black beans into the chili ;
+PREDID: 494
+PRED: stir
+   DOBJ: corn, black beans
+      INGREDIENT SPAN:  black beans
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN: corn
+         INGREDIENTS: frozen fireroasted corn
+   PARG: the chili
+     PREP: into
+      NON-INGREDIENT SPAN: the chili
+
+
+SENTID: 8
+SENT: I would continue cooking until hot , 10 to 15 minutes .
+PREDID: 528
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: hot , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: hot 
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+
+

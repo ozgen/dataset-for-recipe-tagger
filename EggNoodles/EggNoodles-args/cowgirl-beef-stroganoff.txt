@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would stir golden mushroom soup , the water , the onion , Worcestershire sauce , and onion soup mix together in a slow cooker ;
+PREDID: 0
+PRED: stir
+   DOBJ: golden mushroom soup , the water , the onion , Worcestershire sauce , onion soup mix
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: ounce package dry onion soup mix
+      INGREDIENT SPAN:  onion soup mix
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: ounce water
+      INGREDIENT SPAN: golden mushroom soup 
+         INGREDIENTS: ounce golden mushroom soup such Campbell
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add beef and stir to coat .
+PREDID: 92
+PRED: add
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: cubed beef stew meat trimmed
+
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would cook on Low for 6 hours .
+PREDID: 113
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 6 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 6 hours
+
+
+SENTID: 3
+SENT: I would stir cream cheese and sour cream into the beef mixture .
+PREDID: 132
+PRED: stir
+   DOBJ: cream cheese, sour cream
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese
+   PARG: the beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 4
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 178
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 5
+SENT: I would cook and stir mushrooms in melted butter until tender , 3 to 5 minutes ;
+PREDID: 213
+PRED: cook and stir
+   DOBJ: mushrooms in melted butter
+      INGREDIENT SPAN: mushrooms in melted butter
+         INGREDIENTS: ounce package sliced fresh mushrooms
+   PARG: tender , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 6
+SENT: I would add to beef mixture .
+PREDID: 271
+PRED: add
+   DOBJ: NULL
+   OARG: to beef mixture
+      NON-INGREDIENT SPAN: to beef mixture
+
+
+SENTID: 7
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 288
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 8
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 330
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 9
+SENT: I would drain .
+PREDID: 431
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would ladle beef mixture over noodles to serve .
+PREDID: 437
+PRED: ladle
+   DOBJ: beef mixture over noodles
+      NON-INGREDIENT SPAN: beef mixture over noodles
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

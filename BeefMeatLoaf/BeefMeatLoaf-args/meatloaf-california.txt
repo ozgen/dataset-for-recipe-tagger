@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line a 9x13 inch baking pan with aluminum foil .
+PREDID: 38
+PRED: line
+   DOBJ: a 9x13 inch baking pan
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 2
+SENT: In a large bowl , I would mix the beef , the onion , green bell pepper , the celery , the eggs , soy sauce , and ketchup .
+PREDID: 90
+PRED: mix
+   DOBJ: the beef , the onion , green bell pepper , the celery , the eggs , soy sauce , ketchup
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would season with basil , the parsley , the oregano , garlic powder , and 2 teaspoons pepper .
+PREDID: 155
+PRED: season
+   DOBJ: NULL
+   PARG: basil , the parsley , the oregano , garlic powder , 2 teaspoons pepper
+     PREP: with
+      INGREDIENT SPAN: basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  2 teaspoons pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+
+
+SENTID: 4
+SENT: I would mix in 1/2 cup oats .
+PREDID: 220
+PRED: mix
+   DOBJ: NULL
+   PARG: 1/2 cup oats
+     PREP: in
+      INGREDIENT SPAN: 1/2 cup oats
+         INGREDIENTS: quick cooking oats needed
+
+
+SENTID: 5
+SENT: Gradually mix in remaining oats 1/4 cup at a time until the beef mixture is firm but not stiff .
+
+SENTID: 6
+SENT: I would transfer to the prepared baking pan , and form into a loaf shape .
+PREDID: 236
+PRED: transfer
+   DOBJ: NULL
+   PARG: the prepared baking pan
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking pan
+
+PREDID: 270
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+
+SENTID: 7
+SENT: In a small bowl , I would mix the brown sugar , the ketchup , brown mustard , mesquite smoke flavoring , 1/2 teaspoon pepper , and paprika .
+PREDID: 302
+PRED: mix
+   DOBJ: the brown sugar , the ketchup , brown mustard , mesquite smoke flavoring , 1/2 teaspoon pepper , paprika
+      INGREDIENT SPAN:  1/2 teaspoon pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  mesquite smoke flavoring 
+         INGREDIENTS: liquid mesquite smoke flavoring
+      INGREDIENT SPAN:  brown mustard 
+         INGREDIENTS: brown mustard
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  the ketchup 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 8
+SENT: I would drizzle evenly over the meat loaf .
+PREDID: 392
+PRED: drizzle
+   DOBJ: NULL
+   PARG: the meat loaf
+     PREP: over
+      NON-INGREDIENT SPAN: the meat loaf
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 9
+SENT: I would bake meat loaf 1 hour in the preheated oven , or to a minimum temperature of 160 degrees F -LRB- 72 degrees F -RRB- .
+PREDID: 421
+PRED: bake
+   DOBJ: meat loaf
+      NON-INGREDIENT SPAN: meat loaf
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   OARG: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

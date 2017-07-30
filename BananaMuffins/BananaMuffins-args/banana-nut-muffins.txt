@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray muffin tins with non-stick cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: muffin tins
+      NON-INGREDIENT SPAN: muffin tins
+   PARG: non-stick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: non-stick cooking spray
+
+
+SENTID: 2
+SENT: In large bowl , I would stir together flour , baking powder , the soda , and salt .
+PREDID: 91
+PRED: stir
+   DOBJ: flour , baking powder , the soda , salt
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the soda 
+         INGREDIENTS: baking soda
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: In a medium bowl , I would beat egg whites slightly .
+PREDID: 149
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 4
+SENT: I would stir in bananas , the sugar , the oil , and lemon peel .
+PREDID: 171
+PRED: stir
+   DOBJ: NULL
+   PARG: bananas , the sugar , the oil , lemon peel
+     PREP: in
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: mashed bananas
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  lemon peel
+
+
+SENTID: 5
+SENT: I would add to flour mixture , stirring just until combined .
+PREDID: 208
+PRED: add
+   DOBJ: NULL
+   PARG: flour mixture
+     PREP: to
+      NON-INGREDIENT SPAN: flour mixture
+   OARG: stirring just until combined
+      NON-INGREDIENT SPAN: stirring just until combined
+
+
+SENTID: 6
+SENT: I would stir in walnuts .
+PREDID: 252
+PRED: stir
+   DOBJ: NULL
+   PARG: walnuts
+     PREP: in
+      INGREDIENT SPAN: walnuts
+         INGREDIENTS: chopped walnuts
+
+
+SENTID: 7
+SENT: I would fill muffin pan cups 2/3 full .
+PREDID: 266
+PRED: fill pan
+   DOBJ: muffin
+      NON-INGREDIENT SPAN: muffin
+   OARG: cups 2/3 full
+      NON-INGREDIENT SPAN: cups 2/3 full
+
+
+SENTID: 8
+SENT: I would bake for about 20 to 25 minutes , or until tops are lightly browned .
+PREDID: 291
+PRED: bake
+   DOBJ: NULL
+   PARG: about 20 to 25 minutes , or until tops are lightly browned
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 to 25 minutes 
+      NON-INGREDIENT SPAN:  or until tops are lightly browned
+
+
+SENTID: 9
+SENT: I would remove muffins from pan .
+PREDID: 346
+PRED: remove
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+

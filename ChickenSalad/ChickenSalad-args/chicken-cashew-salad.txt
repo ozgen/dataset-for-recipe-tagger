@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: seashell pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain and rinse with cold water .
+PREDID: 87
+PRED: drain and rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 3
+SENT: In large bowl , I would combine brown sugar , salad dressing , lemon juice , the vinegar and salt .
+PREDID: 126
+PRED: combine
+   DOBJ: brown sugar , salad dressing , lemon juice , the vinegar, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: creamy salad dressing Whip
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 4
+SENT: I would toss the dressing mixture with cooked pasta , the celery , green pepper , the onion and chicken .
+PREDID: 184
+PRED: toss
+   DOBJ: the dressing mixture
+      NON-INGREDIENT SPAN: the dressing mixture
+   PARG: cooked pasta , the celery , green pepper , the onion, chicken
+     PREP: with
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: cooked pasta 
+         INGREDIENTS: boneless chicken breast halves cooked cut bitesized
+      NON-INGREDIENT SPAN:  chicken
+
+
+SENTID: 5
+SENT: I would chill until ready to serve .
+PREDID: 254
+PRED: chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+
+SENTID: 6
+SENT: I would mix in cashews just before serving .
+PREDID: 277
+PRED: mix
+   DOBJ: NULL
+   PARG: cashews
+     PREP: in
+      INGREDIENT SPAN: cashews
+         INGREDIENTS: cashew halves
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

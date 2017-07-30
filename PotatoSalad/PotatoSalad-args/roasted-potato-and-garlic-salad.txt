@@ -1,0 +1,303 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would place 1/2 cup of olive oil in a large bowl .
+PREDID: 38
+PRED: place
+   DOBJ: 1/2 cup of olive oil
+      INGREDIENT SPAN: 1/2 cup of olive oil
+         INGREDIENTS: olive oil
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would toss the cubed potatoes in the oil until coated , and
+PREDID: 72
+PRED: toss
+   DOBJ: the cubed potatoes in the oil
+      INGREDIENT SPAN: the in the oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: the cubed potatoes in the oil
+         INGREDIENTS: red potatoes unpeeled scrubbed cubed
+   PARG: coated , and
+     PREP: until
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN: coated 
+
+
+SENTID: 3
+SENT: I would spread them evenly on a baking sheet .
+PREDID: 115
+PRED: spread
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   OARG: evenly on a baking sheet
+      NON-INGREDIENT SPAN: evenly on a baking sheet
+
+
+SENTID: 4
+SENT: I would pass the red peppers through the bowl of oil , making sure they are evenly coated .
+PREDID: 146
+PRED: pass
+   DOBJ: the red peppers
+      INGREDIENT SPAN: the red peppers
+         INGREDIENTS: red bell peppers
+   PARG: the bowl of oil
+     PREP: through
+      NON-INGREDIENT SPAN: the bowl of oil
+   OARG: making sure they are evenly coated
+      NON-INGREDIENT SPAN: making sure they are evenly coated
+
+
+SENTID: 5
+SENT: I would place on a separate baking sheet .
+PREDID: 213
+PRED: place
+   DOBJ: NULL
+   PARG: a separate baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a separate baking sheet
+
+
+SENTID: 6
+SENT: I would cut about 1/2 inch off the tops of the garlic and drizzle with the remaining oil from the bowl .
+PREDID: 241
+PRED: cut
+   DOBJ: about 1/2
+      NON-INGREDIENT SPAN: about 1/2
+
+PREDID: 252
+PRED: inch
+   DOBJ: the tops of the garlic
+      INGREDIENT SPAN: the tops of the garlic
+         INGREDIENTS: medium heads garlic
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 280
+PRED: drizzle
+   DOBJ: NULL
+   PARG: the remaining oil from the bowl
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining oil from the bowl
+
+
+SENTID: 7
+SENT: I would place on the baking sheet with the red peppers .
+PREDID: 318
+PRED: place
+   DOBJ: NULL
+   PARG: the baking sheet with the red peppers
+     PREP: on
+      INGREDIENT SPAN: the baking sheet with the red peppers
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 8
+SENT: I would sprinkle the potatoes , peppers and garlic with salt and pepper , and
+PREDID: 357
+PRED: sprinkle
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: peppers, garlic with salt, pepper
+      NON-INGREDIENT SPAN: peppers
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  garlic with salt
+
+
+SENTID: 9
+SENT: I would place both sheets in the oven for about 20 minutes .
+PREDID: 414
+PRED: place
+   DOBJ: both sheets
+      NON-INGREDIENT SPAN: both sheets
+   PARG: the oven for about 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the oven for about 20 minutes
+
+
+SENTID: 10
+SENT: I would check the potatoes :
+PREDID: 456
+PRED: check
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+
+SENTID: 11
+SENT: they should be soft , brown and crispy .
+
+SENTID: 12
+SENT: If not , return them to the oven for an additional 10 minutes or until they are done .
+
+SENTID: 13
+SENT: The peppers and garlic will take longer , and are done when the skins on the peppers are black and garlic is dark brown -LRB- no more than 40 minutes total -RRB- .
+
+SENTID: 14
+SENT: Once everything has been roasted , place the potatoes in a large bowl and seal the peppers in a plastic bag to let them steam for 10 minutes .
+PREDID: 501
+PRED: roasted and place
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: everything has been i
+     PREP: once
+      NON-INGREDIENT SPAN: everything has been i
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 540
+PRED: seal
+   DOBJ: the peppers in a plastic bag
+      NON-INGREDIENT SPAN: the peppers in a plastic bag
+   OARG: to let them steam for 10 minutes
+      NON-INGREDIENT SPAN: to let them steam for 10 minutes
+
+
+SENTID: 15
+SENT: -LRB- This will loosen their skins .
+
+SENTID: 16
+SENT: -RRB-
+
+SENTID: 17
+SENT: I would take the peppers out of the bag , remove their skins and seeds and chop them up .
+PREDID: 613
+PRED: take
+   DOBJ: the peppers
+      NON-INGREDIENT SPAN: the peppers
+   PARG: of the bag
+     PREP: out
+      NON-INGREDIENT SPAN: of the bag
+
+PREDID: 639
+PRED: remove
+   DOBJ: their skins, seeds
+      NON-INGREDIENT SPAN: their skins
+      NON-INGREDIENT SPAN:  seeds
+
+PREDID: 666
+PRED: chop
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 18
+SENT: I would add to the bowl with the potatoes and stir to mix .
+PREDID: 677
+PRED: add
+   DOBJ: NULL
+   PARG: the bowl with the potatoes
+     PREP: to
+      NON-INGREDIENT SPAN: the bowl with the potatoes
+
+PREDID: 707
+PRED: stir
+   DOBJ: NULL
+   OARG: to mix
+      NON-INGREDIENT SPAN: to mix
+
+
+SENTID: 19
+SENT: I would turn the garlic heads upside down and squeeze the softened garlic past into a separate , small bowl .
+PREDID: 717
+PRED: turn
+   DOBJ: the garlic heads
+      NON-INGREDIENT SPAN: the garlic heads
+   OARG: upside down
+      NON-INGREDIENT SPAN: upside down
+
+PREDID: 748
+PRED: squeeze
+   DOBJ: the softened garlic past
+      NON-INGREDIENT SPAN: the softened garlic past
+   PARG: a separate , small bowl
+     PREP: into
+      NON-INGREDIENT SPAN:  small bowl
+      NON-INGREDIENT SPAN: a separate 
+
+
+SENTID: 20
+SENT: I would mix in the balsamic vinegar , 1/3 cup olive oil and oregano until smooth .
+PREDID: 800
+PRED: mix
+   DOBJ: NULL
+   PARG: the balsamic vinegar , 1/3 cup olive oil, oregano
+     PREP: in
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: the balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      NON-INGREDIENT SPAN:  1/3 cup olive oil
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 21
+SENT: I would pour the dressing onto the potatoes and peppers and toss to coat .
+PREDID: 860
+PRED: pour
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: the potatoes, peppers
+     PREP: onto
+      NON-INGREDIENT SPAN: the potatoes
+      NON-INGREDIENT SPAN:  peppers
+
+PREDID: 903
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 22
+SENT: I would season to taste with additional salt and pepper .
+PREDID: 914
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with additional salt, pepper
+      NON-INGREDIENT SPAN: to taste with additional salt
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 23
+SENT: I would best when served warm or at room temperature .
+
+SENTID: 24
+SENT: To prepare in advance for an occasion , refrigerate and
+PREDID: 957
+PRED: prepare
+   DOBJ: NULL
+   PARG: advance for an occasion , refrigerate and
+     PREP: in
+      NON-INGREDIENT SPAN: advance for an occasion 
+      NON-INGREDIENT SPAN:  refrigerate and
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 25
+SENT: I would reheat in the microwave just until warmed through .
+PREDID: 1001
+PRED: reheat
+   DOBJ: NULL
+   PARG: the microwave
+     PREP: in
+      NON-INGREDIENT SPAN: the microwave
+   OARG: just until warmed through
+      NON-INGREDIENT SPAN: just until warmed through
+
+

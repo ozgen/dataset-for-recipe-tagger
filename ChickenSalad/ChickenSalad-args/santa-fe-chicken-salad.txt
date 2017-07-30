@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: In a gallon size plastic bag or 9x9 baking dish , mix together the mayonnaise and Italian dressing .
+PREDID: 46
+PRED: mix
+   DOBJ: the mayonnaise, Italian dressing
+      INGREDIENT SPAN:  Italian dressing
+         INGREDIENTS: Italianstyle salad dressing
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a gallon size plastic bag or i would 9x9 baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a gallon size plastic bag or i would 9x9 baking dish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place chicken in mixture and marinate overnight in the refrigerator .
+PREDID: 82
+PRED: place
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breasts
+   PARG: mixture
+     PREP: in
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 106
+PRED: marinate
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 2
+SENT: I would chop , wash , and dry the iceberg and romaine lettuce .
+PREDID: 141
+PRED: chop and wash
+   DOBJ: the iceberg, romaine lettuce
+      INGREDIENT SPAN: the iceberg
+         INGREDIENTS: head iceberg lettuce
+      INGREDIENT SPAN:  romaine lettuce
+         INGREDIENTS: head romaine lettuce rinsed dried
+
+
+SENTID: 3
+SENT: I would mix and divide among four dinner-size plates .
+PREDID: 185
+PRED: mix and divide
+   DOBJ: NULL
+   PARG: four dinner-size plates
+     PREP: among
+      NON-INGREDIENT SPAN: four dinner-size plates
+
+
+SENTID: 4
+SENT: I would divide and place the tomato and green onions among the plates .
+PREDID: 224
+PRED: divide and place
+   DOBJ: the tomato, green onions
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunches green onions chopped
+      INGREDIENT SPAN: the tomato
+         INGREDIENTS: large tomato chopped
+   PARG: the plates
+     PREP: among
+      NON-INGREDIENT SPAN: the plates
+
+
+SENTID: 5
+SENT: I would sprinkle the top of each salad with shredded cheese .
+PREDID: 276
+PRED: sprinkle
+   DOBJ: the top of each salad
+      INGREDIENT SPAN: the top of each salad
+         INGREDIENTS: ranchstyle salad dressing
+   PARG: shredded cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded Cheddar Monterey cheese blend
+
+
+SENTID: 6
+SENT: I would remove chicken from marinade and grill or broil until cooked .
+PREDID: 320
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: marinade, grill or broil until cooked
+     PREP: from
+      NON-INGREDIENT SPAN: marinade
+      NON-INGREDIENT SPAN:  grill or broil until cooked
+
+
+SENTID: 7
+SENT: While chicken is cooking , I would cut tortillas into three thick strips and cut each strip into ` matchsticks ' .
+PREDID: 394
+PRED: cut
+   DOBJ: tortillas
+      INGREDIENT SPAN: tortillas
+         INGREDIENTS: inch flour tortillas
+   PARG: chicken is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: chicken is cooking
+   PARG: three thick strips
+     PREP: into
+      NON-INGREDIENT SPAN: three thick strips
+
+PREDID: 429
+PRED: cut
+   DOBJ: each strip
+      NON-INGREDIENT SPAN: each strip
+   PARG: matchsticks
+     PREP: into
+      NON-INGREDIENT SPAN: matchsticks
+
+
+SENTID: 8
+SENT: I would place on a cookie sheet and put under broiler until golden brown .
+PREDID: 459
+PRED: place
+   DOBJ: NULL
+   PARG: a cookie sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a cookie sheet
+
+PREDID: 481
+PRED: put
+   DOBJ: NULL
+   PARG: broiler
+     PREP: under
+      NON-INGREDIENT SPAN: broiler
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 9
+SENT: I would let cool .
+PREDID: 513
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 10
+SENT: I would cut the chicken into strips and divide among plates .
+PREDID: 521
+PRED: cut
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+PREDID: 547
+PRED: divide
+   DOBJ: NULL
+   PARG: plates
+     PREP: among
+      NON-INGREDIENT SPAN: plates
+
+
+SENTID: 11
+SENT: I would top with tortilla ` crispies ' .
+PREDID: 565
+PRED: top
+   DOBJ: NULL
+   PARG: tortilla ` crispies
+     PREP: with
+      NON-INGREDIENT SPAN: tortilla ` crispies
+
+
+SENTID: 12
+SENT: To prepare the dressing , combine the salsa and ranch dressing in a blender and mix until smooth .
+PREDID: 593
+PRED: prepare
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 612
+PRED: combine
+   DOBJ: the salsa, ranch dressing in a blender
+      INGREDIENT SPAN: the salsa
+         INGREDIENTS: salsa
+      NON-INGREDIENT SPAN:  ranch dressing in a blender
+
+PREDID: 656
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 13
+SENT: I would pour over each salad .
+PREDID: 671
+PRED: pour
+   DOBJ: each salad
+      NON-INGREDIENT SPAN: each salad
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

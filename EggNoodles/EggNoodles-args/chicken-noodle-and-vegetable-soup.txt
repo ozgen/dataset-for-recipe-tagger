@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: I would mix broth , onion powder , the basil , garlic powder and vegetables in saucepan .
+PREDID: 0
+PRED: mix
+   DOBJ: broth , onion powder , the basil , garlic powder, vegetables
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil leaves crushed
+      INGREDIENT SPAN:  vegetables
+         INGREDIENTS: ounce package frozen mixed vegetables
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: fluid ounce Swanson Chicken Broth
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+   PARG: saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: saucepan
+
+
+SENTID: 1
+SENT: I would heat to a boil .
+PREDID: 63
+PRED: heat
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would stir in noodles .
+PREDID: 75
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles
+     PREP: in
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: uncooked medium egg noodles
+
+
+SENTID: 3
+SENT: I would cook 5 minutes or until noodles are done .
+PREDID: 89
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes or until noodles are done
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes or until noodles are done
+
+

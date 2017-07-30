@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would heat a large stock pot over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large stock pot
+      NON-INGREDIENT SPAN: a large stock pot
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would crumble the ground chuck and sausage into the hot pan , and cook until evenly browned .
+PREDID: 38
+PRED: crumble
+   DOBJ: the ground chuck, sausage
+      INGREDIENT SPAN:  sausage
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN: the ground chuck
+         INGREDIENTS: ground beef chuck
+   PARG: the hot pan
+     PREP: into
+      NON-INGREDIENT SPAN: the hot pan
+
+PREDID: 86
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+
+SENTID: 2
+SENT: I would drain off excess grease .
+PREDID: 109
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would pour in the chili beans , spicy chili beans , diced tomatoes and tomato paste .
+PREDID: 130
+PRED: pour
+   DOBJ: NULL
+   PARG: the chili beans , spicy chili beans , diced tomatoes, tomato paste
+     PREP: in
+      INGREDIENT SPAN: the chili beans 
+         INGREDIENTS: ounce chili beans spicy sauce
+      INGREDIENT SPAN:  diced tomatoes
+         INGREDIENTS: ounce diced tomatoes juice
+      INGREDIENT SPAN:  spicy chili beans 
+         INGREDIENTS: ounce chili beans drained
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 4
+SENT: I would add the onion , the celery , green and red bell peppers , chile peppers , bacon bits , the bouillon , and beer .
+PREDID: 194
+PRED: add
+   DOBJ: the onion , the celery , green, red bell peppers , chile peppers , bacon bits , the bouillon , beer
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: large yellow onion chopped
+      INGREDIENT SPAN:  bacon bits 
+         INGREDIENTS: bacon bits
+      INGREDIENT SPAN:  red bell peppers 
+         INGREDIENTS: green bell pepper seeded chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  beer
+         INGREDIENTS: beer
+      INGREDIENT SPAN:  the bouillon 
+         INGREDIENTS: cubes beef bouillon
+      INGREDIENT SPAN:  chile peppers 
+         INGREDIENTS: green chile peppers seeded chopped
+      NON-INGREDIENT SPAN:  green
+
+
+SENTID: 5
+SENT: I would season with chili powder , Worcestershire sauce , the garlic , the oregano , the cumin , hot pepper sauce , the basil , the salt , the pepper , the cayenne , the paprika , and sugar .
+PREDID: 276
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , worcestershire sauce , the garlic , the oregano , the cumin , hot pepper sauce , the basil , the salt , the pepper , the cayenne , the paprika , sugar
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the cayenne 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 6
+SENT: I would stir to blend ,
+PREDID: 397
+PRED: stir
+   DOBJ: NULL
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+
+SENTID: 7
+SENT: I would cover and simmer over low heat for at least 2 hours , stirring occasionally .
+PREDID: 409
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: low heat for at least 2 hours
+     PREP: over
+      NON-INGREDIENT SPAN: low heat for at least 2 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 8
+SENT: After 2 hours , I would taste , and adjust salt , the pepper , and chili powder if necessary .
+PREDID: 484
+PRED: taste
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: after
+      NON-INGREDIENT SPAN: 2 hours
+
+PREDID: 493
+PRED: adjust
+   DOBJ: salt , the pepper , chili powder if necessary
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: red bell pepper seeded chopped
+      NON-INGREDIENT SPAN:  chili powder if necessary
+      NON-INGREDIENT SPAN: salt 
+
+
+SENTID: 9
+SENT: The longer the chili simmers , the better it will taste .
+
+SENTID: 10
+SENT: I would remove from heat and serve , or refrigerate , and serve the next day .
+PREDID: 537
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 554
+PRED: serve
+   DOBJ: NULL
+   OARG: the next day
+      NON-INGREDIENT SPAN: the next day
+
+
+SENTID: 11
+SENT: To serve , ladle into bowls , and top with corn chips and shredded Cheddar cheese .
+PREDID: 595
+PRED: serve and ladle
+   DOBJ: NULL
+   PARG: bowls
+     PREP: into
+      NON-INGREDIENT SPAN: bowls
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 619
+PRED: top
+   DOBJ: NULL
+   PARG: corn chips, shredded cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: corn chips
+         INGREDIENTS: ounce bag corn chips such Fritos
+      INGREDIENT SPAN:  shredded cheddar cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese
+
+

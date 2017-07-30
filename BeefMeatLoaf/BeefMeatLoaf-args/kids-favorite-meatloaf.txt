@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the ketchup , brown sugar and mustard and mix well .
+PREDID: 13
+PRED: combine
+   DOBJ: the ketchup , brown sugar, mustard, mix
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  mix
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 1
+SENT: I would remove 4 tablespoons of this mixture and reserve for later for the top of the loaves .
+PREDID: 62
+PRED: remove
+   DOBJ: 4 tablespoons of this mixture, reserve for later
+      NON-INGREDIENT SPAN: 4 tablespoons of this mixture
+      NON-INGREDIENT SPAN:  reserve for later
+   PARG: the top of the loaves
+     PREP: for
+      NON-INGREDIENT SPAN: the top of the loaves
+
+
+SENTID: 2
+SENT: To the mixture in the bowl , add the Worcestershire sauce , the salt , the onion , the garlic , the egg , the milk and ground black pepper and mix together well .
+PREDID: 154
+PRED: add
+   DOBJ: the Worcestershire sauce , the salt , the onion , the garlic , the egg , the milk, ground black pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: the mixture in the bowl
+     PREP: to
+      NON-INGREDIENT SPAN: the mixture in the bowl
+
+PREDID: 244
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+
+SENTID: 3
+SENT: I would stir in the wheat cereal squares and let stand for 5 minutes .
+PREDID: 245
+PRED: stir
+   DOBJ: NULL
+   PARG: the wheat cereal squares
+     PREP: in
+      INGREDIENT SPAN: the wheat cereal squares
+         INGREDIENTS: crispy wheat cereal squares
+
+PREDID: 275
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would then break up the cereal squares and add the ground beef , mixing well .
+PREDID: 299
+PRED: break
+   DOBJ: the cereal squares
+      NON-INGREDIENT SPAN: the cereal squares
+   OARG: then
+      NON-INGREDIENT SPAN: then
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 325
+PRED: add
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   OARG: mixing well
+      NON-INGREDIENT SPAN: mixing well
+
+
+SENTID: 5
+SENT: I would shape the mixture into the mini loaf pans you 've decided to use .
+PREDID: 353
+PRED: shape
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the mini loaf pans you 've decided to use
+     PREP: into
+      NON-INGREDIENT SPAN: the mini loaf pans you 've decided to use
+
+
+SENTID: 6
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 65 minutes .
+PREDID: 406
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 65 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 65 minutes
+
+
+SENTID: 7
+SENT: I would brush on reserved ketchup mixture and bake for 15 more minutes .
+PREDID: 449
+PRED: brush
+   DOBJ: NULL
+   PARG: reserved ketchup mixture
+     PREP: on
+      NON-INGREDIENT SPAN: reserved ketchup mixture
+
+PREDID: 481
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 more minutes
+
+

@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: I would brown the ground beef in a large pot over medium heat , breaking it up with a spoon while it cooks ;
+PREDID: 0
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: it cooks
+     PREP: while
+      NON-INGREDIENT SPAN: it cooks
+   OARG: breaking it up with a spoon
+      NON-INGREDIENT SPAN: breaking it up with a spoon
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 79
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir in the tomatoes , kidney beans , the onion , the garlic , tomato sauce , the tequila , chili powder , the cumin , the salt , and cayenne pepper ;
+PREDID: 85
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomatoes , kidney beans , the onion , the garlic , tomato sauce , the tequila , chili powder , the cumin , the salt , cayenne pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the tequila 
+         INGREDIENTS: fluid tequila
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce Italianstyle stewed tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce light red kidney beans drained
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 3
+SENT: I would simmer 20 minutes .
+PREDID: 188
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+

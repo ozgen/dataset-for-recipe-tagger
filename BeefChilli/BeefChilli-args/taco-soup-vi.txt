@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: In a large stock pot brown ground beef .
+PREDID: 13
+PRED: pot
+   DOBJ: NULL
+   OARG: a large stock pot brown ground beef
+      INGREDIENT SPAN: a large stock pot brown ground beef
+         INGREDIENTS: lean ground beef
+
+
+SENTID: 1
+SENT: I would drain grease and add tomato vegetable juice , the tomatoes , kidney beans , black beans , the corn and taco seasoning .
+PREDID: 32
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+PREDID: 46
+PRED: add
+   DOBJ: tomato vegetable juice , the tomatoes , kidney beans , black beans , the corn, taco seasoning
+      INGREDIENT SPAN: tomato vegetable juice 
+         INGREDIENTS: tomatovegetable juice cocktail
+      INGREDIENT SPAN:  taco seasoning
+         INGREDIENTS: ounce packages taco seasoning mix
+      INGREDIENT SPAN:  the corn
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained rinsed
+
+
+SENTID: 2
+SENT: I would heat through and serve .
+PREDID: 123
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

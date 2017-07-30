@@ -1,0 +1,546 @@
+SENTID: 0
+SENT: I would mix water , the sugar , the yeast , and 2 tablespoons of vegetable oil for several seconds on low speed in the work bowl of a large stand mixer fitted with a dough hook .
+PREDID: 0
+PRED: mix
+   DOBJ: water , the sugar , the yeast , 2 tablespoons of vegetable oil for several seconds
+      INGREDIENT SPAN: water 
+         INGREDIENTS: warm water
+      INGREDIENT SPAN:  2 tablespoons of vegetable oil for several seconds
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the yeast 
+         INGREDIENTS: ounce package active dry yeast
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: low speed in the work bowl of a large stand mixer fitted with a dough hook
+     PREP: on
+      NON-INGREDIENT SPAN: low speed in the work bowl of a large stand mixer fitted with a dough hook
+
+
+SENTID: 1
+SENT: I would stop the mixer and add the flour and salt .
+PREDID: 129
+PRED: stop
+   DOBJ: the mixer
+      NON-INGREDIENT SPAN: the mixer
+
+PREDID: 144
+PRED: add
+   DOBJ: the flour, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 2
+SENT: I would start the mixer on low speed and mix until the flour mixture is incorporated with the yeast mixture ;
+PREDID: 163
+PRED: start
+   DOBJ: the mixer
+      NON-INGREDIENT SPAN: the mixer
+   PARG: low speed, mix
+     PREP: on
+      NON-INGREDIENT SPAN: low speed
+      NON-INGREDIENT SPAN:  mix
+   PARG: the flour mixture is incorporated with the yeast mixture
+     PREP: until
+      NON-INGREDIENT SPAN: the flour mixture is incorporated with the yeast mixture
+
+
+SENTID: 3
+SENT: I would turn speed to medium-low and machine-knead the dough until springy and smooth , 10 to 12 minutes .
+PREDID: 246
+PRED: turn
+   DOBJ: speed
+      NON-INGREDIENT SPAN: speed
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 270
+PRED: machine-knead
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: springy, smooth , 10 to 12 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: springy
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN:  smooth 
+
+
+SENTID: 4
+SENT: I would sprinkle dough with flour occasionally if it sticks to the sides of the bowl .
+PREDID: 335
+PRED: dough
+   DOBJ: NULL
+   PARG: flour
+     PREP: with
+      NON-INGREDIENT SPAN: flour
+   OARG: sprinkle
+      NON-INGREDIENT SPAN: sprinkle
+   OARG: occasionally if it sticks to the sides of the bowl
+      NON-INGREDIENT SPAN: occasionally if it sticks to the sides of the bowl
+
+
+SENTID: 5
+SENT: I would form dough into a ball and place into an oiled bowl ;
+PREDID: 391
+PRED: form
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: a ball
+     PREP: into
+      NON-INGREDIENT SPAN: a ball
+
+PREDID: 412
+PRED: place
+   DOBJ: NULL
+   PARG: an oiled bowl
+     PREP: into
+      NON-INGREDIENT SPAN: an oiled bowl
+
+
+SENTID: 6
+SENT: I would turn the dough over in the bowl several times to oil the surface of the dough .
+PREDID: 433
+PRED: turn
+   DOBJ: the surface of the dough
+      NON-INGREDIENT SPAN: the surface of the dough
+   OARG: the dough over in the bowl several times to oil
+      INGREDIENT SPAN: the dough over in the bowl several times to oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 7
+SENT: I would cover the dough with a towel , set into a warm place , and allow to rise until double , 30 minutes to 1 hour .
+PREDID: 496
+PRED: cover
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a towel
+     PREP: with
+      NON-INGREDIENT SPAN: a towel
+
+PREDID: 520
+PRED: set
+   DOBJ: NULL
+   PARG: a warm place
+     PREP: into
+      NON-INGREDIENT SPAN: a warm place
+
+PREDID: 541
+PRED: allow
+   DOBJ: NULL
+   OARG: to rise until double , 30 minutes to 1 hour
+      NON-INGREDIENT SPAN: to rise until double 
+      NON-INGREDIENT SPAN:  30 minutes to 1 hour
+
+
+SENTID: 8
+SENT: I would cook the bacon in a large , deep skillet over medium-high heat until evenly browned , about 10 minutes ;
+PREDID: 581
+PRED: cook
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet over medium-high heat until evenly browned , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  deep skillet over medium-high heat until evenly browned 
+
+
+SENTID: 9
+SENT: I would drain on a paper towel-lined plate and allow to cool ;
+PREDID: 666
+PRED: drain
+   DOBJ: NULL
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+PREDID: 698
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 10
+SENT: I would chop and set aside .
+PREDID: 710
+PRED: chop and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 11
+SENT: I would melt butter in a saucepan over medium-low heat .
+PREDID: 726
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium-low heat
+
+
+SENTID: 12
+SENT: I would cook the garlic in the melted butter until fragrant , about 1 minute .
+PREDID: 766
+PRED: cook
+   DOBJ: the garlic in the melted butter
+      NON-INGREDIENT SPAN: the garlic in the melted butter
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 13
+SENT: I would stir the cream into the butter mixture .
+PREDID: 823
+PRED: stir
+   DOBJ: the cream
+      INGREDIENT SPAN: the cream
+         INGREDIENTS: heavy cream
+   PARG: the butter mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the butter mixture
+
+
+SENTID: 14
+SENT: I would add the egg yolks and whisk with the butter mixture until smooth .
+PREDID: 856
+PRED: add
+   DOBJ: the egg yolks
+      INGREDIENT SPAN: the egg yolks
+         INGREDIENTS: egg yolks
+
+PREDID: 873
+PRED: whisk
+   DOBJ: NULL
+   PARG: the butter mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the butter mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 15
+SENT: I would stir 1/2 cup of Parmesan cheese , the Romano cheese , and nutmeg into the mixture ;
+PREDID: 910
+PRED: stir
+   DOBJ: 1/2 cup of Parmesan cheese , the Romano cheese , nutmeg
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: 1/2 cup of Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the Romano cheese 
+         INGREDIENTS: grated Romano cheese
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 16
+SENT: I would season to taste with salt .
+PREDID: 977
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      NON-INGREDIENT SPAN: to taste with salt
+
+
+SENTID: 17
+SENT: I would bring the sauce just barely to a simmer over low heat ;
+PREDID: 999
+PRED: bring
+   DOBJ: the sauce
+      NON-INGREDIENT SPAN: the sauce
+   PARG: a simmer over low heat
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer over low heat
+   OARG: just
+      NON-INGREDIENT SPAN: just
+   OARG: barely
+      NON-INGREDIENT SPAN: barely
+
+
+SENTID: 18
+SENT: I would cook and stir at a simmer until cheeses have melted and sauce has thickened , 3 to 5 minutes .
+PREDID: 1043
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: cheeses have melted
+     PREP: until
+      INGREDIENT SPAN: cheeses have melted
+         INGREDIENTS: shredded mozzarella cheese more desired
+   OARG: sauce has thickened , 3 to 5 minutes
+      NON-INGREDIENT SPAN: sauce has thickened 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 19
+SENT: I would remove from heat and set aside .
+PREDID: 1118
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 1135
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 20
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 1144
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 21
+SENT: I would mix the paprika , cayenne pepper , the cumin , the thyme , 1/8 teaspoon of salt , white pepper , and onion powder together in a bowl .
+PREDID: 1182
+PRED: mix
+   DOBJ: the paprika , cayenne pepper , the cumin , the thyme , 1/8 teaspoon of salt , white pepper , onion powder together in a bowl
+      INGREDIENT SPAN:  onion powder together in a bowl
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  white pepper 
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  the thyme 
+      NON-INGREDIENT SPAN:  1/8 teaspoon of salt 
+
+
+SENTID: 22
+SENT: I would rub one side of each chicken breast thoroughly with the spice mixture .
+PREDID: 1282
+PRED: rub
+   DOBJ: one side of each chicken breast
+      INGREDIENT SPAN: one side of each chicken breast
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: the spice mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the spice mixture
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 23
+SENT: I would heat 1 tablespoon vegetable oil in a skillet over high heat .
+PREDID: 1341
+PRED: heat
+   DOBJ: 1 tablespoon vegetable oil
+      NON-INGREDIENT SPAN: 1 tablespoon vegetable oil
+   PARG: a skillet over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over high heat
+
+
+SENTID: 24
+SENT: I would sear the chicken breasts , seasoned sides first , in the hot oil until the spices turn almost black , about 1 minute per side ;
+PREDID: 1391
+PRED: sear
+   DOBJ: the chicken breasts, seasoned sides first
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+      NON-INGREDIENT SPAN:  seasoned sides first
+   PARG: the hot oil until the spices turn almost black , about 1 minute per side
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil until the spices turn almost black 
+      NON-INGREDIENT SPAN:  about 1 minute per side
+
+
+SENTID: 25
+SENT: I would transfer to a baking sheet .
+PREDID: 1493
+PRED: transfer
+   DOBJ: NULL
+   PARG: a baking sheet
+     PREP: to
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 26
+SENT: I would bake the chicken breasts in the preheated oven until no longer pink in the center and an instant-read meat thermometer inserted into the thickest part of a breast reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 5 to 10 minutes ;
+PREDID: 1516
+PRED: bake
+   DOBJ: the chicken breasts
+      NON-INGREDIENT SPAN: the chicken breasts
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center, an instant-read meat thermometer inserted into the thickest part of a breast reads at least 160 degrees f -lrb- 70 degrees c -rrb- , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  an instant-read meat thermometer inserted into the thickest part of a breast reads at least 160 degrees f -lrb- 70 degrees c -rrb- 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 27
+SENT: I would set aside .
+PREDID: 1700
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 28
+SENT: I would punch down pizza dough and roll out onto a floured work surface .
+PREDID: 1709
+PRED: punch
+   DOBJ: pizza dough
+      NON-INGREDIENT SPAN: pizza dough
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 1731
+PRED: roll
+   DOBJ: NULL
+   PARG: a floured work surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a floured work surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 29
+SENT: I would shape pizza crust on a large pizza stone or heavy baking sheet .
+PREDID: 1762
+PRED: shape
+   DOBJ: pizza crust
+      NON-INGREDIENT SPAN: pizza crust
+   PARG: a large pizza stone or heavy baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a large pizza stone or heavy baking sheet
+
+
+SENTID: 30
+SENT: I would poke several holes in the crust with a fork to help it release steam .
+PREDID: 1814
+PRED: poke
+   DOBJ: several holes in the crust
+      NON-INGREDIENT SPAN: several holes in the crust
+   PARG: a fork to help it release steam
+     PREP: with
+      NON-INGREDIENT SPAN: a fork to help it release steam
+
+
+SENTID: 31
+SENT: I would bake the crust in the oven until top is very lightly cooked , 5 to 7 minutes .
+
+SENTID: 32
+SENT: I would remove from oven and spread a layer of Alfredo sauce over the crust .
+PREDID: 1870
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 1887
+PRED: spread
+   DOBJ: a layer of Alfredo sauce over the crust
+      NON-INGREDIENT SPAN: a layer of Alfredo sauce over the crust
+
+
+SENTID: 33
+SENT: I would spread the mozzarella cheese in an even layer over the sauce .
+PREDID: 1926
+PRED: spread
+   DOBJ: the mozzarella cheese
+      INGREDIENT SPAN: the mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: an even layer over the sauce
+     PREP: in
+      NON-INGREDIENT SPAN: an even layer over the sauce
+
+
+SENTID: 34
+SENT: I would slice the blackened chicken breasts and arrange over the mozzarella cheese .
+PREDID: 1977
+PRED: slice
+   DOBJ: the blackened chicken breasts
+      NON-INGREDIENT SPAN: the blackened chicken breasts
+
+PREDID: 2011
+PRED: arrange
+   DOBJ: NULL
+   PARG: the mozzarella cheese
+     PREP: over
+      NON-INGREDIENT SPAN: the mozzarella cheese
+
+
+SENTID: 35
+SENT: I would sprinkle pizza with spinach leaves and chopped bacon .
+PREDID: 2042
+PRED: sprinkle
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: spinach leaves, chopped bacon
+     PREP: with
+      INGREDIENT SPAN: spinach leaves
+         INGREDIENTS: baby spinach leaves
+      NON-INGREDIENT SPAN:  chopped bacon
+
+
+SENTID: 36
+SENT: I would top with 3 tablespoons of Parmesan cheese .
+PREDID: 2088
+PRED: top
+   DOBJ: NULL
+   PARG: 3 tablespoons of parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: 3 tablespoons of parmesan cheese
+
+
+SENTID: 37
+SENT: I would return pizza to oven and bake until the mozzarella cheese is melted and browned , 15 to 20 minutes .
+PREDID: 2124
+PRED: return
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: oven, bake
+     PREP: to
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: oven
+   PARG: the mozzarella cheese is melted, browned , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the mozzarella cheese is melted
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+      NON-INGREDIENT SPAN:  browned 
+
+
+SENTID: 38
+SENT: I would sprinkle pizza with chopped Roma tomatoes to serve .
+PREDID: 2205
+PRED: sprinkle
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: chopped roma tomatoes
+     PREP: with
+      INGREDIENT SPAN: chopped roma tomatoes
+         INGREDIENTS: roma plum tomato diced
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

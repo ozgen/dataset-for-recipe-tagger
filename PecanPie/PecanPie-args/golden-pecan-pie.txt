@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would place pie crust in 9-inch glass pie pan as directed on box for One-Crust Filled Pie .
+PREDID: 22
+PRED: place
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: Pillsbury refrigerated pie crust softened directed box
+   PARG: 9-inch glass pie pan as directed on box for one-crust filled pie
+     PREP: in
+      NON-INGREDIENT SPAN: 9-inch glass pie pan as directed on box for one-crust filled pie
+
+
+SENTID: 2
+SENT: In large bowl , I would mix brown sugar , the flour , corn syrup , the vanilla and eggs until well blended .
+PREDID: 103
+PRED: mix
+   DOBJ: brown sugar , the flour , corn syrup , the vanilla, eggs
+      INGREDIENT SPAN:  corn syrup 
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 3
+SENT: I would stir in pecans and butter .
+PREDID: 164
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans, butter
+     PREP: in
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter margarine melted
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecan halves
+
+
+SENTID: 4
+SENT: I would pour into crust-lined pan .
+PREDID: 186
+PRED: pour
+   DOBJ: NULL
+   PARG: crust-lined pan
+     PREP: into
+      NON-INGREDIENT SPAN: crust-lined pan
+
+
+SENTID: 5
+SENT: I would bake 40 to 50 minutes or until filling is puffed and pie is golden brown .
+PREDID: 209
+PRED: bake
+   DOBJ: 40
+      NON-INGREDIENT SPAN: 40
+   PARG: 50 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 50 minutes
+   OARG: pie is golden brown
+      NON-INGREDIENT SPAN: pie is golden brown
+
+
+SENTID: 6
+SENT: I would cool completely , about 2 hours .
+PREDID: 268
+PRED: cool
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: about
+      NON-INGREDIENT SPAN: 2 hours
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 7
+SENT: I would store in refrigerator .
+PREDID: 295
+PRED: store
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

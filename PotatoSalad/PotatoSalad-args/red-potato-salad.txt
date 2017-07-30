@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would place the potatoes in a pot with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: red potatoes cut chunks
+   PARG: a pot with enough water
+     PREP: in
+      NON-INGREDIENT SPAN: a pot with enough water
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , and cook for about 10 minutes , or until easily pierced with a fork .
+PREDID: 45
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 61
+PRED: cook
+   DOBJ: NULL
+   PARG: about 10 minutes , or until easily pierced with a fork
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes 
+      NON-INGREDIENT SPAN:  or until easily pierced with a fork
+
+
+SENTID: 2
+SENT: I would drain , and transfer to a large bowl to cool .
+PREDID: 113
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 122
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: In a medium bowl , I would mix the sour cream , the mayonnaise , the mustard , the vinegar , the eggs , the pickle , the celery , green onions , and hot sauce .
+PREDID: 163
+PRED: mix
+   DOBJ: the sour cream , the mayonnaise , the mustard , the vinegar , the eggs , the pickle , the celery , green onions , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: onion salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the pickle 
+         INGREDIENTS: dill pickle chopped
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: lowfat sour cream
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery stalk chopped
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 4
+SENT: I would season with dill , garlic powder , onion salt , the salt , and pepper .
+PREDID: 249
+PRED: season
+   DOBJ: NULL
+   PARG: dill , garlic powder , onion salt , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN: dill 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  onion 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  onion salt 
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 5
+SENT: I would pour over the potatoes , and gently toss to coat .
+PREDID: 302
+PRED: pour
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 331
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would chill at least 3 hours in the refrigerator before serving .
+PREDID: 342
+PRED: chill
+   DOBJ: NULL
+   PARG: least 3 hours in the refrigerator
+     PREP: at
+      NON-INGREDIENT SPAN: least 3 hours in the refrigerator
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

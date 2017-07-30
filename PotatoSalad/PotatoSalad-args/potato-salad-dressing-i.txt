@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a saucepan , I would combine the dry mustard , the flour , the butter , the eggs , the sugar , the water and vinegar .
+PREDID: 12
+PRED: combine
+   DOBJ: the dry mustard , the flour , the butter , the eggs , the sugar , the water, vinegar
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the butter 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: the dry mustard 
+         INGREDIENTS: mustard powder
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would cook over medium-high heat until thick and nice and smooth , stirring often .
+PREDID: 73
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: thick, nice
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+      NON-INGREDIENT SPAN:  nice
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 116
+PRED: smooth
+   DOBJ: NULL
+   OARG: stirring often
+      NON-INGREDIENT SPAN: stirring often
+
+
+SENTID: 2
+SENT: If necessary , I would add up to 1 tablespoon additional flour .
+PREDID: 149
+PRED: add
+   DOBJ: NULL
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+   PARG: 1 tablespoon additional flour
+     PREP: to
+      NON-INGREDIENT SPAN: 1 tablespoon additional flour
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 3
+SENT: I would set aside to cool .
+PREDID: 183
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: I would blend together cooled dressing with one equal part creamy salad dressing .
+PREDID: 198
+PRED: blend
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 211
+PRED: cooled
+   DOBJ: NULL
+   OARG: dressing with one equal part creamy salad dressing
+      INGREDIENT SPAN: dressing with one equal part creamy salad dressing
+         INGREDIENTS: creamy salad dressing Whip
+
+
+SENTID: 5
+SENT: I would pour enough dressing over cooked potatoes to coat .
+PREDID: 261
+PRED: pour
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: enough dressing over cooked potatoes
+      NON-INGREDIENT SPAN: enough dressing over cooked potatoes
+
+

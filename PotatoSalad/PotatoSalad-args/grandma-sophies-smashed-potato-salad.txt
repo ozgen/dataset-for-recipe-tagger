@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: I would boil potatoes until soft , about 25 to 30 minutes .
+PREDID: 0
+PRED: boil
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes peeled cut inch chunks
+   PARG: soft , about 25 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 25 to 30 minutes
+      NON-INGREDIENT SPAN: soft 
+
+
+SENTID: 1
+SENT: I would remove potatoes to a large bowl .
+PREDID: 41
+PRED: remove
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: While the potatoes are still warm but not steaming , stir in the hard-cooked eggs with a fork .
+
+SENTID: 3
+SENT: I would mix in the dill pickle ,
+PREDID: 68
+PRED: mix
+   DOBJ: NULL
+   PARG: the dill pickle
+     PREP: in
+      INGREDIENT SPAN: the dill pickle
+         INGREDIENTS: chopped dill pickle
+
+
+SENTID: 4
+SENT: I would stir in the mayonnaise .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: the mayonnaise
+     PREP: in
+      INGREDIENT SPAN: the mayonnaise
+         INGREDIENTS: mayonnaise
+
+
+SENTID: 5
+SENT: I would season to taste with salt .
+PREDID: 107
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt taste
+
+
+SENTID: 6
+SENT: Continue to stir until potatoes are smashed and not many big chunks remain .
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would toss the cabbage , the kohlrabi , the celery , the carrot , and onion together in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: the cabbage , the kohlrabi , the celery , the carrot , onion
+      INGREDIENT SPAN:  the kohlrabi 
+         INGREDIENTS: kohlrabi bulbs peeled grated
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: minced fresh onion
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: chopped cabbage
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrots sliced thin
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk the sugar , the salt , the pepper , celery seed , the mayonnaise , and vinegar together in a separate bowl until smooth ;
+PREDID: 67
+PRED: whisk
+   DOBJ: the sugar , the salt , the pepper , celery seed , the mayonnaise , vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: stalks celery sliced thin
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the cabbage mixture and stir to coat evenly .
+PREDID: 160
+PRED: pour
+   DOBJ: NULL
+   PARG: the cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the cabbage mixture
+
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 3
+SENT: I would chill in refrigerator 1 hour before serving .
+PREDID: 205
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

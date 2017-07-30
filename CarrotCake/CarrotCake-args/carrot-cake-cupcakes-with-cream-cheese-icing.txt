@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups with butter or line with paper liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+   PARG: butter or line
+     PREP: with
+      INGREDIENT SPAN: butter or line
+         INGREDIENTS: unsalted butter softened
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would sift flour , white sugar , baking soda , the cinnamon , and ginger together in a large bowl .
+PREDID: 88
+PRED: sift
+   DOBJ: flour , white sugar , baking soda , the cinnamon , ginger
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat canola oil and eggs into flour mixture with an electric mixer , beating each egg thoroughly before adding the next one .
+PREDID: 159
+PRED: beat
+   DOBJ: canola oil, eggs
+      INGREDIENT SPAN: canola oil
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: large eggs
+   PARG: flour mixture with an electric mixer
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture with an electric mixer
+   OARG: beating each egg thoroughly before adding the next one
+      NON-INGREDIENT SPAN: beating each egg thoroughly before adding the next one
+
+
+SENTID: 4
+SENT: I would stir carrots into mixture until well combined .
+PREDID: 262
+PRED: stir
+   DOBJ: carrots
+      INGREDIENT SPAN: carrots
+         INGREDIENTS: large carrots grated
+   PARG: mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mixture
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 5
+SENT: I would fill the prepared muffin cups about 2/3 full with carrot mixture .
+PREDID: 302
+PRED: fill
+   DOBJ: NULL
+   PARG: carrot mixture
+     PREP: with
+      NON-INGREDIENT SPAN: carrot mixture
+   OARG: the prepared muffin cups about 2/3 full
+      NON-INGREDIENT SPAN: the prepared muffin cups about 2/3 full
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until cupcakes are lightly browned and a toothpick inserted into the middle of a cupcake comes out clean , 30 to 40 minutes .
+PREDID: 357
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cupcakes are lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: cupcakes are lightly browned
+   OARG: a toothpick inserted into the middle of a cupcake comes out clean , 30 to 40 minutes
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the middle of a cupcake comes out clean 
+
+
+SENTID: 7
+SENT: I would let cupcakes cool completely .
+PREDID: 481
+PRED: let cool
+   DOBJ: cupcakes
+      NON-INGREDIENT SPAN: cupcakes
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 8
+SENT: I would beat unsalted butter and cream cheese together with an electric mixer on high speed in a bowl until fluffy .
+PREDID: 507
+PRED: beat
+   DOBJ: unsalted butter, cream cheese together
+      INGREDIENT SPAN:  cream cheese together
+         INGREDIENTS: ounce packages cream cheese softened
+      NON-INGREDIENT SPAN: unsalted butter
+   PARG: an electric mixer on high speed in a bowl
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer on high speed in a bowl
+   PARG: fluffy
+     PREP: until
+      NON-INGREDIENT SPAN: fluffy
+
+
+SENTID: 9
+SENT: I would reduce mixer speed to low and beat in vanilla extract and confectioners ' sugar until combined .
+PREDID: 596
+PRED: reduce
+   DOBJ: mixer speed
+      NON-INGREDIENT SPAN: mixer speed
+   PARG: low, beat in vanilla extract, confectioners ' sugar
+     PREP: to
+      INGREDIENT SPAN:  confectioners ' sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN:  beat in vanilla extract
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN: low
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 10
+SENT: I would increase speed to high , and beat until the frosting is fluffy , about 3 more minutes .
+PREDID: 676
+PRED: increase
+   DOBJ: speed
+      NON-INGREDIENT SPAN: speed
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 699
+PRED: beat
+   DOBJ: NULL
+   PARG: the frosting is fluffy , about 3 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 3 more minutes
+      NON-INGREDIENT SPAN: the frosting is fluffy 
+
+
+SENTID: 11
+SENT: I would fill a pastry bag with the cream cheese frosting and pipe onto the cupcakes .
+PREDID: 746
+PRED: fill
+   DOBJ: a pastry bag
+      NON-INGREDIENT SPAN: a pastry bag
+   PARG: the cream cheese frosting, pipe
+     PREP: with
+      NON-INGREDIENT SPAN:  pipe
+      NON-INGREDIENT SPAN: the cream cheese frosting
+   PARG: the cupcakes
+     PREP: onto
+      NON-INGREDIENT SPAN: the cupcakes
+
+

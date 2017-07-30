@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would pour cream-style corn and whole-kernel corn in a slow cooker set to Low ;
+PREDID: 0
+PRED: pour
+   DOBJ: cream-style corn, whole-kernel corn in a slow cooker set to Low
+      INGREDIENT SPAN:  whole-kernel corn in a slow cooker set to Low
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN: cream-style corn
+         INGREDIENTS: ounce wholekernel corn
+
+
+SENTID: 1
+SENT: I would add hash browns and stir .
+PREDID: 60
+PRED: add
+   DOBJ: hash browns
+      INGREDIENT SPAN: hash browns
+         INGREDIENTS: ounce package frozen diced hash brown potatoes
+
+
+SENTID: 2
+SENT: I would heat butter in a skillet over medium heat ;
+PREDID: 81
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook and stir red onion , white onion , bell peppers , the celery , the carrots , jalapeno peppers , cherry peppers , and poblano peppers in the melted butter until onions are slightly translucent , 10 to 15 minutes .
+PREDID: 116
+PRED: cook and stir
+   DOBJ: red onion , white onion , bell peppers , the celery , the carrots , jalapeno peppers , cherry peppers , poblano peppers
+      INGREDIENT SPAN:  poblano peppers
+         INGREDIENTS: poblano peppers seeded chopped
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: hot cherry peppers seeded chopped
+      INGREDIENT SPAN: red onion 
+         INGREDIENTS: large red onion chopped
+      INGREDIENT SPAN:  white onion 
+         INGREDIENTS: large sweet white onion chopped
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: large carrots chopped
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: bell peppers chopped
+      INGREDIENT SPAN:  cherry peppers 
+         INGREDIENTS: jalapeno peppers seeded chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+   PARG: the melted butter
+     PREP: in
+      NON-INGREDIENT SPAN: the melted butter
+   PARG: onions are slightly translucent , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: onions are slightly translucent 
+
+
+SENTID: 4
+SENT: I would stir vegetable mixture into slow cooker ;
+PREDID: 286
+PRED: stir
+   DOBJ: vegetable mixture
+      NON-INGREDIENT SPAN: vegetable mixture
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 5
+SENT: I would top with half-and-half .
+PREDID: 321
+PRED: top
+   DOBJ: NULL
+   PARG: half-and-half
+     PREP: with
+      NON-INGREDIENT SPAN: half-and-half
+
+
+SENTID: 6
+SENT: I would cook , stirring occasionally , for about 3 hours .
+PREDID: 342
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally , for about 3 hours
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  for about 3 hours
+
+

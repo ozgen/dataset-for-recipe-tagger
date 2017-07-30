@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would combine egg , the salt , milk .
+PREDID: 0
+PRED: combine
+   DOBJ: egg , the salt , milk
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg beaten
+
+
+SENTID: 1
+SENT: I would add flour .
+PREDID: 21
+PRED: add
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: sifted allpurpose flour
+
+
+SENTID: 2
+SENT: -LRB- For thicker noodles add baking powder to flour before mixing .
+PREDID: 69
+PRED: flour
+   DOBJ: NULL
+   PARG: mixing
+     PREP: before
+      NON-INGREDIENT SPAN: mixing
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 3
+SENT: I would -RRB- Separate into two balls .
+
+SENTID: 4
+SENT: I would roll out dough , and let stand for 20 minutes .
+PREDID: 83
+PRED: roll
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 99
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 5
+SENT: I would cut into strips and spread to dry -- dust with a little flour .
+PREDID: 120
+PRED: cut
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+PREDID: 136
+PRED: spread
+   DOBJ: NULL
+   OARG: to dry -- dust with a little flour
+      NON-INGREDIENT SPAN: to dry -- dust with a little flour
+
+
+SENTID: 6
+SENT: I would let dry for approximately 2 hours .
+PREDID: 170
+PRED: let
+   DOBJ: NULL
+   PARG: approximately 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 2 hours
+   OARG: dry
+      NON-INGREDIENT SPAN: dry
+
+
+SENTID: 7
+SENT: I would drop into hot soup -- cook for about 10 minutes .
+PREDID: 199
+PRED: drop
+   DOBJ: NULL
+   PARG: hot soup
+     PREP: into
+      NON-INGREDIENT SPAN: hot soup
+
+PREDID: 216
+PRED: cook
+   DOBJ: NULL
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+
+

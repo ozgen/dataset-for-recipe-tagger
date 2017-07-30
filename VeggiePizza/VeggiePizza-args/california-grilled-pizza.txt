@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would preheat grill to medium-high .
+PREDID: 0
+PRED: preheat
+   DOBJ: NULL
+   OARG: grill to medium-high
+      NON-INGREDIENT SPAN: grill to medium-high
+
+
+SENTID: 1
+SENT: I would place each pizza crust on a sheet of foil ;
+PREDID: 26
+PRED: place
+   DOBJ: each pizza crust
+      INGREDIENT SPAN: each pizza crust
+         INGREDIENTS: inch prebaked pizza crusts
+   PARG: a sheet of foil
+     PREP: on
+      INGREDIENT SPAN: a sheet of foil
+         INGREDIENTS: sheets inches Reynolds Wrap Aluminum Foil
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 60
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would heat olive oil in a small skillet over medium heat .
+PREDID: 69
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a small skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a small skillet over medium heat
+         INGREDIENTS: medium red onion sliced thin
+
+
+SENTID: 4
+SENT: I would add garlic and onion ;
+PREDID: 111
+PRED: add
+   DOBJ: NULL
+   OARG: garlic, onion
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: chopped garlic
+      NON-INGREDIENT SPAN:  onion
+
+
+SENTID: 5
+SENT: I would cook , stirring frequently , until onion is softened .
+PREDID: 129
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently , until onion is softened
+      NON-INGREDIENT SPAN:  until onion is softened
+      NON-INGREDIENT SPAN: stirring frequently 
+
+
+SENTID: 6
+SENT: I would brush pizza crust with olive oil mixture ;
+PREDID: 174
+PRED: brush
+   DOBJ: pizza crust
+      NON-INGREDIENT SPAN: pizza crust
+   PARG: olive oil mixture
+     PREP: with
+      NON-INGREDIENT SPAN: olive oil mixture
+
+
+SENTID: 7
+SENT: I would arrange the onion , the tomatoes , artichoke hearts , the mushrooms and basil on crust .
+PREDID: 209
+PRED: arrange
+   DOBJ: the onion , the tomatoes , artichoke hearts , the mushrooms, basil
+      INGREDIENT SPAN:  artichoke hearts 
+         INGREDIENTS: marinated artichoke hearts sliced thin
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: Roma tomatoes sliced 1/4inch thick
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: baby portabella mushrooms sliced thin
+      NON-INGREDIENT SPAN: the onion 
+   PARG: crust
+     PREP: on
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 8
+SENT: I would sprinkle with cheese .
+PREDID: 275
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 9
+SENT: I would grill pizza on foil sheets in covered grill for 5 to 7 minutes or until cheese is melted .
+PREDID: 294
+PRED: grill
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   PARG: foil sheets
+     PREP: on
+      NON-INGREDIENT SPAN: foil sheets
+   PARG: covered grill for 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: covered grill for 5 to 7 minutes
+
+

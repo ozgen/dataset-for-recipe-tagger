@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef , the onion , bell pepper , 1 cup Cheddar cheese , Worcestershire sauce , sour cream , and crackers together in a bowl .
+PREDID: 40
+PRED: mix
+   DOBJ: ground beef , the onion , bell pepper , 1 cup Cheddar cheese , Worcestershire sauce , sour cream , crackers
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  1 cup Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  crackers
+         INGREDIENTS: crushed buttery round crackers such Ritz
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would place mixture on a baking dish and shape into a loaf .
+PREDID: 146
+PRED: place
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a baking dish
+     PREP: on
+      NON-INGREDIENT SPAN: a baking dish
+
+PREDID: 174
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until no longer pink in the center , 35 to 40 minutes .
+PREDID: 189
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , 35 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 4
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 5
+SENT: I would heat the cream of mushroom soup , the milk , and 1?1/2 cup Cheddar cheese in a saucepan over medium heat until the cheese has melted , about 10 minutes .
+PREDID: 254
+PRED: heat
+   DOBJ: the cream of mushroom soup , the milk , 1?1/2 cup Cheddar cheese
+      INGREDIENT SPAN: the cream of mushroom soup 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  1?1/2 cup Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: a saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium heat
+   PARG: the cheese has melted , about 10 minutes
+     PREP: until
+      INGREDIENT SPAN: the cheese has melted 
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  about 10 minutes
+
+
+SENTID: 6
+SENT: I would pour sauce over the meatloaf before serving .
+PREDID: 374
+PRED: pour
+   DOBJ: sauce over the meatloaf
+      NON-INGREDIENT SPAN: sauce over the meatloaf
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

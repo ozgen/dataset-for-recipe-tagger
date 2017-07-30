@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: In a large saucepan , I would saute onions in margarine .
+PREDID: 17
+PRED: saute
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: chopped onion
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: margarine
+     PREP: in
+      INGREDIENT SPAN: margarine
+         INGREDIENTS: margarine
+
+
+SENTID: 1
+SENT: I would stir in flour , chili powder , and cumin .
+PREDID: 40
+PRED: stir
+   DOBJ: NULL
+   PARG: flour , chili powder , cumin
+     PREP: in
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  cumin
+         INGREDIENTS: ground cumin
+
+
+SENTID: 2
+SENT: I would add corn , picante sauce , and broth .
+PREDID: 73
+PRED: add
+   DOBJ: corn
+      INGREDIENT SPAN: corn
+         INGREDIENTS: ounce package frozen corn kernels thawed
+
+PREDID: 81
+PRED: picante
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+
+
+SENTID: 3
+SENT: Bring to boil ;
+PREDID: 103
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 4
+SENT: I would remove from heat .
+PREDID: 115
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would gradually add 1/4 cup hot mixture to cream cheese in a small bowl .
+PREDID: 139
+PRED: add
+   DOBJ: 1/4 cup hot mixture to cream cheese
+      INGREDIENT SPAN: 1/4 cup hot mixture to cream cheese
+         INGREDIENTS: cream cheese softened
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 6
+SENT: I would stir until blended .
+PREDID: 184
+PRED: stir
+   DOBJ: NULL
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+
+
+SENTID: 7
+SENT: I would add cream cheese mixture and milk to saucepan , stirring until well blended .
+PREDID: 201
+PRED: add
+   DOBJ: cream cheese mixture
+      INGREDIENT SPAN: cream cheese mixture
+         INGREDIENTS: cream cheese softened
+
+PREDID: 225
+PRED: milk
+   DOBJ: NULL
+   PARG: saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: saucepan
+   OARG: stirring until well blended
+      NON-INGREDIENT SPAN: stirring until well blended
+
+
+SENTID: 8
+SENT: Heat through but do not boil .
+
+SENTID: 9
+SENT: I would serve immediately .
+PREDID: 265
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

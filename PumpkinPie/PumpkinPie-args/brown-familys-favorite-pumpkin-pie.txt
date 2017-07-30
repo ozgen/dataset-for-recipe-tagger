@@ -1,0 +1,174 @@
+SENTID: 0
+SENT: I would preheat the oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: the oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would mix together the pumpkin , sweetened condensed milk , and egg yolks .
+PREDID: 54
+PRED: mix
+   DOBJ: the pumpkin , sweetened condensed milk , egg yolks
+      INGREDIENT SPAN:  egg yolks
+         INGREDIENTS: egg yolks
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  sweetened condensed milk 
+         INGREDIENTS: ounce sweetened condensed milk
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in 1 teaspoon cinnamon , the ginger , the nutmeg , and salt .
+PREDID: 111
+PRED: stir
+   DOBJ: NULL
+   PARG: 1 teaspoon cinnamon , the ginger , the nutmeg , salt
+     PREP: in
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: 1 teaspoon cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+
+
+SENTID: 3
+SENT: In a large glass or metal bowl , I would whip egg whites until soft peaks form .
+PREDID: 182
+PRED: whip
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: egg whites
+   PARG: a large glass or metal bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large glass or metal bowl
+   PARG: soft peaks form
+     PREP: until
+      NON-INGREDIENT SPAN: soft peaks form
+
+
+SENTID: 4
+SENT: I would gently fold into pumpkin mixture .
+PREDID: 220
+PRED: fold
+   DOBJ: NULL
+   PARG: pumpkin mixture
+     PREP: into
+      NON-INGREDIENT SPAN: pumpkin mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 5
+SENT: I would pour the filling into pie shell .
+PREDID: 243
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie shell
+
+
+SENTID: 6
+SENT: I would bake for 15 minutes in the preheated oven .
+PREDID: 267
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes in the preheated oven
+
+
+SENTID: 7
+SENT: While the pie is baking , I would prepare the streusel topping :
+PREDID: 322
+PRED: prepare
+   DOBJ: the streusel topping
+      NON-INGREDIENT SPAN: the streusel topping
+   PARG: the pie is baking
+     PREP: while
+      NON-INGREDIENT SPAN: the pie is baking
+
+
+SENTID: 8
+SENT: In a small bowl , I would combine the flour , brown sugar , and 1 teaspoon cinnamon .
+PREDID: 361
+PRED: combine
+   DOBJ: the flour , brown sugar , 1 teaspoon cinnamon
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      NON-INGREDIENT SPAN:  1 teaspoon cinnamon
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 9
+SENT: I would blend in the cold butter with a fork or pastry blender until the mixture is crumbly .
+PREDID: 409
+PRED: blend
+   DOBJ: NULL
+   PARG: the cold butter with a fork or pastry blender
+     PREP: in
+      INGREDIENT SPAN: the cold butter with a fork or pastry blender
+         INGREDIENTS: butter chilled
+   PARG: the mixture is crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is crumbly
+
+
+SENTID: 10
+SENT: I would mix in the chopped nuts .
+PREDID: 478
+PRED: mix
+   DOBJ: NULL
+   PARG: the chopped nuts
+     PREP: in
+      NON-INGREDIENT SPAN: the chopped nuts
+
+
+SENTID: 11
+SENT: I would sprinkle the topping over the pie .
+PREDID: 498
+PRED: sprinkle
+   DOBJ: the topping over the pie
+      NON-INGREDIENT SPAN: the topping over the pie
+
+
+SENTID: 12
+SENT: I would reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 527
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 13
+SENT: I would bake an additional 40 minutes , or until set .
+PREDID: 567
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 40 minutes
+   PARG: until set
+     PREP: or
+      NON-INGREDIENT SPAN: until set
+
+

@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would pour 1 teaspoon olive oil into a slow cooker and arrange sliced onion over oil .
+PREDID: 0
+PRED: pour
+   DOBJ: 1 teaspoon olive oil
+      INGREDIENT SPAN: 1 teaspoon olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 39
+PRED: arrange
+   DOBJ: sliced onion
+      INGREDIENT SPAN: sliced onion
+         INGREDIENTS: onion sliced
+   PARG: oil
+     PREP: over
+      INGREDIENT SPAN: oil
+         INGREDIENTS: extravirgin olive oil
+
+
+SENTID: 1
+SENT: I would place pork roast over onion .
+PREDID: 65
+PRED: place
+   DOBJ: pork roast
+      INGREDIENT SPAN: pork roast
+         INGREDIENTS: pork butt roast
+   PARG: onion
+     PREP: over
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 2
+SENT: I would cook on Low until pork is very tender , 8 to 9 hours .
+PREDID: 89
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: pork is very tender , 8 to 9 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  8 to 9 hours
+      NON-INGREDIENT SPAN: pork is very tender 
+
+
+SENTID: 3
+SENT: I would transfer roast to a platter and discard onion and liquid .
+PREDID: 130
+PRED: transfer
+   DOBJ: roast
+      NON-INGREDIENT SPAN: roast
+   PARG: a platter
+     PREP: to
+      NON-INGREDIENT SPAN: a platter
+
+PREDID: 156
+PRED: discard
+   DOBJ: NULL
+   OARG: onion, liquid
+      NON-INGREDIENT SPAN:  liquid
+      NON-INGREDIENT SPAN: onion
+
+
+SENTID: 4
+SENT: I would shred pork with two forks .
+PREDID: 178
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: two forks
+     PREP: with
+      NON-INGREDIENT SPAN: two forks
+
+
+SENTID: 5
+SENT: I would heat the remaining 2 tablespoons olive oil in a stock pot over medium heat ;
+PREDID: 200
+PRED: heat
+   DOBJ: the remaining 2 tablespoons olive oil in a stock pot over medium heat
+      NON-INGREDIENT SPAN: the remaining 2 tablespoons olive oil in a stock pot over medium heat
+
+
+SENTID: 6
+SENT: I would cook and stir chopped onion , garlic , and red pepper flakes until onion is translucent , about 5 minutes .
+PREDID: 259
+PRED: cook and stir
+   DOBJ: chopped onion
+      NON-INGREDIENT SPAN: chopped onion
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+   OARG: red pepper flakes until onion is translucent , about 5 minutes
+      INGREDIENT SPAN: red pepper flakes until onion is translucent 
+         INGREDIENTS: red pepper flakes
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 7
+SENT: I would add shredded pork , tomato paste , the molasses , brown sugar , Worcestershire sauce , balsamic vinegar , the salt , and black pepper ;
+PREDID: 346
+PRED: add
+   DOBJ: shredded pork , tomato paste , the molasses , brown sugar , Worcestershire sauce , balsamic vinegar , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: sea salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  the molasses 
+         INGREDIENTS: molasses
+      NON-INGREDIENT SPAN: shredded pork 
+
+
+SENTID: 8
+SENT: I would stir well .
+PREDID: 450
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would cover and simmer until sauce is thickened , stirring occasionally , about 30 minutes .
+PREDID: 459
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: sauce is thickened
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is thickened
+   OARG: stirring occasionally , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: stirring occasionally 
+
+

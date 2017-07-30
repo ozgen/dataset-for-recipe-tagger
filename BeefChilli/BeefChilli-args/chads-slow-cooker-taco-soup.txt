@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would brown the ground beef completely in a large skillet over medium heat ;
+PREDID: 0
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN: the 
+         INGREDIENTS: undrained
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 58
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would transfer the beef to a slow cooker .
+PREDID: 64
+PRED: transfer
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 3
+SENT: I would brown the sausage completely in a large skillet over medium heat ;
+PREDID: 93
+PRED: brown
+   DOBJ: the sausage
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: bulk hot pork sausage
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 148
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would transfer the beef to a slow cooker .
+PREDID: 154
+PRED: transfer
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 6
+SENT: I would add the crushed tomatoes , the corn , black beans , kidney beans , ranch dressing mix , taco seasoning mix , the onion , green bell pepper , red bell pepper , diced tomatoes with green chile peppers , chili sauce , jalapeno peppers , the beer , and black pepper to the slow cooker .
+PREDID: 183
+PRED: add
+   DOBJ: the crushed tomatoes , the corn , black beans , kidney beans , ranch dressing mix , taco seasoning mix , the onion , green bell pepper , red bell pepper , diced tomatoes with green chile peppers , chili sauce , jalapeno peppers , the beer , black pepper
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: fresh jalapeno peppers diced
+      INGREDIENT SPAN:  diced tomatoes with green chile peppers 
+         INGREDIENTS: ounce diced tomatoes green chile peppers such RO TEL
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  chili sauce 
+         INGREDIENTS: chili sauce
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  ranch dressing mix 
+         INGREDIENTS: ounce package ranch dressing mix
+      INGREDIENT SPAN: the crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn red green bell peppers such
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid ounce bottle dark beer
+      INGREDIENT SPAN:  taco seasoning mix 
+         INGREDIENTS: ounce package taco seasoning mix
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 7
+SENT: I would set slow cooker to Low and cook 8 to 10 hours , or , if you prefer , on High for 4 to 6 hours .
+PREDID: 400
+PRED: set
+   DOBJ: slow cooker
+      NON-INGREDIENT SPAN: slow cooker
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   PARG: you prefer , on high for 4 to 6 hours
+     PREP: if
+      NON-INGREDIENT SPAN:  on high for 4 to 6 hours
+      NON-INGREDIENT SPAN: you prefer 
+
+PREDID: 421
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 hours
+
+

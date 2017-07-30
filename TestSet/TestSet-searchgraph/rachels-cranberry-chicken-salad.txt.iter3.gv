@@ -1,0 +1,28 @@
+digraph recipe {
+E0[label="mix
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="stir
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="serve
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="refrigerate
+4", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: mayonnaise or to taste, cooked chicken breast halves", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:to coat well ", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: in salt and black pepper to taste, sweetened cranberries such Ocean Spray   Craisins, lime juice, chopped pecans, green apple, green onions, dried dill weed", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+P2_0_0[label="COOBJECT:in  pepper ", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+D3_0[label="DOBJ: several hours or overnight -lrb- the flavor", shape=box, style=filled, fillcolor=white]
+D3_0 -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT PREP"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and cube potatoes .
+PREDID: 121
+PRED: drain and cube
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 4
+SENT: I would transfer potatoes to a large bowl ;
+PREDID: 142
+PRED: transfer
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would stir in mayonnaise , sour cream , the vinegar , the sugar , the onion , and celery seed until well coated .
+PREDID: 171
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , sour cream , the vinegar , the sugar , the onion , celery seed
+     PREP: in
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: dried minced onion
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise such Hellmann Best Foods
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 6
+SENT: I would gently mix in eggs and season with salt and black pepper .
+PREDID: 253
+PRED: mix
+   DOBJ: NULL
+   PARG: eggs, season
+     PREP: in
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs chopped
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would refrigerate until chilled .
+PREDID: 294
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+

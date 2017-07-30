@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 31
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would crumble and set aside .
+PREDID: 70
+PRED: crumble and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a preheated skillet , I would add the chicken , seasoning mix and oil .
+PREDID: 109
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+   PARG: a preheated skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated skillet
+   OARG: seasoning mix, oil
+      INGREDIENT SPAN: seasoning mix
+         INGREDIENTS: Cajun seasoning
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: light olive oil
+
+
+SENTID: 4
+SENT: I would cook until chicken is golden brown .
+PREDID: 142
+PRED: cook
+   DOBJ: NULL
+   PARG: chicken is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is golden brown
+
+
+SENTID: 5
+SENT: I would remove from heat and set aside .
+PREDID: 172
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 189
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: In a salad bowl , I would combine Romaine , enough salad dressing to coat , Parmesan cheese and bacon .
+PREDID: 211
+PRED: combine
+   DOBJ: Romaine , enough salad dressing to coat , Parmesan cheese, bacon
+      INGREDIENT SPAN: Romaine 
+         INGREDIENTS: head romaine lettuce rinsed dried chopped
+      INGREDIENT SPAN:  enough salad dressing to coat 
+         INGREDIENTS: Caesar salad dressing
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      NON-INGREDIENT SPAN:  bacon
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+
+
+SENTID: 7
+SENT: I would toss and place on individual salad plates .
+PREDID: 275
+PRED: toss and place
+   DOBJ: NULL
+   PARG: individual salad plates
+     PREP: on
+      NON-INGREDIENT SPAN: individual salad plates
+
+
+SENTID: 8
+SENT: I would top with the sliced chicken and serve .
+PREDID: 311
+PRED: top
+   DOBJ: NULL
+   PARG: the sliced chicken
+     PREP: with
+      NON-INGREDIENT SPAN: the sliced chicken
+
+

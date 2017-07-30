@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would combine the jicama , the cilantro , lime juice , lemon juice , and mandarin orange segments with a small amount of the syrup from the can in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: the jicama , the cilantro , lime juice , lemon juice , mandarin orange segments
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: fresh cilantro leaves minced
+      INGREDIENT SPAN: the jicama 
+         INGREDIENTS: jicama peeled chopped
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: large lime juiced
+      INGREDIENT SPAN:  mandarin orange segments
+         INGREDIENTS: ounce mandarin orange segments drained liquid reserved
+      INGREDIENT SPAN: the 
+         INGREDIENTS: lemon juiced
+      NON-INGREDIENT SPAN:  lemon juice 
+   PARG: a small amount of the syrup
+     PREP: with
+      NON-INGREDIENT SPAN: a small amount of the syrup
+   PARG: the can in a bowl
+     PREP: from
+      NON-INGREDIENT SPAN: the can in a bowl
+
+
+SENTID: 1
+SENT: I would mix to evenly coat .
+PREDID: 116
+PRED: mix
+   DOBJ: NULL
+   PARG: evenly coat
+     PREP: to
+      NON-INGREDIENT SPAN: evenly coat
+
+
+SENTID: 2
+SENT: I would allow mixture to sit 10 minutes .
+PREDID: 132
+PRED: allow
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: to sit 10 minutes
+      NON-INGREDIENT SPAN: to sit 10 minutes
+
+
+SENTID: 3
+SENT: I would season with salt and stir just before serving .
+PREDID: 159
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+PREDID: 176
+PRED: stir
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

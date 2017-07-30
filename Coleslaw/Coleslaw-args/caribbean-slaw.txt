@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would toss the cabbage , red bell pepper , red onion , the carrots , the mango , and cilantro together in a large bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: the cabbage , red bell pepper , red onion , the carrots , the mango , cilantro
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots peeled shredded
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion sliced
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head green cabbage shredded
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: fresh cilantro chopped
+      INGREDIENT SPAN:  the mango 
+         INGREDIENTS: mango peeled seeded diced
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would whisk the yogurt , the mayonnaise , the mustard , cider vinegar , agave nectar , the salt , the pepper , and hot sauce together in a small bowl ;
+PREDID: 84
+PRED: whisk
+   DOBJ: the yogurt , the mayonnaise , the mustard , cider vinegar , agave nectar , the salt , the pepper , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: habanero hot sauce more taste
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: reducedfat mayonnaise
+      INGREDIENT SPAN:  agave nectar 
+         INGREDIENTS: agave nectar
+      INGREDIENT SPAN:  cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN: the yogurt 
+         INGREDIENTS: nonfat plain yogurt
+      NON-INGREDIENT SPAN:  the pepper 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would pour over the cabbage mixture and toss to coat .
+PREDID: 187
+PRED: pour
+   DOBJ: NULL
+   PARG: the cabbage mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the cabbage mixture
+
+PREDID: 215
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would allow the slaw to marinate in the refrigerator for at least 1 hour to allow the flavors to combine .
+PREDID: 226
+PRED: allow
+   DOBJ: the slaw to marinate in the refrigerator for at least 1 hour to allow the flavors to combine
+      NON-INGREDIENT SPAN: the slaw to marinate in the refrigerator for at least 1 hour to allow the flavors to combine
+
+

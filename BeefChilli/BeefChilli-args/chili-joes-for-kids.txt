@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook onion and bell pepper in olive oil until soft .
+PREDID: 30
+PRED: cook
+   DOBJ: onion, bell pepper in olive oil
+      INGREDIENT SPAN:  in olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  bell pepper in olive oil
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+
+
+SENTID: 1
+SENT: I would stir in beef and cook until brown .
+PREDID: 72
+PRED: stir
+   DOBJ: NULL
+   PARG: beef, cook
+     PREP: in
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  cook
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 2
+SENT: I would sprinkle chili powder over mixture and pour in chili sauce .
+PREDID: 100
+PRED: sprinkle
+   DOBJ: chili powder
+      INGREDIENT SPAN: chili powder
+         INGREDIENTS: chili powder
+   PARG: mixture
+     PREP: over
+      NON-INGREDIENT SPAN: mixture
+
+PREDID: 133
+PRED: pour
+   DOBJ: NULL
+   PARG: chili sauce
+     PREP: in
+      INGREDIENT SPAN: chili sauce
+         INGREDIENTS: ounce bottle tomatobased chili sauce
+
+
+SENTID: 3
+SENT: I would fill empty bottle with water and shake to remove the remaining sauce .
+PREDID: 150
+PRED: fill
+   DOBJ: empty bottle
+      NON-INGREDIENT SPAN: empty bottle
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+PREDID: 177
+PRED: shake
+   DOBJ: NULL
+   OARG: to remove the remaining sauce
+      NON-INGREDIENT SPAN: to remove the remaining sauce
+
+
+SENTID: 4
+SENT: I would pour remaining sauce and water into pan .
+PREDID: 205
+PRED: pour
+   DOBJ: remaining sauce, water
+      NON-INGREDIENT SPAN: remaining sauce
+      NON-INGREDIENT SPAN:  water
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 5
+SENT: I would stir in beans and simmer 15 minutes before serving .
+PREDID: 239
+PRED: stir
+   DOBJ: NULL
+   PARG: beans, simmer
+     PREP: in
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce kidney beans
+      NON-INGREDIENT SPAN:  simmer
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 15 minutes
+      NON-INGREDIENT SPAN: 15 minutes
+
+

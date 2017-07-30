@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: Once the water is boiling , I would stir in the tortellini and return to a boil .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the tortellini
+     PREP: in
+      INGREDIENT SPAN: the tortellini
+         INGREDIENTS: refrigerated cheese tortellini
+
+PREDID: 114
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook until the pasta floats to the top , 1 to 2 minutes ;
+PREDID: 128
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta floats to the top , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta floats to the top 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 172
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would heat sesame oil in a large skillet or wok over medium-high heat ;
+PREDID: 178
+PRED: heat
+   DOBJ: sesame oil
+      INGREDIENT SPAN: sesame oil
+         INGREDIENTS: sesame oil
+   PARG: a large skillet or wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium-high heat
+
+
+SENTID: 5
+SENT: I would cook and stir meatballs , pineapple chunks , and hoisin sauce until meatballs are heated through , 7 to 10 minutes .
+
+SENTID: 6
+SENT: I would transfer meatball mixture to a bowl and set aside .
+PREDID: 231
+PRED: transfer
+   DOBJ: meatball mixture
+      INGREDIENT SPAN: meatball mixture
+         INGREDIENTS: ounce package teriyaki ginger chicken meatballs
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 264
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would heat olive oil in the same skillet until oil begins to shimmer .
+PREDID: 273
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: the same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the same skillet
+   PARG: oil begins
+     PREP: until
+      NON-INGREDIENT SPAN: oil begins
+
+
+SENTID: 8
+SENT: I would add broccoli , the cauliflower , the carrots , green bell pepper , red bell pepper , the zucchini , the celery , and green onions .
+PREDID: 325
+PRED: add
+   DOBJ: broccoli , the cauliflower , the carrots , green bell pepper , red bell pepper , the zucchini , the celery , green onions
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots chopped
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  the cauliflower 
+         INGREDIENTS: chopped cauliflower florets
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: chopped broccoli florets
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: small zucchini peeled sliced
+
+
+SENTID: 9
+SENT: I would season with salt and pepper .
+PREDID: 418
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: sea salt
+
+
+SENTID: 10
+SENT: I would cook and stir until vegetables are just tender , about 5 minutes .
+PREDID: 442
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: vegetables are just tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are just tender 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 11
+SENT: I would stir tortellini and meatball mixture into vegetable mixture until hot .
+PREDID: 496
+PRED: stir
+   DOBJ: tortellini, meatball mixture
+      NON-INGREDIENT SPAN:  meatball mixture
+      NON-INGREDIENT SPAN: tortellini
+   PARG: vegetable mixture
+     PREP: into
+      NON-INGREDIENT SPAN: vegetable mixture
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 12
+SENT: I would sprinkle with parsley and Parmesan cheese to serve .
+PREDID: 557
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parsley, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN:  parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: parsley
+         INGREDIENTS: chopped fresh parsley
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

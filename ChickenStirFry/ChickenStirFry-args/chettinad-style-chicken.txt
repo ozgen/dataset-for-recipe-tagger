@@ -1,0 +1,193 @@
+SENTID: 0
+SENT: I would rub the chicken pieces with the turmeric and salt .
+PREDID: 0
+PRED: rub
+   DOBJ: the chicken pieces
+      INGREDIENT SPAN: the chicken pieces
+         INGREDIENTS: skinless boneless chicken breast cut bitesized chunks
+   PARG: the turmeric, salt
+     PREP: with
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: the turmeric
+         INGREDIENTS: turmeric
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 42
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat the oil in a large skillet or kadhai over medium heat .
+PREDID: 51
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or kadhai over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or kadhai over medium heat
+
+
+SENTID: 3
+SENT: I would fry the poppy seeds , the peppercorns , fennel seed , coriander seed , and cumin seed in the hot oil until they just begin to change color ;
+PREDID: 99
+PRED: fry
+   DOBJ: the poppy seeds , the peppercorns , fennel seed , coriander seed , cumin seed
+      INGREDIENT SPAN:  cumin seed
+         INGREDIENTS: cumin seed
+      INGREDIENT SPAN:  coriander seed 
+         INGREDIENTS: coriander seed
+      INGREDIENT SPAN: the poppy seeds 
+         INGREDIENTS: poppy seeds
+      INGREDIENT SPAN:  fennel seed 
+         INGREDIENTS: fennel seed
+      INGREDIENT SPAN:  the peppercorns 
+         INGREDIENTS: whole black peppercorns
+   PARG: the hot oil
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oil
+   PARG: they just begin
+     PREP: until
+      NON-INGREDIENT SPAN: they just begin
+
+
+SENTID: 4
+SENT: I would remove from the skillet , keeping the oil in the skillet .
+PREDID: 208
+PRED: remove
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+   OARG: keeping the oil in the skillet
+      NON-INGREDIENT SPAN: keeping the oil in the skillet
+
+
+SENTID: 5
+SENT: I would grind the spice mixture with a mortar and pestle and set aside .
+PREDID: 255
+PRED: grind
+   DOBJ: the spice mixture
+      NON-INGREDIENT SPAN: the spice mixture
+   PARG: a mortar
+     PREP: with
+      NON-INGREDIENT SPAN: a mortar
+
+PREDID: 289
+PRED: pestle and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would add the onion , green chile peppers , curry leaves , ginger paste , and garlic paste to the remaining oil ;
+PREDID: 307
+PRED: add
+   DOBJ: the onion , green chile peppers , curry leaves , ginger paste , garlic paste
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: large onions minced
+      INGREDIENT SPAN:  curry leaves 
+         INGREDIENTS: sprigs fresh curry leaves
+      INGREDIENT SPAN:  garlic paste
+         INGREDIENTS: garlic paste
+      INGREDIENT SPAN:  ginger paste 
+         INGREDIENTS: ginger paste
+      INGREDIENT SPAN:  green chile peppers 
+         INGREDIENTS: green chile peppers chopped
+   PARG: the remaining oil
+     PREP: to
+      NON-INGREDIENT SPAN: the remaining oil
+
+
+SENTID: 7
+SENT: I would cook until the onions are golden brown , 7 to 10 minutes .
+PREDID: 393
+PRED: cook
+   DOBJ: NULL
+   PARG: the onions are golden brown , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are golden brown 
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+
+
+SENTID: 8
+SENT: I would stir the tomatoes and ground spices into the mixture ;
+PREDID: 439
+PRED: stir
+   DOBJ: the tomatoes, ground spices
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: chopped fresh tomatoes
+      NON-INGREDIENT SPAN:  ground spices
+   PARG: the mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 9
+SENT: I would cook until the tomatoes are softened .
+PREDID: 484
+PRED: cook
+   DOBJ: NULL
+   PARG: the tomatoes are softened
+     PREP: until
+      NON-INGREDIENT SPAN: the tomatoes are softened
+
+
+SENTID: 10
+SENT: I would add the chicken .
+PREDID: 516
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast cut bitesized chunks
+
+
+SENTID: 11
+SENT: I would season with salt and simmer for 5 minutes .
+PREDID: 530
+PRED: season
+   DOBJ: NULL
+   PARG: salt, simmer
+     PREP: with
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: salt
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 12
+SENT: I would pour the water over the mixture , cover , and cook until the chicken is no longer pink in the middle and the juices run clear , about 30 minutes .
+PREDID: 565
+PRED: pour
+   DOBJ: the water over the mixture
+      INGREDIENT SPAN: the water over the mixture
+         INGREDIENTS: water
+   OARG: the juices run clear , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the juices run clear 
+
+PREDID: 601
+PRED: cook
+   DOBJ: NULL
+   PARG: the chicken is no longer pink in the middle
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is no longer pink in the middle
+
+
+SENTID: 13
+SENT: I would serve hot .
+PREDID: 681
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

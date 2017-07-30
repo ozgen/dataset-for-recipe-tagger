@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a baking dish
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 2
+SENT: I would mix ground beef with onion powder , garlic powder , the salt , and black pepper in a bowl ;
+PREDID: 56
+PRED: mix
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: onion powder , garlic powder , the salt , black pepper in a bowl
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper in a bowl
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN: onion powder 
+         INGREDIENTS: onion powder
+
+
+SENTID: 3
+SENT: I would form mixture into a loaf and place into prepared baking dish .
+PREDID: 125
+PRED: form
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+PREDID: 148
+PRED: place
+   DOBJ: NULL
+   PARG: prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: prepared baking dish
+
+
+SENTID: 4
+SENT: I would bring root beer , the raisins , Worcestershire sauce , and ketchup to a boil in a saucepan ;
+PREDID: 176
+PRED: bring
+   DOBJ: root beer , the raisins , Worcestershire sauce , ketchup
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: root beer 
+         INGREDIENTS: root beer
+   PARG: a boil in a saucepan
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a saucepan
+
+
+SENTID: 5
+SENT: I would reduce heat and simmer until flavors have blended and raisins are plump , about 5 minutes .
+
+SENTID: 6
+SENT: I would pour raisin sauce over meat loaf .
+PREDID: 322
+PRED: pour
+   DOBJ: raisin sauce
+      NON-INGREDIENT SPAN: raisin sauce
+   PARG: meat loaf
+     PREP: over
+      NON-INGREDIENT SPAN: meat loaf
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until meat loaf is no longer pink inside and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 25 to 30 minutes .
+

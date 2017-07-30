@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for medium heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for medium heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium heat
+
+
+SENTID: 1
+SENT: To make the guacamole , mash the avocado in a medium bowl with the juice of half a lime , jalapeno , the tomatoes , 1/4 cup onion , and 1?1/2 teaspoons of minced garlic ;
+PREDID: 37
+PRED: make
+   DOBJ: the guacamole
+      INGREDIENT SPAN: the guacamole
+         INGREDIENTS: Guacamole
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 77
+PRED: bowl
+   DOBJ: NULL
+   PARG: the juice of half a lime , jalapeno , the tomatoes , 1/4 cup onion , 1?1/2 teaspoons of minced garlic
+     PREP: with
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: diced tomatoes
+      INGREDIENT SPAN: the juice of half a lime 
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  1?1/2 teaspoons of minced garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  1/4 cup onion 
+         INGREDIENTS: diced onion
+      NON-INGREDIENT SPAN:  jalapeno 
+   OARG: mash the avocado in a medium
+      INGREDIENT SPAN: mash the avocado in a medium
+         INGREDIENTS: avocados halved peeled pitted
+
+
+SENTID: 2
+SENT: I would season to taste with salt , and set aside .
+PREDID: 167
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt , set aside
+      INGREDIENT SPAN: to taste with salt 
+         INGREDIENTS: salt taste
+      NON-INGREDIENT SPAN:  set aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix together beef , the juice of half a lime , 1 tablespoon garlic , chili powder , 1/2 cup diced onion , and cilantro .
+PREDID: 214
+PRED: mix
+   DOBJ: beef , the juice of half a lime , 1 tablespoon garlic , chili powder , 1/2 cup diced onion , cilantro
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  1/2 cup diced onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  1 tablespoon garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped cilantro
+      NON-INGREDIENT SPAN:  the juice of half a lime 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would form the meat into 6 patties .
+PREDID: 309
+PRED: form
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: 6 patties
+     PREP: into
+      NON-INGREDIENT SPAN: 6 patties
+
+
+SENTID: 5
+SENT: I would cook the burgers to desired doneness on the preheated grill .
+PREDID: 333
+PRED: cook
+   DOBJ: the burgers
+      INGREDIENT SPAN: the burgers
+         INGREDIENTS: Burger
+   PARG: desired doneness on the preheated grill
+     PREP: to
+      NON-INGREDIENT SPAN: desired doneness on the preheated grill
+
+
+SENTID: 6
+SENT: I would add a slice of cheese to each burger during the last minute of cooking .
+PREDID: 384
+PRED: add
+   DOBJ: a slice of cheese
+      INGREDIENT SPAN: a slice of cheese
+         INGREDIENTS: slices Monterey Jack cheese
+   PARG: each burger
+     PREP: to
+      NON-INGREDIENT SPAN: each burger
+   PARG: the last minute of cooking
+     PREP: during
+      NON-INGREDIENT SPAN: the last minute of cooking
+
+
+SENTID: 7
+SENT: I would serve on toasted buns with a dollop of guacamole .
+PREDID: 442
+PRED: serve
+   DOBJ: NULL
+   PARG: toasted buns
+     PREP: on
+      INGREDIENT SPAN: toasted buns
+         INGREDIENTS: hamburger buns
+   PARG: a dollop of guacamole
+     PREP: with
+      NON-INGREDIENT SPAN: a dollop of guacamole
+
+

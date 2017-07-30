@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      INGREDIENT SPAN: a large pot of lightly salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would place egg noodles in the pot , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 42
+PRED: place
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package uncooked wide egg noodles
+   PARG: the pot
+     PREP: in
+      NON-INGREDIENT SPAN: the pot
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 66
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: In a bowl , I would mix the beef , 1?1/4 teaspoons salt , the pepper , the eggs , and onion .
+PREDID: 116
+PRED: mix
+   DOBJ: the beef , 1?1/4 teaspoons salt , the pepper , the eggs , onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  1?1/4 teaspoons salt 
+         INGREDIENTS: salt divided
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: pepper
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would form into small meatballs around the olives .
+PREDID: 167
+PRED: form
+   DOBJ: NULL
+   PARG: small meatballs
+     PREP: into
+      NON-INGREDIENT SPAN: small meatballs
+   PARG: the olives
+     PREP: around
+      INGREDIENT SPAN: the olives
+         INGREDIENTS: ounce pitted black olives
+
+
+SENTID: 4
+SENT: I would heat the oil in skillet over medium heat , and cook the meatballs until evenly brown .
+PREDID: 205
+PRED: heat
+   DOBJ: the oil in skillet
+      INGREDIENT SPAN: the oil in skillet
+         INGREDIENTS: vegetable oil
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+PREDID: 242
+PRED: cook
+   DOBJ: the meatballs
+      NON-INGREDIENT SPAN: the meatballs
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 5
+SENT: I would remove meatballs from skillet , reserving oil ;
+PREDID: 275
+PRED: remove
+   DOBJ: meatballs
+      NON-INGREDIENT SPAN: meatballs
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+   OARG: reserving oil
+      NON-INGREDIENT SPAN: reserving oil
+
+
+SENTID: 6
+SENT: I would set meatballs aside , and keep warm .
+PREDID: 315
+PRED: set
+   DOBJ: meatballs
+      NON-INGREDIENT SPAN: meatballs
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+PREDID: 336
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 7
+SENT: I would stir the flour into the reserved oil in the skillet .
+PREDID: 345
+PRED: stir
+   DOBJ: the flour
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+   PARG: the reserved oil in the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the reserved oil in the skillet
+
+
+SENTID: 8
+SENT: I would gradually mix in water to form a thick gravy .
+PREDID: 397
+PRED: mix
+   DOBJ: NULL
+   PARG: water
+     PREP: in
+      NON-INGREDIENT SPAN: water
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: to form a thick gravy
+      NON-INGREDIENT SPAN: to form a thick gravy
+
+
+SENTID: 9
+SENT: I would stir in sour cream , the dill , and remaining 1/4 teaspoon salt , and cook until heated through .
+PREDID: 425
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream , the dill
+     PREP: in
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the dill
+         INGREDIENTS: dried dill weed
+   OARG: remaining 1/4 teaspoon salt
+      INGREDIENT SPAN: remaining 1/4 teaspoon salt
+         INGREDIENTS: salt divided
+
+PREDID: 480
+PRED: cook
+   DOBJ: NULL
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: I would pour over the meatballs , and serve over cooked egg noodles .
+PREDID: 500
+PRED: pour
+   DOBJ: the meatballs
+      NON-INGREDIENT SPAN: the meatballs
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 524
+PRED: serve
+   DOBJ: cooked egg noodles
+      NON-INGREDIENT SPAN: cooked egg noodles
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

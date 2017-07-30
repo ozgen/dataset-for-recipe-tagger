@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would place ground beef in a large , deep skillet .
+PREDID: 38
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 2
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 74
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would drain , crumble and set aside .
+PREDID: 113
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 129
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a medium saucepan over medium-high heat , I would combine spaghetti sauce mix , mushroom gravy mix , tomato paste , the water and oil .
+PREDID: 175
+PRED: combine
+   DOBJ: spaghetti sauce mix , mushroom gravy mix , tomato paste , the water, oil
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  mushroom gravy mix 
+         INGREDIENTS: ounce package dry mushroom gravy mix
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: spaghetti sauce mix 
+         INGREDIENTS: packets dry spaghetti sauce mix
+   PARG: a medium saucepan over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan over medium-high heat
+
+
+SENTID: 5
+SENT: I would bring to a boil and stir in ground beef .
+PREDID: 241
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 256
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef
+     PREP: in
+      NON-INGREDIENT SPAN: ground beef
+
+
+SENTID: 6
+SENT: I would reduce heat and simmer for 20 minutes .
+PREDID: 273
+PRED: reduce
+   DOBJ: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+
+SENTID: 7
+SENT: In a 9x13 inch baking dish layer the noodles , the sauce and cheese ;
+PREDID: 329
+PRED: dish
+   DOBJ: the sauce, cheese, the noodles
+      INGREDIENT SPAN:  the noodles
+         INGREDIENTS: ounce package lasagna noodles
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: ounce package mozzarella cheese shredded
+      NON-INGREDIENT SPAN: the sauce
+   PARG: a 9x13 inch
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch
+   OARG: baking
+      NON-INGREDIENT SPAN: baking
+   OARG: layer
+      NON-INGREDIENT SPAN: layer
+
+
+SENTID: 8
+SENT: I would repeat layers , ending with cheese .
+PREDID: 357
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: ending with cheese
+      NON-INGREDIENT SPAN: ending with cheese
+
+
+SENTID: 9
+SENT: I would bake in preheated oven for 20 minutes .
+PREDID: 387
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+
+

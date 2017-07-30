@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would heat peanut oil in a wok or large skillet .
+PREDID: 0
+PRED: heat
+   DOBJ: peanut oil
+      INGREDIENT SPAN: peanut oil
+         INGREDIENTS: peanut oil
+   PARG: a wok or large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet
+
+
+SENTID: 1
+SENT: When oil begins to smoke , quickly stir in 2 cloves minced garlic , ginger root , green onions and salt .
+PREDID: 62
+PRED: stir
+   DOBJ: NULL
+   PARG: 2 cloves minced garlic , ginger root , green onions, salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  ginger root 
+         INGREDIENTS: grated fresh ginger
+      INGREDIENT SPAN: 2 cloves minced garlic 
+         INGREDIENTS: cloves garlic minced
+   OARG: when oil begins
+      NON-INGREDIENT SPAN: when oil begins
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+
+
+SENTID: 2
+SENT: I would stir fry until onion becomes translucent , about 2 minutes .
+PREDID: 118
+PRED: stir
+   DOBJ: fry
+      NON-INGREDIENT SPAN: fry
+   PARG: onion becomes translucent , about 2 minutes
+     PREP: until
+      INGREDIENT SPAN: onion becomes translucent 
+         INGREDIENTS: onions sliced
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 3
+SENT: I would add chicken and stir until opaque , about 3 minutes .
+PREDID: 168
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chicken broth
+
+PREDID: 181
+PRED: stir
+   DOBJ: NULL
+   PARG: opaque , about 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: opaque 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 4
+SENT: I would add the remaining 4 cloves minced garlic and stir .
+PREDID: 211
+PRED: add
+   DOBJ: the remaining 4 cloves minced garlic
+      INGREDIENT SPAN: the remaining 4 cloves minced garlic
+         INGREDIENTS: cloves garlic minced
+
+
+SENTID: 5
+SENT: I would add sweet onions , the cabbage , bell pepper , the peas and 1/2 cup of the broth/water and cover .
+PREDID: 250
+PRED: add
+   DOBJ: sweet onions , the cabbage , bell pepper , the peas, 1/2 cup of the broth/water
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  the peas
+         INGREDIENTS: sugar snap peas
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: sliced cabbage
+      NON-INGREDIENT SPAN: sweet onions 
+      NON-INGREDIENT SPAN:  1/2 cup of the broth/water
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix the remaining 1/2 cup broth/water , soy sauce , the sugar and cornstarch .
+PREDID: 335
+PRED: mix
+   DOBJ: the remaining 1/2 cup broth/water , soy sauce , the sugar, cornstarch
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+      NON-INGREDIENT SPAN: the remaining 1/2 cup broth/water 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 7
+SENT: I would add sauce mixture to wok/skillet and stir until chicken and vegetables are coated with the thickened sauce .
+PREDID: 396
+PRED: add
+   DOBJ: sauce mixture
+      NON-INGREDIENT SPAN: sauce mixture
+   OARG: to wok/skillet, stir until chicken, vegetables are coated with the thickened sauce
+      INGREDIENT SPAN:  stir until chicken
+         INGREDIENTS: boneless skinless chicken breasts cut strips
+      NON-INGREDIENT SPAN:  vegetables are coated with the thickened sauce
+      NON-INGREDIENT SPAN: to wok/skillet
+
+
+SENTID: 8
+SENT: I would serve immediately , over hot rice if desired .
+PREDID: 487
+PRED: serve
+   DOBJ: NULL
+   PARG: hot rice if desired
+     PREP: over
+      NON-INGREDIENT SPAN: hot rice if desired
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

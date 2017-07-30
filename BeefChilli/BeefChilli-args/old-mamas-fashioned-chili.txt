@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would cook and stir ground beef in a skillet over medium-high heat until crumbly and browned , 5 to 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef in a skillet
+      INGREDIENT SPAN: ground beef in a skillet
+         INGREDIENTS: ground beef
+   PARG: medium-high heat until crumbly, browned , 5 to 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat until crumbly
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+      NON-INGREDIENT SPAN:  browned 
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 86
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would stir drained ground beef , black beans , kidney beans , the tomatoes , green bell peppers , yellow onion , the garlic , and chili seasoning together in a large pot over medium-high heat .
+PREDID: 92
+PRED: stir
+   DOBJ: drained ground beef , black beans , kidney beans , the tomatoes , green bell peppers , yellow onion , the garlic , chili
+      INGREDIENT SPAN:  chili
+         INGREDIENTS: ounce package chili seasoning mix taste
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce stewed tomatoes undrained
+      INGREDIENT SPAN: drained ground beef 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce black beans undrained
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce kidney beans undrained
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: green bell peppers cut 1/2inch dice
+      NON-INGREDIENT SPAN:  yellow onion 
+      NON-INGREDIENT SPAN:  the garlic 
+   OARG: seasoning together in a large pot over medium-high heat
+      NON-INGREDIENT SPAN: seasoning together in a large pot over medium-high heat
+
+
+SENTID: 3
+SENT: Bring to a boil , I would reduce heat to low , and simmer , stirring occasionally , until vegetables are slightly tender and chili is heated through , 15 to 20 minutes .
+PREDID: 251
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   PARG: vegetables are slightly tender, chili is heated through , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  chili is heated through 
+      NON-INGREDIENT SPAN: vegetables are slightly tender
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+   OARG: bring to a boil
+      NON-INGREDIENT SPAN: bring to a boil
+
+PREDID: 277
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 4
+SENT: I would season with hot sauce , the salt , and ground black pepper to taste .
+PREDID: 368
+PRED: season
+   DOBJ: NULL
+   PARG: hot sauce , the salt , ground black pepper
+     PREP: with
+      INGREDIENT SPAN: hot sauce 
+         INGREDIENTS: hot sauce taste
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  ground black pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

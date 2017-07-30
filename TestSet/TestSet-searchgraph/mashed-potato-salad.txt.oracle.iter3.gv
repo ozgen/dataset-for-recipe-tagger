@@ -1,0 +1,67 @@
+digraph recipe {
+E0[label="cube
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="place
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cover
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="place
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="mash
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir in
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir in
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="serve
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: red potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D1_ing[label="DOBJ: Yukon Gold potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+P1_1_0[label="LOCATION:in a large saucepan", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="COOBJECT:with water", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+O3_1_0[label="OTHER: until potatoes are tender", shape=box, style=filled, fillcolor=white]
+O3_1_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="cooked potatoes"]
+P5_0_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="potatoes"]
+P6_0_ing[label="COOBJECT: with salt and pepper to taste", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+O6_0_0[label="OTHER: to taste", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: the mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+P7_1_ing[label="COOBJECT: sour sour cream", shape=box, style=filled, fillcolor=peachpuff]
+P7_1_ing -> E7
+O7_0_0[label="OTHER: mustard", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_ing[label="COOBJECT: the stalk celery finely", shape=box, style=filled, fillcolor=peachpuff]
+P8_0_ing -> E8
+P8_1_ing[label="COOBJECT: green green bell pepper", shape=box, style=filled, fillcolor=peachpuff]
+P8_1_ing -> E8
+O8_0_0[label="OTHER: onion", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: pickles", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+O9_0_0[label="OTHER: warm or at room temperature", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

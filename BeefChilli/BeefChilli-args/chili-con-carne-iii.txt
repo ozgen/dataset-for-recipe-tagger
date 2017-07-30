@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would combine onion , the garlic , and tomato paste .
+PREDID: 30
+PRED: combine
+   DOBJ: onion , the garlic , tomato paste
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic peeled crushed
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: tomato paste
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cover and cook for 5 minutes .
+PREDID: 65
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 2
+SENT: I would stir in butter until melted .
+PREDID: 89
+PRED: stir
+   DOBJ: NULL
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter cut
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 3
+SENT: I would stir in flour , the oregano , the cumin , chili powder , the tomatoes and beef .
+PREDID: 113
+PRED: stir
+   DOBJ: NULL
+   PARG: flour , the oregano , the cumin , chili powder , the tomatoes, beef
+     PREP: in
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano crushed
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: ounce whole peeled tomatoes liquid chopped
+
+
+SENTID: 4
+SENT: I would cook uncovered for 8 minutes , stirring occasionally .
+PREDID: 167
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 171
+PRED: uncovered
+   DOBJ: NULL
+   PARG: 8 minutes , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: 8 minutes 
+
+
+SENTID: 5
+SENT: I would stir in the beans and cook for another 4 minutes , stirring occasionally .
+PREDID: 213
+PRED: stir
+   DOBJ: NULL
+   PARG: the beans
+     PREP: in
+      INGREDIENT SPAN: the beans
+         INGREDIENTS: ounce kidney beans drained rinsed
+
+PREDID: 230
+PRED: cook
+   DOBJ: NULL
+   PARG: another 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 4 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 6
+SENT: I would salt and pepper to taste .
+

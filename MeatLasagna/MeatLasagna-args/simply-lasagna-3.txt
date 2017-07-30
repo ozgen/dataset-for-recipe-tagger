@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: I would heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f.
+
+
+SENTID: 1
+SENT: I would brown meat in large skillet on medium-high heat .
+PREDID: 22
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: large skillet on medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet on medium-high heat
+
+
+SENTID: 2
+SENT: I would meanwhile , mix 1?1/4 cups mozzarella , ricotta cheese , 1/4 cup Parmesan , the parsley and egg until well blended ;
+PREDID: 73
+PRED: mix
+   DOBJ: 1?1/4 cups mozzarella , ricotta cheese , 1/4 cup Parmesan , the parsley, egg until well blended
+      INGREDIENT SPAN:  egg until well blended
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: 1?1/4 cups mozzarella 
+         INGREDIENTS: KRAFT Shredded LowMoisture PartSkim Mozzarella Cheese divided
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: ounce container POLLYO Natural Part Skim Ricotta Cheese, KRAFT Grated Parmesan Cheese divided
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: ounce container POLLYO Natural Part Skim Ricotta Cheese, KRAFT Grated Parmesan Cheese divided
+      NON-INGREDIENT SPAN:  1/4 cup Parmesan 
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 155
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would drain meat ;
+PREDID: 164
+PRED: drain
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+
+
+SENTID: 5
+SENT: I would return to skillet .
+PREDID: 174
+PRED: return
+   DOBJ: NULL
+   OARG: to skillet
+      NON-INGREDIENT SPAN: to skillet
+
+
+SENTID: 6
+SENT: I would stir in spaghetti sauce .
+PREDID: 190
+PRED: stir
+   DOBJ: NULL
+   PARG: spaghetti sauce
+     PREP: in
+      INGREDIENT SPAN: spaghetti sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+
+
+SENTID: 7
+SENT: I would add 1 cup water to empty sauce jar ;
+PREDID: 211
+PRED: add
+   DOBJ: 1 cup water
+      INGREDIENT SPAN: 1 cup water
+         INGREDIENTS: water
+   PARG: empty sauce jar
+     PREP: to
+      NON-INGREDIENT SPAN: empty sauce jar
+
+
+SENTID: 8
+SENT: I would cover with lid and shake well .
+PREDID: 239
+PRED: cover
+   DOBJ: NULL
+   PARG: lid
+     PREP: with
+      NON-INGREDIENT SPAN: lid
+
+PREDID: 254
+PRED: shake
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would add to meat mixture ;
+PREDID: 264
+PRED: add
+   DOBJ: NULL
+   PARG: meat mixture
+     PREP: to
+      NON-INGREDIENT SPAN: meat mixture
+
+
+SENTID: 10
+SENT: I would stir until well blended .
+PREDID: 281
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 11
+SENT: I would spread 1 cup meat sauce onto bottom of 13x9-inch baking dish ;
+PREDID: 302
+PRED: spread
+   DOBJ: 1 cup meat sauce
+      NON-INGREDIENT SPAN: 1 cup meat sauce
+   PARG: bottom of 13x9-inch baking dish
+     PREP: onto
+      NON-INGREDIENT SPAN: bottom of 13x9-inch baking dish
+
+
+SENTID: 12
+SENT: I would top with layers of 3 lasagna noodles , 1/3 of the ricotta cheese mixture and 1 cup meat sauce .
+PREDID: 353
+PRED: top
+   DOBJ: NULL
+   PARG: layers of 3 lasagna noodles , 1/3 of the ricotta cheese mixture, 1 cup meat sauce
+     PREP: with
+      INGREDIENT SPAN:  1/3 of the ricotta cheese mixture
+         INGREDIENTS: KRAFT Shredded LowMoisture PartSkim Mozzarella Cheese divided
+      INGREDIENT SPAN: layers of 3 lasagna noodles 
+         INGREDIENTS: lasagna noodles uncooked
+      NON-INGREDIENT SPAN:  1 cup meat sauce
+
+
+SENTID: 13
+SENT: I would repeat layers twice .
+PREDID: 429
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice
+      NON-INGREDIENT SPAN: twice
+
+
+SENTID: 14
+SENT: I would top with remaining noodles , meat sauce and cheeses .
+PREDID: 447
+PRED: top
+   DOBJ: NULL
+   PARG: remaining noodles , meat sauce, cheeses
+     PREP: with
+      INGREDIENT SPAN: remaining noodles 
+         INGREDIENTS: lasagna noodles uncooked
+      INGREDIENT SPAN:  cheeses
+         INGREDIENTS: KRAFT Shredded LowMoisture PartSkim Mozzarella Cheese divided
+      NON-INGREDIENT SPAN:  meat sauce
+
+
+SENTID: 15
+SENT: I would cover with greased foil .
+PREDID: 491
+PRED: cover
+   DOBJ: NULL
+   PARG: greased foil
+     PREP: with
+      NON-INGREDIENT SPAN: greased foil
+
+
+SENTID: 16
+SENT: I would bake 1 hour or until heated through , removing foil after 45 min .
+PREDID: 512
+PRED: bake
+   DOBJ: 1 hour or until heated through , removing foil after 45 min
+      NON-INGREDIENT SPAN:  removing foil after 45 min
+      NON-INGREDIENT SPAN: 1 hour or until heated through 
+
+
+SENTID: 17
+SENT: I would let stand 15 min .
+PREDID: 565
+PRED: let
+   DOBJ: stand 15 min
+      NON-INGREDIENT SPAN: stand 15 min
+
+
+SENTID: 18
+SENT: before cutting to serve .
+

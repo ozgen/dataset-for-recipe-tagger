@@ -1,0 +1,118 @@
+digraph recipe {
+E0[label="bring (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="add (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook (S1,P1)", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="melt (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="cook (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E7[label="mix (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="continue (S5,P1)", shape=oval, style=filled, fillcolor=azure]
+E9[label="place (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="cook (S6,P1)", shape=oval, style=filled, fillcolor=azure]
+E11[label="mix (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E12[label="bring (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E13[label="blend (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+E14[label="reduce (S10,P0)", shape=oval, style=filled, fillcolor=azure]
+E15[label="pour (S11,P0)", shape=oval, style=filled, fillcolor=azure]
+E16[label="return (S12,P0)", shape=oval, style=filled, fillcolor=azure]
+E17[label="cover (S13,P0)", shape=oval, style=filled, fillcolor=azure]
+E18[label="continue (S13,P1)", shape=oval, style=filled, fillcolor=azure]
+E19[label="remove (S14,P0)", shape=oval, style=filled, fillcolor=azure]
+E20[label="let (S14,P1)", shape=oval, style=filled, fillcolor=azure]
+E21[label="stir (S14,P2)", shape=oval, style=filled, fillcolor=azure]
+E22[label="serve (S15,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: cold water
+(text: a large pot of lightly salted water)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: to a boil", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: 5", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+P2_0[label="PREP: to 7 minutes", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D1[label="DOBJ: (16 ounce) package egg noodles
+(text: noodles)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D4[label="DOBJ: butter
+(text: butter)", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="PREP: in a large saucepan over medium-high heat", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_ing[label="PREP: in cloves garlic, onions
+(text: in onions, garlic)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: until slightly tender", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in (8 ounce) package fresh mushrooms
+(text: in mushrooms)", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+D9_ing[label="DOBJ: beef loin steak
+(text: steak strips)", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="OUTPUT: 
+INPUT: in saucepan"]
+E3 -> E10 [label="OUTPUT: 
+INPUT: minute"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_ing[label="PREP: in Burgundy wine, (14 ounce) can beef consomme, lemon juice
+(text: in consomme ,  burgundy, lemon juice)", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+E0 -> E12 [label="OUTPUT: 
+INPUT: to a boil"]
+D13_ing[label="DOBJ: all-purpose flour
+(text: flour)", shape=box, style=filled, fillcolor=peachpuff]
+D13_ing -> E13
+P13_0_0[label="PREP: in a small bowl", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+E12 -> E13 [label="OUTPUT: 
+INPUT: with cold water"]
+P13_2_0[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P13_2_0 -> E13
+E9 -> E14 [label="OUTPUT: 
+INPUT: saucepan heat"]
+P14_0_0[label="PREP: to low", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+E13 -> E15 [label="OUTPUT: 
+INPUT: flour mixture"]
+E14 -> E15 [label="OUTPUT: 
+INPUT: into saucepan"]
+E15 -> E16 [label="OUTPUT: 
+INPUT: "]
+P16_0_0[label="PREP: to boil", shape=box, style=filled, fillcolor=white]
+P16_0_0 -> E16
+E16 -> E17 [label="OUTPUT: 
+INPUT: saucepan"]
+E17 -> E18 [label="OUTPUT: 
+INPUT: 5 minutes"]
+E18 -> E19 [label="OUTPUT: 
+INPUT: "]
+P19_0_0[label="PREP: from heat", shape=box, style=filled, fillcolor=white]
+P19_0_0 -> E19
+E19 -> E20 [label="OUTPUT: 
+INPUT: "]
+E20 -> E21 [label="OUTPUT: 
+INPUT: "]
+P21_0_ing[label="PREP: in (8 ounce) container sour cream
+(text: in sour cream)", shape=box, style=filled, fillcolor=peachpuff]
+P21_0_ing -> E21
+E1 -> E22 [label="OUTPUT: 
+INPUT: cooked egg noodles"]
+E21 -> E22 [label="OUTPUT: 
+INPUT:  "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E22 -> EOR
+}

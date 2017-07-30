@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 10 inch casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 10 inch casserole dish
+      NON-INGREDIENT SPAN: a 10 inch casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 72
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 114
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: ounce package seashell pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 159
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would melt butter in a small saucepan over medium heat .
+PREDID: 165
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+
+
+SENTID: 6
+SENT: I would stir in the flour and cook until a roux forms .
+PREDID: 206
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour
+     PREP: in
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 223
+PRED: cook
+   DOBJ: NULL
+   PARG: a roux forms
+     PREP: until
+      NON-INGREDIENT SPAN: a roux forms
+
+
+SENTID: 7
+SENT: I would stir in the milk , the salt and pepper ;
+PREDID: 243
+PRED: stir
+   DOBJ: NULL
+   PARG: the milk , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+
+
+SENTID: 8
+SENT: I would cook , stirring constantly , until sauce is smooth and thick and coats the back of a spoon .
+PREDID: 271
+PRED: cook stirring
+   DOBJ: NULL
+   PARG: sauce is smooth, thick
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is smooth
+      NON-INGREDIENT SPAN:  thick
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+PREDID: 324
+PRED: coats
+   DOBJ: the back of a spoon
+      NON-INGREDIENT SPAN: the back of a spoon
+
+
+SENTID: 9
+SENT: I would remove from heat and stir in cheese .
+PREDID: 345
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 362
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: smoked Gouda cheese shredded
+
+
+SENTID: 10
+SENT: I would combine cooked pasta and cheese sauce ;
+PREDID: 375
+PRED: combine
+   DOBJ: NULL
+
+PREDID: 382
+PRED: cooked
+   DOBJ: pasta, cheese sauce
+      NON-INGREDIENT SPAN: pasta
+      NON-INGREDIENT SPAN:  cheese sauce
+
+
+SENTID: 11
+SENT: I would transfer to prepared dish .
+PREDID: 408
+PRED: transfer
+   DOBJ: NULL
+   PARG: prepared dish
+     PREP: to
+      NON-INGREDIENT SPAN: prepared dish
+
+
+SENTID: 12
+SENT: I would bake in preheated oven for 15 minutes , or until heated through .
+PREDID: 431
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 15 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

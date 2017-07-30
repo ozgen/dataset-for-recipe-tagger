@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the ground beef , the sausage , bread crumbs , the onion , the mushrooms , the soup and egg .
+PREDID: 51
+PRED: combine
+   DOBJ: the ground beef , the sausage , bread crumbs , the onion , the mushrooms , the soup, egg
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: ground breakfast sausage
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  the soup
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix together well and place in a 5x9 inch loaf pan .
+PREDID: 119
+PRED: mix
+   DOBJ: NULL
+   OARG: together well
+      NON-INGREDIENT SPAN: together well
+
+PREDID: 137
+PRED: place
+   DOBJ: NULL
+   PARG: a 5x9 inch loaf pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 5x9 inch loaf pan
+
+
+SENTID: 3
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 50 minutes .
+PREDID: 160
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 minutes
+
+

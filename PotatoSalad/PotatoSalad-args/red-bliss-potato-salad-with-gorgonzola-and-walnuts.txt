@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would preheat an oven to 275 degrees F -LRB- 135 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 275 degrees F -LRB- 135 degrees C
+      NON-INGREDIENT SPAN: an oven to 275 degrees F -LRB- 135 degrees C
+
+
+SENTID: 1
+SENT: I would spread the walnuts onto a baking sheet , and toast until the nuts start to turn golden brown and become fragrant , about 30 minutes .
+PREDID: 40
+PRED: spread
+   DOBJ: the walnuts
+      INGREDIENT SPAN: the walnuts
+         INGREDIENTS: walnuts
+   PARG: a baking sheet , toast
+     PREP: onto
+      NON-INGREDIENT SPAN:  toast
+      NON-INGREDIENT SPAN: a baking sheet 
+   PARG: the nuts start
+     PREP: until
+      NON-INGREDIENT SPAN: the nuts start
+
+
+SENTID: 2
+SENT: I would watch the nuts carefully as they bake , they burn quickly .
+
+SENTID: 3
+SENT: Once toasted , I would set the nuts aside to cool to room temperature .
+PREDID: 208
+PRED: set
+   DOBJ: the nuts
+      NON-INGREDIENT SPAN: the nuts
+   PARG: toasted
+     PREP: once
+      NON-INGREDIENT SPAN: toasted
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool to room temperature
+      NON-INGREDIENT SPAN: to cool to room temperature
+
+
+SENTID: 4
+SENT: I would place the potatoes into a large pot , and cover with salted water .
+PREDID: 247
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: small red new potatoes halved
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 280
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 5
+SENT: Bring to a boil over high heat ;
+PREDID: 301
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 6
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , about 15 minutes .
+PREDID: 326
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 361
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 7
+SENT: I would rinse under cold water , and place in large bowl .
+PREDID: 391
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 414
+PRED: place
+   DOBJ: NULL
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 8
+SENT: I would refrigerate until cold .
+PREDID: 431
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 9
+SENT: I would combine apples , the onion , the cheese , and walnuts with cooled potatoes .
+PREDID: 452
+PRED: combine
+   DOBJ: apples , the onion , the cheese , walnuts
+      INGREDIENT SPAN: apples 
+         INGREDIENTS: large Granny Smith apple halved cored sliced
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small red onion halved sliced
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: crumbled Gorgonzola cheese
+      NON-INGREDIENT SPAN:  walnuts
+   PARG: cooled potatoes
+     PREP: with
+      NON-INGREDIENT SPAN: cooled potatoes
+
+
+SENTID: 10
+SENT: I would whisk together the olive oil , the vinegar , the basil , the salt , and pepper in a small bowl .
+PREDID: 508
+PRED: whisk
+   DOBJ: the olive oil , the vinegar , the basil , the salt , pepper in a small bowl
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: champagne vinegar needed
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: the olive oil 
+         INGREDIENTS: extravirgin olive oil
+      INGREDIENT SPAN:  pepper in a small bowl
+         INGREDIENTS: white pepper taste
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 11
+SENT: I would pour the dressing over the salad , and toss to coat .
+PREDID: 574
+PRED: pour
+   DOBJ: the dressing over the salad
+      NON-INGREDIENT SPAN: the dressing over the salad
+
+PREDID: 605
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 12
+SENT: I would serve chilled .
+PREDID: 616
+PRED: serve
+   DOBJ: NULL
+
+

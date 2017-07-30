@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix cream cheese , sour cream , canned jalapeno peppers with juice , green chiles , diced jalapeno pepper , the cilantro , and ranch dressing mix together in a bowl until smooth .
+PREDID: 38
+PRED: mix
+   DOBJ: cream cheese , sour cream , canned jalapeno peppers with juice , green chiles , diced jalapeno pepper , the cilantro , ranch dressing mix together in a bowl until smooth
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  green chiles 
+         INGREDIENTS: ounce chopped green chiles
+      INGREDIENT SPAN:  canned jalapeno peppers with juice 
+         INGREDIENTS: ounce diced jalapeno peppers juice
+      INGREDIENT SPAN:  diced jalapeno pepper 
+         INGREDIENTS: jalapeno pepper diced
+      INGREDIENT SPAN:  ranch dressing mix together in a bowl until smooth
+         INGREDIENTS: ounce package ranch dressing mix
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce packages cream cheese softened
+
+
+SENTID: 2
+SENT: I would add about half the Cheddar cheese and half the Parmesan cheese ;
+PREDID: 181
+PRED: add
+   DOBJ: NULL
+   PARG: half the cheddar cheese, half the parmesan cheese
+     PREP: about
+      INGREDIENT SPAN:  half the parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+      INGREDIENT SPAN: half the cheddar cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese divided
+
+
+SENTID: 3
+SENT: I would stir .
+PREDID: 234
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would spread the cheese mixture into a baking dish .
+PREDID: 239
+PRED: spread
+   DOBJ: the cheese mixture
+      NON-INGREDIENT SPAN: the cheese mixture
+   PARG: a baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a baking dish
+
+
+SENTID: 5
+SENT: I would arrange jalapeno slices atop the cheese mixture ;
+PREDID: 277
+PRED: arrange
+   DOBJ: jalapeno slices
+      NON-INGREDIENT SPAN: jalapeno slices
+   PARG: the cheese mixture
+     PREP: atop
+      NON-INGREDIENT SPAN: the cheese mixture
+
+
+SENTID: 6
+SENT: I would top with remaining Cheddar and Parmesan cheeses .
+PREDID: 319
+PRED: top
+   DOBJ: NULL
+   PARG: remaining cheddar, parmesan cheeses
+     PREP: with
+      NON-INGREDIENT SPAN:  parmesan cheeses
+      NON-INGREDIENT SPAN: remaining cheddar
+
+
+SENTID: 7
+SENT: I would cover the baking dish with aluminum foil .
+PREDID: 361
+PRED: cover
+   DOBJ: the baking dish with aluminum foil
+      NON-INGREDIENT SPAN: the baking dish with aluminum foil
+
+
+SENTID: 8
+SENT: I would bake in preheated oven until top is warm and bubbling , about 25 minutes .
+PREDID: 393
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: top is warm, bubbling , about 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: top is warm
+      NON-INGREDIENT SPAN:  bubbling 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+

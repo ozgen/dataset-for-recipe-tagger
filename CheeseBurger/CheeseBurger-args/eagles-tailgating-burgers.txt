@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would combine the ground beef , bread crumbs , Romano cheese , barbeque sauce , the beer , the egg , green onion , the basil , Worcestershire sauce , the garlic , the salt and pepper in a large bowl .
+PREDID: 33
+PRED: combine
+   DOBJ: the ground beef , bread crumbs , Romano cheese , barbeque sauce , the beer , the egg , green onion , the basil , Worcestershire sauce , the garlic , the salt, pepper
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil leaves
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  Romano cheese 
+         INGREDIENTS: grated Pecorino Romano cheese
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: garlic herb seasoned dry bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: Yuengling lager beer
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix lightly using your hands ,
+PREDID: 172
+PRED: mix
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: using your hands
+      NON-INGREDIENT SPAN: using your hands
+
+
+SENTID: 3
+SENT: I would form into 8 patties .
+PREDID: 197
+PRED: form
+   DOBJ: NULL
+   PARG: 8 patties
+     PREP: into
+      NON-INGREDIENT SPAN: 8 patties
+
+
+SENTID: 4
+SENT: I would lightly brush the grill grate with oil and place patties on the grill .
+PREDID: 221
+PRED: brush
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   PARG: oil, place patties
+     PREP: with
+      NON-INGREDIENT SPAN:  place patties
+      NON-INGREDIENT SPAN: oil
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 5
+SENT: I would cook until no longer pink in the center , 7 to 8 minutes per side for well done .
+PREDID: 272
+PRED: cook
+   DOBJ: NULL
+   PARG: no longer pink in the center , 7 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center 
+      NON-INGREDIENT SPAN:  7 to 8 minutes
+   PARG: side
+     PREP: per
+      NON-INGREDIENT SPAN: side
+   PARG: well done
+     PREP: for
+      NON-INGREDIENT SPAN: well done
+
+

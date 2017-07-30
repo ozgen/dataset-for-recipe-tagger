@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook pasta until al dente .
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 55
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , season chicken strips with lemon pepper and garlic powder .
+
+SENTID: 3
+SENT: I would broil in oven for 5 to 7 minutes , or until juices run clear .
+PREDID: 121
+PRED: broil
+   DOBJ: NULL
+   PARG: oven for 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: oven for 5 to 7 minutes
+
+
+SENTID: 4
+SENT: I would cool chicken .
+PREDID: 169
+PRED: cool
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+
+
+SENTID: 5
+SENT: I would cut into bite size pieces .
+PREDID: 181
+PRED: cut
+   DOBJ: NULL
+   PARG: bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+
+
+SENTID: 6
+SENT: In a large bowl , I would mix together the cooked pasta , the chicken , quartered tomatoes , and feta cheese .
+PREDID: 216
+PRED: mix
+   DOBJ: the cooked pasta , the chicken , quartered tomatoes , feta cheese
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN: the cooked pasta 
+         INGREDIENTS: rotini pasta
+      NON-INGREDIENT SPAN:  quartered tomatoes 
+      NON-INGREDIENT SPAN:  the chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would serve with Italian dressing poured over top of pasta .
+PREDID: 282
+PRED: serve
+   DOBJ: NULL
+   PARG: italian dressing poured over top of pasta
+     PREP: with
+      INGREDIENT SPAN: italian dressing poured over top of pasta
+         INGREDIENTS: Italianstyle salad dressing
+
+

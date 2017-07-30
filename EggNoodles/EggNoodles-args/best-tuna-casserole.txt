@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook pasta in boiling water for 8 to 10 minutes , or until al dente ;
+PREDID: 42
+PRED: cook
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: boiling water for 8 to 10 minutes , or until al dente
+     PREP: in
+      NON-INGREDIENT SPAN:  or until al dente
+      NON-INGREDIENT SPAN: boiling water for 8 to 10 minutes 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 96
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 102
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 4
+SENT: In a large bowl , I would thoroughly mix noodles , the onion , 1 cup cheese , the peas , the tuna , the soup and mushrooms .
+PREDID: 163
+PRED: mix
+   DOBJ: noodles , the onion , 1 cup cheese , the peas , the tuna , the soup, mushrooms
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: frozen green peas
+      INGREDIENT SPAN:  the soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN: noodles 
+         INGREDIENTS: ounce package egg noodles
+      INGREDIENT SPAN:  the tuna 
+         INGREDIENTS: ounce tuna drained
+      INGREDIENT SPAN:  1 cup cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: ounce sliced mushrooms
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 5
+SENT: I would transfer to a 9x13 inch baking dish , and top with potato chip crumbs and remaining 1 cup cheese .
+PREDID: 218
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 9x13 inch baking dish , top with potato chip crumbs, remaining 1 cup cheese
+     PREP: to
+      INGREDIENT SPAN:  top with potato chip crumbs
+         INGREDIENTS: crushed potato chips
+      INGREDIENT SPAN:  remaining 1 cup cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish 
+
+
+SENTID: 6
+SENT: I would bake for 15 to 20 minutes in the preheated oven , or until cheese is bubbly .
+PREDID: 297
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 to 20 minutes in the preheated oven , or until cheese is bubbly
+     PREP: for
+      INGREDIENT SPAN:  or until cheese is bubbly
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: 15 to 20 minutes in the preheated oven 
+
+

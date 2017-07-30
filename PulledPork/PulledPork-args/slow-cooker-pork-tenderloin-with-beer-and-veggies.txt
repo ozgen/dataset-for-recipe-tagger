@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: I would combine the pork tenderloin , the beer , the vinegar , the potatoes , the carrots , the mushrooms , the garlic , the onion , the salt , the peppercorns , and sage in a slow cooker .
+PREDID: 0
+PRED: combine
+   DOBJ: the pork tenderloin , the beer , the vinegar , the potatoes , the carrots , the mushrooms , the garlic , the onion , the salt , the peppercorns , sage in a slow cooker
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots quartered
+      INGREDIENT SPAN: the pork tenderloin 
+         INGREDIENTS: pound pork tenderloin
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: cloves garlic
+      INGREDIENT SPAN:  the peppercorns 
+         INGREDIENTS: whole black peppercorns
+      INGREDIENT SPAN:  the beer 
+         INGREDIENTS: fluid lagerstyle beer such Molson Canadian
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: potatoes quartered
+      INGREDIENT SPAN:  sage in a slow cooker
+         INGREDIENTS: dried sage
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: button mushrooms
+      NON-INGREDIENT SPAN:  the onion 
+
+
+SENTID: 1
+SENT: I would cover and cook on low for 4 hours .
+PREDID: 116
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 4 hours
+
+

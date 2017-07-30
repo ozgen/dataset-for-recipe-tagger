@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: In a large mixing bowl , I would beat the eggs .
+PREDID: 19
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 1
+SENT: I would add the milk , brown sugar and nutmeg ;
+PREDID: 31
+PRED: add
+   DOBJ: the milk , brown sugar, nutmeg
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+
+
+SENTID: 2
+SENT: I would stir well to combine .
+PREDID: 62
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 3
+SENT: I would soak bread slices in the egg mixture until saturated .
+PREDID: 80
+PRED: soak
+   DOBJ: bread slices in the egg mixture
+      INGREDIENT SPAN: bread slices in the egg mixture
+         INGREDIENTS: slices white bread
+   PARG: saturated
+     PREP: until
+      NON-INGREDIENT SPAN: saturated
+
+
+SENTID: 4
+SENT: I would heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 125
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium high heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium high heat
+
+
+SENTID: 5
+SENT: I would brown slices on both sides , sprinkle with cinnamon and serve hot .
+PREDID: 179
+PRED: brown
+   DOBJ: slices
+      NON-INGREDIENT SPAN: slices
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+
+PREDID: 202
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cinnamon
+     PREP: with
+      INGREDIENT SPAN: cinnamon
+         INGREDIENTS: ground cinnamon
+
+PREDID: 225
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

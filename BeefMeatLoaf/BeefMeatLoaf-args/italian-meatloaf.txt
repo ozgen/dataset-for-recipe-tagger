@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would put tomatoes in a bowl .
+PREDID: 0
+PRED: put
+   DOBJ: tomatoes
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: sundried tomatoes
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would pour hot water over tomatoes and soak until softened , about 30 minutes ;
+PREDID: 19
+PRED: pour
+   DOBJ: hot water
+      INGREDIENT SPAN: hot water
+         INGREDIENTS: hot water
+   PARG: tomatoes
+     PREP: over
+      NON-INGREDIENT SPAN: tomatoes
+
+PREDID: 46
+PRED: soak
+   DOBJ: NULL
+   PARG: softened
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+   PARG: 30 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 79
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 85
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 4
+SENT: I would prepare a loaf pan with cooking spray .
+PREDID: 123
+PRED: prepare pan
+   DOBJ: a loaf
+      NON-INGREDIENT SPAN: a loaf
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 5
+SENT: I would mix drained tomatoes , ground beef , bread crumbs , the onion , the basil , the ketchup , provolone cheese , egg whites , and garlic together in a bowl ;
+PREDID: 155
+PRED: mix
+   DOBJ: NULL
+
+PREDID: 158
+PRED: drained
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: tomatoes , ground beef , bread crumbs , the onion , the basil , the ketchup , provolone cheese , egg whites , garlic
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  egg whites 
+         INGREDIENTS: egg whites
+      INGREDIENT SPAN:  provolone cheese 
+         INGREDIENTS: shredded sharp provolone cheese
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: seasoned bread crumbs
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      NON-INGREDIENT SPAN:  garlic
+      NON-INGREDIENT SPAN: tomatoes 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would pack into prepared loaf pan .
+PREDID: 268
+PRED: pack
+   DOBJ: NULL
+   PARG: prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared loaf pan
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 292
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 8
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

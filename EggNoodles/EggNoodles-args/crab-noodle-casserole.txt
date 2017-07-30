@@ -1,0 +1,258 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13-inch baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: I would place the can of drained peas into the freezer .
+PREDID: 65
+PRED: place
+   DOBJ: the can of drained peas
+      INGREDIENT SPAN: the can of drained peas
+         INGREDIENTS: ounce peas drained
+   PARG: the freezer
+     PREP: into
+      NON-INGREDIENT SPAN: the freezer
+
+
+SENTID: 3
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 104
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 142
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 4
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 196
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package extra wide egg noodles
+
+PREDID: 219
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 233
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 6
+SENT: I would drain well in a colander set in the sink .
+PREDID: 344
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: In a large saucepan over medium heat , I would melt the butter and cook the celery and onion until the onion has started to turn translucent , about 3 minutes .
+PREDID: 408
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+PREDID: 424
+PRED: cook
+   DOBJ: the celery, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: sweet onion such Vidalia chopped
+      INGREDIENT SPAN: the celery
+         INGREDIENTS: bunch celery chopped
+   PARG: the onion has started
+     PREP: until
+      NON-INGREDIENT SPAN: the onion has started
+
+
+SENTID: 8
+SENT: I would stir in the zucchini and cook until bright green but tender , another 5 to 8 minutes .
+PREDID: 500
+PRED: stir
+   DOBJ: NULL
+   PARG: the zucchini
+     PREP: in
+      INGREDIENT SPAN: the zucchini
+         INGREDIENTS: zucchini quartered sliced
+
+PREDID: 520
+PRED: cook
+   DOBJ: NULL
+   PARG: bright green but tender , another 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: bright green but tender 
+      NON-INGREDIENT SPAN:  another 5 to 8 minutes
+
+
+SENTID: 9
+SENT: I would mix in the potato and celery soups and milk ,
+PREDID: 569
+PRED: mix
+   DOBJ: NULL
+   PARG: the potato, celery soups, milk
+     PREP: in
+      INGREDIENT SPAN: the potato
+         INGREDIENTS: ounce condensed cream potato soup
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  celery soups
+         INGREDIENTS: ounce condensed cream celery soup
+
+
+SENTID: 10
+SENT: I would fold in half the Cheddar cheese ;
+PREDID: 605
+PRED: fold
+   DOBJ: NULL
+   PARG: half the cheddar cheese
+     PREP: in
+      INGREDIENT SPAN: half the cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese divided
+
+
+SENTID: 11
+SENT: I would allow the mixture to stand for 5 minutes .
+PREDID: 632
+PRED: allow
+   DOBJ: NULL
+   PARG: the mixture to stand for 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the mixture to stand for 5 minutes
+
+
+SENTID: 12
+SENT: I would gently stir in the cooked noodles ,
+PREDID: 672
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked noodles
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked noodles
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 13
+SENT: the imitation crab , and finally the peas from the freezer .
+
+SENTID: 14
+SENT: Freezing the peas helps keep them intact .
+PREDID: 695
+PRED: freezing helps
+   DOBJ: the peas
+      INGREDIENT SPAN: the peas
+         INGREDIENTS: ounce peas drained
+   OARG: keep them
+      NON-INGREDIENT SPAN: keep them
+
+PREDID: 730
+PRED: intact
+   DOBJ: NULL
+
+
+SENTID: 15
+SENT: I would season to taste with salt and pepper , and spread the mixture into the prepared baking dish .
+PREDID: 730
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper , spread the mixture into the prepared baking dish
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper 
+      NON-INGREDIENT SPAN:  spread the mixture into the prepared baking dish
+
+
+SENTID: 16
+SENT: I would top the casserole with the remaining 2 cups of Cheddar cheese .
+PREDID: 806
+PRED: top
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+   PARG: the remaining 2 cups of cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining 2 cups of cheddar cheese
+
+
+SENTID: 17
+SENT: I would bake in the preheated oven for 30 minutes ;
+PREDID: 858
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+
+
+SENTID: 18
+SENT: I would remove the casserole and cover with foil ;
+PREDID: 893
+PRED: remove
+   DOBJ: the casserole
+      NON-INGREDIENT SPAN: the casserole
+
+PREDID: 914
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 19
+SENT: I would allow to stand for 10 to 15 minutes to set up .
+PREDID: 928
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand for 10 to 15 minutes to set up
+      NON-INGREDIENT SPAN: to stand for 10 to 15 minutes to set up
+
+

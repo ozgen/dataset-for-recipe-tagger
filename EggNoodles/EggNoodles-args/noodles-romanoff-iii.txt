@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would immediately add sour cream and cottage cheese to pasta ;
+PREDID: 142
+PRED: add
+   DOBJ: sour cream, cottage cheese to pasta
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  cottage cheese to pasta
+         INGREDIENTS: cottage cheese
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 5
+SENT: I would mix together .
+PREDID: 178
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would add Worcestershire sauce , onion and garlic to mixture , if desired .
+PREDID: 190
+PRED: add
+   DOBJ: Worcestershire sauce , onion, garlic
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN: Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+
+SENTID: 7
+SENT: I would pour mixture into a lightly greased two-quart baking dish and top with bread crumbs .
+PREDID: 247
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a lightly greased two-quart baking dish, top with bread crumbs
+     PREP: into
+      INGREDIENT SPAN:  top with bread crumbs
+         INGREDIENTS: seasoned dry bread crumbs
+      NON-INGREDIENT SPAN: a lightly greased two-quart baking dish
+
+
+SENTID: 8
+SENT: I would bake in preheated oven for 45 minutes .
+PREDID: 318
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+

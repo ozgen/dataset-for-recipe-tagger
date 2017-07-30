@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would place zucchini in a colander and let drain thoroughly , about 30 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: zucchini
+      INGREDIENT SPAN: zucchini
+         INGREDIENTS: shredded zucchini
+   PARG: a colander
+     PREP: in
+      NON-INGREDIENT SPAN: a colander
+
+PREDID: 27
+PRED: let
+   DOBJ: drain
+      NON-INGREDIENT SPAN: drain
+   PARG: 30 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 30 minutes
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 1
+SENT: I would toss with carrot in a large salad bowl ;
+PREDID: 61
+PRED: toss
+   DOBJ: NULL
+   PARG: carrot in a large salad bowl
+     PREP: with
+      INGREDIENT SPAN: carrot in a large bowl
+         INGREDIENTS: shredded carrot
+      INGREDIENT SPAN: carrot in a large salad bowl
+         INGREDIENTS: lowfat creamy salad dressing such Miracle Whip Light
+
+
+SENTID: 2
+SENT: I would stir in creamy salad dressing and sugar .
+PREDID: 93
+PRED: stir
+   DOBJ: NULL
+   PARG: creamy salad dressing, sugar
+     PREP: in
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: creamy salad dressing
+
+
+SENTID: 3
+SENT: I would chill the coleslaw for 1 hour to blend flavors , stir again , and season with salt and black pepper .
+PREDID: 127
+PRED: chill
+   DOBJ: the coleslaw for 1 hour
+      NON-INGREDIENT SPAN: the coleslaw for 1 hour
+   OARG: to blend flavors , stir again , season with salt, black pepper
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+      NON-INGREDIENT SPAN: to blend flavors 
+      NON-INGREDIENT SPAN:  stir again 
+
+

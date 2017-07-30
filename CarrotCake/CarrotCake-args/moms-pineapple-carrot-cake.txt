@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 10 inch Bundt pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 10 inch Bundt pan
+      NON-INGREDIENT SPAN: a 10 inch Bundt pan
+
+
+SENTID: 2
+SENT: I would drain pineapple and reserve the juice , set aside .
+PREDID: 68
+PRED: drain
+   DOBJ: pineapple
+      INGREDIENT SPAN: pineapple
+         INGREDIENTS: ounce crushed pineapple juice
+
+PREDID: 85
+PRED: reserve
+   DOBJ: the juice , set aside
+      NON-INGREDIENT SPAN: the juice 
+      NON-INGREDIENT SPAN:  set aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix flour , the sugar , baking soda , the cinnamon and salt .
+PREDID: 123
+PRED: mix
+   DOBJ: flour , the sugar , baking soda , the cinnamon, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would make a well in the center of flour mixture and add oil , the eggs and vanilla .
+PREDID: 165
+PRED: make
+   DOBJ: a well
+      NON-INGREDIENT SPAN: a well
+   PARG: the center of flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the center of flour mixture
+
+PREDID: 202
+PRED: add
+   DOBJ: oil , the eggs, vanilla
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: oil 
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 5
+SENT: I would beat until combined .
+PREDID: 224
+PRED: beat
+   DOBJ: NULL
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 6
+SENT: I would fold in carrots , the coconut , the walnuts and pineapple .
+PREDID: 242
+PRED: fold
+   DOBJ: NULL
+   PARG: carrots , the coconut , the walnuts, pineapple
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: shredded carrots
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: flaked coconut
+      NON-INGREDIENT SPAN:  pineapple
+
+
+SENTID: 7
+SENT: I would pour into a 10 inch Bundt pan .
+PREDID: 284
+PRED: pour
+   DOBJ: NULL
+   PARG: a 10 inch bundt pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 10 inch bundt pan
+
+
+SENTID: 8
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 to 50 minutes , or until cake pulls away from pan .
+PREDID: 308
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- for 45 to 50 minutes , or until cake pulls away from pan
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- for 45 to 50 minutes 
+      NON-INGREDIENT SPAN:  or until cake pulls away from pan
+
+
+SENTID: 9
+SENT: I would cool in pan 15 minutes ,
+PREDID: 383
+PRED: cool
+   DOBJ: NULL
+   PARG: pan 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pan 15 minutes
+
+
+SENTID: 10
+SENT: I would turn out onto a wire rack and cool completely .
+PREDID: 402
+PRED: turn
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: onto
+      NON-INGREDIENT SPAN: a wire rack
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 425
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+
+SENTID: 11
+SENT: In a medium bowl , I would combine confectioners sugar and 2 tablespoons pineapple juice .
+PREDID: 454
+PRED: combine
+   DOBJ: confectioners sugar, 2 tablespoons pineapple juice
+      INGREDIENT SPAN: confectioners sugar
+         INGREDIENTS: confectioners sugar
+      NON-INGREDIENT SPAN:  2 tablespoons pineapple juice
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 12
+SENT: I would beat until smooth ,
+PREDID: 509
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 13
+SENT: I would drizzle over cake .
+PREDID: 525
+PRED: drizzle
+   DOBJ: NULL
+   PARG: cake
+     PREP: over
+      NON-INGREDIENT SPAN: cake
+
+

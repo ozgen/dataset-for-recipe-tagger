@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would brown meat in large skillet on medium-high heat .
+PREDID: 0
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: large skillet on medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet on medium-high heat
+
+
+SENTID: 1
+SENT: I would drain fat .
+PREDID: 41
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 2
+SENT: I would stir in Seasoning Mix , the tomatoes and beans .
+PREDID: 50
+PRED: stir
+   DOBJ: NULL
+   PARG: seasoning mix , the tomatoes, beans
+     PREP: in
+      INGREDIENT SPAN:  beans
+         INGREDIENTS: ounce kidney beans undrained
+      INGREDIENT SPAN: seasoning mix 
+         INGREDIENTS: package McCormick Chili Seasoning Mix Original
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: ounce diced tomatoes undrained
+
+
+SENTID: 3
+SENT: I would bring to boil .
+PREDID: 86
+PRED: bring
+   DOBJ: NULL
+   PARG: boil
+     PREP: to
+      NON-INGREDIENT SPAN: boil
+
+
+SENTID: 4
+SENT: I would reduce heat to low ;
+PREDID: 98
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 5
+SENT: I would cover and simmer 10 minutes , stirring occasionally .
+PREDID: 114
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 6
+SENT: I would serve with assorted toppings , if desired .
+PREDID: 159
+PRED: serve
+   DOBJ: NULL
+   PARG: assorted toppings
+     PREP: with
+      NON-INGREDIENT SPAN: assorted toppings
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: I would heat olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would add the garlic , and cook until transparent .
+PREDID: 42
+PRED: add
+   DOBJ: the garlic
+      INGREDIENT SPAN: the garlic
+         INGREDIENTS: crushed garlic
+
+PREDID: 58
+PRED: cook
+   DOBJ: NULL
+   PARG: transparent
+     PREP: until
+      NON-INGREDIENT SPAN: transparent
+
+
+SENTID: 2
+SENT: I would add the cubed lamb , and cook until browned on all sides .
+PREDID: 79
+PRED: add
+   DOBJ: the cubed lamb
+      INGREDIENT SPAN: the cubed lamb
+         INGREDIENTS: cubed leg lamb meat
+
+PREDID: 98
+PRED: cook
+   DOBJ: NULL
+   PARG: browned on all sides
+     PREP: until
+      NON-INGREDIENT SPAN: browned on all sides
+
+
+SENTID: 3
+SENT: I would season with cumin , the mint , turmeric and rosemary .
+PREDID: 125
+PRED: season
+   DOBJ: NULL
+   PARG: cumin , the mint , turmeric, rosemary
+     PREP: with
+      INGREDIENT SPAN:  rosemary
+         INGREDIENTS: chopped fresh rosemary
+      INGREDIENT SPAN:  the mint 
+         INGREDIENTS: chopped fresh mint
+      INGREDIENT SPAN: cumin 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  turmeric
+
+
+SENTID: 4
+SENT: I would cook for another 5 minutes .
+PREDID: 166
+PRED: cook
+   DOBJ: NULL
+   PARG: another 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 5 minutes
+
+
+SENTID: 5
+SENT: I would add the diced tomatoes , tomato paste and okra .
+PREDID: 189
+PRED: add
+   DOBJ: the diced tomatoes , tomato paste, okra
+      INGREDIENT SPAN: the diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes drained
+      INGREDIENT SPAN:  okra
+         INGREDIENTS: baby okra
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: tomato paste
+
+
+SENTID: 6
+SENT: I would combine the lemon juice and water , and stir into the skillet .
+PREDID: 228
+PRED: combine
+   DOBJ: the lemon juice, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the lemon juice
+         INGREDIENTS: lemon juice
+
+PREDID: 260
+PRED: stir
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 7
+SENT: I would cover , and simmer over low heat for 45 minutes .
+PREDID: 279
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 288
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat for 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: low heat for 45 minutes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would meanwhile , melt the butter in a saucepan over medium heat .
+PREDID: 328
+PRED: melt
+   DOBJ: the butter in a saucepan over medium heat
+      INGREDIENT SPAN: the butter in a saucepan over medium heat
+         INGREDIENTS: butter
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 9
+SENT: I would add the egg noodles , and saute until toasted .
+PREDID: 367
+PRED: add
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: thin egg noodles
+
+PREDID: 387
+PRED: saute
+   DOBJ: NULL
+   PARG: toasted
+     PREP: until
+      NON-INGREDIENT SPAN: toasted
+
+
+SENTID: 10
+SENT: I would pour in the chicken broth and water , and bring to a boil .
+PREDID: 405
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken broth, water
+     PREP: in
+      INGREDIENT SPAN: the chicken broth
+         INGREDIENTS: chicken broth
+      NON-INGREDIENT SPAN:  water
+
+PREDID: 438
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 11
+SENT: I would stir in rice , the cover and simmer over low heat until the rice is tender , about 15 minutes .
+PREDID: 451
+PRED: stir
+   DOBJ: NULL
+   PARG: rice , the cover, simmer
+     PREP: in
+      INGREDIENT SPAN: rice 
+         INGREDIENTS: grain rice
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN:  the cover
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: the rice is tender , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is tender 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 12
+SENT: I would season with salt and pepper and stir in olive oil before serving .
+PREDID: 523
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 549
+PRED: stir
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: in
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: extravirgin olive oil
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 13
+SENT: I would serve the lamb stew over the rice pilaf .
+PREDID: 577
+PRED: serve
+   DOBJ: the lamb stew
+      NON-INGREDIENT SPAN: the lamb stew
+   PARG: the rice pilaf
+     PREP: over
+      NON-INGREDIENT SPAN: the rice pilaf
+
+

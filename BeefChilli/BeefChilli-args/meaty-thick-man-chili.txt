@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would place the ground beef in a large pot over medium-high heat .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+
+
+SENTID: 1
+SENT: I would cook , stirring to crumble , until evenly browned .
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+PREDID: 54
+PRED: stirring
+   DOBJ: NULL
+   OARG: to crumble
+      NON-INGREDIENT SPAN: to crumble
+
+
+SENTID: 2
+SENT: I would drain off grease .
+PREDID: 91
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 3
+SENT: I would place the pot over medium heat , and add the onion , garlic , green pepper , red pepper and kidney beans .
+PREDID: 106
+PRED: place
+   DOBJ: the pot over medium heat
+      INGREDIENT SPAN: the pot over medium heat
+         INGREDIENTS: medium onion chopped
+
+PREDID: 135
+PRED: add
+   DOBJ: the onion , garlic , green pepper , red pepper, kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: red bell pepper seeded chopped
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: green bell pepper seeded chopped
+      NON-INGREDIENT SPAN: the onion 
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 4
+SENT: I would cook and stir for a few minutes .
+PREDID: 190
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+
+
+SENTID: 5
+SENT: I would stir in the tomato sauce and water , and season with chili powder .
+PREDID: 216
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato sauce, water , season with chili powder
+     PREP: in
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  season with chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  water 
+         INGREDIENTS: water
+
+
+SENTID: 6
+SENT: I would simmer over low heat for 40 minutes uncovered .
+PREDID: 270
+PRED: simmer
+   DOBJ: low heat
+      NON-INGREDIENT SPAN: low heat
+   PARG: 40 minutes uncovered
+     PREP: for
+      NON-INGREDIENT SPAN: 40 minutes uncovered
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

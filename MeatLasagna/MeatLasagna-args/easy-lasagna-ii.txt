@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: In a large skillet over medium heat brown the ground beef .
+
+SENTID: 1
+SENT: I would drain the grease .
+PREDID: 48
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+
+
+SENTID: 2
+SENT: I would add spaghetti sauce and simmer for 5 minutes .
+PREDID: 63
+PRED: add
+   DOBJ: NULL
+   PARG: spaghetti sauce, simmer for 5 minutes
+     PREP: for
+      INGREDIENT SPAN: spaghetti sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+      NON-INGREDIENT SPAN:  simmer for 5 minutes
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix together the cottage cheese , 2 cups of the mozzarella cheese , the eggs , half of the grated Parmesan cheese , dried parsley , the salt and ground black pepper .
+PREDID: 114
+PRED: mix
+   DOBJ: the cottage cheese , 2 cups of the mozzarella cheese
+      INGREDIENT SPAN:  2 cups of the mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: cottage cheese
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: the eggs , half of the grated parmesan cheese , dried parsley , the salt, ground black pepper
+      INGREDIENT SPAN:  half of the grated parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  dried parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper taste
+
+
+SENTID: 4
+SENT: To assemble , in the bottom of a 9x13 inch baking dish evenly spread 3/4 cup of the sauce mixture .
+PREDID: 291
+PRED: assemble spread
+   DOBJ: 3/4 cup of the sauce mixture
+      NON-INGREDIENT SPAN: 3/4 cup of the sauce mixture
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+   OARG: to
+      NON-INGREDIENT SPAN: to
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 5
+SENT: I would cover with 3 uncooked lasagna noodles , 1?3/4 cup of the cheese mixture , and 1/4 cup sauce .
+PREDID: 321
+PRED: cover
+   DOBJ: NULL
+   PARG: 3 uncooked lasagna noodles , 1?3/4 cup of the cheese mixture , 1/4 cup sauce
+     PREP: with
+      INGREDIENT SPAN:  1?3/4 cup of the cheese mixture 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN: 3 uncooked lasagna noodles 
+         INGREDIENTS: lasagna noodles
+      NON-INGREDIENT SPAN:  1/4 cup sauce
+
+
+SENTID: 6
+SENT: I would repeat layers twice .
+PREDID: 396
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice
+      NON-INGREDIENT SPAN: twice
+
+
+SENTID: 7
+SENT: I would top with 3 noodles , remaining sauce , remaining mozzarella and Parmesan cheese .
+PREDID: 414
+PRED: top
+   DOBJ: NULL
+   PARG: 3 noodles , remaining sauce , remaining mozzarella, parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: 3 noodles 
+         INGREDIENTS: lasagna noodles
+      INGREDIENT SPAN:  remaining mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  parmesan cheese
+      NON-INGREDIENT SPAN:  remaining sauce 
+
+
+SENTID: 8
+SENT: I would add 1/2 cup water to the edges of the pan .
+PREDID: 482
+PRED: add
+   DOBJ: 1/2 cup water
+      INGREDIENT SPAN: 1/2 cup water
+         INGREDIENTS: water
+   PARG: the edges of the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the edges of the pan
+
+
+SENTID: 9
+SENT: I would cover with aluminum foil .
+PREDID: 515
+PRED: cover
+   DOBJ: NULL
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 10
+SENT: I would bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- oven for 45 minutes .
+PREDID: 537
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 45 minutes
+
+
+SENTID: 11
+SENT: I would uncover and bake an additional 10 minutes .
+PREDID: 593
+PRED: uncover and bake
+   DOBJ: NULL
+   PARG: an additional 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 10 minutes
+
+
+SENTID: 12
+SENT: I would let stand 10 minutes before serving .
+PREDID: 629
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

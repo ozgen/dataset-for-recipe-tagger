@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef , the eggs , bread crumbs , the salt , and black pepper together in a large bowl .
+PREDID: 38
+PRED: mix
+   DOBJ: ground beef , the eggs , bread crumbs , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add green bell pepper , red bell pepper , yellow bell pepper , and onion ;
+PREDID: 109
+PRED: add
+   DOBJ: green bell pepper , red bell pepper , yellow bell pepper , onion
+      INGREDIENT SPAN:  yellow bell pepper 
+         INGREDIENTS: fresh cracked black pepper
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: yellow bell pepper chopped
+      INGREDIENT SPAN: green bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: Spanish sweet onion chopped
+
+
+SENTID: 3
+SENT: I would mix .
+PREDID: 168
+PRED: mix
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would spread the beef mixture into a 13x9-inch glass baking dish .
+PREDID: 172
+PRED: spread
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: a 13x9-inch glass baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 13x9-inch glass baking dish
+
+
+SENTID: 5
+SENT: I would make a trough in the middle of the meat mixture .
+PREDID: 222
+PRED: make
+   DOBJ: a trough
+      NON-INGREDIENT SPAN: a trough
+   PARG: the middle of the meat mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the middle of the meat mixture
+
+
+SENTID: 6
+SENT: I would put 3/4 of the Cheddar cheese and half the tomato sauce into the trough .
+PREDID: 261
+PRED: put
+   DOBJ: 3/4 of the Cheddar cheese, half the tomato sauce
+      INGREDIENT SPAN: 3/4 of the Cheddar cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese divided
+      INGREDIENT SPAN:  half the tomato sauce
+         INGREDIENTS: ounce tomato sauce divided
+   PARG: the trough
+     PREP: into
+      NON-INGREDIENT SPAN: the trough
+
+
+SENTID: 7
+SENT: I would fold the beef mixture around the cheese and sauce filling to form a loaf , pinching to seal .
+PREDID: 320
+PRED: fold
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the cheese, sauce filling to form a loaf , pinching to seal
+     PREP: around
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese divided
+      NON-INGREDIENT SPAN:  pinching to seal
+      NON-INGREDIENT SPAN:  sauce filling to form a loaf 
+
+
+SENTID: 8
+SENT: I would loosely cover the meat loaf with aluminum foil .
+PREDID: 402
+PRED: cover
+   DOBJ: the meat loaf
+      NON-INGREDIENT SPAN: the meat loaf
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+   OARG: loosely
+      NON-INGREDIENT SPAN: loosely
+
+
+SENTID: 9
+SENT: I would bake in preheated oven until the beef is cooked through and the cheese in the middle is melted , about 45 minutes .
+PREDID: 435
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the beef is cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is cooked through
+   OARG: the cheese in the middle is melted , about 45 minutes
+      NON-INGREDIENT SPAN: the cheese in the middle is melted 
+      NON-INGREDIENT SPAN:  about 45 minutes
+
+
+SENTID: 10
+SENT: I would remove and discard aluminum foil .
+PREDID: 528
+PRED: remove and discard
+   DOBJ: aluminum foil
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 11
+SENT: I would top meat loaf with remaining Cheddar cheese and tomato sauce .
+PREDID: 557
+PRED: top
+   DOBJ: meat loaf
+      NON-INGREDIENT SPAN: meat loaf
+   PARG: remaining cheddar cheese, tomato sauce
+     PREP: with
+      NON-INGREDIENT SPAN:  tomato sauce
+      NON-INGREDIENT SPAN: remaining cheddar cheese
+
+
+SENTID: 12
+SENT: I would continue the baking until the cheese melts , about 15 minutes .
+PREDID: 609
+PRED: continue
+   DOBJ: the baking
+      NON-INGREDIENT SPAN: the baking
+   PARG: the cheese melts , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese melts 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 13
+SENT: I would rest meat loaf 10 to 15 minutes before slicing to serve .
+PREDID: 658
+PRED: rest
+   DOBJ: NULL
+   PARG: meat loaf 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: meat loaf 10 to 15 minutes
+   PARG: slicing to serve
+     PREP: before
+      NON-INGREDIENT SPAN: slicing to serve
+
+

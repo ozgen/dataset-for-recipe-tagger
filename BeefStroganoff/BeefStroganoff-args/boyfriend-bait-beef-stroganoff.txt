@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Over medium high heat , I would gently cook beef tenderloin in 2 tablespoons of butter for about 2 minutes , until just seared on all sides .
+PREDID: 25
+PRED: cook
+   DOBJ: beef tenderloin
+      INGREDIENT SPAN: beef tenderloin
+         INGREDIENTS: beef tenderloin trimmed meat cut bitesized
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: 2 tablespoons of butter
+     PREP: in
+      INGREDIENT SPAN: 2 tablespoons of butter
+         INGREDIENTS: butter
+   PARG: about 2 minutes , until just seared on all sides
+     PREP: for
+      NON-INGREDIENT SPAN: about 2 minutes 
+      NON-INGREDIENT SPAN:  until just seared on all sides
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 1
+SENT: You will still be able to see red .
+
+SENTID: 2
+SENT: I would remove from pan and set aside in a rimmed dish or baking sheet so that you collect the juices .
+PREDID: 108
+PRED: remove
+   DOBJ: NULL
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 124
+PRED: set
+   DOBJ: NULL
+   PARG: a rimmed dish or baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: a rimmed dish or baking sheet
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: so that you collect the juices
+      NON-INGREDIENT SPAN: so that you collect the juices
+
+
+SENTID: 3
+SENT: I would return the pan to medium-high heat and cook the shallots and mushrooms in remaining butter until soft and wilted , about 5 minutes .
+PREDID: 184
+PRED: return
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high heat
+
+PREDID: 216
+PRED: cook
+   DOBJ: NULL
+   PARG: the shallots, mushrooms in remaining butter until soft, wilted , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN:  mushrooms in remaining until soft
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN:  mushrooms in remaining butter until soft
+         INGREDIENTS: butter
+      INGREDIENT SPAN: the shallots
+         INGREDIENTS: chopped shallots
+      NON-INGREDIENT SPAN:  wilted 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would mix cornstarch into cold beef broth , whisk to blend .
+PREDID: 293
+PRED: mix
+   DOBJ: cornstarch
+      INGREDIENT SPAN: cornstarch
+         INGREDIENTS: cornstarch
+   PARG: cold beef broth , whisk to blend
+     PREP: into
+      INGREDIENT SPAN: cold beef broth 
+         INGREDIENTS: canned beef broth
+      NON-INGREDIENT SPAN:  whisk to blend
+
+
+SENTID: 5
+SENT: I would pour into pan , and stir together with shallots and mushrooms until thickened , two or three minutes .
+PREDID: 337
+PRED: pour
+   DOBJ: NULL
+   PARG: pan
+     PREP: into
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 352
+PRED: stir
+   DOBJ: NULL
+   PARG: with shallots, mushrooms
+     PREP: together
+      NON-INGREDIENT SPAN: with shallots
+      NON-INGREDIENT SPAN:  mushrooms
+   PARG: thickened , two or three minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  two or three minutes
+
+
+SENTID: 6
+SENT: I would add sour cream and mustard , stir to blend .
+PREDID: 421
+PRED: add
+   DOBJ: sour cream, mustard
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: Dijon mustard
+
+PREDID: 444
+PRED: stir
+   DOBJ: NULL
+   OARG: to blend
+      NON-INGREDIENT SPAN: to blend
+
+
+SENTID: 7
+SENT: I would add beef and juices from dish ;
+PREDID: 456
+PRED: add
+   DOBJ: beef, juices
+      NON-INGREDIENT SPAN:  juices
+      NON-INGREDIENT SPAN: beef
+   PARG: dish
+     PREP: from
+      NON-INGREDIENT SPAN: dish
+
+
+SENTID: 8
+SENT: I would stir over medium just till warmed through .
+PREDID: 481
+PRED: stir
+   DOBJ: NULL
+   PARG: medium
+     PREP: over
+      NON-INGREDIENT SPAN: medium
+   OARG: just till warmed through
+      NON-INGREDIENT SPAN: just till warmed through
+
+
+SENTID: 9
+SENT: I would salt to taste .
+PREDID: 517
+PRED: salt
+   DOBJ: NULL
+   OARG: to taste
+      NON-INGREDIENT SPAN: to taste
+
+

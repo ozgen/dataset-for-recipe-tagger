@@ -1,0 +1,230 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would make the filling :
+PREDID: 38
+PRED: make
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+
+
+SENTID: 2
+SENT: I would coarsely chop the spinach , and place in a large bowl ;
+PREDID: 61
+PRED: chop
+   DOBJ: the spinach , place in a large bowl
+      INGREDIENT SPAN: the spinach 
+         INGREDIENTS: ounce package frozen chopped spinach thawed drained squeezed dry
+      NON-INGREDIENT SPAN:  place in a large bowl
+   OARG: coarsely
+      NON-INGREDIENT SPAN: coarsely
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 97
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would heat butter in a large heavy skillet over medium heat .
+PREDID: 106
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large heavy skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large heavy skillet over medium heat
+
+
+SENTID: 5
+SENT: I would saute mushrooms and onion until onion is translucent .
+PREDID: 151
+PRED: saute
+   DOBJ: mushrooms, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: sliced mushrooms
+   PARG: onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onion is translucent
+
+
+SENTID: 6
+SENT: I would transfer mushroom mixture to bowl with spinach .
+PREDID: 197
+PRED: transfer
+   DOBJ: mushroom mixture
+      NON-INGREDIENT SPAN: mushroom mixture
+   PARG: bowl
+     PREP: to
+      NON-INGREDIENT SPAN: bowl
+   PARG: spinach
+     PREP: with
+      NON-INGREDIENT SPAN: spinach
+
+
+SENTID: 7
+SENT: I would mix in 1/2 cup bread crumbs , 1 egg and parsley .
+PREDID: 238
+PRED: mix
+   DOBJ: NULL
+   PARG: 1/2 cup bread crumbs , 1 egg, parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: parsley
+      INGREDIENT SPAN: 1/2 cup bread crumbs 
+         INGREDIENTS: fine dry bread crumbs
+      INGREDIENT SPAN:  1 egg
+         INGREDIENTS: egg
+
+
+SENTID: 8
+SENT: I would season with salt , the pepper and nutmeg .
+PREDID: 276
+PRED: season
+   DOBJ: NULL
+   PARG: salt , the pepper, nutmeg
+     PREP: with
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground pepper
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 9
+SENT: In a large bowl , I would combine ground beef , ground pork , Cheddar cheese , 1/2 cup bread crumbs , 1 egg .
+PREDID: 320
+PRED: combine
+   DOBJ: ground beef , ground pork , Cheddar cheese , 1/2 cup bread crumbs , 1 egg
+      INGREDIENT SPAN:  1/2 cup bread crumbs 
+         INGREDIENTS: fine dry bread crumbs
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  1 egg
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: lean ground pork
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: I would season with Worcestershire sauce , the salt and pepper .
+PREDID: 386
+PRED: season
+   DOBJ: NULL
+   PARG: worcestershire sauce , the salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  the salt
+
+
+SENTID: 11
+SENT: I would place meat mixture between two sheets of waxed paper , and roll into a rectangle approximately 18x8 inches .
+PREDID: 430
+PRED: place
+   DOBJ: meat mixture between two sheets of waxed paper
+      NON-INGREDIENT SPAN: meat mixture between two sheets of waxed paper
+
+PREDID: 478
+PRED: roll
+   DOBJ: NULL
+   PARG: a rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: a rectangle
+   OARG: approximately 18x8 inches
+      NON-INGREDIENT SPAN: approximately 18x8 inches
+
+
+SENTID: 12
+SENT: I would remove top sheet .
+PREDID: 520
+PRED: remove
+   DOBJ: top sheet
+      NON-INGREDIENT SPAN: top sheet
+
+
+SENTID: 13
+SENT: I would spread spinach mixture evenly over meat , leaving a 1/2 inch border .
+PREDID: 535
+PRED: spread
+   DOBJ: spinach mixture
+      NON-INGREDIENT SPAN: spinach mixture
+   PARG: meat
+     PREP: over
+      NON-INGREDIENT SPAN: meat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+   OARG: leaving a 1/2 inch border
+      NON-INGREDIENT SPAN: leaving a 1/2 inch border
+
+
+SENTID: 14
+SENT: I would roll up meat from the short end in jelly-roll style , lifting and removing paper as you go .
+PREDID: 592
+PRED: roll
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: the short end in jelly-roll style
+     PREP: from
+      NON-INGREDIENT SPAN: the short end in jelly-roll style
+   PARG: you go
+     PREP: as
+      NON-INGREDIENT SPAN: you go
+   OARG: up
+      NON-INGREDIENT SPAN: up
+   OARG: lifting, removing paper
+      NON-INGREDIENT SPAN:  removing paper
+      NON-INGREDIENT SPAN: lifting
+
+
+SENTID: 15
+SENT: I would place loaf into an 8x4 inch loaf pan .
+PREDID: 666
+PRED: place
+   DOBJ: loaf
+      NON-INGREDIENT SPAN: loaf
+   PARG: an 8x4 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: an 8x4 inch loaf pan
+
+
+SENTID: 16
+SENT: I would bake in preheated oven for about 1 hour , or until browned and juices run clear .
+PREDID: 696
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for about 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for about 1 hour
+
+
+SENTID: 17
+SENT: I would serve hot or cold .
+PREDID: 761
+PRED: serve
+   DOBJ: NULL
+   OARG: hot or cold
+      NON-INGREDIENT SPAN: hot or cold
+
+

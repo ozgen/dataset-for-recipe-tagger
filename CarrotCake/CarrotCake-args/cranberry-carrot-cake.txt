@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour 3 - 8 inch round cake pans .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: 3
+      NON-INGREDIENT SPAN: 3
+   OARG: 8 inch round cake pans
+      NON-INGREDIENT SPAN: 8 inch round cake pans
+
+
+SENTID: 2
+SENT: I would whisk the flour , baking soda , baking powder , the cinnamon , the ginger , and salt in a bowl , and set aside .
+PREDID: 73
+PRED: whisk
+   DOBJ: the flour , baking soda , baking powder , the cinnamon , the ginger , salt in a bowl
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+
+PREDID: 151
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would cream together the sugar , the mayonnaise , the eggs , and vanilla extract with an electric mixer until blended , scraping the bowl occasionally .
+PREDID: 154
+PRED: cream
+   DOBJ: the sugar , the mayonnaise , the eggs , vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 208
+PRED: extract
+   DOBJ: NULL
+   PARG: an electric mixer
+     PREP: with
+      NON-INGREDIENT SPAN: an electric mixer
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: scraping the bowl occasionally
+      NON-INGREDIENT SPAN: scraping the bowl occasionally
+
+
+SENTID: 4
+SENT: I would stir in the flour mixture ,
+PREDID: 269
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+
+
+SENTID: 5
+SENT: I would fold in the carrots , the pineapple , the pecans , and cranberries .
+PREDID: 291
+PRED: fold
+   DOBJ: NULL
+   PARG: the carrots , the pineapple , the pecans , cranberries
+     PREP: in
+      INGREDIENT SPAN: the carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce crushed pineapple juice
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped toasted pecans
+      INGREDIENT SPAN:  cranberries
+         INGREDIENTS: dried cranberries
+
+
+SENTID: 6
+SENT: I would divide evenly between the prepared cake pans .
+PREDID: 340
+PRED: divide
+   DOBJ: NULL
+   PARG: the prepared cake pans
+     PREP: between
+      NON-INGREDIENT SPAN: the prepared cake pans
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until a toothpick inserted into the center comes out clean , 30 to 35 minutes .
+PREDID: 379
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: a toothpick inserted into the center comes out clean , 30 to 35 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  30 to 35 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted into the center comes out clean 
+
+
+SENTID: 8
+SENT: I would cool in the pan for 10 minutes ,
+PREDID: 462
+PRED: cool
+   DOBJ: NULL
+   PARG: the pan for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the pan for 10 minutes
+
+
+SENTID: 9
+SENT: I would remove from the pan , and allow to cool completely on a wire rack .
+PREDID: 487
+PRED: remove
+   DOBJ: NULL
+   PARG: the pan
+     PREP: from
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 507
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool completely on a wire rack
+      NON-INGREDIENT SPAN: to cool completely on a wire rack
+
+

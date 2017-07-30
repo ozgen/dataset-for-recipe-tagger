@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix together the ground beef , the sausage , the onion , saltine cracker crumbs , beaten eggs , and cajun seasoning in a bowl until well combined .
+PREDID: 38
+PRED: mix
+   DOBJ: the ground beef , the sausage , the onion , saltine cracker crumbs , beaten eggs , cajun seasoning in a bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  cajun seasoning in a bowl
+         INGREDIENTS: Cajun seasoning
+      INGREDIENT SPAN:  saltine cracker crumbs 
+         INGREDIENTS: crushed saltine crackers
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef chuck
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: bulk pork sausage
+      INGREDIENT SPAN:  beaten eggs 
+         INGREDIENTS: eggs beaten
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: In a large baking dish , I would form the meat loaf mixture into a Halfling shape , with a large head , 2 stubby legs , and 2 upraised arms .
+PREDID: 170
+PRED: form
+   DOBJ: the meat loaf mixture
+      NON-INGREDIENT SPAN: the meat loaf mixture
+   PARG: a large baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a large baking dish
+   PARG: a halfling shape
+     PREP: into
+      NON-INGREDIENT SPAN: a halfling shape
+   PARG: a large head , 2 stubby legs , 2 upraised arms
+     PREP: with
+      NON-INGREDIENT SPAN: a large head 
+      NON-INGREDIENT SPAN:  2 stubby legs 
+      NON-INGREDIENT SPAN:  2 upraised arms
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven until the meatloaf is no longer pink inside and just starting to turn brown , about 1 hour .
+PREDID: 255
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the meatloaf is no longer pink inside, just starting
+     PREP: until
+      NON-INGREDIENT SPAN: the meatloaf is no longer pink inside
+      NON-INGREDIENT SPAN:  just starting
+
+PREDID: 330
+PRED: turn
+   DOBJ: brown , about 1 hour
+      NON-INGREDIENT SPAN: brown 
+      NON-INGREDIENT SPAN:  about 1 hour
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 4
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 5
+SENT: To decorate the meatloaf 's head , pick out about 14 corn kernels , and arrange them into teeth .
+PREDID: 353
+PRED: decorate
+   DOBJ: the meatloaf 's head
+      NON-INGREDIENT SPAN: the meatloaf 's head
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 379
+PRED: pick
+   DOBJ: about 14 corn kernels
+      INGREDIENT SPAN: about 14 corn kernels
+         INGREDIENTS: corn kernels
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 408
+PRED: arrange
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: teeth
+     PREP: into
+      NON-INGREDIENT SPAN: teeth
+
+
+SENTID: 6
+SENT: I would place 1 small green pepper slice on each side of the creature 's head for ears ;
+PREDID: 429
+PRED: place
+   DOBJ: 1 small green pepper slice on each side of the creature 's head
+      INGREDIENT SPAN: 1 small green pepper slice on each side of the creature 's head
+         INGREDIENTS: small slices green bell pepper
+      INGREDIENT SPAN: 1 slice on each side of the creature 's head
+         INGREDIENTS: pickle slices
+   PARG: ears
+     PREP: for
+      NON-INGREDIENT SPAN: ears
+
+
+SENTID: 7
+SENT: I would place two pickle slices on the face for eyes ,
+PREDID: 493
+PRED: place
+   DOBJ: two pickle slices
+      INGREDIENT SPAN: two pickle slices
+         INGREDIENTS: pickle slices
+   PARG: the face for eyes
+     PREP: on
+      NON-INGREDIENT SPAN: the face for eyes
+
+
+SENTID: 8
+SENT: I would place 2 black olive halves , cut sides down , in the pickle slices to finish the eyes .
+PREDID: 530
+PRED: place
+   DOBJ: 2 black olive halves, cut sides down
+      NON-INGREDIENT SPAN: 2 black olive halves
+      NON-INGREDIENT SPAN:  cut sides down
+   PARG: the pickle slices to finish the eyes
+     PREP: in
+      INGREDIENT SPAN: the pickle slices to finish the eyes
+         INGREDIENTS: pickle slices
+
+
+SENTID: 9
+SENT: I would one more olive half forms the nose .
+PREDID: 606
+PRED: olive
+   DOBJ: NULL
+   OARG: one more
+      NON-INGREDIENT SPAN: one more
+   OARG: half forms the nose
+      NON-INGREDIENT SPAN: half forms the nose
+
+
+SENTID: 10
+SENT: I would surround the monster with a background of ketchup `` blood , '' and bake until browned , about 10 more minutes .
+PREDID: 628
+PRED: surround
+   DOBJ: the monster
+      NON-INGREDIENT SPAN: the monster
+   PARG: a background of ketchup `` blood
+     PREP: with
+      INGREDIENT SPAN: a background of ketchup `` blood
+         INGREDIENTS: ketchup
+
+PREDID: 683
+PRED: bake
+   DOBJ: NULL
+   PARG: browned , about 10 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned 
+      NON-INGREDIENT SPAN:  about 10 more minutes
+
+
+SENTID: 11
+SENT: I would let the meatloaf rest for 10 minutes before serving .
+PREDID: 719
+PRED: let
+   DOBJ: NULL
+   PARG: the meatloaf rest for 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the meatloaf rest for 10 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 12
+SENT: I would just before serving , stick a paring knife in the meatloaf 's body , and decorate it with a little ketchup blood .
+PREDID: 773
+PRED: serving and stick
+   DOBJ: a paring knife in the meatloaf 's body
+      NON-INGREDIENT SPAN: a paring knife in the meatloaf 's body
+   OARG: just before
+      NON-INGREDIENT SPAN: just before
+
+PREDID: 821
+PRED: decorate
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a little ketchup blood
+     PREP: with
+      NON-INGREDIENT SPAN: a little ketchup blood
+
+

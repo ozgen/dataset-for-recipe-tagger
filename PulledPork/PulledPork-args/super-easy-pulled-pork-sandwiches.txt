@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 1
+SENT: I would mix brown sugar , the paprika , garlic powder , black pepper , and salt in a bowl .
+PREDID: 38
+PRED: mix
+   DOBJ: brown sugar , the paprika , garlic powder , black pepper , salt in a bowl
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder such McCormick California Style
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 2
+SENT: I would spread mustard over pork roast and sprinkle with brown sugar mixture , using the entire amount .
+PREDID: 100
+PRED: spread
+   DOBJ: mustard
+      INGREDIENT SPAN: mustard
+         INGREDIENTS: Dijon mustard such Hellmann
+   PARG: pork roast
+     PREP: over
+      INGREDIENT SPAN: pork roast
+         INGREDIENTS: pork shoulder roast butt roast rind removed
+   OARG: using the entire amount
+      NON-INGREDIENT SPAN: using the entire amount
+
+PREDID: 129
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: brown sugar mixture
+     PREP: with
+      NON-INGREDIENT SPAN: brown sugar mixture
+
+
+SENTID: 3
+SENT: I would line a shallow baking dish with aluminum foil .
+PREDID: 180
+PRED: line
+   DOBJ: a shallow baking dish
+      NON-INGREDIENT SPAN: a shallow baking dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 4
+SENT: I would place a rack in the prepared baking dish and arrange pork roast on rack .
+PREDID: 219
+PRED: place
+   DOBJ: a rack in the prepared baking dish
+      NON-INGREDIENT SPAN: a rack in the prepared baking dish
+
+PREDID: 255
+PRED: arrange
+   DOBJ: pork roast
+      NON-INGREDIENT SPAN: pork roast
+   PARG: rack
+     PREP: on
+      NON-INGREDIENT SPAN: rack
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until very tender , 9 to 11 hours .
+PREDID: 278
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: very tender , 9 to 11 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  9 to 11 hours
+      NON-INGREDIENT SPAN: very tender 
+
+
+SENTID: 6
+SENT: I would let pork cool ,
+PREDID: 327
+PRED: let
+   DOBJ: pork cool
+      NON-INGREDIENT SPAN: pork cool
+
+
+SENTID: 7
+SENT: I would shred into bite-size pieces .
+PREDID: 339
+PRED: shred
+   DOBJ: NULL
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+
+
+SENTID: 8
+SENT: I would stir barbeque sauce into pork to moisten ;
+PREDID: 364
+PRED: stir
+   DOBJ: barbeque sauce
+      INGREDIENT SPAN: barbeque sauce
+         INGREDIENTS: barbeque sauce taste
+   PARG: pork
+     PREP: into
+      NON-INGREDIENT SPAN: pork
+   PARG: moisten
+     PREP: to
+      NON-INGREDIENT SPAN: moisten
+
+
+SENTID: 9
+SENT: I would serve with hamburger buns .
+PREDID: 399
+PRED: serve
+   DOBJ: NULL
+   PARG: hamburger buns
+     PREP: with
+      INGREDIENT SPAN: hamburger buns
+         INGREDIENTS: large hamburger buns split
+
+

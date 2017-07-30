@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease 12 muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 12 muffin cups or line
+      NON-INGREDIENT SPAN: 12 muffin cups or line
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would stir the flour , baking soda , baking powder , and sugar together in a bowl .
+PREDID: 84
+PRED: stir
+   DOBJ: the flour , baking soda , baking powder , sugar
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: flour
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add the bananas , the mayonnaise , and chocolate chips ;
+PREDID: 145
+PRED: add
+   DOBJ: the bananas , the mayonnaise , chocolate chips
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the bananas 
+         INGREDIENTS: ripe bananas mashed
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: chocolate chips
+
+
+SENTID: 4
+SENT: I would stir until well combined .
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 5
+SENT: I would pour into prepared muffin cups to about 3/4 full .
+PREDID: 210
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+   PARG: about 3/4 full
+     PREP: to
+      NON-INGREDIENT SPAN: about 3/4 full
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until golden and the tops spring back when lightly pressed , about 20 minutes .
+PREDID: 251
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until golden, the tops
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven until golden
+      NON-INGREDIENT SPAN:  the tops
+   PARG: 20 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when lightly pressed
+      NON-INGREDIENT SPAN: back when lightly pressed
+
+

@@ -1,0 +1,88 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P41)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P85)", shape=oval, style=filled, fillcolor=azure]
+E3[label="whisk (S3,P176)", shape=oval, style=filled, fillcolor=azure]
+E4[label="cream (S4,P246)", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour (S5,P300)", shape=oval, style=filled, fillcolor=azure]
+E6[label="creamed (S5,P320)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S5,P353)", shape=oval, style=filled, fillcolor=azure]
+E8[label="spoon (S6,P375)", shape=oval, style=filled, fillcolor=azure]
+E9[label="mix (S7,P434)", shape=oval, style=filled, fillcolor=azure]
+E10[label="cut (S8,P490)", shape=oval, style=filled, fillcolor=azure]
+E11[label="sprinkle (S9,P547)", shape=oval, style=filled, fillcolor=azure]
+E12[label="bake (S10,P578)", shape=oval, style=filled, fillcolor=azure]
+D5[label="DOBJ: banana mixture", shape=box, style=filled, fillcolor=white]
+D5 -> E5
+D0[label="DOBJ: the oven to 375 degrees F -LRB- 190 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: brown sugar, spiced rum, cognac, very ripe bananas, honey
+(text: bananas , 1/2 cup brown sugar , honey , rum , cognac)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a mixing bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+P2_1[label="PREP: with an electric mixer", shape=box, style=filled, fillcolor=white]
+P2_1 -> E2
+P2_2[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P2_2 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT: two twelve-cup muffin tins"]
+D3_ing[label="DOBJ: baking powder, all-purpose flour, baking soda, salt
+(text:  salt,  baking powder , flour ,  baking soda )", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT: in a large bowl"]
+O3_0_0[label="OTHER: together 3 cups", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+D4_ing[label="DOBJ: eggs, white sugar, butter
+(text:  melted butter,  eggs , white sugar )", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+D4_0[label="DOBJ:  2/3 cup brown sugar ", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="OUTPUT: 
+INPUT: in another bowl"]
+E4 -> E6 [label="OUTPUT: 
+INPUT: egg mixture"]
+P6_0_0[label="PREP: into the flour", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+O7_0_0[label="OTHER: until just combined", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E5 -> E8 [label="OUTPUT: 
+INPUT: mixture"]
+E1 -> E8 [label="OUTPUT: 
+INPUT: into muffin tins"]
+O8_0_0[label="OTHER: filling cups 3/4 full", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+D9_ing[label="DOBJ: ground cinnamon
+(text:  cinnamon)", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E7 -> E9 [label="OUTPUT: 
+INPUT: 1 cup brown sugar "]
+D9_1[label="DOBJ:  3 tablespoons flour ", shape=box, style=filled, fillcolor=white]
+D9_1 -> E9
+P9_0_0[label="PREP: in a small bowl", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+O9_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+P10_0_ing[label="PREP: in unsalted butter
+(text: in 3 tablespoons butter)", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+O10_0_0[label="OTHER: until mixture resembles coarse crumbs", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E8 -> E11 [label="OUTPUT: 
+INPUT: batter in muffin tins"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: over"]
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+O12_0_0[label="OTHER: muffins in preheated oven for 20 minutes ", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+O12_0_1[label="OTHER:  or until done", shape=box, style=filled, fillcolor=white]
+O12_0_1 -> E12
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

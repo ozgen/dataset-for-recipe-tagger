@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would toss cabbage , red bell pepper , the onion , the celery , jalapeno pepper , and fresh ginger in a large salad bowl .
+PREDID: 0
+PRED: toss
+   DOBJ: cabbage , red bell pepper , the onion , the celery , jalapeno pepper , fresh ginger in a large salad bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: seeded minced jalapeno pepper
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: small red bell pepper chopped
+      INGREDIENT SPAN:  fresh ginger in a large salad bowl
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery sliced
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: cabbage chopped
+
+
+SENTID: 1
+SENT: I would whisk peanut butter , soy sauce , lime juice , the sugar , sesame oil , and salt in a separate bowl until dressing is smooth .
+PREDID: 86
+PRED: whisk
+   DOBJ: peanut butter , soy sauce , lime juice , the sugar , sesame oil , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  sesame oil 
+         INGREDIENTS: dark sesame oil
+      INGREDIENT SPAN: peanut butter 
+         INGREDIENTS: crunchy peanut butter
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   PARG: dressing is smooth
+     PREP: until
+      NON-INGREDIENT SPAN: dressing is smooth
+
+
+SENTID: 2
+SENT: I would pour the dressing over slaw and toss to combine .
+PREDID: 183
+PRED: pour
+   DOBJ: the dressing over slaw
+      NON-INGREDIENT SPAN: the dressing over slaw
+
+PREDID: 209
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 3
+SENT: I would let the stand at least 1 hour ;
+PREDID: 220
+PRED: let
+   DOBJ: the stand
+      NON-INGREDIENT SPAN: the stand
+   PARG: least 1 hour
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour
+
+
+SENTID: 4
+SENT: I would serve sprinkled with chopped peanuts .
+PREDID: 241
+PRED: serve
+   DOBJ: sprinkled
+      NON-INGREDIENT SPAN: sprinkled
+   PARG: chopped peanuts
+     PREP: with
+      INGREDIENT SPAN: chopped peanuts
+         INGREDIENTS: chopped dryroasted peanuts
+
+

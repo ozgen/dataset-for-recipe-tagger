@@ -1,0 +1,224 @@
+SENTID: 0
+SENT: I would sift together flour , 1 teaspoon salt and 1 teaspoon sugar into mixing bowl .
+PREDID: 0
+PRED: sift
+   DOBJ: flour , 1 teaspoon salt, 1 teaspoon sugar
+      INGREDIENT SPAN:  1 teaspoon sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  1 teaspoon salt
+         INGREDIENTS: salt
+   PARG: mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: mixing bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cut in shortening with a pastry blender until mixture resembles cornmeal .
+PREDID: 63
+PRED: cut
+   DOBJ: NULL
+   PARG: shortening with a pastry blender until mixture resembles cornmeal
+     PREP: in
+      INGREDIENT SPAN: shortening with a pastry blender until mixture resembles cornmeal
+         INGREDIENTS: butter flavored shortening chilled
+
+
+SENTID: 2
+SENT: I would combine water , the vinegar and 1 egg ;
+PREDID: 126
+PRED: combine
+   DOBJ: water , the vinegar, 1 egg
+      INGREDIENT SPAN:  1 egg
+         INGREDIENTS: egg white
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN: water 
+         INGREDIENTS: ice water
+
+
+SENTID: 3
+SENT: I would add liquid one tablespoon at a time , sprinkling over flour mixture and tossing with a fork to form soft dough .
+PREDID: 154
+PRED: add
+   DOBJ: liquid one tablespoon
+      NON-INGREDIENT SPAN: liquid one tablespoon
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+PREDID: 184
+PRED: sprinkling
+   DOBJ: NULL
+   PARG: flour mixture
+     PREP: over
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 213
+PRED: tossing
+   DOBJ: NULL
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   OARG: to form soft dough
+      NON-INGREDIENT SPAN: to form soft dough
+
+
+SENTID: 4
+SENT: I would shape into three discs .
+PREDID: 245
+PRED: shape
+   DOBJ: NULL
+   PARG: three discs
+     PREP: into
+      NON-INGREDIENT SPAN: three discs
+
+
+SENTID: 5
+SENT: I would wrap with plastic wrap .
+PREDID: 265
+PRED: wrap
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+
+SENTID: 6
+SENT: I would refrigerate 3 to 24 hours .
+PREDID: 285
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 3 to 24 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 24 hours
+
+
+SENTID: 7
+SENT: I would extra pastry may be frozen for later use .
+PREDID: 323
+PRED: be frozen
+   DOBJ: NULL
+   PARG: later use
+     PREP: for
+      NON-INGREDIENT SPAN: later use
+   OARG: may
+      NON-INGREDIENT SPAN: may
+
+
+SENTID: 8
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 341
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 9
+SENT: I would line a 9 inch pie plate with pastry .
+PREDID: 379
+PRED: line
+   DOBJ: a 9 inch pie plate
+      NON-INGREDIENT SPAN: a 9 inch pie plate
+   PARG: pastry
+     PREP: with
+      NON-INGREDIENT SPAN: pastry
+
+
+SENTID: 10
+SENT: I would brush inside of unbaked pie shell with slightly beaten egg white .
+PREDID: 408
+PRED: brush
+   DOBJ: NULL
+   OARG: inside of unbaked pie shell with slightly beaten egg white
+      INGREDIENT SPAN: inside of unbaked pie shell with slightly beaten 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN: inside of unbaked pie shell with slightly beaten egg white
+         INGREDIENTS: egg white
+
+
+SENTID: 11
+SENT: I would mix 3/4 cup sugar , the syrups , the vanilla and salt with 4 beaten eggs until blended .
+PREDID: 463
+PRED: mix
+   DOBJ: 3/4 cup sugar , the syrups , the vanilla, salt
+      INGREDIENT SPAN: 3/4 cup sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the syrups 
+         INGREDIENTS: real maple syrup
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+   PARG: 4 beaten eggs until blended
+     PREP: with
+      INGREDIENT SPAN: 4 beaten eggs until blended
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 12
+SENT: I would stir in pecans and melted butter .
+PREDID: 527
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans, melted butter
+     PREP: in
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 13
+SENT: I would pour the filling into pie shell .
+PREDID: 555
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+
+SENTID: 14
+SENT: I would bake for 45 to 55 minutes or until center is set .
+PREDID: 579
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 to 55 minutes or until center is set
+     PREP: for
+      NON-INGREDIENT SPAN: 45 to 55 minutes or until center is set
+
+
+SENTID: 15
+SENT: I would remove from oven and brush hot pie top with maple syrup .
+PREDID: 618
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 635
+PRED: brush
+   DOBJ: hot pie top
+      NON-INGREDIENT SPAN: hot pie top
+   PARG: maple syrup
+     PREP: with
+      INGREDIENT SPAN: maple syrup
+         INGREDIENTS: maple syrup
+
+
+SENTID: 16
+SENT: I would cool and store in refrigerator .
+PREDID: 664
+PRED: cool and store
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would boil potatoes and garlic in a large pot of salted water until just tender , 15 to 20 minutes .
+PREDID: 0
+PRED: boil
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: Yukon Gold potatoes peeled halved
+   OARG: garlic in a large pot of salted water until just tender , 15 to 20 minutes
+      NON-INGREDIENT SPAN: garlic in a large pot of salted water until just tender 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 1
+SENT: I would drain and let cool to room temperature .
+PREDID: 75
+PRED: drain and let
+   DOBJ: cool to room temperature
+      NON-INGREDIENT SPAN: cool to room temperature
+
+
+SENTID: 2
+SENT: I would discard the garlic .
+PREDID: 108
+PRED: discard
+   DOBJ: the garlic
+      NON-INGREDIENT SPAN: the garlic
+
+
+SENTID: 3
+SENT: I would whisk mayonnaise , the vinegar , olive oil , and sambal oelek together in a large bowl .
+PREDID: 125
+PRED: whisk
+   DOBJ: mayonnaise , the vinegar , olive oil , sambal oelek
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  sambal oelek
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would season with salt and pepper to taste .
+PREDID: 193
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: I would roughly chop cooled potatoes into a large bowl .
+PREDID: 231
+PRED: chop
+   DOBJ: cooled potatoes
+      NON-INGREDIENT SPAN: cooled potatoes
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: roughly
+      NON-INGREDIENT SPAN: roughly
+
+
+SENTID: 6
+SENT: I would add cornichons , mustard greens , and mayonnaise mixture .
+PREDID: 264
+PRED: add
+   DOBJ: cornichons , mustard greens , mayonnaise mixture
+      INGREDIENT SPAN:  mustard greens 
+         INGREDIENTS: washed cut mustard greens
+      INGREDIENT SPAN: cornichons 
+         INGREDIENTS: chopped cornichons
+      NON-INGREDIENT SPAN:  mayonnaise mixture
+
+
+SENTID: 7
+SENT: I would toss to coat .
+PREDID: 313
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 8
+SENT: I would cover and set aside in the refrigerator for 1 hour .
+PREDID: 324
+PRED: cover and set
+   DOBJ: NULL
+   PARG: the refrigerator for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator for 1 hour
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would season with salt and pepper to taste .
+PREDID: 366
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

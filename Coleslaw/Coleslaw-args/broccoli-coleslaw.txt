@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: In a small bowl combine oil , I would the vinegar , the sugar and the seasoning packet from the ramen noodles .
+
+SENTID: 1
+SENT: I would mix well and refrigerate at least one hour before serving , or overnight .
+PREDID: 0
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 10
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: least one hour
+     PREP: at
+      NON-INGREDIENT SPAN: least one hour
+   PARG: serving , or overnight
+     PREP: before
+      NON-INGREDIENT SPAN: serving 
+      NON-INGREDIENT SPAN:  or overnight
+
+
+SENTID: 2
+SENT: In a large bowl combine broccoli , I would the carrots , green onions and sunflower seeds .
+
+SENTID: 3
+SENT: I would crush ramen noodles and stir in .
+PREDID: 61
+PRED: crush
+   DOBJ: ramen noodles
+      INGREDIENT SPAN: ramen noodles
+         INGREDIENTS: ounce package chicken flavored ramen noodles crushed seasoning packet
+
+PREDID: 81
+PRED: stir
+   DOBJ: NULL
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 4
+SENT: I would pour the dressing over salad about 10 minutes before serving .
+PREDID: 88
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: about 10 minutes
+      NON-INGREDIENT SPAN: about 10 minutes
+
+

@@ -1,0 +1,44 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine mashed (S2,P94)", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix (S3,P148)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S5,P163)", shape=oval, style=filled, fillcolor=azure]
+E5[label="fold (S6,P185)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon (S7,P203)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S8,P252)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: muffin cups or line with paper muffin liners", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D2[label="DOBJ: very ripe bananas
+(text: bananas)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: until smooth", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: into banana mixture", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_ing[label="PREP: in blueberries
+(text: in blueberries)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT:  about 1/4 cup each"]
+D6_1[label="DOBJ: batter", shape=box, style=filled, fillcolor=white]
+D6_1 -> E6
+E1 -> E6 [label="OUTPUT: 
+INPUT: into muffin cups"]
+O6_0_0[label="OTHER: evenly", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in preheated oven for 20 to 25 minutes"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

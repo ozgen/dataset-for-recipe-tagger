@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would combine drained pineapple and mandarin oranges in a bowl ;
+PREDID: 0
+PRED: combine
+   DOBJ: drained pineapple, mandarin oranges in a bowl
+      INGREDIENT SPAN:  mandarin oranges in a bowl
+         INGREDIENTS: ounce mandarin oranges drained
+      INGREDIENT SPAN: drained pineapple
+         INGREDIENTS: ounce pineapple tidbits drained
+
+
+SENTID: 1
+SENT: I would cover with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 49
+PRED: cover
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 72
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: overnight
+     PREP: to
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 2
+SENT: I would stir mayonnaise and mustard together in a bowl ;
+PREDID: 101
+PRED: stir
+   DOBJ: mayonnaise, mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add chicken , the celery , the mushrooms , green bell pepper , the olives , and onion .
+PREDID: 141
+PRED: add
+   DOBJ: chicken , the celery , the mushrooms , green bell pepper , the olives , onion
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: sliced pitted ripe olives
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: shredded cooked chicken
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced fresh mushrooms
+
+
+SENTID: 4
+SENT: I would stir mixture until evenly mixed .
+PREDID: 201
+PRED: stir
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 5
+SENT: I would cover bowl with plastic wrap and refrigerate 8 hours to over night .
+PREDID: 229
+PRED: cover
+   DOBJ: bowl
+      NON-INGREDIENT SPAN: bowl
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 256
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 8 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 8 hours
+   PARG: over night
+     PREP: to
+      NON-INGREDIENT SPAN: over night
+
+
+SENTID: 6
+SENT: I would stir pineapple and oranges into the chicken mixture to coat .
+PREDID: 285
+PRED: stir
+   DOBJ: pineapple, oranges
+      NON-INGREDIENT SPAN:  oranges
+      NON-INGREDIENT SPAN: pineapple
+   PARG: the chicken mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken mixture
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 7
+SENT: I would spoon into lettuce leaves and top with croutons to serve .
+PREDID: 336
+PRED: spoon
+   DOBJ: NULL
+   PARG: lettuce leaves
+     PREP: into
+      INGREDIENT SPAN: lettuce leaves
+         INGREDIENTS: leaves lettuce
+
+PREDID: 361
+PRED: top
+   DOBJ: NULL
+   PARG: croutons
+     PREP: with
+      INGREDIENT SPAN: croutons
+         INGREDIENTS: croutons
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

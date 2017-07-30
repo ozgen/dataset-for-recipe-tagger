@@ -1,0 +1,307 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would process cubed bread in a food processor to make bread crumbs .
+PREDID: 38
+PRED: process
+   DOBJ: cubed bread in a food processor
+      INGREDIENT SPAN: cubed bread in a food processor
+         INGREDIENTS: slices bread crusts removed cubed
+   OARG: to make bread crumbs
+      NON-INGREDIENT SPAN: to make bread crumbs
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 89
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would heat olive oil in a deep ovenproof skillet or Dutch oven .
+PREDID: 98
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a deep ovenproof skillet or dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a deep ovenproof skillet or dutch oven
+
+
+SENTID: 4
+SENT: I would add onion ;
+PREDID: 145
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: small onion diced
+
+
+SENTID: 5
+SENT: I would cook and stir until softened , about 5 minutes .
+PREDID: 154
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: softened
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+   PARG: 5 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 6
+SENT: I would add garlic ;
+PREDID: 193
+PRED: add
+   DOBJ: NULL
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 7
+SENT: I would cook and stir until fragrant , about 1 minute .
+PREDID: 203
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 8
+SENT: I would add quinoa , chicken stock , and water to the skillet .
+PREDID: 241
+PRED: add
+   DOBJ: quinoa , chicken stock , water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: quinoa 
+         INGREDIENTS: quinoa
+      INGREDIENT SPAN:  chicken stock 
+         INGREDIENTS: chicken stock
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 9
+SENT: Bring to a simmer ;
+PREDID: 285
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 10
+SENT: I would cover and cook until quinoa is tender , about 10 minutes .
+PREDID: 300
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: quinoa is tender , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: quinoa is tender 
+
+
+SENTID: 11
+SENT: I would heat 1/4 cup butter in a saucepan over medium-low heat .
+PREDID: 347
+PRED: heat
+   DOBJ: 1/4 cup butter
+      INGREDIENT SPAN: 1/4 cup butter
+         INGREDIENTS: butter
+   PARG: a saucepan over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over medium-low heat
+
+
+SENTID: 12
+SENT: I would add flour ;
+PREDID: 393
+PRED: add
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: flour
+
+
+SENTID: 13
+SENT: I would cook and stir to form a paste , about 2 minutes .
+PREDID: 402
+PRED: cook and stir
+   DOBJ: NULL
+   OARG: to form a paste , about 2 minutes
+      NON-INGREDIENT SPAN: to form a paste 
+      NON-INGREDIENT SPAN:  about 2 minutes
+
+
+SENTID: 14
+SENT: I would slowly whisk in skim milk .
+PREDID: 446
+PRED: whisk
+   DOBJ: NULL
+   PARG: skim milk
+     PREP: in
+      INGREDIENT SPAN: skim milk
+         INGREDIENTS: skim milk
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 15
+SENT: I would season with salt and ground black pepper ;
+PREDID: 462
+PRED: season
+   DOBJ: NULL
+   PARG: salt, ground black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  ground black pepper
+
+
+SENTID: 16
+SENT: I would simmer on low until thickened , about 5 minutes .
+PREDID: 497
+PRED: simmer
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: thickened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: thickened 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 17
+SENT: I would remove saucepan from heat ;
+PREDID: 537
+PRED: remove
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 18
+SENT: I would stir in Cheddar and mozzarella cheeses , a little at a time , until combined .
+PREDID: 560
+PRED: stir
+   DOBJ: NULL
+   PARG: cheddar, mozzarella cheeses
+     PREP: in
+      INGREDIENT SPAN: cheddar
+         INGREDIENTS: sharp Cheddar cheese shredded
+      INGREDIENT SPAN:  mozzarella cheeses
+         INGREDIENTS: mozzarella cheese shredded
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+   OARG: a little at a time
+      NON-INGREDIENT SPAN: a little at a time
+
+
+SENTID: 19
+SENT: I would stir cheese sauce into quinoa mixture in the skillet .
+PREDID: 623
+PRED: stir
+   DOBJ: cheese sauce
+      NON-INGREDIENT SPAN: cheese sauce
+   PARG: quinoa mixture in the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: quinoa mixture in the skillet
+
+
+SENTID: 20
+SENT: I would melt 1 tablespoon butter in a separate skillet over medium heat .
+PREDID: 668
+PRED: melt
+   DOBJ: 1 tablespoon butter
+      INGREDIENT SPAN: 1 tablespoon butter
+         INGREDIENTS: butter
+   PARG: a separate skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a separate skillet over medium heat
+
+
+SENTID: 21
+SENT: I would add bread crumbs ;
+PREDID: 722
+PRED: add
+   DOBJ: bread crumbs
+      NON-INGREDIENT SPAN: bread crumbs
+
+
+SENTID: 22
+SENT: I would cook and stir until crumbs are toasted , about 2 minutes .
+PREDID: 737
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: crumbs are toasted
+     PREP: until
+      NON-INGREDIENT SPAN: crumbs are toasted
+   PARG: 2 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 2 minutes
+
+
+SENTID: 23
+SENT: I would place tomato slices on top of quinoa ;
+PREDID: 784
+PRED: place
+   DOBJ: tomato slices
+      INGREDIENT SPAN: tomato slices
+         INGREDIENTS: large tomato cored sliced
+   PARG: top of quinoa
+     PREP: on
+      NON-INGREDIENT SPAN: top of quinoa
+
+
+SENTID: 24
+SENT: I would top with bread crumbs .
+PREDID: 815
+PRED: top
+   DOBJ: NULL
+   PARG: bread crumbs
+     PREP: with
+      NON-INGREDIENT SPAN: bread crumbs
+
+
+SENTID: 25
+SENT: Quinoa mixture will be soupy but will firm up during baking .
+
+SENTID: 26
+SENT: I would bake in the oven until golden brown , about 25 minutes .
+PREDID: 834
+PRED: bake
+   DOBJ: NULL
+   PARG: the oven until golden brown , about 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the oven until golden brown 
+      NON-INGREDIENT SPAN:  about 25 minutes
+
+
+SENTID: 27
+SENT: I would allow to rest for 5 minutes before serving .
+PREDID: 879
+PRED: allow
+   DOBJ: NULL
+   OARG: to rest for 5 minutes before serving
+      NON-INGREDIENT SPAN: to rest for 5 minutes before serving
+
+

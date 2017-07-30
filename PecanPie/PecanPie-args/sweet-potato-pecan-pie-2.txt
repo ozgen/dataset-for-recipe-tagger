@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would prepare dough for one 9 inch pie .
+PREDID: 38
+PRED: prepare
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: one 9 inch pie
+     PREP: for
+      INGREDIENT SPAN: one 9 inch pie
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 2
+SENT: I would refrigerate until ready to bake .
+PREDID: 65
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to bake
+      NON-INGREDIENT SPAN: to bake
+
+
+SENTID: 3
+SENT: I would blend together the butter , sweet potatoes , the eggs , brown sugar , the ginger , the cinnamon , the nutmeg , the vanilla , the salt , corn syrup and evaporated milk .
+PREDID: 93
+PRED: blend
+   DOBJ: the butter , sweet potatoes , the eggs , brown sugar , the ginger , the cinnamon , the nutmeg , the vanilla , the salt , corn syrup, evaporated milk
+      INGREDIENT SPAN:  corn syrup
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: the butter 
+         INGREDIENTS: unsalted butter melted
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: evaporated milk
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: grated nutmeg
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  sweet potatoes 
+         INGREDIENTS: cooked mashed sweet potatoes
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would pour the filling into crust and sprinkle with chopped pecans .
+PREDID: 209
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: crust
+     PREP: into
+      INGREDIENT SPAN: crust
+         INGREDIENTS: inch unbaked pie crust
+
+PREDID: 235
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: chopped pecans
+     PREP: with
+      INGREDIENT SPAN: chopped pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 5
+SENT: I would bake for 40 to 45 minutes , or until inserted knife comes out clean .
+PREDID: 258
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 to 45 minutes , or until inserted knife comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN:  or until inserted knife comes out clean
+      NON-INGREDIENT SPAN: 40 to 45 minutes 
+
+
+SENTID: 6
+SENT: I would set aside to cool .
+PREDID: 313
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 7
+SENT: I would beat together whipping cream , the sugar and liqueur until soft peaks form .
+PREDID: 328
+PRED: beat
+   DOBJ: whipping cream , the sugar, liqueur
+      INGREDIENT SPAN: whipping cream 
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: confectioners sugar
+      INGREDIENT SPAN:  liqueur
+         INGREDIENTS: hazelnut liqueur
+   PARG: soft peaks form
+     PREP: until
+      NON-INGREDIENT SPAN: soft peaks form
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would top pie with whipped cream and pecan halves .
+PREDID: 388
+PRED: top
+   DOBJ: pie
+      NON-INGREDIENT SPAN: pie
+   PARG: whipped cream, pecan halves
+     PREP: with
+      INGREDIENT SPAN:  pecan halves
+         INGREDIENTS: pecan halves
+      NON-INGREDIENT SPAN: whipped cream
+
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would press pie shell into and up the sides of a 9 inch pie plate .
+PREDID: 38
+PRED: press
+   DOBJ: pie shell
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie shell
+   PARG: the sides of a 9 inch pie plate
+     PREP: up
+      NON-INGREDIENT SPAN: the sides of a 9 inch pie plate
+
+
+SENTID: 2
+SENT: I would beat eggs , the sugar , the salt , the margarine , and syrup with hand mixer .
+PREDID: 85
+PRED: beat
+   DOBJ: eggs , the sugar , the salt , the margarine , syrup
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the margarine 
+         INGREDIENTS: margarine melted
+      INGREDIENT SPAN:  syrup
+         INGREDIENTS: light corn syrup
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: hand mixer
+     PREP: with
+      NON-INGREDIENT SPAN: hand mixer
+
+
+SENTID: 3
+SENT: I would stir in pecans and chocolate chips .
+PREDID: 137
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans, chocolate chips
+     PREP: in
+      INGREDIENT SPAN:  chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecan halves
+
+
+SENTID: 4
+SENT: I would pour into pie shell .
+PREDID: 167
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+
+SENTID: 5
+SENT: I would bake until set , 40 to 50 minutes .
+PREDID: 184
+PRED: bake
+   DOBJ: NULL
+   PARG: set , 40 to 50 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: set 
+      NON-INGREDIENT SPAN:  40 to 50 minutes
+
+
+SENTID: 6
+SENT: I would let cool before cutting .
+PREDID: 211
+PRED: let
+   DOBJ: NULL
+   OARG: cool before cutting
+      NON-INGREDIENT SPAN: cool before cutting
+
+

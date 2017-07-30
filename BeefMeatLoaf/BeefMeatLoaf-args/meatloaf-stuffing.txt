@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix meatloaf meat , the apples , the onion , stuffing mix , the celery , the milk , the water , the eggs , garlic powder , the salt , and black pepper together in a bowl until ingredients are evenly combined .
+PREDID: 38
+PRED: mix
+   DOBJ: meatloaf meat , the apples , the onion , stuffing mix , the celery , the milk , the water , the eggs , garlic powder , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small white onion diced
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: green apples peeled cored diced
+      INGREDIENT SPAN: meatloaf meat 
+         INGREDIENTS: beef veal pork meatloaf meat mix
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  stuffing mix 
+         INGREDIENTS: herbseasoned stuffing mix such Pepperidge Farm HerbSeasoned
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: ingredients are evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: ingredients are evenly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would spread cream of mushroom soup into a 9x5-inch loaf pan .
+PREDID: 183
+PRED: spread
+   DOBJ: cream of mushroom soup
+      INGREDIENT SPAN: cream of mushroom soup
+         INGREDIENTS: ounce cream mushroom soup
+   PARG: a 9x5-inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+
+
+SENTID: 3
+SENT: I would spoon meat mixture into the loaf pan and use a spatula to gently flatten the top of the loaf .
+PREDID: 229
+PRED: spoon
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: the loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the loaf pan
+
+PREDID: 262
+PRED: use
+   DOBJ: a spatula to gently flatten the top of the loaf
+      NON-INGREDIENT SPAN: a spatula to gently flatten the top of the loaf
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until no longer pink in the center , about 1?1/2 hours .
+PREDID: 304
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , about 1?1/2 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1?1/2 hours
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 5
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 6
+SENT: I would cool in pan for 5 to 10 minutes .
+PREDID: 371
+PRED: cool
+   DOBJ: NULL
+   PARG: pan for 5 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pan for 5 to 10 minutes
+
+
+SENTID: 7
+SENT: I would flip meatloaf pan upside-down onto a serving platter so the cream of mushroom soup is on the top of the loaf .
+PREDID: 396
+PRED: flip
+   DOBJ: meatloaf pan upside-down
+      NON-INGREDIENT SPAN: meatloaf pan upside-down
+   PARG: a serving platter
+     PREP: onto
+      NON-INGREDIENT SPAN: a serving platter
+   PARG: the cream of mushroom soup is on the top of the loaf
+     PREP: so
+      NON-INGREDIENT SPAN: the cream of mushroom soup is on the top of the loaf
+
+

@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would place chicken stock in a saucepan and bring to a boil over medium-high heat .
+PREDID: 0
+PRED: place
+   DOBJ: chicken stock
+      INGREDIENT SPAN: chicken stock
+         INGREDIENTS: chicken broth
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 31
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium-high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium-high heat
+
+
+SENTID: 1
+SENT: I would stir in couscous .
+PREDID: 63
+PRED: stir
+   DOBJ: NULL
+   PARG: couscous
+     PREP: in
+      INGREDIENT SPAN: couscous
+         INGREDIENTS: ounce box couscous
+
+
+SENTID: 2
+SENT: I would remove the pan from the heat ;
+PREDID: 78
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 3
+SENT: I would cover , and let stand for 5 minutes .
+PREDID: 99
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 108
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would fluff couscous with a fork .
+PREDID: 128
+PRED: fluff
+   DOBJ: couscous
+      NON-INGREDIENT SPAN: couscous
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 5
+SENT: I would cool for 10 minutes .
+PREDID: 151
+PRED: cool
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 6
+SENT: I would meanwhile , make the dressing by combining the olive oil , lemon juice , and vinegar in the bowl of a blender or food processor ;
+
+SENTID: 7
+SENT: I would mix on low until mixture thickens .
+PREDID: 168
+PRED: mix
+   DOBJ: NULL
+   PARG: low until mixture thickens
+     PREP: on
+      NON-INGREDIENT SPAN: low until mixture thickens
+
+
+SENTID: 8
+SENT: I would stir in rosemary .
+PREDID: 197
+PRED: stir
+   DOBJ: NULL
+   PARG: rosemary
+     PREP: in
+      INGREDIENT SPAN: rosemary
+         INGREDIENTS: chopped fresh rosemary leaves
+
+
+SENTID: 9
+SENT: I would season to taste with salt and pepper .
+PREDID: 212
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 10
+SENT: I would combine the chicken , the cucumber , sun-dried tomatoes , and olives in a large bowl .
+PREDID: 243
+PRED: combine
+   DOBJ: the chicken , the cucumber , sun-dried tomatoes , olives in a large bowl
+      INGREDIENT SPAN:  olives in a large bowl
+         INGREDIENTS: chopped pitted olives
+      INGREDIENT SPAN:  sun-dried tomatoes 
+         INGREDIENTS: chopped sundried tomatoes
+      INGREDIENT SPAN:  the cucumber 
+         INGREDIENTS: chopped English cucumber
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: large cooked skinless boneless chicken breast halves cut bitesize
+
+
+SENTID: 11
+SENT: I would stir in the couscous , Feta cheese , and parsley .
+PREDID: 310
+PRED: stir
+   DOBJ: NULL
+   PARG: the couscous , feta cheese , parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh Italian parsley
+      INGREDIENT SPAN:  feta cheese 
+         INGREDIENTS: crumbled feta cheese
+      NON-INGREDIENT SPAN: the couscous 
+
+
+SENTID: 12
+SENT: I would season to taste with salt and pepper .
+PREDID: 350
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: to taste with salt
+
+
+SENTID: 13
+SENT: I would toss the salad with half the dressing .
+PREDID: 381
+PRED: toss
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: half the dressing
+     PREP: with
+      NON-INGREDIENT SPAN: half the dressing
+
+
+SENTID: 14
+SENT: I would taste , and add more dressing as desired , or , if making the salad in advance , add additional dressing just before serving .
+PREDID: 413
+PRED: taste
+   DOBJ: NULL
+
+PREDID: 422
+PRED: add
+   DOBJ: more dressing as desired
+      NON-INGREDIENT SPAN: more dressing as desired
+
+PREDID: 452
+PRED: making
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   PARG: advance
+     PREP: in
+      NON-INGREDIENT SPAN: advance
+   OARG: if
+      NON-INGREDIENT SPAN: if
+
+PREDID: 476
+PRED: add
+   DOBJ: additional dressing
+      NON-INGREDIENT SPAN: additional dressing
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

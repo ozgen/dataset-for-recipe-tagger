@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium heat and add ground beef ;
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+PREDID: 34
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+
+
+SENTID: 1
+SENT: I would cook and stir until meat is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 48
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: meat is crumbly , evenly browned , no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned 
+      NON-INGREDIENT SPAN: meat is crumbly 
+      NON-INGREDIENT SPAN:  no longer pink
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 2
+SENT: I would drain and discard any excess grease .
+PREDID: 123
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 3
+SENT: I would heat olive oil in a soup pot over medium-high heat .
+PREDID: 154
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a soup pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a soup pot over medium-high heat
+
+
+SENTID: 4
+SENT: I would cook and stir green pepper in the hot oil until it starts to soften , 5 to 7 minutes .
+PREDID: 196
+PRED: cook and stir
+   DOBJ: green pepper
+      INGREDIENT SPAN: green pepper
+         INGREDIENTS: green bell pepper diced
+   PARG: the hot oil until it starts to soften , 5 to 7 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: the hot oil until it starts to soften 
+
+
+SENTID: 5
+SENT: I would reduce heat to low , stir in garlic , the cumin , and chili powder , and season with salt and black pepper to taste .
+PREDID: 263
+PRED: reduce
+   DOBJ: the cumin , chili powder , season with salt, black pepper to taste, heat
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder more taste
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: the cumin 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  heat
+      NON-INGREDIENT SPAN:  black pepper to taste
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 279
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic
+     PREP: in
+      NON-INGREDIENT SPAN: garlic
+
+
+SENTID: 6
+SENT: I would mix cooked ground beef and tomatoes into green bell pepper mixture , breaking up tomatoes with a spatula .
+PREDID: 352
+PRED: mix
+   DOBJ: cooked ground beef, tomatoes
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce diced tomatoes
+      NON-INGREDIENT SPAN: cooked ground beef
+   PARG: green bell pepper mixture
+     PREP: into
+      NON-INGREDIENT SPAN: green bell pepper mixture
+   OARG: breaking up tomatoes with a spatula
+      NON-INGREDIENT SPAN: breaking up tomatoes with a spatula
+
+
+SENTID: 7
+SENT: I would add 4 cups of water or enough to cover the ingredients , reduce heat to low , and simmer at least 2 hours to blend flavors .
+PREDID: 440
+PRED: add
+   DOBJ: 4 cups of water or enough
+      INGREDIENT SPAN: 4 cups of water or enough
+         INGREDIENTS: water
+   OARG: to cover the ingredients , reduce heat to low , simmer at least 2 hours to blend flavors
+      NON-INGREDIENT SPAN:  simmer at least 2 hours to blend flavors
+      NON-INGREDIENT SPAN: to cover the ingredients 
+      NON-INGREDIENT SPAN:  reduce heat to low 
+
+

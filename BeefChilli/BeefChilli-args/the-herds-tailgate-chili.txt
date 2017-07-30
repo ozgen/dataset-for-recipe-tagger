@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would cook and stir ground beef , the onions , bell peppers , garlic , chili seasoning , chili powder , ground cumin , onion powder , and garlic powder in a large pot over medium-high heat until meat is browned , 10 to 15 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: ground beef , the onions , bell peppers , garlic , chili seasoning , chili powder , ground cumin , onion powder , garlic powder
+      INGREDIENT SPAN:  chili seasoning 
+         INGREDIENTS: ounce packages chili seasoning mix
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: green bell peppers diced
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  ground cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: garlic powder, onions diced
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: garlic powder, onions diced
+      NON-INGREDIENT SPAN:  garlic powder
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a large pot over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium-high heat
+   PARG: meat is browned , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: meat is browned 
+
+
+SENTID: 1
+SENT: I would stir diced tomatoes , crushed tomatoes , stewed tomatoes , navy beans , chili beans , pinto beans , kidney beans , black beans , and black-eyed peas into beef mixture ;
+PREDID: 177
+PRED: stir
+   DOBJ: diced tomatoes , crushed tomatoes , stewed tomatoes , navy beans , chili beans , pinto beans , kidney beans , black beans , black-eyed peas
+      INGREDIENT SPAN:  stewed tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  black-eyed peas
+         INGREDIENTS: ounce blackeyed peas drained rinsed
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce seasoned chili beans undrained
+      INGREDIENT SPAN:  navy beans 
+         INGREDIENTS: ounce navy beans drained rinsed
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce red kidney beans drained rinsed
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans drained rinsed
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+   PARG: beef mixture
+     PREP: into
+      NON-INGREDIENT SPAN: beef mixture
+
+
+SENTID: 2
+SENT: I would bring to a boil , reduce heat , and simmer until flavors blend and chili is warmed through , at least 30 minutes .
+PREDID: 314
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 327
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 341
+PRED: simmer
+   DOBJ: NULL
+   PARG: flavors blend, chili is warmed through , at least 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  chili is warmed through 
+      NON-INGREDIENT SPAN:  at least 30 minutes
+      NON-INGREDIENT SPAN: flavors blend
+
+

@@ -1,0 +1,12 @@
+digraph recipe {
+E0[label="mix
+0", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: tomato sauce , tomato paste , ground black pepper , oregano , basil , garlic powder , salt , thyme , cilantro , parsley , onion salt", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="DURATION:until well combined", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E0 -> EOR
+}

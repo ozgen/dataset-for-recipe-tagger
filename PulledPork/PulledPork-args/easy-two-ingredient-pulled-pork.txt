@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would place pork in a slow cooker and add enough water to cover the bottom of the slow cooker .
+PREDID: 0
+PRED: place
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pound boneless pork loin roast
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+PREDID: 25
+PRED: add
+   DOBJ: enough water
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water needed
+   OARG: to cover the bottom of the slow cooker
+      NON-INGREDIENT SPAN: to cover the bottom of the slow cooker
+
+
+SENTID: 1
+SENT: I would cook on Low for 7 hours .
+PREDID: 71
+PRED: cook
+   DOBJ: NULL
+   PARG: low for 7 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 7 hours
+
+
+SENTID: 2
+SENT: I would transfer pork to a bowl and shred with 2 forks .
+PREDID: 90
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a bowl, shred with 2 forks
+     PREP: to
+      NON-INGREDIENT SPAN:  shred with 2 forks
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would return pork to slow cooker and stir in barbeque sauce .
+PREDID: 128
+PRED: return
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   OARG: to slow cooker, stir in barbeque sauce
+      INGREDIENT SPAN:  stir in barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce such Dinosaur
+      NON-INGREDIENT SPAN: to slow cooker
+
+
+SENTID: 4
+SENT: I would continue to cook on Low for 45 minutes to 1 hour .
+PREDID: 173
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook on low for 45 minutes to 1 hour
+      NON-INGREDIENT SPAN: to cook on low for 45 minutes to 1 hour
+
+
+SENTID: 5
+SENT: I would spoon a generous amount of pork into each roll .
+PREDID: 212
+PRED: spoon
+   DOBJ: a generous amount of pork
+      NON-INGREDIENT SPAN: a generous amount of pork
+   PARG: each roll
+     PREP: into
+      NON-INGREDIENT SPAN: each roll
+
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease 24 muffin cups or line with paper muffin liners .
+PREDID: 38
+PRED: grease
+   DOBJ: 24 muffin cups or line
+      NON-INGREDIENT SPAN: 24 muffin cups or line
+   PARG: paper muffin liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper muffin liners
+
+
+SENTID: 2
+SENT: I would whisk together flour , the oats , the flax , the sugar , the coconut , the cinnamon , baking powder , baking soda , and salt in a bowl .
+PREDID: 84
+PRED: whisk
+   DOBJ: flour , the oats , the flax , the sugar , the coconut , the cinnamon , baking powder , baking soda , salt in a bowl
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the oats 
+         INGREDIENTS: quickcooking rolled oats
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt in a bowl
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: sweetened flaked coconut
+      INGREDIENT SPAN:  the flax 
+         INGREDIENTS: ground flax seed
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would whisk together bananas , sour cream , the applesauce , melted butter , the eggs , and vanilla in a large bowl .
+PREDID: 175
+PRED: whisk
+   DOBJ: bananas , sour cream , the applesauce , melted butter , the eggs , vanilla in a large bowl
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: mashed ripe banana
+      INGREDIENT SPAN:  vanilla in a large bowl
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  melted butter 
+         INGREDIENTS: melted butter
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir flour mixture into banana mixture just until all dry ingredients are moistened ;
+PREDID: 258
+PRED: stir
+   DOBJ: flour mixture
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: banana mixture
+   OARG: just until all dry ingredients are moistened
+      NON-INGREDIENT SPAN: just until all dry ingredients are moistened
+
+
+SENTID: 5
+SENT: I would fold in blueberries .
+PREDID: 330
+PRED: fold
+   DOBJ: NULL
+   PARG: blueberries
+     PREP: in
+      INGREDIENT SPAN: blueberries
+         INGREDIENTS: fresh blueberries
+
+
+SENTID: 6
+SENT: I would fill muffin cups 2/3 full .
+PREDID: 348
+PRED: fill
+   DOBJ: NULL
+   OARG: muffin cups 2/3 full
+      NON-INGREDIENT SPAN: muffin cups 2/3 full
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until a toothpick inserted near the center comes out clean , about 20 minutes .
+PREDID: 370
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted near the center comes out clean , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted near the center comes out clean 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

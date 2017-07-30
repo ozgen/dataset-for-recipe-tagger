@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would cook macaroni according to the package directions .
+PREDID: 0
+PRED: cook
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: uncooked elbow macaroni
+   PARG: to the package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to the package directions
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 44
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a saucepan , I would melt butter or margarine over medium heat .
+PREDID: 62
+PRED: melt
+   DOBJ: butter or margarine
+      INGREDIENT SPAN: butter or margarine
+         INGREDIENTS: butter
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 3
+SENT: I would stir in enough flour to make a roux .
+PREDID: 98
+PRED: stir
+   DOBJ: NULL
+   PARG: enough flour
+     PREP: in
+      INGREDIENT SPAN: enough flour
+         INGREDIENTS: allpurpose flour
+   OARG: to make a roux
+      NON-INGREDIENT SPAN: to make a roux
+
+
+SENTID: 4
+SENT: I would add milk to roux slowly , stirring constantly .
+PREDID: 127
+PRED: add
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: to roux slowly
+      NON-INGREDIENT SPAN: to roux slowly
+   OARG: stirring constantly
+      NON-INGREDIENT SPAN: stirring constantly
+
+
+SENTID: 5
+SENT: I would stir in cheeses , and cook over low heat until cheese is melted and the sauce is a little thick .
+PREDID: 166
+PRED: stir
+   DOBJ: NULL
+   PARG: cheeses
+     PREP: in
+      INGREDIENT SPAN: cheeses
+         INGREDIENTS: shredded sharp Cheddar cheese
+   OARG: the sauce is a little thick
+      NON-INGREDIENT SPAN: the sauce is a little thick
+
+PREDID: 183
+PRED: cook
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: cheese is melted
+     PREP: until
+      INGREDIENT SPAN: cheese is melted
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 6
+SENT: I would put macaroni in large casserole dish , and pour sauce over macaroni .
+PREDID: 243
+PRED: put
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: large casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: large casserole dish
+
+PREDID: 278
+PRED: pour
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: macaroni
+
+
+SENTID: 7
+SENT: I would stir well .
+PREDID: 300
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would melt butter or margarine in a skillet over medium heat .
+PREDID: 309
+PRED: melt
+   DOBJ: butter or margarine
+      NON-INGREDIENT SPAN: butter or margarine
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 9
+SENT: I would add breadcrumbs and brown .
+PREDID: 355
+PRED: add
+   DOBJ: breadcrumbs, brown
+      NON-INGREDIENT SPAN: breadcrumbs
+      NON-INGREDIENT SPAN:  brown
+
+
+SENTID: 10
+SENT: I would spread over the macaroni and cheese to cover .
+PREDID: 378
+PRED: spread
+   DOBJ: the macaroni, cheese
+      NON-INGREDIENT SPAN: the macaroni
+      NON-INGREDIENT SPAN:  cheese
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 11
+SENT: I would sprinkle with a little paprika .
+PREDID: 416
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: a little paprika
+     PREP: with
+      INGREDIENT SPAN: a little paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 12
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 443
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 13
+SENT: I would serve .
+PREDID: 486
+PRED: serve
+   DOBJ: NULL
+
+

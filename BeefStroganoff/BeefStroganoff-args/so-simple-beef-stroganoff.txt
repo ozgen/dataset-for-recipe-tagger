@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: I would whisk cream of mushroom soup , the water , and dry onion soup mix in a slow cooker ;
+PREDID: 0
+PRED: whisk
+   DOBJ: cream of mushroom soup , the water , dry onion soup mix
+      INGREDIENT SPAN: cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water more needed
+      INGREDIENT SPAN:  dry onion soup mix
+         INGREDIENTS: ounce package dry onion soup mix
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 1
+SENT: I would stir meat into soup mixture .
+PREDID: 63
+PRED: stir
+   DOBJ: meat
+      INGREDIENT SPAN: meat
+         INGREDIENTS: cubed beef stew meat
+   PARG: soup mixture
+     PREP: into
+      NON-INGREDIENT SPAN: soup mixture
+
+
+SENTID: 2
+SENT: I would cover and cook on High for 1 hour .
+PREDID: 87
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 3
+SENT: I would reduce the setting to Low and cook until beef is tender , 2 to 3 more hours .
+PREDID: 114
+PRED: reduce
+   DOBJ: the setting
+      NON-INGREDIENT SPAN: the setting
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 138
+PRED: cook
+   DOBJ: NULL
+   PARG: beef is tender , 2 to 3 more hours
+     PREP: until
+      NON-INGREDIENT SPAN: beef is tender 
+      NON-INGREDIENT SPAN:  2 to 3 more hours
+
+
+SENTID: 4
+SENT: I would test for doneness after 2 hours .
+PREDID: 171
+PRED: test
+   DOBJ: NULL
+   PARG: doneness
+     PREP: for
+      NON-INGREDIENT SPAN: doneness
+   PARG: 2 hours
+     PREP: after
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 5
+SENT: I would stir cream cheese into beef until smooth .
+PREDID: 198
+PRED: stir
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: cream cheese
+   PARG: beef
+     PREP: into
+      NON-INGREDIENT SPAN: beef
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+

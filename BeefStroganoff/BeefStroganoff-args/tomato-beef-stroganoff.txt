@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would spray inside of large slow cooker with cooking spray .
+PREDID: 0
+PRED: spray
+   DOBJ: NULL
+   PARG: of large slow cooker with cooking spray
+     PREP: inside
+      INGREDIENT SPAN: of large slow cooker with cooking spray
+         INGREDIENTS: PAM Original NoStick Cooking Spray
+
+
+SENTID: 1
+SENT: I would combine roast , the tomatoes , tomato sauce , tomato paste , the mushrooms and seasoning mix in slow cooker .
+PREDID: 45
+PRED: combine
+   DOBJ: roast , the tomatoes , tomato sauce , tomato paste , the mushrooms, seasoning mix
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce Hunt Crushed Tomatoes
+      INGREDIENT SPAN:  seasoning mix
+         INGREDIENTS: ounce packages beef stroganoff seasoning mix
+      INGREDIENT SPAN: roast 
+         INGREDIENTS: boneless chuck roast cut large
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce Hunt Tomato Paste, ounce Hunt Tomato Sauce
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce Hunt Tomato Paste, ounce Hunt Tomato Sauce
+      INGREDIENT SPAN:  the mushrooms
+         INGREDIENTS: ounce package sliced fresh mushrooms
+      NON-INGREDIENT SPAN:  tomato paste 
+   PARG: slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 2
+SENT: I would cook on LOW 8 hours or on HIGH 4 hours or until meat is tender .
+PREDID: 128
+PRED: cook
+   DOBJ: NULL
+   PARG: low 8 hours or on high 4 hours or until meat is tender
+     PREP: on
+      NON-INGREDIENT SPAN: low 8 hours or on high 4 hours or until meat is tender
+
+
+SENTID: 3
+SENT: I would stir in noodles the last 20 minutes of cook time and cook for remainder of time on HIGH .
+PREDID: 177
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles the last 20 minutes of cook time
+     PREP: in
+      INGREDIENT SPAN: noodles the last 20 minutes of cook time
+         INGREDIENTS: dry egg noodles uncooked
+
+PREDID: 219
+PRED: cook
+   DOBJ: NULL
+   PARG: remainder of time
+     PREP: for
+      NON-INGREDIENT SPAN: remainder of time
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 4
+SENT: I would stir in sour cream just before serving .
+PREDID: 248
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

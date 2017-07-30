@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl combine the soup , I would the milk , the onion and mustard .
+
+SENTID: 2
+SENT: I would mix well and set aside .
+PREDID: 38
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 48
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would spread sauerkraut into the bottom of a lightly greased 9x13 inch baking dish .
+PREDID: 57
+PRED: spread
+   DOBJ: sauerkraut
+      INGREDIENT SPAN: sauerkraut
+         INGREDIENTS: ounce sauerkraut rinsed squeezed dry
+   PARG: the bottom of a lightly greased 9x13 inch baking dish
+     PREP: into
+      INGREDIENT SPAN: the bottom of a lightly greased 9x13 inch baking dish
+         INGREDIENTS: kielbasa Polish sausage cut inch
+
+
+SENTID: 4
+SENT: I would top with uncooked noodles ,
+PREDID: 122
+PRED: top
+   DOBJ: NULL
+   PARG: uncooked noodles
+     PREP: with
+      INGREDIENT SPAN: uncooked noodles
+         INGREDIENTS: ounce package egg noodles
+
+
+SENTID: 5
+SENT: I would spoon soup mixture evenly over noodles .
+PREDID: 145
+PRED: spoon
+   DOBJ: soup mixture
+      INGREDIENT SPAN: soup mixture
+         INGREDIENTS: ounce condensed cream mushroom soup
+   OARG: evenly over noodles
+      NON-INGREDIENT SPAN: evenly over noodles
+
+
+SENTID: 6
+SENT: I would cover all with sausage and top with cheese .
+PREDID: 179
+PRED: cover
+   DOBJ: all with sausage, top
+      NON-INGREDIENT SPAN: all with sausage
+      NON-INGREDIENT SPAN:  top
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Swiss cheese
+
+
+SENTID: 7
+SENT: I would lastly , combine bread crumbs and melted butter in a small bowl and mix together ;
+PREDID: 222
+PRED: combine
+   DOBJ: bread crumbs, melted butter in a small bowl
+      INGREDIENT SPAN:  melted butter in a small bowl
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: whole wheat bread crumbs
+   OARG: lastly
+      NON-INGREDIENT SPAN: lastly
+
+PREDID: 270
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would sprinkle mixture over cheese .
+PREDID: 282
+PRED: sprinkle
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: cheese
+     PREP: over
+      NON-INGREDIENT SPAN: cheese
+
+
+SENTID: 9
+SENT: I would cover baking dish tightly with aluminum foil and bake in the preheated oven for 1 hour , or until noodles are tender .
+PREDID: 308
+PRED: cover
+   DOBJ: baking dish
+      NON-INGREDIENT SPAN: baking dish
+   OARG: tightly with aluminum foil
+      NON-INGREDIENT SPAN: tightly with aluminum foil
+
+PREDID: 349
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 1 hour , or until noodles are tender
+     PREP: in
+      NON-INGREDIENT SPAN:  or until noodles are tender
+      NON-INGREDIENT SPAN: the preheated oven for 1 hour 
+
+

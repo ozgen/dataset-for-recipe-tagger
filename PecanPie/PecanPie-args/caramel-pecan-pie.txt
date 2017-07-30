@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In a saucepan over low heat , combine caramels , the butter and milk .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C.
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C.
+   PARG: a saucepan over low heat , combine caramels , the butter, milk
+     PREP: in
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  combine caramels 
+         INGREDIENTS: wrapped caramels unwrapped
+      NON-INGREDIENT SPAN: a saucepan over low heat 
+
+
+SENTID: 1
+SENT: I would cook , stirring frequently , until smooth .
+PREDID: 91
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring frequently , until smooth
+      NON-INGREDIENT SPAN:  until smooth
+      NON-INGREDIENT SPAN: stirring frequently 
+
+
+SENTID: 2
+SENT: I would remove from heat and set aside .
+PREDID: 127
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 144
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would combine sugar , the eggs , the vanilla and salt .
+PREDID: 166
+PRED: combine
+   DOBJ: sugar , the eggs , the vanilla, salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would gradually mix in the melted caramel mixture .
+PREDID: 208
+PRED: mix
+   DOBJ: NULL
+   PARG: the melted caramel mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the melted caramel mixture
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 5
+SENT: I would stir in pecans .
+PREDID: 237
+PRED: stir
+   DOBJ: NULL
+   PARG: pecans
+     PREP: in
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: pecan halves
+
+
+SENTID: 6
+SENT: I would pour the filling into unbaked pie crust .
+PREDID: 250
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: unbaked pie crust
+     PREP: into
+      INGREDIENT SPAN: unbaked pie crust
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven for 45 to 50 minutes , or until pastry is golden brown .
+PREDID: 281
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 45 to 50 minutes , or until pastry is golden brown
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 45 to 50 minutes 
+      NON-INGREDIENT SPAN:  or until pastry is golden brown
+
+
+SENTID: 8
+SENT: I would allow to cool until filling is firm .
+PREDID: 347
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool until filling is firm
+      NON-INGREDIENT SPAN: to cool until filling is firm
+
+

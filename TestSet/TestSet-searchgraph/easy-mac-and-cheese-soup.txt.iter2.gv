@@ -1,0 +1,43 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="bring
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cook
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="return
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="serve
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: package uncooked macaroni and cheese", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D2[label="DOBJ: water, chopped onion, chopped broccoli", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCOROBJ:in a medium saucepan", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+E0 -> E1 [label="IMPLICIT DOBJ"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="DURATION:until broccoli is tender", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_ing[label="COOBJECT: in milk, cubed ham, condensed cream Cheddar cheese soup", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E1 -> E5 [label="COOBJECT:in macaroni "]
+P5_0_1[label="COOBJECT:in  soup", shape=box, style=filled, fillcolor=white]
+P5_0_1 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCOROBJ:to a boil briefly", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

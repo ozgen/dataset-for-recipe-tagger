@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: In a shallow bowl , I would whisk together the eggs , sweetened condensed milk and vanilla with a fork .
+PREDID: 15
+PRED: whisk
+   DOBJ: the eggs , sweetened condensed milk
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sweetened condensed milk
+         INGREDIENTS: sweetened condensed milk
+   PARG: a shallow bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: vanilla with a fork
+      INGREDIENT SPAN: vanilla with a fork
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 78
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would melt butter in a large skillet over medium heat .
+PREDID: 87
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would slice banana bread into 4 thick slices .
+PREDID: 127
+PRED: slice
+   DOBJ: banana bread
+      INGREDIENT SPAN: banana bread
+         INGREDIENTS: loaf banana bread
+   PARG: 4 thick slices
+     PREP: into
+      NON-INGREDIENT SPAN: 4 thick slices
+
+
+SENTID: 4
+SENT: I would dip each slice into the egg mixture ,
+PREDID: 160
+PRED: dip
+   DOBJ: each slice
+      NON-INGREDIENT SPAN: each slice
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 5
+SENT: I would place in the hot pan .
+PREDID: 190
+PRED: place
+   DOBJ: NULL
+   PARG: the hot pan
+     PREP: in
+      NON-INGREDIENT SPAN: the hot pan
+
+
+SENTID: 6
+SENT: I would cook on each side until golden brown .
+PREDID: 207
+PRED: cook
+   DOBJ: NULL
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 7
+SENT: I would dust with confectioners ' sugar just before serving , if desired .
+PREDID: 238
+PRED: dust
+   DOBJ: NULL
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar dusting
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

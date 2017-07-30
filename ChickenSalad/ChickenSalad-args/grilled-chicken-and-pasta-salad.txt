@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: I would preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: the grill for high heat
+      NON-INGREDIENT SPAN: the grill for high heat
+
+
+SENTID: 1
+SENT: I would season both sides of chicken breast halves with steak seasoning .
+PREDID: 27
+PRED: season
+   DOBJ: both sides of chicken breast halves
+      INGREDIENT SPAN: both sides of chicken breast halves
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: steak seasoning
+     PREP: with
+      INGREDIENT SPAN: steak seasoning
+         INGREDIENTS: steak seasoning taste
+
+
+SENTID: 2
+SENT: I would lightly oil the grill grate .
+PREDID: 82
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 3
+SENT: I would grill chicken 6 to 8 minutes per side , or until juices run clear .
+PREDID: 106
+PRED: grill
+   DOBJ: NULL
+   PARG: chicken 6 to 8 minutes per side , or until juices run clear
+     PREP: for
+      NON-INGREDIENT SPAN:  or until juices run clear
+      NON-INGREDIENT SPAN: chicken 6 to 8 minutes per side 
+
+
+SENTID: 4
+SENT: I would remove from heat , cool , and cut into strips .
+PREDID: 159
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 182
+PRED: cut
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 5
+SENT: I would meanwhile , place the rotini pasta in a large pot of lightly salted boiling water .
+PREDID: 206
+PRED: place
+   DOBJ: the rotini pasta in a large pot of lightly salted boiling water
+      INGREDIENT SPAN: the rotini pasta in a large pot of lightly salted boiling water
+         INGREDIENTS: rotini pasta
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 6
+SENT: I would cook 8 to 10 minutes , until al dente .
+PREDID: 264
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 7
+SENT: I would drain , and rinse with cold water to cool .
+PREDID: 294
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 303
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: with
+      NON-INGREDIENT SPAN: cold water
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 8
+SENT: In a large bowl , I would mix together the cheese , the onion , the lettuce , and tomatoes .
+PREDID: 341
+PRED: mix
+   DOBJ: the cheese , the onion , the lettuce , tomatoes
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN: the cheese 
+         INGREDIENTS: mozzarella cheese cubed
+      INGREDIENT SPAN:  the lettuce 
+         INGREDIENTS: head romaine lettuce chopped
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: cherry tomatoes chopped
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would toss with the cooled chicken and pasta to serve .
+PREDID: 388
+PRED: toss
+   DOBJ: NULL
+   PARG: the cooled chicken, pasta
+     PREP: with
+      NON-INGREDIENT SPAN:  pasta
+      NON-INGREDIENT SPAN: the cooled chicken
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

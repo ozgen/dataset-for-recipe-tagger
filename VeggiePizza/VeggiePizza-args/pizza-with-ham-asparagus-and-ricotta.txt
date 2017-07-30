@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: I would preheat an oven to 550 degrees F -LRB- 285 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 550 degrees F -LRB- 285 degrees C
+      NON-INGREDIENT SPAN: an oven to 550 degrees F -LRB- 285 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 40
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add asparagus and cook uncovered until just tender , about 2 minutes .
+PREDID: 82
+PRED: add
+   DOBJ: asparagus
+      INGREDIENT SPAN: asparagus
+         INGREDIENTS: fresh asparagus trimmed
+
+PREDID: 97
+PRED: cook
+   DOBJ: NULL
+
+PREDID: 101
+PRED: uncovered
+   DOBJ: NULL
+   PARG: just tender , about 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 2 minutes
+      NON-INGREDIENT SPAN: just tender 
+
+
+SENTID: 3
+SENT: I would drain in a colander ,
+PREDID: 140
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander
+     PREP: in
+      NON-INGREDIENT SPAN: a colander
+
+
+SENTID: 4
+SENT: I would immediately immerse in ice water for several minutes .
+PREDID: 168
+PRED: immerse
+   DOBJ: NULL
+   PARG: ice water for several minutes
+     PREP: in
+      NON-INGREDIENT SPAN: ice water for several minutes
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 5
+SENT: Once asparagus is cold , drain well and set aside .
+PREDID: 224
+PRED: cold and drain
+   DOBJ: NULL
+   PARG: asparagus is i
+     PREP: once
+      NON-INGREDIENT SPAN: asparagus is i
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 242
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would combine ricotta , olive oil , garlic , red pepper flakes , the salt , black pepper , and heavy cream in a small bowl .
+PREDID: 244
+PRED: combine
+   DOBJ: ricotta , olive oil , garlic , red pepper flakes , the salt , black pepper , heavy cream in a small bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: ricotta 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes taste
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  heavy cream in a small bowl
+         INGREDIENTS: heavy cream
+      NON-INGREDIENT SPAN:  garlic 
+      NON-INGREDIENT SPAN:  black pepper 
+
+
+SENTID: 7
+SENT: I would stir in fresh herbs -LRB- if using -RRB- and set aside .
+PREDID: 334
+PRED: stir
+   DOBJ: NULL
+   PARG: fresh herbs
+     PREP: in
+      INGREDIENT SPAN: fresh herbs
+         INGREDIENTS: chopped herbs such basil parsley rosemary
+
+PREDID: 357
+PRED: using
+   DOBJ: NULL
+   OARG: if
+      NON-INGREDIENT SPAN: if
+
+PREDID: 370
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: To shape the pizza dough , sprinkle the countertop and dough surface with flour and lightly pat flat .
+PREDID: 386
+PRED: shape dough
+   DOBJ: the countertop, dough surface with flour, the pizza
+      INGREDIENT SPAN:  dough surface with flour
+         INGREDIENTS: pizza dough see footnote recipe link
+      INGREDIENT SPAN:  surface with flour
+         INGREDIENTS: flour dusting
+      NON-INGREDIENT SPAN: the countertop
+      NON-INGREDIENT SPAN:  the pizza
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 447
+PRED: pat
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: flat
+      NON-INGREDIENT SPAN: flat
+
+
+SENTID: 9
+SENT: I would use a rolling pin to form a thin disk about 9 inches in diameter .
+PREDID: 455
+PRED: use
+   DOBJ: a rolling pin
+      NON-INGREDIENT SPAN: a rolling pin
+   OARG: to form a thin disk about 9 inches in diameter
+      NON-INGREDIENT SPAN: to form a thin disk about 9 inches in diameter
+
+
+SENTID: 10
+SENT: I would transfer to a baking sheet .
+PREDID: 507
+PRED: transfer
+   DOBJ: NULL
+   PARG: a baking sheet
+     PREP: to
+      NON-INGREDIENT SPAN: a baking sheet
+
+
+SENTID: 11
+SENT: I would spread ricotta mixture over crust , top with ham and asparagus .
+PREDID: 530
+PRED: spread
+   DOBJ: ricotta mixture
+      NON-INGREDIENT SPAN: ricotta mixture
+   PARG: crust , top with ham, asparagus
+     PREP: over
+      INGREDIENT SPAN:  top with ham
+         INGREDIENTS: diced smoked ham
+      NON-INGREDIENT SPAN: crust 
+      NON-INGREDIENT SPAN:  asparagus
+
+
+SENTID: 12
+SENT: I would sprinkle with Cheddar and Parmigiano-Reggiano cheeses .
+PREDID: 583
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar, parmigiano-reggiano cheeses
+     PREP: with
+      INGREDIENT SPAN: cheddar
+         INGREDIENTS: shredded sharp white Cheddar cheese
+      INGREDIENT SPAN:  parmigiano-reggiano cheeses
+         INGREDIENTS: grated ParmigianoReggiano cheese
+
+
+SENTID: 13
+SENT: I would place the baking sheet on the bottom rack of the preheated oven and bake for 5 minutes .
+PREDID: 632
+PRED: place
+   DOBJ: the baking sheet on the bottom rack of the preheated oven
+      NON-INGREDIENT SPAN: the baking sheet on the bottom rack of the preheated oven
+
+PREDID: 687
+PRED: bake
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 14
+SENT: I would transfer the baking sheet to the top rack and bake for an additional 5 minutes .
+PREDID: 700
+PRED: transfer
+   DOBJ: the baking sheet
+      NON-INGREDIENT SPAN: the baking sheet
+   PARG: the top rack
+     PREP: to
+      NON-INGREDIENT SPAN: the top rack
+
+PREDID: 737
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 5 minutes
+
+

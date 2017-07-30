@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would crumble the ground chuck into a skillet over medium heat .
+PREDID: 0
+PRED: crumble
+   DOBJ: the ground chuck
+      INGREDIENT SPAN: the ground chuck
+         INGREDIENTS: ground beef chuck
+   PARG: a skillet over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook , stirring occasionally until evenly browned .
+PREDID: 48
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally until evenly browned
+      NON-INGREDIENT SPAN: stirring occasionally until evenly browned
+
+
+SENTID: 2
+SENT: I would drain grease .
+PREDID: 92
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would transfer the beef to a large soup pot .
+PREDID: 104
+PRED: transfer
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   PARG: a large soup pot
+     PREP: to
+      NON-INGREDIENT SPAN: a large soup pot
+
+
+SENTID: 4
+SENT: I would add onions , diced tomatoes , tomato sauce , the beer and chili beans .
+PREDID: 135
+PRED: add
+   DOBJ: onions , diced tomatoes , tomato sauce , the beer, chili beans
+      INGREDIENT SPAN:  the beer
+         INGREDIENTS: fluid ounce beer
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes juice
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  chili beans
+         INGREDIENTS: ounce spicy chili beans
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: large white onions chopped
+
+
+SENTID: 5
+SENT: I would season with Worcestershire sauce , hot pepper sauce , chili powder , the jalapenos , and red pepper flakes , if using .
+PREDID: 189
+PRED: season
+   DOBJ: NULL
+   PARG: worcestershire sauce , hot pepper sauce , chili powder , the jalapenos , red pepper flakes
+     PREP: with
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes taste
+      INGREDIENT SPAN: worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce taste
+      NON-INGREDIENT SPAN:  the jalapenos 
+   PARG: using
+     PREP: if
+      NON-INGREDIENT SPAN: using
+
+
+SENTID: 6
+SENT: I would cover the pot , and simmer over low heat for 2 hours .
+PREDID: 283
+PRED: cover
+   DOBJ: the pot , simmer over low heat
+      NON-INGREDIENT SPAN:  simmer over low heat
+      NON-INGREDIENT SPAN: the pot 
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 7
+SENT: I would turn off heat , and let cool ,
+PREDID: 325
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 340
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 8
+SENT: I would refrigerate for two days .
+PREDID: 348
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: two days
+     PREP: for
+      NON-INGREDIENT SPAN: two days
+
+
+SENTID: 9
+SENT: It gets much better with time .
+
+SENTID: 10
+SENT: I would heat and serve .
+PREDID: 370
+PRED: heat and serve
+   DOBJ: NULL
+
+

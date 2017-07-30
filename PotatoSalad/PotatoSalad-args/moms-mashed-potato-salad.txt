@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: Yukon Gold potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and transfer potatoes to a large bowl .
+PREDID: 121
+PRED: drain and transfer
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would mash potatoes with a potato masher .
+PREDID: 158
+PRED: mash
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a potato masher
+     PREP: with
+      NON-INGREDIENT SPAN: a potato masher
+
+
+SENTID: 5
+SENT: I would stir in onion , the eggs , the celery , the pickles , the salt , and black pepper .
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , the eggs , the celery , the pickles , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: small sweet onion diced
+      INGREDIENT SPAN:  the pickles 
+         INGREDIENTS: sweet pickle juice
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 6
+SENT: I would mix mayonnaise , pickle juice , and mustard in a separate bowl ;
+PREDID: 240
+PRED: mix
+   DOBJ: mayonnaise , pickle juice , mustard in a separate bowl
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  pickle juice 
+         INGREDIENTS: chopped sweet pickles
+      INGREDIENT SPAN:  mustard in a separate bowl
+         INGREDIENTS: prepared yellow mustard
+
+
+SENTID: 7
+SENT: I would pour over potatoes and mix well .
+PREDID: 292
+PRED: pour
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+PREDID: 311
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would cover and refrigerate at least 1 hour before serving .
+PREDID: 319
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: least 1 hour before serving
+     PREP: at
+      NON-INGREDIENT SPAN: least 1 hour before serving
+
+

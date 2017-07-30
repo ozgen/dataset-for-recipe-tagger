@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would mix cornstarch , the broth , soy sauce , lemon juice and ginger until smooth .
+PREDID: 0
+PRED: mix
+   DOBJ: cornstarch , the broth , soy sauce , lemon juice, ginger
+      INGREDIENT SPAN:  
+         INGREDIENTS: Organic
+      INGREDIENT SPAN:  the broth 
+         INGREDIENTS: Swanson Chicken Broth regular Natural Goodness Certified
+      INGREDIENT SPAN:  ginger
+         INGREDIENTS: fresh grated ginger
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: lowsodium soy sauce
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN: cornstarch 
+         INGREDIENTS: cornstarch
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 60
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat 1 tablespoon oil in medium skillet over medium-high heat .
+PREDID: 69
+PRED: heat
+   DOBJ: 1 tablespoon oil
+      INGREDIENT SPAN: 1 tablespoon oil
+         INGREDIENTS: vegetable oil
+   PARG: medium skillet over medium-high heat
+     PREP: in
+      INGREDIENT SPAN: medium skillet over medium-high heat
+         INGREDIENTS: medium carrots sliced
+
+
+SENTID: 3
+SENT: I would add chicken and stir-fry until browned and done .
+PREDID: 122
+PRED: add
+   DOBJ: chicken, stir-fry
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast cut strips
+      NON-INGREDIENT SPAN:  stir-fry
+   PARG: browned, done
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  done
+
+
+SENTID: 4
+SENT: I would remove chicken .
+PREDID: 163
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 5
+SENT: I would heat the remaining oil over medium heat .
+PREDID: 177
+PRED: heat
+   DOBJ: the remaining oil over medium heat
+      INGREDIENT SPAN: the remaining oil over medium heat
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 6
+SENT: I would add broccoli , the carrots and onion and stir-fry until tender-crisp .
+PREDID: 208
+PRED: add
+   DOBJ: broccoli , the carrots, onion, stir-fry
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: broccoli flowerets
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small onion chopped
+      NON-INGREDIENT SPAN:  stir-fry
+      NON-INGREDIENT SPAN:  the carrots
+   PARG: tender-crisp
+     PREP: until
+      NON-INGREDIENT SPAN: tender-crisp
+
+
+SENTID: 7
+SENT: I would stir cornstarch mixture and add .
+PREDID: 264
+PRED: stir
+   DOBJ: cornstarch mixture
+      NON-INGREDIENT SPAN: cornstarch mixture
+
+
+SENTID: 8
+SENT: I would cook until mixture boils and thickens , stirring constantly .
+PREDID: 292
+PRED: cook
+   DOBJ: NULL
+   PARG: mixture boils, thickens , stirring constantly
+     PREP: until
+      NON-INGREDIENT SPAN:  thickens 
+      NON-INGREDIENT SPAN:  stirring constantly
+      NON-INGREDIENT SPAN: mixture boils
+
+
+SENTID: 9
+SENT: I would return chicken to skillet and heat through .
+PREDID: 344
+PRED: return
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet, heat
+     PREP: to
+      NON-INGREDIENT SPAN: skillet
+      NON-INGREDIENT SPAN:  heat
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: I would sprinkle with cilantro .
+PREDID: 381
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: chopped fresh cilantro leaves
+
+
+SENTID: 11
+SENT: I would serve over rice , if desired .
+PREDID: 402
+PRED: serve
+   DOBJ: NULL
+   PARG: rice
+     PREP: over
+      INGREDIENT SPAN: rice
+         INGREDIENTS: hot cooked regular brown rice regular longgrain white rice
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

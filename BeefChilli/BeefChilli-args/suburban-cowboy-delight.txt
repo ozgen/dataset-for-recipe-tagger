@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would fry bacon pieces until browned .
+PREDID: 30
+PRED: fry
+   DOBJ: bacon pieces
+      INGREDIENT SPAN: bacon pieces
+         INGREDIENTS: bacon cut inch
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would crumble the ground beef into the skillet with the bacon , and stir in the green pepper and onion .
+PREDID: 57
+PRED: crumble
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: the skillet with the bacon
+     PREP: into
+      INGREDIENT SPAN: the skillet with the bacon
+         INGREDIENTS: bacon cut inch
+
+PREDID: 107
+PRED: stir
+   DOBJ: NULL
+   PARG: the green pepper, onion
+     PREP: in
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN: the green pepper
+         INGREDIENTS: diced green bell pepper
+
+
+SENTID: 2
+SENT: I would continue to cook until the beef is no longer pink .
+PREDID: 136
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until the beef is no longer pink
+      NON-INGREDIENT SPAN: to cook until the beef is no longer pink
+
+
+SENTID: 3
+SENT: I would drain off any excess grease .
+PREDID: 177
+PRED: drain
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would stir in the chili seasoning mix until the meat is coated .
+PREDID: 201
+PRED: stir
+   DOBJ: NULL
+   PARG: the chili seasoning mix
+     PREP: in
+      INGREDIENT SPAN: the chili seasoning mix
+         INGREDIENTS: ounce package chili seasoning mix
+   PARG: the meat is coated
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is coated
+
+
+SENTID: 5
+SENT: I would add the tomatoes and beans to the skillet , mix well , and simmer for 15 to 20 minutes .
+PREDID: 248
+PRED: add
+   DOBJ: the tomatoes, beans
+      INGREDIENT SPAN:  beans
+         INGREDIENTS: ounce baked beans
+      INGREDIENT SPAN: the tomatoes
+         INGREDIENTS: ounce canned peeled diced tomatoes
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 283
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 294
+PRED: simmer
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+
+SENTID: 6
+SENT: -LRB- I always put my biscuits in just
+PREDID: 329
+PRED: put
+   DOBJ: my biscuits
+      NON-INGREDIENT SPAN: my biscuits
+   PARG: just
+     PREP: in
+      NON-INGREDIENT SPAN: just
+   OARG: always
+      NON-INGREDIENT SPAN: always
+
+
+SENTID: 7
+SENT: , and they finish together .
+
+SENTID: 8
+SENT: -RRB-
+

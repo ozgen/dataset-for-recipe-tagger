@@ -1,0 +1,98 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="coat
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="place
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="allow
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cut
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="heat
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="place
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="cook
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="add
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="increase
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="cook and stir
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="sprinkle in
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="stir in
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="dissolve
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="pour
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="cook and stir
+16", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: olive oil", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="LOCATION:in a large skillet", shape=box, style=filled, fillcolor=white]
+P6_0 -> E6
+O6_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O6_0 -> E6
+D0[label="DOBJ: an indoor grill", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+P1_0[label="COOBJECT:with cooking spray", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D2_ing[label="DOBJ: skinless boneless chicken breast halves  strips", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="IMPLICIT PREP"]
+E0 -> E2 [label="LOCATION:on the grill"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: for about 7 minutes", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="them"]
+O4_0_0[label="OTHER: to cool slightly", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into cubes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D7_ing[label="DOBJ: onion", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+P7_1_0[label="LOCATION:in the skillet", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: for a few minutes", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+D9_ing[label="DOBJ: baby corn, red bell pepper and, package stirfry vegetables", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E8 -> E9 [label="IMPLICIT PREP"]
+D10_0[label="DOBJ: the heat", shape=box, style=filled, fillcolor=white]
+D10_0 -> E10
+E9 -> E10 [label="IMPLICIT PREP"]
+O10_0_0[label="OTHER: to medium-high", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E10 -> E11 [label="IMPLICIT PREP"]
+O11_0_0[label="OTHER: for about 15 minutes", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+E11 -> E12 [label="IMPLICIT DOBJ"]
+P12_0_ing[label="COOBJECT: the white sugar", shape=box, style=filled, fillcolor=peachpuff]
+P12_0_ing -> E12
+O12_0_0[label="OTHER: salt", shape=box, style=filled, fillcolor=white]
+O12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+E5 -> E13 [label="COOBJECT:the chicken"]
+D14_ing[label="DOBJ: cornstarch", shape=box, style=filled, fillcolor=peachpuff]
+D14_ing -> E14
+E13 -> E14 [label="IMPLICIT PREP"]
+P14_1_ing[label="COOBJECT: in water", shape=box, style=filled, fillcolor=peachpuff]
+P14_1_ing -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+P15_0_ing[label="COOBJECT: along soy sauce", shape=box, style=filled, fillcolor=peachpuff]
+P15_0_ing -> E15
+E15 -> E16 [label="IMPLICIT DOBJ"]
+O16_0_0[label="OTHER: until the sauce thickens", shape=box, style=filled, fillcolor=white]
+O16_0_0 -> E16
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E16 -> EOR
+}

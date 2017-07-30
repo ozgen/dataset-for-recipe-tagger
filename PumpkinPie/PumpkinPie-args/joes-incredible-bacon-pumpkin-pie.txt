@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: Bring a small pot of salted water to a boil ;
+PREDID: 38
+PRED: bring
+   DOBJ: a small pot of salted water
+      NON-INGREDIENT SPAN: a small pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add the pumpkin and cook until soft enough to easily pierce with a fork , about 10 minutes .
+PREDID: 73
+PRED: add
+   DOBJ: the pumpkin
+      INGREDIENT SPAN: the pumpkin
+         INGREDIENTS: cubed fresh pumpkin
+
+PREDID: 89
+PRED: cook
+   DOBJ: NULL
+   PARG: soft enough
+     PREP: until
+      NON-INGREDIENT SPAN: soft enough
+   OARG: to easily pierce with a fork , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: to easily pierce with a fork 
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 147
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would mash the cooked pumpkin with a potato masher in your favorite large bowl .
+PREDID: 153
+PRED: mash
+   DOBJ: the cooked pumpkin
+      NON-INGREDIENT SPAN: the cooked pumpkin
+   PARG: a potato masher in your favorite large bowl
+     PREP: with
+      NON-INGREDIENT SPAN: a potato masher in your favorite large bowl
+
+
+SENTID: 5
+SENT: I would mix the cream cheese and brown sugar with the mashed pumpkin .
+PREDID: 214
+PRED: mix
+   DOBJ: the cream cheese, brown sugar
+      INGREDIENT SPAN: the cream cheese
+         INGREDIENTS: cream cheese softened
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+   PARG: the mashed pumpkin
+     PREP: with
+      NON-INGREDIENT SPAN: the mashed pumpkin
+
+
+SENTID: 6
+SENT: I would whisk in the eggs one at a time .
+PREDID: 265
+PRED: whisk
+   DOBJ: NULL
+   PARG: the eggs one
+     PREP: in
+      INGREDIENT SPAN: the eggs one
+         INGREDIENTS: eggs
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 7
+SENT: I would add the vanilla , half-and-half , cinnamon , ginger , allspice , and cloves ;
+PREDID: 290
+PRED: add
+   DOBJ: the vanilla , half-and-half , cinnamon , ginger , allspice , cloves
+      INGREDIENT SPAN:  allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  half-and-half 
+         INGREDIENTS: half-and-half
+      INGREDIENT SPAN:  ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: the vanilla 
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 8
+SENT: I would stir until you have a thin batter .
+PREDID: 353
+PRED: stir
+   DOBJ: NULL
+   PARG: you have a thin batter
+     PREP: until
+      NON-INGREDIENT SPAN: you have a thin batter
+
+
+SENTID: 9
+SENT: The batter should be slightly thinner than pancake batter .
+
+SENTID: 10
+SENT: I would pour the batter into the pie crusts .
+PREDID: 381
+PRED: pour
+   DOBJ: the batter
+      NON-INGREDIENT SPAN: the batter
+   PARG: the pie crusts
+     PREP: into
+      INGREDIENT SPAN: the pie crusts
+         INGREDIENTS: inch prepared graham cracker pie crust
+
+
+SENTID: 11
+SENT: I would place bacon in a large skillet over medium heat until evenly brown .
+PREDID: 411
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices maple-cured bacon
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 12
+SENT: I would trim soft , fatty bits from strips .
+PREDID: 467
+PRED: trim
+   DOBJ: soft , fatty bits
+      NON-INGREDIENT SPAN:  fatty bits
+      NON-INGREDIENT SPAN: soft 
+   PARG: strips
+     PREP: from
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 13
+SENT: I would press 7 pieces of bacon into the batter of each pie with a fork .
+PREDID: 496
+PRED: press
+   DOBJ: 7 pieces of bacon
+      NON-INGREDIENT SPAN: 7 pieces of bacon
+   PARG: the batter of each pie with a fork
+     PREP: into
+      NON-INGREDIENT SPAN: the batter of each pie with a fork
+
+
+SENTID: 14
+SENT: I would bake the pies in the preheated oven for 15 minutes .
+PREDID: 547
+PRED: bake
+   DOBJ: the pies
+      NON-INGREDIENT SPAN: the pies
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 15
+SENT: I would decrease the heat to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 589
+PRED: decrease
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+
+
+SENTID: 16
+SENT: I would top each pie with 2 pieces of cooked bacon and bake another 30 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 631
+PRED: top
+   DOBJ: each pie
+      NON-INGREDIENT SPAN: each pie
+   PARG: 2 pieces of cooked bacon
+     PREP: with
+      NON-INGREDIENT SPAN: 2 pieces of cooked bacon
+
+PREDID: 668
+PRED: bake
+   DOBJ: NULL
+   PARG: another 30 minutes , or until a knife inserted in the center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN:  or until a knife inserted in the center comes out clean
+      NON-INGREDIENT SPAN: another 30 minutes 
+
+
+SENTID: 17
+SENT: I would allow pies to cool completely before serving .
+PREDID: 735
+PRED: allow
+   DOBJ: pies
+      NON-INGREDIENT SPAN: pies
+   OARG: to cool completely before serving
+      NON-INGREDIENT SPAN: to cool completely before serving
+
+

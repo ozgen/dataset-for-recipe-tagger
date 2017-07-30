@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a food processor , I would combine the chicken , creamy salad dressing , cole slaw dressing , the celery , the onion , and salt and pepper .
+PREDID: 17
+PRED: combine
+   DOBJ: the chicken , creamy salad dressing , cole slaw dressing , the celery , the onion , salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  cole slaw dressing 
+         INGREDIENTS: cole slaw dressing
+      INGREDIENT SPAN:  creamy salad dressing 
+         INGREDIENTS: creamy salad dressing
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: boneless chicken breast halves cooked
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+
+
+SENTID: 1
+SENT: I would mix until well chopped .
+PREDID: 102
+PRED: mix
+   DOBJ: NULL
+   PARG: well chopped
+     PREP: until
+      NON-INGREDIENT SPAN: well chopped
+
+

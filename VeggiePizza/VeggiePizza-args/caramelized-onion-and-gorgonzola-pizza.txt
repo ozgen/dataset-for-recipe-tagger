@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: In a large saute pan , I would melt butter over medium heat .
+PREDID: 17
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saute pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saute pan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would saute onions in butter until the onions are soft and dark brown , approximately 25 minutes .
+PREDID: 42
+PRED: saute
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: large Vidalia onions sliced
+   PARG: butter
+     PREP: in
+      NON-INGREDIENT SPAN: butter
+   PARG: the onions are soft, dark brown , approximately 25 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  approximately 25 minutes
+      NON-INGREDIENT SPAN:  dark brown 
+      NON-INGREDIENT SPAN: the onions are soft
+
+
+SENTID: 2
+SENT: I would stir in sugar , and continue cooking for 1 or 2 more minutes .
+PREDID: 118
+PRED: stir
+   DOBJ: NULL
+   PARG: sugar
+     PREP: in
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: sugar
+
+PREDID: 133
+PRED: continue
+   DOBJ: NULL
+   PARG: cooking for 1 or 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: cooking for 1 or 2 more minutes
+
+
+SENTID: 3
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 167
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 4
+SENT: I would grease a pizza pan or cookie sheet , and press out the dough to desired thickness .
+PREDID: 205
+PRED: grease
+   DOBJ: a pizza pan or cookie sheet
+      INGREDIENT SPAN: a pizza pan or cookie sheet
+         INGREDIENTS: ounce package refrigerated pizza dough
+
+PREDID: 237
+PRED: press
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: desired thickness
+     PREP: to
+      NON-INGREDIENT SPAN: desired thickness
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 5
+SENT: I would spread onions evenly over the dough , and top with crumbled Gorgonzola .
+PREDID: 272
+PRED: spread
+   DOBJ: onions
+      NON-INGREDIENT SPAN: onions
+   OARG: evenly over the dough
+      NON-INGREDIENT SPAN: evenly over the dough
+
+PREDID: 306
+PRED: top
+   DOBJ: NULL
+   PARG: crumbled gorgonzola
+     PREP: with
+      INGREDIENT SPAN: crumbled gorgonzola
+         INGREDIENTS: Gorgonzola cheese crumbled
+
+
+SENTID: 6
+SENT: I would bake for 10 to 12 minutes , or until done .
+PREDID: 332
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 to 12 minutes , or until done
+     PREP: for
+      NON-INGREDIENT SPAN:  or until done
+      NON-INGREDIENT SPAN: 10 to 12 minutes 
+
+

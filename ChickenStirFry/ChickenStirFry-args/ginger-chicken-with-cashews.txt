@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: I would whisk together the chicken broth , soy sauce , 1 tablespoon cornstarch , 3/4 teaspoon ground ginger , and brown sugar in a bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: the chicken broth , soy sauce , 1 tablespoon cornstarch , 3/4 teaspoon ground ginger , brown sugar in a bowl
+      INGREDIENT SPAN:  1 tablespoon cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN: the chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  brown sugar in a bowl
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  3/4 teaspoon ground ginger 
+         INGREDIENTS: ground ginger
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would combine 1/4 cup cornstarch , 1?1/2 teaspoons ground ginger , and curry powder in a large , sealable plastic bag and shake to mix .
+PREDID: 105
+PRED: combine
+   DOBJ: 1/4 cup cornstarch , 1?1/2 teaspoons ground ginger
+      INGREDIENT SPAN:  1?1/2 teaspoons ground ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: 1/4 cup cornstarch 
+         INGREDIENTS: cornstarch
+
+PREDID: 159
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+   PARG: a large , sealable plastic bag
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  sealable plastic bag
+
+PREDID: 200
+PRED: shake
+   DOBJ: NULL
+   OARG: to mix
+      NON-INGREDIENT SPAN: to mix
+
+
+SENTID: 2
+SENT: I would add the chicken to the bag and toss until well coated .
+PREDID: 211
+PRED: add
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast meat cut cubes
+   PARG: the bag
+     PREP: to
+      NON-INGREDIENT SPAN: the bag
+
+PREDID: 235
+PRED: toss
+   DOBJ: NULL
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 3
+SENT: I would heat the olive oil and sesame oil in a wok or large skillet over high heat .
+PREDID: 255
+PRED: heat
+   DOBJ: the olive oil, sesame oil in a wok or large skillet
+      INGREDIENT SPAN: the olive 
+         INGREDIENTS: extravirgin olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: sesame oil
+      NON-INGREDIENT SPAN:  sesame oil in a wok or large skillet
+   PARG: high heat
+     PREP: over
+      NON-INGREDIENT SPAN: high heat
+
+
+SENTID: 4
+SENT: I would cook and stir the chicken in the hot oil until golden brown , 3 to 5 minutes .
+PREDID: 315
+PRED: cook and stir
+   DOBJ: the chicken in the hot oil
+      NON-INGREDIENT SPAN: the chicken in the hot oil
+   PARG: golden brown , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 5
+SENT: I would add the green onions and bell pepper to the pan , cooking another 2 to 3 minutes .
+PREDID: 376
+PRED: add
+   DOBJ: NULL
+   PARG: the green onions, bell pepper to the pan , cooking another 2 to 3 minutes
+     PREP: for
+      INGREDIENT SPAN:  bell pepper to the pan 
+         INGREDIENTS: bell pepper chopped
+      INGREDIENT SPAN: the green onions
+         INGREDIENTS: green onions chopped
+      NON-INGREDIENT SPAN:  cooking another 2 to 3 minutes
+
+
+SENTID: 6
+SENT: I would stir the sauce mixture into the chicken and vegetable mixture ;
+PREDID: 441
+PRED: stir
+   DOBJ: the sauce mixture
+      NON-INGREDIENT SPAN: the sauce mixture
+   PARG: the chicken, vegetable mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  vegetable mixture
+
+
+SENTID: 7
+SENT: I would reduce heat to medium .
+PREDID: 494
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 8
+SENT: I would sprinkle sesame seeds over the dish and bring to a boil ;
+PREDID: 513
+PRED: sprinkle
+   DOBJ: sesame seeds
+      INGREDIENT SPAN: sesame seeds
+         INGREDIENTS: sesame seeds
+   PARG: the dish
+     PREP: over
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 546
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would allow to boil until the sauce thickens , 3 to 5 minutes .
+PREDID: 559
+PRED: allow
+   DOBJ: NULL
+   PARG: boil until the sauce thickens , 3 to 5 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: boil until the sauce thickens 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 10
+SENT: I would remove from heat ;
+PREDID: 604
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 11
+SENT: I would add cashews and toss to serve .
+PREDID: 619
+PRED: add
+   DOBJ: cashews
+      INGREDIENT SPAN: cashews
+         INGREDIENTS: cashews
+
+PREDID: 632
+PRED: toss
+   DOBJ: NULL
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

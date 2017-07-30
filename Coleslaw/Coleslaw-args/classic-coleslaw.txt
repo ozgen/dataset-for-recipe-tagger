@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: In a large bowl , I would combine cabbage , the carrot , the onion , vegetable oil , the vinegar and SPLENDA ? Granulated Sweetener .
+PREDID: 13
+PRED: combine
+   DOBJ: cabbage , the carrot , the onion , vegetable oil , the vinegar, SPLENDA ? Granulated Sweetener
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  SPLENDA ? Granulated Sweetener
+         INGREDIENTS: SPLENDA No Calorie Sweetener Granulated
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: carrot
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: medium head cabbage shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would stir until the ingredients are well mixed .
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the ingredients are well mixed
+     PREP: until
+      NON-INGREDIENT SPAN: the ingredients are well mixed
+
+
+SENTID: 2
+SENT: I would chill in the refrigerator until serving .
+PREDID: 128
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

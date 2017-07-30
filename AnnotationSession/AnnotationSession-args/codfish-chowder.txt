@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would cook bacon in a soup pot over medium heat until crisp and brown , about 10 minutes .
+PREDID: 0
+PRED: cook
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a soup pot over medium heat until crisp, brown , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a soup pot over medium heat until crisp
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  brown 
+
+
+SENTID: 1
+SENT: I would remove bacon with a slotted spoon , leaving drippings in the pot .
+PREDID: 67
+PRED: remove
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+
+SENTID: 2
+SENT: I would cook and stir onion and red bell pepper until softened , about 5 minutes ;
+PREDID: 121
+PRED: cook and stir
+   DOBJ: onion, red bell pepper
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: red bell pepper
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion
+   PARG: softened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: softened 
+
+
+SENTID: 3
+SENT: I would season with salt and pepper .
+PREDID: 181
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt and ground black pepper to taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 4
+SENT: I would stir in garlic and seafood seasoning and cook and stir 2 more minutes .
+PREDID: 205
+PRED: stir
+   DOBJ: NULL
+   PARG: garlic, seafood seasoning
+     PREP: in
+      INGREDIENT SPAN:  seafood seasoning
+         INGREDIENTS: seafood seasoning (such as Old Bay®)
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: cloves garlic
+
+PREDID: 239
+PRED: cook and stir
+   DOBJ: 2 more minutes
+      NON-INGREDIENT SPAN: 2 more minutes
+
+
+SENTID: 5
+SENT: I would pour in chicken broth and stir in potatoes and corn ;
+PREDID: 263
+PRED: pour
+   DOBJ: NULL
+   PARG: chicken broth
+     PREP: in
+      INGREDIENT SPAN: chicken broth
+         INGREDIENTS: (16 ounce) can chicken broth
+
+PREDID: 284
+PRED: stir
+   DOBJ: NULL
+   PARG: potatoes, corn
+     PREP: in
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: ears sweet corn
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes
+
+
+SENTID: 6
+SENT: I would add water if needed to cover vegetables .
+PREDID: 306
+PRED: add
+   DOBJ: water
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 7
+SENT: I would bring to a boil and reduce heat to low ;
+PREDID: 340
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 355
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 8
+SENT: I would simmer until potatoes are tender , about 15 minutes .
+PREDID: 371
+PRED: simmer
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would stir in milk and butter until butter has melted ;
+PREDID: 415
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, butter
+     PREP: in
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: milk
+         INGREDIENTS: whole milk
+
+
+SENTID: 10
+SENT: I would mix in reserved bacon .
+PREDID: 455
+PRED: mix
+   DOBJ: NULL
+   PARG: reserved bacon
+     PREP: in
+      NON-INGREDIENT SPAN: reserved bacon
+
+
+SENTID: 11
+SENT: I would bring the soup just to the boiling point and stir in cod and parsley ;
+PREDID: 474
+PRED: bring
+   DOBJ: the soup
+      NON-INGREDIENT SPAN: the soup
+   PARG: the boiling point
+     PREP: to
+      NON-INGREDIENT SPAN: the boiling point
+
+PREDID: 510
+PRED: stir
+   DOBJ: NULL
+   PARG: cod, parsley
+     PREP: in
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh flat-leaf parsley
+      INGREDIENT SPAN: cod
+         INGREDIENTS: thick cod fillets
+
+
+SENTID: 12
+SENT: I would cook , stirring occasionally , until fish flakes easily , 5 to 8 minutes .
+PREDID: 530
+PRED: cook
+   DOBJ: NULL
+
+

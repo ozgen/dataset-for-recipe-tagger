@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a baking pan .
+PREDID: 45
+PRED: grease
+   DOBJ: a baking pan
+      NON-INGREDIENT SPAN: a baking pan
+
+
+SENTID: 2
+SENT: I would place the ground beef , eggs , panko , and 1/2 cup ketchup in a large bowl .
+PREDID: 62
+PRED: place
+   DOBJ: the ground beef , eggs , panko , 1/2 cup ketchup in a large bowl
+      INGREDIENT SPAN:  1/2 cup ketchup in a large bowl
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  panko 
+         INGREDIENTS: panko bread crumbs
+      INGREDIENT SPAN:  eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+
+
+SENTID: 3
+SENT: I would mix by hand , and season with salt-free seasoning blend , garlic powder , onion powder , salt , and pepper .
+PREDID: 121
+PRED: mix
+   DOBJ: NULL
+   PARG: hand , season with salt-free seasoning blend , garlic powder , onion powder , salt , pepper
+     PREP: by
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt to taste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper to taste
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  season with salt-free seasoning blend 
+         INGREDIENTS: salt-free seasoning blend
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      NON-INGREDIENT SPAN: hand 
+
+
+SENTID: 4
+SENT: I would form into a loaf shape , and place on the prepared baking pan .
+PREDID: 208
+PRED: form
+   DOBJ: NULL
+   PARG: a loaf shape
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf shape
+
+PREDID: 230
+PRED: place
+   DOBJ: NULL
+   PARG: the prepared baking pan
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared baking pan
+
+
+SENTID: 5
+SENT: I would drizzle with remaining 1/4 cup ketchup .
+PREDID: 258
+PRED: drizzle
+   DOBJ: NULL
+   PARG: remaining 1/4 cup ketchup
+     PREP: with
+      NON-INGREDIENT SPAN: remaining 1/4 cup ketchup
+
+
+SENTID: 6
+SENT: I would bake 1 hour in the preheated oven , to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 292
+PRED: bake
+   DOBJ: 1 hour in the preheated oven , to an internal temperature of 160 degrees F -LRB- 70 degrees C
+      NON-INGREDIENT SPAN:  to an internal temperature of 160 degrees F -LRB- 70 degrees C
+      NON-INGREDIENT SPAN: 1 hour in the preheated oven 
+
+

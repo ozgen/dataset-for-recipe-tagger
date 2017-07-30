@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: I would stir tomato sauce , tomato paste , vegetable oil , the garlic , the salt , the oregano , the sugar , and pepper together in a bowl ;
+PREDID: 0
+PRED: stir
+   DOBJ: tomato sauce , tomato paste , vegetable oil , the garlic , the salt , the oregano , the sugar , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: oregano
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would refrigerate until chilled completely , at least 15 minutes .
+PREDID: 92
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled completely , at least 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  at least 15 minutes
+      NON-INGREDIENT SPAN: chilled completely 
+
+

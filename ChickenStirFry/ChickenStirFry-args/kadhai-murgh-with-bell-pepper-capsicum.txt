@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: I would evenly season the chicken with salt and turmeric ;
+PREDID: 6
+PRED: season
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast cut bitesized chunks
+   PARG: salt, turmeric
+     PREP: with
+      INGREDIENT SPAN:  turmeric
+         INGREDIENTS: ground turmeric
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 1
+SENT: I would set aside for 15 minutes .
+PREDID: 42
+PRED: set
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat the oil in a large skillet or kadhai over medium heat .
+PREDID: 63
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or kadhai over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or kadhai over medium heat
+
+
+SENTID: 3
+SENT: I would cook the onions in the hot oil until browned , about 5 minutes .
+PREDID: 111
+PRED: cook
+   DOBJ: the onions
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: onions sliced thin
+   PARG: the hot oil until browned , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the hot oil until browned 
+
+
+SENTID: 4
+SENT: I would add the chicken and cook until browned , about 5 minutes more .
+PREDID: 162
+PRED: add
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+
+PREDID: 178
+PRED: cook
+   DOBJ: NULL
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+   OARG: about 5 minutes more
+      NON-INGREDIENT SPAN: about 5 minutes more
+
+
+SENTID: 5
+SENT: I would stir the bell peppers and chile peppers into the chicken ;
+PREDID: 213
+PRED: stir
+   DOBJ: the bell peppers, chile peppers
+      INGREDIENT SPAN:  chile peppers
+         INGREDIENTS: green chile peppers halved lengthwise
+      INGREDIENT SPAN: the bell peppers
+         INGREDIENTS: green bell peppers cut thin strips
+   PARG: the chicken
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 6
+SENT: I would continue cooking another 5 minutes .
+PREDID: 261
+PRED: continue
+   DOBJ: NULL
+   PARG: another 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: another 5 minutes
+   OARG: cooking
+      NON-INGREDIENT SPAN: cooking
+
+
+SENTID: 7
+SENT: I would grind the cumin seed , coriander seed , black peppercorns , the cinnamon , the cloves , cardamom pod , and fennel seed into a coarse powder ;
+PREDID: 292
+PRED: grind
+   DOBJ: the cumin seed , coriander seed , black peppercorns , the cinnamon , the cloves , cardamom pod , fennel seed
+      INGREDIENT SPAN: the cumin seed 
+         INGREDIENTS: cumin seed
+      INGREDIENT SPAN:  cardamom pod 
+         INGREDIENTS: black cardamom pod
+      INGREDIENT SPAN:  black peppercorns 
+         INGREDIENTS: whole black peppercorns
+      INGREDIENT SPAN:  coriander seed 
+         INGREDIENTS: coriander seed
+      INGREDIENT SPAN:  fennel seed
+         INGREDIENTS: fennel seed
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: whole cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: cinnamon stick
+   PARG: a coarse powder
+     PREP: into
+      INGREDIENT SPAN: a coarse powder
+         INGREDIENTS: coconut milk powder
+
+
+SENTID: 8
+SENT: I would sprinkle over the mixture in the skillet .
+PREDID: 400
+PRED: sprinkle
+   DOBJ: the mixture in the skillet
+      NON-INGREDIENT SPAN: the mixture in the skillet
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 9
+SENT: I would add the water , coconut milk powder , ground red pepper , and salt .
+PREDID: 435
+PRED: add
+   DOBJ: the water , coconut milk powder , ground red pepper , salt
+      INGREDIENT SPAN: the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  ground red pepper 
+         INGREDIENTS: ground red pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      NON-INGREDIENT SPAN:  coconut milk powder 
+
+
+SENTID: 10
+SENT: I would cook until the chicken is tender , about 30 minutes .
+PREDID: 489
+PRED: cook
+   DOBJ: NULL
+   PARG: the chicken is tender , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the chicken is tender 
+
+
+SENTID: 11
+SENT: If the curry is too wet , cook on high until the moisture evaporates .
+PREDID: 557
+PRED: cook
+   DOBJ: NULL
+   PARG: the curry is too
+     PREP: if
+      NON-INGREDIENT SPAN: the curry is too
+   PARG: high until the moisture evaporates
+     PREP: on
+      NON-INGREDIENT SPAN: high until the moisture evaporates
+
+
+SENTID: 12
+SENT: I would garnish with cilantro and serve hot .
+PREDID: 588
+PRED: garnish
+   DOBJ: NULL
+   PARG: cilantro
+     PREP: with
+      INGREDIENT SPAN: cilantro
+         INGREDIENTS: chopped fresh cilantro
+
+PREDID: 610
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would spread 4 slices oatnut bread on one side with cream cheese .
+PREDID: 0
+PRED: spread
+   DOBJ: 4 slices oatnut bread
+      INGREDIENT SPAN: 4 slices oatnut bread
+         INGREDIENTS: slices oatnut bread
+   PARG: one side
+     PREP: on
+      NON-INGREDIENT SPAN: one side
+   PARG: cream cheese
+     PREP: with
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese softened
+
+
+SENTID: 1
+SENT: I would spread the remaining 4 slices on one side with raspberry jam .
+PREDID: 49
+PRED: spread
+   DOBJ: the remaining 4 slices on one side with raspberry jam
+      INGREDIENT SPAN: the remaining 4 slices on one side with 
+         INGREDIENTS: slices oatnut bread
+      INGREDIENT SPAN: the remaining 4 slices on one side with raspberry jam
+         INGREDIENTS: seedless raspberry jam
+
+
+SENTID: 2
+SENT: I would press cream cheese slices together with jam slices , forming sandwiches .
+PREDID: 97
+PRED: press
+   DOBJ: cream cheese slices
+      INGREDIENT SPAN: cream cheese slices
+         INGREDIENTS: slices oatnut bread
+   PARG: with jam slices
+     PREP: together
+      INGREDIENT SPAN: with jam slices
+         INGREDIENTS: seedless raspberry jam
+   OARG: forming sandwiches
+      NON-INGREDIENT SPAN: forming sandwiches
+
+
+SENTID: 3
+SENT: In a medium , I would shallow bowl , beat together the eggs , the milk and almond extract .
+
+SENTID: 4
+SENT: I would melt butter in a large , heavy skillet over medium high heat .
+PREDID: 222
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large , heavy skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  heavy skillet over medium high heat
+
+
+SENTID: 5
+SENT: I would dip sandwiches in the egg mixture to coat .
+PREDID: 272
+PRED: dip
+   DOBJ: sandwiches in the egg mixture
+      INGREDIENT SPAN: sandwiches in the egg mixture
+         INGREDIENTS: eggs beaten
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 6
+SENT: I would place in the skillet , and cook on both sides until golden brown .
+PREDID: 307
+PRED: place
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 328
+PRED: cook
+   DOBJ: NULL
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+

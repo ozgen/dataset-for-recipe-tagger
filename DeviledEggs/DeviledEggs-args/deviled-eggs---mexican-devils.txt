@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would slice eggs in half lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: slice
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs peeled
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+PREDID: 28
+PRED: scoop
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would mash yolks with a fork and stir in mayonnaise , the mustard , sweet pickles , red onion , the avocado , jalapeno pepper , the salt , and black pepper until thoroughly combined .
+PREDID: 48
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 69
+PRED: stir
+   DOBJ: NULL
+   PARG: mayonnaise , the mustard , sweet pickles , red onion , the avocado , jalapeno pepper , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  red onion 
+         INGREDIENTS: red onion diced
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: ground chipotle chile pepper
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: jalapeno pepper seeded diced
+      INGREDIENT SPAN:  sweet pickles 
+         INGREDIENTS: sweet pickles chopped
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: avocado peeled pitted mashed
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 2
+SENT: I would spoon the filling into egg halves and sprinkle each deviled egg half with a pinch of ground chipotle chile .
+PREDID: 182
+PRED: spoon
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: egg halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg halves
+
+PREDID: 213
+PRED: sprinkle
+   DOBJ: each deviled egg half
+      NON-INGREDIENT SPAN: each deviled egg half
+   PARG: a pinch of ground chipotle chile
+     PREP: with
+      NON-INGREDIENT SPAN: a pinch of ground chipotle chile
+
+

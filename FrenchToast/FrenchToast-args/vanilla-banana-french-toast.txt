@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would beat eggs , the vanilla , the cinnamon , and sugar together in a bowl .
+PREDID: 0
+PRED: beat
+   DOBJ: eggs , the vanilla , the cinnamon , sugar
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would place bread into the egg mixture to soak .
+PREDID: 50
+PRED: place
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: slices bread
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+   OARG: to soak
+      NON-INGREDIENT SPAN: to soak
+
+
+SENTID: 2
+SENT: I would heat a lightly oiled skillet over medium heat and brown the slices of bread on both sides .
+PREDID: 84
+PRED: heat
+   DOBJ: a lightly oiled skillet over medium heat
+      NON-INGREDIENT SPAN: a lightly oiled skillet over medium heat
+
+PREDID: 125
+PRED: brown
+   DOBJ: the slices of bread
+      NON-INGREDIENT SPAN: the slices of bread
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+
+
+SENTID: 3
+SENT: I would heat a smaller lightly oiled skillet over medium-low heat and pour the remaining egg mixture into the skillet .
+PREDID: 158
+PRED: heat
+   DOBJ: a smaller lightly oiled skillet over medium-low heat
+      NON-INGREDIENT SPAN: a smaller lightly oiled skillet over medium-low heat
+
+PREDID: 210
+PRED: pour
+   DOBJ: the remaining egg mixture
+      NON-INGREDIENT SPAN: the remaining egg mixture
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would allow the eggs to set in the skillet for 1 to 2 minutes ,
+PREDID: 251
+PRED: allow
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   OARG: to set in the skillet for 1 to 2 minutes
+      NON-INGREDIENT SPAN: to set in the skillet for 1 to 2 minutes
+
+
+SENTID: 5
+SENT: I would continue to cook and stir eggs until scrambled .
+PREDID: 295
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir eggs until scrambled
+      NON-INGREDIENT SPAN: to cook
+      NON-INGREDIENT SPAN:  stir eggs until scrambled
+
+
+SENTID: 6
+SENT: I would place 1 slice of toast onto a plate and top with the eggs .
+PREDID: 335
+PRED: place
+   DOBJ: 1 slice of toast
+      NON-INGREDIENT SPAN: 1 slice of toast
+   PARG: a plate, top with the eggs
+     PREP: onto
+      NON-INGREDIENT SPAN:  top with the eggs
+      NON-INGREDIENT SPAN: a plate
+
+
+SENTID: 7
+SENT: I would layer the slices of banana over the eggs ,
+PREDID: 381
+PRED: layer
+   DOBJ: the slices of banana
+      INGREDIENT SPAN: the slices of banana
+         INGREDIENTS: banana sliced
+   PARG: the eggs
+     PREP: over
+      NON-INGREDIENT SPAN: the eggs
+
+
+SENTID: 8
+SENT: I would place the second slice of toast on top to make a sandwich .
+PREDID: 415
+PRED: place
+   DOBJ: the second slice of toast
+      NON-INGREDIENT SPAN: the second slice of toast
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+   OARG: to make a sandwich
+      NON-INGREDIENT SPAN: to make a sandwich
+
+

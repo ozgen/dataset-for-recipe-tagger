@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: I would preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+   DOBJ: the grill for high heat
+      NON-INGREDIENT SPAN: the grill for high heat
+
+
+SENTID: 1
+SENT: I would lightly oil the grill grate .
+PREDID: 27
+PRED: lightly
+   DOBJ: the grill grate
+      NON-INGREDIENT SPAN: the grill grate
+   OARG: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+
+
+SENTID: 2
+SENT: I would grill chicken 8 minutes on each side , or until juices run clear .
+PREDID: 51
+PRED: grill
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   OARG: 8 minutes
+      NON-INGREDIENT SPAN: 8 minutes
+
+
+SENTID: 3
+SENT: I would remove from heat , the cool , and slice .
+PREDID: 104
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the cool , slice
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the cool 
+      NON-INGREDIENT SPAN:  slice
+
+
+SENTID: 4
+SENT: I would meanwhile , place pecans in a dry skillet over medium-high heat .
+PREDID: 143
+PRED: place
+   DOBJ: pecans in a dry skillet over medium-high heat
+      INGREDIENT SPAN: pecans in a dry skillet over medium-high heat
+         INGREDIENTS: pecans
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 5
+SENT: I would cook pecans until fragrant , stirring frequently , about 8 minutes .
+PREDID: 187
+PRED: cook
+   DOBJ: pecans
+      NON-INGREDIENT SPAN: pecans
+   PARG: fragrant
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant
+   OARG: stirring frequently , about 8 minutes
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 6
+SENT: I would remove from heat , and set aside .
+PREDID: 244
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 262
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: In a blender , I would combine the red wine vinegar , the sugar , vegetable oil , the onion , the mustard , the salt , and pepper .
+PREDID: 282
+PRED: combine
+   DOBJ: the red wine vinegar , the sugar , vegetable oil , the onion , the mustard , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion minced
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN: the red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  vegetable oil 
+   PARG: a blender
+     PREP: in
+      NON-INGREDIENT SPAN: a blender
+
+
+SENTID: 8
+SENT: I would process until smooth .
+PREDID: 355
+PRED: process
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would arrange lettuce on serving plates .
+PREDID: 374
+PRED: arrange
+   DOBJ: lettuce
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: heads Bibb lettuce rinsed dried torn
+   PARG: serving plates
+     PREP: on
+      NON-INGREDIENT SPAN: serving plates
+
+
+SENTID: 10
+SENT: I would top with grilled chicken slices , the strawberries , and pecans .
+PREDID: 404
+PRED: top
+   DOBJ: NULL
+   PARG: grilled chicken slices , the strawberries , pecans
+     PREP: with
+      INGREDIENT SPAN:  the strawberries 
+         INGREDIENTS: sliced fresh strawberries
+      NON-INGREDIENT SPAN: grilled chicken slices 
+      NON-INGREDIENT SPAN:  pecans
+
+
+SENTID: 11
+SENT: I would drizzle with the dressing to serve .
+PREDID: 455
+PRED: drizzle
+   DOBJ: NULL
+   PARG: the dressing to serve
+     PREP: with
+      NON-INGREDIENT SPAN: the dressing to serve
+
+

@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef , half the onion , habanero pepper , jalapeno pepper , and garlic in the hot skillet until meat is browned and crumbly , 5 to 7 minutes ;
+PREDID: 37
+PRED: cook and stir
+   DOBJ: beef , half the onion , habanero pepper , jalapeno pepper , garlic
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: ounce diced tomatoes green chile peppers such RO TEL, ground black pepper
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: ounce diced tomatoes green chile peppers such RO TEL, ground black pepper
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  habanero pepper 
+         INGREDIENTS: habanero pepper chopped
+      INGREDIENT SPAN:  half the onion 
+         INGREDIENTS: yellow onion chopped divided
+      NON-INGREDIENT SPAN:  garlic
+   PARG: the hot skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the hot skillet
+   PARG: meat is browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: meat is browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 161
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would transfer beef mixture to a large pot and add tomato sauce , kidney beans , diced tomatoes with green chiles , 2 tablespoons chili powder , 1 tablespoon cumin , cayenne pepper , the salt , white pepper , and black pepper .
+PREDID: 183
+PRED: transfer
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a large pot
+     PREP: to
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 216
+PRED: add diced
+   DOBJ: tomato sauce , kidney beans, tomatoes
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: ounce kidney beans rinsed drained
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  tomatoes
+   PARG: green chiles , 2 tablespoons chili powder , 1 tablespoon cumin , cayenne pepper , the salt , white pepper , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  white pepper 
+         INGREDIENTS: jalapeno pepper chopped
+      INGREDIENT SPAN:  1 tablespoon cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  2 tablespoons chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN: green chiles 
+
+
+SENTID: 4
+SENT: I would bring beef mixture to a boil ;
+PREDID: 359
+PRED: bring
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat to medium-low and simmer for 30 minutes .
+PREDID: 383
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 6
+SENT: I would stir in beer , Worcestershire sauce , 1/2 teaspoon chili powder , and 1/2 teaspoon cumin .
+PREDID: 427
+PRED: stir
+   DOBJ: NULL
+   PARG: beer , worcestershire sauce , 1/2 teaspoon chili powder , 1/2 teaspoon cumin
+     PREP: in
+      INGREDIENT SPAN: beer 
+         INGREDIENTS: fluid ounce bottle amber beer
+      INGREDIENT SPAN:  1/2 teaspoon chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  1/2 teaspoon cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 7
+SENT: I would continue to simmer chili until flavors blend , about 2 hours .
+PREDID: 501
+PRED: continue
+   DOBJ: NULL
+   OARG: to simmer chili until flavors blend , about 2 hours
+      INGREDIENT SPAN: to simmer chili until flavors blend 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN:  about 2 hours
+
+
+SENTID: 8
+SENT: I would spoon chili into bowls and top with Cheddar cheese , the crackers , and remaining half onion .
+PREDID: 552
+PRED: spoon
+   DOBJ: chili
+      NON-INGREDIENT SPAN: chili
+   PARG: bowls, top with cheddar cheese , the crackers , remaining half onion
+     PREP: into
+      INGREDIENT SPAN:  top with cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the crackers 
+         INGREDIENTS: sleeve crackers
+      NON-INGREDIENT SPAN:  remaining half onion
+      NON-INGREDIENT SPAN: bowls
+
+

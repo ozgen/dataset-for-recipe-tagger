@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: I would whisk together cider vinegar , dark brown sugar , dry mustard , celery seed , cayenne pepper , the dill , sour cream , the mayonnaise , the horseradish and salt .
+PREDID: 0
+PRED: whisk
+   DOBJ: cider vinegar , dark brown sugar , dry mustard , celery seed , cayenne pepper , the dill , sour cream , the mayonnaise , the horseradish, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  dry mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  dark brown sugar 
+         INGREDIENTS: packed dark brown sugar
+      INGREDIENT SPAN:  the horseradish
+         INGREDIENTS: prepared horseradish
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cover and refrigerate for 2 hours or overnight .
+PREDID: 122
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 2 hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours or overnight
+
+
+SENTID: 2
+SENT: When ready to serve , place the cabbage , bell pepper , and zucchini in a large bowl .
+PREDID: 179
+PRED: place
+   DOBJ: the cabbage , bell pepper , zucchini in a large bowl
+      INGREDIENT SPAN:  zucchini in a large bowl
+         INGREDIENTS: green zucchini cut inch strips
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: yellow bell pepper cut inch strips
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: small head red cabbage shredded
+   OARG: when ready
+      NON-INGREDIENT SPAN: when ready
+
+
+SENTID: 3
+SENT: I would pour the dressing over the vegetables and toss to coat -LRB- see notes -RRB- .
+PREDID: 230
+PRED: pour
+   DOBJ: the dressing over the vegetables
+      NON-INGREDIENT SPAN: the dressing over the vegetables
+
+PREDID: 265
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+PREDID: 280
+PRED: see
+   DOBJ: notes
+      NON-INGREDIENT SPAN: notes
+
+

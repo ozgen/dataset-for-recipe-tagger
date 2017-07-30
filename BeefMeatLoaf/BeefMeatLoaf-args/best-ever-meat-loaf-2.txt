@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would mix thoroughly 1/2 cup tomato soup , the beef , onion soup mix , bread crumbs and egg .
+PREDID: 0
+PRED: mix
+   DOBJ: 1/2 cup tomato soup , the beef , onion soup mix , bread crumbs, egg
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN: 1/2 cup tomato soup 
+         INGREDIENTS: pouch Campbell Dry Onion Soup Recipe Mix, ounce Campbell Condensed Tomato Soup Regular %
+      INGREDIENT SPAN: 1/2 cup tomato soup 
+         INGREDIENTS: pouch Campbell Dry Onion Soup Recipe Mix, ounce Campbell Condensed Tomato Soup Regular %
+      NON-INGREDIENT SPAN:  onion soup mix 
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 1
+SENT: I would shape firmly into 8x4-inch loaf in baking pan .
+PREDID: 66
+PRED: shape
+   DOBJ: NULL
+   PARG: 8x4-inch loaf in baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: 8x4-inch loaf in baking pan
+   OARG: firmly
+      NON-INGREDIENT SPAN: firmly
+
+
+SENTID: 2
+SENT: I would bake at 350 degrees F for 1?1/4 hours or until done .
+PREDID: 105
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees
+   PARG: f for 1?1/4 hours or until done
+     PREP: for
+      NON-INGREDIENT SPAN: f for 1?1/4 hours or until done
+
+
+SENTID: 3
+SENT: I would mix 2 tablespoons drippings , remaining tomato soup and water in saucepan .
+PREDID: 147
+PRED: mix
+   DOBJ: 2 tablespoons drippings , remaining tomato soup, water in saucepan
+      INGREDIENT SPAN:  water in saucepan
+         INGREDIENTS: water
+      INGREDIENT SPAN:  remaining tomato soup
+         INGREDIENTS: pouch Campbell Dry Onion Soup Recipe Mix, ounce Campbell Condensed Tomato Soup Regular %
+      INGREDIENT SPAN:  remaining tomato soup
+         INGREDIENTS: pouch Campbell Dry Onion Soup Recipe Mix, ounce Campbell Condensed Tomato Soup Regular %
+      NON-INGREDIENT SPAN: 2 tablespoons drippings 
+
+
+SENTID: 4
+SENT: I would heat through .
+PREDID: 210
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 5
+SENT: I would serve with meat loaf .
+PREDID: 222
+PRED: serve
+   DOBJ: NULL
+   PARG: meat loaf
+     PREP: with
+      NON-INGREDIENT SPAN: meat loaf
+
+

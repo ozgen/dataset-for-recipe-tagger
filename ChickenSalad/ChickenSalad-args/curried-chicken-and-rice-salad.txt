@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: In a large bowl , I would combine the rice , the chicken , the celery , green onions , bell peppers , sour cream , the mayonnaise , the chutney , the curry and salt .
+PREDID: 13
+PRED: combine
+   DOBJ: the rice , the chicken , the celery , green onions , bell peppers , sour cream , the mayonnaise , the chutney , the curry, salt
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: chopped red bell pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: chopped cooked chicken breast
+      INGREDIENT SPAN: the rice 
+         INGREDIENTS: cooked white rice
+      INGREDIENT SPAN:  the chutney 
+         INGREDIENTS: peach mango chutney
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery sliced
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the curry
+         INGREDIENTS: ground curry powder
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: Mix well , cover and refrigerate until chilled .
+PREDID: 117
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+   OARG: mix well
+      NON-INGREDIENT SPAN: mix well
+
+
+SENTID: 2
+SENT: I would sprinkle with pine nuts before serving .
+PREDID: 149
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pine nuts
+     PREP: with
+      INGREDIENT SPAN: pine nuts
+         INGREDIENTS: pine nuts
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

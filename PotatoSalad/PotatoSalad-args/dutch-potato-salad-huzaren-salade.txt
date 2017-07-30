@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would combine 3/4 cup mayonnaise , the ketchup , warm water , and vinegar in a large bowl and mix well .
+PREDID: 0
+PRED: combine
+   DOBJ: 3/4 cup mayonnaise , the ketchup , warm water , vinegar in a large bowl
+      INGREDIENT SPAN:  warm water 
+         INGREDIENTS: warm water
+      INGREDIENT SPAN:  vinegar in a large bowl
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: 3/4 cup mayonnaise 
+         INGREDIENTS: mayonnaise
+
+PREDID: 70
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 1
+SENT: I would stir in chopped gherkins , cocktail onions , diced apple , and shredded carrot .
+PREDID: 75
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped gherkins , cocktail onions , diced apple , shredded carrot
+     PREP: in
+      INGREDIENT SPAN:  diced apple 
+         INGREDIENTS: diced Granny Smith apple
+      INGREDIENT SPAN:  shredded carrot
+         INGREDIENTS: carrot shredded
+      INGREDIENT SPAN:  cocktail onions 
+         INGREDIENTS: marinated cocktail onions cut half
+      INGREDIENT SPAN: chopped gherkins 
+         INGREDIENTS: pickled gherkins chopped
+
+
+SENTID: 2
+SENT: I would add corned beef , mashed potatoes , and salt and pepper to taste ;
+PREDID: 141
+PRED: add
+   DOBJ: corned beef , mashed potatoes , salt, pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN: corned beef 
+         INGREDIENTS: canned corned beef shredded
+      INGREDIENT SPAN:  mashed potatoes 
+         INGREDIENTS: mashed potatoes
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 194
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would form the potato salad on a plate as a loaf or a round mound .
+PREDID: 202
+PRED: form
+   DOBJ: the potato salad
+      NON-INGREDIENT SPAN: the potato salad
+   PARG: a plate as a loaf or a round mound
+     PREP: on
+      NON-INGREDIENT SPAN: a plate as a loaf or a round mound
+
+
+SENTID: 5
+SENT: I would garnish with slices of cucumber , halved cherry tomatoes , and slices of egg .
+
+SENTID: 6
+SENT: I would decorate with swirls or wavy lines of mayonnaise to add a little flair -LRB- see Cook 's Note -RRB- .
+PREDID: 313
+PRED: decorate
+   DOBJ: NULL
+   PARG: swirls or wavy lines of mayonnaise
+     PREP: with
+      INGREDIENT SPAN: swirls or wavy lines of mayonnaise
+         INGREDIENTS: mayonnaise
+   OARG: to add a little flair -lrb- see cook 's note
+      NON-INGREDIENT SPAN: to add a little flair -lrb- see cook 's note
+
+
+SENTID: 7
+SENT: I would chill for at least 2 hours to allow the flavors to blend .
+PREDID: 387
+PRED: chill
+   DOBJ: NULL
+   PARG: at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 2 hours
+   OARG: to allow the flavors to blend
+      NON-INGREDIENT SPAN: to allow the flavors to blend
+
+

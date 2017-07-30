@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix the ground beef , the sausage , the onion , the carrots , onion soup mix , brown sugar , the eggs , and barbeque sauce together in a large mixing bowl until thoroughly combined .
+PREDID: 38
+PRED: mix
+   DOBJ: the ground beef , the sausage , the onion , the carrots , onion soup mix , brown sugar , the eggs , barbeque sauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: carrots shredded
+      INGREDIENT SPAN:  barbeque sauce
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the sausage 
+         INGREDIENTS: mild sageflavored breakfast sausage
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  onion soup mix 
+         INGREDIENTS: dry onion soup mix
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in enough oats to make the mixture hold together -- you can use up to 2 cups of oats .
+PREDID: 172
+PRED: stir
+   DOBJ: NULL
+   PARG: enough oats
+     PREP: in
+      INGREDIENT SPAN: enough oats
+         INGREDIENTS: rolled oats more desired
+   OARG: to make the mixture hold together
+      NON-INGREDIENT SPAN: to make the mixture hold together
+   OARG: you can use up to 2 cups of oats
+      NON-INGREDIENT SPAN: you can use up to 2 cups of oats
+
+
+SENTID: 3
+SENT: I would divide the mixture in half , and spoon into 2 9x5-inch loaf pans .
+PREDID: 243
+PRED: divide
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: half , spoon into 2 9x5-inch loaf pans
+     PREP: in
+      NON-INGREDIENT SPAN: half 
+      NON-INGREDIENT SPAN:  spoon into 2 9x5-inch loaf pans
+
+
+SENTID: 4
+SENT: I would place 3 strips of bacon the long way onto each loaf .
+PREDID: 296
+PRED: place
+   DOBJ: 3 strips of bacon the long way onto each loaf
+      INGREDIENT SPAN: 3 strips of bacon the long way onto each loaf
+         INGREDIENTS: slices bacon divided
+
+
+SENTID: 5
+SENT: I would bake in the preheated oven until the meatloaf is no longer pink in the middle and the juices run clear , about 1 hour .
+PREDID: 338
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the meatloaf is no longer pink in the middle
+     PREP: until
+      NON-INGREDIENT SPAN: the meatloaf is no longer pink in the middle
+   OARG: the juices run clear , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: the juices run clear 
+
+

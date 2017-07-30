@@ -1,0 +1,51 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="preheat
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="combine
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="process
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: peeled and cubed butternut squash", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+D3[label="DOBJ: oven to 350 degrees f -lrb- 175 degrees c", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:to a boil ", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+P1_0_1[label="LOCOROBJ:to simmer over medium heat", shape=box, style=filled, fillcolor=white]
+P1_0_1 -> E1
+P1_1_0[label="DURATION:until tender ", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+P1_1_1[label="DURATION:until  about 15 minutes", shape=box, style=filled, fillcolor=white]
+P1_1_1 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+D4_ing[label="DOBJ: cornstarch, evaporated milk, ground nutmeg, ground cinnamon, lightly packed brown sugar, ground ginger, ground allspice, egg, ground cloves", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E2 -> E4 [label="butternut squash "]
+P4_0_0[label="LOCOROBJ:in a blender or food processor", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_ing[label="COOBJECT: into inch unbaked pie shell", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E3 -> E7 [label="IMPLICIT PREP"]
+P7_1_0[label="DURATION:in preheated oven for 50 minutes ", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+P7_1_1[label="DURATION:in  or until a table knife comes out clean when inserted in the center", shape=box, style=filled, fillcolor=white]
+P7_1_1 -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain and reserve .
+PREDID: 87
+PRED: drain and reserve
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a microwave-safe bowl , I would combine milk , the flour and salt and pepper to taste ;
+PREDID: 125
+PRED: combine
+   DOBJ: milk , the flour, salt, pepper
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  pepper
+   PARG: a microwave-safe bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a microwave-safe bowl
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would whisk or beat until smooth .
+PREDID: 166
+PRED: whisk or beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would add butter and cheese ;
+PREDID: 189
+PRED: add
+   DOBJ: butter, cheese
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 6
+SENT: I would microwave on high for 5 minutes and whisk until smooth .
+PREDID: 208
+PRED: microwave
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+PREDID: 237
+PRED: whisk
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would microwave for an additional 4 to 5 minutes and whisk or beat until smooth and no lumps remain .
+PREDID: 254
+PRED: microwave
+   DOBJ: NULL
+   PARG: an additional 4 to 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 4 to 5 minutes
+
+PREDID: 292
+PRED: whisk or beat
+   DOBJ: NULL
+   PARG: smooth, no lumps remain
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  no lumps remain
+
+
+SENTID: 8
+SENT: I would add cooked pasta to mixture ;
+PREDID: 331
+PRED: add
+   DOBJ: cooked pasta
+      NON-INGREDIENT SPAN: cooked pasta
+   PARG: mixture
+     PREP: to
+      NON-INGREDIENT SPAN: mixture
+
+
+SENTID: 9
+SENT: I would stir and serve .
+PREDID: 355
+PRED: stir and serve
+   DOBJ: NULL
+
+

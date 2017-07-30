@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 205 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 205 degrees C
+
+
+SENTID: 1
+SENT: I would heat oil in a small skillet over medium heat ;
+PREDID: 38
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: canola oil
+   PARG: a small skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small skillet over medium heat
+
+
+SENTID: 2
+SENT: I would cook and stir onion and green pepper until tender , about 5 minutes .
+PREDID: 75
+PRED: cook and stir
+   DOBJ: onion, green pepper
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: onion
+         INGREDIENTS: chopped onion
+   PARG: tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 3
+SENT: I would place tortillas on an ungreased baking sheet .
+PREDID: 131
+PRED: place
+   DOBJ: tortillas
+      INGREDIENT SPAN: tortillas
+         INGREDIENTS: inch flour tortillas
+   PARG: an ungreased baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: an ungreased baking sheet
+
+
+SENTID: 4
+SENT: I would top with onion mixture , the oregano , garlic powder , the tomato , and mozzarella cheese .
+PREDID: 170
+PRED: top
+   DOBJ: NULL
+   PARG: onion mixture , the oregano , garlic powder , the tomato , mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the tomato 
+         INGREDIENTS: tomato sliced
+      NON-INGREDIENT SPAN: onion mixture 
+
+
+SENTID: 5
+SENT: I would bake in preheated oven until cheese is melted , 8 to 10 minutes .
+PREDID: 238
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is melted , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 6
+SENT: I would cut each pizza into four wedges .
+PREDID: 290
+PRED: cut
+   DOBJ: each pizza
+      NON-INGREDIENT SPAN: each pizza
+   PARG: four wedges
+     PREP: into
+      NON-INGREDIENT SPAN: four wedges
+
+

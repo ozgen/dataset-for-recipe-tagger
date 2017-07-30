@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix brown sugar , ground ginger , the salt , the cinnamon , the nutmeg , the allspice , and cloves together in a large bowl ;
+PREDID: 38
+PRED: mix
+   DOBJ: brown sugar , ground ginger , the salt , the cinnamon , the nutmeg , the allspice , cloves
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  ground ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add pumpkin and eggs .
+PREDID: 125
+PRED: add
+   DOBJ: pumpkin, eggs
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: mashed cooked pumpkin
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+
+
+SENTID: 3
+SENT: I would beat the pumpkin mixture until smooth .
+PREDID: 143
+PRED: beat
+   DOBJ: the pumpkin mixture
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would stir evaporated milk into the pumpkin mixture ;
+PREDID: 176
+PRED: stir
+   DOBJ: evaporated milk
+      INGREDIENT SPAN: evaporated milk
+         INGREDIENTS: warm % evaporated milk
+   PARG: the pumpkin mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the pumpkin mixture
+
+
+SENTID: 5
+SENT: I would pour into the pie crust .
+PREDID: 216
+PRED: pour
+   DOBJ: NULL
+   PARG: the pie crust
+     PREP: into
+      INGREDIENT SPAN: the pie crust
+         INGREDIENTS: inch prepared pie crust
+
+
+SENTID: 6
+SENT: I would bake in preheated oven until the pie is set in the middle , 35 to 40 minutes .
+PREDID: 236
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the pie is set in the middle , 35 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+      NON-INGREDIENT SPAN: the pie is set in the middle 
+
+
+SENTID: 7
+SENT: I would cool to room temperature before serving .
+PREDID: 297
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 9x13-inch baking dish with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 80
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 122
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain ;
+PREDID: 221
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would pour macaroni into the prepared dish .
+PREDID: 227
+PRED: pour
+   DOBJ: macaroni
+      NON-INGREDIENT SPAN: macaroni
+   PARG: the prepared dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared dish
+
+
+SENTID: 6
+SENT: I would beat eggs , sour cream , seasoned salt , and black pepper into a smooth mixture ;
+PREDID: 259
+PRED: beat
+   DOBJ: eggs , sour cream , seasoned salt , black pepper
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: extra large eggs
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: ounce container sour cream
+   PARG: a smooth mixture
+     PREP: into
+      NON-INGREDIENT SPAN: a smooth mixture
+
+
+SENTID: 7
+SENT: I would stir Cheddar cheese and Cheddar-Monterey Jack cheese into mixture until thoroughly combined .
+PREDID: 324
+PRED: stir
+   DOBJ: Cheddar cheese, Cheddar-Monterey Jack cheese into mixture
+      INGREDIENT SPAN:  Cheddar-Monterey Jack cheese into mixture
+         INGREDIENTS: shredded CheddarMonterey Jack cheese blend
+      INGREDIENT SPAN: Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 8
+SENT: I would pour over macaroni and mix well .
+PREDID: 405
+PRED: pour
+   DOBJ: NULL
+   PARG: macaroni, mix
+     PREP: over
+      NON-INGREDIENT SPAN: macaroni
+      NON-INGREDIENT SPAN:  mix
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 9
+SENT: I would top casserole with torn pieces of processed cheese .
+PREDID: 432
+PRED: top
+   DOBJ: casserole
+      NON-INGREDIENT SPAN: casserole
+   PARG: torn pieces of processed cheese
+     PREP: with
+      INGREDIENT SPAN: torn pieces of processed cheese
+         INGREDIENTS: slices processed cheese food such Velveeta torn
+
+
+SENTID: 10
+SENT: I would drizzle melted butter over casserole , especially along the sides .
+PREDID: 476
+PRED: drizzle
+   DOBJ: melted butter
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter melted
+   PARG: casserole
+     PREP: over
+      NON-INGREDIENT SPAN: casserole
+   PARG: the sides
+     PREP: along
+      NON-INGREDIENT SPAN: the sides
+   OARG: especially
+      NON-INGREDIENT SPAN: especially
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until casserole is bubbling and cheese has melted , about 30 minutes .
+PREDID: 533
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: casserole is bubbling
+   OARG: cheese has melted , about 30 minutes
+      INGREDIENT SPAN: cheese has melted 
+         INGREDIENTS: slices processed cheese food such Velveeta torn
+      NON-INGREDIENT SPAN:  about 30 minutes
+
+

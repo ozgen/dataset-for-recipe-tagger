@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: I would heat 1 tablespoon olive oil large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: 1 tablespoon olive oil large skillet over medium-high heat
+      INGREDIENT SPAN: 1 tablespoon olive oil large skillet over medium-high heat
+         INGREDIENTS: olive oil divided
+
+
+SENTID: 1
+SENT: I would cook and stir beef , the onion , and garlic in the hot oil until browned and crumbly , about 10 minutes ;
+PREDID: 55
+PRED: cook and stir
+   DOBJ: beef , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: chopped garlic
+   PARG: the hot oil until browned, crumbly , about 10 minutes
+     PREP: in
+      INGREDIENT SPAN: the hot oil until browned
+         INGREDIENTS: olive oil divided
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 135
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would season beef mixture with salt and pepper .
+PREDID: 163
+PRED: beef
+   DOBJ: season, mixture
+      NON-INGREDIENT SPAN: season
+      NON-INGREDIENT SPAN:  mixture
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 4
+SENT: I would mix ground beef mixture , remaining 1 tablespoon olive oil , pinto beans , ranch-style beans , white kidney beans , tomato sauce , Mexican-style stewed tomatoes , Mexican-style hot tomato sauce , green bell pepper , the celery , chili powder , Worcestershire sauce , balsamic vinegar , garlic powder , the cumin , the parsley , the basil , and brown sugar together in a slow cooker .
+PREDID: 192
+PRED: mix
+   DOBJ: ground beef mixture , remaining 1 tablespoon olive oil , pinto beans , ranch-style beans , white kidney beans , tomato sauce , Mexican-style stewed tomatoes , Mexican-style hot tomato sauce , green bell pepper , the celery , chili powder , Worcestershire sauce , balsamic vinegar , garlic powder , the cumin , the parsley , the basil , brown sugar together in a slow cooker
+      INGREDIENT SPAN: ground beef mixture 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  white kidney beans 
+         INGREDIENTS: ounce ranchstyle beans
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce Mexicanstyle hot tomato sauce such El Pato
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  Mexican-style stewed tomatoes 
+         INGREDIENTS: ounce Mexicanstyle stewed tomatoes
+      INGREDIENT SPAN:  ranch-style beans 
+         INGREDIENTS: ounce white kidney beans cannellini
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  brown sugar together in a slow cooker
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  Mexican-style hot tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  green bell pepper 
+      NON-INGREDIENT SPAN:  remaining 1 tablespoon olive oil 
+      NON-INGREDIENT SPAN:  the cumin 
+
+
+SENTID: 5
+SENT: I would cook on High for 4 hours ;
+PREDID: 494
+PRED: cook
+   DOBJ: NULL
+   PARG: high for 4 hours
+     PREP: on
+      NON-INGREDIENT SPAN: high for 4 hours
+
+
+SENTID: 6
+SENT: I would stir in red wine and continue cooking for 2 more hours .
+PREDID: 514
+PRED: stir
+   DOBJ: NULL
+   PARG: red wine
+     PREP: in
+      INGREDIENT SPAN: red wine
+         INGREDIENTS: red wine
+
+PREDID: 530
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 2 more hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more hours
+
+
+SENTID: 7
+SENT: -LRB- Cook on Low for 8 hours .
+
+SENTID: 8
+SENT: -RRB-
+

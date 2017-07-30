@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would whisk together the eggs , the milk , the sugar , the cinnamon , the nutmeg , and orange rind in a medium mixing bowl .
+PREDID: 41
+PRED: whisk
+   DOBJ: the eggs , the milk , the sugar , the cinnamon , the nutmeg , orange rind in a medium
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: grated nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  orange rind in a medium
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: mixing bowl
+      NON-INGREDIENT SPAN: mixing bowl
+
+
+SENTID: 2
+SENT: I would cut the bread into seven or eight slices , and lay them , overlapping , in a large baking dish .
+PREDID: 122
+PRED: cut
+   DOBJ: them, the bread
+      INGREDIENT SPAN:  the bread
+         INGREDIENTS: pound loaf Portuguese sweet bread
+      NON-INGREDIENT SPAN: them
+   PARG: seven or eight slices
+     PREP: into
+      NON-INGREDIENT SPAN: seven or eight slices
+   PARG: in a large baking dish
+     PREP: and
+      NON-INGREDIENT SPAN: in a large baking dish
+   OARG: overlapping
+      NON-INGREDIENT SPAN: overlapping
+
+
+SENTID: 3
+SENT: I would pour the egg mixture over the bread , covering every slice .
+PREDID: 198
+PRED: pour
+   DOBJ: the egg mixture over the bread
+      NON-INGREDIENT SPAN: the egg mixture over the bread
+   OARG: covering every slice
+      NON-INGREDIENT SPAN: covering every slice
+
+
+SENTID: 4
+SENT: The bread should not be entirely submerged though ;
+
+SENTID: 5
+SENT: the higher parts should become toasted and crispy .
+
+SENTID: 6
+SENT: I would dot the bread with the butter .
+PREDID: 247
+PRED: dot
+   DOBJ: the bread
+      NON-INGREDIENT SPAN: the bread
+   PARG: the butter
+     PREP: with
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: unsalted butter cubed
+
+
+SENTID: 7
+SENT: I would bake the French toast in the oven for 35 to 45 minutes until the custard is set .
+PREDID: 272
+PRED: bake
+   DOBJ: the French toast
+      NON-INGREDIENT SPAN: the French toast
+   PARG: the oven for 35 to 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the oven for 35 to 45 minutes
+   PARG: the custard is set
+     PREP: until
+      NON-INGREDIENT SPAN: the custard is set
+
+
+SENTID: 8
+SENT: I would serve immediately .
+PREDID: 336
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

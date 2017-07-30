@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: In a large pot , I would boil chicken until done , drain and cool .
+PREDID: 12
+PRED: boil
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: pound whole chicken
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: done
+     PREP: until
+      NON-INGREDIENT SPAN: done
+
+
+SENTID: 1
+SENT: I would remove skin and bones and chop meat into small pieces .
+PREDID: 46
+PRED: remove
+   DOBJ: skin, bones
+      NON-INGREDIENT SPAN:  bones
+      NON-INGREDIENT SPAN: skin
+
+PREDID: 67
+PRED: chop
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+
+SENTID: 2
+SENT: In a bowl , I would combine chicken , the pickles and mayonnaise .
+PREDID: 99
+PRED: combine
+   DOBJ: chicken , the pickles, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the pickles
+         INGREDIENTS: chopped sweet pickle
+      NON-INGREDIENT SPAN: chicken 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: In a saucepan , I would heat soup and gelatin until gelatin dissolves .
+PREDID: 147
+PRED: heat
+   DOBJ: soup, gelatin
+      INGREDIENT SPAN:  gelatin
+         INGREDIENTS: ounce envelopes unflavored gelatin
+      INGREDIENT SPAN: soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   PARG: gelatin dissolves
+     PREP: until
+      NON-INGREDIENT SPAN: gelatin dissolves
+
+
+SENTID: 4
+SENT: I would remove from heat and add cream cheese .
+PREDID: 187
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 204
+PRED: add
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce package cream cheese
+
+
+SENTID: 5
+SENT: I would stir until smooth .
+PREDID: 219
+PRED: stir
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 6
+SENT: I would add chicken , the pickles and mayonnaise to cream cheese mixture and mix until smooth .
+PREDID: 235
+PRED: add
+   DOBJ: chicken , the pickles, mayonnaise
+      NON-INGREDIENT SPAN:  mayonnaise
+      NON-INGREDIENT SPAN:  the pickles
+      NON-INGREDIENT SPAN: chicken 
+   PARG: cream cheese mixture
+     PREP: to
+      NON-INGREDIENT SPAN: cream cheese mixture
+
+PREDID: 292
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would pour into a greased mold and chill until firm .
+PREDID: 304
+PRED: pour
+   DOBJ: NULL
+   PARG: a greased mold
+     PREP: into
+      NON-INGREDIENT SPAN: a greased mold
+
+PREDID: 327
+PRED: chill
+   DOBJ: NULL
+   PARG: firm
+     PREP: until
+      NON-INGREDIENT SPAN: firm
+
+

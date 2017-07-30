@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: I would place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium-high heat until evenly brown .
+PREDID: 36
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain , crumble , and set aside .
+PREDID: 76
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 93
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would simmer carrots , the celery , the onion , and broth for about 10 minutes or until soft .
+PREDID: 102
+PRED: simmer
+   DOBJ: carrots , the celery , the onion , broth
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  broth
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN: carrots 
+         INGREDIENTS: shredded carrots
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+
+
+SENTID: 4
+SENT: I would add rice , mixed vegetables , the beef , the Velveeta , cheese soup , and milk , and cook until cheese is melted .
+PREDID: 166
+PRED: add
+   DOBJ: rice , mixed vegetables , the beef , the Velveeta , cheese soup , milk
+      INGREDIENT SPAN:  cheese soup 
+         INGREDIENTS: ounce condensed cream Cheddar cheese soup
+      INGREDIENT SPAN:  the Velveeta 
+         INGREDIENTS: processed cheese food Velveeta cubed
+      INGREDIENT SPAN: rice 
+         INGREDIENTS: cooked white rice
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  mixed vegetables 
+         INGREDIENTS: ounce mixed vegetables drained
+      NON-INGREDIENT SPAN:  the beef 
+
+PREDID: 232
+PRED: cook
+   DOBJ: NULL
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 5
+SENT: Do not boil .
+
+SENTID: 6
+SENT: I would add sour cream and chives just before serving .
+PREDID: 250
+PRED: add
+   DOBJ: sour cream, chives
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  chives
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: I would heat the oil in a 12-inch skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a 12-inch skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 12-inch skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would add the beef and cook in batches until it 's well browned , stirring often .
+PREDID: 47
+PRED: add
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: Swanson Beef Broth Regular % Sodium Certified Organic, boneless beef sirloin steak top round steak cut strips
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: Swanson Beef Broth Regular % Sodium Certified Organic, boneless beef sirloin steak top round steak cut strips
+
+PREDID: 60
+PRED: cook
+   DOBJ: NULL
+   PARG: batches
+     PREP: in
+      NON-INGREDIENT SPAN: batches
+   PARG: it 's well browned , stirring often
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring often
+      NON-INGREDIENT SPAN: it 's well browned 
+
+
+SENTID: 2
+SENT: I would add the onion , the garlic , the parsley and mushrooms and cook until the mushrooms are tender .
+PREDID: 108
+PRED: add
+   DOBJ: the onion , the garlic , the parsley, mushrooms
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: chopped onions
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: dried parsley flakes
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: cutup mushrooms white shiitake portobello
+
+PREDID: 155
+PRED: cook
+   DOBJ: NULL
+   PARG: the mushrooms are tender
+     PREP: until
+      NON-INGREDIENT SPAN: the mushrooms are tender
+
+
+SENTID: 3
+SENT: I would remove the beef mixture from the skillet .
+PREDID: 180
+PRED: remove
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would stir the broth and wine in the skillet and heat to a boil .
+PREDID: 215
+PRED: stir
+   DOBJ: the broth, wine in the skillet, heat
+      INGREDIENT SPAN:  wine in the skillet
+         INGREDIENTS: dry red wine
+      NON-INGREDIENT SPAN: the broth
+      NON-INGREDIENT SPAN:  heat
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce the heat to medium .
+PREDID: 261
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 6
+SENT: I would stir the sour cream and flour in a small bowl .
+PREDID: 283
+PRED: stir
+   DOBJ: the sour cream, flour in a small bowl
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  flour in a small bowl
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 7
+SENT: I would add the sour cream mixture to the skillet .
+PREDID: 320
+PRED: add
+   DOBJ: the sour cream mixture
+      NON-INGREDIENT SPAN: the sour cream mixture
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 8
+SENT: I would cook and stir until the mixture boils and thickens .
+PREDID: 355
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the mixture boils, thickens
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture boils
+      NON-INGREDIENT SPAN:  thickens
+
+
+SENTID: 9
+SENT: I would return the beef mixture to the skillet and cook until hot .
+PREDID: 398
+PRED: return
+   DOBJ: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 433
+PRED: cook
+   DOBJ: NULL
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 10
+SENT: I would serve over the noodles with the black pepper , if desired .
+PREDID: 446
+PRED: serve
+   DOBJ: NULL
+   PARG: the noodles with the black pepper
+     PREP: over
+      INGREDIENT SPAN: the with the black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the noodles with the black pepper
+         INGREDIENTS: Hot cooked egg noodles
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

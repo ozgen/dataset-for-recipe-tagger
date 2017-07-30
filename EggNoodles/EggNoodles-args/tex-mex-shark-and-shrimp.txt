@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles , cook for 6 to 8 minutes , until al dente , and drain .
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package uncooked wide egg noodles
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes
+
+
+SENTID: 2
+SENT: I would heat the olive oil in a skillet over medium heat .
+PREDID: 97
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      INGREDIENT SPAN: a skillet over medium heat
+         INGREDIENTS: frozen medium shrimp
+
+
+SENTID: 3
+SENT: I would mix in the shark , the shrimp , and tomatoes with green chiles .
+PREDID: 137
+PRED: mix
+   DOBJ: NULL
+   PARG: the shark , the shrimp , tomatoes
+     PREP: in
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce diced tomatoes green chiles
+      INGREDIENT SPAN: the shark 
+         INGREDIENTS: shark steaks cut chunks
+      NON-INGREDIENT SPAN:  the shrimp 
+   PARG: green chiles
+     PREP: with
+      NON-INGREDIENT SPAN: green chiles
+
+
+SENTID: 4
+SENT: I would cover , and cook 15 minutes , or until shark is easily flaked with a fork .
+PREDID: 185
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 194
+PRED: cook
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+PREDID: 228
+PRED: is flaked
+   DOBJ: NULL
+   PARG: shark
+     PREP: until
+      NON-INGREDIENT SPAN: shark
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   OARG: easily
+      NON-INGREDIENT SPAN: easily
+
+
+SENTID: 5
+SENT: I would serve the shark mixture over the cooked egg noodles .
+PREDID: 244
+PRED: serve
+   DOBJ: the shark mixture
+      NON-INGREDIENT SPAN: the shark mixture
+   PARG: the cooked egg noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the cooked egg noodles
+
+
+SENTID: 6
+SENT: I would sprinkle with mozzarella cheese , and season with pepper .
+PREDID: 288
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: mozzarella cheese , season with pepper
+     PREP: with
+      INGREDIENT SPAN:  season with pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+
+

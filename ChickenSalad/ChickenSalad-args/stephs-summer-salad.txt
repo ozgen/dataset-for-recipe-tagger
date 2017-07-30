@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add penne pasta and cook for 8 to 10 minutes , add broccoli a few minutes before pasta is done ;
+PREDID: 42
+PRED: add
+   DOBJ: penne pasta, cook
+      INGREDIENT SPAN: penne pasta
+         INGREDIENTS: dry penne pasta
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+PREDID: 78
+PRED: add
+   DOBJ: broccoli
+      INGREDIENT SPAN: broccoli
+         INGREDIENTS: fresh broccoli florets
+   OARG: a few minutes before pasta is done
+      NON-INGREDIENT SPAN: a few minutes before pasta is done
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 118
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would cook the chicken in a pan , seasoning with lemon pepper as it cooks .
+PREDID: 124
+PRED: cook
+   DOBJ: the chicken in a pan , seasoning with lemon pepper as it cooks
+      INGREDIENT SPAN: the chicken in a pan 
+         INGREDIENTS: skinless boneless chicken breast halves
+      INGREDIENT SPAN:  seasoning with lemon pepper as it cooks
+         INGREDIENTS: lemon pepper taste
+
+
+SENTID: 4
+SENT: When the chicken is no longer pink inside , cut into small pieces .
+PREDID: 214
+PRED: cut
+   DOBJ: NULL
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+   OARG: when the chicken is no longer pink inside
+      NON-INGREDIENT SPAN: when the chicken is no longer pink inside
+
+
+SENTID: 5
+SENT: I would combine chicken to pasta-broccoli mixture .
+PREDID: 233
+PRED: combine
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: pasta-broccoli mixture
+     PREP: to
+      NON-INGREDIENT SPAN: pasta-broccoli mixture
+
+
+SENTID: 6
+SENT: I would stir in oil and sliced green onion and add lemon pepper to taste .
+PREDID: 271
+PRED: stir
+   DOBJ: NULL
+   PARG: oil, sliced green onion
+     PREP: in
+      INGREDIENT SPAN:  sliced green onion
+         INGREDIENTS: green onions sliced
+      INGREDIENT SPAN: oil
+         INGREDIENTS: canola oil
+
+PREDID: 302
+PRED: add
+   DOBJ: lemon pepper
+      NON-INGREDIENT SPAN: lemon pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

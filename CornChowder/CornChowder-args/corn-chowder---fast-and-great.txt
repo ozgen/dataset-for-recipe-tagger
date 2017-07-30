@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would cook and stir the bacon until crisp , about 10 minutes .
+PREDID: 26
+PRED: cook and stir
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: slices bacon diced
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: crisp , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: crisp 
+
+
+SENTID: 1
+SENT: I would drain off grease , leaving about 1 tablespoon in the pot .
+PREDID: 71
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+   OARG: leaving about 1 tablespoon in the pot
+      NON-INGREDIENT SPAN: leaving about 1 tablespoon in the pot
+
+
+SENTID: 2
+SENT: I would break the bacon into pieces in the pot .
+PREDID: 118
+PRED: break
+   DOBJ: the bacon
+      NON-INGREDIENT SPAN: the bacon
+   PARG: pieces in the pot
+     PREP: into
+      NON-INGREDIENT SPAN: pieces in the pot
+
+
+SENTID: 3
+SENT: I would place the onion in the pot , and cook until transparent , about 5 minutes .
+PREDID: 150
+PRED: place
+   DOBJ: the onion in the pot
+      INGREDIENT SPAN: the onion in the pot
+         INGREDIENTS: large onion chopped
+
+PREDID: 175
+PRED: cook
+   DOBJ: NULL
+   PARG: transparent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: transparent 
+
+
+SENTID: 4
+SENT: I would mix in the potatoes , and cook until they begin to turn translucent , about 10 minutes more .
+PREDID: 210
+PRED: mix
+   DOBJ: NULL
+   PARG: the potatoes
+     PREP: in
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled cubed
+
+PREDID: 230
+PRED: cook
+   DOBJ: NULL
+   PARG: they begin
+     PREP: until
+      NON-INGREDIENT SPAN: they begin
+
+
+SENTID: 5
+SENT: I would stir in the chicken broth , and season with oregano , the salt and pepper .
+PREDID: 285
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken broth , season with oregano , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the chicken broth 
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  season with oregano 
+         INGREDIENTS: dried oregano
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would bring to a boil over high heat ,
+PREDID: 342
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 7
+SENT: I would cover , and simmer over low heat until the potatoes are soft , about 30 minutes .
+PREDID: 367
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 376
+PRED: simmer
+   DOBJ: NULL
+   PARG: low heat
+     PREP: over
+      NON-INGREDIENT SPAN: low heat
+   PARG: the potatoes are soft , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the potatoes are soft 
+
+
+SENTID: 8
+SENT: I would pour in the cream-style corn and whole kernel corn , and cook for 10 more minutes .
+PREDID: 432
+PRED: pour
+   DOBJ: NULL
+   PARG: the cream-style corn, whole kernel corn
+     PREP: in
+      INGREDIENT SPAN: the cream-style corn
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  whole kernel corn
+         INGREDIENTS: ounce creamstyle corn
+
+PREDID: 478
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 more minutes
+
+
+SENTID: 9
+SENT: I would stir in the cream , Monterey Jack cheese , and Cheddar cheese over low heat until the soup is hot and the cheeses have melted .
+PREDID: 499
+PRED: stir
+   DOBJ: NULL
+   PARG: the cream , monterey jack cheese , cheddar cheese over low heat
+     PREP: in
+      INGREDIENT SPAN:  monterey jack cheese 
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  cheddar cheese over low heat
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: the cream 
+         INGREDIENTS: heavy cream
+   PARG: the soup is hot
+     PREP: until
+      NON-INGREDIENT SPAN: the soup is hot
+   OARG: the cheeses have melted
+      NON-INGREDIENT SPAN: the cheeses have melted
+
+
+SENTID: 10
+SENT: Do not boil .
+
+SENTID: 11
+SENT: I would remove from the heat , and serve .
+PREDID: 601
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+

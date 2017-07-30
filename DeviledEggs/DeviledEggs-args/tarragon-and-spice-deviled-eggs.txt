@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+
+SENTID: 1
+SENT: I would cover with water .
+PREDID: 21
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 36
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 49
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 67
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 102
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 125
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 4
+SENT: I would cut each egg in half lengthwise .
+PREDID: 159
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+
+SENTID: 5
+SENT: I would place yolks in a bowl ;
+PREDID: 186
+PRED: place
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: I would mash with a fork .
+PREDID: 204
+PRED: mash
+   DOBJ: NULL
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 7
+SENT: I would stir mayonnaise , the horseradish , Dijon mustard , garlic , pickle juice , and vinegar into egg yolks until smooth ;
+PREDID: 218
+PRED: stir
+   DOBJ: mayonnaise , the horseradish , Dijon mustard , garlic , pickle juice , vinegar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  pickle juice 
+         INGREDIENTS: sweet pickle juice
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the horseradish 
+         INGREDIENTS: prepared horseradish taste
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: minced garlic
+   PARG: egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: egg yolks
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 311
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 9
+SENT: I would spoon the yolk filling into a resealable plastic bag ;
+PREDID: 335
+PRED: spoon
+   DOBJ: the yolk filling into a resealable plastic bag
+      NON-INGREDIENT SPAN: the yolk filling into a resealable plastic bag
+
+
+SENTID: 10
+SENT: I would snip off one corner of the bag .
+PREDID: 380
+PRED: snip
+   DOBJ: one corner of the bag
+      NON-INGREDIENT SPAN: one corner of the bag
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 11
+SENT: I would place egg whites cut-side up on a serving platter ;
+PREDID: 405
+PRED: place
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+   OARG: cut-side
+      NON-INGREDIENT SPAN: cut-side
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 12
+SENT: I would distribute minced green onion and tarragon evenly over the cavities .
+PREDID: 447
+PRED: distribute
+   DOBJ: minced green onion, tarragon
+      INGREDIENT SPAN: minced green onion
+         INGREDIENTS: minced green onion white part
+      INGREDIENT SPAN:  tarragon
+         INGREDIENTS: chopped fresh tarragon
+   OARG: evenly over the cavities
+      NON-INGREDIENT SPAN: evenly over the cavities
+
+
+SENTID: 13
+SENT: I would pipe the filling into egg white halves , sprinkle with paprika , and garnish with whole tarragon leaves .
+PREDID: 506
+PRED: pipe
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: egg white halves
+
+PREDID: 539
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+
+PREDID: 562
+PRED: garnish
+   DOBJ: NULL
+   PARG: whole tarragon leaves
+     PREP: with
+      INGREDIENT SPAN: whole tarragon leaves
+         INGREDIENTS: fresh tarragon leaves needed
+
+
+SENTID: 14
+SENT: I would cover deviled eggs with plastic wrap ;
+PREDID: 590
+PRED: cover
+   DOBJ: deviled eggs
+      NON-INGREDIENT SPAN: deviled eggs
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+
+SENTID: 15
+SENT: I would refrigerate until ready to serve .
+PREDID: 622
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

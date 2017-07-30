@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: In a large bowl , I would combine 3 tablespoons soy sauce , 2 tablespoons honey , 2 tablespoons tomato sauce , 2 tablespoons plum sauce , 1 tablespoon Worcestershire sauce , sesame seeds , and basil .
+PREDID: 13
+PRED: combine
+   DOBJ: 3 tablespoons soy sauce , 2 tablespoons honey , 2 tablespoons tomato sauce , 2 tablespoons plum sauce , 1 tablespoon Worcestershire sauce , sesame seeds , basil
+      INGREDIENT SPAN:  2 tablespoons tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN: 3 tablespoons soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  2 tablespoons plum sauce 
+         INGREDIENTS: plum sauce
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  sesame seeds 
+         INGREDIENTS: sesame seeds
+      INGREDIENT SPAN:  2 tablespoons honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  1 tablespoon Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would add chicken , and turn to coat .
+PREDID: 157
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 171
+PRED: turn
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 2
+SENT: I would marinate in refrigerator for at least 1 hour .
+PREDID: 182
+PRED: marinate
+   DOBJ: NULL
+   PARG: refrigerator for at least 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator for at least 1 hour
+
+
+SENTID: 3
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 220
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would add pasta , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 262
+PRED: add
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+
+PREDID: 274
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 5
+SENT: I would drain and rinse .
+PREDID: 308
+PRED: drain and rinse
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would heat olive oil in a skillet over medium heat .
+PREDID: 322
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 7
+SENT: I would cook chicken until no longer pink , and juices run clear .
+PREDID: 359
+PRED: cook
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+
+SENTID: 8
+SENT: I would drain on paper towels .
+PREDID: 406
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 9
+SENT: I would allow to cool ,
+PREDID: 425
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 10
+SENT: I would cut into bite-size strips .
+PREDID: 437
+PRED: cut
+   DOBJ: NULL
+   PARG: bite-size strips
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size strips
+
+
+SENTID: 11
+SENT: In a large bowl , I would whisk together mayonnaise , sour cream , the mustard , 1 tablespoon honey , 1 tablespoon tomato sauce , and 1 teaspoon Worcestershire sauce .
+PREDID: 473
+PRED: whisk
+   DOBJ: mayonnaise , sour cream , the mustard , 1 tablespoon honey , 1 tablespoon tomato sauce , 1 teaspoon Worcestershire sauce
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: coarse grained prepared mustard
+      INGREDIENT SPAN:  1 teaspoon Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  1 tablespoon honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: lowfat mayonnaise
+      INGREDIENT SPAN:  1 tablespoon tomato sauce 
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: fat free sour cream
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would mix in cooked pasta , the chicken , and Cheddar cheese .
+PREDID: 587
+PRED: mix
+   DOBJ: NULL
+   PARG: cooked pasta , the chicken , cheddar cheese
+     PREP: in
+      INGREDIENT SPAN:  cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+      NON-INGREDIENT SPAN:  the chicken 
+      NON-INGREDIENT SPAN: cooked pasta 
+
+
+SENTID: 13
+SENT: I would gently stir in sliced avocado and cashews just before serving .
+PREDID: 635
+PRED: stir
+   DOBJ: NULL
+   PARG: sliced avocado, cashews
+     PREP: in
+      INGREDIENT SPAN:  cashews
+         INGREDIENTS: cashews
+      INGREDIENT SPAN: sliced avocado
+         INGREDIENTS: avocados peeled pitted sliced
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+

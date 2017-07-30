@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 375 degrees f.
+     PREP: to
+      NON-INGREDIENT SPAN: 375 degrees f.
+
+
+SENTID: 1
+SENT: I would cook pasta according to package directions ;
+PREDID: 25
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: dried campanelle cellantani pasta
+   PARG: to package directions
+     PREP: according
+      INGREDIENT SPAN: to package directions
+         INGREDIENTS: ounce package Johnsonville Italian Ground Sausage
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 63
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large skillet cook Johnsonville ? Italian Ground Sausage , I would the onion , sweet pepper , and garlic until sausage is no longer pink ;
+
+SENTID: 4
+SENT: I would drain fat .
+PREDID: 69
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 5
+SENT: I would transfer sausage mixture to a very large bowl .
+PREDID: 78
+PRED: transfer
+   DOBJ: sausage mixture
+      NON-INGREDIENT SPAN: sausage mixture
+   PARG: a very large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a very large bowl
+
+
+SENTID: 6
+SENT: I would stir in Classico ? Tomato and Basil pasta sauce , fennel seed , and cooked pasta .
+PREDID: 117
+PRED: stir
+   DOBJ: NULL
+   PARG: classico ? tomato, basil pasta sauce , fennel seed , cooked pasta
+     PREP: in
+      INGREDIENT SPAN:  fennel seed 
+         INGREDIENTS: fennel seed crushed
+      INGREDIENT SPAN: classico ? tomato
+         INGREDIENTS: ounce jar Classico Tomato Basil pasta sauce
+      NON-INGREDIENT SPAN:  cooked pasta
+      NON-INGREDIENT SPAN:  basil pasta sauce 
+
+
+SENTID: 7
+SENT: I would transfer the pasta mixture to a 3-quart rectangular baking pan .
+PREDID: 183
+PRED: transfer
+   DOBJ: the pasta mixture
+      NON-INGREDIENT SPAN: the pasta mixture
+   PARG: a 3-quart rectangular baking pan
+     PREP: to
+      NON-INGREDIENT SPAN: a 3-quart rectangular baking pan
+
+
+SENTID: 8
+SENT: In a medium bowl stir together ricotta cheese , I would the egg , and 1 cup of the Italian blend cheeses .
+
+SENTID: 9
+SENT: I would spoon the ricotta cheese over the pasta mixture in large dollops .
+PREDID: 237
+PRED: spoon
+   DOBJ: the ricotta cheese
+      INGREDIENT SPAN: the ricotta cheese
+         INGREDIENTS: ounce carton ricotta cheese
+   PARG: the pasta mixture in large dollops
+     PREP: over
+      NON-INGREDIENT SPAN: the pasta mixture in large dollops
+
+
+SENTID: 10
+SENT: I would sprinkle the remaining shredded Italian blend cheeses over the top .
+PREDID: 292
+PRED: sprinkle
+   DOBJ: the remaining shredded Italian blend cheeses over the top
+      INGREDIENT SPAN: the remaining shredded Italian blend cheeses over the top
+         INGREDIENTS: ounce package shredded Italian blend cheeses
+
+
+SENTID: 11
+SENT: I would bake , uncovered , for 35 to 40 minutes or until heated through .
+PREDID: 350
+PRED: bake
+   DOBJ: NULL
+   PARG: 35 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes
+
+
+SENTID: 12
+SENT: I would let stand 10 minutes before serving .
+PREDID: 402
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

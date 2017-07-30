@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would heat the oil in a 12-inch nonstick skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a 12-inch nonstick skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a 12-inch nonstick skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would add the beef and cook until it 's well browned , stirring often .
+PREDID: 55
+PRED: add
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: boneless beef sirloin steak 3/4inch thick cut thin strips, Swanson Beef Broth Swanson Beef Stock
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: boneless beef sirloin steak 3/4inch thick cut thin strips, Swanson Beef Broth Swanson Beef Stock
+
+PREDID: 68
+PRED: cook
+   DOBJ: NULL
+   PARG: it 's well browned , stirring often
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring often
+      NON-INGREDIENT SPAN: it 's well browned 
+
+
+SENTID: 2
+SENT: I would add the onion , the garlic and parsley and cook until the onion is tender-crisp .
+PREDID: 107
+PRED: add
+   DOBJ: the onion , the garlic, parsley
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: medium onion chopped
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: Chopped fresh parsley
+      NON-INGREDIENT SPAN:  the garlic
+
+PREDID: 141
+PRED: cook
+   DOBJ: NULL
+   PARG: the onion is tender-crisp
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is tender-crisp
+
+
+SENTID: 3
+SENT: I would stir the broth and mushrooms in the skillet and heat to a boil .
+PREDID: 170
+PRED: stir
+   DOBJ: the broth, mushrooms
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: sliced mushrooms
+      NON-INGREDIENT SPAN: the broth
+   PARG: the skillet, heat to a boil
+     PREP: in
+      NON-INGREDIENT SPAN:  heat to a boil
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 4
+SENT: I would stir in the noodles .
+PREDID: 221
+PRED: stir
+   DOBJ: NULL
+   PARG: the noodles
+     PREP: in
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: uncooked medium egg noodles
+
+
+SENTID: 5
+SENT: I would reduce the heat to low .
+PREDID: 238
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 6
+SENT: I would cover and cook for 10 minutes or until the noodles are tender .
+PREDID: 257
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: the noodles are tender
+      NON-INGREDIENT SPAN: the noodles are tender
+
+
+SENTID: 7
+SENT: I would stir the sour cream in the skillet and cook until the mixture is hot .
+PREDID: 308
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: sour cream
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 339
+PRED: cook
+   DOBJ: NULL
+   PARG: the mixture is hot
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is hot
+
+
+SENTID: 8
+SENT: I would garnish with the parsley .
+PREDID: 364
+PRED: garnish
+   DOBJ: NULL
+   PARG: the parsley
+     PREP: with
+      INGREDIENT SPAN: the parsley
+         INGREDIENTS: dried parsley flakes
+
+

@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would mix broth , the mayonnaise , the cheese and dill weed .
+PREDID: 0
+PRED: mix
+   DOBJ: broth , the mayonnaise , the cheese, dill weed
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: reducedcalorie mayonnaise
+      INGREDIENT SPAN:  dill weed
+         INGREDIENTS: dried dill weed dried basil leaves
+      INGREDIENT SPAN:  the cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: ounce Swanson Chicken Broth Regular Natural Goodness
+
+
+SENTID: 1
+SENT: I would toss pasta , the tomatoes , the peas , the mushrooms , the onion , the chicken and broth mixture until evenly coated .
+PREDID: 38
+PRED: toss
+   DOBJ: pasta , the tomatoes , the peas , the mushrooms , the onion , the chicken, broth mixture
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: small red onion chopped
+      INGREDIENT SPAN:  the peas 
+         INGREDIENTS: cooked peas
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: cherry tomatoes cut half
+      INGREDIENT SPAN: pasta 
+         INGREDIENTS: cooked corkscrewshaped pasta
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN:  the chicken
+         INGREDIENTS: cubed cooked chicken
+      NON-INGREDIENT SPAN:  broth mixture
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 2
+SENT: I would cover and refrigerate at least 2 hours .
+PREDID: 118
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+
+
+SENTID: 3
+SENT: I would serve on lettuce .
+PREDID: 151
+PRED: serve
+   DOBJ: NULL
+   PARG: lettuce
+     PREP: on
+      INGREDIENT SPAN: lettuce
+         INGREDIENTS: Lettuce leaves
+
+

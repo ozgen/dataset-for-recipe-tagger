@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would heat butter in a skillet over medium-low heat until light brown .
+PREDID: 0
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium-low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-low heat
+   PARG: light brown
+     PREP: until
+      NON-INGREDIENT SPAN: light brown
+
+
+SENTID: 1
+SENT: I would stir in mushrooms with a pinch of salt .
+PREDID: 54
+PRED: stir
+   DOBJ: NULL
+   PARG: mushrooms with a pinch of salt
+     PREP: in
+      INGREDIENT SPAN:  with a pinch of salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: mushrooms with a pinch of salt
+         INGREDIENTS: assorted mushrooms sliced
+
+
+SENTID: 2
+SENT: I would cook , stirring , until mushrooms shrink and are almost tender , 10 to 15 minutes .
+PREDID: 86
+PRED: cook
+   DOBJ: NULL
+   PARG: mushrooms shrink
+     PREP: until
+      INGREDIENT SPAN: mushrooms shrink
+         INGREDIENTS: assorted mushrooms sliced
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+   OARG: almost tender , 10 to 15 minutes
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: almost tender 
+
+
+SENTID: 3
+SENT: I would stir in black pepper .
+PREDID: 153
+PRED: stir
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: in
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 4
+SENT: I would pour in wine and cook , stirring , until mushrooms are tender , about 5 minutes .
+PREDID: 171
+PRED: pour
+   DOBJ: NULL
+   PARG: wine, cook
+     PREP: in
+      INGREDIENT SPAN: wine
+         INGREDIENTS: Pinot Noir other dry red wine
+      NON-INGREDIENT SPAN:  cook
+   PARG: mushrooms are tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: mushrooms are tender 
+      NON-INGREDIENT SPAN:  about 5 minutes
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would unroll crescent roll dough on a small baking sheet .
+PREDID: 38
+PRED: unroll
+   DOBJ: crescent roll dough
+      INGREDIENT SPAN: crescent roll dough
+         INGREDIENTS: ounce refrigerated crescent roll dough
+   PARG: a small baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a small baking sheet
+
+
+SENTID: 2
+SENT: I would arrange into a single layer to serve as a crust .
+PREDID: 81
+PRED: arrange
+   DOBJ: NULL
+   PARG: a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a single layer
+   OARG: to serve as a crust
+      NON-INGREDIENT SPAN: to serve as a crust
+
+
+SENTID: 3
+SENT: I would bake in the preheated oven 10 minutes , or until puffed and lightly browned .
+PREDID: 120
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven 10 minutes , or until puffed, lightly browned
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 10 minutes 
+      NON-INGREDIENT SPAN:  or until puffed
+      NON-INGREDIENT SPAN:  lightly browned
+
+
+SENTID: 4
+SENT: In a medium bowl , I would mix cream cheese , the mayonnaise , dill weed , the onion and garlic .
+PREDID: 197
+PRED: mix
+   DOBJ: cream cheese , the mayonnaise , dill weed , the onion, garlic
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  dill weed 
+         INGREDIENTS: dried dill weed
+      INGREDIENT SPAN: cream cheese 
+         INGREDIENTS: ounce package cream cheese softened
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 5
+SENT: I would spread the cream cheese mixture over the crescent roll dough crust .
+PREDID: 247
+PRED: spread
+   DOBJ: the cream cheese mixture
+      INGREDIENT SPAN: the cream cheese mixture
+         INGREDIENTS: ounce package shredded Cheddar cheese
+   PARG: the crescent roll dough crust
+     PREP: over
+      NON-INGREDIENT SPAN: the crescent roll dough crust
+
+
+SENTID: 6
+SENT: I would layer with cauliflower , the broccoli and green peppers .
+PREDID: 304
+PRED: layer
+   DOBJ: NULL
+   PARG: cauliflower , the broccoli, green peppers
+     PREP: with
+      INGREDIENT SPAN:  the broccoli
+         INGREDIENTS: chopped broccoli
+      INGREDIENT SPAN: cauliflower 
+         INGREDIENTS: chopped cauliflower
+      INGREDIENT SPAN:  green peppers
+         INGREDIENTS: chopped green bell peppers
+
+
+SENTID: 7
+SENT: I would top with Cheddar cheese .
+PREDID: 349
+PRED: top
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN: cheddar cheese
+
+
+SENTID: 8
+SENT: I would chill in the refrigerator until serving .
+PREDID: 370
+PRED: chill
+   DOBJ: NULL
+   PARG: the refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

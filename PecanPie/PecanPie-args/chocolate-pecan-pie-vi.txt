@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium saucepan , I would combine chocolate , the butter and condensed milk over medium heat .
+PREDID: 56
+PRED: combine
+   DOBJ: chocolate , the butter, condensed milk
+      INGREDIENT SPAN:  condensed milk
+         INGREDIENTS: ounce sweetened condensed milk
+      INGREDIENT SPAN:  the butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN: chocolate 
+         INGREDIENTS: semisweet chocolate chips
+   PARG: a medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a medium saucepan
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 2
+SENT: I would stir continuously until chocolate chips melt and sauce is smooth .
+PREDID: 110
+PRED: stir
+   DOBJ: NULL
+   PARG: chocolate chips melt
+     PREP: until
+      NON-INGREDIENT SPAN: chocolate chips melt
+   OARG: continuously
+      NON-INGREDIENT SPAN: continuously
+   OARG: sauce is smooth
+      NON-INGREDIENT SPAN: sauce is smooth
+
+
+SENTID: 3
+SENT: I would remove from heat .
+PREDID: 166
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 4
+SENT: I would stir in eggs , the vanilla , the salt and pecans ;
+PREDID: 181
+PRED: stir
+   DOBJ: NULL
+   PARG: eggs , the vanilla , the salt, pecans
+     PREP: in
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: pecans
+
+
+SENTID: 5
+SENT: I would mix well .
+PREDID: 214
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would pour mixture into pie shell and bake on bottom shelf of oven for 40 to 45 minutes .
+PREDID: 222
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+PREDID: 248
+PRED: bake
+   DOBJ: NULL
+   PARG: bottom shelf of oven for 40 to 45 minutes
+     PREP: on
+      NON-INGREDIENT SPAN: bottom shelf of oven for 40 to 45 minutes
+
+
+SENTID: 7
+SENT: I would serve hot or cold ;
+PREDID: 288
+PRED: serve
+   DOBJ: NULL
+   OARG: hot or cold
+      NON-INGREDIENT SPAN: hot or cold
+
+
+SENTID: 8
+SENT: I would cold is preferable .
+

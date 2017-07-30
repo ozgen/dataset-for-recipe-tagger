@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would place the ground beef and onion in a skillet over medium-high heat .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef, onion in a skillet over medium-high heat
+      INGREDIENT SPAN:  onion in a skillet over medium-high heat
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+
+
+SENTID: 1
+SENT: I would cook , stirring to crumble , until evenly browned .
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN: evenly browned
+
+PREDID: 61
+PRED: stirring
+   DOBJ: NULL
+   OARG: to crumble
+      NON-INGREDIENT SPAN: to crumble
+
+
+SENTID: 2
+SENT: I would season with seasoning salt , drain off grease , and set aside .
+PREDID: 98
+PRED: season
+   DOBJ: NULL
+   PARG: seasoning salt
+     PREP: with
+      INGREDIENT SPAN: seasoning salt
+         INGREDIENTS: seasoning salt taste
+
+PREDID: 122
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 140
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would preheat the oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 149
+PRED: preheat
+   DOBJ: the oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: the oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 4
+SENT: I would spread salad dressing on the pizza crust .
+PREDID: 190
+PRED: spread
+   DOBJ: salad dressing on the pizza crust
+      INGREDIENT SPAN: salad dressing on the pizza crust
+         INGREDIENTS: island salad dressing taste
+      INGREDIENT SPAN:  on the pizza crust
+         INGREDIENTS: inch prebaked pizza crust
+
+
+SENTID: 5
+SENT: I would top with a layer of ground beef and onion .
+PREDID: 225
+PRED: top
+   DOBJ: NULL
+   PARG: a layer of ground beef, onion
+     PREP: with
+      NON-INGREDIENT SPAN:  onion
+      NON-INGREDIENT SPAN: a layer of ground beef
+
+
+SENTID: 6
+SENT: I would sprinkle shredded cheese over the top .
+PREDID: 259
+PRED: sprinkle
+   DOBJ: shredded cheese
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded American cheese
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 7
+SENT: I would bake for 8 to 10 minutes in the preheated oven , until cheese is melted .
+PREDID: 292
+PRED: bake
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+
+
+SENTID: 8
+SENT: I would allow pizza to cool for about 5 minutes ,
+PREDID: 350
+PRED: allow
+   DOBJ: pizza
+      NON-INGREDIENT SPAN: pizza
+   OARG: to cool for about 5 minutes
+      NON-INGREDIENT SPAN: to cool for about 5 minutes
+
+
+SENTID: 9
+SENT: I would slice into wedges and top with lettuce tomato and pickles , if desired .
+PREDID: 383
+PRED: slice
+   DOBJ: NULL
+   PARG: wedges
+     PREP: into
+      NON-INGREDIENT SPAN: wedges
+
+PREDID: 401
+PRED: top
+   DOBJ: NULL
+   PARG: lettuce tomato, pickles
+     PREP: with
+      INGREDIENT SPAN:  pickles
+         INGREDIENTS: dill pickle slices
+      INGREDIENT SPAN: lettuce tomato
+         INGREDIENTS: tomato chopped
+      INGREDIENT SPAN: lettuce 
+         INGREDIENTS: shredded lettuce
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

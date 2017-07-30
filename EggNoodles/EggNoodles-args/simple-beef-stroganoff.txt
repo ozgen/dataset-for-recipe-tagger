@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would prepare the egg noodles according to package directions and set aside .
+PREDID: 0
+PRED: prepare
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+PREDID: 51
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: In a separate large skillet over medium heat , I would saute the ground beef over medium heat for 5 to 10 minutes , or until browned .
+PREDID: 98
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a separate large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a separate large skillet over medium heat
+   PARG: medium heat for 5 to 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat for 5 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain the fat and add the soup and garlic powder .
+PREDID: 161
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+
+PREDID: 175
+PRED: add
+   DOBJ: the soup, garlic powder
+      INGREDIENT SPAN: the soup
+         INGREDIENTS: ounce fat free condensed cream mushroom soup
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+
+
+SENTID: 3
+SENT: I would simmer for 10 minutes , stirring occasionally .
+PREDID: 201
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 4
+SENT: I would remove from heat and combine the meat mixture with the egg noodles .
+PREDID: 241
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 258
+PRED: combine
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: the egg noodles
+     PREP: with
+      NON-INGREDIENT SPAN: the egg noodles
+
+
+SENTID: 5
+SENT: I would add the sour cream , stirring well , and season with salt and pepper to taste .
+PREDID: 297
+PRED: add
+   DOBJ: the sour cream , stirring well , season with salt, pepper to taste
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  stirring well 
+      NON-INGREDIENT SPAN:  pepper to taste
+
+

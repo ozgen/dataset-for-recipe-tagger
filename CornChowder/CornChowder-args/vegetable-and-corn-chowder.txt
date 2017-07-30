@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir bacon and ham until bacon is crisp , about 10 minutes .
+PREDID: 32
+PRED: cook and stir
+   DOBJ: bacon, ham
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: maplecured bacon chopped
+      INGREDIENT SPAN:  ham
+         INGREDIENTS: diced ham
+   PARG: bacon is crisp , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: bacon is crisp 
+
+
+SENTID: 2
+SENT: I would drain bacon and ham on a paper towel-lined plate .
+PREDID: 87
+PRED: drain
+   DOBJ: bacon, ham
+      NON-INGREDIENT SPAN: bacon
+      NON-INGREDIENT SPAN:  ham
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 3
+SENT: I would bring mixed vegetables , the potato , the water , and onion to a boil in a large pot ;
+PREDID: 128
+PRED: bring
+   DOBJ: mixed vegetables , the potato , the water , onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN: mixed vegetables 
+         INGREDIENTS: ounce package frozen mixed vegetables
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the potato 
+         INGREDIENTS: diced potato
+   PARG: a boil in a large pot
+     PREP: to
+      NON-INGREDIENT SPAN: a boil in a large pot
+
+
+SENTID: 4
+SENT: I would reduce heat to medium and simmer until potatoes begin to soften , 12 to 15 minutes .
+PREDID: 189
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium
+   PARG: potatoes begin to soften , 12 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes begin to soften 
+      NON-INGREDIENT SPAN:  12 to 15 minutes
+
+
+SENTID: 5
+SENT: I would stir in cream-style corn , whole kernel corn , cream of mushroom soup , the milk , the half-and-half , the bacon , and ham .
+PREDID: 257
+PRED: stir
+   DOBJ: NULL
+   PARG: cream-style corn , whole kernel corn , cream of mushroom soup , the milk , the half-and-half , the bacon , ham
+     PREP: in
+      INGREDIENT SPAN: cream-style corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  cream of mushroom soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  whole kernel corn 
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      NON-INGREDIENT SPAN:  the half-and-half 
+      NON-INGREDIENT SPAN:  the bacon 
+      NON-INGREDIENT SPAN:  ham
+
+
+SENTID: 6
+SENT: I would continue to simmer until potatoes are completely tender , about 5 minutes more .
+PREDID: 347
+PRED: continue
+   DOBJ: NULL
+   OARG: to simmer until potatoes are completely tender , about 5 minutes more
+      NON-INGREDIENT SPAN: to simmer until potatoes are completely tender 
+      NON-INGREDIENT SPAN:  about 5 minutes more
+
+

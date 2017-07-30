@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: I would grill chicken breasts , cut into small pieces and set aside .
+PREDID: 0
+PRED: grill
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: 1/2inch pieces grilled skinless boneless chicken breasts
+
+PREDID: 20
+PRED: cut
+   DOBJ: NULL
+   PARG: small pieces
+     PREP: into
+      NON-INGREDIENT SPAN: small pieces
+
+PREDID: 41
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: In a medium bowl , I would blend yogurt and curry with a whisk and stir in chicken , the mango , the cranberries , the walnuts and mozzarella .
+PREDID: 64
+PRED: blend
+   DOBJ: yogurt
+      INGREDIENT SPAN: yogurt
+         INGREDIENTS: nonfat yogurt
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+PREDID: 78
+PRED: curry
+   DOBJ: NULL
+   PARG: a whisk
+     PREP: with
+      NON-INGREDIENT SPAN: a whisk
+
+PREDID: 96
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken , the mango , the cranberries , the walnuts, mozzarella
+     PREP: in
+      INGREDIENT SPAN:  the walnuts
+         INGREDIENTS: walnuts chopped
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried sweetened cranberries
+      INGREDIENT SPAN:  mozzarella
+         INGREDIENTS: mozzarella cheese cut small cubes
+      INGREDIENT SPAN:  the mango 
+         INGREDIENTS: cubed mango
+      NON-INGREDIENT SPAN: chicken 
+
+
+SENTID: 2
+SENT: I would mix well and serve on lettuce leaves if desired .
+PREDID: 149
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 159
+PRED: serve
+   DOBJ: lettuce leaves
+      INGREDIENT SPAN: lettuce leaves
+         INGREDIENTS: Lettuce leaves
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+   OARG: on
+      NON-INGREDIENT SPAN: on
+
+

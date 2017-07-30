@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would cook the noodles according to package directions .
+PREDID: 38
+PRED: cook
+   DOBJ: the noodles
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 2
+SENT: I would brown the ground beef in a large skillet over medium high heat .
+PREDID: 81
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+
+
+SENTID: 3
+SENT: I would stir in the tomato soup , Worcestershire sauce and garlic , bring to a boil , reduce heat to low and let simmer .
+PREDID: 133
+PRED: stir
+   DOBJ: NULL
+   PARG: the tomato soup
+     PREP: in
+      INGREDIENT SPAN: the tomato soup
+         INGREDIENTS: ounce condensed tomato soup
+
+PREDID: 153
+PRED: worcestershire
+   DOBJ: sauce, garlic
+      INGREDIENT SPAN: sauce
+         INGREDIENTS: Worcestershire sauce
+      NON-INGREDIENT SPAN:  garlic
+
+PREDID: 182
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 195
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 213
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 4
+SENT: When noodles are done , stir them and the cheese into the simmering sauce until cheese is melted .
+PREDID: 242
+PRED: stir
+   DOBJ: them, the cheese
+      INGREDIENT SPAN:  the cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: them
+   PARG: the simmering sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the simmering sauce
+   PARG: cheese is melted
+     PREP: until
+      INGREDIENT SPAN: cheese is melted
+         INGREDIENTS: grated Parmesan cheese
+   OARG: when noodles are done
+      NON-INGREDIENT SPAN: when noodles are done
+
+
+SENTID: 5
+SENT: I would stir the sherry into the sauce and stir for 1 minute ,
+PREDID: 303
+PRED: stir
+   DOBJ: the sherry
+      INGREDIENT SPAN: the sherry
+         INGREDIENTS: dry sherry
+   PARG: the sauce
+     PREP: into
+      NON-INGREDIENT SPAN: the sauce
+
+PREDID: 331
+PRED: stir
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 6
+SENT: I would place in a 2 quart casserole dish and sprinkle with the Parmesan cheese to taste .
+PREDID: 346
+PRED: place
+   DOBJ: NULL
+   PARG: a 2 quart casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 2 quart casserole dish
+
+PREDID: 376
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the parmesan cheese
+   OARG: to taste
+      NON-INGREDIENT SPAN: to taste
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 413
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+

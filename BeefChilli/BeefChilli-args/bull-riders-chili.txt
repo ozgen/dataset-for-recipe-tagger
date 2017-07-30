@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: I would saute garlic , the onion and peppers in olive oil until onions are transparent .
+PREDID: 0
+PRED: saute
+   DOBJ: garlic , the onion, peppers
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: large yellow onion chopped
+      INGREDIENT SPAN:  peppers
+         INGREDIENTS: red bell peppers diced
+      NON-INGREDIENT SPAN: garlic 
+   PARG: olive oil
+     PREP: in
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: onions are transparent
+     PREP: until
+      NON-INGREDIENT SPAN: onions are transparent
+
+
+SENTID: 1
+SENT: I would add meat and brown .
+PREDID: 63
+PRED: add
+   DOBJ: meat, brown
+      NON-INGREDIENT SPAN: meat
+      NON-INGREDIENT SPAN:  brown
+
+
+SENTID: 2
+SENT: I would stir in tomatoes and once mixture is very hot , add the packages of potatoes .
+PREDID: 79
+PRED: stir
+   DOBJ: NULL
+   PARG: tomatoes
+     PREP: in
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce RO TEL Diced Tomatoes Green Chilies, ounce diced tomatoes
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce RO TEL Diced Tomatoes Green Chilies, ounce diced tomatoes
+
+PREDID: 117
+PRED: add
+   DOBJ: the packages of potatoes
+      INGREDIENT SPAN: the packages of potatoes
+         INGREDIENTS: Potatoes, ounce packages Idahoan Bacon Cheddar Chipotle Flavored Mashed
+      INGREDIENT SPAN: the packages of potatoes
+         INGREDIENTS: Potatoes, ounce packages Idahoan Bacon Cheddar Chipotle Flavored Mashed
+   PARG: mixture is very hot
+     PREP: once
+      NON-INGREDIENT SPAN: mixture is very hot
+
+
+SENTID: 3
+SENT: I would mix thoroughly , add beans and simmer for at least one hour on medium heat .
+PREDID: 142
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 156
+PRED: add
+   DOBJ: beans
+      INGREDIENT SPAN: beans
+         INGREDIENTS: ounce black beans drained rinsed
+
+PREDID: 167
+PRED: simmer
+   DOBJ: NULL
+   PARG: at least one hour on medium heat
+     PREP: for
+      NON-INGREDIENT SPAN: at least one hour on medium heat
+
+
+SENTID: 4
+SENT: I would gather up your own buckaroos and serve the chili topped with a large dollop of Fiesta Dip .
+PREDID: 203
+PRED: gather
+   DOBJ: your own buckaroos
+      NON-INGREDIENT SPAN: your own buckaroos
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 230
+PRED: serve
+   DOBJ: the chili topped with a large dollop of Fiesta Dip
+      NON-INGREDIENT SPAN: the chili topped with a large dollop of Fiesta Dip
+
+

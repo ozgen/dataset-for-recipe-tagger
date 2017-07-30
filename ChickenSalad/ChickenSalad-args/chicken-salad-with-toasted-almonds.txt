@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a large bowl , I would toss the chicken with the lemon juice .
+PREDID: 13
+PRED: toss
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: cubed cooked chicken
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: the lemon juice
+     PREP: with
+      INGREDIENT SPAN: the lemon juice
+         INGREDIENTS: fresh lemon juice
+
+
+SENTID: 1
+SENT: I would cover and chill for 2 hours .
+PREDID: 45
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+
+
+SENTID: 2
+SENT: I would mix the salad dressing , the salt , the pineapple , the grapes , the almonds , water chestnuts and lettuce into the chicken until evenly combined .
+PREDID: 68
+PRED: mix
+   DOBJ: the salad dressing , the salt , the pineapple , the grapes , the almonds , water chestnuts, lettuce
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  water chestnuts
+         INGREDIENTS: chopped water chestnuts
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: pineapple tidbits drained
+      INGREDIENT SPAN: the salad dressing 
+         INGREDIENTS: creamy salad dressing Whip
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: blanched slivered almonds toasted
+      INGREDIENT SPAN:  lettuce
+         INGREDIENTS: shredded lettuce
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: halved green grapes
+   PARG: the chicken
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken
+   PARG: evenly combined
+     PREP: until
+      NON-INGREDIENT SPAN: evenly combined
+
+
+SENTID: 3
+SENT: I would chill until serving .
+PREDID: 176
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

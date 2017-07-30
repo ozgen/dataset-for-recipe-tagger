@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: In a large stock pot , I would cook the ground beef , ground pork , and chopped onions until browned .
+PREDID: 17
+PRED: cook
+   DOBJ: the ground beef , ground pork , chopped onions
+      INGREDIENT SPAN:  chopped onions
+         INGREDIENTS: onions chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: ground pork
+   PARG: a large stock pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large stock pot
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would drain grease well .
+PREDID: 75
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: Using the same stock pot , I would stir in the chopped mushrooms , whole tomatoes , tomato paste , oregano flakes , garlic cloves , bay leaves , dried basil , parsley flakes , the salt and pepper to taste , and sugar .
+PREDID: 112
+PRED: stir
+   DOBJ: NULL
+   PARG: the chopped mushrooms , whole tomatoes , tomato paste , oregano flakes , garlic cloves , bay leaves , dried basil , parsley flakes , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  bay leaves 
+         INGREDIENTS: bay leaves
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  parsley flakes 
+         INGREDIENTS: dried parsley
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  garlic cloves 
+         INGREDIENTS: cloves crushed garlic
+      INGREDIENT SPAN:  oregano flakes 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  dried basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: the chopped mushrooms 
+         INGREDIENTS: mushrooms chopped
+      NON-INGREDIENT SPAN:  whole tomatoes 
+   PARG: taste , sugar
+     PREP: to
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN: taste 
+   OARG: using the same stock pot
+      NON-INGREDIENT SPAN: using the same stock pot
+
+
+SENTID: 3
+SENT: I would simmer over low heat for one hour .
+PREDID: 256
+PRED: simmer
+   DOBJ: low heat for one hour
+      NON-INGREDIENT SPAN: low heat for one hour
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 4
+SENT: In a large pot , I would cook lasagna noodles in boiling salted water until al dente .
+PREDID: 296
+PRED: cook
+   DOBJ: lasagna noodles
+      INGREDIENT SPAN: lasagna noodles
+         INGREDIENTS: ounce package lasagna noodles
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: boiling salted water until al dente
+     PREP: in
+      NON-INGREDIENT SPAN: boiling salted water until al dente
+
+
+SENTID: 5
+SENT: I would rinse with cool water , and drain well .
+PREDID: 347
+PRED: rinse
+   DOBJ: NULL
+   PARG: cool water
+     PREP: with
+      NON-INGREDIENT SPAN: cool water
+
+PREDID: 369
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: In a separate bowl , I would combine cottage or ricotta cheese , the eggs , and grated Parmesan cheese .
+PREDID: 395
+PRED: combine
+   DOBJ: cottage or ricotta cheese , the eggs , grated Parmesan cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: cottage or ricotta cheese 
+         INGREDIENTS: ounce packages cottage cheese
+      INGREDIENT SPAN:  grated Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 7
+SENT: I would mix grated Colby and mozzarella cheeses together in a medium bowl .
+PREDID: 454
+PRED: mix
+   DOBJ: grated Colby, mozzarella cheeses
+      INGREDIENT SPAN: grated Colby
+         INGREDIENTS: shredded Colby cheese
+      INGREDIENT SPAN:  mozzarella cheeses
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: In each 13x9 inch casserole dish layer 1/2 cup meat sauce ,
+PREDID: 532
+PRED: casserole dish
+   DOBJ: 1/2 cup meat sauce
+      NON-INGREDIENT SPAN: 1/2 cup meat sauce
+   PARG: each 13x9 inch
+     PREP: in
+      NON-INGREDIENT SPAN: each 13x9 inch
+   OARG: layer
+      NON-INGREDIENT SPAN: layer
+
+
+SENTID: 9
+SENT: I would noodles , Parmesan-egg mixture , and grated Colby-mozzarella cheese .
+
+SENTID: 10
+SENT: I would repeat until all ingredients are used up .
+PREDID: 618
+PRED: repeat
+   DOBJ: NULL
+   PARG: all ingredients are used up
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are used up
+
+
+SENTID: 11
+SENT: I would bake in a preheated 375 degree F -LRB- 190 degree C -RRB- oven for one hour and 45 minutes .
+PREDID: 653
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 375 degree f -lrb- 190 degree c -rrb- oven for one hour, 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  45 minutes
+      NON-INGREDIENT SPAN: a preheated 375 degree f -lrb- 190 degree c -rrb- oven for one hour
+
+
+SENTID: 12
+SENT: I would let stand 15 minutes before serving .
+PREDID: 718
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 15 minutes
+      NON-INGREDIENT SPAN: 15 minutes
+
+

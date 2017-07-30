@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , I would combine the ground beef and the onion and saute for 10 minutes , or until meat is browned and onion is tender .
+PREDID: 31
+PRED: combine
+   DOBJ: the ground beef, the onion
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+PREDID: 65
+PRED: saute
+   DOBJ: NULL
+   PARG: 10 minutes , or until meat is browned
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes 
+      NON-INGREDIENT SPAN:  or until meat is browned
+
+
+SENTID: 1
+SENT: I would drain grease , if desired .
+PREDID: 120
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 2
+SENT: I would add the ground black pepper , garlic salt , tomato sauce , salsa , chili seasoning mix and kidney beans .
+PREDID: 142
+PRED: add
+   DOBJ: the ground black pepper , garlic salt , tomato sauce , salsa , chili seasoning mix, kidney beans
+      INGREDIENT SPAN:  kidney beans
+         INGREDIENTS: (15 ounce) can dark red kidney beans
+      INGREDIENT SPAN: the ground black pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  chili seasoning mix
+         INGREDIENTS: chili seasoning mix
+      INGREDIENT SPAN:  garlic salt 
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  salsa 
+         INGREDIENTS: (8 ounce) jar salsa
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: tomato sauce
+
+
+SENTID: 3
+SENT: Mix well , reduce heat to low and simmer for at least an hour .
+PREDID: 235
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer for at least an hour
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer for at least an hour
+      NON-INGREDIENT SPAN: low
+
+

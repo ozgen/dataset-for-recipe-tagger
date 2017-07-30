@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease the bottom and sides of 9x13 inch baking dish .
+PREDID: 41
+PRED: grease
+   DOBJ: the bottom, sides of 9x13 inch baking dish
+      NON-INGREDIENT SPAN: the bottom
+      NON-INGREDIENT SPAN:  sides of 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a rolling boil .
+PREDID: 85
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 3
+SENT: I would cook the lasagna noodles at a boil until tender yet firm to the bite , about 10 minutes ;
+PREDID: 134
+PRED: cook
+   DOBJ: the lasagna noodles
+      INGREDIENT SPAN: the lasagna noodles
+         INGREDIENTS: lasagna noodles
+   PARG: a boil until tender yet firm to the bite , about 10 minutes
+     PREP: at
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: a boil until tender yet firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain and set aside .
+PREDID: 205
+PRED: drain and set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would cook and stir ground beef , the onion , the mushrooms , and garlic in a skillet over medium heat until the beef is completely browned , about 10 minutes .
+PREDID: 222
+PRED: cook and stir
+   DOBJ: ground beef , the onion , the mushrooms , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: fresh mushrooms sliced
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: the beef is completely browned , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the beef is completely browned 
+
+
+SENTID: 6
+SENT: I would stir canned tomatoes into ground beef ;
+PREDID: 340
+PRED: stir
+   DOBJ: canned tomatoes
+      INGREDIENT SPAN: canned tomatoes
+         INGREDIENTS: ounce Italianflavored crushed tomatoes
+   PARG: ground beef
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef
+
+
+SENTID: 7
+SENT: I would simmer until sauce has formed , 3 to 4 minutes .
+PREDID: 373
+PRED: simmer
+   DOBJ: NULL
+   PARG: sauce has formed , 3 to 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  3 to 4 minutes
+      NON-INGREDIENT SPAN: sauce has formed 
+
+
+SENTID: 8
+SENT: I would pour about one-fourth of the sauce into the bottom of the prepared baking dish .
+PREDID: 411
+PRED: pour
+   DOBJ: about one-fourth of the sauce
+      NON-INGREDIENT SPAN: about one-fourth of the sauce
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+
+SENTID: 9
+SENT: I would layer noodles on top of sauce .
+PREDID: 477
+PRED: layer
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: top of sauce
+     PREP: on
+      NON-INGREDIENT SPAN: top of sauce
+
+
+SENTID: 10
+SENT: I would spread a thin layer of sauce on top of noodles .
+PREDID: 502
+PRED: spread
+   DOBJ: a thin layer of sauce
+      NON-INGREDIENT SPAN: a thin layer of sauce
+   PARG: top of noodles
+     PREP: on
+      NON-INGREDIENT SPAN: top of noodles
+
+
+SENTID: 11
+SENT: I would place a layer of eggplant slices on top of noodle and sauce layer .
+PREDID: 540
+PRED: place
+   DOBJ: a layer of eggplant slices
+      INGREDIENT SPAN: a layer of eggplant slices
+         INGREDIENTS: eggplant peeled sliced
+   PARG: top of noodle, sauce layer
+     PREP: on
+      NON-INGREDIENT SPAN:  sauce layer
+      NON-INGREDIENT SPAN: top of noodle
+
+
+SENTID: 12
+SENT: I would sprinkle about one-fourth of the cheese on top of eggplant slices .
+PREDID: 594
+PRED: sprinkle
+   DOBJ: about one-fourth of the cheese
+      INGREDIENT SPAN: about one-fourth of the cheese
+         INGREDIENTS: mozzarella cheddar cheese blend
+   PARG: top of eggplant slices
+     PREP: on
+      NON-INGREDIENT SPAN: top of eggplant slices
+
+
+SENTID: 13
+SENT: I would repeat the layering with remaining ingredients , until ending with a layer of sauce topped with remaining cheese .
+PREDID: 650
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: remaining ingredients
+     PREP: with
+      NON-INGREDIENT SPAN: remaining ingredients
+   PARG: ending with a layer of sauce topped with remaining cheese
+     PREP: until
+      NON-INGREDIENT SPAN: ending with a layer of sauce topped with remaining cheese
+
+
+SENTID: 14
+SENT: I would bake in preheated oven until cheese is bubbly and brown on top , about 40 minutes .
+PREDID: 743
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: cheese is bubbly, brown on top , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  brown on top 
+      NON-INGREDIENT SPAN: cheese is bubbly
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+

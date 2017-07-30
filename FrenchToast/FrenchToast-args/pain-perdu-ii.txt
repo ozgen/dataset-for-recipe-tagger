@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a large bowl , I would combine eggs , the sugar , the milk , the brandy and orange zest .
+PREDID: 13
+PRED: combine
+   DOBJ: eggs , the sugar , the milk , the brandy, orange zest
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  orange zest
+      NON-INGREDIENT SPAN:  the brandy
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would beat until thick and foamy .
+PREDID: 56
+PRED: beat
+   DOBJ: NULL
+   PARG: thick, foamy
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+      NON-INGREDIENT SPAN:  foamy
+
+
+SENTID: 2
+SENT: I would pour mixture into a shallow pan .
+PREDID: 79
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a shallow pan
+     PREP: into
+      NON-INGREDIENT SPAN: a shallow pan
+
+
+SENTID: 3
+SENT: I would soak bread slices in the mixture for 1 to 2 minutes on each side until they are thoroughly soaked through .
+PREDID: 106
+PRED: soak
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: slices white bread
+   PARG: the mixture for 1 to 2 minutes on each side
+     PREP: in
+      NON-INGREDIENT SPAN: the mixture for 1 to 2 minutes on each side
+   PARG: they are thoroughly soaked through
+     PREP: until
+      NON-INGREDIENT SPAN: they are thoroughly soaked through
+
+
+SENTID: 4
+SENT: I would heat a griddle or frying pan over medium heat .
+PREDID: 193
+PRED: heat
+   DOBJ: a griddle or frying pan over medium heat
+      NON-INGREDIENT SPAN: a griddle or frying pan over medium heat
+
+
+SENTID: 5
+SENT: I would lightly spray griddle with cooking spray .
+PREDID: 238
+PRED: spray
+   DOBJ: griddle
+      NON-INGREDIENT SPAN: griddle
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 6
+SENT: I would cook the bread slices 1 to 2 minutes on each side , until golden brown .
+PREDID: 267
+PRED: cook
+   DOBJ: the bread slices
+      NON-INGREDIENT SPAN: the bread slices
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+   OARG: 1 to 2 minutes
+      NON-INGREDIENT SPAN: 1 to 2 minutes
+
+
+SENTID: 7
+SENT: I would serve hot .
+PREDID: 324
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

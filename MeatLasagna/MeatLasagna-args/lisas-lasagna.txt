@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: I would brown meat with onions and bell peppers , and season to taste .
+PREDID: 0
+PRED: brown
+   DOBJ: meat with onions, bell peppers , season to taste
+      INGREDIENT SPAN:  bell peppers 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  season to taste
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: meat with onions
+         INGREDIENTS: onion chopped
+
+
+SENTID: 1
+SENT: I would add tomato paste and water .
+PREDID: 51
+PRED: add
+   DOBJ: tomato paste, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: tomato paste
+         INGREDIENTS: ounce tomato paste
+
+
+SENTID: 2
+SENT: I would let simmer .
+PREDID: 74
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+
+
+SENTID: 3
+SENT: In a mixing bowl , I would mix ricotta cheese with beaten egg .
+PREDID: 98
+PRED: mix
+   DOBJ: ricotta cheese
+      INGREDIENT SPAN: ricotta cheese
+         INGREDIENTS: pint partskim ricotta cheese
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: beaten egg
+     PREP: with
+      INGREDIENT SPAN: beaten egg
+         INGREDIENTS: egg
+
+
+SENTID: 4
+SENT: I would set aside .
+PREDID: 128
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would preheat oven to 370 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 137
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 370 degrees f -lrb- 190 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 370 degrees f -lrb- 190 degrees c
+
+
+SENTID: 6
+SENT: I would butter a 9 x 13 inch baking dish .
+PREDID: 175
+PRED: butter
+   DOBJ: a 9 x 13 inch baking dish
+      NON-INGREDIENT SPAN: a 9 x 13 inch baking dish
+
+
+SENTID: 7
+SENT: I would begin the layering all ingredients beginning with a few spoonfuls of tomato sauce .
+PREDID: 201
+PRED: begin
+   DOBJ: NULL
+   OARG: the layering all ingredients beginning with a few spoonfuls of tomato sauce
+      NON-INGREDIENT SPAN: the layering all ingredients beginning with a few spoonfuls of tomato sauce
+
+
+SENTID: 8
+SENT: I would follow with noodles ,
+PREDID: 268
+PRED: follow
+   DOBJ: NULL
+   PARG: noodles
+     PREP: with
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: lasagne noodles cooked drained
+
+
+SENTID: 9
+SENT: I would ricotta mixture , and shredded mozzarella .
+PREDID: 286
+PRED: ricotta
+   DOBJ: mixture , shredded mozzarella
+      INGREDIENT SPAN:  shredded mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN: mixture 
+
+
+SENTID: 10
+SENT: I would repeat until dish is filled .
+PREDID: 323
+PRED: repeat
+   DOBJ: NULL
+   PARG: dish is filled
+     PREP: until
+      NON-INGREDIENT SPAN: dish is filled
+
+
+SENTID: 11
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- about 35 to 45 minutes , until bubbly .
+PREDID: 347
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 35 to 45 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 35 to 45 minutes
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+
+SENTID: 12
+SENT: I would let the cool a couple of minutes before cutting .
+PREDID: 408
+PRED: let
+   DOBJ: NULL
+   PARG: the cool a couple of minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the cool a couple of minutes
+   PARG: cutting
+     PREP: before
+      NON-INGREDIENT SPAN: cutting
+
+

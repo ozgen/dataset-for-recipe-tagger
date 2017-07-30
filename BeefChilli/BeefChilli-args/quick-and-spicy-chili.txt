@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would place the beef in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN: the 
+         INGREDIENTS: 
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 40
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 1
+SENT: I would drain grease .
+PREDID: 61
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 2
+SENT: In a large pot , I would mix the beans , the corn , tomato sauce , tomato paste , and water .
+PREDID: 85
+PRED: mix
+   DOBJ: the beans , the corn , tomato sauce , tomato paste , water
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the beans 
+         INGREDIENTS: ounce kidney beans drained rinsed
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+
+
+SENTID: 3
+SENT: I would bring to a boil , and reduce heat to low .
+PREDID: 135
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 151
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 4
+SENT: In a food processor , I would finely chop the jalapenos , the habanero , the onion , and garlic .
+PREDID: 190
+PRED: chop
+   DOBJ: the jalapenos , the habanero , the onion , garlic
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: red onion
+      INGREDIENT SPAN:  the habanero 
+         INGREDIENTS: habanero pepper
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: large cloves garlic
+      NON-INGREDIENT SPAN: the jalapenos 
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+
+SENTID: 5
+SENT: I would mix into the pot .
+PREDID: 232
+PRED: mix
+   DOBJ: NULL
+   PARG: the pot
+     PREP: into
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 6
+SENT: I would mix in the cooked beef .
+PREDID: 246
+PRED: mix
+   DOBJ: NULL
+   PARG: the cooked beef
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked beef
+
+
+SENTID: 7
+SENT: I would stir in masa flour .
+PREDID: 265
+PRED: stir
+   DOBJ: NULL
+   PARG: masa flour
+     PREP: in
+      NON-INGREDIENT SPAN: masa flour
+
+
+SENTID: 8
+SENT: I would season with cayenne pepper , chili powder , the salt , black pepper , and sugar .
+PREDID: 281
+PRED: season
+   DOBJ: NULL
+   PARG: cayenne pepper , chili powder , the salt , black pepper , sugar
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: cayenne pepper 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: jalapeno peppers, ground black pepper
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: jalapeno peppers, ground black pepper
+
+
+SENTID: 9
+SENT: I would cook 45 minutes to 1 hour , stirring occasionally .
+PREDID: 343
+PRED: cook
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+   PARG: 1 hour
+     PREP: to
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together the pumpkin , dry pudding mix , dry milk powder and water .
+PREDID: 13
+PRED: whisk
+   DOBJ: the pumpkin , dry pudding mix , dry milk powder, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  dry 
+         INGREDIENTS: nonfat dry milk powder
+      INGREDIENT SPAN: the pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  dry pudding mix 
+         INGREDIENTS: ounce package instant sugar-free butterscotch pudding mix
+      NON-INGREDIENT SPAN:  dry milk powder
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would blend in 1/4 cup whipped topping and pumpkin pie spice .
+PREDID: 73
+PRED: blend
+   DOBJ: NULL
+   PARG: 1/4 cup whipped topping, pumpkin pie spice
+     PREP: in
+      INGREDIENT SPAN: 1/4 cup whipped topping
+         INGREDIENTS: frozen whipped topping
+      INGREDIENT SPAN:  pumpkin pie spice
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 2
+SENT: I would pour the filling into pie crust , top with remaining whipped topping , sprinkle with pecans and toffee chips .
+PREDID: 119
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie crust
+     PREP: into
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: inch graham cracker crust
+
+PREDID: 146
+PRED: top
+   DOBJ: NULL
+   PARG: remaining whipped topping
+     PREP: with
+      NON-INGREDIENT SPAN: remaining whipped topping
+
+PREDID: 177
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+PREDID: 198
+PRED: toffee
+   DOBJ: chips
+      NON-INGREDIENT SPAN: chips
+
+
+SENTID: 3
+SENT: I would refrigerate for 1 hour .
+PREDID: 207
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

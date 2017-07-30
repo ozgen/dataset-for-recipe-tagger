@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: I would heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would crumble ground beef into the hot skillet ;
+PREDID: 37
+PRED: crumble
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: the hot skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the hot skillet
+
+
+SENTID: 2
+SENT: I would season with salt and pepper .
+PREDID: 72
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would cook and stir beef until completely browned , 7 to 10 minutes .
+PREDID: 96
+PRED: cook and stir
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: beef broth
+   PARG: completely browned , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: completely browned 
+
+
+SENTID: 4
+SENT: I would drain and discard any excess grease .
+PREDID: 147
+PRED: drain and discard
+   DOBJ: any excess grease
+      NON-INGREDIENT SPAN: any excess grease
+
+
+SENTID: 5
+SENT: I would transfer beef to a bowl .
+PREDID: 178
+PRED: transfer
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 6
+SENT: I would melt butter in the skillet over medium heat .
+PREDID: 198
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: the skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet over medium heat
+
+
+SENTID: 7
+SENT: I would cook and stir onion and garlic in hot butter until softened , 3 to 5 minutes .
+PREDID: 235
+PRED: cook and stir
+   DOBJ: onion, garlic in hot butter
+      INGREDIENT SPAN:  garlic in hot butter
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion diced
+   PARG: softened , 3 to 5 minutes
+     PREP: until
+      INGREDIENT SPAN: softened 
+         INGREDIENTS: light cream cheese softened
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 8
+SENT: I would stir flour into onion mixture ;
+PREDID: 297
+PRED: stir
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: onion mixture
+     PREP: into
+      NON-INGREDIENT SPAN: onion mixture
+
+
+SENTID: 9
+SENT: I would cook and stir until flour is browned , about 1 minute .
+PREDID: 323
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: flour is browned , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: flour is browned 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 10
+SENT: I would return beef to the skillet ;
+PREDID: 367
+PRED: return
+   DOBJ: beef
+      NON-INGREDIENT SPAN: beef
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 11
+SENT: I would stir .
+PREDID: 390
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 12
+SENT: I would pour beef broth over the mixture in the skillet ;
+PREDID: 395
+PRED: pour
+   DOBJ: beef broth
+      NON-INGREDIENT SPAN: beef broth
+   PARG: the mixture in the skillet
+     PREP: over
+      NON-INGREDIENT SPAN: the mixture in the skillet
+
+
+SENTID: 13
+SENT: I would bring to a boil .
+PREDID: 435
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 14
+SENT: I would stir Worcestershire sauce and mustard through the mixture .
+PREDID: 448
+PRED: stir
+   DOBJ: Worcestershire sauce, mustard
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN: Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+   PARG: the mixture
+     PREP: through
+      NON-INGREDIENT SPAN: the mixture
+
+
+SENTID: 15
+SENT: I would place a cover on the skillet , reduce heat to medium-low , and cook mixture at a simmer until the consistency is gravy-like , about 1 hour .
+PREDID: 499
+PRED: place
+   DOBJ: a cover
+      NON-INGREDIENT SPAN: a cover
+   PARG: the skillet
+     PREP: on
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 523
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 549
+PRED: cook
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a simmer
+     PREP: at
+      NON-INGREDIENT SPAN: a simmer
+   PARG: the consistency is gravy-like , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: the consistency is gravy-like 
+
+
+SENTID: 16
+SENT: I would stir sour cream and cream cheese through the beef mixture to serve .
+PREDID: 612
+PRED: stir
+   DOBJ: sour cream, cream cheese through the beef mixture
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: light sour cream
+      NON-INGREDIENT SPAN:  cream cheese through the beef mixture
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

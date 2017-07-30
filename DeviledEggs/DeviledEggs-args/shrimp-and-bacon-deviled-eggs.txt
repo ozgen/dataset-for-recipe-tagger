@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 23
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 1
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 38
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 51
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 69
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 2
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 104
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 127
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 3
+SENT: I would place bacon in a large skillet ;
+PREDID: 161
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 4
+SENT: I would cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 187
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 5
+SENT: I would drain bacon on paper towels ;
+PREDID: 265
+PRED: drain
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 6
+SENT: I would crumble bacon when cool enough to handle .
+PREDID: 289
+PRED: crumble
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   OARG: when cool enough
+      NON-INGREDIENT SPAN: when cool enough
+   OARG: to handle
+      NON-INGREDIENT SPAN: to handle
+
+
+SENTID: 7
+SENT: I would cut each egg in half lengthwise ;
+PREDID: 324
+PRED: cut
+   DOBJ: each egg in half lengthwise
+      NON-INGREDIENT SPAN: each egg in half lengthwise
+
+
+SENTID: 8
+SENT: I would place half the egg yolks in a bowl , reserving remaining yolks for another use .
+PREDID: 351
+PRED: place
+   DOBJ: half the egg yolks in a bowl
+      NON-INGREDIENT SPAN: half the egg yolks in a bowl
+   OARG: reserving remaining yolks for another use
+      NON-INGREDIENT SPAN: reserving remaining yolks for another use
+
+
+SENTID: 9
+SENT: I would mash yolks with a fork ;
+PREDID: 416
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 10
+SENT: I would stir in potato flakes , the mayonnaise , the chives , Dijon mustard , seafood seasoning , black pepper , and red pepper until smooth .
+PREDID: 435
+PRED: stir
+   DOBJ: NULL
+   PARG: potato flakes , the mayonnaise , the chives , dijon mustard , seafood seasoning , black pepper , red pepper
+     PREP: in
+      INGREDIENT SPAN:  red pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: fatfree mayonnaise
+      INGREDIENT SPAN:  dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  seafood seasoning 
+         INGREDIENTS: seafood seasoning such Old Bay
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN: potato flakes 
+         INGREDIENTS: instant potato flakes
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 11
+SENT: I would stir shrimp , the parsley , and cilantro into yolk mixture .
+PREDID: 538
+PRED: stir
+   DOBJ: shrimp , the parsley , cilantro
+      INGREDIENT SPAN: shrimp 
+         INGREDIENTS: cooked shrimp peeled deveined chopped
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+   PARG: yolk mixture
+     PREP: into
+      NON-INGREDIENT SPAN: yolk mixture
+
+
+SENTID: 12
+SENT: I would arrange egg whites cut-side-up on a serving platter .
+PREDID: 584
+PRED: arrange
+   DOBJ: egg whites cut-side-up
+      NON-INGREDIENT SPAN: egg whites cut-side-up
+   PARG: a serving platter
+     PREP: on
+      NON-INGREDIENT SPAN: a serving platter
+
+
+SENTID: 13
+SENT: I would spoon about 1 rounded tablespoon yolk mixture into each egg white half ;
+PREDID: 629
+PRED: spoon
+   DOBJ: about 1 rounded tablespoon yolk mixture into each egg white half
+      NON-INGREDIENT SPAN: about 1 rounded tablespoon yolk mixture into each egg white half
+
+
+SENTID: 14
+SENT: I would sprinkle with crumbled bacon .
+PREDID: 689
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crumbled bacon
+     PREP: with
+      NON-INGREDIENT SPAN: crumbled bacon
+
+

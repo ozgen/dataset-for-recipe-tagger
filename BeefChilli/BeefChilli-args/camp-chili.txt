@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: In a large pot over medium high heat , I would saute the ground beef for 5 minutes .
+PREDID: 30
+PRED: saute
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large pot over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium high heat
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 1
+SENT: I would add the onions and garlic and saute for 5 to 10 more minutes .
+PREDID: 60
+PRED: add
+   DOBJ: the onions
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: onions chopped
+   OARG: garlic, saute for 5 to 10 more minutes
+      NON-INGREDIENT SPAN: garlic
+      NON-INGREDIENT SPAN:  saute for 5 to 10 more minutes
+
+
+SENTID: 2
+SENT: I would add the pork and beans , kidney beans , the tomatoes , chili powder , the beer and season with salt and pepper to taste .
+PREDID: 109
+PRED: add
+   DOBJ: the pork, beans , kidney beans , the tomatoes , chili powder , the beer, season
+      INGREDIENT SPAN:  the beer
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the pork
+         INGREDIENTS: ounce pork beans
+      INGREDIENT SPAN:  beans 
+         INGREDIENTS: ounce kidney beans
+      NON-INGREDIENT SPAN:  kidney beans 
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would stir thoroughly and reduce heat to medium low .
+PREDID: 199
+PRED: stir
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 216
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+
+SENTID: 4
+SENT: I would cover and simmer for 1 to 1?1/2 hours , stirring occasionally .
+PREDID: 238
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 1 to 1?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1 to 1?1/2 hours
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 5
+SENT: I would cook the rice according to package directions .
+PREDID: 290
+PRED: cook
+   DOBJ: the rice
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: uncooked rice
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 6
+SENT: I would serve the chili over the rice .
+PREDID: 330
+PRED: serve
+   DOBJ: the chili over the rice
+      NON-INGREDIENT SPAN: the chili over the rice
+
+

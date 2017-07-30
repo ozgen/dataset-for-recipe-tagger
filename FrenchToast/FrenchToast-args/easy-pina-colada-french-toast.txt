@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: I would whisk together the eggs , the milk , and pina colada mix in a bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: the eggs , the milk , pina colada mix in a bowl
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  pina colada mix in a bowl
+         INGREDIENTS: bottled pina colada drink mix
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would heat a skillet over medium heat ;
+PREDID: 50
+PRED: heat
+   DOBJ: a skillet over medium heat
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 2
+SENT: I would melt butter in the skillet until the foam disappears .
+PREDID: 77
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter needed
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the foam disappears
+     PREP: until
+      NON-INGREDIENT SPAN: the foam disappears
+
+
+SENTID: 3
+SENT: I would soak the bread slices in the egg mixture , turning the slices over a couple of times .
+PREDID: 122
+PRED: soak
+   DOBJ: the bread slices
+      INGREDIENT SPAN: the bread slices
+         INGREDIENTS: inch thick slices French bread
+   PARG: the egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the egg mixture
+   OARG: turning the slices over a couple of times
+      NON-INGREDIENT SPAN: turning the slices over a couple of times
+
+
+SENTID: 4
+SENT: I would gently lay the soaked bread slices into the hot skillet 2 at a time and pan-fry until the french toast is golden brown , about 2 minutes per side .
+PREDID: 197
+PRED: lay
+   DOBJ: the soaked bread slices
+      NON-INGREDIENT SPAN: the soaked bread slices
+   PARG: the hot skillet 2 at a time, pan-fry
+     PREP: into
+      NON-INGREDIENT SPAN:  pan-fry
+      NON-INGREDIENT SPAN: the hot skillet 2 at a time
+   PARG: the french toast is golden brown , about 2 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN: the french toast is golden brown 
+      NON-INGREDIENT SPAN:  about 2 minutes per side
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 5
+SENT: I would transfer cooked french toast slices to a warmed platter while you finish cooking .
+PREDID: 309
+PRED: transfer
+   DOBJ: cooked french toast slices
+      NON-INGREDIENT SPAN: cooked french toast slices
+   PARG: a warmed platter
+     PREP: to
+      NON-INGREDIENT SPAN: a warmed platter
+   PARG: you finish cooking
+     PREP: while
+      NON-INGREDIENT SPAN: you finish cooking
+
+
+SENTID: 6
+SENT: I would top each 2-slice serving with several slices of banana to serve .
+PREDID: 378
+PRED: top
+   DOBJ: each 2-slice serving with several slices of banana to serve
+      INGREDIENT SPAN: each 2-slice serving with several slices of banana to serve
+         INGREDIENTS: bananas sliced
+
+

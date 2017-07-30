@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: I would combine egg yolks , the mayonnaise , the mustard , and hot sauce in a food processor ;
+PREDID: 0
+PRED: combine
+   DOBJ: egg yolks , the mayonnaise , the mustard , hot sauce in a food processor
+      INGREDIENT SPAN:  hot sauce in a food processor
+         INGREDIENTS: hot yellow pepper sauce
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: egg yolks 
+         INGREDIENTS: hardboiled eggs halved lengthwise yolks whites separated
+
+
+SENTID: 1
+SENT: I would puree until smooth .
+PREDID: 63
+PRED: puree
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would spoon egg yolk mixture into a pastry bag with a decorative tip ;
+PREDID: 80
+PRED: spoon
+   DOBJ: egg yolk mixture
+      NON-INGREDIENT SPAN: egg yolk mixture
+   PARG: a pastry bag with a decorative tip
+     PREP: into
+      NON-INGREDIENT SPAN: a pastry bag with a decorative tip
+
+
+SENTID: 3
+SENT: I would pipe the filling into the cavity of the egg white halves .
+PREDID: 132
+PRED: pipe
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the cavity of the egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: the cavity of the egg white halves
+
+

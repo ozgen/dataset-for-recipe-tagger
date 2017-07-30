@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would place the potatoes in a large pan of water and boil over medium-low heat until tender , about 12 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled chopped
+   PARG: a large pan of water, boil
+     PREP: in
+      NON-INGREDIENT SPAN:  boil
+      NON-INGREDIENT SPAN: a large pan of water
+   PARG: medium-low heat until tender , about 12 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium-low heat until tender 
+      NON-INGREDIENT SPAN:  about 12 minutes
+
+
+SENTID: 1
+SENT: I would drain the potatoes , and place in the refrigerator to cool .
+PREDID: 86
+PRED: drain
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 106
+PRED: place
+   DOBJ: NULL
+   PARG: the refrigerator to cool
+     PREP: in
+      NON-INGREDIENT SPAN: the refrigerator to cool
+
+
+SENTID: 2
+SENT: I would place the eggs in a saucepan of cold water over medium heat , and bring to a full boil .
+PREDID: 135
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan of cold water over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan of cold water over medium heat
+
+PREDID: 187
+PRED: bring
+   DOBJ: NULL
+   PARG: a full boil
+     PREP: to
+      NON-INGREDIENT SPAN: a full boil
+
+
+SENTID: 3
+SENT: I would turn off the heat , cover the pan , and allow the eggs to sit in the hot water for about 15 minutes .
+PREDID: 204
+PRED: turn
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 219
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+
+PREDID: 234
+PRED: allow
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   OARG: to sit in the hot water for about 15 minutes
+      NON-INGREDIENT SPAN: to sit in the hot water for about 15 minutes
+
+
+SENTID: 4
+SENT: I would cool the eggs thoroughly under cold running water and shell them .
+PREDID: 282
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 327
+PRED: shell
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+
+
+SENTID: 5
+SENT: I would chop the cooled eggs and place them in a large salad bowl .
+PREDID: 337
+PRED: chop
+   DOBJ: the cooled eggs
+      NON-INGREDIENT SPAN: the cooled eggs
+
+PREDID: 357
+PRED: place
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: a large salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 6
+SENT: I would stir the onion , sweet pickles , and mayonnaise into the eggs , and let the mixture chill in the refrigerator at least l/2 hour to blend the flavors .
+PREDID: 384
+PRED: stir
+   DOBJ: the onion , sweet pickles , mayonnaise
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  sweet pickles 
+         INGREDIENTS: ounce jar sweet pickles drained chopped
+   PARG: the eggs
+     PREP: into
+      NON-INGREDIENT SPAN: the eggs
+
+PREDID: 438
+PRED: let
+   DOBJ: l/2 hour
+      NON-INGREDIENT SPAN: l/2 hour
+   OARG: the mixture chill in the refrigerator at least
+      NON-INGREDIENT SPAN: the mixture chill in the refrigerator at least
+   OARG: to blend the flavors
+      NON-INGREDIENT SPAN: to blend the flavors
+
+
+SENTID: 7
+SENT: I would mix in the chilled chopped potatoes , and refrigerate for at least 1/2 hour .
+PREDID: 505
+PRED: mix
+   DOBJ: NULL
+   PARG: the chilled chopped potatoes
+     PREP: in
+      NON-INGREDIENT SPAN: the chilled chopped potatoes
+
+PREDID: 539
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 1/2 hour
+     PREP: for
+      NON-INGREDIENT SPAN: at least 1/2 hour
+
+
+SENTID: 8
+SENT: I would serve cold .
+PREDID: 568
+PRED: serve
+   DOBJ: NULL
+   OARG: cold
+      NON-INGREDIENT SPAN: cold
+
+

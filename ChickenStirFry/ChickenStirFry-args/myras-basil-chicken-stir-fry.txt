@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would combine soy sauce , the water , and sugar in a bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: soy sauce , the water , sugar in a bowl
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN: soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  sugar in a bowl
+         INGREDIENTS: white sugar
+
+
+SENTID: 1
+SENT: I would marinate chicken in soy sauce mixture for 30 minutes .
+PREDID: 38
+PRED: marinate
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut small
+   PARG: soy sauce mixture for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: soy sauce mixture for 30 minutes
+
+
+SENTID: 2
+SENT: I would heat 1 tablespoon oil in a large skillet or wok over medium heat .
+PREDID: 83
+PRED: heat
+   DOBJ: 1 tablespoon oil
+      INGREDIENT SPAN: 1 tablespoon oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium heat
+
+
+SENTID: 3
+SENT: I would cook and stir green onions in oil for 1 minute .
+PREDID: 136
+PRED: cook and stir
+   DOBJ: green onions in oil
+      INGREDIENT SPAN: green onions in oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN: green onions in 
+         INGREDIENTS: green onions sliced
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 4
+SENT: I would add garlic and cook and stir for 1 minute .
+PREDID: 174
+PRED: add
+   DOBJ: NULL
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+
+PREDID: 186
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 5
+SENT: I would transfer to a small bowl .
+PREDID: 208
+PRED: transfer
+   DOBJ: NULL
+   PARG: a small bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 6
+SENT: I would pour 3 tablespoons oil into the skillet .
+PREDID: 229
+PRED: pour
+   DOBJ: 3 tablespoons oil
+      NON-INGREDIENT SPAN: 3 tablespoons oil
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 7
+SENT: I would cook and stir chicken and marinade until chicken is no longer pink in the center and juices run clear , about 5 minutes .
+PREDID: 263
+PRED: cook and stir
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 284
+PRED: marinade
+   DOBJ: NULL
+   PARG: chicken is no longer pink in the center, juices run clear , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is no longer pink in the center
+      NON-INGREDIENT SPAN:  juices run clear 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 8
+SENT: I would add spinach leaves to chicken .
+PREDID: 361
+PRED: add
+   DOBJ: spinach leaves
+      INGREDIENT SPAN: spinach leaves
+         INGREDIENTS: ounce bags fresh baby spinach leaves
+   PARG: chicken
+     PREP: to
+      NON-INGREDIENT SPAN: chicken
+
+
+SENTID: 9
+SENT: I would cover for 4 minutes stirring occasionally .
+PREDID: 387
+PRED: cover
+   DOBJ: NULL
+   PARG: 4 minutes stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN: 4 minutes stirring occasionally
+
+
+SENTID: 10
+SENT: I would stir green onion mixture into chicken and spinach ;
+PREDID: 424
+PRED: stir
+   DOBJ: green onion mixture
+      NON-INGREDIENT SPAN: green onion mixture
+   PARG: chicken, spinach
+     PREP: into
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  spinach
+
+
+SENTID: 11
+SENT: I would cook to reheat onions , 1 to 2 minutes .
+PREDID: 467
+PRED: cook
+   DOBJ: NULL
+   OARG: to reheat onions , 1 to 2 minutes
+      NON-INGREDIENT SPAN: to reheat onions 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 12
+SENT: I would stir in basil and cook until heated , 1 to 2 minutes .
+PREDID: 498
+PRED: stir
+   DOBJ: NULL
+   PARG: basil, cook
+     PREP: in
+      INGREDIENT SPAN: basil
+         INGREDIENTS: sliced fresh basil
+      NON-INGREDIENT SPAN:  cook
+   PARG: heated , 1 to 2 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: heated 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 13
+SENT: I would serve !
+PREDID: 540
+PRED: serve
+   DOBJ: NULL
+
+

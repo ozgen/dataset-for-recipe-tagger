@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven
+      NON-INGREDIENT SPAN: the oven
+   PARG: 350 degrees
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees
+
+
+SENTID: 1
+SENT: I would place pie crust in an 8-inch pie pan .
+PREDID: 27
+PRED: place
+   DOBJ: pie crust
+      INGREDIENT SPAN: pie crust
+         INGREDIENTS: unbaked inch single pie crust
+   PARG: an 8-inch pie pan
+     PREP: in
+      NON-INGREDIENT SPAN: an 8-inch pie pan
+
+
+SENTID: 2
+SENT: I would combine pumpkin , coconut milk , the sugar , the cornstarch , the cinnamon , the ginger , the salt , and allspice in a powerful blender or food processor until smooth .
+PREDID: 57
+PRED: combine
+   DOBJ: pumpkin , coconut milk , the sugar , the cornstarch , the cinnamon , the ginger , the salt , allspice in a powerful blender or food processor
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  allspice in a powerful blender or food processor
+         INGREDIENTS: ground allspice
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  coconut milk 
+         INGREDIENTS: Delicious Dairy Free Original Coconut Milk
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: ounce pumpkin puree
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: raw turbinado sugar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour mixture into pie shell and bake for 60-70 minutes .
+PREDID: 178
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pie shell
+
+PREDID: 204
+PRED: bake
+   DOBJ: NULL
+   PARG: 60-70 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 60-70 minutes
+
+
+SENTID: 4
+SENT: I would remove from the oven and place on a cooling rack until completely cooled .
+PREDID: 224
+PRED: remove
+   DOBJ: NULL
+   PARG: the oven, place on a cooling rack
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+      NON-INGREDIENT SPAN:  place on a cooling rack
+   PARG: completely cooled
+     PREP: until
+      NON-INGREDIENT SPAN: completely cooled
+
+
+SENTID: 5
+SENT: I would cover in plastic wrap and refrigerate for at least four hours -LRB- overnight is better -RRB- before serving .
+PREDID: 285
+PRED: cover
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: in
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 306
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least four hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least four hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: overnight is better
+      NON-INGREDIENT SPAN: overnight is better
+
+
+SENTID: 6
+SENT: I would garnish with vegan whipped topping and powdered sugar .
+PREDID: 369
+PRED: garnish
+   DOBJ: NULL
+   PARG: vegan whipped topping, powdered sugar
+     PREP: with
+      INGREDIENT SPAN:  powdered sugar
+         INGREDIENTS: Powdered sugar
+      INGREDIENT SPAN: vegan whipped topping
+         INGREDIENTS: Vegan whipped topping
+
+

@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 60
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In a large skillet over medium heat oil .
+
+SENTID: 3
+SENT: I would add sliced mushrooms , green bell pepper , the onion , and saute for 5 minutes .
+PREDID: 66
+PRED: add
+   DOBJ: NULL
+   PARG: sliced mushrooms , green bell pepper , the onion , saute for 5 minutes
+     PREP: for
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: sliced mushrooms 
+         INGREDIENTS: fresh sliced mushrooms
+      NON-INGREDIENT SPAN:  saute for 5 minutes
+
+
+SENTID: 4
+SENT: I would stir in ground beef and brown ;
+PREDID: 127
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef, brown
+     PREP: in
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+      NON-INGREDIENT SPAN:  brown
+
+
+SENTID: 5
+SENT: I would drain excess grease .
+PREDID: 152
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 6
+SENT: I would add tomatoes , tomato paste , the parsley , Italian seasoning , dried oregano , cayenne pepper , the salt , ground black pepper and sugar .
+PREDID: 170
+PRED: add
+   DOBJ: tomatoes , tomato paste , the parsley , Italian seasoning , dried oregano , cayenne pepper , the salt , ground black pepper, sugar
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  dried oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  ground black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+
+
+SENTID: 7
+SENT: I would cover and simmer for 30 minutes .
+PREDID: 277
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 8
+SENT: I would stir occasionally .
+PREDID: 304
+PRED: stir
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 9
+SENT: In a small bowl combine cream cheese , I would sour cream , finely chopped green onion , and 1/4 cup of the Parmesan cheese .
+PREDID: 352
+PRED: combine sour
+   DOBJ: cream , finely chopped green onion , 1/4 cup of the Parmesan cheese, cream cheese
+      INGREDIENT SPAN: cream 
+         INGREDIENTS: ounce container sour cream
+      INGREDIENT SPAN:  finely chopped green onion 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  1/4 cup of the Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  cream cheese
+         INGREDIENTS: ounce package cream cheese
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 10
+SENT: To assemble , in a greased 2 quart casserole dish layer egg noodles .
+PREDID: 417
+PRED: assemble
+   DOBJ: NULL
+   PARG: a greased 2 quart casserole dish layer egg noodles
+     PREP: in
+      INGREDIENT SPAN: a greased 2 quart casserole dish layer egg noodles
+         INGREDIENTS: ounce package egg noodles
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 11
+SENT: I would spread tomato mixture over noodles , followed by the cream cheese mixture .
+PREDID: 471
+PRED: spread
+   DOBJ: tomato mixture
+      NON-INGREDIENT SPAN: tomato mixture
+   PARG: noodles , followed by the cream cheese mixture
+     PREP: over
+      INGREDIENT SPAN:  followed by the cream cheese mixture
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: noodles 
+         INGREDIENTS: ounce package egg noodles
+
+
+SENTID: 12
+SENT: I would sprinkle with remaining grated Parmesan cheese and paprika .
+PREDID: 534
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining grated parmesan cheese, paprika
+     PREP: with
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+      NON-INGREDIENT SPAN: remaining grated parmesan cheese
+
+
+SENTID: 13
+SENT: I would bake in a preheated 325 degree F -LRB- 165 degree C -RRB- oven for 45 minutes .
+PREDID: 586
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 325 degree f -lrb- 165 degree c -rrb- oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 325 degree f -lrb- 165 degree c -rrb- oven for 45 minutes
+
+

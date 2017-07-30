@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would heat 2 tablespoons olive oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: 2 tablespoons olive oil
+      INGREDIENT SPAN: 2 tablespoons olive oil
+         INGREDIENTS: olive oil divided
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would place the chicken in the skillet , season with salt and pepper , and brown on both sides .
+PREDID: 59
+PRED: place
+   DOBJ: the chicken in the skillet , season with salt, pepper , brown on both sides
+      INGREDIENT SPAN:  pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: the chicken in the skillet 
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+      NON-INGREDIENT SPAN:  brown on both sides
+
+
+SENTID: 2
+SENT: I would remove from heat , and set aside .
+PREDID: 131
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 149
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would heat the remaining oil in the skillet over medium heat , and stir in the red bell pepper , yellow bell pepper , orange bell pepper , and onion .
+PREDID: 158
+PRED: heat
+   DOBJ: the remaining oil in the skillet over medium heat
+      INGREDIENT SPAN: the remaining oil in the skillet over medium heat
+         INGREDIENTS: olive oil divided
+      INGREDIENT SPAN: the remaining in the skillet over medium heat
+         INGREDIENTS: medium onion sliced
+
+PREDID: 207
+PRED: stir
+   DOBJ: NULL
+   PARG: the red bell pepper , yellow bell pepper , orange bell pepper , onion
+     PREP: in
+      INGREDIENT SPAN:  yellow bell pepper 
+         INGREDIENTS: yellow bell pepper sliced
+      INGREDIENT SPAN: the red bell pepper 
+         INGREDIENTS: orange bell pepper sliced
+      NON-INGREDIENT SPAN:  onion
+      NON-INGREDIENT SPAN:  orange bell pepper 
+
+
+SENTID: 4
+SENT: I would cook about 5 minutes , until tender .
+PREDID: 270
+PRED: cook
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 5
+SENT: I would mix in the garlic , and cook and stir about 1 minute .
+PREDID: 300
+PRED: mix
+   DOBJ: NULL
+   PARG: the garlic
+     PREP: in
+      NON-INGREDIENT SPAN: the garlic
+
+PREDID: 318
+PRED: cook and stir
+   DOBJ: about 1 minute
+      NON-INGREDIENT SPAN: about 1 minute
+
+
+SENTID: 6
+SENT: I would mix in the basil and 2 tablespoons balsamic vinegar .
+PREDID: 342
+PRED: mix
+   DOBJ: NULL
+   PARG: the basil, 2 tablespoons balsamic vinegar
+     PREP: in
+      INGREDIENT SPAN: the basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  2 tablespoons balsamic vinegar
+         INGREDIENTS: balsamic vinegar divided
+
+
+SENTID: 7
+SENT: I would return the chicken to the skillet .
+PREDID: 386
+PRED: return
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 8
+SENT: I would reduce heat to low , cover , and simmer 20 minutes , or until chicken is no longer pink and juices run clear .
+PREDID: 415
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+PREDID: 440
+PRED: simmer
+   DOBJ: NULL
+   PARG: 20 minutes , or until chicken is no longer pink
+     PREP: for
+      NON-INGREDIENT SPAN:  or until chicken is no longer pink
+      NON-INGREDIENT SPAN: 20 minutes 
+
+
+SENTID: 9
+SENT: I would stir in remaining balsamic vinegar just before serving .
+PREDID: 502
+PRED: stir
+   DOBJ: NULL
+   PARG: remaining balsamic vinegar just before serving
+     PREP: in
+      INGREDIENT SPAN: remaining balsamic vinegar just before serving
+         INGREDIENTS: balsamic vinegar divided
+
+

@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook angel hair pasta until al dente .
+PREDID: 44
+PRED: angel
+   DOBJ: hair pasta
+      INGREDIENT SPAN: hair pasta
+         INGREDIENTS: ounce package angel hair pasta
+   PARG: a large pot with boiling salted water cook
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot with boiling salted water cook
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 64
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would meanwhile , in a large nonstick skillet heat canola and sesame oil over medium high heat .
+PREDID: 70
+PRED: meanwhile
+   DOBJ: NULL
+   PARG: a large nonstick skillet heat canola, sesame oil
+     PREP: in
+      INGREDIENT SPAN:  sesame oil
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN: a large nonstick skillet heat canola
+         INGREDIENTS: canola oil
+   PARG: medium high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat
+
+
+SENTID: 3
+SENT: I would saute onion and garlic until softened .
+PREDID: 144
+PRED: saute
+   DOBJ: NULL
+   PARG: softened
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+   OARG: onion, garlic
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 4
+SENT: I would stir in chopped chicken , and cook until chicken browns and juices run clear .
+PREDID: 177
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped chicken
+     PREP: in
+      INGREDIENT SPAN: chopped chicken
+         INGREDIENTS: chicken broth
+
+PREDID: 201
+PRED: cook
+   DOBJ: NULL
+   PARG: chicken browns, juices run clear
+     PREP: until
+      INGREDIENT SPAN: chicken browns
+         INGREDIENTS: skinless boneless chicken breast half cut bitesize
+      NON-INGREDIENT SPAN:  juices run clear
+
+
+SENTID: 5
+SENT: I would stir in ginger , bok choy , chicken stock , the sherry , soy sauce , and hoisin sauce .
+PREDID: 241
+PRED: stir
+   DOBJ: NULL
+   PARG: ginger , bok choy , chicken stock , the sherry , soy sauce , hoisin sauce
+     PREP: in
+      INGREDIENT SPAN:  bok choy 
+         INGREDIENTS: leaves bok choy diced
+      INGREDIENT SPAN:  the sherry 
+         INGREDIENTS: dry sherry
+      INGREDIENT SPAN:  hoisin sauce
+         INGREDIENTS: hoisin sauce
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN: ginger 
+         INGREDIENTS: grated fresh ginger
+      NON-INGREDIENT SPAN:  chicken stock 
+
+
+SENTID: 6
+SENT: I would reduce heat , and continue cooking for 10 minutes .
+PREDID: 306
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 320
+PRED: continue
+   DOBJ: cooking
+      NON-INGREDIENT SPAN: cooking
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 7
+SENT: I would toss pasta with chicken mixture until well coated .
+PREDID: 348
+PRED: toss
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: chicken mixture
+   PARG: well coated
+     PREP: until
+      NON-INGREDIENT SPAN: well coated
+
+
+SENTID: 8
+SENT: I would season with salt .
+PREDID: 391
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 9
+SENT: I would serve warm sprinkled with minced green onions .
+PREDID: 406
+PRED: serve
+   DOBJ: warm sprinkled
+      NON-INGREDIENT SPAN: warm sprinkled
+   PARG: minced green onions
+     PREP: with
+      INGREDIENT SPAN: minced green onions
+         INGREDIENTS: green onions minced
+
+

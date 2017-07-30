@@ -1,0 +1,47 @@
+digraph recipe {
+E0[label="cook (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="puree (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="reduce (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E5[label="simmer (S3,P2)", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="heat (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: (10.5 ounce) can condensed French onion soup
+(text: French onion soup in a blender until smooth)", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+D0[label="DOBJ: vegetable oil, ground beef, salt
+(text: beef with oil and salt over medium heat)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a deep skillet or i would large saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="PREP: until brown", shape=box, style=filled, fillcolor=white]
+P0_1 -> E0
+E0 -> E2 [label="OUTPUT: 
+INPUT: meat"]
+E1 -> E3 [label="OUTPUT: 
+INPUT: pureed soup"]
+P3_0_0[label="PREP: into meat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E2 -> E4 [label="OUTPUT: 
+INPUT: heat"]
+E3 -> E5 [label="OUTPUT: 
+INPUT: 5 minutes"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: in chili powder, (6 ounce) can tomato paste, ground black pepper, (15 ounce) cans kidney beans, ground cumin, (8 ounce) can tomato sauce
+(text: in  tomato paste ,  pepper ,  cumin , beans, chili powder ,  tomato sauce )", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in unsweetened cocoa
+(text: in cocoa)", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E4 -> E7 [label="OUTPUT: 
+INPUT: in cola"]
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

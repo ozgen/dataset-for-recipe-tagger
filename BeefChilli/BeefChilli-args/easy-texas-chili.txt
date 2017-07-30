@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would cook and stir the beef , the onion , and bell pepper in a large pot over medium heat until the beef is brown and onion and pepper are tender , about 10 minutes .
+PREDID: 0
+PRED: cook and stir
+   DOBJ: the beef , the onion , bell pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: large onion diced
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: large bell pepper minced
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+   PARG: the beef is brown, onion, pepper are tender , about 10 minutes
+     PREP: until
+      INGREDIENT SPAN:  pepper are tender 
+         INGREDIENTS: ground black pepper
+      NON-INGREDIENT SPAN: the beef is brown
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  onion
+
+PREDID: 102
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 1
+SENT: I would drain grease from beef .
+PREDID: 124
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+   PARG: beef
+     PREP: from
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 2
+SENT: I would stir in beans , the tomatoes , tomato sauce , jalapenos -LRB- if using -RRB- , chili powder , red pepper flakes , black pepper , the salt , and garlic powder .
+PREDID: 144
+PRED: stir
+   DOBJ: NULL
+   PARG: beans , the tomatoes , tomato sauce , jalapenos -lrb- if using -rrb- , chili powder , red pepper flakes , black pepper , the salt , garlic powder
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: crushed red pepper flakes
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce pinto beans
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: jalapeno peppers minced
+      NON-INGREDIENT SPAN:  jalapenos -lrb- if using -rrb- 
+
+
+SENTID: 3
+SENT: Bring mixture to a slow boil ;
+
+SENTID: 4
+SENT: I would cover and reduce heat .
+PREDID: 281
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: Simmer chili at least 30 minutes , stirring occasionally so that it does not stick .
+
+SENTID: 6
+SENT: This chili can be simmered for several hours ;
+
+SENTID: 7
+SENT: the longer you simmer , the more flavor you will get .
+

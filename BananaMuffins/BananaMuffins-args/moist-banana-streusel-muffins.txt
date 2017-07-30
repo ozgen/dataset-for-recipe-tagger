@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spray 10 muffin cups with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: 10 muffin cups
+      NON-INGREDIENT SPAN: 10 muffin cups
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would whisk 1?1/2 cups sifted whole wheat flour with baking soda , baking powder , the salt , and 1/2 teaspoon cinnamon in a large bowl .
+PREDID: 72
+PRED: whisk
+   DOBJ: 1?1/2 cups sifted whole wheat flour with baking soda , baking powder , the salt , 1/2 teaspoon cinnamon in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: 1?1/2 cups sifted whole wheat flour with baking soda 
+         INGREDIENTS: sifted whole wheat flour
+      INGREDIENT SPAN: 1?1/2 cups with baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  1/2 teaspoon cinnamon in a large bowl
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: I would mix together mashed bananas , 1/2 cup melted unsalted butter , the egg , white sugar , and vanilla extract in a separate bowl .
+
+SENTID: 4
+SENT: I would gently fold banana mixture into dry ingredients just until moistened ;
+PREDID: 281
+PRED: fold
+   DOBJ: banana mixture
+      INGREDIENT SPAN: banana mixture
+         INGREDIENTS: ripe bananas mashed
+   PARG: dry ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: dry ingredients
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: just until moistened
+      NON-INGREDIENT SPAN: just until moistened
+
+
+SENTID: 5
+SENT: do not overmix .
+
+SENTID: 6
+SENT: I would spoon batter into prepared muffin cups , filling them about 3/4 full .
+PREDID: 335
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+   OARG: filling them about 3/4 full
+      NON-INGREDIENT SPAN: filling them about 3/4 full
+
+
+SENTID: 7
+SENT: I would mix dark brown sugar with 2 tablespoons whole wheat flour and 1/2 teaspoon cinnamon in a bowl , stirring until combined ;
+PREDID: 393
+PRED: mix
+   DOBJ: dark brown sugar
+      INGREDIENT SPAN: dark brown sugar
+         INGREDIENTS: white sugar
+   PARG: 2 tablespoons whole wheat flour, 1/2 teaspoon cinnamon in a bowl
+     PREP: with
+      INGREDIENT SPAN: 2 tablespoons whole wheat flour
+         INGREDIENTS: sifted whole wheat flour
+      INGREDIENT SPAN:  1/2 teaspoon cinnamon in a bowl
+         INGREDIENTS: ground cinnamon
+   OARG: stirring until combined
+      NON-INGREDIENT SPAN: stirring until combined
+
+
+SENTID: 8
+SENT: I would mash 1 tablespoon unsalted butter into the mixture with a fork until streusel topping resembles crumbs .
+PREDID: 493
+PRED: mash
+   DOBJ: 1 tablespoon unsalted butter
+      INGREDIENT SPAN: 1 tablespoon unsalted butter
+         INGREDIENTS: unsalted butter melted
+   PARG: the mixture with a fork
+     PREP: into
+      NON-INGREDIENT SPAN: the mixture with a fork
+   PARG: streusel topping resembles crumbs
+     PREP: until
+      NON-INGREDIENT SPAN: streusel topping resembles crumbs
+
+
+SENTID: 9
+SENT: I would sprinkle the topping over muffins .
+PREDID: 581
+PRED: sprinkle
+   DOBJ: the topping over muffins
+      NON-INGREDIENT SPAN: the topping over muffins
+
+
+SENTID: 10
+SENT: I would bake muffins in the preheated oven until a toothpick comes out clean or with moist crumbs , about 20 minutes .
+PREDID: 608
+PRED: bake
+   DOBJ: muffins
+      NON-INGREDIENT SPAN: muffins
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick comes out clean or with moist crumbs , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick comes out clean or with moist crumbs 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

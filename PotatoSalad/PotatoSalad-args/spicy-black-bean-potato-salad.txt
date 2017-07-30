@@ -1,0 +1,196 @@
+SENTID: 0
+SENT: I would place potatoes in a pot with enough water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in a pot with enough water
+      INGREDIENT SPAN: potatoes in a pot with enough water
+         INGREDIENTS: medium red potatoes
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: I would bring to a boil , and cook until tender .
+PREDID: 42
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 58
+PRED: cook
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 2
+SENT: I would drain , dice , and cool .
+PREDID: 74
+PRED: drain
+   DOBJ: NULL
+   OARG: dice
+      NON-INGREDIENT SPAN: dice
+
+
+SENTID: 3
+SENT: I would place eggs in a pot with enough cold water to cover .
+PREDID: 93
+PRED: place
+   DOBJ: eggs in a pot with enough cold water
+      INGREDIENT SPAN: eggs in a pot with enough cold water
+         INGREDIENTS: eggs
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 4
+SENT: Bring to a boil and immediately remove from heat .
+PREDID: 135
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 161
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+
+SENTID: 5
+SENT: I would cover saucepan , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 176
+PRED: cover
+   DOBJ: saucepan
+      NON-INGREDIENT SPAN: saucepan
+
+PREDID: 193
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 6
+SENT: I would drain , cool , peel and chop .
+PREDID: 232
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 7
+SENT: I would place bacon in a skillet over medium-high heat , and cook until evenly brown .
+PREDID: 255
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+
+PREDID: 298
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 8
+SENT: I would drain , crumble and set aside .
+PREDID: 319
+PRED: drain and crumble
+   DOBJ: NULL
+
+PREDID: 335
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: In a large bowl , I would mix chopped eggs , 1/2 the bacon , black beans , green onions , jalapeno peppers , bell pepper , the mayonnaise , the mustard , and Cajun seasoning .
+PREDID: 357
+PRED: mix
+   DOBJ: chopped eggs , 1/2 the bacon , black beans , green onions , jalapeno peppers , bell pepper , the mayonnaise , the mustard , Cajun seasoning
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: fresh jalapeno peppers diced
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions diced
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: brown mustard
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: green bell pepper diced
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN:  Cajun seasoning
+         INGREDIENTS: Cajun seasoning
+      NON-INGREDIENT SPAN:  1/2 the bacon 
+      NON-INGREDIENT SPAN: chopped eggs 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 10
+SENT: I would gently mix in diced , cooled potatoes .
+PREDID: 477
+PRED: mix
+   DOBJ: NULL
+   PARG: diced , cooled potatoes
+     PREP: in
+      NON-INGREDIENT SPAN:  cooled potatoes
+      NON-INGREDIENT SPAN: diced 
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 11
+SENT: I would season with salt and pepper , and sprinkle with remaining bacon .
+PREDID: 503
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 530
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining bacon
+     PREP: with
+      NON-INGREDIENT SPAN: remaining bacon
+
+
+SENTID: 12
+SENT: I would cover , and refrigerate until ready to serve .
+PREDID: 557
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 566
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

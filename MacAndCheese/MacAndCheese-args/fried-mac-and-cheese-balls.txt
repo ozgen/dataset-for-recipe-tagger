@@ -1,0 +1,274 @@
+SENTID: 0
+SENT: I would fill a pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+   DOBJ: a pot
+      NON-INGREDIENT SPAN: a pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 33
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 1
+SENT: I would stir in the macaroni , and return to a boil .
+PREDID: 65
+PRED: stir
+   DOBJ: NULL
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: ounce package macaroni cheese mix
+
+PREDID: 86
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook , uncovered , stirring occasionally , until the macaroni is cooked through but still firm to the bite , about 7 minutes .
+PREDID: 100
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring occasionally , until the macaroni is cooked through but still firm to the bite , about 7 minutes
+      NON-INGREDIENT SPAN:  until the macaroni is cooked through but still firm to the bite 
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  about 7 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 203
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would stir in the 2 tablespoons butter , the 1/4 cup milk , and the cheese packet from the package .
+PREDID: 209
+PRED: stir
+   DOBJ: NULL
+   PARG: the 2 tablespoons butter , the 1/4 cup milk , the cheese packet
+     PREP: in
+      INGREDIENT SPAN:  the 1/4 cup milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cheese packet
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: the 2 tablespoons butter 
+         INGREDIENTS: butter
+   PARG: the package
+     PREP: from
+      NON-INGREDIENT SPAN: the package
+
+
+SENTID: 5
+SENT: While the macaroni is still hot , stir in the Cheddar cheese , pimento cheese spread , and Italian cheese blend , and continue to stir until melted .
+PREDID: 313
+PRED: hot and stir
+   DOBJ: NULL
+   PARG: the macaroni is still
+     PREP: while
+      NON-INGREDIENT SPAN: the macaroni is still
+   PARG: the cheddar cheese , pimento cheese spread , italian cheese blend
+     PREP: in
+      INGREDIENT SPAN: the cheddar cheese 
+         INGREDIENTS: shredded Italian cheese blend
+      INGREDIENT SPAN:  pimento cheese spread 
+         INGREDIENTS: pimento cheese spread
+      NON-INGREDIENT SPAN:  italian cheese blend
+
+PREDID: 387
+PRED: continue
+   DOBJ: NULL
+   OARG: to stir until melted
+      NON-INGREDIENT SPAN: to stir until melted
+
+
+SENTID: 6
+SENT: I would place the macaroni and cheese mixture in a container and refrigerate until firm , about 4 hours .
+PREDID: 405
+PRED: place
+   DOBJ: the macaroni, cheese mixture in a container
+      NON-INGREDIENT SPAN:  cheese mixture in a container
+      NON-INGREDIENT SPAN: the macaroni
+
+PREDID: 452
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: firm , about 4 hours
+     PREP: until
+      NON-INGREDIENT SPAN: firm 
+      NON-INGREDIENT SPAN:  about 4 hours
+
+
+SENTID: 7
+SENT: I would line a baking sheet with parchment paper .
+PREDID: 485
+PRED: line
+   DOBJ: a baking sheet with parchment paper
+      NON-INGREDIENT SPAN: a baking sheet with parchment paper
+
+
+SENTID: 8
+SENT: I would remove the macaroni mixture from the refrigerator , and , using a cookie scoop , scoop into balls .
+PREDID: 520
+PRED: remove
+   DOBJ: the macaroni mixture
+      NON-INGREDIENT SPAN: the macaroni mixture
+   PARG: the refrigerator
+     PREP: from
+      NON-INGREDIENT SPAN: the refrigerator
+
+PREDID: 568
+PRED: using
+   DOBJ: a cookie scoop
+      NON-INGREDIENT SPAN: a cookie scoop
+
+PREDID: 586
+PRED: scoop
+   DOBJ: NULL
+   PARG: balls
+     PREP: into
+      NON-INGREDIENT SPAN: balls
+
+
+SENTID: 9
+SENT: I would place mac balls on the prepared baking sheet and freeze for at least 2 hours .
+PREDID: 601
+PRED: place
+   DOBJ: mac balls
+      NON-INGREDIENT SPAN: mac balls
+   PARG: the prepared baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+PREDID: 641
+PRED: freeze
+   DOBJ: NULL
+   PARG: at least 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 2 hours
+
+
+SENTID: 10
+SENT: I would heat oil in a deep fryer or large saucepan to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 664
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: peanut oil frying needed
+   PARG: a deep fryer or large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a deep fryer or large saucepan
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 11
+SENT: I would whisk the bread crumbs with the paprika , chili powder , black pepper , the sugar , and cayenne in a shallow dish ;
+PREDID: 725
+PRED: whisk
+   DOBJ: the bread crumbs
+      INGREDIENT SPAN: the bread crumbs
+         INGREDIENTS: Italian seasoned bread crumbs
+   PARG: the paprika , chili powder , black pepper , the sugar , cayenne in a shallow dish
+     PREP: with
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: cayenne pepper taste
+      NON-INGREDIENT SPAN:  cayenne in a shallow dish
+
+
+SENTID: 12
+SENT: I would set aside .
+PREDID: 814
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 13
+SENT: I would beat the eggs with the 3 tablespoons milk in a small bowl .
+PREDID: 823
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: the 3 tablespoons milk in a small bowl
+     PREP: with
+      INGREDIENT SPAN: the 3 tablespoons milk in a small bowl
+         INGREDIENTS: milk
+
+
+SENTID: 14
+SENT: I would remove the mac balls from the freezer , coat in the egg wash , and
+PREDID: 870
+PRED: remove
+   DOBJ: the mac balls
+      NON-INGREDIENT SPAN: the mac balls
+   PARG: the freezer , coat in the egg wash , and
+     PREP: from
+      NON-INGREDIENT SPAN:  coat in the egg wash 
+      NON-INGREDIENT SPAN: the freezer 
+      NON-INGREDIENT SPAN:  and
+
+
+SENTID: 15
+SENT: I would dredge in breading .
+PREDID: 922
+PRED: dredge
+   DOBJ: NULL
+   PARG: breading
+     PREP: in
+      NON-INGREDIENT SPAN: breading
+
+
+SENTID: 16
+SENT: I would fry the mac balls in small batches until golden brown , 3 to 5 minutes .
+PREDID: 939
+PRED: fry
+   DOBJ: the mac balls
+      NON-INGREDIENT SPAN: the mac balls
+   PARG: small batches until golden brown , 3 to 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+      NON-INGREDIENT SPAN: small batches until golden brown 
+
+
+SENTID: 17
+SENT: I would drain briefly on a paper towel-lined plate ;
+PREDID: 996
+PRED: drain
+   DOBJ: NULL
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+
+
+SENTID: 18
+SENT: I would serve hot .
+PREDID: 1033
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

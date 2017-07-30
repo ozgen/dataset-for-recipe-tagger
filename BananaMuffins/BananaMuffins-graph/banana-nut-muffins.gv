@@ -1,0 +1,67 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="spray (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir (S2,P91)", shape=oval, style=filled, fillcolor=azure]
+E3[label="beat (S3,P149)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S4,P171)", shape=oval, style=filled, fillcolor=azure]
+E5[label="add (S5,P208)", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir (S6,P252)", shape=oval, style=filled, fillcolor=azure]
+E7[label="fill pan (S7,P266)", shape=oval, style=filled, fillcolor=azure]
+E8[label="bake (S8,P291)", shape=oval, style=filled, fillcolor=azure]
+E9[label="remove (S9,P346)", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: all-purpose flour
+(text: flour)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+O2_1[label="OTHER: baking powder, baking soda, salt
+(text: baking powder , soda , salt)", shape=box, style=filled, fillcolor=peachpuff]
+O2_1 -> E2
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E0 -> E1 [label="OUTPUT: 
+INPUT: muffin tins"]
+P1_0_0[label="PREP: with non-stick cooking spray", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+D3_ing[label="DOBJ: egg whites
+(text: egg whites)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT: in a medium bowl"]
+O3_0_0[label="OTHER: slightly", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_ing[label="PREP: in vegetable oil, lemon zest, white sugar, mashed bananas
+(text: in bananas ,  oil ,  sugar ,  lemon peel)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+P5_0_0[label="PREP: to flour mixture", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+O5_0_0[label="OTHER: stirring just until combined", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: in chopped walnuts
+(text: in walnuts)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+O7_0_0[label="OTHER: cups 2/3 full", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+P8_0_0[label="PREP: for about 20 to 25 minutes ", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+P8_0_1[label="PREP: for  or until tops are lightly browned", shape=box, style=filled, fillcolor=white]
+P8_0_1 -> E8
+E1 -> E9 [label="OUTPUT: 
+INPUT: muffins"]
+E8 -> E9 [label="OUTPUT: 
+INPUT: from pan"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

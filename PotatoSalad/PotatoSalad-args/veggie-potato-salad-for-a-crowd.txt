@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: In a large pot , I would cook whole potatoes until done .
+PREDID: 12
+PRED: cook
+   DOBJ: whole potatoes
+      INGREDIENT SPAN: whole potatoes
+         INGREDIENTS: small red potatoes unpeeled
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: done
+     PREP: until
+      NON-INGREDIENT SPAN: done
+
+
+SENTID: 1
+SENT: I would cool .
+PREDID: 39
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would cut into bite-sized pieces .
+PREDID: 44
+PRED: cut
+   DOBJ: NULL
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+
+SENTID: 3
+SENT: In a very large bowl , I would combine all ingredients from potatoes through basil .
+PREDID: 85
+PRED: combine
+   DOBJ: all ingredients
+      NON-INGREDIENT SPAN: all ingredients
+   PARG: a very large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a very large bowl
+   PARG: potatoes
+     PREP: from
+      NON-INGREDIENT SPAN: potatoes
+   PARG: basil
+     PREP: through
+      INGREDIENT SPAN: basil
+         INGREDIENTS: basil leaves torn large
+
+
+SENTID: 4
+SENT: I would whisk together dressing ingredients .
+PREDID: 131
+PRED: whisk
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: dressing ingredients
+      NON-INGREDIENT SPAN: dressing ingredients
+
+
+SENTID: 5
+SENT: I would toss with vegetables , and add salt and pepper to taste .
+PREDID: 164
+PRED: toss
+   DOBJ: NULL
+   PARG: vegetables
+     PREP: with
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 186
+PRED: add
+   DOBJ: salt, pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: Chill .
+
+SENTID: 7
+SENT: I would serve .
+PREDID: 210
+PRED: serve
+   DOBJ: NULL
+
+

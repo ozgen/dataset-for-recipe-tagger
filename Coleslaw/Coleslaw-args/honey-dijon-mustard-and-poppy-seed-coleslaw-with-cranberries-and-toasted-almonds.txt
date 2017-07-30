@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would spray a small skillet lightly with olive oil cooking spray and place over medium-low heat .
+PREDID: 0
+PRED: spray
+   DOBJ: a small skillet
+      NON-INGREDIENT SPAN: a small skillet
+   PARG: olive oil cooking spray, place over medium-low heat
+     PREP: with
+      INGREDIENT SPAN: olive oil cooking spray
+         INGREDIENTS: serving olive oil cooking spray
+      NON-INGREDIENT SPAN:  place over medium-low heat
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 1
+SENT: I would cook and stir almonds in the skillet until lightly golden brown and fragrant , 2 to 3 minutes .
+PREDID: 76
+PRED: cook and stir
+   DOBJ: almonds in the skillet
+      INGREDIENT SPAN: almonds in the skillet
+         INGREDIENTS: slivered almonds
+   PARG: lightly golden brown, fragrant , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  fragrant 
+      NON-INGREDIENT SPAN: lightly golden brown
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 2
+SENT: I would remove from heat and transfer to a bowl to cool .
+PREDID: 153
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 170
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl to cool
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl to cool
+
+
+SENTID: 3
+SENT: I would stir cabbage , the cranberries , green bell pepper , the celery , and chives in a salad bowl .
+PREDID: 192
+PRED: stir
+   DOBJ: cabbage , the cranberries , green bell pepper , the celery , chives in a salad bowl
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  chives in a salad bowl
+         INGREDIENTS: minced chives
+      INGREDIENT SPAN:  the cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN: cabbage 
+         INGREDIENTS: shredded cabbage
+
+
+SENTID: 4
+SENT: I would toss toasted almonds with cabbage mixture .
+PREDID: 261
+PRED: toss
+   DOBJ: toasted almonds
+      NON-INGREDIENT SPAN: toasted almonds
+   PARG: cabbage mixture
+     PREP: with
+      NON-INGREDIENT SPAN: cabbage mixture
+
+
+SENTID: 5
+SENT: I would whisk mayonnaise , honey-Dijon mustard , the honey , and poppy seeds together in a small bowl .
+PREDID: 298
+PRED: whisk
+   DOBJ: mayonnaise , honey-Dijon mustard , the honey , poppy seeds
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  honey-Dijon mustard 
+         INGREDIENTS: honeyDijon mustard
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  poppy seeds
+         INGREDIENTS: poppy seeds
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would stir the dressing into slaw until coated .
+PREDID: 373
+PRED: stir
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: slaw
+     PREP: into
+      NON-INGREDIENT SPAN: slaw
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 7
+SENT: I would season with salt and black pepper .
+PREDID: 405
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+

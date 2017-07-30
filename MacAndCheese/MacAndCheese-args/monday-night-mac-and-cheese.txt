@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: In a large pot , I would heat water and cream over medium heat until steaming .
+PREDID: 12
+PRED: heat
+   DOBJ: water, cream over medium heat
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  cream over medium heat
+         INGREDIENTS: % % cream
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: steaming
+     PREP: until
+      NON-INGREDIENT SPAN: steaming
+
+
+SENTID: 1
+SENT: I would stir in macaroni and 1/4 tsp -LRB- 1 mL -RRB- salt .
+PREDID: 57
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni, 1/4 tsp -lrb- 1 ml -rrb- salt
+     PREP: in
+      INGREDIENT SPAN:  1/4 tsp -lrb- 1 ml -rrb- salt
+         INGREDIENTS: Salt
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: elbow macaroni
+
+
+SENTID: 2
+SENT: I would cover , reduce heat to medium-low and simmer for about 8 min , stirring often , or until macaroni is almost tender .
+PREDID: 90
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 121
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 8 min , stirring often , or until macaroni is almost tender
+     PREP: for
+      NON-INGREDIENT SPAN: about 8 min 
+      NON-INGREDIENT SPAN:  stirring often 
+      NON-INGREDIENT SPAN:  or until macaroni is almost tender
+
+
+SENTID: 3
+SENT: I would whisk flour , the mustard and pepper into milk ;
+PREDID: 184
+PRED: whisk
+   DOBJ: flour , the mustard, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: dry Dijon mustard
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+   PARG: milk
+     PREP: into
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+
+
+SENTID: 4
+SENT: I would stir into pot .
+PREDID: 220
+PRED: stir
+   DOBJ: NULL
+   PARG: pot
+     PREP: into
+      NON-INGREDIENT SPAN: pot
+
+
+SENTID: 5
+SENT: I would increase heat to medium ;
+PREDID: 232
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+
+SENTID: 6
+SENT: I would cook , stirring , for 3 to 5 min or until sauce is thickened .
+PREDID: 253
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 to 5 min
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 5 min
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+
+SENTID: 7
+SENT: I would remove from heat ;
+PREDID: 301
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 8
+SENT: I would stir in cheese until melted .
+PREDID: 316
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Canadian old extraold Cheddar cheese
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 9
+SENT: I would season to taste with salt .
+PREDID: 340
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: Salt
+
+

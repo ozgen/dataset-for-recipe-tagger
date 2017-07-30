@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: To Make Marinade :
+
+SENTID: 1
+SENT: In a nonporous dish or bowl blend cornstarch with wine or sherry ;
+
+SENTID: 2
+SENT: I would stir in lemon juice , soy sauce , hot pepper sauce , the ginger and garlic .
+PREDID: 15
+PRED: stir
+   DOBJ: NULL
+   PARG: lemon juice , soy sauce , hot pepper sauce , the ginger, garlic
+     PREP: in
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove crushed garlic
+      INGREDIENT SPAN: lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: grated fresh ginger
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce
+
+
+SENTID: 3
+SENT: I would blend together and stir in chicken strips .
+PREDID: 72
+PRED: blend
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 88
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken strips
+     PREP: in
+      INGREDIENT SPAN: chicken strips
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+
+
+SENTID: 4
+SENT: I would cover dish and refrigerate to marinate for 3 to 4 hours .
+PREDID: 108
+PRED: cover
+   DOBJ: dish
+      NON-INGREDIENT SPAN: dish
+
+PREDID: 120
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: to marinate for 3 to 4 hours
+      NON-INGREDIENT SPAN: to marinate for 3 to 4 hours
+
+
+SENTID: 5
+SENT: In a wok or large skillet , place sesame seeds and dry-fry over medium heat , shaking the wok , until the seeds are a golden brown color .
+PREDID: 174
+PRED: skillet
+   DOBJ: NULL
+   OARG: large
+      NON-INGREDIENT SPAN: large
+
+PREDID: 249
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: I would remove seeds and set aside .
+PREDID: 264
+PRED: remove
+   DOBJ: seeds
+      INGREDIENT SPAN: seeds
+         INGREDIENTS: sesame seeds
+
+PREDID: 278
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: To same wok or skillet add sesame oil and vegetable oil and heat slowly .
+
+SENTID: 8
+SENT: I would drain chicken , reserving marinade , and stir-fry in wok a few pieces at a time , until browned .
+PREDID: 346
+PRED: drain
+   DOBJ: chicken , reserving marinade , stir-fry in wok a few pieces at a time , until browned
+      NON-INGREDIENT SPAN:  stir-fry in wok a few pieces at a time 
+      NON-INGREDIENT SPAN:  until browned
+      NON-INGREDIENT SPAN: chicken 
+      NON-INGREDIENT SPAN:  reserving marinade 
+
+
+SENTID: 9
+SENT: I would remove chicken with a slotted spoon and set aside .
+PREDID: 424
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a slotted spoon
+     PREP: with
+      NON-INGREDIENT SPAN: a slotted spoon
+
+PREDID: 457
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: I would add mushrooms and green bell pepper to same wok or skillet and stir-fry for 2 to 3 minutes .
+PREDID: 466
+PRED: add
+   DOBJ: mushrooms, green bell pepper
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: green bell pepper sliced
+      INGREDIENT SPAN: mushrooms
+         INGREDIENTS: fresh mushrooms quartered
+   PARG: same wok or skillet, stir-fry
+     PREP: to
+      NON-INGREDIENT SPAN:  stir-fry
+      NON-INGREDIENT SPAN: same wok or skillet
+   PARG: 2 to 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 minutes
+
+
+SENTID: 11
+SENT: I would add the scallions and stir-fry 1 minute more .
+PREDID: 540
+PRED: add
+   DOBJ: the scallions, stir-fry 1 minute more
+      NON-INGREDIENT SPAN: the scallions
+      NON-INGREDIENT SPAN:  stir-fry 1 minute more
+
+
+SENTID: 12
+SENT: I would return chicken to wok , together with reserved marinade , and stir over medium high heat for another 2 to 3 minutes , or until the ingredients are evenly coated with the glaze .
+PREDID: 578
+PRED: return
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: to wok , together with reserved marinade , stir over medium high heat for another 2 to 3 minutes , or until the ingredients are evenly coated with the glaze
+      NON-INGREDIENT SPAN: to wok 
+      NON-INGREDIENT SPAN:  stir over medium high heat for another 2 to 3 minutes 
+      NON-INGREDIENT SPAN:  together with reserved marinade 
+      NON-INGREDIENT SPAN:  or until the ingredients are evenly coated with the glaze
+
+PREDID: 694
+PRED: are
+   DOBJ: NULL
+
+
+SENTID: 13
+SENT: I would sprinkle toasted sesame seeds on top and serve immediately .
+PREDID: 722
+PRED: sprinkle
+   DOBJ: toasted sesame seeds
+      NON-INGREDIENT SPAN: toasted sesame seeds
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+PREDID: 756
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

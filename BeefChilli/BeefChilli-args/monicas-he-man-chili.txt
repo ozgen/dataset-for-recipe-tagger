@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: In a skillet over medium-high heat , I would cook the bacon until evenly brown and crisp .
+PREDID: 30
+PRED: cook
+   DOBJ: the bacon
+      INGREDIENT SPAN: the bacon
+         INGREDIENTS: bacon
+   PARG: a skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium-high heat
+   PARG: evenly brown, crisp
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+      NON-INGREDIENT SPAN:  crisp
+
+
+SENTID: 1
+SENT: I would reserve juices in skillet , and set bacon aside .
+PREDID: 67
+PRED: reserve
+   DOBJ: juices
+      NON-INGREDIENT SPAN: juices
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 93
+PRED: set
+   DOBJ: bacon
+      NON-INGREDIENT SPAN: bacon
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would brown the sausage in the bacon juices .
+PREDID: 107
+PRED: brown
+   DOBJ: the sausage in the bacon juices
+      INGREDIENT SPAN: the sausage in the bacon juices
+         INGREDIENTS: kielbasa sausage cut inch
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 139
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would cook the ground beef in the skillet until evenly brown .
+PREDID: 148
+PRED: cook
+   DOBJ: the ground beef in the skillet
+      INGREDIENT SPAN: the ground beef in the skillet
+         INGREDIENTS: ground beef
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 194
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would saute the onion and green pepper in the skillet juices until tender .
+PREDID: 203
+PRED: saute
+   DOBJ: the onion, green pepper in the skillet juices
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  green pepper in the skillet juices
+         INGREDIENTS: green bell pepper chopped
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 7
+SENT: In a large pot over medium heat , I would mix the bacon , the sausage , the beef , the onion , green pepper , and jalapeno pepper .
+PREDID: 286
+PRED: mix
+   DOBJ: the bacon , the sausage , the beef , the onion , green pepper , jalapeno pepper
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: chopped jalapeno pepper
+      NON-INGREDIENT SPAN:  the onion 
+      NON-INGREDIENT SPAN:  the beef 
+      NON-INGREDIENT SPAN:  jalapeno pepper
+      NON-INGREDIENT SPAN: the bacon 
+      NON-INGREDIENT SPAN:  the sausage 
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 8
+SENT: I would pour in the wine and tomatoes , and season with chili powder .
+PREDID: 347
+PRED: pour
+   DOBJ: NULL
+   PARG: the wine, tomatoes , season with chili powder
+     PREP: in
+      INGREDIENT SPAN:  tomatoes 
+         INGREDIENTS: ounce whole peeled tomatoes mashed liquid reserved
+      INGREDIENT SPAN: the wine
+         INGREDIENTS: Merlot wine
+      INGREDIENT SPAN:  season with chili powder
+         INGREDIENTS: chili powder taste
+
+
+SENTID: 9
+SENT: I would cook 20 minutes , stirring often .
+PREDID: 397
+PRED: cook
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: stirring often
+      NON-INGREDIENT SPAN: stirring often
+
+
+SENTID: 10
+SENT: I would mix in the beans , and continue to cook and stir 25 minutes .
+PREDID: 425
+PRED: mix
+   DOBJ: NULL
+   PARG: the beans
+     PREP: in
+      INGREDIENT SPAN: the beans
+         INGREDIENTS: ounce pinto beans drained
+
+PREDID: 442
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook, stir 25 minutes
+      NON-INGREDIENT SPAN:  stir 25 minutes
+      NON-INGREDIENT SPAN: to cook
+
+

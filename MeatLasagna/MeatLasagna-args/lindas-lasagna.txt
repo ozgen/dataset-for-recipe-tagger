@@ -1,0 +1,263 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , I would cook beef until brown .
+PREDID: 30
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would drain .
+PREDID: 49
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: In another skillet over medium heat , I would cook onion until translucent .
+PREDID: 86
+PRED: cook
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+   PARG: another skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: another skillet over medium heat
+   PARG: translucent
+     PREP: until
+      NON-INGREDIENT SPAN: translucent
+
+
+SENTID: 3
+SENT: I would combine beef and onion in a large saucepan with tomato paste , crushed tomatoes , the water , the oregano , garlic powder , the salt , the pepper and sugar .
+PREDID: 112
+PRED: combine
+   DOBJ: beef, onion
+      NON-INGREDIENT SPAN: beef
+      NON-INGREDIENT SPAN:  onion
+   PARG: a large saucepan with tomato paste , crushed tomatoes , the water , the oregano , garlic powder , the salt , the pepper, sugar
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: a large saucepan with tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  crushed tomatoes 
+         INGREDIENTS: ounce crushed tomatoes
+
+
+SENTID: 4
+SENT: I would cook over medium heat until mixture comes to a boil .
+PREDID: 226
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: mixture comes to a boil
+     PREP: until
+      NON-INGREDIENT SPAN: mixture comes to a boil
+
+
+SENTID: 5
+SENT: I would reduce heat to low and simmer 1 hour .
+PREDID: 269
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low, simmer 1 hour
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer 1 hour
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 6
+SENT: While sauce is simmering , I would blend cottage cheese , the Parmesan and egg until smooth .
+PREDID: 321
+PRED: blend
+   DOBJ: cottage cheese , the Parmesan, egg
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: cottage cheese
+      INGREDIENT SPAN:  the Parmesan
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg
+   PARG: sauce is simmering
+     PREP: while
+      NON-INGREDIENT SPAN: sauce is simmering
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 366
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 375
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 417
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 10
+SENT: I would drain .
+PREDID: 462
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 468
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 12
+SENT: I would spread 1 cup of sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 506
+PRED: spread
+   DOBJ: 1 cup of sauce
+      NON-INGREDIENT SPAN: 1 cup of sauce
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 13
+SENT: I would cover sauce with 3 noodles .
+PREDID: 556
+PRED: cover
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: 3 noodles
+     PREP: with
+      INGREDIENT SPAN: 3 noodles
+         INGREDIENTS: lasagna noodles
+
+
+SENTID: 14
+SENT: I would cover noodles with one-third of remaining sauce .
+PREDID: 579
+PRED: cover
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: lasagna noodles
+   PARG: one-third of remaining sauce
+     PREP: with
+      NON-INGREDIENT SPAN: one-third of remaining sauce
+
+
+SENTID: 15
+SENT: I would top with half the mozzarella .
+PREDID: 621
+PRED: top
+   DOBJ: NULL
+   PARG: half the mozzarella
+     PREP: with
+      INGREDIENT SPAN: half the mozzarella
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 16
+SENT: I would place another layer of noodles and one of sauce over the mozzarella ;
+PREDID: 646
+PRED: place
+   DOBJ: another layer of noodles, one of sauce
+      NON-INGREDIENT SPAN:  one of sauce
+      NON-INGREDIENT SPAN: another layer of noodles
+   PARG: the mozzarella
+     PREP: over
+      NON-INGREDIENT SPAN: the mozzarella
+
+
+SENTID: 17
+SENT: I would top that with the cottage cheese mixture .
+PREDID: 703
+PRED: top
+   DOBJ: that with the cottage cheese mixture
+      NON-INGREDIENT SPAN: that with the cottage cheese mixture
+
+
+SENTID: 18
+SENT: I would top with remaining 3 noodles and remaining sauce .
+PREDID: 738
+PRED: top
+   DOBJ: NULL
+   PARG: remaining 3 noodles, remaining sauce
+     PREP: with
+      NON-INGREDIENT SPAN: remaining 3 noodles
+      NON-INGREDIENT SPAN:  remaining sauce
+
+
+SENTID: 19
+SENT: I would bake in preheated oven 30 minutes .
+PREDID: 780
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 20
+SENT: I would sprinkle the remaining mozzarella on top and bake 15 minutes more , until golden and bubbly .
+PREDID: 809
+PRED: sprinkle
+   DOBJ: the remaining mozzarella
+      NON-INGREDIENT SPAN: the remaining mozzarella
+   PARG: top, bake
+     PREP: on
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: top
+   PARG: golden, bubbly
+     PREP: until
+      NON-INGREDIENT SPAN:  bubbly
+      NON-INGREDIENT SPAN: golden
+   OARG: 15 minutes more
+      NON-INGREDIENT SPAN: 15 minutes more
+
+

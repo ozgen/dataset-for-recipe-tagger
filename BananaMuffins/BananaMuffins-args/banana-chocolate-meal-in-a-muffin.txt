@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 12-cup muffin tin with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 12-cup muffin tin
+      NON-INGREDIENT SPAN: a 12-cup muffin tin
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+
+SENTID: 2
+SENT: I would mix mashed bananas and brown sugar together in a large bowl .
+PREDID: 76
+PRED: mix
+   DOBJ: mashed bananas, brown sugar
+      INGREDIENT SPAN: mashed bananas
+         INGREDIENTS: bananas mashed
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would add eggs , olive oil , and vanilla extract ;
+PREDID: 126
+PRED: add
+   DOBJ: eggs , olive oil , vanilla extract
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 161
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would mix flour , cocoa powder , baking powder , and cinnamon in a separate bowl .
+PREDID: 169
+PRED: mix
+   DOBJ: flour , cocoa powder , baking powder , cinnamon in a separate bowl
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: cocoa powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  cinnamon in a separate bowl
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 6
+SENT: I would stir banana mixture into flour mixture .
+PREDID: 230
+PRED: stir
+   DOBJ: banana mixture
+      NON-INGREDIENT SPAN: banana mixture
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+
+
+SENTID: 7
+SENT: I would fold chocolate chips and walnuts into batter .
+PREDID: 264
+PRED: fold
+   DOBJ: chocolate chips, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: chocolate chips
+   PARG: batter
+     PREP: into
+      NON-INGREDIENT SPAN: batter
+
+
+SENTID: 8
+SENT: I would distribute batter into the muffin cups .
+PREDID: 303
+PRED: distribute
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: the muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: the muffin cups
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , 35 to 40 minutes .
+PREDID: 337
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted in the center of a muffin comes out clean , 35 to 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 40 minutes
+      NON-INGREDIENT SPAN: a toothpick inserted in the center of a muffin comes out clean 
+
+

@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: In a small bowl , I would blend vanilla yogurt , lime juice , mango chutney , rice vinegar , the honey , the cumin , the coriander , and paprika .
+PREDID: 13
+PRED: blend
+   DOBJ: vanilla yogurt , lime juice , mango chutney , rice vinegar , the honey , the cumin , the coriander , paprika
+      INGREDIENT SPAN: vanilla yogurt 
+         INGREDIENTS: vanilla lowfat yogurt
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  rice vinegar 
+         INGREDIENTS: seasoned rice vinegar
+      INGREDIENT SPAN:  mango chutney 
+         INGREDIENTS: mango chutney
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: ground paprika
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 1
+SENT: I would heat olive oil in a medium skillet over medium heat .
+PREDID: 100
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a medium skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet over medium heat
+
+
+SENTID: 2
+SENT: I would place chicken , the ginger , and garlic in the skillet .
+PREDID: 143
+PRED: place
+   DOBJ: chicken , the ginger , garlic in the skillet
+      INGREDIENT SPAN:  garlic in the skillet
+         INGREDIENTS: clove garlic peeled minced
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: grated fresh ginger
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+
+
+SENTID: 3
+SENT: I would cook 7 to 10 minutes , stirring occasionally , until chicken is no longer pink and juices run clear .
+PREDID: 185
+PRED: cook
+   DOBJ: NULL
+   PARG: 7 to 10 minutes , stirring occasionally , until chicken is no longer pink
+     PREP: for
+      NON-INGREDIENT SPAN:  until chicken is no longer pink
+      NON-INGREDIENT SPAN: 7 to 10 minutes 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+   OARG: juices run clear
+      NON-INGREDIENT SPAN: juices run clear
+
+
+SENTID: 4
+SENT: I would mix mango , red bell pepper , and green onions into the skillet .
+PREDID: 267
+PRED: mix
+   DOBJ: mango , red bell pepper , green onions
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: sliced red bell pepper
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN: mango 
+         INGREDIENTS: peeled seeded chopped mango
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 5
+SENT: I would cook about 5 minutes , until pepper is tender and mangoes are heated through .
+PREDID: 319
+PRED: cook
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: pepper is tender
+     PREP: until
+      NON-INGREDIENT SPAN: pepper is tender
+
+PREDID: 369
+PRED: are heated
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 6
+SENT: I would stir in the vanilla yogurt mixture .
+PREDID: 383
+PRED: stir
+   DOBJ: NULL
+   PARG: the vanilla yogurt mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the vanilla yogurt mixture
+
+
+SENTID: 7
+SENT: I would spoon over romaine lettuce to serve .
+PREDID: 413
+PRED: spoon
+   DOBJ: romaine lettuce to serve
+      INGREDIENT SPAN: romaine lettuce to serve
+         INGREDIENTS: torn romaine lettuce
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

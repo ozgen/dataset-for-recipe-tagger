@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: I would remove sausage from casings and saute sausage in 2 tablespoons olive oil until browned .
+PREDID: 0
+PRED: remove
+   DOBJ: sausage
+      INGREDIENT SPAN: sausage
+         INGREDIENTS: sweet Italian sausage
+   PARG: casings
+     PREP: from
+      NON-INGREDIENT SPAN: casings
+
+PREDID: 27
+PRED: saute
+   DOBJ: sausage in 2 tablespoons olive oil
+      INGREDIENT SPAN: sausage in 2 tablespoons olive oil
+         INGREDIENTS: olive oil divided
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+
+
+SENTID: 1
+SENT: I would drain to remove excess oil .
+PREDID: 74
+PRED: drain
+   DOBJ: NULL
+   OARG: to remove excess oil
+      INGREDIENT SPAN: to remove excess oil
+         INGREDIENTS: olive oil divided
+
+
+SENTID: 2
+SENT: I would remove from skillet and set aside .
+PREDID: 97
+PRED: remove
+   DOBJ: NULL
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 117
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In skillet , I would heat 3 tablespoons olive oil , add onions , garlic and saute stirring until onions wilt down .
+PREDID: 161
+PRED: add
+   DOBJ: onions , garlic, saute stirring until onions wilt down
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic pressed
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: large onions sliced
+      NON-INGREDIENT SPAN:  saute stirring until onions wilt down
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+   OARG: i would heat 3 tablespoons olive oil
+      NON-INGREDIENT SPAN: i would heat 3 tablespoons olive oil
+
+
+SENTID: 4
+SENT: I would add tomato sauce , the salt , the pepper and red pepper to taste .
+PREDID: 213
+PRED: add
+   DOBJ: tomato sauce , the salt , the pepper, red pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: crushed red pepper taste
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  red pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 5
+SENT: I would simmer about 5 minutes on low .
+PREDID: 259
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 6
+SENT: I would stir together the sausage and onion and chopped olives .
+PREDID: 284
+PRED: stir
+   DOBJ: the sausage, onion, chopped olives
+      INGREDIENT SPAN:  chopped olives
+         INGREDIENTS: sliced stuffed green olives
+      NON-INGREDIENT SPAN:  onion
+      NON-INGREDIENT SPAN: the sausage
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would toast bread lightly under broiler .
+PREDID: 331
+PRED: toast
+   DOBJ: bread
+      INGREDIENT SPAN: bread
+         INGREDIENTS: pound loaf French bread sliced
+   PARG: broiler
+     PREP: under
+      NON-INGREDIENT SPAN: broiler
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 8
+SENT: I would top with sausage mix and sprinkle grated mozzarella over all .
+PREDID: 361
+PRED: top
+   DOBJ: NULL
+   PARG: sausage mix
+     PREP: with
+      NON-INGREDIENT SPAN: sausage mix
+
+PREDID: 381
+PRED: sprinkle
+   DOBJ: grated mozzarella
+      INGREDIENT SPAN: grated mozzarella
+         INGREDIENTS: mozzarella cheese shredded
+   PARG: all
+     PREP: over
+      NON-INGREDIENT SPAN: all
+
+
+SENTID: 9
+SENT: I would broil about 3 minutes under broiler until cheese melts .
+PREDID: 413
+PRED: broil
+   DOBJ: NULL
+   PARG: about 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 3 minutes
+   PARG: broiler until cheese melts
+     PREP: under
+      NON-INGREDIENT SPAN: broiler until cheese melts
+
+
+SENTID: 10
+SENT: I would watch carefully with oven door open .
+PREDID: 460
+PRED: watch
+   DOBJ: NULL
+   PARG: oven door open
+     PREP: with
+      NON-INGREDIENT SPAN: oven door open
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 11
+SENT: I would remove from broiler , the slice and serve .
+PREDID: 491
+PRED: remove
+   DOBJ: NULL
+   PARG: broiler , the slice
+     PREP: from
+      NON-INGREDIENT SPAN: broiler 
+      NON-INGREDIENT SPAN:  the slice
+
+

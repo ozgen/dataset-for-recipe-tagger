@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: In a large saucepan , I would cover potatoes with cold salted water and bring to a boil .
+PREDID: 17
+PRED: cover
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: medium new potatoes unpeeled cut quarters
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: cold salted water
+     PREP: with
+      NON-INGREDIENT SPAN: cold salted water
+
+PREDID: 52
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook until tender , about 10 minutes , adding beans in the last 4 or 5 minutes of cooking .
+PREDID: 65
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 10 minutes , adding beans in the last 4 or 5 minutes of cooking
+     PREP: until
+      INGREDIENT SPAN:  adding beans in the last 4 or 5 minutes of cooking
+         INGREDIENTS: fresh green beans trimmed cut desired length
+      NON-INGREDIENT SPAN:  about 10 minutes 
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: When vegetables are tender , drain .
+PREDID: 161
+PRED: drain
+   DOBJ: NULL
+   OARG: when vegetables are tender
+      NON-INGREDIENT SPAN: when vegetables are tender
+
+
+SENTID: 3
+SENT: I would place in a large bowl ;
+PREDID: 167
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would toss with 2 tbsp olive oil .
+PREDID: 185
+PRED: toss
+   DOBJ: NULL
+   PARG: 2 tbsp olive oil
+     PREP: with
+      INGREDIENT SPAN: 2 tbsp olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 5
+SENT: I would add eggs .
+PREDID: 207
+PRED: add
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardboiled cooked eggs peeled chopped
+
+
+SENTID: 6
+SENT: I would combine the remaining 3 tbsp olive oil , the vinegar , the mustard , the garlic , the salt and pepper .
+PREDID: 215
+PRED: combine
+   DOBJ: the remaining 3 tbsp olive oil , the vinegar , the mustard , the garlic , the salt, pepper
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN: the remaining 3 tbsp olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+
+
+SENTID: 7
+SENT: I would drizzle vinaigrette over vegetables and eggs ;
+PREDID: 282
+PRED: drizzle
+   DOBJ: vinaigrette
+      NON-INGREDIENT SPAN: vinaigrette
+   PARG: vegetables, eggs
+     PREP: over
+      NON-INGREDIENT SPAN: vegetables
+      NON-INGREDIENT SPAN:  eggs
+
+
+SENTID: 8
+SENT: I would toss gently to combine .
+PREDID: 322
+PRED: toss
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 9
+SENT: I would adjust seasonings , if necessary .
+PREDID: 342
+PRED: adjust
+   DOBJ: seasonings
+      NON-INGREDIENT SPAN: seasonings
+   PARG: necessary
+     PREP: if
+      NON-INGREDIENT SPAN: necessary
+
+
+SENTID: 10
+SENT: I would serve warm .
+PREDID: 371
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

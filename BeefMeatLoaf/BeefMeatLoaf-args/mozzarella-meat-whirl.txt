@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine beef , bread crumbs , the egg , the mustard , the salt and pepper ;
+PREDID: 51
+PRED: combine
+   DOBJ: beef , bread crumbs , the egg , the mustard , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: dry mustard
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: soft bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 101
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: On a sheet of waxed paper , I would pat out beef mixture into a large rectangle .
+PREDID: 130
+PRED: pat
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a sheet of waxed paper
+     PREP: on
+      NON-INGREDIENT SPAN: a sheet of waxed paper
+   PARG: a large rectangle
+     PREP: into
+      NON-INGREDIENT SPAN: a large rectangle
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would cover the surface with slices of cheese .
+PREDID: 167
+PRED: cover
+   DOBJ: the surface
+      NON-INGREDIENT SPAN: the surface
+   PARG: slices of cheese
+     PREP: with
+      INGREDIENT SPAN: slices of cheese
+         INGREDIENTS: ounce package mozzarella cheese sliced
+
+
+SENTID: 5
+SENT: Starting with the short side of the rectangle , I would roll up and remove waxed paper simultaneously .
+PREDID: 240
+PRED: roll
+   DOBJ: NULL
+   PARG: with the short side of the rectangle
+     PREP: starting
+      NON-INGREDIENT SPAN: with the short side of the rectangle
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+PREDID: 249
+PRED: remove
+   DOBJ: waxed paper
+      NON-INGREDIENT SPAN: waxed paper
+   OARG: simultaneously
+      NON-INGREDIENT SPAN: simultaneously
+
+
+SENTID: 6
+SENT: I would place in a shallow baking dish .
+PREDID: 280
+PRED: place
+   DOBJ: NULL
+   PARG: a shallow baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow baking dish
+
+
+SENTID: 7
+SENT: In a small bowl , I would mix together ketchup , the water , and Worcestershire sauce ;
+PREDID: 319
+PRED: mix
+   DOBJ: ketchup , the water , Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would pour over beef .
+PREDID: 367
+PRED: pour
+   DOBJ: NULL
+   PARG: beef
+     PREP: over
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 9
+SENT: I would bake in preheated oven for 1 hour and 10 minutes .
+PREDID: 380
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour, 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  10 minutes
+      NON-INGREDIENT SPAN: preheated oven for 1 hour
+
+

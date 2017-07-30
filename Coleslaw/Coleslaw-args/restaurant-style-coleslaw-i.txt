@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: I would combine the coleslaw and onion in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: the coleslaw, onion in a large bowl
+      INGREDIENT SPAN: the coleslaw
+         INGREDIENTS: ounce package coleslaw mix
+      INGREDIENT SPAN:  onion in a large bowl
+         INGREDIENTS: minced onion
+
+
+SENTID: 1
+SENT: In a separate bowl , I would combine the sugar , the salt , the pepper , the milk , the mayonnaise , the buttermilk , the vinegar and lemon juice ;
+PREDID: 55
+PRED: combine
+   DOBJ: the sugar , the salt , the pepper , the milk , the mayonnaise , the buttermilk , the vinegar, lemon juice
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the buttermilk 
+         INGREDIENTS: buttermilk
+      INGREDIENT SPAN: the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  lemon juice
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 2
+SENT: I would mix until smooth .
+PREDID: 131
+PRED: mix
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour mixture over the coleslaw and onion ;
+PREDID: 146
+PRED: pour
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the coleslaw, onion
+     PREP: over
+      NON-INGREDIENT SPAN:  onion
+      NON-INGREDIENT SPAN: the coleslaw
+
+
+SENTID: 4
+SENT: I would stir well and chill for 1 hour .
+PREDID: 181
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 192
+PRED: chill
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+

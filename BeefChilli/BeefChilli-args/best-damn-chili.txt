@@ -1,0 +1,232 @@
+SENTID: 0
+SENT: I would heat oil in a large pot over medium heat ;
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir onion , bell pepper , Anaheim pepper , jalapeno peppers , and garlic in the hot oil until softened .
+PREDID: 33
+PRED: cook and stir
+   DOBJ: onion , bell pepper , Anaheim pepper , jalapeno peppers , garlic in the hot oil
+      INGREDIENT SPAN:  jalapeno peppers 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  Anaheim pepper 
+         INGREDIENTS: Anaheim chile pepper chopped
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: yellow onion chopped
+      NON-INGREDIENT SPAN:  garlic in the hot oil
+   PARG: softened
+     PREP: until
+      NON-INGREDIENT SPAN: softened
+
+
+SENTID: 2
+SENT: I would meanwhile , heat a large skillet over medium-high heat .
+PREDID: 135
+PRED: heat
+   DOBJ: a large skillet over medium-high heat
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would cook and stir beef in the hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 172
+PRED: cook and stir
+   DOBJ: beef in the hot skillet
+      INGREDIENT SPAN: beef in the hot skillet
+         INGREDIENTS: beef bouillon cubes
+   PARG: browned, crumbly , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 4
+SENT: I would add Worcestershire sauce and garlic powder .
+PREDID: 237
+PRED: add
+   DOBJ: Worcestershire sauce, garlic powder
+      INGREDIENT SPAN: Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder taste
+
+
+SENTID: 5
+SENT: I would crumble bouillon cubes over beef and add beer .
+PREDID: 275
+PRED: crumble
+   DOBJ: bouillon cubes
+      NON-INGREDIENT SPAN: bouillon cubes
+   PARG: beef
+     PREP: over
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+
+PREDID: 306
+PRED: add
+   DOBJ: beer
+      INGREDIENT SPAN: beer
+         INGREDIENTS: fluid ounce bottle light beer such Coors
+
+
+SENTID: 6
+SENT: I would continue to cook , scraping any browned bits from the bottom of the skillet , until liquid is hot , about 3 minutes .
+PREDID: 314
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook , scraping any browned bits from the bottom of the skillet , until liquid is hot , about 3 minutes
+      NON-INGREDIENT SPAN:  until liquid is hot 
+      NON-INGREDIENT SPAN: to cook 
+      NON-INGREDIENT SPAN:  scraping any browned bits from the bottom of the skillet 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 7
+SENT: I would stir beef mixture into pepper mixture .
+PREDID: 408
+PRED: stir
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: pepper mixture
+     PREP: into
+      INGREDIENT SPAN: pepper mixture
+         INGREDIENTS: chipotle pepper sauce
+
+
+SENTID: 8
+SENT: I would stir crushed tomatoes , diced tomatoes , tomato paste , and wine to the beef mixture .
+PREDID: 441
+PRED: stir
+   DOBJ: crushed tomatoes , diced tomatoes , tomato paste , wine
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce crushed San Marzano tomatoes
+      INGREDIENT SPAN:  wine
+         INGREDIENTS: white wine
+      INGREDIENT SPAN: crushed tomatoes 
+         INGREDIENTS: ounce fireroasted diced tomatoes
+   PARG: the beef mixture
+     PREP: to
+      NON-INGREDIENT SPAN: the beef mixture
+
+
+SENTID: 9
+SENT: I would season with chili powder , 2 tablespoons cumin , brown sugar , pepper sauce , the basil , the paprika , the salt , the oregano , and black pepper .
+PREDID: 511
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , 2 tablespoons cumin , brown sugar , pepper sauce , the basil , the paprika , the salt , the oregano , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: smoked paprika
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  pepper sauce 
+         INGREDIENTS: red jalapeno pepper chopped
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  2 tablespoons cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 10
+SENT: I would bring to a boil and reduce heat to medium-low .
+PREDID: 616
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 631
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+
+SENTID: 11
+SENT: I would cover and simmer until meat and vegetables are very tender and flavors have developed in the chili , about 90 minutes , stirring occasionally .
+PREDID: 654
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: meat, vegetables are very tender
+     PREP: until
+      NON-INGREDIENT SPAN:  vegetables are very tender
+      NON-INGREDIENT SPAN: meat
+   OARG: flavors have developed in the chili , about 90 minutes , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: flavors have developed in the chili 
+      NON-INGREDIENT SPAN:  about 90 minutes 
+
+
+SENTID: 12
+SENT: I would mix kidney beans into beef and vegetables .
+PREDID: 773
+PRED: mix
+   DOBJ: kidney beans
+      INGREDIENT SPAN: kidney beans
+         INGREDIENTS: ounce dark red kidney beans such Bush
+   PARG: beef, vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: beef
+      NON-INGREDIENT SPAN:  vegetables
+
+
+SENTID: 13
+SENT: I would continue to simmer until beans are hot , about 30 minutes more .
+PREDID: 809
+PRED: continue
+   DOBJ: NULL
+   OARG: to simmer until beans are hot , about 30 minutes more
+      NON-INGREDIENT SPAN: to simmer until beans are hot 
+      NON-INGREDIENT SPAN:  about 30 minutes more
+
+
+SENTID: 14
+SENT: I would blend sour cream , the cilantro , and remaining 1/2 teaspoon cumin in a food processor until smooth .
+PREDID: 861
+PRED: blend
+   DOBJ: sour cream , the cilantro , remaining 1/2 teaspoon cumin in a food processor until smooth
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  remaining 1/2 teaspoon cumin in a food processor until smooth
+         INGREDIENTS: ground cumin
+
+
+SENTID: 15
+SENT: I would serve sour cream mixture with chili .
+PREDID: 941
+PRED: serve
+   DOBJ: sour cream mixture
+      NON-INGREDIENT SPAN: sour cream mixture
+   PARG: chili
+     PREP: with
+      NON-INGREDIENT SPAN: chili
+
+

@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: I would stir potatoes , whole kernel corn , cream-style corn , evaporated milk , vegetable broth , sweet onion , the celery , garlic powder , dried chives , Worcestershire sauce , and black pepper together in a slow cooker .
+PREDID: 0
+PRED: stir
+   DOBJ: potatoes , whole kernel corn , cream-style corn , evaporated milk , vegetable broth , sweet onion , the celery , garlic powder , dried chives , Worcestershire sauce , black pepper
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  whole kernel corn 
+         INGREDIENTS: ounce whole kernel sweet corn
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: potatoes 
+         INGREDIENTS: ounce package frozen cubed hash brown potatoes
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  sweet onion 
+         INGREDIENTS: sweet onion chopped
+      INGREDIENT SPAN:  vegetable broth 
+         INGREDIENTS: ounce vegetable broth
+      INGREDIENT SPAN:  dried chives 
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  cream-style corn 
+         INGREDIENTS: ounce creamstyle corn
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+   PARG: a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: a slow cooker
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would cook 6 hours on Low , stirring occasionally .
+PREDID: 174
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 hours on low , stirring occasionally
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: 6 hours on low 
+
+

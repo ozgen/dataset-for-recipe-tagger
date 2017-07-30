@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium baking dish
+      INGREDIENT SPAN: a medium baking dish
+         INGREDIENTS: medium zucchini sliced lengthwise 1/4inch thick strips
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In a skillet over medium heat , I would cook the ground beef until evenly brown .
+PREDID: 94
+PRED: cook
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 3
+SENT: I would drain juices .
+PREDID: 128
+PRED: drain
+   DOBJ: juices
+      NON-INGREDIENT SPAN: juices
+
+
+SENTID: 4
+SENT: I would mix the onion , green bell pepper , the carrots , the garlic , and tomato sauce into the skillet .
+PREDID: 140
+PRED: mix
+   DOBJ: the onion , green bell pepper , the carrots , the garlic , tomato sauce
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: chopped carrots
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: the skillet
+     PREP: into
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 5
+SENT: I would season with oregano , the basil , the salt , and pepper .
+PREDID: 212
+PRED: season
+   DOBJ: NULL
+   PARG: oregano , the basil , the salt , pepper
+     PREP: with
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN: oregano 
+         INGREDIENTS: dried oregano
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 6
+SENT: I would bring the mixture to a boil , reduce heat to low , and simmer 10 minutes , until vegetables are tender .
+PREDID: 251
+PRED: bring
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 274
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 293
+PRED: simmer
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: vegetables are tender
+
+
+SENTID: 7
+SENT: In the bottom of the prepared baking dish , I would layer 1/2 the zucchini strips .
+PREDID: 369
+PRED: layer
+   DOBJ: the zucchini strips
+      NON-INGREDIENT SPAN: the zucchini strips
+   PARG: the bottom of the prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+   OARG: 1/2
+      NON-INGREDIENT SPAN: 1/2
+
+
+SENTID: 8
+SENT: In a bowl , I would beat together the cottage cheese and egg , and spread over the zucchini .
+PREDID: 403
+PRED: beat
+   DOBJ: the cottage cheese, egg , spread over the zucchini
+      INGREDIENT SPAN:  egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN: the cottage cheese
+         INGREDIENTS: cottage cheese
+      NON-INGREDIENT SPAN:  spread over the zucchini
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would scoop 1/2 the beef mixture over the cottage cheese and egg mixture , and sprinkle with 1/2 the mozzarella cheese .
+PREDID: 463
+PRED: scoop
+   DOBJ: 1/2
+      NON-INGREDIENT SPAN: 1/2
+   PARG: the cottage cheese, egg mixture
+     PREP: over
+      INGREDIENT SPAN: the cottage cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  egg mixture
+   OARG: the beef mixture
+      NON-INGREDIENT SPAN: the beef mixture
+   OARG: sprinkle with 1/2 the mozzarella cheese
+      INGREDIENT SPAN: sprinkle with 1/2 the mozzarella cheese
+         INGREDIENTS: grated Parmesan cheese
+
+
+SENTID: 10
+SENT: I would layer with remaining zucchini , beef mixture , and mozzarella .
+PREDID: 557
+PRED: layer
+   DOBJ: NULL
+   PARG: remaining zucchini , beef mixture , mozzarella
+     PREP: with
+      NON-INGREDIENT SPAN: remaining zucchini 
+      NON-INGREDIENT SPAN:  beef mixture 
+      NON-INGREDIENT SPAN:  mozzarella
+
+
+SENTID: 11
+SENT: I would top with Parmesan cheese .
+PREDID: 610
+PRED: top
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: parmesan cheese
+
+
+SENTID: 12
+SENT: I would bake 45 minutes in the preheated oven .
+PREDID: 632
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 13
+SENT: I would allow to sit 10 minutes before slicing to serve .
+PREDID: 664
+PRED: allow
+   DOBJ: NULL
+   OARG: to sit 10 minutes before slicing to serve
+      NON-INGREDIENT SPAN: to sit 10 minutes before slicing to serve
+
+

@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: In a medium skillet , I would melt butter over medium heat .
+PREDID: 17
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a medium skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would add garlic , the onion , and green pepper and saute until onions are soft .
+PREDID: 42
+PRED: add
+   DOBJ: garlic , the onion , green pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green pepper
+         INGREDIENTS: small green bell pepper chopped
+      NON-INGREDIENT SPAN: garlic 
+
+PREDID: 78
+PRED: saute
+   DOBJ: NULL
+   PARG: onions are soft
+     PREP: until
+      NON-INGREDIENT SPAN: onions are soft
+
+
+SENTID: 2
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 99
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 3
+SENT: In a large mixing bowl , I would place ground beef , crushed crackers , Cheddar cheese , taco seasoning , and sauteed onion and green pepper .
+PREDID: 156
+PRED: place
+   DOBJ: ground beef , crushed crackers , Cheddar cheese , taco seasoning , sauteed onion, green pepper
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  crushed crackers 
+         INGREDIENTS: saltine crackers crushed
+      INGREDIENT SPAN:  taco seasoning 
+         INGREDIENTS: ounce package taco seasoning mix
+      NON-INGREDIENT SPAN:  sauteed onion
+      NON-INGREDIENT SPAN:  green pepper
+   PARG: a large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 4
+SENT: I would mix thoroughly .
+PREDID: 246
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 5
+SENT: I would press beef mixture into a 9x5 inch loaf pan .
+PREDID: 260
+PRED: press
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 6
+SENT: I would bake in a preheated oven for 45 to 55 minutes or until done .
+PREDID: 296
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 45 to 55 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 45 to 55 minutes
+
+
+SENTID: 7
+SENT: I would check with a meat thermometer for doneness .
+PREDID: 344
+PRED: check
+   DOBJ: NULL
+   PARG: a meat thermometer for doneness
+     PREP: with
+      NON-INGREDIENT SPAN: a meat thermometer for doneness
+
+
+SENTID: 8
+SENT: I would internal temperature should read 165 degrees F -LRB- 74 degrees C -RRB- .
+

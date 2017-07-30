@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would prepare both boxes of macaroni and cheese according to package directions .
+PREDID: 0
+PRED: prepare
+   DOBJ: both boxes of macaroni, cheese
+      INGREDIENT SPAN: both boxes of macaroni
+         INGREDIENTS: ounce packages dry macaroni cheese
+      NON-INGREDIENT SPAN:  cheese
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 1
+SENT: I would meanwhile , in a large bowl mix together the chopped bell green pepper , onion , tomato , and crumbled bacon .
+PREDID: 123
+PRED: onion
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: bacon cooked crumbled
+   PARG: a large bowl mix together the chopped bell green pepper
+     PREP: in
+      INGREDIENT SPAN: a large bowl mix together the chopped bell green pepper
+         INGREDIENTS: green bell pepper chopped
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+   OARG: tomato
+      INGREDIENT SPAN: tomato
+         INGREDIENTS: large tomato chopped
+
+
+SENTID: 2
+SENT: I would mix in prepared macaroni and cheese to large bowl with vegetables and bacon .
+PREDID: 153
+PRED: mix
+   DOBJ: NULL
+   PARG: prepared macaroni, cheese
+     PREP: in
+      NON-INGREDIENT SPAN: prepared macaroni
+      NON-INGREDIENT SPAN:  cheese
+   PARG: large bowl with vegetables, bacon
+     PREP: to
+      NON-INGREDIENT SPAN: large bowl with vegetables
+      NON-INGREDIENT SPAN:  bacon
+
+
+SENTID: 3
+SENT: I would stir to incorporate ingredients evenly .
+PREDID: 217
+PRED: stir
+   DOBJ: NULL
+   OARG: to incorporate ingredients evenly
+      NON-INGREDIENT SPAN: to incorporate ingredients evenly
+
+
+SENTID: 4
+SENT: I would pour into a 9x13 inch baking dish .
+PREDID: 252
+PRED: pour
+   DOBJ: NULL
+   PARG: a 9x13 inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking dish
+
+
+SENTID: 5
+SENT: I would bake in a preheated 350 degree F -LRB- 175 degree C -RRB- oven for 45 to 60 minutes , or until crispy on top .
+PREDID: 280
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degree f -lrb- 175 degree c -rrb- oven for 45 to 60 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degree f -lrb- 175 degree c -rrb- oven for 45 to 60 minutes
+
+
+SENTID: 6
+SENT: I would serve warm .
+PREDID: 358
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

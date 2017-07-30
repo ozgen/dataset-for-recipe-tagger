@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: In a medium skillet , I would saute chicken breasts over medium high heat for about 10 minutes , or until browned .
+PREDID: 17
+PRED: saute
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breasts
+   PARG: a medium skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet
+   PARG: medium high heat for about 10 minutes
+     PREP: over
+      NON-INGREDIENT SPAN: medium high heat for about 10 minutes
+
+
+SENTID: 1
+SENT: If the chicken sticks at all , I would you can add a little of the broth .
+
+SENTID: 2
+SENT: When chicken is browned , remove from skillet and cut into 1 inch cubes .
+PREDID: 159
+PRED: remove
+   DOBJ: NULL
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+   OARG: when chicken is browned
+      INGREDIENT SPAN: when chicken is browned
+         INGREDIENTS: chicken broth
+
+PREDID: 179
+PRED: cut
+   DOBJ: NULL
+   PARG: 1 inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch cubes
+
+
+SENTID: 3
+SENT: I would sprinkle with garlic powder .
+PREDID: 197
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: garlic powder
+     PREP: with
+      INGREDIENT SPAN: garlic powder
+         INGREDIENTS: garlic powder
+
+
+SENTID: 4
+SENT: In the same skillet heat the broth , I would the basil , the pepper and vegetables .
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 222
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would stir in the uncooked noodles and return the chicken to the skillet .
+PREDID: 235
+PRED: stir
+   DOBJ: NULL
+   PARG: the uncooked noodles
+     PREP: in
+      INGREDIENT SPAN: the uncooked noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 262
+PRED: return
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+
+SENTID: 7
+SENT: I would reduce heat to low .
+PREDID: 291
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 8
+SENT: I would cover skillet and simmer all together , stirring occasionally , for 10 minutes or until chicken meat is no longer pink and noodles are soft .
+PREDID: 307
+PRED: cover
+   DOBJ: skillet, simmer
+      NON-INGREDIENT SPAN: skillet
+      NON-INGREDIENT SPAN:  simmer
+   OARG: all together
+      NON-INGREDIENT SPAN: all together
+   OARG: stirring occasionally , for 10 minutes or until chicken meat is no longer pink
+      NON-INGREDIENT SPAN:  for 10 minutes or until chicken meat is no longer pink
+      NON-INGREDIENT SPAN: stirring occasionally 
+   OARG: noodles are soft
+      NON-INGREDIENT SPAN: noodles are soft
+
+
+SENTID: 9
+SENT: I would serve .
+PREDID: 423
+PRED: serve
+   DOBJ: NULL
+
+

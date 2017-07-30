@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta , and cook until tender , about 8 minutes .
+PREDID: 42
+PRED: add
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: ounce package farfalle bow tie pasta
+
+PREDID: 54
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would add broccoli florets and asparagus to the boiling water during the last 5 minutes .
+PREDID: 84
+PRED: add
+   DOBJ: broccoli florets, asparagus
+      INGREDIENT SPAN:  asparagus
+         INGREDIENTS: fresh asparagus spears trimmed chopped
+      INGREDIENT SPAN: broccoli florets
+         INGREDIENTS: broccoli florets
+   PARG: the boiling water
+     PREP: to
+      NON-INGREDIENT SPAN: the boiling water
+   PARG: the last 5 minutes
+     PREP: during
+      NON-INGREDIENT SPAN: the last 5 minutes
+
+
+SENTID: 3
+SENT: I would drain , and run under cold water to cool .
+PREDID: 153
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 162
+PRED: run
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 4
+SENT: In a large serving bowl , I would stir together the diced chicken , kidney beans , black olives , green pepper , cherry tomatoes , feta cheese and Italian dressing .
+PREDID: 206
+PRED: stir
+   DOBJ: the diced chicken , kidney beans , black olives , green pepper , cherry tomatoes , feta cheese, Italian dressing
+      INGREDIENT SPAN:  cherry tomatoes 
+         INGREDIENTS: pint cherry tomatoes halved
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN:  Italian dressing
+         INGREDIENTS: Italian salad dressing needed
+      INGREDIENT SPAN:  feta cheese
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: ounce sliced black olives drained
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: medium green bell pepper seeded diced
+      INGREDIENT SPAN: the diced chicken 
+         INGREDIENTS: diced cooked chicken breast meat
+   PARG: a large serving bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large serving bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir in the pasta , the broccoli and asparagus .
+PREDID: 314
+PRED: stir
+   DOBJ: NULL
+   PARG: the pasta , the broccoli, asparagus
+     PREP: in
+      NON-INGREDIENT SPAN:  asparagus
+      NON-INGREDIENT SPAN:  the broccoli
+      NON-INGREDIENT SPAN: the pasta 
+
+
+SENTID: 6
+SENT: I would season with salt and pepper to taste .
+PREDID: 350
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 7
+SENT: I like it pretty heavy on the pepper .
+
+SENTID: 8
+SENT: This salad is best if chilled for a couple of hours before serving .
+

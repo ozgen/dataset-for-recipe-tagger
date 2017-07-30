@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: I would combine chicken , the pineapple , Red Delicious apple , Golden Delicious apple , the celery , red grapes , green grapes , and walnuts in a large bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: chicken , the pineapple , Red Delicious apple , Golden Delicious apple , the celery , red grapes , green grapes , walnuts in a large bowl
+      INGREDIENT SPAN:  Red Delicious apple 
+         INGREDIENTS: Red Delicious apple chopped
+      INGREDIENT SPAN:  Golden Delicious apple 
+         INGREDIENTS: Golden Delicious apple chopped
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce pineapple chunks drained
+      INGREDIENT SPAN:  red grapes 
+         INGREDIENTS: seedless green grapes
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: cubed cooked chicken breast
+      INGREDIENT SPAN:  walnuts in a large bowl
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  green grapes 
+         INGREDIENTS: seedless red grapes
+
+
+SENTID: 1
+SENT: I would whisk milk , the mayonnaise , and ranch dressing mix together in a separate bowl until well blended .
+PREDID: 116
+PRED: whisk
+   DOBJ: milk , the mayonnaise , ranch dressing mix together in a separate bowl until well blended
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  ranch dressing mix together in a separate bowl until well blended
+         INGREDIENTS: ounce packet ranch dressing mix
+
+
+SENTID: 2
+SENT: I would pour ranch dressing over chicken mixture ;
+PREDID: 196
+PRED: pour
+   DOBJ: ranch dressing over chicken mixture
+      NON-INGREDIENT SPAN: ranch dressing over chicken mixture
+
+
+SENTID: 3
+SENT: I would toss gently to coat .
+PREDID: 232
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 4
+SENT: I would serve salad on a bed of lettuce leaves .
+PREDID: 249
+PRED: serve
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: a bed of lettuce leaves
+     PREP: on
+      INGREDIENT SPAN: a bed of lettuce leaves
+         INGREDIENTS: leaves lettuce needed
+
+

@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: I would place the chicken breast meat into a skillet with 2 tablespoons of olive oil and 2 tablespoons of balsamic vinaigrette over medium heat ;
+PREDID: 0
+PRED: place
+   DOBJ: the chicken breast meat
+      INGREDIENT SPAN: the chicken breast meat
+         INGREDIENTS: large boneless skinless chicken breasts cubed
+   PARG: a skillet with 2 tablespoons of olive oil, 2 tablespoons of balsamic vinaigrette over medium heat
+     PREP: into
+      INGREDIENT SPAN:  2 tablespoons of balsamic vinaigrette over medium heat
+         INGREDIENTS: balsamic vinaigrette salad dressing
+      INGREDIENT SPAN: a skillet with 2 tablespoons of olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 1
+SENT: I would cook and stir until the chicken is browned , no longer pink in the center , and the juice has nearly evaporated , about 10 minutes .
+PREDID: 114
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken is browned , no longer pink in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is browned 
+      NON-INGREDIENT SPAN:  no longer pink in the center
+   OARG: the juice has nearly evaporated , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: the juice has nearly evaporated 
+
+
+SENTID: 2
+SENT: I would remove the chicken to a bowl and let cool .
+PREDID: 220
+PRED: remove
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+PREDID: 246
+PRED: let
+   DOBJ: NULL
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 3
+SENT: I would place the spinach into a salad bowl ;
+PREDID: 254
+PRED: place
+   DOBJ: the spinach
+      INGREDIENT SPAN: the spinach
+         INGREDIENTS: bunch fresh spinach rinsed dried
+   PARG: a salad bowl
+     PREP: into
+      INGREDIENT SPAN: a salad bowl
+         INGREDIENTS: balsamic vinaigrette salad dressing
+
+
+SENTID: 4
+SENT: I would scatter the strawberries , goat cheese , and candied pecans over the spinach .
+PREDID: 284
+PRED: scatter
+   DOBJ: the strawberries , goat cheese , candied pecans over the spinach
+      INGREDIENT SPAN:  goat cheese 
+         INGREDIENTS: crumbled goat cheese
+      INGREDIENT SPAN: the strawberries 
+         INGREDIENTS: pint strawberries sliced
+      INGREDIENT SPAN:  candied pecans over the spinach
+         INGREDIENTS: ounce package candied pecans such Emerald Pecan Pie Glazed Pecans
+
+
+SENTID: 5
+SENT: I would drizzle 2 tablespoons of olive oil and 2 tablespoons of balsamic vinaigrette over the salad and top with the chicken .
+PREDID: 349
+PRED: drizzle
+   DOBJ: 2 tablespoons of olive oil, 2 tablespoons of balsamic vinaigrette
+      INGREDIENT SPAN: 2 tablespoons of olive oil
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  2 tablespoons of balsamic vinaigrette
+   PARG: the salad, top with the chicken
+     PREP: over
+      NON-INGREDIENT SPAN: the salad
+      NON-INGREDIENT SPAN:  top with the chicken
+
+
+SENTID: 6
+SENT: I would serve slightly warm or chilled .
+PREDID: 447
+PRED: serve
+   DOBJ: NULL
+   OARG: slightly warm or chilled
+      NON-INGREDIENT SPAN: slightly warm or chilled
+
+

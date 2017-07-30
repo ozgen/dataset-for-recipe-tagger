@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: I would combine coleslaw mix , celery , white and green onion , and sunflower kernels in a large salad bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: coleslaw mix , celery , white, green onion , sunflower kernels in a large salad bowl
+      INGREDIENT SPAN:  sunflower kernels in a large salad bowl
+         INGREDIENTS: salted sunflower kernels
+      INGREDIENT SPAN:  celery 
+         INGREDIENTS: halved sliced celery stalks
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped white onion
+      INGREDIENT SPAN: coleslaw mix 
+         INGREDIENTS: ounce package tricolor coleslaw mix green cabbage red cabbage
+      NON-INGREDIENT SPAN:  white
+
+
+SENTID: 1
+SENT: I would mix in mayonnaise ;
+PREDID: 82
+PRED: mix
+   DOBJ: NULL
+   PARG: mayonnaise
+     PREP: in
+      INGREDIENT SPAN: mayonnaise
+         INGREDIENTS: mayonnaise taste
+
+
+SENTID: 2
+SENT: I would sprinkle salad generously with white vinegar , the salt , and black pepper to desired consistency and flavor .
+PREDID: 98
+PRED: sprinkle
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: white vinegar , the salt , black pepper
+     PREP: with
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: sea salt taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: white vinegar 
+         INGREDIENTS: white vinegar taste
+   PARG: desired consistency, flavor
+     PREP: to
+      NON-INGREDIENT SPAN:  flavor
+      NON-INGREDIENT SPAN: desired consistency
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 3
+SENT: I would refrigerate overnight and adjust the seasoning if desired .
+PREDID: 187
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+PREDID: 210
+PRED: adjust
+   DOBJ: the seasoning
+      NON-INGREDIENT SPAN: the seasoning
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

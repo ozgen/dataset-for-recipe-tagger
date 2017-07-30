@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13-inch baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13-inch baking dish
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a rolling boil .
+PREDID: 65
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 3
+SENT: I would boil the noodles until cooked through yet firm to the bite , about 5 minutes ;
+PREDID: 114
+PRED: boil
+   DOBJ: the noodles
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: ounce package wide noodles
+   PARG: cooked through yet firm to the bite , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through yet firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 177
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would cook the ground beef and onions in a large skillet over medium heat , breaking the meat up into crumbles as it cooks , until the beef is completely browned , about 10 minutes .
+PREDID: 183
+PRED: cook
+   DOBJ: the ground beef, onions
+      INGREDIENT SPAN:  onions
+         INGREDIENTS: chopped green onion
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   OARG: breaking the meat up into crumbles as it cooks , until the beef is completely browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  until the beef is completely browned 
+      NON-INGREDIENT SPAN: breaking the meat up into crumbles as it cooks 
+
+
+SENTID: 6
+SENT: I would mix in the tomato sauce ;
+PREDID: 325
+PRED: mix
+   DOBJ: NULL
+   PARG: the tomato sauce
+     PREP: in
+      INGREDIENT SPAN: the tomato sauce
+         INGREDIENTS: ounce nosaltadded tomato sauce
+
+
+SENTID: 7
+SENT: I would season with salt and black pepper .
+PREDID: 345
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: chopped green bell pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 8
+SENT: I would beat the cream cheese in a bowl until smooth .
+PREDID: 374
+PRED: beat
+   DOBJ: the cream cheese in a bowl
+      INGREDIENT SPAN: the cream cheese in a bowl
+         INGREDIENTS: ounce package cream cheese room temperature
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would stir the cottage cheese , sour cream , green onion , and green pepper into the cream cheese .
+PREDID: 411
+PRED: stir
+   DOBJ: the cottage cheese , sour cream , green onion , green pepper
+      INGREDIENT SPAN:  green onion 
+         INGREDIENTS: chopped sweet onion
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: small curd cottage cheese
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  green pepper
+   PARG: the cream cheese
+     PREP: into
+      NON-INGREDIENT SPAN: the cream cheese
+
+
+SENTID: 10
+SENT: I would layer half the cooked noodles into the bottom of the prepared baking dish ;
+PREDID: 486
+PRED: layer
+   DOBJ: half the cooked noodles
+      NON-INGREDIENT SPAN: half the cooked noodles
+   PARG: the bottom of the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the prepared baking dish
+
+
+SENTID: 11
+SENT: I would top with the cheese mixture , dropping it onto the noodles by spoonfuls and spreading over the noodles .
+PREDID: 548
+PRED: top dropping
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the cheese mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the cheese mixture
+   PARG: the noodles
+     PREP: onto
+      NON-INGREDIENT SPAN: the noodles
+   PARG: spoonfuls
+     PREP: by
+      NON-INGREDIENT SPAN: spoonfuls
+
+PREDID: 610
+PRED: spreading
+   DOBJ: NULL
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 12
+SENT: I would cover with the remaining half of the noodles , and spread the meat mixture on top in an even layer .
+PREDID: 634
+PRED: cover
+   DOBJ: NULL
+   PARG: the remaining half of the noodles
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining half of the noodles
+
+PREDID: 675
+PRED: spread
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: top in an even layer
+     PREP: on
+      NON-INGREDIENT SPAN: top in an even layer
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until the casserole is bubbly , about 40 minutes .
+PREDID: 714
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the casserole is bubbly , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is bubbly 
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+

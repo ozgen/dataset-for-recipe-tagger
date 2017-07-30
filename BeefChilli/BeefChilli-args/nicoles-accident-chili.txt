@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: In a skillet over medium heat , I would brown the ground beef and cook the onion until tender .
+PREDID: 25
+PRED: brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 46
+PRED: cook
+   DOBJ: the onion
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: onion chopped
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 1
+SENT: I would drain grease .
+PREDID: 70
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 2
+SENT: In a pot , I would mix the beef and onion , the beans , vegetable juice , tomato sauce , tomato paste , and tomatoes .
+PREDID: 89
+PRED: mix
+   DOBJ: the beef, onion , the beans , vegetable juice , tomato sauce , tomato paste , tomatoes
+      INGREDIENT SPAN:  tomato paste 
+         INGREDIENTS: ounce tomato paste
+      INGREDIENT SPAN:  the beans 
+         INGREDIENTS: ounce red kidney beans drained
+      INGREDIENT SPAN:  tomatoes
+         INGREDIENTS: ounce stewed tomatoes
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  vegetable juice 
+         INGREDIENTS: fluid ounce canned vegetable juice
+      NON-INGREDIENT SPAN: the beef
+      NON-INGREDIENT SPAN:  onion 
+   PARG: a pot
+     PREP: in
+      NON-INGREDIENT SPAN: a pot
+
+
+SENTID: 3
+SENT: I would season with salt , garlic powder , and pepper .
+PREDID: 165
+PRED: season
+   DOBJ: NULL
+   PARG: salt , garlic powder , pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder taste
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 4
+SENT: Bring to a boil , I would reduce heat to low , cover , and simmer 45 minutes , stirring occasionally .
+PREDID: 216
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+   OARG: bring to a boil
+      NON-INGREDIENT SPAN: bring to a boil
+
+PREDID: 241
+PRED: simmer
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+

@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: In a large bowl , I would whisk together eggs , the milk , the cream and vanilla .
+PREDID: 13
+PRED: whisk
+   DOBJ: eggs , the milk , the cream, vanilla
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cream
+         INGREDIENTS: halfandhalf cream
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would dip bread slices into egg mixture and place in a lightly greased 9x13 inch baking pan .
+PREDID: 52
+PRED: dip
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: pound loaf French bread cut inch slices
+   PARG: egg mixture, place
+     PREP: into
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: a lightly greased 9x13 inch baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a lightly greased 9x13 inch baking pan
+
+
+SENTID: 2
+SENT: I would refrigerate overnight .
+PREDID: 123
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 3
+SENT: The next morning :
+
+SENTID: 4
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 144
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 5
+SENT: In a small bowl , I would combine butter , the sugar , maple syrup and pecans .
+PREDID: 195
+PRED: combine
+   DOBJ: butter , the sugar , maple syrup, pecans
+      INGREDIENT SPAN:  maple syrup
+         INGREDIENTS: maple syrup
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: light brown sugar
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 6
+SENT: I would spoon mixture over bread .
+PREDID: 235
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: bread
+     PREP: over
+      NON-INGREDIENT SPAN: bread
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until golden , about 40 minutes .
+PREDID: 257
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: golden , about 40 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden 
+      NON-INGREDIENT SPAN:  about 40 minutes
+
+
+SENTID: 8
+SENT: I would let stand 5 minutes before serving .
+PREDID: 303
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+

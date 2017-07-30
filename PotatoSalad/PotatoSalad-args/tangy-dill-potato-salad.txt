@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes , and cook for about 10 minutes , or until tender .
+PREDID: 29
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: new potatoes scrubbed quartered
+
+PREDID: 44
+PRED: cook
+   DOBJ: NULL
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+
+
+SENTID: 2
+SENT: I would drain , and set aside to cool .
+PREDID: 80
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 89
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would meanwhile , in a large bowl , stir together the salad dressing , the mayonnaise , green onions , the dill , the mustard , lemon juice , and pepper .
+PREDID: 127
+PRED: stir
+   DOBJ: the salad dressing , the mayonnaise , green onions , the dill , the mustard , lemon juice , pepper
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the dill 
+         INGREDIENTS: chopped fresh dill
+      INGREDIENT SPAN: the salad dressing 
+         INGREDIENTS: Italianstyle salad dressing
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: When the potatoes are cooled , stir into the bowl until coated .
+PREDID: 238
+PRED: stir
+   DOBJ: NULL
+   PARG: the bowl
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+   OARG: when the potatoes are cooled
+      NON-INGREDIENT SPAN: when the potatoes are cooled
+
+
+SENTID: 5
+SENT: I would refrigerate for a couple of hours to blend flavors before serving .
+PREDID: 265
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: a couple of hours
+     PREP: for
+      NON-INGREDIENT SPAN: a couple of hours
+   OARG: to blend flavors before serving
+      NON-INGREDIENT SPAN: to blend flavors before serving
+
+

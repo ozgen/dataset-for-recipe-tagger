@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 67
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 112
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In a large bowl , I would combine noodles , the sugar , the raisins , the pecans , the salt and eggs .
+PREDID: 131
+PRED: combine
+   DOBJ: noodles , the sugar , the raisins , the pecans , the salt, eggs
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: noodles 
+         INGREDIENTS: ounce package wide egg noodles
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would melt butter in an 8x12 inch baking dish .
+PREDID: 179
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: an 8x12 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: an 8x12 inch baking dish
+
+
+SENTID: 6
+SENT: I would tilt to coat dish ,
+PREDID: 212
+PRED: tilt
+   DOBJ: NULL
+   PARG: coat dish
+     PREP: to
+      NON-INGREDIENT SPAN: coat dish
+
+
+SENTID: 7
+SENT: I would pour the remaining butter into noodle mixture , stirring to coat evenly .
+PREDID: 227
+PRED: pour
+   DOBJ: the remaining butter
+      NON-INGREDIENT SPAN: the remaining butter
+   PARG: noodle mixture
+     PREP: into
+      NON-INGREDIENT SPAN: noodle mixture
+   OARG: stirring to coat evenly
+      NON-INGREDIENT SPAN: stirring to coat evenly
+
+
+SENTID: 8
+SENT: I would spread mixture into dish .
+PREDID: 285
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: dish
+     PREP: into
+      NON-INGREDIENT SPAN: dish
+
+
+SENTID: 9
+SENT: I would sprinkle with cinnamon .
+PREDID: 307
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cinnamon
+     PREP: with
+      INGREDIENT SPAN: cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 10
+SENT: I would bake in preheated oven 55 minutes , until top is browned .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: 55 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 55 minutes
+   PARG: top is browned
+     PREP: until
+      NON-INGREDIENT SPAN: top is browned
+
+

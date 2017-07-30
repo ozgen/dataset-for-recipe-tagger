@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add egg noodles , and cook until tender , about 8 minutes .
+PREDID: 42
+PRED: add
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+
+PREDID: 59
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 89
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would melt butter in a large skillet over medium heat .
+PREDID: 95
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 4
+SENT: I would add sliced kielbasa , and fry until toasty at the edges .
+PREDID: 135
+PRED: add
+   DOBJ: sliced kielbasa , fry
+      INGREDIENT SPAN: sliced kielbasa 
+         INGREDIENTS: ounce package kielbasa Polish sausage cut inch
+      NON-INGREDIENT SPAN:  fry
+   PARG: toasty
+     PREP: until
+      NON-INGREDIENT SPAN: toasty
+   PARG: the edges
+     PREP: at
+      NON-INGREDIENT SPAN: the edges
+
+
+SENTID: 5
+SENT: I would drain excess grease , and stir in the alfredo sauce .
+PREDID: 181
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+PREDID: 202
+PRED: stir
+   DOBJ: NULL
+   PARG: the alfredo sauce
+     PREP: in
+      INGREDIENT SPAN: the alfredo sauce
+         INGREDIENTS: ounce jar Alfredo Sauce
+
+
+SENTID: 6
+SENT: I would stir in the noodles , and season with salt and pepper .
+PREDID: 224
+PRED: stir
+   DOBJ: NULL
+   PARG: the noodles , season with salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: the noodles 
+
+
+SENTID: 7
+SENT: I would serve with a sprinkling of Parmesan cheese .
+PREDID: 268
+PRED: serve
+   DOBJ: NULL
+   PARG: a sprinkling of parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: a sprinkling of parmesan cheese
+         INGREDIENTS: grated Parmesan cheese topping
+
+

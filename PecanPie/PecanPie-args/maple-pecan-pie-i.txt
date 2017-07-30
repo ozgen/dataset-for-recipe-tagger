@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would spread the nuts evenly over pie shell .
+PREDID: 38
+PRED: spread
+   DOBJ: the nuts
+      NON-INGREDIENT SPAN: the nuts
+   OARG: evenly over pie shell
+      INGREDIENT SPAN: evenly over pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 2
+SENT: I would mix together butter or margarine , the vanilla , and flour .
+PREDID: 70
+PRED: mix
+   DOBJ: butter or margarine , the vanilla , flour
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: butter or margarine 
+         INGREDIENTS: butter
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would beat the eggs well , and blend into the flour mixture .
+PREDID: 116
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 135
+PRED: blend
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the flour mixture
+
+
+SENTID: 4
+SENT: I would add salt , maple syrup , and cream .
+PREDID: 160
+PRED: add
+   DOBJ: salt , maple syrup , cream
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN:  maple syrup 
+         INGREDIENTS: real maple syrup
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 5
+SENT: I would pour the filling over the nuts in the pie shell .
+PREDID: 188
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the nuts in the pie shell
+     PREP: over
+      NON-INGREDIENT SPAN: the nuts in the pie shell
+
+
+SENTID: 6
+SENT: Make sure the nuts are covered , so they will not burn .
+
+SENTID: 7
+SENT: I would bake for 50 to 60 minutes , or until knife inserted in center come out clean .
+PREDID: 224
+PRED: bake
+   DOBJ: NULL
+   PARG: 50 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 60 minutes
+
+
+SENTID: 8
+SENT: I would let the cool at least 15 minutes before serving .
+PREDID: 286
+PRED: let
+   DOBJ: NULL
+   PARG: the cool at least 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the cool at least 15 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

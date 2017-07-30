@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees -RRB- C.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 350 degrees f -lrb- 175 degrees -rrb- c.
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees -rrb- c.
+
+
+SENTID: 1
+SENT: I would spray a 9x13 pan with cooking spray .
+PREDID: 38
+PRED: spray
+   DOBJ: a 9x13 pan
+      NON-INGREDIENT SPAN: a 9x13 pan
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: I would brown beef in a skillet over medium heat and drain excess grease .
+PREDID: 68
+PRED: brown
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 104
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 3
+SENT: I would add the olives , the mushrooms , and onion .
+PREDID: 122
+PRED: add
+   DOBJ: the olives , the mushrooms , onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the olives 
+         INGREDIENTS: ounce chopped black olives
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce mushrooms drained
+
+
+SENTID: 4
+SENT: I would stir and cook until the onions are soft .
+PREDID: 154
+PRED: stir and cook
+   DOBJ: NULL
+   PARG: the onions are soft
+     PREP: until
+      NON-INGREDIENT SPAN: the onions are soft
+
+
+SENTID: 5
+SENT: I would stir in the spaghetti sauce , the pepper , the oregano , and Italian seasoning .
+PREDID: 187
+PRED: stir
+   DOBJ: NULL
+   PARG: the spaghetti sauce , the pepper , the oregano , italian seasoning
+     PREP: in
+      INGREDIENT SPAN: the spaghetti sauce 
+         INGREDIENTS: ounce jar spaghetti sauce
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  italian seasoning
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 6
+SENT: In a small bowl combine the peas and corn .
+PREDID: 258
+PRED: combine
+   DOBJ: NULL
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: the peas, corn
+      INGREDIENT SPAN: the peas
+         INGREDIENTS: frozen green peas
+      INGREDIENT SPAN:  corn
+         INGREDIENTS: frozen corn kernels
+
+
+SENTID: 7
+SENT: To assemble , lay 3 noodles on bottom of prepared pan ,
+PREDID: 282
+PRED: assemble
+   DOBJ: NULL
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 291
+PRED: lay
+   DOBJ: 3 noodles
+      INGREDIENT SPAN: 3 noodles
+         INGREDIENTS: lasagne noodles cooked drained
+   PARG: bottom of prepared pan
+     PREP: on
+      NON-INGREDIENT SPAN: bottom of prepared pan
+
+
+SENTID: 8
+SENT: I would one half of the beef mixture , half of the corn and pea mixture .
+
+SENTID: 9
+SENT: I would repeat .
+PREDID: 324
+PRED: repeat
+   DOBJ: NULL
+
+
+SENTID: 10
+SENT: I would end the layers with the remaining noodles .
+PREDID: 331
+PRED: end
+   DOBJ: the layers
+      NON-INGREDIENT SPAN: the layers
+   PARG: the remaining noodles
+     PREP: with
+      INGREDIENT SPAN: the remaining noodles
+         INGREDIENTS: lasagne noodles cooked drained
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven for 25 minutes .
+PREDID: 367
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 25 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 25 minutes
+
+
+SENTID: 12
+SENT: I would sprinkle the top with cheese and bake for an additional 5 minutes .
+PREDID: 402
+PRED: sprinkle
+   DOBJ: the top with cheese, bake
+      INGREDIENT SPAN: the top with cheese
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  bake
+   PARG: an additional 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 5 minutes
+
+
+SENTID: 13
+SENT: I would let stand 10 minutes before serving .
+PREDID: 457
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

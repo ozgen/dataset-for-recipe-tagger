@@ -1,0 +1,295 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would stir the graham cracker crumbs together with the flour in a mixing bowl .
+PREDID: 38
+PRED: stir
+   DOBJ: the graham cracker crumbs
+      INGREDIENT SPAN: the graham cracker crumbs
+         INGREDIENTS: graham crackers crushed
+   PARG: with the flour in a mixing bowl
+     PREP: together
+      INGREDIENT SPAN: with the flour in a mixing bowl
+         INGREDIENTS: all-purpose flour
+
+
+SENTID: 2
+SENT: I would mix in the soy butter until the mixture is crumbly .
+PREDID: 98
+PRED: mix
+   DOBJ: NULL
+   PARG: the soy butter
+     PREP: in
+      INGREDIENT SPAN: the soy butter
+         INGREDIENTS: light soy butter
+   PARG: the mixture is crumbly
+     PREP: until
+      NON-INGREDIENT SPAN: the mixture is crumbly
+
+
+SENTID: 3
+SENT: I would make a well in the middle of the flour mixture .
+PREDID: 140
+PRED: make
+   DOBJ: a well
+      NON-INGREDIENT SPAN: a well
+   PARG: the middle of the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the middle of the flour mixture
+
+
+SENTID: 4
+SENT: I would pour in the soy milk , and stir to make a soft dough .
+PREDID: 178
+PRED: pour
+   DOBJ: NULL
+   PARG: the soy milk
+     PREP: in
+      INGREDIENT SPAN: the soy milk
+         INGREDIENTS: soy milk
+
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   OARG: to make a soft dough
+      NON-INGREDIENT SPAN: to make a soft dough
+
+
+SENTID: 5
+SENT: I would turn the dough out onto a lightly floured surface , and knead briefly .
+PREDID: 219
+PRED: turn
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a lightly floured surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a lightly floured surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 264
+PRED: knead
+   DOBJ: NULL
+   OARG: briefly
+      NON-INGREDIENT SPAN: briefly
+
+
+SENTID: 6
+SENT: I would wrap in plastic wrap , and refrigerate for about 20 minutes .
+PREDID: 277
+PRED: wrap
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: in
+      NON-INGREDIENT SPAN: plastic wrap
+
+PREDID: 298
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: about 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 20 minutes
+
+
+SENTID: 7
+SENT: I would roll out the dough onto a lightly floured surface to about 1/4 inch thick .
+PREDID: 327
+PRED: roll
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a lightly floured surface to about 1/4 inch thick
+     PREP: onto
+      INGREDIENT SPAN: a lightly floured surface to about 1/4 inch thick
+         INGREDIENTS: kabocha squash halved peeled seeded cut inch
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 8
+SENT: I would fit the crust into a 7 inch diameter pie plate .
+PREDID: 388
+PRED: fit
+   DOBJ: the crust
+      INGREDIENT SPAN: the crust
+         INGREDIENTS: Crust
+   PARG: a 7 inch diameter pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: a 7 inch diameter pie plate
+
+
+SENTID: 9
+SENT: I would use a fork to poke holes in the bottom .
+PREDID: 426
+PRED: use
+   DOBJ: a fork to poke holes in the bottom
+      NON-INGREDIENT SPAN: a fork to poke holes in the bottom
+
+
+SENTID: 10
+SENT: I would bake the crust in the preheated oven until pale gold , about 15 minutes .
+PREDID: 457
+PRED: bake
+   DOBJ: the crust
+      NON-INGREDIENT SPAN: the crust
+   PARG: the preheated oven until pale gold , about 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: the preheated oven until pale gold 
+
+
+SENTID: 11
+SENT: I would cool on a rack .
+PREDID: 516
+PRED: cool
+   DOBJ: NULL
+   PARG: a rack
+     PREP: on
+      NON-INGREDIENT SPAN: a rack
+
+
+SENTID: 12
+SENT: I would pour about 1 inch of water into the bottom of a pan .
+PREDID: 528
+PRED: pour
+   DOBJ: about 1 inch of water
+      NON-INGREDIENT SPAN: about 1 inch of water
+   PARG: the bottom of a pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a pan
+
+
+SENTID: 13
+SENT: I would place the kabocha into a steamer basket fitted into the pan .
+PREDID: 569
+PRED: place
+   DOBJ: the kabocha
+      NON-INGREDIENT SPAN: the kabocha
+   PARG: a steamer basket fitted into the pan
+     PREP: into
+      NON-INGREDIENT SPAN: a steamer basket fitted into the pan
+
+
+SENTID: 14
+SENT: I would bring to a boil ,
+PREDID: 619
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 15
+SENT: I would reduce heat to medium , cover , and steam the squash until tender and easily pierced with a fork , about 15 minutes .
+PREDID: 632
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium
+     PREP: to
+      NON-INGREDIENT SPAN: medium
+
+PREDID: 660
+PRED: steam
+   DOBJ: the squash
+      NON-INGREDIENT SPAN: the squash
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+PREDID: 694
+PRED: pierced
+   DOBJ: NULL
+   PARG: a fork , about 15 minutes
+     PREP: with
+      NON-INGREDIENT SPAN: a fork 
+      NON-INGREDIENT SPAN:  about 15 minutes
+   OARG: easily
+      NON-INGREDIENT SPAN: easily
+
+
+SENTID: 16
+SENT: I would cool .
+PREDID: 726
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 17
+SENT: I would place the kabocha into a blender or bowl of a food processer , and blend until smooth .
+PREDID: 731
+PRED: place
+   DOBJ: the kabocha
+      NON-INGREDIENT SPAN: the kabocha
+   PARG: a blender or bowl of a food processer
+     PREP: into
+      NON-INGREDIENT SPAN: a blender or bowl of a food processer
+
+PREDID: 784
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 18
+SENT: I would stir the tofu , the vanilla , the sugar , the cinnamon , and nutmeg into the kabocha mixture , and blend until very smooth .
+PREDID: 801
+PRED: stir
+   DOBJ: the tofu , the vanilla , the sugar , the cinnamon , nutmeg
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: the tofu 
+         INGREDIENTS: silken tofu
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: the kabocha mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the kabocha mixture
+
+PREDID: 879
+PRED: blend
+   DOBJ: NULL
+   PARG: very smooth
+     PREP: until
+      NON-INGREDIENT SPAN: very smooth
+
+
+SENTID: 19
+SENT: I would pour into the prepared crust .
+PREDID: 891
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared crust
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared crust
+
+
+SENTID: 20
+SENT: I would bake in preheated oven until center is set , about 20 minutes .
+PREDID: 916
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: center is set , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: center is set 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 21
+SENT: Do not overbake or the filling will crack .
+

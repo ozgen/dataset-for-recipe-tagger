@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: I would preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 1
+SENT: I would arrange bread cubes in a single layer on a baking sheet .
+PREDID: 38
+PRED: arrange
+   DOBJ: bread cubes
+      INGREDIENT SPAN: bread cubes
+         INGREDIENTS: cubed rye bread
+   PARG: a single layer on a baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: a single layer on a baking sheet
+
+
+SENTID: 2
+SENT: I would toast until dry .
+PREDID: 84
+PRED: toast
+   DOBJ: NULL
+   PARG: dry
+     PREP: until
+      NON-INGREDIENT SPAN: dry
+
+
+SENTID: 3
+SENT: I would crush , and reserve .
+PREDID: 98
+PRED: crush
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would increase oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 115
+PRED: increase
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 5
+SENT: In a medium bowl , I would mix together the soup , the milk , the onion , corned beef , and mustard .
+PREDID: 179
+PRED: mix
+   DOBJ: the soup , the milk , the onion , corned beef , mustard
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  corned beef 
+         INGREDIENTS: deli sliced corned beef chopped
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 231
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would spread sauerkraut evenly in the bottom of a lightly greased 9x13 inch baking dish .
+PREDID: 240
+PRED: spread
+   DOBJ: sauerkraut
+      INGREDIENT SPAN: sauerkraut
+         INGREDIENTS: ounce sauerkraut drained rinsed
+   OARG: evenly in the bottom of a lightly greased 9x13 inch baking dish
+      NON-INGREDIENT SPAN: evenly in the bottom of a lightly greased 9x13 inch baking dish
+
+
+SENTID: 8
+SENT: I would spread uncooked noodles over sauerkraut .
+PREDID: 309
+PRED: spread
+   DOBJ: uncooked noodles
+      INGREDIENT SPAN: uncooked noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: sauerkraut
+     PREP: over
+      NON-INGREDIENT SPAN: sauerkraut
+
+
+SENTID: 9
+SENT: I would spoon soup mixture over noodles , and sprinkle with cheese .
+PREDID: 345
+PRED: spoon
+   DOBJ: soup mixture
+      NON-INGREDIENT SPAN: soup mixture
+   PARG: noodles
+     PREP: over
+      NON-INGREDIENT SPAN: noodles
+
+PREDID: 376
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Swiss cheese
+
+
+SENTID: 10
+SENT: In a small bowl , I would mix melted butter with rye bread crumbs , and sprinkle mixture over cheese .
+PREDID: 408
+PRED: mix
+   DOBJ: melted butter
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter melted
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   PARG: rye bread crumbs
+     PREP: with
+      NON-INGREDIENT SPAN: rye bread crumbs
+
+PREDID: 445
+PRED: sprinkle
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: cheese
+     PREP: over
+      NON-INGREDIENT SPAN: cheese
+
+
+SENTID: 11
+SENT: I would cover , and bake in preheated oven for 50 minutes .
+PREDID: 471
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 480
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 50 minutes
+
+
+SENTID: 12
+SENT: I would remove cover , and bake an additional 10 minutes .
+PREDID: 512
+PRED: remove
+   DOBJ: cover
+      NON-INGREDIENT SPAN: cover
+
+PREDID: 527
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 10 minutes
+
+

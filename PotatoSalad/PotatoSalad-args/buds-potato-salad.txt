@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of salted water
+      INGREDIENT SPAN: a large pot of salted water
+         INGREDIENTS: water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 35
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+PREDID: 49
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 2
+SENT: I would drain and allow to cool .
+PREDID: 92
+PRED: drain and allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would slice cooled potatoes and layer in a large bowl or dish .
+PREDID: 112
+PRED: slice
+   DOBJ: NULL
+
+PREDID: 117
+PRED: cooled
+   DOBJ: potatoes, layer
+      NON-INGREDIENT SPAN:  layer
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl or dish
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl or dish
+
+
+SENTID: 4
+SENT: In a saucepan combine water , I would the vinegar and sugar .
+
+SENTID: 5
+SENT: I would bring to a boil and cook for one minute .
+PREDID: 158
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 173
+PRED: cook
+   DOBJ: NULL
+   PARG: one minute
+     PREP: for
+      NON-INGREDIENT SPAN: one minute
+
+
+SENTID: 6
+SENT: I would remove from heat and pour over potatoes .
+PREDID: 190
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 207
+PRED: pour
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 7
+SENT: I would cover and chill for at least 12 hours .
+PREDID: 224
+PRED: cover and chill
+   DOBJ: NULL
+   PARG: at least 12 hours
+     PREP: for
+      NON-INGREDIENT SPAN: at least 12 hours
+
+
+SENTID: 8
+SENT: I would drain excess marinade and add onions , the salt , the pepper , celery seed and mayonnaise .
+PREDID: 255
+PRED: drain
+   DOBJ: excess marinade
+      NON-INGREDIENT SPAN: excess marinade
+
+PREDID: 277
+PRED: add
+   DOBJ: onions , the salt , the pepper , celery seed, mayonnaise
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery seed
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: onions diced
+      NON-INGREDIENT SPAN:  the pepper 
+
+
+SENTID: 9
+SENT: I would mix well and serve chilled .
+PREDID: 323
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 333
+PRED: serve
+   DOBJ: NULL
+
+

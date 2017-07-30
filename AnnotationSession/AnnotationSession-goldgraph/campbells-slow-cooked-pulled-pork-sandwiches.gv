@@ -1,0 +1,76 @@
+digraph recipe {
+E0[label="heat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="add
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="turn
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cover
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="remove
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="let stand
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="shred
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="return
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="divide
+12", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: the oil", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a 10-inch skillet", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over medium-high heat.", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D3[label="DOBJ: brown sugar, vinegar, ketchup, the soup", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+P3_0[label="LOCATION:in a 5-quart slow cooker", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+D1_ing[label="DOBJ: the pork", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+O2_0_0[label="OTHER: until it's well browned on all sides", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E4 [label="the pork"]
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: to coat", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: on low", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: for 8 to 9 hours*", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+O7_2_0[label="OTHER: until the pork is fork-tender", shape=box, style=filled, fillcolor=white]
+O7_2_0 -> E7
+E7 -> E8 [label="the pork"]
+P8_0_0[label="LOCATION:from the cooker", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+O8_0_0[label="OTHER: to a cutting board", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+O9_0_0[label="OTHER: for 10 minutes", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="the pork"]
+O10_0_0[label="OTHER: using 2 forks", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+E10 -> E11 [label="the pork"]
+P11_0_0[label="LOCATION:to the cooker.", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+E11 -> E12 [label="the pork and sauce mixture"]
+P12_0_0[label="COOBJECT:among the rolls", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

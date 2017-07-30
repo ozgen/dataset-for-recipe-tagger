@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 6 to 7 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: NULL
+   PARG: elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 6 to 7 minutes
+     PREP: for
+      INGREDIENT SPAN: elbow macaroni in the boiling water 
+         INGREDIENTS: ounce package elbow macaroni
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  6 to 7 minutes
+
+
+SENTID: 3
+SENT: I would drain and transfer to a large mixing bowl ;
+PREDID: 183
+PRED: drain and transfer
+   DOBJ: NULL
+   PARG: a large mixing bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 4
+SENT: I would stir in 2 tablespoons butter until coated .
+PREDID: 218
+PRED: stir
+   DOBJ: NULL
+   PARG: 2 tablespoons butter
+     PREP: in
+      INGREDIENT SPAN: 2 tablespoons butter
+         INGREDIENTS: butter divided
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 5
+SENT: I would melt the remaining 6 tablespoons butter in a large skillet over medium heat ;
+PREDID: 254
+PRED: melt
+   DOBJ: the remaining 6 tablespoons butter
+      INGREDIENT SPAN: the remaining 6 tablespoons butter
+         INGREDIENTS: butter divided
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 6
+SENT: I would whisk flour into melted butter .
+PREDID: 315
+PRED: whisk
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: melted butter
+     PREP: into
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter divided
+
+
+SENTID: 7
+SENT: I would cook , stirring constantly , until mixture is lightly golden and smooth .
+PREDID: 342
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring constantly , until mixture is lightly golden, smooth
+      NON-INGREDIENT SPAN: stirring constantly 
+      NON-INGREDIENT SPAN:  smooth
+      NON-INGREDIENT SPAN:  until mixture is lightly golden
+
+
+SENTID: 8
+SENT: I would slowly whisk warm milk into flour mixture until smooth .
+PREDID: 409
+PRED: whisk
+   DOBJ: warm milk
+      INGREDIENT SPAN: warm milk
+         INGREDIENTS: milk warmed
+   PARG: flour mixture
+     PREP: into
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 9
+SENT: I would whisk salt , white pepper , and nutmeg into white sauce , bring to a simmer , and whisk until smooth and thickened , about 3 minutes .
+PREDID: 450
+PRED: whisk
+   DOBJ: salt , white pepper , nutmeg into white sauce
+      INGREDIENT SPAN:  white pepper 
+         INGREDIENTS: ground white pepper
+      INGREDIENT SPAN:  nutmeg into white sauce
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+PREDID: 496
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 514
+PRED: whisk
+   DOBJ: NULL
+   PARG: smooth, thickened
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+      NON-INGREDIENT SPAN:  thickened
+   PARG: 3 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 10
+SENT: I would remove sauce from heat and gradually stir Mexican-style cheese into sauce until melted and thick .
+PREDID: 557
+PRED: remove
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 588
+PRED: stir
+   DOBJ: Mexican-style cheese
+      NON-INGREDIENT SPAN: Mexican-style cheese
+   PARG: sauce
+     PREP: into
+      NON-INGREDIENT SPAN: sauce
+   PARG: melted, thick
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+      NON-INGREDIENT SPAN:  thick
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 11
+SENT: I would pour cheese sauce over macaroni and gently fold black beans , the avocados , green chiles , green onions , and cilantro into the macaroni mixture .
+PREDID: 640
+PRED: pour
+   DOBJ: cheese sauce
+      NON-INGREDIENT SPAN: cheese sauce
+   PARG: macaroni
+     PREP: over
+      NON-INGREDIENT SPAN: macaroni
+
+PREDID: 676
+PRED: fold
+   DOBJ: black beans , the avocados , green chiles , green onions , cilantro
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  green chiles 
+         INGREDIENTS: ounce chopped green chiles
+      INGREDIENT SPAN: black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the avocados 
+         INGREDIENTS: avocados chopped
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+   PARG: the macaroni mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the macaroni mixture
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 12
+SENT: I would transfer to a 9x13-inch glass baking dish .
+PREDID: 758
+PRED: transfer
+   DOBJ: NULL
+   PARG: a 9x13-inch glass baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: a 9x13-inch glass baking dish
+
+
+SENTID: 13
+SENT: I would spoon salsa over the casserole in decorative swirls or lines .
+PREDID: 794
+PRED: spoon
+   DOBJ: salsa
+      INGREDIENT SPAN: salsa
+         INGREDIENTS: salsa
+   PARG: the casserole in decorative swirls or lines
+     PREP: over
+      NON-INGREDIENT SPAN: the casserole in decorative swirls or lines
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until the top has begun to brown and the casserole is bubbling , 30 to 45 minutes .
+
+SENTID: 15
+SENT: I would let the casserole rest about 10 minutes before serving .
+PREDID: 934
+PRED: let
+   DOBJ: the casserole rest
+      NON-INGREDIENT SPAN: the casserole rest
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: about 10 minutes
+      NON-INGREDIENT SPAN: about 10 minutes
+
+

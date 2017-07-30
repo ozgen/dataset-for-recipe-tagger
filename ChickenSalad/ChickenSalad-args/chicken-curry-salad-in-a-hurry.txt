@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: I would mix the chicken , the eggs , the mayonnaise , the apple , the celery , the onion , curry powder , the paprika , cayenne pepper , and salt in a large bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: the chicken , the eggs , the mayonnaise , the apple , the celery , the onion , curry powder , the paprika , cayenne pepper , salt in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: hardcooked eggs chopped
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: chopped apple
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  salt in a large bowl
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: rotisserie chicken meat skin removed chopped
+
+
+SENTID: 1
+SENT: I would cover and refrigerate for 1 hour before serving .
+PREDID: 103
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

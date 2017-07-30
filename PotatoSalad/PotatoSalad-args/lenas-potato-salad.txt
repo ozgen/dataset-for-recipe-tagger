@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would place eggs in a saucepan with enough cold water to cover .
+PREDID: 0
+PRED: place
+   DOBJ: eggs in a saucepan with enough cold water
+      INGREDIENT SPAN: eggs in a saucepan with enough cold water
+         INGREDIENTS: extra large eggs
+   OARG: to cover
+      NON-INGREDIENT SPAN: to cover
+
+
+SENTID: 1
+SENT: Bring water to a boil , I would and immediately remove from heat .
+
+SENTID: 2
+SENT: I would cover pan , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 47
+PRED: cover
+   DOBJ: pan
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 59
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 10 to 12 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 10 to 12 minutes
+
+
+SENTID: 3
+SENT: I would remove eggs from hot water , cool , and peel .
+PREDID: 98
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+
+SENTID: 4
+SENT: Do not chop .
+
+SENTID: 5
+SENT: In a pot with enough water to cover , I would boil the potatoes 15 minutes , or until tender .
+PREDID: 163
+PRED: boil
+   DOBJ: NULL
+   PARG: a pot with enough water to cover
+     PREP: in
+      NON-INGREDIENT SPAN: a pot with enough water to cover
+   PARG: the potatoes 15 minutes
+     PREP: for
+      INGREDIENT SPAN: the potatoes 15 minutes
+         INGREDIENTS: large potatoes peeled chopped
+   PARG: until tender
+     PREP: or
+      NON-INGREDIENT SPAN: until tender
+
+
+SENTID: 6
+SENT: I would remove from heat , and allow to remain in the hot water about 10 minutes .
+PREDID: 202
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 220
+PRED: allow
+   DOBJ: NULL
+   OARG: to remain in the hot water about 10 minutes
+      NON-INGREDIENT SPAN: to remain in the hot water about 10 minutes
+
+
+SENTID: 7
+SENT: I would drain , and cool .
+PREDID: 261
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would place the eggs and potatoes in a large bowl .
+PREDID: 275
+PRED: place
+   DOBJ: the eggs, potatoes in a large bowl
+      INGREDIENT SPAN:  potatoes in a large bowl
+         INGREDIENTS: large potatoes peeled chopped
+      NON-INGREDIENT SPAN: the eggs
+
+
+SENTID: 9
+SENT: By hand , I would mix in the olives , the mayonnaise , and mustard , and mash the eggs and potatoes .
+PREDID: 318
+PRED: mix
+   DOBJ: NULL
+   PARG: hand
+     PREP: by
+      NON-INGREDIENT SPAN: hand
+   PARG: the olives , the mayonnaise , mustard , mash the eggs, potatoes
+     PREP: in
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the olives 
+         INGREDIENTS: ounce jar pitted sliced green olives
+      INGREDIENT SPAN:  mustard 
+         INGREDIENTS: Dijon mustard
+      NON-INGREDIENT SPAN:  potatoes
+      NON-INGREDIENT SPAN:  mash the eggs
+
+
+SENTID: 10
+SENT: I would season with salt and pepper .
+PREDID: 381
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 11
+SENT: I would cover , and refrigerate until serving .
+PREDID: 405
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 414
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

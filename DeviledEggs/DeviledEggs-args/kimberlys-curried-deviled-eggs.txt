@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 149
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 190
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water .
+PREDID: 196
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 229
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 242
+PRED: halve
+   DOBJ: the eggs lengthwise
+      NON-INGREDIENT SPAN: the eggs lengthwise
+
+PREDID: 267
+PRED: scoop
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 7
+SENT: I would mash the yolks with a fork .
+PREDID: 290
+PRED: mash
+   DOBJ: the yolks
+      NON-INGREDIENT SPAN: the yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 8
+SENT: I would stir the mayonnaise , the mustard , curry powder , the parsley , pickle relish , and pepper into the egg yolks until combined ;
+PREDID: 312
+PRED: stir
+   DOBJ: the mayonnaise , the mustard , curry powder , the parsley , pickle relish , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: stoneground mustard taste
+      INGREDIENT SPAN:  pickle relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: dried parsley
+   PARG: the egg yolks
+     PREP: into
+      NON-INGREDIENT SPAN: the egg yolks
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 9
+SENT: I would spoon into the egg white halves .
+PREDID: 409
+PRED: spoon
+   DOBJ: NULL
+   PARG: the egg white halves
+     PREP: into
+      NON-INGREDIENT SPAN: the egg white halves
+
+
+SENTID: 10
+SENT: I would garnish with paprika .
+PREDID: 436
+PRED: garnish
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika garnish
+
+
+SENTID: 11
+SENT: I would chill before serving .
+PREDID: 455
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

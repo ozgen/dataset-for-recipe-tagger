@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: In a Dutch oven , I would brown ground beef or turkey with chopped onion , stirring frequently .
+PREDID: 13
+PRED: brown
+   DOBJ: ground beef or turkey with chopped onion , stirring frequently
+      INGREDIENT SPAN: ground beef or turkey with chopped onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: ground beef or turkey with 
+         INGREDIENTS: lean ground beef
+      NON-INGREDIENT SPAN:  stirring frequently
+   PARG: a dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven
+
+
+SENTID: 1
+SENT: I would once beef the is browned drain grease from pan .
+PREDID: 76
+PRED: is beef browned
+   DOBJ: drain grease
+      NON-INGREDIENT SPAN: drain grease
+   PARG: pan
+     PREP: from
+      NON-INGREDIENT SPAN: pan
+   OARG: once
+      NON-INGREDIENT SPAN: once
+   OARG: the
+      NON-INGREDIENT SPAN: the
+
+
+SENTID: 2
+SENT: I would add canned tomatoes , kidney beans , the hominy , taco seasoning and ranch salad dressing mix .
+PREDID: 108
+PRED: add
+   DOBJ: canned tomatoes , kidney beans , the hominy , taco seasoning, ranch salad
+      INGREDIENT SPAN: canned tomatoes 
+         INGREDIENTS: ounce diced tomatoes green chile peppers
+      INGREDIENT SPAN:  taco seasoning
+         INGREDIENTS: ounce package taco seasoning mix
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained
+      INGREDIENT SPAN:  the hominy 
+         INGREDIENTS: ounce white hominy drained
+      INGREDIENT SPAN:  ranch salad
+         INGREDIENTS: ounce package ranch dressing mix
+   OARG: dressing mix
+      NON-INGREDIENT SPAN: dressing mix
+
+
+SENTID: 3
+SENT: I would mix well and let simmer over low heat for two hours .
+PREDID: 183
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 193
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   PARG: low heat for two hours
+     PREP: over
+      NON-INGREDIENT SPAN: low heat for two hours
+
+
+SENTID: 4
+SENT: -LRB- Add 1 to 2 cups of water if necessary to make the soup the desired consistency -RRB-
+PREDID: 230
+PRED: add
+   DOBJ: 1 to 2 cups of water if necessary
+      INGREDIENT SPAN: 1 to 2 cups of water if necessary
+         INGREDIENTS: water
+   OARG: to make the soup the desired consistency
+      NON-INGREDIENT SPAN: to make the soup the desired consistency
+
+
+SENTID: 5
+SENT: I would ladle into soup bowls and garnish with shredded Cheddar cheese and a dollop of sour cream , if desired .
+PREDID: 287
+PRED: ladle
+   DOBJ: NULL
+   PARG: soup bowls
+     PREP: into
+      NON-INGREDIENT SPAN: soup bowls
+
+PREDID: 308
+PRED: garnish
+   DOBJ: NULL
+   PARG: shredded cheddar cheese, a dollop of sour cream
+     PREP: with
+      INGREDIENT SPAN: shredded cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  a dollop of sour cream
+         INGREDIENTS: sour cream
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

@@ -1,0 +1,94 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="beat
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix in
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="combine
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="mix
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="pour
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="remove
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="turn
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="mix
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="drop
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="broil
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="cool
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="serving
+16", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1_ing[label="DOBJ: package cream cheese", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="LOCATION:in a small mixing bowl"]
+O1_0_0[label="OTHER: until fluffy", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: 1/4 white sugar", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+D3_ing[label="DOBJ: vanilla extract, egg", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+O4_0_0[label="OTHER: until mixture is smooth", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="mixture"]
+P5_0_ing[label="COOBJECT: into inch pie shell", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+D6_ing[label="DOBJ: pumpkin puree, evaporated milk, eggs, ground nutmeg, white sugar, ground cinnamon, ground ginger, salt", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="LOCATION:in a medium bowl"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: thoroughly", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="mixture"]
+P8_0_0[label="COOBJECT:over cheesecake layer", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCATION:in preheated oven", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+O9_0_0[label="OTHER: for 65 minutes, until set in center", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+E9 -> E10 [label="pie"]
+E10 -> E11 [label="oven"]
+O11_0_0[label="OTHER: to broiler setting", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+D12_ing[label="DOBJ: butter, chopped pecans, packed brown sugar", shape=box, style=filled, fillcolor=peachpuff]
+D12_ing -> E12
+E11 -> E12 [label="LOCATION:in a small bowl"]
+E12 -> E13 [label="mixture"]
+P13_0_0[label="COOBJECT:over pie", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+O13_0_0[label="OTHER: by teaspoonfuls", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+O13_1_0[label="OTHER: covering top evenly", shape=box, style=filled, fillcolor=white]
+O13_1_0 -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_0[label="LOCATION:5 inches below oven coils", shape=box, style=filled, fillcolor=white]
+P14_0_0 -> E14
+O14_0_0[label="OTHER: until mixture begins to bubble, about 3 minutes", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+E15 -> E16 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E16 -> EOR
+}

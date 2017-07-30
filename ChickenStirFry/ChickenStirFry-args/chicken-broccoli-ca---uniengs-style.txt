@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: In a large bowl , I would combine chicken , oyster sauce and soy sauce .
+PREDID: 13
+PRED: combine
+   DOBJ: chicken , oyster sauce, soy sauce
+      INGREDIENT SPAN:  oyster sauce
+         INGREDIENTS: oyster sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: dark soy sauce
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: boneless skinless chicken breast halves cut bitesized
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: I would set aside for 15 minutes .
+PREDID: 51
+PRED: set
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat oil in a wok or large heavy skillet over medium heat .
+PREDID: 72
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok or large heavy skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large heavy skillet
+   PARG: medium heat
+     PREP: over
+      INGREDIENT SPAN: medium heat
+         INGREDIENTS: medium head bok choy chopped
+
+
+SENTID: 3
+SENT: I would saute garlic and onion until soft and translucent .
+PREDID: 119
+PRED: saute
+   DOBJ: NULL
+   PARG: soft, translucent
+     PREP: until
+      NON-INGREDIENT SPAN:  translucent
+      NON-INGREDIENT SPAN: soft
+   OARG: garlic, onion
+      NON-INGREDIENT SPAN: garlic
+      NON-INGREDIENT SPAN:  onion
+
+
+SENTID: 4
+SENT: I would increase heat to high .
+PREDID: 162
+PRED: increase
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+
+SENTID: 5
+SENT: I would add chicken and marinade ,
+PREDID: 181
+PRED: add
+   DOBJ: chicken, marinade
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  marinade
+
+
+SENTID: 6
+SENT: I would stir-fry until light golden brown , about 10 minutes .
+PREDID: 203
+PRED: stir-fry
+   DOBJ: NULL
+   PARG: light golden brown , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: light golden brown 
+
+
+SENTID: 7
+SENT: I would stir in water , the pepper and sugar .
+PREDID: 248
+PRED: stir
+   DOBJ: NULL
+   PARG: water , the pepper, sugar
+     PREP: in
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+
+
+SENTID: 8
+SENT: I would add bok choy and broccoli , and cook the stirring until soft , about 10 minutes .
+PREDID: 275
+PRED: add
+   DOBJ: bok choy, broccoli
+      INGREDIENT SPAN:  broccoli
+         INGREDIENTS: small head broccoli chopped
+      NON-INGREDIENT SPAN: bok choy
+
+PREDID: 300
+PRED: cook
+   DOBJ: the stirring
+      NON-INGREDIENT SPAN: the stirring
+   PARG: soft , about 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: soft 
+
+
+SENTID: 9
+SENT: I would pour in the cornstarch mixture , and cook until sauce is thickened , about 5 minutes .
+PREDID: 337
+PRED: pour
+   DOBJ: NULL
+   PARG: the cornstarch mixture
+     PREP: in
+      INGREDIENT SPAN: the cornstarch mixture
+         INGREDIENTS: cornstarch mixed equal parts water
+
+PREDID: 367
+PRED: cook
+   DOBJ: NULL
+   PARG: sauce is thickened , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: sauce is thickened 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+

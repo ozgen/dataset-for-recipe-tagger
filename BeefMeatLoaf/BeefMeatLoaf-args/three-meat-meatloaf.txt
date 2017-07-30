@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would oil a 9x5-inch loaf pan .
+
+SENTID: 2
+SENT: I would place the onion and carrots into a saucepan , and pour in the beef broth .
+PREDID: 38
+PRED: place
+   DOBJ: the onion, carrots
+      INGREDIENT SPAN: the onion
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: carrots chopped
+   PARG: a saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 78
+PRED: pour
+   DOBJ: NULL
+   PARG: the beef broth
+     PREP: in
+      INGREDIENT SPAN: the beef broth
+         INGREDIENTS: beef broth
+
+
+SENTID: 3
+SENT: I would bring to a boil over medium heat , and reduce heat to a simmer ;
+PREDID: 97
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over medium heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over medium heat
+
+PREDID: 127
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+
+SENTID: 4
+SENT: I would cook , stirring often , until the vegetables are tender , about 8 minutes .
+PREDID: 147
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring often , until the vegetables are tender , about 8 minutes
+      NON-INGREDIENT SPAN: stirring often 
+      NON-INGREDIENT SPAN:  until the vegetables are tender 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 5
+SENT: I would set the veggies and broth aside .
+PREDID: 208
+PRED: set
+   DOBJ: the veggies
+      NON-INGREDIENT SPAN: the veggies
+
+PREDID: 224
+PRED: broth
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: In a large bowl , I would beat the eggs , and stir in bread crumbs , the basil , the salt , and black pepper .
+PREDID: 248
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 263
+PRED: stir
+   DOBJ: NULL
+   PARG: bread crumbs , the basil , the salt , black pepper
+     PREP: in
+      INGREDIENT SPAN:  the basil 
+         INGREDIENTS: minced fresh basil
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: bread crumbs 
+         INGREDIENTS: bread crumbs
+
+
+SENTID: 7
+SENT: I would allow the mixture to stand for 5 minutes to moisten the crumbs , and lightly mix in the turkey , the beef , and pork sausage .
+PREDID: 307
+PRED: allow
+   DOBJ: NULL
+   PARG: the mixture to stand for 5 minutes to moisten the crumbs , lightly mix in the turkey , the beef , pork sausage
+     PREP: for
+      INGREDIENT SPAN:  pork sausage
+         INGREDIENTS: ground pork sausage
+      INGREDIENT SPAN:  the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  lightly mix in the turkey 
+         INGREDIENTS: ground turkey
+      NON-INGREDIENT SPAN: the mixture to stand for 5 minutes to moisten the crumbs 
+
+
+SENTID: 8
+SENT: I would mix in the cooked onions , the carrots , and beef broth .
+PREDID: 404
+PRED: mix
+   DOBJ: NULL
+   PARG: the cooked onions , the carrots , beef broth
+     PREP: in
+      NON-INGREDIENT SPAN:  the carrots 
+      NON-INGREDIENT SPAN:  beef broth
+      NON-INGREDIENT SPAN: the cooked onions 
+
+
+SENTID: 9
+SENT: I would place the mixture into the prepared loaf pan .
+PREDID: 446
+PRED: place
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: the prepared loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared loaf pan
+
+
+SENTID: 10
+SENT: In a bowl , I would mix the tomato soup , balsamic vinegar , and Dijon mustard together , and spread the mixture over the meat loaf .
+PREDID: 492
+PRED: mix
+   DOBJ: the tomato soup , balsamic vinegar , Dijon mustard
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      INGREDIENT SPAN: the tomato soup 
+         INGREDIENTS: condensed tomato soup
+      INGREDIENT SPAN:  Dijon mustard
+         INGREDIENTS: Dijon mustard
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 552
+PRED: spread
+   DOBJ: the mixture over the meat loaf
+      NON-INGREDIENT SPAN: the mixture over the meat loaf
+
+
+SENTID: 11
+SENT: I would bake until the loaf is no longer pink in the center and an instant-read meat thermometer reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1?1/2 hours .
+

@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat, lightly oil the grate
+      INGREDIENT SPAN:  lightly oil the grate
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 1
+SENT: I would mix black beans , the salsa , 1/2 cup cilantro , and lime juice in a bowl ;
+PREDID: 61
+PRED: mix
+   DOBJ: black beans , the salsa , 1/2 cup cilantro , lime juice in a bowl
+      INGREDIENT SPAN:  1/2 cup cilantro 
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  lime juice in a bowl
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN: black beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: mediumhot salsa
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 116
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would stir chili powder , the cumin , the coriander , brown sugar , cayenne pepper , and olive oil in a bowl until smooth ;
+PREDID: 125
+PRED: stir
+   DOBJ: chili powder , the cumin , the coriander , brown sugar , cayenne pepper , olive oil in a bowl
+      INGREDIENT SPAN:  the coriander 
+         INGREDIENTS: ground coriander
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  olive oil in a bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would rub mixture over chicken breasts .
+PREDID: 212
+PRED: rub
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: chicken breasts
+     PREP: over
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+
+
+SENTID: 5
+SENT: I would cook chicken breasts on preheated grill until no longer pink in the center and the juices run clear , 10 to 12 minutes per side .
+PREDID: 241
+PRED: cook
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+   PARG: preheated grill
+     PREP: on
+      NON-INGREDIENT SPAN: preheated grill
+   PARG: no longer pink in the center, the juices run clear , 10 to 12 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN: no longer pink in the center
+      NON-INGREDIENT SPAN:  the juices run clear 
+      NON-INGREDIENT SPAN:  10 to 12 minutes per side
+
+
+SENTID: 6
+SENT: An instant-read thermometer inserted into the center should read at least 165 degrees F -LRB- 74 degrees C -RRB- .
+
+SENTID: 7
+SENT: While the chicken is cooking , I would place tortillas on grill and grill until lightly brown on both sides , 3 to 5 minutes .
+PREDID: 370
+PRED: place
+   DOBJ: tortillas on grill, grill
+      INGREDIENT SPAN: tortillas on grill
+         INGREDIENTS: inch corn tortillas
+      NON-INGREDIENT SPAN:  grill
+   PARG: the chicken is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the chicken is cooking
+   PARG: lightly brown on both sides , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: lightly brown on both sides 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 8
+SENT: I would transfer chicken to a cutting board and slice into long thin strips .
+PREDID: 440
+PRED: transfer
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+PREDID: 473
+PRED: slice
+   DOBJ: NULL
+   PARG: long thin strips
+     PREP: into
+      NON-INGREDIENT SPAN: long thin strips
+
+
+SENTID: 9
+SENT: I would divide chicken strips over tortillas and top with bean mixture , the lettuce , and remaining 1/2 cup cilantro .
+PREDID: 497
+PRED: divide
+   DOBJ: chicken strips over tortillas, top
+      NON-INGREDIENT SPAN:  top
+      NON-INGREDIENT SPAN: chicken strips over tortillas
+   PARG: bean mixture , the lettuce
+     PREP: with
+      INGREDIENT SPAN:  the lettuce
+         INGREDIENTS: shredded lettuce
+      NON-INGREDIENT SPAN: bean mixture 
+   OARG: remaining 1/2 cup cilantro
+      INGREDIENT SPAN: remaining 1/2 cup cilantro
+         INGREDIENTS: chopped fresh cilantro
+
+
+SENTID: 10
+SENT: I would serve with avocado , lime wedges , and sour cream .
+PREDID: 586
+PRED: serve
+   DOBJ: NULL
+   PARG: avocado , lime wedges , sour cream
+     PREP: with
+      INGREDIENT SPAN: avocado 
+         INGREDIENTS: avocado peeled pitted sliced
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  lime wedges 
+         INGREDIENTS: lime cut wedges
+
+

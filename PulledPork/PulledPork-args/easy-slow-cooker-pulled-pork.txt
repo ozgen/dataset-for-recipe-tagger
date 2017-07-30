@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would rub the Cajun seasoning into the pork shoulder ;
+PREDID: 0
+PRED: rub
+   DOBJ: the Cajun seasoning
+      INGREDIENT SPAN: the Cajun seasoning
+         INGREDIENTS: Cajun seasoning
+   PARG: the pork shoulder
+     PREP: into
+      INGREDIENT SPAN: the pork shoulder
+         INGREDIENTS: pound pork shoulder roast
+
+
+SENTID: 1
+SENT: I would place in the bottom of a slow cooker .
+PREDID: 40
+PRED: place
+   DOBJ: NULL
+   PARG: the bottom of a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a slow cooker
+
+
+SENTID: 2
+SENT: I would pour the pepperoncini with the juice , and the adobo sauce over the pork .
+PREDID: 70
+PRED: pour
+   DOBJ: the pepperoncini with the juice , the adobo sauce over the pork
+      INGREDIENT SPAN: the pepperoncini with the juice 
+         INGREDIENTS: ounce jar golden pepperoncini undrained
+      INGREDIENT SPAN:  the adobo sauce over the pork
+         INGREDIENTS: adobo sauce
+
+
+SENTID: 3
+SENT: I would top with the onion , the garlic , and cilantro .
+PREDID: 130
+PRED: top
+   DOBJ: NULL
+   PARG: the onion , the garlic , cilantro
+     PREP: with
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: yellow onion chopped
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: cloves garlic
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: fresh cilantro leaves
+
+
+SENTID: 4
+SENT: I would pour enough water into the slow cooker to cover the bottom half of the pork shoulder .
+PREDID: 165
+PRED: pour
+   DOBJ: enough water
+      INGREDIENT SPAN: enough water
+         INGREDIENTS: water needed
+   PARG: the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker
+   OARG: to cover the bottom half of the pork shoulder
+      NON-INGREDIENT SPAN: to cover the bottom half of the pork shoulder
+
+
+SENTID: 5
+SENT: I would cook on Low until the meat begins to fall apart , 6 to 8 hours .
+PREDID: 235
+PRED: cook
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: the meat begins to fall apart , 6 to 8 hours
+     PREP: until
+      NON-INGREDIENT SPAN:  6 to 8 hours
+      NON-INGREDIENT SPAN: the meat begins to fall apart 
+
+
+SENTID: 6
+SENT: I would shred meat with two forks inside the slow cooker before serving .
+PREDID: 284
+PRED: shred
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: two forks inside the slow cooker
+     PREP: with
+      NON-INGREDIENT SPAN: two forks inside the slow cooker
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

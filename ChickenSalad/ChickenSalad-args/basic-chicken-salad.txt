@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: I would place almonds in a frying pan .
+PREDID: 0
+PRED: place
+   DOBJ: almonds in a frying pan
+      INGREDIENT SPAN: almonds in a frying pan
+         INGREDIENTS: blanched slivered almonds
+
+
+SENTID: 1
+SENT: I would toast over medium-high heat , shaking frequently .
+PREDID: 25
+PRED: toast
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: shaking frequently
+      NON-INGREDIENT SPAN: shaking frequently
+
+
+SENTID: 2
+SENT: I would watch carefully , as they burn easily .
+PREDID: 68
+PRED: watch
+   DOBJ: NULL
+   PARG: they burn easily
+     PREP: as
+      NON-INGREDIENT SPAN: they burn easily
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+
+SENTID: 3
+SENT: In a medium bowl , I would mix together mayonnaise , lemon juice , and pepper .
+PREDID: 114
+PRED: mix
+   DOBJ: mayonnaise , lemon juice , pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would toss with chicken , the almonds , and celery .
+PREDID: 157
+PRED: toss
+   DOBJ: NULL
+   PARG: chicken , the almonds , celery
+     PREP: with
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: chopped cooked chicken meat
+      NON-INGREDIENT SPAN:  the almonds 
+
+

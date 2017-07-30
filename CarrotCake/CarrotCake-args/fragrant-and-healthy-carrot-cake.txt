@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9 inch Bundt pan .
+PREDID: 41
+PRED: grease
+   DOBJ: a 9 inch Bundt pan
+      NON-INGREDIENT SPAN: a 9 inch Bundt pan
+
+
+SENTID: 2
+SENT: In a large bowl , I would stir together the whole wheat flour , cake flour , brown sugar , the cinnamon , the carob , baking powder , baking soda and salt .
+PREDID: 75
+PRED: stir
+   DOBJ: the whole wheat flour , cake flour , brown sugar , the cinnamon , the carob , baking powder , baking soda, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: the whole wheat flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  cake flour 
+         INGREDIENTS: cake flour
+      INGREDIENT SPAN:  the carob 
+         INGREDIENTS: carob powder
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would make a well in the center and pour in the molasses , the oil , the eggs and orange juice .
+PREDID: 173
+PRED: make
+   DOBJ: a well in the center
+      NON-INGREDIENT SPAN: a well in the center
+
+PREDID: 196
+PRED: pour
+   DOBJ: NULL
+   PARG: the molasses , the oil , the eggs, orange juice
+     PREP: in
+      INGREDIENT SPAN:  the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the molasses 
+         INGREDIENTS: molasses
+      NON-INGREDIENT SPAN:  orange juice
+
+
+SENTID: 4
+SENT: I would mix until the dry ingredients are moistened ,
+PREDID: 237
+PRED: mix
+   DOBJ: NULL
+   PARG: the dry ingredients are moistened
+     PREP: until
+      NON-INGREDIENT SPAN: the dry ingredients are moistened
+
+
+SENTID: 5
+SENT: I would stir in the orange zest , lemon zest , the raisins , the figs , poppy seeds , the carrots and pecans until evenly distributed .
+PREDID: 275
+PRED: stir
+   DOBJ: NULL
+   PARG: the orange zest , lemon zest , the raisins , the figs , poppy seeds , the carrots, pecans
+     PREP: in
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the carrots
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  the figs 
+         INGREDIENTS: dried figs chopped
+      INGREDIENT SPAN:  poppy seeds 
+         INGREDIENTS: poppy seeds
+      NON-INGREDIENT SPAN:  lemon zest 
+      NON-INGREDIENT SPAN: the orange zest 
+   PARG: evenly distributed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly distributed
+
+
+SENTID: 6
+SENT: I would pour into the prepared pan .
+PREDID: 368
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 7
+SENT: I would bake for 1 hour and 10 minutes in the preheated oven , or until a knife inserted into the center of the cake comes out clean .
+PREDID: 391
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+   OARG: 10 minutes in the preheated oven , or until a knife inserted into the center of the cake comes out clean
+      NON-INGREDIENT SPAN: 10 minutes in the preheated oven 
+      NON-INGREDIENT SPAN:  or until a knife inserted into the center of the cake comes out clean
+
+
+SENTID: 8
+SENT: I would cool for 30 minutes before removing from the pan .
+PREDID: 491
+PRED: cool
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: removing from the pan
+     PREP: before
+      NON-INGREDIENT SPAN: removing from the pan
+
+

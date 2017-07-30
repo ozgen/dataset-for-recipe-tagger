@@ -1,0 +1,104 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="sprinkle
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="arrange
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="close
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="use
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cover
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="remove
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="place
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="reserve
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="shred
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="stir
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="bring
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="reduce
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="cover
+15", shape=oval, style=filled, fillcolor=azure]
+E16[label="simmer
+16", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: boneless pork shoulder roast", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:into an oven roasting bag set inside a slow cooker", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D3[label="DOBJ: the top of the bag", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+O3_0[label="OTHER: loosely", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+O3_1[label="OTHER: with a nylon tie", shape=box, style=filled, fillcolor=white]
+O3_1 -> E3
+D5[label="DOBJ: water", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="LOCATION:into the bottom of the slow cooker, around the bag, so that it is at least 1 inch deep", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+D1_ing[label="DOBJ: chili powder", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="COOBJECT:over the roast"]
+D2_ing[label="DOBJ: chopped onions", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="COOBJECT:on top of the roast"]
+D4_0[label="DOBJ: scissors", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="COOBJECT:in the top of the bag"]
+O4_0_0[label="OTHER: to cut 3 vents, 1-inch long", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E5 -> E6 [label="IMPLICIT DOBJ"]
+E4 -> E6 [label="IMPLICIT PREP"]
+E2 -> E7 [label="the pork"]
+E6 -> E7 [label="IMPLICIT PREP"]
+O7_0_0[label="OTHER: on low", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: for 6 to 8 hours", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+E7 -> E8 [label="the pork and onions"]
+P8_0_0[label="LOCATION:from the bag", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCATION:in a large dutch oven", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="3/4 cup of liquid"]
+P10_0_0[label="LOCATION:from the bag", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E10 -> E11 [label="the pork"]
+O11_0_0[label="OTHER: by pulling it apart using two forks", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+D12_ing[label="DOBJ: diced tomatoes green chilies, jars salsa", shape=box, style=filled, fillcolor=peachpuff]
+D12_ing -> E12
+E11 -> E12 [label="cooking liquid"]
+P12_0_0[label="COOBJECT:in with the shredded pork", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+E12 -> E13 [label="IMPLICIT DOBJ"]
+O13_0_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O13_0_0 -> E13
+O13_1_0[label="OTHER: over high heat", shape=box, style=filled, fillcolor=white]
+O13_1_0 -> E13
+D14_0[label="DOBJ: the heat", shape=box, style=filled, fillcolor=white]
+D14_0 -> E14
+E13 -> E14 [label="IMPLICIT PREP"]
+O14_0_0[label="OTHER: to low", shape=box, style=filled, fillcolor=white]
+O14_0_0 -> E14
+E15 -> E16 [label="IMPLICIT DOBJ"]
+E14 -> E16 [label="IMPLICIT PREP"]
+O16_0_0[label="OTHER: for 1 hour", shape=box, style=filled, fillcolor=white]
+O16_0_0 -> E16
+O16_1_0[label="OTHER: stirring occasionally", shape=box, style=filled, fillcolor=white]
+O16_1_0 -> E16
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E16 -> EOR
+}

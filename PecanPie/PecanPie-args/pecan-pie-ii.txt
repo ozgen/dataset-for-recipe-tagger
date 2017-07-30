@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would bake pie shell at 450 degrees F -LRB- 230 degrees C -RRB- for 5 minutes .
+PREDID: 0
+PRED: bake
+   DOBJ: pie shell
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+   PARG: 450 degrees f -lrb- 230 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 450 degrees f -lrb- 230 degrees c
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 1
+SENT: I would cool .
+PREDID: 50
+PRED: cool
+   DOBJ: NULL
+
+
+SENTID: 2
+SENT: I would turn oven down to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 55
+PRED: turn
+   DOBJ: oven down to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: oven down to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 3
+SENT: I would beat eggs and salt until very light and lemon colored .
+PREDID: 94
+PRED: beat
+   DOBJ: eggs, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: very light, lemon colored
+     PREP: until
+      NON-INGREDIENT SPAN: very light
+      NON-INGREDIENT SPAN:  lemon colored
+
+
+SENTID: 4
+SENT: I would beat in sugar a little at a time .
+PREDID: 139
+PRED: beat
+   DOBJ: NULL
+   PARG: sugar
+     PREP: in
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+   OARG: a little
+      NON-INGREDIENT SPAN: a little
+
+
+SENTID: 5
+SENT: With a wire whisk , I would fold in melted butter or margarine , and corn syrup .
+PREDID: 180
+PRED: fold
+   DOBJ: NULL
+   PARG: a wire whisk
+     PREP: with
+      NON-INGREDIENT SPAN: a wire whisk
+   PARG: melted butter or margarine , corn syrup
+     PREP: in
+      INGREDIENT SPAN:  corn syrup
+         INGREDIENTS: dark corn syrup
+      INGREDIENT SPAN: melted butter or margarine 
+         INGREDIENTS: butter melted
+
+
+SENTID: 6
+SENT: I would pour into partially baked shell .
+PREDID: 223
+PRED: pour
+   DOBJ: NULL
+   PARG: partially baked shell
+     PREP: into
+      NON-INGREDIENT SPAN: partially baked shell
+
+
+SENTID: 7
+SENT: I would arrange pecan halves on top , broken side down .
+PREDID: 251
+PRED: arrange
+   DOBJ: pecan halves
+      INGREDIENT SPAN: pecan halves
+         INGREDIENTS: pecan halves
+   PARG: top , broken side down
+     PREP: on
+      NON-INGREDIENT SPAN:  broken side down
+      NON-INGREDIENT SPAN: top 
+
+
+SENTID: 8
+SENT: I would bake for 10 minutes , and reduce heat to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 290
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+PREDID: 310
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 9
+SENT: I would bake for 30 minutes .
+PREDID: 347
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+

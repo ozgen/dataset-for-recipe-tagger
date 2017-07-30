@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x5-inch loaf pan .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x5-inch loaf pan
+      NON-INGREDIENT SPAN: a 9x5-inch loaf pan
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would combine beef , the egg , the onion , the milk , bread crumbs , the parsley , and carrot in a large bowl .
+PREDID: 68
+PRED: combine
+   DOBJ: beef , the egg , the onion , the milk , bread crumbs , the parsley , carrot in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  carrot in a large bowl
+         INGREDIENTS: large carrot grated
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: lowfat % milk
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: whole wheat bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+
+
+SENTID: 3
+SENT: I would season with salt and black pepper .
+PREDID: 137
+PRED: season
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+
+SENTID: 4
+SENT: I would place beef mixture in loaf pan .
+PREDID: 166
+PRED: place
+   DOBJ: beef mixture
+      NON-INGREDIENT SPAN: beef mixture
+   PARG: loaf pan
+     PREP: in
+      NON-INGREDIENT SPAN: loaf pan
+
+
+SENTID: 5
+SENT: I would stir together brown sugar , the mustard , and ketchup in a small bowl .
+PREDID: 192
+PRED: stir
+   DOBJ: brown sugar , the mustard , ketchup in a small bowl
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  ketchup in a small bowl
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: brown sugar 
+         INGREDIENTS: brown sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would pour over meatloaf .
+PREDID: 246
+PRED: pour
+   DOBJ: NULL
+   PARG: meatloaf
+     PREP: over
+      NON-INGREDIENT SPAN: meatloaf
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 263
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: no longer pink in the center , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 8
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+

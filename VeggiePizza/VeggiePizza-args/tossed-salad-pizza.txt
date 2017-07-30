@@ -1,0 +1,262 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 425 degrees f.
+     PREP: to
+      INGREDIENT SPAN: 425 degrees f.
+         INGREDIENTS: warm water degrees degrees F
+
+
+SENTID: 1
+SENT: I would combine 1 cup flour , undissolved yeast , the sugar and salt in a large bowl .
+
+SENTID: 2
+SENT: I would add very warm water and oil ;
+PREDID: 84
+PRED: add
+   DOBJ: very warm water, oil
+      INGREDIENT SPAN: very warm water
+         INGREDIENTS: warm water degrees degrees F
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: extra virgin olive oil
+
+
+SENTID: 3
+SENT: I would mix until well blended , about 1 minute .
+PREDID: 107
+PRED: mix
+   DOBJ: NULL
+   PARG: well blended , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: well blended 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 4
+SENT: I would gradually add enough remaining flour to make a soft dough .
+PREDID: 149
+PRED: add
+   DOBJ: enough remaining flour
+      INGREDIENT SPAN: enough remaining flour
+         INGREDIENTS: allpurpose flour more needed
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+   OARG: to make a soft dough
+      NON-INGREDIENT SPAN: to make a soft dough
+
+
+SENTID: 5
+SENT: Dough should form a ball and will be slightly sticky .
+
+SENTID: 6
+SENT: I would knead ** on a floured surface , adding additional flour if necessary , until smooth and elastic , about 4 minutes .
+PREDID: 189
+PRED: knead
+   DOBJ: ** on a floured surface
+      NON-INGREDIENT SPAN: ** on a floured surface
+   OARG: adding additional flour if necessary , until smooth, elastic , about 4 minutes
+      NON-INGREDIENT SPAN: adding additional flour if necessary 
+      NON-INGREDIENT SPAN:  about 4 minutes
+      NON-INGREDIENT SPAN:  until smooth
+      NON-INGREDIENT SPAN:  elastic 
+
+
+SENTID: 7
+SENT: -LRB- If using RapidRise Yeast , let dough rest at this point for 10 minutes .
+PREDID: 290
+PRED: using
+   DOBJ: RapidRise Yeast
+      INGREDIENT SPAN: RapidRise Yeast
+         INGREDIENTS: envelope Fleischmann Pizza Crust Yeast RapidRise Yeast
+   OARG: if
+      NON-INGREDIENT SPAN: if
+
+PREDID: 310
+PRED: let
+   DOBJ: dough rest
+      NON-INGREDIENT SPAN: dough rest
+   PARG: this point
+     PREP: at
+      NON-INGREDIENT SPAN: this point
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 8
+SENT: -RRB-
+
+SENTID: 9
+SENT: I would pat dough with floured hands to fill greased pizza pan or baking sheet .
+PREDID: 342
+PRED: pat
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: floured hands
+     PREP: with
+      NON-INGREDIENT SPAN: floured hands
+   OARG: to fill greased pizza pan or baking sheet
+      NON-INGREDIENT SPAN: to fill greased pizza pan or baking sheet
+
+
+SENTID: 10
+SENT: I would oR roll dough on a floured counter to 12-inch circle ;
+PREDID: 401
+PRED: or
+   DOBJ: roll dough on a floured counter
+      NON-INGREDIENT SPAN: roll dough on a floured counter
+   PARG: 12-inch circle
+     PREP: to
+      NON-INGREDIENT SPAN: 12-inch circle
+
+
+SENTID: 11
+SENT: I would place in greased pizza pan or baking sheet .
+PREDID: 445
+PRED: place
+   DOBJ: NULL
+   PARG: greased pizza pan or baking sheet
+     PREP: in
+      NON-INGREDIENT SPAN: greased pizza pan or baking sheet
+
+
+SENTID: 12
+SENT: I would form a rim by pinching the edge of the dough .
+PREDID: 481
+PRED: form
+   DOBJ: a rim
+      NON-INGREDIENT SPAN: a rim
+   PARG: pinching the edge of the dough
+     PREP: by
+      NON-INGREDIENT SPAN: pinching the edge of the dough
+
+
+SENTID: 13
+SENT: I would brush crust with 1 tablespoon olive oil and sprinkle with garlic powder .
+PREDID: 517
+PRED: brush
+   DOBJ: crust
+      NON-INGREDIENT SPAN: crust
+   PARG: 1 tablespoon olive oil
+     PREP: with
+      NON-INGREDIENT SPAN: 1 tablespoon olive oil
+
+PREDID: 553
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: garlic powder
+     PREP: with
+      INGREDIENT SPAN: garlic powder
+         INGREDIENTS: Spice Islands Garlic Powder
+
+
+SENTID: 14
+SENT: I would combine mozzarella cheese , the onions and carrots ;
+PREDID: 578
+PRED: combine
+   DOBJ: mozzarella cheese , the onions, carrots
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: chopped sliced carrots
+      INGREDIENT SPAN: mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the onions
+         INGREDIENTS: chopped onion
+
+
+SENTID: 15
+SENT: I would spread over the crust .
+PREDID: 619
+PRED: spread
+   DOBJ: the crust
+      NON-INGREDIENT SPAN: the crust
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 16
+SENT: I would bake on lowest oven rack for 15 to 18 minutes , until cheese is bubbly and crust is browned .
+PREDID: 638
+PRED: bake
+   DOBJ: NULL
+   PARG: lowest oven rack
+     PREP: on
+      NON-INGREDIENT SPAN: lowest oven rack
+   PARG: 15 to 18 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 18 minutes
+   PARG: cheese is bubbly
+     PREP: until
+      INGREDIENT SPAN: cheese is bubbly
+         INGREDIENTS: shredded Parmesan cheese
+
+PREDID: 704
+PRED: is browned
+   DOBJ: NULL
+
+
+SENTID: 17
+SENT: I would remove from oven and let cool 2 to 3 minutes .
+PREDID: 712
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 729
+PRED: let
+   DOBJ: NULL
+   PARG: 2 to 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 3 minutes
+   OARG: cool
+      NON-INGREDIENT SPAN: cool
+
+
+SENTID: 18
+SENT: While pizza is baking , I would toss together lettuce , the tomatoes and Italian salad dressing .
+PREDID: 767
+PRED: toss
+   DOBJ: lettuce , the tomatoes, Italian salad dressing
+      INGREDIENT SPAN:  Italian salad dressing
+         INGREDIENTS: prepared Italian salad dressing
+      INGREDIENT SPAN: lettuce 
+         INGREDIENTS: chopped romaine lettuce
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: chopped fresh tomatoes halved grape tomatoes
+   PARG: pizza is baking
+     PREP: while
+      NON-INGREDIENT SPAN: pizza is baking
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 19
+SENT: I would spread over pizza and sprinkle with Parmesan cheese .
+PREDID: 819
+PRED: spread
+   DOBJ: NULL
+   PARG: pizza
+     PREP: over
+      NON-INGREDIENT SPAN: pizza
+
+PREDID: 837
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: parmesan cheese
+
+
+SENTID: 20
+SENT: I would serve immediately !
+PREDID: 864
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

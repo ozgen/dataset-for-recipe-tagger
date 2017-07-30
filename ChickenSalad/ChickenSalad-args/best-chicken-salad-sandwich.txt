@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: I would mix mayonnaise , the yogurt , the paprika , and seasoned salt together in a bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: mayonnaise , the yogurt , the paprika , seasoned salt
+      INGREDIENT SPAN:  seasoned salt
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the yogurt 
+         INGREDIENTS: lowfat plain yogurt
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: light mayonnaise
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would fold in cranberries , the celery , the apple , the grapes , and pecans .
+PREDID: 60
+PRED: fold
+   DOBJ: NULL
+   PARG: cranberries , the celery , the apple , the grapes , pecans
+     PREP: in
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: cubed green apple
+      INGREDIENT SPAN: cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  pecans
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: sliced red grapes
+
+
+SENTID: 2
+SENT: I would stir in chicken and season with black pepper .
+PREDID: 108
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken, season
+     PREP: in
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: drained canned chicken
+      NON-INGREDIENT SPAN:  season
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+
+

@@ -1,0 +1,38 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="mix
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="stir
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="divide
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake
+4", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: bananas, salad dressing, sugar", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: until smooth", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D2_ing[label="DOBJ: flour, salt, baking soda", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="COOBJECT:into banana mixture"]
+O2_0_0[label="OTHER: until batter is just moistened", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+E2 -> E3 [label="batter"]
+P3_0_0[label="LOCATION:into 24 muffin cups", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E0 -> E4 [label="LOCATION:in the preheated oven"]
+O4_0_0[label="OTHER: until a toothpick inserted into the center comes out clean", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+O4_1_0[label="OTHER: about 17 minutes", shape=box, style=filled, fillcolor=white]
+O4_1_0 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

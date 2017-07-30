@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would mix mango , the tomatoes , the onion , jalapeno pepper , the cilantro , and juice of 1 lime in a large bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: mango , the tomatoes , the onion , jalapeno pepper , the cilantro , juice of 1 lime in a large bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: cilantro leaves chopped
+      INGREDIENT SPAN:  jalapeno pepper 
+         INGREDIENTS: diced yellow bell pepper
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: roma plum tomatoes chopped
+      INGREDIENT SPAN:  juice of 1 lime in a large bowl
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN: mango 
+         INGREDIENTS: mango peeled seeded diced
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 76
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would whisk olive oil , 1/4 cup lime juice , the sugar , chipotle chile powder , the cumin , and garlic powder together in a bowl ;
+PREDID: 85
+PRED: whisk
+   DOBJ: olive oil , 1/4 cup lime juice , the sugar , chipotle chile powder , the cumin , garlic powder
+      INGREDIENT SPAN:  chipotle chile powder 
+         INGREDIENTS: ground chipotle chile powder
+      INGREDIENT SPAN:  1/4 cup lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN: olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 178
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would toss spinach leaves , broccoli coleslaw mix , the chicken , the red , green , and yellow bell peppers , cranberries , and pecans together in a large bowl .
+PREDID: 187
+PRED: toss
+   DOBJ: spinach leaves , broccoli coleslaw mix , the chicken , the red , green , yellow bell peppers
+      INGREDIENT SPAN:  yellow bell peppers
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: diced cooked chicken
+      INGREDIENT SPAN:  broccoli coleslaw mix 
+         INGREDIENTS: broccoli coleslaw mix
+      INGREDIENT SPAN: spinach leaves 
+         INGREDIENTS: ounce bag baby spinach leaves
+      NON-INGREDIENT SPAN:  the red 
+      NON-INGREDIENT SPAN:  green 
+
+PREDID: 285
+PRED: pecans
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would spread mango salsa and blue cheese on top .
+PREDID: 306
+PRED: spread
+   DOBJ: mango salsa, blue cheese on top
+      INGREDIENT SPAN:  blue cheese on top
+         INGREDIENTS: crumbled blue cheese
+      NON-INGREDIENT SPAN: mango salsa
+
+
+SENTID: 6
+SENT: I would drizzle lime dressing over salad and toss before serving .
+PREDID: 341
+PRED: drizzle
+   DOBJ: lime dressing over salad
+      INGREDIENT SPAN: lime dressing over salad
+         INGREDIENTS: lime juice
+
+PREDID: 372
+PRED: toss
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

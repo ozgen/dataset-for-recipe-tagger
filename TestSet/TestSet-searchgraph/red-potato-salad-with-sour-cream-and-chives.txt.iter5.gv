@@ -1,0 +1,50 @@
+digraph recipe {
+E0[label="scrub
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cut
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="boil
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="cut
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="combine
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="toss
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="add
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="refrigerate
+8", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: large red potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="OTHER:if large", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+P1_1_0[label="LOCOROBJ:in half or in quarters", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+E1 -> E2 [label="potatoes"]
+P2_0_0[label="LOCOROBJ:in their skins until fork-tender", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCOROBJ:into 1/2 inch cubes", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+D5_ing[label="DOBJ: fresh chives finely, plain yogurt, sour cream", shape=box, style=filled, fillcolor=peachpuff]
+D5_ing -> E5
+E4 -> E5 [label="the potatoes "]
+P5_0_0[label="LOCOROBJ:in a salad bowl", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: ground black pepper to taste, salt", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="LOCOROBJ:to taste"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+P8_0_0[label="OTHER:until chilled", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

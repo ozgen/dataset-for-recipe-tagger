@@ -1,0 +1,48 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="line (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P78)", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix (S3,P128)", shape=oval, style=filled, fillcolor=azure]
+E4[label="fold (S4,P164)", shape=oval, style=filled, fillcolor=azure]
+E5[label="scoop (S5,P225)", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle (S6,P256)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S7,P280)", shape=oval, style=filled, fillcolor=azure]
+D2[label="DOBJ: baking powder, white sugar, all-purpose flour, baking soda, salt
+(text: the flour , sugar , baking powder , baking soda , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D1[label="DOBJ: 24 muffin cups", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with paper liners", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: in eggs, milk, vanilla extract, melted butter
+(text: in  vanilla ,  milk ,  butter, the eggs )", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_ing[label="PREP: in shredded coconut, banana, banana chips, chopped walnuts, granola
+(text: in  chopped banana , mashed bananas ,  granola ,  coconut,  walnuts )", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E1 -> E5 [label="OUTPUT: 
+INPUT: into the prepared muffin cups"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_ing[label="PREP: with bananas
+(text: with banana chips)", shape=box, style=filled, fillcolor=peachpuff]
+P6_0_ing -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: 25 minutes"]
+E0 -> E7 [label="OUTPUT: 
+INPUT: in the preheated oven "]
+P7_0_1[label="PREP: in  or until a knife inserted in the center of a muffin comes out clean", shape=box, style=filled, fillcolor=white]
+P7_0_1 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

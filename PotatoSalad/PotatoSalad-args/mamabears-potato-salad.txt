@@ -1,0 +1,232 @@
+SENTID: 0
+SENT: I would place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: small red potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 29
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 50
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 63
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and let potatoes cool .
+PREDID: 121
+PRED: drain and let
+   DOBJ: NULL
+   OARG: potatoes cool
+      NON-INGREDIENT SPAN: potatoes cool
+
+
+SENTID: 4
+SENT: I would place eggs in a saucepan and cover with water .
+PREDID: 145
+PRED: place
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+
+PREDID: 168
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 5
+SENT: I would bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 183
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 196
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 214
+PRED: let stand
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: hot water for 15 minutes
+
+
+SENTID: 6
+SENT: I would remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 249
+PRED: remove
+   DOBJ: eggs
+      NON-INGREDIENT SPAN: eggs
+   PARG: hot water
+     PREP: from
+      NON-INGREDIENT SPAN: hot water
+
+PREDID: 272
+PRED: cool
+   DOBJ: NULL
+   PARG: cold running water
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water
+
+
+SENTID: 7
+SENT: I would dice the eggs when cool .
+PREDID: 306
+PRED: dice
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+
+SENTID: 8
+SENT: I would place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 326
+PRED: place
+   DOBJ: the bacon in a large skillet
+      INGREDIENT SPAN: the bacon in a large skillet
+         INGREDIENTS: ounce packages bacon
+
+PREDID: 357
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 9
+SENT: I would drain the bacon slices on paper towels .
+PREDID: 435
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+
+SENTID: 10
+SENT: When cooled , crumble and set aside .
+PREDID: 479
+PRED: crumble and set
+   DOBJ: NULL
+   OARG: when cooled
+      NON-INGREDIENT SPAN: when cooled
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 11
+SENT: I would dice potatoes into a large salad bowl and mix with crumbled bacon , diced eggs , and salad dressing .
+PREDID: 498
+PRED: dice
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large salad bowl
+     PREP: into
+      INGREDIENT SPAN: a large salad bowl
+         INGREDIENTS: ounce jar creamy salad dressing such Miracle Whip
+
+PREDID: 532
+PRED: mix
+   DOBJ: NULL
+   PARG: crumbled bacon , diced eggs , salad dressing
+     PREP: with
+      NON-INGREDIENT SPAN:  salad dressing
+      NON-INGREDIENT SPAN: crumbled bacon 
+      NON-INGREDIENT SPAN:  diced eggs 
+
+
+SENTID: 12
+SENT: I would sprinkle top of salad with shredded Cheddar cheese , and mix the salad thoroughly .
+PREDID: 580
+PRED: sprinkle
+   DOBJ: top of salad
+      NON-INGREDIENT SPAN: top of salad
+   PARG: shredded cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheddar cheese
+         INGREDIENTS: ounce package shredded Cheddar cheese
+
+PREDID: 627
+PRED: mix
+   DOBJ: the salad
+      NON-INGREDIENT SPAN: the salad
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 13
+SENT: I would season with black pepper .
+PREDID: 649
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+
+
+SENTID: 14
+SENT: For best flavor , I would chill salad overnight .
+PREDID: 685
+PRED: chill
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: best flavor
+     PREP: for
+      NON-INGREDIENT SPAN: best flavor
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

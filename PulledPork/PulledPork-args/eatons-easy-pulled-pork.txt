@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would arrange onion slices in the bottom of a slow cooker .
+PREDID: 0
+PRED: arrange
+   DOBJ: onion slices
+      INGREDIENT SPAN: onion slices
+         INGREDIENTS: onion sliced
+   PARG: the bottom of a slow cooker
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a slow cooker
+
+
+SENTID: 1
+SENT: I would season pork with salt and pepper and place over onion .
+PREDID: 43
+PRED: season
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: bonein pork loin end roast
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 73
+PRED: place
+   DOBJ: NULL
+   PARG: onion
+     PREP: over
+      NON-INGREDIENT SPAN: onion
+
+
+SENTID: 2
+SENT: I would add vinegar and water .
+PREDID: 88
+PRED: add
+   DOBJ: vinegar, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: vinegar
+         INGREDIENTS: cider vinegar
+
+
+SENTID: 3
+SENT: I would cook pork on Low for 8 hours .
+PREDID: 107
+PRED: cook
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: low for 8 hours
+     PREP: on
+      NON-INGREDIENT SPAN: low for 8 hours
+
+
+SENTID: 4
+SENT: I would transfer pork to a platter and shred with two forks .
+PREDID: 130
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a platter, shred with two forks
+     PREP: to
+      NON-INGREDIENT SPAN:  shred with two forks
+      NON-INGREDIENT SPAN: a platter
+
+
+SENTID: 5
+SENT: I would remove and discard about half the pork juices from slow cooker and stir in shredded pork , barbeque sauce , and brown sugar .
+PREDID: 173
+PRED: remove and discard
+   DOBJ: about half the pork juices from slow cooker
+      NON-INGREDIENT SPAN: about half the pork juices from slow cooker
+
+PREDID: 228
+PRED: stir
+   DOBJ: NULL
+   PARG: shredded pork , barbeque sauce , brown sugar
+     PREP: in
+      INGREDIENT SPAN:  barbeque sauce 
+         INGREDIENTS: ounce bottle hickory brown sugar barbeque sauce
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar taste
+      NON-INGREDIENT SPAN: shredded pork 
+
+

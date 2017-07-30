@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , the egg , sour cream and Worcestershire sauce .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , the egg , sour cream, Worcestershire sauce
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix in soup mix , the cheese , and bread crumbs .
+PREDID: 102
+PRED: mix
+   DOBJ: NULL
+   PARG: soup mix , the cheese , bread crumbs
+     PREP: in
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: Italianstyle dried bread crumbs
+      INGREDIENT SPAN: soup mix 
+         INGREDIENTS: ounce package dry onion soup mix
+
+
+SENTID: 3
+SENT: I would form mixture into a loaf , and place in a 9x5 inch loaf pan .
+PREDID: 137
+PRED: form
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+   OARG: place in a 9x5 inch loaf pan
+      NON-INGREDIENT SPAN: place in a 9x5 inch loaf pan
+
+
+SENTID: 4
+SENT: I would cover with foil .
+PREDID: 184
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 5
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 45 minutes .
+PREDID: 198
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+
+SENTID: 6
+SENT: I would remove foil and continue the baking for another 10 to 15 minutes .
+PREDID: 241
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 254
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking for another 10 to 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the baking for another 10 to 15 minutes
+
+
+SENTID: 7
+SENT: I would let the stand 5 to 10 minutes before serving for easier slicing .
+PREDID: 292
+PRED: let
+   DOBJ: NULL
+   PARG: the stand 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the stand 5 to 10 minutes
+   PARG: serving for easier slicing
+     PREP: before
+      NON-INGREDIENT SPAN: serving for easier slicing
+
+

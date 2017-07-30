@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would heat oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: olive oil
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir steak and ground black pepper in hot oil until browned on all sides , 5 to 10 minutes .
+PREDID: 33
+PRED: cook and stir
+   DOBJ: steak, ground black pepper in hot oil
+      INGREDIENT SPAN: steak
+         INGREDIENTS: beef top round steak cut 1/2inch cubes
+      INGREDIENT SPAN:  ground black pepper in hot oil
+         INGREDIENTS: ground black pepper
+   PARG: browned on all sides , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned on all sides 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 2
+SENT: I would stir onions into beef ;
+PREDID: 113
+PRED: stir
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: yellow onions diced
+   PARG: beef
+     PREP: into
+      NON-INGREDIENT SPAN: beef
+
+
+SENTID: 3
+SENT: I would saute until onions are translucent , 3 to 4 minutes .
+PREDID: 132
+PRED: saute
+   DOBJ: NULL
+   PARG: onions are translucent , 3 to 4 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  3 to 4 minutes
+      NON-INGREDIENT SPAN: onions are translucent 
+
+
+SENTID: 4
+SENT: I would add garlic and cook until fragrant , about 1 minute .
+PREDID: 175
+PRED: add
+   DOBJ: NULL
+   OARG: garlic
+      INGREDIENT SPAN: garlic
+         INGREDIENTS: chopped garlic
+
+PREDID: 187
+PRED: cook
+   DOBJ: NULL
+   PARG: fragrant , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 5
+SENT: I would stir green bell peppers , yellow bell pepper , and red bell pepper into beef mixture one pepper at a time .
+PREDID: 218
+PRED: stir
+   DOBJ: green bell peppers , yellow bell pepper , red bell pepper
+      INGREDIENT SPAN:  yellow bell pepper 
+         INGREDIENTS: red bell pepper diced
+      INGREDIENT SPAN:  red bell pepper
+         INGREDIENTS: yellow bell pepper diced
+      INGREDIENT SPAN: green bell peppers 
+         INGREDIENTS: green bell pepper diced
+   PARG: beef mixture one pepper
+     PREP: into
+      NON-INGREDIENT SPAN: beef mixture one pepper
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 6
+SENT: I would cook and stir until fragrant , 3 to 5 minutes .
+PREDID: 304
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: fragrant , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: fragrant 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 7
+SENT: I would pour diced tomatoes , kidney beans , black beans , the corn , and tomato sauce into beef-pepper mixture .
+PREDID: 341
+PRED: pour
+   DOBJ: diced tomatoes , kidney beans , black beans , the corn , tomato sauce
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans drained rinsed
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce yellow corn drained
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+   PARG: beef-pepper mixture
+     PREP: into
+      NON-INGREDIENT SPAN: beef-pepper mixture
+
+
+SENTID: 8
+SENT: I would bring to a simmer and cook , stirring occasionally , until flavors blend and meat is tender , about 1 hour .
+PREDID: 424
+PRED: bring
+   DOBJ: NULL
+   PARG: a simmer, cook
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+      NON-INGREDIENT SPAN:  cook
+   OARG: stirring occasionally , until flavors blend, meat is tender , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  until flavors blend
+      NON-INGREDIENT SPAN:  meat is tender 
+
+

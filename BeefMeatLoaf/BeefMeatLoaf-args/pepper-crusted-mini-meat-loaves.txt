@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a baking dish
+      NON-INGREDIENT SPAN: a baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would mix ground beef , the rice , the parsley , the egg , Worcestershire sauce , garlic powder , onion powder , and 1/4 teaspoon salt together in a bowl ;
+PREDID: 63
+PRED: mix
+   DOBJ: ground beef , the rice , the parsley , the egg , Worcestershire sauce , garlic powder , onion powder , 1/4 teaspoon salt
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the rice 
+         INGREDIENTS: cooked brown rice
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  1/4 teaspoon salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would form into 4 oblong mini-loaves .
+PREDID: 173
+PRED: form
+   DOBJ: NULL
+   PARG: 4 oblong mini-loaves
+     PREP: into
+      NON-INGREDIENT SPAN: 4 oblong mini-loaves
+
+
+SENTID: 4
+SENT: I would season the outside of each loaf generously with pepper .
+PREDID: 200
+PRED: season
+   DOBJ: the outside of each loaf
+      NON-INGREDIENT SPAN: the outside of each loaf
+   PARG: pepper
+     PREP: with
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: fresh cracked black pepper taste
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+
+SENTID: 5
+SENT: I would arrange loaves in the prepared baking dish .
+PREDID: 247
+PRED: arrange
+   DOBJ: loaves
+      NON-INGREDIENT SPAN: loaves
+   PARG: the prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 6
+SENT: I would bake in the preheated oven until no longer pink in the center , 35 to 45 minutes .
+PREDID: 284
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: no longer pink in the center , 35 to 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  35 to 45 minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+
+
+SENTID: 7
+SENT: An instant-read thermometer inserted into the center of each loaf should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 8
+SENT: I would heat olive oil in a skillet over low heat ;
+PREDID: 349
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over low heat
+
+
+SENTID: 9
+SENT: I would saute onion in oil until soft and golden brown , 15 to 20 minutes .
+PREDID: 383
+PRED: saute
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion sliced
+   PARG: oil until soft, golden brown , 15 to 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  golden brown 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+      NON-INGREDIENT SPAN: oil until soft
+
+
+SENTID: 10
+SENT: I would season onion with 1 pinch salt ;
+PREDID: 442
+PRED: onion
+   DOBJ: season
+      NON-INGREDIENT SPAN: season
+   PARG: 1 pinch salt
+     PREP: with
+      INGREDIENT SPAN: 1 pinch salt
+         INGREDIENTS: salt
+
+
+SENTID: 11
+SENT: I would serve over meat loaves .
+PREDID: 462
+PRED: serve
+   DOBJ: meat loaves
+      NON-INGREDIENT SPAN: meat loaves
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+

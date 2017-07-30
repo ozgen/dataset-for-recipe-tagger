@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: I would place the potatoes in a large pot of boiling salted water , and cook about 10 minutes .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: red potatoes scrubbed
+   PARG: a large pot of boiling salted water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling salted water
+
+PREDID: 51
+PRED: cook
+   DOBJ: NULL
+   PARG: about 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 10 minutes
+
+
+SENTID: 1
+SENT: I would stir in the frozen mixed vegetables , and continue the cooking 10 to 12 minutes , until potatoes and vegetables are tender .
+PREDID: 70
+PRED: stir
+   DOBJ: NULL
+   PARG: the frozen mixed vegetables
+     PREP: in
+      INGREDIENT SPAN: the frozen mixed vegetables
+         INGREDIENTS: frozen mixed vegetables
+
+PREDID: 104
+PRED: continue
+   DOBJ: NULL
+   PARG: the cooking 10 to 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the cooking 10 to 12 minutes
+   PARG: potatoes, vegetables are tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes
+      NON-INGREDIENT SPAN:  vegetables are tender
+
+
+SENTID: 2
+SENT: I would transfer to a large bowl .
+PREDID: 169
+PRED: transfer
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would cut potatoes while still hot , into 1 inch pieces .
+PREDID: 190
+PRED: cut
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   PARG: still hot
+     PREP: while
+      NON-INGREDIENT SPAN: still hot
+   PARG: 1 inch pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 1 inch pieces
+
+
+SENTID: 4
+SENT: I would set aside to cool .
+PREDID: 231
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 5
+SENT: I would heat the olive oil in a skillet .
+PREDID: 246
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive 
+         INGREDIENTS: extra virgin olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: sesame oil
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+
+
+SENTID: 6
+SENT: I would place the onion in the skillet , and season with garlic , the salt , and pepper .
+PREDID: 272
+PRED: place
+   DOBJ: the onion in the skillet , season with garlic , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  season with garlic 
+         INGREDIENTS: dried minced garlic
+      INGREDIENT SPAN: the onion in the skillet 
+         INGREDIENTS: large yellow onion diced
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 7
+SENT: I would cook and stir until tender .
+PREDID: 333
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 8
+SENT: In a bowl , I would whisk together the mayonnaise , lemon juice , Worcestershire sauce , sesame oil , hot sauce , wasabi powder , the ginger , and turmeric .
+PREDID: 364
+PRED: whisk
+   DOBJ: the mayonnaise , lemon juice , Worcestershire sauce , sesame oil , hot sauce , wasabi powder , the ginger , turmeric
+      INGREDIENT SPAN:  turmeric
+         INGREDIENTS: ground turmeric
+      INGREDIENT SPAN:  Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  wasabi powder 
+         INGREDIENTS: wasabi powder
+      INGREDIENT SPAN:  hot sauce 
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      NON-INGREDIENT SPAN:  sesame oil 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would season with salt and pepper .
+PREDID: 473
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+
+SENTID: 10
+SENT: I would toss the cooled potato and vegetable mixture with the onions , mayonnaise mixture , the ham , and cilantro until evenly coated .
+PREDID: 497
+PRED: toss
+   DOBJ: the cooled potato, vegetable mixture
+      NON-INGREDIENT SPAN: the cooled potato
+      NON-INGREDIENT SPAN:  vegetable mixture
+   PARG: the onions , mayonnaise mixture , the ham , cilantro
+     PREP: with
+      INGREDIENT SPAN:  the ham 
+         INGREDIENTS: cooked cubed ham
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: chopped fresh cilantro
+      NON-INGREDIENT SPAN: the onions 
+      NON-INGREDIENT SPAN:  mayonnaise mixture 
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 11
+SENT: I would chill until serving .
+PREDID: 600
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

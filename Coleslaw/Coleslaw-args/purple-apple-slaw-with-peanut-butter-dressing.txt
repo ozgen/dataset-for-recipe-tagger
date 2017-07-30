@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: I would whisk rice wine vinegar , olive oil , peanut butter , soy sauce , brown sugar , the ginger , and garlic together in a bowl to make a smooth dressing .
+PREDID: 0
+PRED: whisk
+   DOBJ: rice wine vinegar , olive oil , peanut butter , soy sauce , brown sugar , the ginger , garlic
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: minced fresh ginger root
+      INGREDIENT SPAN:  peanut butter 
+         INGREDIENTS: creamy peanut butter
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  olive oil 
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: rice wine vinegar 
+         INGREDIENTS: rice wine vinegar
+   PARG: a bowl to make a smooth dressing
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl to make a smooth dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would toss red cabbage , the apples , and onion in a large salad bowl and pour the dressing over slaw ;
+PREDID: 116
+PRED: toss
+   DOBJ: red cabbage , the apples , onion in a large salad bowl
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: Braeburn Fuji apples peeled cored diced
+      INGREDIENT SPAN: red cabbage 
+         INGREDIENTS: head red cabbage shredded
+      INGREDIENT SPAN:  onion in a large salad bowl
+         INGREDIENTS: minced white onion
+
+PREDID: 169
+PRED: pour
+   DOBJ: the dressing over slaw
+      NON-INGREDIENT SPAN: the dressing over slaw
+
+
+SENTID: 2
+SENT: I would toss to coat .
+PREDID: 187
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would chill before serving .
+PREDID: 198
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

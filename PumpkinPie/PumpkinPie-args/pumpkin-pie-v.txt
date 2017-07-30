@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large mixing bowl combine pumpkin , I would the sugar , the eggs , the milk , the cinnamon , the ginger , the cloves , and nutmeg .
+
+SENTID: 2
+SENT: I would stir until smooth and thoroughly mixed .
+PREDID: 38
+PRED: stir
+   DOBJ: NULL
+   PARG: smooth, thoroughly mixed
+     PREP: until
+      NON-INGREDIENT SPAN:  thoroughly mixed
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would pour pumpkin mixture into pastry-lined pie pan .
+PREDID: 72
+PRED: pour
+   DOBJ: pumpkin mixture
+      INGREDIENT SPAN: pumpkin mixture
+         INGREDIENTS: solid pack pumpkin puree
+   PARG: pastry-lined pie pan
+     PREP: into
+      INGREDIENT SPAN: pastry-lined pie pan
+         INGREDIENTS: inch pie shell
+
+
+SENTID: 4
+SENT: I would bake in preheated oven for 45 minutes , or until set in center .
+PREDID: 113
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 45 minutes
+
+

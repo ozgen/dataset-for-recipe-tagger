@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: I would heat grill to medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: NULL
+   OARG: grill to medium-high heat
+      NON-INGREDIENT SPAN: grill to medium-high heat
+
+
+SENTID: 1
+SENT: I would brush chicken with oil ;
+PREDID: 27
+PRED: brush
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: boneless skinless chicken breast halves
+   PARG: oil
+     PREP: with
+      INGREDIENT SPAN: oil
+         INGREDIENTS: Olive oil
+
+
+SENTID: 2
+SENT: I would season with salt and pepper , to taste .
+PREDID: 47
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+   OARG: to taste
+      INGREDIENT SPAN: to taste
+         INGREDIENTS: Bottled blue cheese dressing taste
+
+
+SENTID: 3
+SENT: I would grill 8 to 12 minutes or until no longer pink in the center -LRB- 165 degrees F -RRB- , turning once .
+PREDID: 79
+PRED: grill
+   DOBJ: 8
+      NON-INGREDIENT SPAN: 8
+   PARG: 12 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 12 minutes
+
+
+SENTID: 4
+SENT: I would cool chicken enough to handle ;
+PREDID: 152
+PRED: cool
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: enough
+      NON-INGREDIENT SPAN: enough
+
+
+SENTID: 5
+SENT: I would slice into thin strips .
+PREDID: 178
+PRED: slice
+   DOBJ: NULL
+   PARG: thin strips
+     PREP: into
+      NON-INGREDIENT SPAN: thin strips
+
+
+SENTID: 6
+SENT: I would combine salad blend , tomatoes from pouch , cooked sliced chicken , the avocado , the bacon , the egg and blue cheese in large bowl .
+PREDID: 198
+PRED: combine cooked
+   DOBJ: salad blend , tomatoes from pouch, sliced chicken , the avocado , the bacon , the egg, blue cheese
+      INGREDIENT SPAN:  tomatoes from pouch
+         INGREDIENTS: ounce package DOLE Extra Veggie Grape Tomatoes
+      INGREDIENT SPAN:  the egg
+         INGREDIENTS: hardcooked egg peeled chopped
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: slices bacon cooked drained crumbled
+      INGREDIENT SPAN:  blue cheese
+         INGREDIENTS: crumbled blue cheese
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: avocado peeled cubed
+      NON-INGREDIENT SPAN: salad blend 
+      NON-INGREDIENT SPAN:  sliced chicken 
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 7
+SENT: I would toss with blue cheese dressing , to taste .
+PREDID: 296
+PRED: toss
+   DOBJ: NULL
+   PARG: blue cheese dressing
+     PREP: with
+      NON-INGREDIENT SPAN: blue cheese dressing
+   OARG: to taste
+      NON-INGREDIENT SPAN: to taste
+
+

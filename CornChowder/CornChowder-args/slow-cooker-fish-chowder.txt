@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would cook and stir bacon in a skillet over medium heat until browned , 5 to 8 minutes ;
+PREDID: 0
+PRED: cook and stir
+   DOBJ: bacon in a skillet over medium heat
+      INGREDIENT SPAN: bacon in a skillet over medium heat
+         INGREDIENTS: uncooked medium shrimp peeled deveined
+      INGREDIENT SPAN: bacon in a skillet over heat
+         INGREDIENTS: slices bacon chopped
+   PARG: browned , 5 to 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: browned 
+      NON-INGREDIENT SPAN:  5 to 8 minutes
+
+
+SENTID: 1
+SENT: I would drain excess grease .
+PREDID: 65
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 2
+SENT: I would cook and stir onion and garlic into bacon until onion is translucent , about 5 minutes .
+PREDID: 83
+PRED: cook and stir
+   DOBJ: onion, garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  garlic
+   PARG: bacon
+     PREP: into
+      NON-INGREDIENT SPAN: bacon
+   PARG: onion is translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: onion is translucent 
+
+
+SENTID: 3
+SENT: I would transfer mixture to a slow cooker .
+PREDID: 155
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: a slow cooker
+
+
+SENTID: 4
+SENT: I would pour chicken stock into slow cooker .
+PREDID: 184
+PRED: pour
+   DOBJ: chicken stock
+      INGREDIENT SPAN: chicken stock
+         INGREDIENTS: chicken stock
+   PARG: slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: slow cooker
+
+
+SENTID: 5
+SENT: I would mix corn , the potatoes , the celery , and carrots into the stock .
+PREDID: 215
+PRED: mix
+   DOBJ: corn , the potatoes , the celery , carrots
+      INGREDIENT SPAN:  carrots
+         INGREDIENTS: large carrots diced
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+      INGREDIENT SPAN:  the potatoes 
+         INGREDIENTS: large potatoes diced
+      INGREDIENT SPAN: corn 
+         INGREDIENTS: fresh corn kernels
+   PARG: the stock
+     PREP: into
+      NON-INGREDIENT SPAN: the stock
+
+
+SENTID: 6
+SENT: I would season with black pepper and red pepper flakes .
+PREDID: 262
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper, red pepper flakes
+     PREP: with
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes taste
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+
+
+SENTID: 7
+SENT: I would set the cooker to High , cover , and cook for 3 hours .
+PREDID: 302
+PRED: set
+   DOBJ: the cooker
+      NON-INGREDIENT SPAN: the cooker
+   PARG: high
+     PREP: to
+      NON-INGREDIENT SPAN: high
+
+PREDID: 330
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 hours
+
+
+SENTID: 8
+SENT: I would stir scallops , the shrimp , and halibut into the soup and cook 1 more hour .
+PREDID: 344
+PRED: stir
+   DOBJ: scallops , the shrimp , halibut
+      INGREDIENT SPAN: scallops 
+         INGREDIENTS: scallops
+      INGREDIENT SPAN:  halibut
+         INGREDIENTS: halibut cut bitesize
+      NON-INGREDIENT SPAN:  the shrimp 
+   PARG: the soup
+     PREP: into
+      NON-INGREDIENT SPAN: the soup
+
+PREDID: 391
+PRED: cook
+   DOBJ: 1 more hour
+      NON-INGREDIENT SPAN: 1 more hour
+
+
+SENTID: 9
+SENT: I would stir evaporated milk into chowder , heat thoroughly , and serve .
+PREDID: 402
+PRED: stir
+   DOBJ: evaporated milk
+      INGREDIENT SPAN: evaporated milk
+         INGREDIENTS: ounce evaporated milk
+   PARG: chowder
+     PREP: into
+      NON-INGREDIENT SPAN: chowder
+
+PREDID: 432
+PRED: heat
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+

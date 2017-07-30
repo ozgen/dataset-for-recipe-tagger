@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a medium bowl mix flour , I would baking powder , baking soda , salt , and cinnamon and set aside .
+PREDID: 22
+PRED: baking
+   DOBJ: powder , baking soda , salt , cinnamon
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl mix flour
+     PREP: in
+      INGREDIENT SPAN: a medium bowl mix flour
+         INGREDIENTS: allpurpose flour
+
+PREDID: 65
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: In a separate bowl cream margarine and sugar , I would add eggs and mix until smooth .
+PREDID: 112
+PRED: add
+   DOBJ: eggs, mix
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  mix
+   PARG: a separate bowl cream margarine, sugar
+     PREP: in
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: a separate bowl cream margarine
+         INGREDIENTS: margarine
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would stir in milk and mashed banana and mix well .
+PREDID: 137
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, mashed banana
+     PREP: in
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  mashed banana
+         INGREDIENTS: mashed ripe banana
+
+PREDID: 165
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would fold in flour mixture into the liquid ingredients until combined .
+PREDID: 173
+PRED: fold
+   DOBJ: NULL
+   PARG: flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: flour mixture
+   PARG: the liquid ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: the liquid ingredients
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+
+
+SENTID: 4
+SENT: I would fill greased muffin tins two-thirds of the way full .
+PREDID: 229
+PRED: fill
+   DOBJ: greased muffin tins two-thirds of the way full
+      NON-INGREDIENT SPAN: greased muffin tins two-thirds of the way full
+
+
+SENTID: 5
+SENT: I would bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- oven for 25 to 30 minutes .
+PREDID: 273
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 25 to 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven for 25 to 30 minutes
+
+

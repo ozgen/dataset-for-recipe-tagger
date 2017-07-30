@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: In a medium pot over medium heat , I would brown the ground beef , the onion and garlic until the meat is no longer pink ;
+PREDID: 27
+PRED: brown
+   DOBJ: the ground beef , the onion, garlic
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+   PARG: a medium pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium pot over medium heat
+   PARG: the meat is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is no longer pink
+
+
+SENTID: 1
+SENT: I would drain fat .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+   OARG: fat
+      NON-INGREDIENT SPAN: fat
+
+
+SENTID: 2
+SENT: I would pour in tomato sauce , chili powder , the oregano and cinnamon ;
+PREDID: 96
+PRED: pour
+   DOBJ: NULL
+   PARG: tomato sauce , chili powder , the oregano, cinnamon
+     PREP: in
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  the oregano
+         INGREDIENTS: dried oregano crushed
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+
+
+SENTID: 3
+SENT: I would mix thoroughly .
+PREDID: 145
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would pour in kidney beans and water ;
+PREDID: 159
+PRED: pour
+   DOBJ: NULL
+   PARG: kidney beans, water
+     PREP: in
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: kidney beans
+         INGREDIENTS: ounce kidney beans drained
+
+
+SENTID: 5
+SENT: I would stir well .
+PREDID: 185
+PRED: stir
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: I would salt and pepper to taste .
+
+SENTID: 7
+SENT: I would simmer on low for 30 minutes .
+PREDID: 194
+PRED: simmer
+   DOBJ: NULL
+   PARG: low
+     PREP: on
+      NON-INGREDIENT SPAN: low
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 8
+SENT: I would bring a medium pot of lightly salted water to a boil .
+PREDID: 218
+PRED: bring
+   DOBJ: a medium pot of lightly salted water
+      NON-INGREDIENT SPAN: a medium pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 9
+SENT: I would pour in the ziti pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 261
+PRED: pour
+   DOBJ: NULL
+   PARG: the ziti pasta
+     PREP: in
+      INGREDIENT SPAN: the ziti pasta
+         INGREDIENTS: dry ziti pasta
+
+PREDID: 282
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 10
+SENT: I would drain .
+PREDID: 316
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would serve the chili over the ziti and top with cheddar cheese .
+PREDID: 322
+PRED: serve
+   DOBJ: the chili
+      NON-INGREDIENT SPAN: the chili
+   PARG: the ziti, top with cheddar cheese
+     PREP: over
+      INGREDIENT SPAN:  top with cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: the ziti
+
+

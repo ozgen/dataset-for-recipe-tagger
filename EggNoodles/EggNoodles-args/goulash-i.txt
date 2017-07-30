@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In a large skillet , I would over medium heat , brown the ground beef and onion together .
+PREDID: 119
+PRED: heat and brown
+   DOBJ: the ground beef
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   OARG: over medium
+      INGREDIENT SPAN: over medium
+         INGREDIENTS: medium onion chopped
+
+PREDID: 145
+PRED: onion
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would drain off the grease .
+PREDID: 159
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 5
+SENT: I would add salt , the pepper , and garlic salt to taste .
+PREDID: 177
+PRED: add
+   DOBJ: salt , the pepper , garlic salt
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: garlic salt taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 6
+SENT: I would stir in the corn , kidney beans , and tomato soup .
+PREDID: 213
+PRED: stir
+   DOBJ: NULL
+   PARG: the corn , kidney beans , tomato soup
+     PREP: in
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: ounce corn
+      INGREDIENT SPAN:  tomato soup
+         INGREDIENTS: ounce condensed tomato soup
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans
+
+
+SENTID: 7
+SENT: I would stir in the cooked egg noodles and mix thoroughly .
+PREDID: 253
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked egg noodles
+     PREP: in
+      INGREDIENT SPAN: the cooked egg noodles
+         INGREDIENTS: dry egg noodles
+
+PREDID: 281
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+

@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 1?1/2 quart casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 1?1/2 quart casserole dish
+      NON-INGREDIENT SPAN: a 1?1/2 quart casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would cook noodles in a large pot of boiling water for 5 minutes , or until almost tender .
+PREDID: 76
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles
+   PARG: a large pot of boiling water for 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of boiling water for 5 minutes
+
+
+SENTID: 3
+SENT: I would drain , and rinse under cold water .
+PREDID: 144
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 153
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 4
+SENT: I would heat the olive oil in a heavy skillet over medium heat .
+PREDID: 173
+PRED: heat
+   DOBJ: the olive oil
+      INGREDIENT SPAN: the olive oil
+         INGREDIENTS: olive oil
+   PARG: a heavy skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a heavy skillet over medium heat
+
+
+SENTID: 5
+SENT: I would cook onion for 4 to 5 minutes , stirring frequently .
+PREDID: 218
+PRED: cook
+   DOBJ: NULL
+   PARG: onion for 4 to 5 minutes , stirring frequently
+     PREP: for
+      INGREDIENT SPAN: onion for 4 to 5 minutes 
+         INGREDIENTS: onion chopped
+      NON-INGREDIENT SPAN:  stirring frequently
+
+
+SENTID: 6
+SENT: I would add chicken , red bell pepper , the celery , and chicken stock .
+PREDID: 261
+PRED: add
+   DOBJ: chicken , red bell pepper , the celery , chicken stock
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  chicken stock
+         INGREDIENTS: chicken stock
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: chopped cooked chicken meat
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+
+
+SENTID: 7
+SENT: I would bring to a boil , and simmer for 5 minutes .
+PREDID: 309
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil , simmer for 5 minutes
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer for 5 minutes
+      NON-INGREDIENT SPAN: a boil 
+
+
+SENTID: 8
+SENT: I would stir in sour cream and oregano .
+PREDID: 343
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream, oregano
+     PREP: in
+      INGREDIENT SPAN:  oregano
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+
+
+SENTID: 9
+SENT: I would spread half of the chicken mixture into the prepared dish .
+PREDID: 369
+PRED: spread
+   DOBJ: half of the chicken mixture
+      NON-INGREDIENT SPAN: half of the chicken mixture
+   PARG: the prepared dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared dish
+
+
+SENTID: 10
+SENT: I would arrange the asparagus over the chicken , spread cooked noodles evenly over the asparagus , and top with 5 tablespoons of Parmesan cheese .
+PREDID: 418
+PRED: arrange
+   DOBJ: the asparagus
+      INGREDIENT SPAN: the asparagus
+         INGREDIENTS: fresh asparagus trimmed cut inch
+   PARG: the chicken
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken
+
+PREDID: 452
+PRED: spread
+   DOBJ: NULL
+   PARG: the asparagus
+     PREP: over
+      NON-INGREDIENT SPAN: the asparagus
+   OARG: cooked noodles evenly
+      NON-INGREDIENT SPAN: cooked noodles evenly
+
+PREDID: 497
+PRED: top
+   DOBJ: NULL
+   PARG: 5 tablespoons of parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: 5 tablespoons of parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+
+
+SENTID: 11
+SENT: I would cover with the remaining chicken mixture .
+PREDID: 533
+PRED: cover
+   DOBJ: NULL
+   PARG: the remaining chicken mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining chicken mixture
+
+
+SENTID: 12
+SENT: I would sprinkle with the reserved Parmesan cheese .
+PREDID: 569
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the reserved parmesan cheese
+     PREP: with
+      INGREDIENT SPAN: the reserved parmesan cheese
+         INGREDIENTS: grated Parmesan cheese divided
+
+
+SENTID: 13
+SENT: I would bake 30 minutes in the preheated oven , until lightly brown .
+PREDID: 607
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+   PARG: lightly brown
+     PREP: until
+      NON-INGREDIENT SPAN: lightly brown
+
+

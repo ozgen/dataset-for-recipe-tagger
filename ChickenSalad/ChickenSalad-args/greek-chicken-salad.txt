@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: In a large bowl combine the chicken , I would the carrots , the cucumber , the olives and cheese .
+
+SENTID: 1
+SENT: I would gently mix together .
+PREDID: 6
+PRED: mix
+   DOBJ: NULL
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would add the salad dressing and mix well .
+PREDID: 18
+PRED: add
+   DOBJ: the salad dressing
+      INGREDIENT SPAN: the salad dressing
+         INGREDIENTS: Italianstyle salad dressing
+
+PREDID: 40
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would cover and refrigerate .
+PREDID: 48
+PRED: cover and refrigerate
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would let flavors marinate for at least 1 hour .
+PREDID: 68
+PRED: let
+   DOBJ: flavors marinate for at least 1 hour
+      NON-INGREDIENT SPAN: flavors marinate for at least 1 hour
+
+
+SENTID: 5
+SENT: I would serve on a bed of lettuce if desired .
+PREDID: 102
+PRED: serve
+   DOBJ: NULL
+   PARG: a bed of lettuce
+     PREP: on
+      NON-INGREDIENT SPAN: a bed of lettuce
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

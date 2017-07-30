@@ -1,0 +1,259 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 151
+PRED: remove
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 171
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would pour out the hot water ,
+PREDID: 212
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water in the sink .
+PREDID: 231
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water in the sink
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water in the sink
+
+
+SENTID: 5
+SENT: I would peel once cold .
+PREDID: 273
+PRED: peel
+   DOBJ: NULL
+   OARG: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 6
+SENT: I would place the potatoes into a large pot and cover with salted water .
+PREDID: 286
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: large potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 318
+PRED: cover
+   DOBJ: NULL
+   PARG: salted water
+     PREP: with
+      NON-INGREDIENT SPAN: salted water
+
+
+SENTID: 7
+SENT: I would bring to a boil over high heat ,
+PREDID: 339
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 8
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , about 20 minutes .
+PREDID: 364
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 399
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 9
+SENT: I would drain and allow to steam dry for a minute or two .
+PREDID: 429
+PRED: drain and allow
+   DOBJ: NULL
+   PARG: steam dry for a minute or two
+     PREP: to
+      NON-INGREDIENT SPAN: steam dry for a minute or two
+
+
+SENTID: 10
+SENT: I would rinse the potatoes in cold water , and allow to cool .
+PREDID: 468
+PRED: rinse
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+   PARG: cold water
+     PREP: in
+      NON-INGREDIENT SPAN: cold water
+
+PREDID: 499
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 11
+SENT: I would slice the cooled potatoes into a large salad bowl .
+PREDID: 511
+PRED: slice
+   DOBJ: the cooled potatoes
+      NON-INGREDIENT SPAN: the cooled potatoes
+   PARG: a large salad bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 12
+SENT: I would chop 2 hard-cooked eggs into the bowl with the potatoes , and mix in the celery , the radishes , green pepper , and green onion .
+PREDID: 553
+PRED: chop
+   DOBJ: 2 hard-cooked eggs
+      NON-INGREDIENT SPAN: 2 hard-cooked eggs
+   PARG: the bowl with the potatoes
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl with the potatoes
+
+PREDID: 603
+PRED: mix
+   DOBJ: NULL
+   PARG: the celery , the radishes , green pepper , green onion
+     PREP: in
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  green onion
+         INGREDIENTS: diced green onion
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: sliced radishes
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: diced green bell pepper
+
+
+SENTID: 13
+SENT: I would stir together the cottage cheese and mayonnaise in a bowl , and pour over the potato mixture .
+PREDID: 653
+PRED: stir
+   DOBJ: the cottage cheese, mayonnaise in a bowl
+      INGREDIENT SPAN:  mayonnaise in a bowl
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the cottage cheese
+         INGREDIENTS: cottage cheese
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 705
+PRED: pour
+   DOBJ: NULL
+   PARG: the potato mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the potato mixture
+
+
+SENTID: 14
+SENT: I would toss lightly to combine , and season to taste with salt and pepper .
+PREDID: 730
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: to combine , season to taste with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  season to taste with salt
+         INGREDIENTS: salt taste
+      NON-INGREDIENT SPAN: to combine 
+
+
+SENTID: 15
+SENT: I would slice the remaining hard-cooked egg , arrange the slices on top of the salad for a garnish , and sprinkle with black olives .
+PREDID: 785
+PRED: slice
+   DOBJ: the remaining hard-cooked egg
+      NON-INGREDIENT SPAN: the remaining hard-cooked egg
+
+PREDID: 817
+PRED: arrange
+   DOBJ: the slices
+      NON-INGREDIENT SPAN: the slices
+   PARG: top of the salad for a garnish
+     PREP: on
+      NON-INGREDIENT SPAN: top of the salad for a garnish
+
+PREDID: 863
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: black olives
+     PREP: with
+      INGREDIENT SPAN: black olives
+         INGREDIENTS: sliced black olives
+
+

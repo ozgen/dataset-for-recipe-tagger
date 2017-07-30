@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: I would combine milk , pie filling mix , the pumpkin , the spices , and whipped topping in a deep , narrow-bottom bowl .
+PREDID: 0
+PRED: combine
+   DOBJ: milk , pie filling mix , the pumpkin , the spices , whipped topping in a deep , narrow-bottom bowl
+      INGREDIENT SPAN:  pie filling mix 
+         INGREDIENTS: ounce packages instant vanilla pudding mix
+      INGREDIENT SPAN:  the pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  whipped topping in a deep 
+         INGREDIENTS: frozen whipped topping
+      INGREDIENT SPAN:  pie filling 
+         INGREDIENTS: inch pie crust baked
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: cold milk
+      INGREDIENT SPAN:  the spices 
+         INGREDIENTS: pumpkin pie spice
+      NON-INGREDIENT SPAN:  narrow-bottom bowl
+
+
+SENTID: 1
+SENT: I would beat at lowest speed of an electric mixer for about 1 minute .
+PREDID: 84
+PRED: beat
+   DOBJ: NULL
+   PARG: lowest speed of an electric mixer for about 1 minute
+     PREP: at
+      NON-INGREDIENT SPAN: lowest speed of an electric mixer for about 1 minute
+
+
+SENTID: 2
+SENT: I would pour the filling into cooled pie shell .
+PREDID: 134
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: cooled pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: cooled pie shell
+
+
+SENTID: 3
+SENT: I would chill until set , about 3 hours .
+PREDID: 164
+PRED: chill
+   DOBJ: NULL
+   PARG: set , about 3 hours
+     PREP: until
+      NON-INGREDIENT SPAN: set 
+      NON-INGREDIENT SPAN:  about 3 hours
+
+

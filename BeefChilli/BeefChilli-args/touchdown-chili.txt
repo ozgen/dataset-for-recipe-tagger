@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: I would place the ground beef , the onion and garlic in a large saucepan over medium heat .
+PREDID: 0
+PRED: place
+   DOBJ: the ground beef , the onion, garlic
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: large onion chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      NON-INGREDIENT SPAN:  garlic
+   PARG: a large saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium heat
+
+
+SENTID: 1
+SENT: I would cook , stirring to crumble the beef , until the beef is no longer pink and the onion is tender .
+PREDID: 64
+PRED: cook
+   DOBJ: NULL
+   PARG: the beef is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the beef is no longer pink
+   OARG: the onion is tender
+      NON-INGREDIENT SPAN: the onion is tender
+
+PREDID: 69
+PRED: stirring
+   DOBJ: NULL
+   OARG: to crumble the beef
+      NON-INGREDIENT SPAN: to crumble the beef
+
+
+SENTID: 2
+SENT: I would drain off the fat and return the pan to the stove .
+PREDID: 140
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 157
+PRED: return
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the stove
+     PREP: to
+      NON-INGREDIENT SPAN: the stove
+
+
+SENTID: 3
+SENT: I would combine the chili powder , the cumin and basil ;
+PREDID: 180
+PRED: combine
+   DOBJ: the chili powder , the cumin, basil
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN: the chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+
+
+SENTID: 4
+SENT: I would sprinkle over the beef .
+PREDID: 216
+PRED: sprinkle
+   DOBJ: the beef
+      NON-INGREDIENT SPAN: the beef
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would cook and stir to coat the meat and toast the spices a little .
+PREDID: 236
+PRED: cook and stir
+   DOBJ: NULL
+   OARG: to coat the meat, toast the spices a little
+      NON-INGREDIENT SPAN:  toast the spices a little
+      NON-INGREDIENT SPAN: to coat the meat
+
+
+SENTID: 6
+SENT: I would pour in the tomatoes , green chilies , tomato sauce , the beer and vinegar .
+PREDID: 285
+PRED: pour
+   DOBJ: NULL
+   PARG: the tomatoes , green chilies , tomato sauce , the beer, vinegar
+     PREP: in
+      INGREDIENT SPAN:  the beer
+         INGREDIENTS: fluid ounce bottle beer
+      INGREDIENT SPAN: the tomatoes 
+         INGREDIENTS: ounce diced tomatoes juice
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: white vinegar
+      NON-INGREDIENT SPAN:  green chilies 
+
+
+SENTID: 7
+SENT: I would bring to a boil and stir to loosen any bits that are stuck to the bottom of the pan .
+PREDID: 343
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 358
+PRED: stir
+   DOBJ: NULL
+   OARG: to loosen any bits that are stuck to the bottom of the pan
+      NON-INGREDIENT SPAN: to loosen any bits that are stuck to the bottom of the pan
+
+
+SENTID: 8
+SENT: I would mix in the brown sugar , hot pepper sauce , the salt and pepper .
+PREDID: 409
+PRED: mix
+   DOBJ: NULL
+   PARG: the brown sugar , hot pepper sauce , the salt, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ounce diced green chile peppers drained, ground black pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ounce diced green chile peppers drained, ground black pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: brown sugar
+
+
+SENTID: 9
+SENT: I would reduce the heat to low , the cover and simmer for 3 hours .
+PREDID: 457
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: low , the cover, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN:  the cover
+      NON-INGREDIENT SPAN: low 
+   PARG: 3 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 3 hours
+
+
+SENTID: 10
+SENT: I would remove the lid for the last 30 minutes of cooking .
+PREDID: 500
+PRED: remove
+   DOBJ: NULL
+   PARG: the lid for the last 30 minutes of cooking
+     PREP: for
+      NON-INGREDIENT SPAN: the lid for the last 30 minutes of cooking
+
+

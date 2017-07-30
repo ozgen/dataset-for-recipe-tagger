@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: I would cook pasta according to package directions , omitting salt .
+PREDID: 0
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: 
+         INGREDIENTS: undrained
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: dry campanelle other pasta shape uncooked
+   PARG: to package directions , omitting salt
+     PREP: according
+      INGREDIENT SPAN:  omitting salt
+         INGREDIENTS: ounce Hunt Tomato Paste No Salt Added
+      NON-INGREDIENT SPAN: to package directions 
+
+
+SENTID: 1
+SENT: I would meanwhile , cook sausage in large nonstick skillet over medium-high heat until crumbled and no longer pink , stirring occasionally ;
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 51
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would add undrained tomatoes and tomato paste ;
+PREDID: 57
+PRED: add
+   DOBJ: undrained tomatoes, tomato paste
+      INGREDIENT SPAN: undrained tomatoes
+         INGREDIENTS: ounce Hunt Diced Tomatoes Basil Garlic Oregano
+      NON-INGREDIENT SPAN:  tomato paste
+
+
+SENTID: 4
+SENT: I would mix well .
+PREDID: 92
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would reduce heat to low ;
+PREDID: 100
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+
+SENTID: 6
+SENT: I would simmer 5 minutes , stirring occasionally .
+PREDID: 116
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 7
+SENT: I would transfer sausage mixture to medium bowl ;
+PREDID: 152
+PRED: transfer
+   DOBJ: sausage mixture
+      INGREDIENT SPAN: sausage mixture
+         INGREDIENTS: Italian pork sausage links casings removed
+   PARG: medium bowl
+     PREP: to
+      NON-INGREDIENT SPAN: medium bowl
+
+
+SENTID: 8
+SENT: I would set aside .
+PREDID: 187
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 9
+SENT: I would drain pasta in colander .
+PREDID: 196
+PRED: drain
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: colander
+     PREP: in
+      NON-INGREDIENT SPAN: colander
+
+
+SENTID: 10
+SENT: I would place half of pasta in same skillet ;
+PREDID: 217
+PRED: place
+   DOBJ: half of pasta
+      NON-INGREDIENT SPAN: half of pasta
+   PARG: same skillet
+     PREP: in
+      NON-INGREDIENT SPAN: same skillet
+
+
+SENTID: 11
+SENT: I would top with half each of the sausage mixture and cheese .
+PREDID: 247
+PRED: top
+   DOBJ: NULL
+   PARG: half each of the sausage mixture, cheese
+     PREP: with
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded partskim mozzarella cheese
+      NON-INGREDIENT SPAN: half each of the sausage mixture
+
+
+SENTID: 12
+SENT: I would repeat all layers .
+PREDID: 291
+PRED: repeat
+   DOBJ: all layers
+      NON-INGREDIENT SPAN: all layers
+
+
+SENTID: 13
+SENT: I would cover skillet with lid .
+PREDID: 307
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   PARG: lid
+     PREP: with
+      NON-INGREDIENT SPAN: lid
+
+
+SENTID: 14
+SENT: I would place over medium heat ;
+PREDID: 327
+PRED: place
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 15
+SENT: I would cook 5 minutes or until all layers are hot and cheese melts .
+PREDID: 347
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes or until all layers are hot
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes or until all layers are hot
+   OARG: cheese melts
+      NON-INGREDIENT SPAN: cheese melts
+
+
+SENTID: 16
+SENT: I would remove from heat ;
+PREDID: 396
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 17
+SENT: I would let stand 1 minute before serving .
+PREDID: 411
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 1 minute
+      NON-INGREDIENT SPAN: 1 minute
+
+

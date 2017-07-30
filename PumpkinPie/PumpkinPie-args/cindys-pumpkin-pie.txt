@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB- Place ice cream near the warm oven to soften .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C.
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C.
+
+PREDID: 46
+PRED: place
+   DOBJ: ice cream near the warm oven
+      INGREDIENT SPAN: ice cream near the warm oven
+         INGREDIENTS: pints vanilla ice cream softened
+   OARG: to soften
+      NON-INGREDIENT SPAN: to soften
+
+
+SENTID: 1
+SENT: In a large bowl , I would whisk together the eggs .
+PREDID: 88
+PRED: whisk
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would stir in the pumpkin puree , the sugar , the salt , the cinnamon , the ginger , and nutmeg .
+PREDID: 109
+PRED: stir
+   DOBJ: NULL
+   PARG: the pumpkin puree , the sugar , the salt , the cinnamon , the ginger , nutmeg
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: the pumpkin puree 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 3
+SENT: I would mix in soft ice cream until smooth .
+PREDID: 168
+PRED: mix
+   DOBJ: NULL
+   PARG: soft ice cream
+     PREP: in
+      NON-INGREDIENT SPAN: soft ice cream
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 4
+SENT: I would pour the filling into two 9 inch pie shells .
+PREDID: 197
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: two 9 inch pie shells
+     PREP: into
+      INGREDIENT SPAN: two 9 inch pie shells
+         INGREDIENTS: inch unbaked pie shells
+
+
+SENTID: 5
+SENT: I would bake for 15 minutes in the preheated oven .
+PREDID: 230
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes in the preheated oven
+
+
+SENTID: 6
+SENT: I would reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- , and bake an additional 30 to 40 minutes , or until filling is set .
+PREDID: 265
+PRED: reduce
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 350 degrees f -lrb- 175 degrees c -rrb- , bake an additional 30 to 40 minutes
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c -rrb- 
+      NON-INGREDIENT SPAN:  bake an additional 30 to 40 minutes
+
+

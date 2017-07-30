@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add macaroni and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: macaroni
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: elbow macaroni
+
+PREDID: 56
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 90
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: While macaroni is boiling , I would fry bacon and place on paper towels to drain .
+PREDID: 119
+PRED: fry
+   DOBJ: bacon, place on paper towels
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices Canadianstyle bacon
+      NON-INGREDIENT SPAN:  place on paper towels
+   PARG: macaroni is boiling
+     PREP: while
+      NON-INGREDIENT SPAN: macaroni is boiling
+   OARG: to drain
+      NON-INGREDIENT SPAN: to drain
+
+
+SENTID: 4
+SENT: I would cut into bite size pieces .
+PREDID: 156
+PRED: cut
+   DOBJ: NULL
+   PARG: bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+
+
+SENTID: 5
+SENT: I would melt margarine in a large saucepan over medium low heat .
+PREDID: 178
+PRED: melt
+   DOBJ: margarine
+      INGREDIENT SPAN: margarine
+         INGREDIENTS: margarine
+   PARG: a large saucepan over medium low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium low heat
+
+
+SENTID: 6
+SENT: I would stir in flour ,
+PREDID: 225
+PRED: stir
+   DOBJ: NULL
+   PARG: flour
+     PREP: in
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+
+
+SENTID: 7
+SENT: I would tomatoes and wait for sauce to thicken , stirring occasionally .
+PREDID: 237
+PRED: tomatoes and wait
+   DOBJ: NULL
+   PARG: sauce to thicken
+     PREP: for
+      NON-INGREDIENT SPAN: sauce to thicken
+   OARG: stirring occasionally
+      NON-INGREDIENT SPAN: stirring occasionally
+
+
+SENTID: 8
+SENT: When thickness is to your liking , stir in cheese until it has melted .
+PREDID: 319
+PRED: stir
+   DOBJ: NULL
+   PARG: cheese
+     PREP: in
+      INGREDIENT SPAN: cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: it has melted
+     PREP: until
+      NON-INGREDIENT SPAN: it has melted
+   OARG: when thickness is to your liking
+      NON-INGREDIENT SPAN: when thickness is to your liking
+
+
+SENTID: 9
+SENT: I would stir in cooked macaroni and bacon and heat through .
+PREDID: 348
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked macaroni, bacon, heat
+     PREP: in
+      NON-INGREDIENT SPAN:  heat
+      NON-INGREDIENT SPAN: cooked macaroni
+      NON-INGREDIENT SPAN:  bacon
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 10
+SENT: I would serve hot .
+PREDID: 391
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

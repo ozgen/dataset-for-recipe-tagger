@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 205 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 205 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would beat eggs until foamy , and stir in melted butter .
+PREDID: 51
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: foamy
+     PREP: until
+      NON-INGREDIENT SPAN: foamy
+
+PREDID: 73
+PRED: stir
+   DOBJ: NULL
+   PARG: melted butter
+     PREP: in
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter
+
+
+SENTID: 2
+SENT: I would stir in the brown sugar , white sugar and the flour ;
+PREDID: 92
+PRED: stir
+   DOBJ: NULL
+   PARG: the brown sugar , white sugar, the flour
+     PREP: in
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: light brown sugar
+
+
+SENTID: 3
+SENT: I would mix well .
+PREDID: 134
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would last add the milk , the vanilla and nuts .
+PREDID: 146
+PRED: add
+   DOBJ: the milk , the vanilla, nuts
+      INGREDIENT SPAN: the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN:  nuts
+   OARG: last
+      NON-INGREDIENT SPAN: last
+
+
+SENTID: 5
+SENT: I would pour into an unbaked 9-in pie shell .
+PREDID: 172
+PRED: pour
+   DOBJ: NULL
+   PARG: an unbaked 9-in pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: an unbaked 9-in pie shell
+
+
+SENTID: 6
+SENT: I would bake in preheated oven for 10 minutes at 400 degrees ,
+PREDID: 202
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 10 minutes at 400 degrees
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 10 minutes at 400 degrees
+
+
+SENTID: 7
+SENT: I would reduce temperature to 350 degrees and bake for 30 to 40 minutes , or until done .
+PREDID: 246
+PRED: reduce
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 350 degrees
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees
+
+PREDID: 278
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 to 40 minutes , or until done
+     PREP: for
+      NON-INGREDIENT SPAN: 30 to 40 minutes 
+      NON-INGREDIENT SPAN:  or until done
+
+

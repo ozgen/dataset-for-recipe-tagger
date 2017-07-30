@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: In a large pot cook lasagna noodles in boiling salted water until al dente .
+
+SENTID: 1
+SENT: I would rinse with cool water .
+PREDID: 62
+PRED: rinse
+   DOBJ: NULL
+   PARG: cool water
+     PREP: with
+      NON-INGREDIENT SPAN: cool water
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 81
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: In large sauce pan cook ground beef .
+PREDID: 106
+PRED: pan
+   DOBJ: cook ground beef
+      INGREDIENT SPAN: cook ground beef
+         INGREDIENTS: lean ground beef
+   PARG: large sauce
+     PREP: in
+      INGREDIENT SPAN: large sauce
+         INGREDIENTS: ounce tomato sauce
+
+
+SENTID: 4
+SENT: I would drain excess grease .
+PREDID: 117
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 5
+SENT: I would combine tomato sauces and tomato paste with ground beef and simmer until bubbly .
+PREDID: 135
+PRED: combine
+   DOBJ: tomato sauces, tomato paste
+      INGREDIENT SPAN: tomato sauces
+         INGREDIENTS: ounce tomato paste
+      NON-INGREDIENT SPAN:  tomato paste
+   PARG: ground beef, simmer
+     PREP: with
+      NON-INGREDIENT SPAN: ground beef
+      NON-INGREDIENT SPAN:  simmer
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+
+SENTID: 6
+SENT: I would add garlic salt and Italian seasoning and reduce heat to low simmer .
+PREDID: 203
+PRED: add
+   DOBJ: garlic salt, Italian seasoning
+      INGREDIENT SPAN:  Italian seasoning
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN: garlic salt
+         INGREDIENTS: garlic salt
+
+PREDID: 238
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low simmer
+     PREP: to
+      NON-INGREDIENT SPAN: low simmer
+
+
+SENTID: 7
+SENT: I would cook for 10 minutes .
+PREDID: 260
+PRED: cook
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 8
+SENT: To assemble , in the bottom of a 13x9 inch baking dish spread a thin layer of sauce .
+PREDID: 320
+PRED: assemble spread
+   DOBJ: a thin layer of sauce
+      NON-INGREDIENT SPAN: a thin layer of sauce
+   PARG: the bottom of a 13x9 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 13x9 inch baking dish
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 9
+SENT: I would next , add a layer of noodles , ricotta cheese , sauce/ground beef mixture , and
+PREDID: 349
+PRED: add
+   DOBJ: a layer of noodles , ricotta cheese , sauce/ground beef mixture , and
+      INGREDIENT SPAN:  ricotta cheese 
+         INGREDIENTS: pint partskim ricotta cheese
+      INGREDIENT SPAN: a layer of noodles 
+         INGREDIENTS: ounce package lasagna noodles
+      NON-INGREDIENT SPAN:  and
+      NON-INGREDIENT SPAN:  sauce/ground beef mixture 
+   OARG: next
+      NON-INGREDIENT SPAN: next
+
+
+SENTID: 10
+SENT: I would grated mozzarella cheese .
+PREDID: 409
+PRED: grated
+   DOBJ: mozzarella cheese
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 11
+SENT: I would repeat until baking dish is filled .
+PREDID: 432
+PRED: repeat
+   DOBJ: NULL
+   PARG: baking dish is filled
+     PREP: until
+      NON-INGREDIENT SPAN: baking dish is filled
+
+
+SENTID: 12
+SENT: I would garnish top with additional shredded mozzarella cheese .
+PREDID: 462
+PRED: garnish
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: additional shredded mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: additional shredded mozzarella cheese
+
+
+SENTID: 13
+SENT: In a preheated 375 degree F -LRB- 190 degree C -RRB- oven bake for 30 minutes or until bubbly .
+
+SENTID: 14
+SENT: I would let stand for 15 minutes and serve .
+PREDID: 579
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+

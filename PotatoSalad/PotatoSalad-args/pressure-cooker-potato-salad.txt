@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: I would place potatoes in pressure cooker with water .
+PREDID: 0
+PRED: place
+   DOBJ: potatoes in pressure cooker
+      INGREDIENT SPAN: potatoes in pressure cooker
+         INGREDIENTS: medium red potatoes scrubbed
+   PARG: water
+     PREP: with
+      INGREDIENT SPAN: water
+         INGREDIENTS: water
+
+
+SENTID: 1
+SENT: I would cook on high pressure 3 minutes .
+PREDID: 39
+PRED: cook
+   DOBJ: NULL
+   PARG: high pressure
+     PREP: on
+      NON-INGREDIENT SPAN: high pressure
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 2
+SENT: If potatoes are larger , cook for 4 minutes .
+PREDID: 93
+PRED: cook
+   DOBJ: NULL
+   PARG: potatoes are
+     PREP: if
+      NON-INGREDIENT SPAN: potatoes are
+   PARG: 4 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 4 minutes
+
+
+SENTID: 3
+SENT: I would let steam release for 3 minutes .
+PREDID: 102
+PRED: let
+   DOBJ: steam release
+      NON-INGREDIENT SPAN: steam release
+   PARG: 3 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 3 minutes
+
+
+SENTID: 4
+SENT: I would then quickly release pressure and open cooker .
+PREDID: 140
+PRED: release
+   DOBJ: pressure
+      NON-INGREDIENT SPAN: pressure
+   OARG: then
+      NON-INGREDIENT SPAN: then
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+
+PREDID: 158
+PRED: open
+   DOBJ: cooker
+      NON-INGREDIENT SPAN: cooker
+
+
+SENTID: 5
+SENT: I would peel and dice potatoes when they are cool enough to handle .
+PREDID: 169
+PRED: peel and dice
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+   OARG: when they are cool enough
+      NON-INGREDIENT SPAN: when they are cool enough
+
+
+SENTID: 6
+SENT: I would alternate layers of potatoes , the onion , and celery in a large bowl .
+PREDID: 218
+PRED: alternate
+   DOBJ: layers of potatoes , the onion , celery
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery chopped
+      NON-INGREDIENT SPAN: layers of potatoes 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would season each layer with salt and pepper .
+PREDID: 272
+PRED: season
+   DOBJ: each layer
+      NON-INGREDIENT SPAN: each layer
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would top with the chopped egg and sprinkle with dill .
+PREDID: 305
+PRED: top
+   DOBJ: NULL
+   PARG: the chopped egg
+     PREP: with
+      INGREDIENT SPAN: the chopped egg
+         INGREDIENTS: hardcooked eggs chopped
+
+PREDID: 328
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: dill
+     PREP: with
+      INGREDIENT SPAN: dill
+         INGREDIENTS: chopped fresh dill
+
+
+SENTID: 9
+SENT: I would mix together the mayonnaise , the mustard , and cider vinegar in a small bowl .
+PREDID: 345
+PRED: mix
+   DOBJ: the mayonnaise , the mustard , cider vinegar in a small bowl
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: yellow mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  cider vinegar in a small bowl
+         INGREDIENTS: cider vinegar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 10
+SENT: I would gently fold the mayonnaise mixture into the potatoes .
+PREDID: 412
+PRED: fold
+   DOBJ: the mayonnaise mixture
+      NON-INGREDIENT SPAN: the mayonnaise mixture
+   PARG: the potatoes
+     PREP: into
+      NON-INGREDIENT SPAN: the potatoes
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 11
+SENT: I would chill at least one hour before serving .
+PREDID: 452
+PRED: chill
+   DOBJ: NULL
+   PARG: least one hour
+     PREP: at
+      NON-INGREDIENT SPAN: least one hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

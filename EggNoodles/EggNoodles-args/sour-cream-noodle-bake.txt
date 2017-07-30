@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would cook noodles in boiling salted water .
+PREDID: 0
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: boiling salted water
+     PREP: in
+      NON-INGREDIENT SPAN: boiling salted water
+
+
+SENTID: 1
+SENT: I would rinse in cold water and drain .
+PREDID: 32
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water, drain
+     PREP: in
+      NON-INGREDIENT SPAN:  drain
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 2
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 57
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 3
+SENT: I would brown meat in butter ;
+PREDID: 95
+PRED: brown
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: butter
+     PREP: in
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+
+
+SENTID: 4
+SENT: I would add salt , the pepper , garlic salt and tomato sauce .
+PREDID: 113
+PRED: add
+   DOBJ: salt , the pepper , garlic salt, tomato sauce
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  tomato sauce
+         INGREDIENTS: tomato sauce
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: garlic salt
+
+
+SENTID: 5
+SENT: I would simmer for 5 minutes .
+PREDID: 153
+PRED: simmer
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 6
+SENT: I would mix cottage cheese , sour cream , the onions , meat sauce and noodles .
+PREDID: 171
+PRED: mix
+   DOBJ: cottage cheese , sour cream , the onions , meat sauce, noodles
+      INGREDIENT SPAN: cottage cheese 
+         INGREDIENTS: cottage cheese creamed
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  meat sauce
+      NON-INGREDIENT SPAN:  noodles
+
+
+SENTID: 7
+SENT: I would place in a casserole dish and sprinkle with cheddar cheese
+PREDID: 225
+PRED: place
+   DOBJ: NULL
+   PARG: a casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a casserole dish
+
+PREDID: 249
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+
+
+SENTID: 8
+SENT: I would bake , uncovered , at 350 degrees F -LRB- 175 degrees C -RRB- for 20 to 25 minutes .
+PREDID: 279
+PRED: bake uncovered
+   DOBJ: NULL
+   PARG: 350 degrees
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees
+   OARG: f -lrb- 175 degrees c -rrb- for 20 to 25 minutes
+      NON-INGREDIENT SPAN: f -lrb- 175 degrees c -rrb- for 20 to 25 minutes
+
+

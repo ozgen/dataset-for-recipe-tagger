@@ -1,0 +1,87 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="return
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="crumble
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="stir
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="drain off
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="stir in
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="season
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="stir
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="pour
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="top
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="bake
+15", shape=oval, style=filled, fillcolor=azure]
+D6[label="DOBJ: ground beef", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+P6_0[label="LOCATION:into a large skillet", shape=box, style=filled, fillcolor=white]
+P6_0 -> E6
+O6_0[label="OTHER: over medium-high heat", shape=box, style=filled, fillcolor=white]
+O6_0 -> E6
+D1[label="DOBJ: a large pot of lightly salted water", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D2[label="DOBJ: package wide egg noodles", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+D0[label="DOBJ: the oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 375 degrees f (190 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: until tender, about 7 minutes", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E1 -> E5 [label="LOCATION:to the pot"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: until evenly browned", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="grease"]
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: the tomato sauce", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+O10_0_0[label="OTHER: corn", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+O10_1_0[label="OTHER: olives", shape=box, style=filled, fillcolor=white]
+O10_1_0 -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+P11_0_ing[label="COOBJECT: with chili powder or to taste", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E11 -> E12 [label="the beef mixture"]
+E5 -> E12 [label="COOBJECT:with the noodles"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_0[label="LOCATION:into a 9x13 inch baking dish", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+E13 -> E14 [label="IMPLICIT DOBJ"]
+P14_0_ing[label="COOBJECT: with Cheddar cheese", shape=box, style=filled, fillcolor=peachpuff]
+P14_0_ing -> E14
+E14 -> E15 [label="IMPLICIT DOBJ"]
+E0 -> E15 [label="LOCATION:in the preheated oven"]
+O15_0_0[label="OTHER: for 20 minutes", shape=box, style=filled, fillcolor=white]
+O15_0_0 -> E15
+O15_1_0[label="OTHER: until the cheese is melted", shape=box, style=filled, fillcolor=white]
+O15_1_0 -> E15
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

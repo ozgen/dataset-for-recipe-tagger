@@ -1,0 +1,54 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="place
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="mix
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="season
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="form
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="place
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="drizzle
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="bake
+8", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 350 degrees f (175 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D2[label="DOBJ: eggs, 1/2 cup ketchup, the ground beef, panko", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="LOCATION:in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D1[label="DOBJ: baking pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: lightly", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_ing[label="COOBJECT: with salt-free seasoning blend, garlic powder, onion powder, pepper, salt", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into a loaf shape", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E1 -> E6 [label="LOCATION:on the prepared baking pan"]
+E5 -> E6 [label="IMPLICIT OTHER"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_ing[label="COOBJECT: with remaining 1/4 cup ketchup", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: 1 hour", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+O8_1_0[label="OTHER: in ", shape=box, style=filled, fillcolor=white]
+O8_1_0 -> E8
+E0 -> E8 [label="OTHER:the preheated oven"]
+O8_2_0[label="OTHER: to an internal temperature of 160 degrees f (70 degrees c)", shape=box, style=filled, fillcolor=white]
+O8_2_0 -> E8
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

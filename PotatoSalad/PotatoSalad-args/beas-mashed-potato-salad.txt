@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would prepare Idahoan Baby Reds following package instructions .
+PREDID: 0
+PRED: prepare
+   DOBJ: Idahoan Baby Reds following package instructions
+      INGREDIENT SPAN: Idahoan Baby Reds following package instructions
+         INGREDIENTS: ounce package Idahoan Baby Reds Flavored Mashed Potatoes
+
+
+SENTID: 1
+SENT: I would stir in pickles , the radishes , hard-boiled egg , the celery and red onion .
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: pickles , the radishes , hard-boiled egg , the celery, red onion
+     PREP: in
+      INGREDIENT SPAN:  red onion
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  the celery
+         INGREDIENTS: celery stalks chopped
+      INGREDIENT SPAN:  hard-boiled egg 
+         INGREDIENTS: hardboiled egg sliced
+      INGREDIENT SPAN:  the radishes 
+         INGREDIENTS: radishes sliced
+      INGREDIENT SPAN: pickles 
+         INGREDIENTS: dill pickle chopped
+
+
+SENTID: 2
+SENT: I would combine mayo and mustards in a separate bowl and mix into mashed potato mixture .
+PREDID: 107
+PRED: combine
+   DOBJ: mayo, mustards
+      INGREDIENT SPAN:  mustards
+         INGREDIENTS: yellow mustard
+      NON-INGREDIENT SPAN: mayo
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+PREDID: 147
+PRED: mix
+   DOBJ: NULL
+   PARG: mashed potato mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mashed potato mixture
+
+
+SENTID: 3
+SENT: I would season to taste with salt and pepper and celery seed if using .
+PREDID: 174
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper, celery seed if using
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: Salt pepper taste
+      INGREDIENT SPAN:  celery seed if using
+         INGREDIENTS: celery seed
+      NON-INGREDIENT SPAN:  pepper
+
+

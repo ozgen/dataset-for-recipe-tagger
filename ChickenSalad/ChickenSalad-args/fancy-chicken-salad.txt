@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: I would blend mayonnaise , the vinegar , garlic and dill .
+PREDID: 0
+PRED: blend
+   DOBJ: mayonnaise , the vinegar , garlic, dill
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: cider vinegar
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: cloves crushed garlic
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: light mayonnaise
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: chopped fresh dill
+
+
+SENTID: 1
+SENT: I would refrigerate for several hours or overnight .
+PREDID: 38
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: several hours or overnight
+     PREP: for
+      NON-INGREDIENT SPAN: several hours or overnight
+
+
+SENTID: 2
+SENT: I would stir together chicken , the peppers and cheese and blend with the chilled dressing .
+PREDID: 76
+PRED: stir
+   DOBJ: chicken , the peppers, cheese
+      INGREDIENT SPAN:  the peppers
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cooked
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: crumbled feta cheese
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 118
+PRED: blend
+   DOBJ: NULL
+   PARG: the chilled dressing
+     PREP: with
+      NON-INGREDIENT SPAN: the chilled dressing
+
+
+SENTID: 3
+SENT: I would serve !
+PREDID: 143
+PRED: serve
+   DOBJ: NULL
+
+

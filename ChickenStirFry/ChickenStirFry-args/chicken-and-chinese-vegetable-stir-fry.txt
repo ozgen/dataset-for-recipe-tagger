@@ -1,0 +1,175 @@
+SENTID: 0
+SENT: I would combine the chicken , oyster sauce , and soy sauce in a mixing bowl until the chicken is evenly coated with the sauce ;
+PREDID: 0
+PRED: combine
+   DOBJ: the chicken , oyster sauce , soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  oyster sauce 
+         INGREDIENTS: oyster sauce
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: skinless boneless chicken breast meat cut bitesize
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+   PARG: the chicken is evenly coated with the sauce
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken is evenly coated with the sauce
+
+
+SENTID: 1
+SENT: I would set aside .
+PREDID: 96
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 2
+SENT: I would heat the vegetable oil in a wok or large skillet over high heat .
+PREDID: 105
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok or large skillet over high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet over high heat
+
+
+SENTID: 3
+SENT: I would stir in the garlic and onion ;
+PREDID: 157
+PRED: stir
+   DOBJ: NULL
+   PARG: the garlic, onion
+     PREP: in
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: large onion chopped
+      NON-INGREDIENT SPAN: the garlic
+
+
+SENTID: 4
+SENT: I would cook and stir until the onion is limp , about 1 minute .
+PREDID: 181
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onion is limp , about 1 minute
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is limp 
+      NON-INGREDIENT SPAN:  about 1 minute
+
+
+SENTID: 5
+SENT: I would add the chicken and marinade .
+PREDID: 225
+PRED: add
+   DOBJ: the chicken, marinade
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  marinade
+
+
+SENTID: 6
+SENT: I would cook and stir until the chicken has browned and is no longer pink , about 10 minutes .
+PREDID: 250
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken has browned, is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the chicken has browned
+      NON-INGREDIENT SPAN:  is no longer pink
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 7
+SENT: I would pour in 1/2 cup of water ;
+PREDID: 319
+PRED: pour
+   DOBJ: NULL
+   PARG: 1/2 cup of water
+     PREP: in
+      INGREDIENT SPAN: 1/2 cup of water
+         INGREDIENTS: water
+
+
+SENTID: 8
+SENT: I would season with pepper and sugar .
+PREDID: 339
+PRED: season
+   DOBJ: NULL
+   PARG: pepper, sugar
+     PREP: with
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: pepper
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 9
+SENT: I would add the water chestnuts , snow peas , and broccoli .
+PREDID: 364
+PRED: add
+   DOBJ: the water chestnuts , snow peas , broccoli
+      INGREDIENT SPAN:  snow peas 
+         INGREDIENTS: snow peas
+      INGREDIENT SPAN: the water chestnuts 
+         INGREDIENTS: ounce sliced water chestnuts drained
+      INGREDIENT SPAN:  broccoli
+         INGREDIENTS: small head broccoli cut florets
+
+
+SENTID: 10
+SENT: I would cover ;
+PREDID: 406
+PRED: cover
+   DOBJ: NULL
+
+
+SENTID: 11
+SENT: I would boil until the vegetables are just tender , about 5 minutes .
+PREDID: 412
+PRED: boil
+   DOBJ: NULL
+   PARG: the vegetables are just tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: the vegetables are just tender 
+
+
+SENTID: 12
+SENT: I would dissolve the cornstarch in 1/4 cup of water .
+PREDID: 462
+PRED: dissolve
+   DOBJ: the cornstarch
+      INGREDIENT SPAN: the cornstarch
+         INGREDIENTS: cornstarch
+   PARG: 1/4 cup of water
+     PREP: in
+      INGREDIENT SPAN: 1/4 cup of water
+         INGREDIENTS: water
+
+
+SENTID: 13
+SENT: I would stir into the boiling mixture ;
+PREDID: 499
+PRED: stir
+   DOBJ: NULL
+   PARG: the boiling mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the boiling mixture
+
+
+SENTID: 14
+SENT: I would cook until thick and no longer cloudy .
+PREDID: 525
+PRED: cook
+   DOBJ: NULL
+   PARG: thick, no longer cloudy
+     PREP: until
+      NON-INGREDIENT SPAN: thick
+      NON-INGREDIENT SPAN:  no longer cloudy
+
+

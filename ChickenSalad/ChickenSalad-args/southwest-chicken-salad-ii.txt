@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a small saucepan over medium heat , I would cook the black beans until heated through .
+PREDID: 31
+PRED: cook
+   DOBJ: the black beans
+      INGREDIENT SPAN: the black beans
+         INGREDIENTS: ounce black beans drained rinsed
+   PARG: a small saucepan over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a small saucepan over medium heat
+   PARG: heated
+     PREP: until
+      NON-INGREDIENT SPAN: heated
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 1
+SENT: I would season with salt and pepper .
+PREDID: 67
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 2
+SENT: In a large bowl , I would toss together the cabbage , romaine lettuce , green bell pepper , the corn , and Cheddar cheese .
+PREDID: 104
+PRED: toss
+   DOBJ: the cabbage , romaine lettuce , green bell pepper , the corn , Cheddar cheese
+      INGREDIENT SPAN:  romaine lettuce 
+         INGREDIENTS: ounce package romaine lettuce torn
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce corn drained
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head cabbage chopped
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  green bell pepper 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would transfer the tossed salad to serving bowls , and top with the warmed black beans , the chicken , tortilla chips , and Ranch dressing .
+PREDID: 180
+PRED: transfer
+   DOBJ: the tossed salad
+      INGREDIENT SPAN: the tossed salad
+         INGREDIENTS: prepared Ranch salad dressing
+   PARG: serving bowls
+     PREP: to
+      NON-INGREDIENT SPAN: serving bowls
+
+PREDID: 220
+PRED: top
+   DOBJ: NULL
+   PARG: the warmed black beans , the chicken , tortilla chips , ranch dressing
+     PREP: with
+      INGREDIENT SPAN:  tortilla chips 
+         INGREDIENTS: crushed blue tortilla chips
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: cooked skinless boneless chicken breast halves cut strips
+      NON-INGREDIENT SPAN:  ranch dressing
+      NON-INGREDIENT SPAN: the warmed black beans 
+
+

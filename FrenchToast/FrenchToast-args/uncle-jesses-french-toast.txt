@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: In a medium bowl , I would whisk together the eggs , the cinnamon , the nutmeg , the ginger , and cloves .
+PREDID: 14
+PRED: whisk
+   DOBJ: the eggs , the cinnamon , the nutmeg , the ginger , cloves
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would melt about 1 tablespoon of butter in a large skillet over medium heat .
+PREDID: 68
+PRED: melt
+   DOBJ: about 1 tablespoon of butter
+      INGREDIENT SPAN: about 1 tablespoon of butter
+         INGREDIENTS: butter divided
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 2
+SENT: Dip slices of bread one at a time into the egg , quickly coating each side but not fully saturating the bread .
+
+SENTID: 3
+SENT: I would fry a few slices at a time in the buttered skillet until golden brown on each side .
+PREDID: 126
+PRED: fry
+   DOBJ: a few slices
+      INGREDIENT SPAN: a few slices
+         INGREDIENTS: slices whole wheat bread
+   PARG: a time in the buttered skillet
+     PREP: at
+      NON-INGREDIENT SPAN: a time in the buttered skillet
+   PARG: golden brown on each side
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown on each side
+
+
+SENTID: 4
+SENT: I would add more butter to the skillet and continue with remaining slices .
+PREDID: 193
+PRED: add
+   DOBJ: more butter
+      INGREDIENT SPAN: more butter
+         INGREDIENTS: butter divided
+   PARG: the skillet
+     PREP: to
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 221
+PRED: continue
+   DOBJ: NULL
+   PARG: remaining slices
+     PREP: with
+      NON-INGREDIENT SPAN: remaining slices
+
+
+SENTID: 5
+SENT: I would melt the remaining butter in the microwave at 15 second intervals .
+PREDID: 249
+PRED: melt
+   DOBJ: the remaining butter in the microwave at 15 second intervals
+      NON-INGREDIENT SPAN: the remaining butter in the microwave at 15 second intervals
+
+
+SENTID: 6
+SENT: I would place finished toast onto plates , drizzle with melted butter , and dust with confectioners ' sugar .
+PREDID: 302
+PRED: place
+   DOBJ: finished toast
+      NON-INGREDIENT SPAN: finished toast
+   PARG: plates , drizzle with melted butter , dust
+     PREP: onto
+      NON-INGREDIENT SPAN:  drizzle with melted butter 
+      NON-INGREDIENT SPAN:  dust
+      NON-INGREDIENT SPAN: plates 
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: confectioners sugar dusting
+
+

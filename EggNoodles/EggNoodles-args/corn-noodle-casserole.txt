@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium casserole dish
+      NON-INGREDIENT SPAN: a medium casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 72
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add noodles , cook for 6 to 8 minutes , until al dente , and drain .
+PREDID: 114
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package uncooked egg noodles
+   PARG: until al dente
+     PREP: and
+      NON-INGREDIENT SPAN: until al dente
+
+PREDID: 125
+PRED: cook
+   DOBJ: NULL
+   PARG: 6 to 8 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 6 to 8 minutes
+
+
+SENTID: 4
+SENT: I would place turkey in a skillet over medium heat , and cook until evenly brown .
+PREDID: 166
+PRED: place
+   DOBJ: turkey
+      INGREDIENT SPAN: turkey
+         INGREDIENTS: ground turkey
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 205
+PRED: cook
+   DOBJ: NULL
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 5
+SENT: I would drain grease .
+PREDID: 226
+PRED: drain
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 6
+SENT: In a bowl , I would gently mix cooked noodles and turkey , the corn , and soup .
+PREDID: 252
+PRED: mix
+   DOBJ: cooked noodles, turkey , the corn , soup
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce canned frozen corn
+      INGREDIENT SPAN:  soup
+         INGREDIENTS: ounce cream mushroom soup
+      NON-INGREDIENT SPAN: cooked noodles
+      NON-INGREDIENT SPAN:  turkey 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 291
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would transfer to the prepared baking dish .
+PREDID: 315
+PRED: transfer
+   DOBJ: NULL
+   PARG: the prepared baking dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 9
+SENT: I would bake 20 minutes in the preheated oven , until bubbly .
+PREDID: 347
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes in the preheated oven
+   PARG: bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: bubbly
+
+

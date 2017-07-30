@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would pour about 1/4 cup of spaghetti sauce into the bottom of a 9x13-inch baking dish .
+PREDID: 38
+PRED: pour
+   DOBJ: about 1/4 cup of spaghetti sauce
+      INGREDIENT SPAN: about 1/4 cup of spaghetti sauce
+         INGREDIENTS: spaghetti sauce
+   PARG: the bottom of a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: I would heat vegetable oil in a large skillet over medium heat ;
+PREDID: 105
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 3
+SENT: I would cook and stir the sausage and zucchini until the meat is no longer pink and the zucchini pieces are tender , 10 to 12 minutes .
+PREDID: 151
+PRED: cook and stir
+   DOBJ: the sausage, zucchini
+      INGREDIENT SPAN:  zucchini
+         INGREDIENTS: zucchini quartered sliced
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: bulk pork sausage
+   PARG: the meat is no longer pink
+     PREP: until
+      NON-INGREDIENT SPAN: the meat is no longer pink
+   OARG: the zucchini pieces are tender , 10 to 12 minutes
+      NON-INGREDIENT SPAN:  10 to 12 minutes
+      NON-INGREDIENT SPAN: the zucchini pieces are tender 
+
+
+SENTID: 4
+SENT: I would drain excess fat from the skillet , and set the sausage mixture aside .
+PREDID: 253
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 285
+PRED: set
+   DOBJ: the sausage mixture
+      NON-INGREDIENT SPAN: the sausage mixture
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: While the sausage and zucchinis are cooking , I would mix together the ricotta cheese , egg white , mozzarella cheese , and 1/4 cup of Parmesan cheese in a bowl until well combined .
+PREDID: 349
+PRED: mix
+   DOBJ: the ricotta cheese , egg white , mozzarella cheese , 1/4 cup of Parmesan cheese in a bowl
+      INGREDIENT SPAN: the ricotta cheese 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  mozzarella cheese 
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  1/4 cup of Parmesan cheese in a bowl
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  egg white 
+         INGREDIENTS: egg white
+   PARG: the sausage, zucchinis are cooking
+     PREP: while
+      NON-INGREDIENT SPAN:  zucchinis are cooking
+      NON-INGREDIENT SPAN: the sausage
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would place 3 lasagna noodles into the bottom of the baking dish on top of the spaghetti sauce , overlapping noodles slightly if necessary .
+PREDID: 453
+PRED: place
+   DOBJ: 3 lasagna noodles
+      INGREDIENT SPAN: 3 lasagna noodles
+         INGREDIENTS: noboil lasagna noodles more needed
+   PARG: the bottom of the baking dish on top of the spaghetti sauce , overlapping noodles slightly if necessary
+     PREP: into
+      INGREDIENT SPAN:  overlapping noodles slightly if necessary
+         INGREDIENTS: noboil lasagna noodles more needed
+      INGREDIENT SPAN: the bottom of the baking dish on top of the spaghetti sauce 
+         INGREDIENTS: spaghetti sauce
+
+
+SENTID: 7
+SENT: I would spread half the sausage-zucchini mixture on top of the noodles .
+PREDID: 564
+PRED: spread
+   DOBJ: half the sausage-zucchini mixture
+      NON-INGREDIENT SPAN: half the sausage-zucchini mixture
+   PARG: top of the noodles
+     PREP: on
+      NON-INGREDIENT SPAN: top of the noodles
+
+
+SENTID: 8
+SENT: I would spread half the cheese mixture over the meat and zucchini , and pour 1 cup of spaghetti sauce evenly over the cheese mixture .
+PREDID: 618
+PRED: spread
+   DOBJ: half the cheese mixture
+      INGREDIENT SPAN: half the cheese mixture
+         INGREDIENTS: grated Parmesan cheese
+   PARG: the meat, zucchini
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+      NON-INGREDIENT SPAN:  zucchini
+
+PREDID: 670
+PRED: pour
+   DOBJ: 1 cup of spaghetti sauce
+      INGREDIENT SPAN: 1 cup of spaghetti sauce
+         INGREDIENTS: spaghetti sauce divided
+   OARG: evenly over the cheese mixture
+      NON-INGREDIENT SPAN: evenly over the cheese mixture
+
+
+SENTID: 9
+SENT: I would spread the sauce over the cheese mixture with a spoon or spatula .
+PREDID: 721
+PRED: spread
+   DOBJ: the sauce over the cheese mixture
+      INGREDIENT SPAN: the sauce over the cheese mixture
+         INGREDIENTS: spaghetti sauce divided
+   PARG: a spoon or spatula
+     PREP: with
+      NON-INGREDIENT SPAN: a spoon or spatula
+
+
+SENTID: 10
+SENT: I would repeat layers , starting with 3 more noodles , the rest of the sausage mixture , the rest of the cheese mixture , and 1 more cup of spaghetti sauce .
+PREDID: 775
+PRED: repeat
+   DOBJ: layers , starting with 3 more noodles , the rest of the sausage mixture , the rest of the cheese mixture , 1 more cup of spaghetti sauce
+      NON-INGREDIENT SPAN: layers 
+      NON-INGREDIENT SPAN:  1 more cup of spaghetti sauce
+      NON-INGREDIENT SPAN:  the rest of the cheese mixture 
+      NON-INGREDIENT SPAN:  starting with 3 more noodles 
+      NON-INGREDIENT SPAN:  the rest of the sausage mixture 
+
+
+SENTID: 11
+SENT: I would sprinkle the top with 1/2 cup of Parmesan cheese .
+PREDID: 894
+PRED: sprinkle
+   DOBJ: the top
+      NON-INGREDIENT SPAN: the top
+   PARG: 1/2 cup of parmesan cheese
+     PREP: with
+      NON-INGREDIENT SPAN: 1/2 cup of parmesan cheese
+
+
+SENTID: 12
+SENT: I would bake in the preheated oven until the lasagna is bubbling and the Parmesan cheese has browned , about 45 minutes .
+PREDID: 935
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the lasagna is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: the lasagna is bubbling
+   OARG: the parmesan cheese has browned , about 45 minutes
+      NON-INGREDIENT SPAN:  about 45 minutes
+      NON-INGREDIENT SPAN: the parmesan cheese has browned 
+
+

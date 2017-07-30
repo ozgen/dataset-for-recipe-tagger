@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: I would brown the ground beef and Italian sausage in a large skillet over medium-high heat .
+PREDID: 0
+PRED: brown
+   DOBJ: the ground beef, Italian sausage
+      INGREDIENT SPAN:  Italian sausage
+         INGREDIENTS: bulk Italian sausage
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium-high heat
+
+
+SENTID: 1
+SENT: I would drain excess grease .
+PREDID: 70
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 2
+SENT: I would stir in the water and black olives , and season with basil , garlic powder , the oregano , the sage , the pepper , minced garlic , and onion flakes .
+PREDID: 88
+PRED: stir
+   DOBJ: NULL
+   PARG: the water, black olives , season with basil , garlic powder , the oregano , the sage , the pepper , minced garlic , onion flakes
+     PREP: in
+      INGREDIENT SPAN:  minced garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN: the water
+         INGREDIENTS: warm water
+      INGREDIENT SPAN:  onion flakes
+         INGREDIENTS: dried onion flakes
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  black olives 
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the sage 
+         INGREDIENTS: dried sage
+      INGREDIENT SPAN:  season with basil 
+         INGREDIENTS: basil
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+
+
+SENTID: 3
+SENT: I would simmer for about 15 minutes , stirring frequently .
+PREDID: 197
+PRED: simmer
+   DOBJ: NULL
+   PARG: about 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 minutes
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+
+SENTID: 4
+SENT: I would stir in the marinara sauce , and remove from the heat .
+PREDID: 240
+PRED: stir
+   DOBJ: NULL
+   PARG: the marinara sauce
+     PREP: in
+      INGREDIENT SPAN: the marinara sauce
+         INGREDIENTS: ounce jars marinara sauce
+
+PREDID: 266
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 5
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 284
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 6
+SENT: I would place a layer of the meat and sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 325
+PRED: place
+   DOBJ: a layer of the meat, sauce in the bottom of a 9x13 inch baking dish
+      NON-INGREDIENT SPAN:  sauce in the bottom of a 9x13 inch baking dish
+      NON-INGREDIENT SPAN: a layer of the meat
+
+
+SENTID: 7
+SENT: I would cover with a layer of dry noodles .
+PREDID: 386
+PRED: cover
+   DOBJ: NULL
+   PARG: a layer of dry noodles
+     PREP: with
+      INGREDIENT SPAN: a layer of dry noodles
+         INGREDIENTS: ounce package lasagna noodles
+
+
+SENTID: 8
+SENT: I would spread a thin layer of ricotta cheese over the noodles , and sprinkle with a little mozzarella cheese .
+PREDID: 414
+PRED: spread
+   DOBJ: a thin layer of ricotta cheese
+      INGREDIENT SPAN: a thin layer of ricotta cheese
+         INGREDIENTS: ricotta cheese
+   PARG: the noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the noodles
+
+PREDID: 463
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: a little mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: a little mozzarella cheese
+         INGREDIENTS: mozzarella cheese shredded
+
+
+SENTID: 9
+SENT: I would cover with another layer of sauce , and repeat the layering ending with the meat and sauce on top .
+PREDID: 499
+PRED: cover
+   DOBJ: NULL
+   PARG: another layer of sauce
+     PREP: with
+      NON-INGREDIENT SPAN: another layer of sauce
+
+PREDID: 531
+PRED: repeat
+   DOBJ: the layering ending with the meat, sauce on top
+      NON-INGREDIENT SPAN:  sauce on top
+      NON-INGREDIENT SPAN: the layering ending with the meat
+
+
+SENTID: 10
+SENT: I would reserve about 1/2 cup of mozzarella cheese for later .
+PREDID: 576
+PRED: reserve
+   DOBJ: about 1/2 cup of mozzarella cheese
+      NON-INGREDIENT SPAN: about 1/2 cup of mozzarella cheese
+   PARG: later
+     PREP: for
+      NON-INGREDIENT SPAN: later
+
+
+SENTID: 11
+SENT: I would bake for 45 minutes in the preheated oven , but check after 30 minutes depending on how thick the lasagna is .
+PREDID: 621
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes in the preheated oven
+
+
+SENTID: 12
+SENT: I would lasagna is cooked when you can easily stick a knife into it .
+PREDID: 719
+PRED: is cooked
+   DOBJ: NULL
+   OARG: when you can easily stick a knife into it
+      NON-INGREDIENT SPAN: when you can easily stick a knife into it
+
+
+SENTID: 13
+SENT: I would sprinkle the reserved cheese over the top , and return to the oven for about 10 minutes for a nice melted cheese topping .
+PREDID: 759
+PRED: sprinkle
+   DOBJ: the reserved cheese over the top
+      NON-INGREDIENT SPAN: the reserved cheese over the top
+   OARG: return to the oven for about 10 minutes for a nice melted cheese topping
+      NON-INGREDIENT SPAN: return to the oven for about 10 minutes for a nice melted cheese topping
+
+

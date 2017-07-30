@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: In a large bowl , I would stir together the sugar and mayonnaise .
+PREDID: 13
+PRED: stir
+   DOBJ: the sugar, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would add the carrots and cabbage , and mix until well coated .
+PREDID: 47
+PRED: add
+   DOBJ: the carrots, cabbage
+      INGREDIENT SPAN:  cabbage
+         INGREDIENTS: medium head cabbage cored shredded
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: medium carrots shredded
+   OARG: mix until well coated
+      NON-INGREDIENT SPAN: mix until well coated
+
+
+SENTID: 2
+SENT: I would serve chilled .
+PREDID: 93
+PRED: serve
+   DOBJ: NULL
+
+

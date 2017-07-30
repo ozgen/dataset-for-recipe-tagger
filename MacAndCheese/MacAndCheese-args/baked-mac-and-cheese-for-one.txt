@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: I would preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: an oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would grease an oven-proof soup crock or 1 cup baking dish .
+PREDID: 40
+PRED: grease
+   DOBJ: an oven-proof soup crock or 1 cup baking dish
+      NON-INGREDIENT SPAN: an oven-proof soup crock or 1 cup baking dish
+
+
+SENTID: 2
+SENT: I would fill a small saucepan with water , and bring to a boil .
+PREDID: 84
+PRED: fill
+   DOBJ: a small saucepan
+      NON-INGREDIENT SPAN: a small saucepan
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+PREDID: 115
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would stir in the macaroni ;
+PREDID: 128
+PRED: stir
+   DOBJ: NULL
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: uncooked macaroni pasta
+
+
+SENTID: 4
+SENT: I would boil until cooked but still firm to the bite , about 8 minutes .
+PREDID: 146
+PRED: boil
+   DOBJ: NULL
+   PARG: cooked but still firm to the bite , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked but still firm to the bite 
+      NON-INGREDIENT SPAN:  about 8 minutes
+
+
+SENTID: 5
+SENT: I would drain well , and reserve .
+PREDID: 197
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 6
+SENT: In the same saucepan , I would melt the butter over medium-high heat .
+PREDID: 236
+PRED: melt
+   DOBJ: the butter over medium-high heat
+      INGREDIENT SPAN: the butter over medium-high heat
+         INGREDIENTS: butter
+   PARG: the same saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: the same saucepan
+
+
+SENTID: 7
+SENT: I would stir in the flour , the salt , the pepper , onion powder , and milk ;
+PREDID: 269
+PRED: stir
+   DOBJ: NULL
+   PARG: the flour , the salt , the pepper , onion powder , milk
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  onion powder 
+         INGREDIENTS: onion powder
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: pepper
+
+
+SENTID: 8
+SENT: I would whisk until smooth .
+PREDID: 316
+PRED: whisk
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 9
+SENT: I would cook , stirring , for 2 minutes .
+PREDID: 333
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 minutes
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+
+SENTID: 10
+SENT: I would reduce heat to low , and whisk in 1/3 cup cheese , the mustard , Worcestershire sauce , and hot sauce .
+PREDID: 359
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: low
+     PREP: to
+      NON-INGREDIENT SPAN: low
+
+PREDID: 378
+PRED: whisk
+   DOBJ: NULL
+   PARG: 1/3 cup cheese , the mustard , worcestershire sauce , hot sauce
+     PREP: in
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot sauce
+      INGREDIENT SPAN: 1/3 cup cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+
+
+SENTID: 11
+SENT: I would stir in the cooked macaroni .
+PREDID: 438
+PRED: stir
+   DOBJ: NULL
+   PARG: the cooked macaroni
+     PREP: in
+      NON-INGREDIENT SPAN: the cooked macaroni
+
+
+SENTID: 12
+SENT: I would spoon the macaroni and cheese into the prepared dish .
+PREDID: 462
+PRED: spoon
+   DOBJ: the macaroni, cheese
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN: the macaroni
+   PARG: the prepared dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared dish
+
+
+SENTID: 13
+SENT: I would sprinkle with bread crumbs and 1 tablespoon cheddar cheese .
+PREDID: 507
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: bread crumbs, 1 tablespoon cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: bread crumbs
+      NON-INGREDIENT SPAN:  1 tablespoon cheddar cheese
+
+
+SENTID: 14
+SENT: I would bake , uncovered , until the cheese is melted and the macaroni is heated through , about 10 minutes .
+PREDID: 558
+PRED: bake
+   DOBJ: NULL
+   PARG: the cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted
+   OARG: uncovered
+      NON-INGREDIENT SPAN: uncovered
+
+PREDID: 611
+PRED: is heated
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+

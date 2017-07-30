@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: I would heat the vegetable oil in a wok or large skillet over medium high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok or large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large skillet over medium high heat
+
+
+SENTID: 1
+SENT: I would stir in the grapes and chicken ;
+PREDID: 58
+PRED: stir
+   DOBJ: NULL
+   PARG: the grapes, chicken
+     PREP: in
+      INGREDIENT SPAN: the grapes
+         INGREDIENTS: sliced red grapes
+      INGREDIENT SPAN:  chicken
+         INGREDIENTS: cubed cooked chicken
+
+
+SENTID: 2
+SENT: I would cook and stir until the chicken is hot , and the grapes are tender , about 3 minutes .
+PREDID: 84
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the chicken is hot
+     PREP: until
+      INGREDIENT SPAN: the chicken is hot
+         INGREDIENTS: chicken broth
+   OARG: the grapes are tender , about 3 minutes
+      NON-INGREDIENT SPAN: the grapes are tender 
+      NON-INGREDIENT SPAN:  about 3 minutes
+
+
+SENTID: 3
+SENT: I would add the rice and chicken broth ;
+PREDID: 152
+PRED: add
+   DOBJ: the rice, chicken broth
+      INGREDIENT SPAN: the rice
+         INGREDIENTS: cooked rice
+      NON-INGREDIENT SPAN:  chicken broth
+
+
+SENTID: 4
+SENT: I would continue the cooking until the rice is hot , about 2 minutes more .
+PREDID: 178
+PRED: continue
+   DOBJ: the cooking
+      NON-INGREDIENT SPAN: the cooking
+   PARG: the rice is hot , about 2 minutes more
+     PREP: until
+      NON-INGREDIENT SPAN: the rice is hot 
+      NON-INGREDIENT SPAN:  about 2 minutes more
+
+

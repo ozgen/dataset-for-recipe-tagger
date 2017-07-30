@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet over medium high heat , I would saute the ground beef , the onion and bacon for 5 to 10 minutes , or until the meat is browned and the onion is translucent ;
+PREDID: 72
+PRED: saute
+   DOBJ: NULL
+   PARG: a large skillet over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium high heat
+   PARG: the ground beef , the onion, bacon for 5 to 10 minutes , or until the meat is browned, the onion is translucent
+     PREP: for
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  bacon for 5 to 10 minutes 
+         INGREDIENTS: slices bacon diced
+      NON-INGREDIENT SPAN:  the onion is translucent
+      NON-INGREDIENT SPAN:  or until the meat is browned
+
+
+SENTID: 2
+SENT: I would drain excess fat .
+PREDID: 168
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 3
+SENT: In a 3 quart casserole dish , I would combine the vinegar , the mustard , the ketchup , brown sugar , green bell pepper , kidney beans , chili beans , the pork and beans and the meat mixture .
+PREDID: 206
+PRED: combine
+   DOBJ: the vinegar , the mustard , the ketchup , brown sugar , green bell pepper , kidney beans , chili beans , the pork, beans, the meat mixture
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN:  the pork
+         INGREDIENTS: ounce pork beans
+      INGREDIENT SPAN:  the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: the vinegar 
+         INGREDIENTS: distilled white vinegar
+      NON-INGREDIENT SPAN:  beans
+      NON-INGREDIENT SPAN:  the meat mixture
+   PARG: a 3 quart casserole dish
+     PREP: in
+      NON-INGREDIENT SPAN: a 3 quart casserole dish
+
+
+SENTID: 4
+SENT: I would stir together until well blended .
+PREDID: 320
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would bake at 375 degrees F -LRB- 190 degrees C -RRB- for 45 to 50 minutes , remove from oven and top with the cheese and crushed tortilla chips .
+PREDID: 349
+PRED: bake
+   DOBJ: NULL
+   PARG: 375 degrees f -lrb- 190 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 375 degrees f -lrb- 190 degrees c
+   PARG: 45 to 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 to 50 minutes
+
+PREDID: 404
+PRED: remove
+   DOBJ: NULL
+   PARG: oven
+     PREP: from
+      NON-INGREDIENT SPAN: oven
+
+PREDID: 421
+PRED: top
+   DOBJ: NULL
+   PARG: the cheese, crushed tortilla chips
+     PREP: with
+      INGREDIENT SPAN:  crushed tortilla chips
+         INGREDIENTS: crushed tortilla chips
+      INGREDIENT SPAN: the cheese
+         INGREDIENTS: slices American cheese
+
+
+SENTID: 6
+SENT: I would return to oven and bake for 5 to 6 more minutes , or until the cheese is melted and bubbly .
+PREDID: 453
+PRED: return
+   DOBJ: NULL
+   OARG: to oven, bake for 5 to 6 more minutes , or until the cheese is melted, bubbly
+      NON-INGREDIENT SPAN:  or until the cheese is melted
+      NON-INGREDIENT SPAN:  bake for 5 to 6 more minutes 
+      NON-INGREDIENT SPAN: to oven
+      NON-INGREDIENT SPAN:  bubbly
+
+

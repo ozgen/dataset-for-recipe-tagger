@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would measure flour into a large mixing bowl .
+PREDID: 0
+PRED: measure
+   DOBJ: flour
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 1
+SENT: I would slowly whisk in the milk .
+PREDID: 39
+PRED: whisk
+   DOBJ: NULL
+   PARG: the milk
+     PREP: in
+      INGREDIENT SPAN: the milk
+         INGREDIENTS: milk
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 2
+SENT: I would whisk in the salt , the eggs , the cinnamon , vanilla extract and sugar until smooth .
+PREDID: 54
+PRED: whisk
+   DOBJ: NULL
+   PARG: the salt , the eggs , the cinnamon , vanilla extract, sugar
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would heat a lightly oiled griddle or frying pan over medium heat .
+PREDID: 117
+PRED: heat
+   DOBJ: a lightly oiled griddle or frying pan over medium heat
+      NON-INGREDIENT SPAN: a lightly oiled griddle or frying pan over medium heat
+
+
+SENTID: 4
+SENT: I would soak bread slices in mixture until saturated .
+PREDID: 167
+PRED: soak
+   DOBJ: bread slices in mixture
+      INGREDIENT SPAN: bread slices in mixture
+         INGREDIENTS: thick slices bread
+   PARG: saturated
+     PREP: until
+      NON-INGREDIENT SPAN: saturated
+
+
+SENTID: 5
+SENT: I would cook bread on each side until golden brown .
+PREDID: 206
+PRED: cook
+   DOBJ: bread on each side
+      NON-INGREDIENT SPAN: bread on each side
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 6
+SENT: I would serve hot .
+PREDID: 242
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

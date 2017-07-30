@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: In a large pot , I would cook beef over medium heat until brown .
+PREDID: 12
+PRED: cook
+   DOBJ: beef over medium heat
+      INGREDIENT SPAN: beef over medium heat
+         INGREDIENTS: lean ground beef
+   PARG: a large pot
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 1
+SENT: I would stir in onion and cook until onion is translucent .
+PREDID: 45
+PRED: stir
+   DOBJ: NULL
+   PARG: onion, cook
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: white onion chopped
+      NON-INGREDIENT SPAN:  cook
+   PARG: onion is translucent
+     PREP: until
+      NON-INGREDIENT SPAN: onion is translucent
+
+
+SENTID: 2
+SENT: I would stir in tomato sauce , the water , ranch-style beans , kidney beans , the chiles , chili powder , garlic powder , the cumin and Cajun seasoning .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: tomato sauce , the water , ranch-style beans , kidney beans , the chiles , chili powder , garlic powder , the cumin, cajun seasoning
+     PREP: in
+      INGREDIENT SPAN:  cajun seasoning
+         INGREDIENTS: Cajun seasoning
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce ranchstyle beans
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  ranch-style beans 
+         INGREDIENTS: ounce kidney beans
+      INGREDIENT SPAN:  garlic powder 
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+      INGREDIENT SPAN:  the chiles 
+         INGREDIENTS: ounce chopped green chile peppers
+
+
+SENTID: 3
+SENT: I would bring to a boil ,
+PREDID: 195
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 4
+SENT: I would reduce heat and simmer 20 minutes .
+PREDID: 208
+PRED: reduce
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: heat, simmer
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: heat
+
+

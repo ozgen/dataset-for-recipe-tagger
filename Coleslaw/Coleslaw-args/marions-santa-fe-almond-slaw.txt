@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a large bowl , I would mix the cabbage , green onions , the cilantro , and tomato .
+PREDID: 13
+PRED: mix
+   DOBJ: the cabbage , green onions , the cilantro , tomato
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the cilantro 
+         INGREDIENTS: chopped cilantro
+      INGREDIENT SPAN:  tomato
+         INGREDIENTS: large tomato diced
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: head cabbage chopped
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , I would cook and stir the sesame oil , black pepper , and chili pepper until heated through .
+PREDID: 83
+PRED: cook and stir
+   DOBJ: the sesame oil , black pepper , chili pepper
+      INGREDIENT SPAN:  chili pepper
+         INGREDIENTS: crumbled dried red chile pepper
+      INGREDIENT SPAN: the sesame oil 
+         INGREDIENTS: sesame oil
+      INGREDIENT SPAN:  black pepper 
+         INGREDIENTS: ground black pepper
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+   PARG: heated through
+     PREP: until
+      NON-INGREDIENT SPAN: heated through
+
+
+SENTID: 2
+SENT: I would mix in the bacon bits and almonds .
+PREDID: 152
+PRED: mix
+   DOBJ: NULL
+   PARG: the bacon bits, almonds
+     PREP: in
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: slivered almonds
+      INGREDIENT SPAN: the bacon bits
+         INGREDIENTS: imitation bacon bits
+
+
+SENTID: 3
+SENT: I would cook and stir about 5 minutes , until almonds are lightly browned .
+PREDID: 180
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 5 minutes , until almonds are lightly browned
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes 
+      NON-INGREDIENT SPAN:  until almonds are lightly browned
+
+
+SENTID: 4
+SENT: I would remove from heat , and toss with the cabbage mixture .
+PREDID: 235
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 253
+PRED: toss
+   DOBJ: NULL
+   PARG: the cabbage mixture
+     PREP: with
+      NON-INGREDIENT SPAN: the cabbage mixture
+
+
+SENTID: 5
+SENT: I would serve immediately .
+PREDID: 279
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

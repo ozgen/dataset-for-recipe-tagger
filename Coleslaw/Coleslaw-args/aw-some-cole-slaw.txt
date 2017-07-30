@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: I would whisk together mayonnaise , the sugar , the milk , lemon juice , the vinegar , and salt and pepper in a large bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: mayonnaise , the sugar , the milk , lemon juice , the vinegar , salt, pepper in a large bowl
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: vinegar
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  pepper in a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would toss the cabbage , the carrots , and onion into the dressing ;
+PREDID: 83
+PRED: toss
+   DOBJ: the cabbage , the carrots , onion
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: minced sweet onion
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded cabbage
+   PARG: the dressing
+     PREP: into
+      NON-INGREDIENT SPAN: the dressing
+
+
+SENTID: 2
+SENT: I would mix well .
+PREDID: 130
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would refrigerate for at least 3 hours or up to overnight before serving .
+PREDID: 138
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 3 hours or up to overnight before serving
+     PREP: for
+      NON-INGREDIENT SPAN: at least 3 hours or up to overnight before serving
+
+

@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: To make the dressing , place the peanut butter , soy sauce , rice vinegar , chili-garlic sauce , brown sugar , the ginger , red pepper flakes , and 3 tablespoons of chicken broth together in a blender or bowl of a food processor .
+
+SENTID: 1
+SENT: I would blend until smooth .
+PREDID: 182
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would season to taste with salt and pepper .
+PREDID: 199
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell pepper seeded cut strips
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 3
+SENT: I would thin the dressing to your taste by adding more chicken broth or water .
+PREDID: 230
+PRED: thin
+   DOBJ: the dressing
+      INGREDIENT SPAN: the dressing
+         INGREDIENTS: Dressing
+   PARG: your taste
+     PREP: to
+      NON-INGREDIENT SPAN: your taste
+   PARG: adding more chicken broth or water
+     PREP: by
+      INGREDIENT SPAN: adding more chicken broth or water
+         INGREDIENTS: lowsodium chicken broth
+
+
+SENTID: 4
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 288
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would add the linguine and cook until al dente , 8 to 10 minutes .
+PREDID: 330
+PRED: add
+   DOBJ: the linguine
+      INGREDIENT SPAN: the linguine
+         INGREDIENTS: ounce package uncooked linguine pasta
+
+PREDID: 347
+PRED: cook
+   DOBJ: NULL
+   PARG: al dente , 8 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: al dente 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 6
+SENT: I would drain and place pasta into a large mixing bowl .
+PREDID: 377
+PRED: drain and place
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large mixing bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large mixing bowl
+
+
+SENTID: 7
+SENT: I would add the chicken , the carrots , green onions , red pepper , the celery , and cilantro to the bowl with the linguine .
+PREDID: 416
+PRED: add
+   DOBJ: the chicken , the carrots , green onions , red pepper , the celery , cilantro
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: juliennesliced carrot
+      INGREDIENT SPAN:  red pepper 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery rib sliced
+      INGREDIENT SPAN:  cilantro
+         INGREDIENTS: fresh cilantro leaves chopped
+      INGREDIENT SPAN: the chicken 
+         INGREDIENTS: cooked chicken cut strips
+   PARG: the bowl with the linguine
+     PREP: to
+      NON-INGREDIENT SPAN: the bowl with the linguine
+
+
+SENTID: 8
+SENT: I would pour the dressing over the noodle-chicken mixture and toss until mixture is evenly coated .
+PREDID: 503
+PRED: pour
+   DOBJ: the dressing over the noodle-chicken mixture
+      NON-INGREDIENT SPAN: the dressing over the noodle-chicken mixture
+
+PREDID: 549
+PRED: toss
+   DOBJ: NULL
+   PARG: mixture is evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: mixture is evenly coated
+
+
+SENTID: 9
+SENT: I would divide the salad among eight serving plates , and sprinkle peanuts over each serving .
+PREDID: 580
+PRED: divide
+   DOBJ: the salad among eight
+      INGREDIENT SPAN: the salad among eight
+         INGREDIENTS: Salad
+   OARG: serving plates
+      NON-INGREDIENT SPAN: serving plates
+
+PREDID: 621
+PRED: sprinkle
+   DOBJ: peanuts
+      INGREDIENT SPAN: peanuts
+         INGREDIENTS: smooth peanut butter
+   PARG: each serving
+     PREP: over
+      NON-INGREDIENT SPAN: each serving
+
+

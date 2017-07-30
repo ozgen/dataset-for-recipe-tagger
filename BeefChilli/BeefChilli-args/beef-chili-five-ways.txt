@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would heat large nonstick skillet over medium heat until hot .
+PREDID: 0
+PRED: heat
+   DOBJ: large nonstick skillet over medium heat
+      NON-INGREDIENT SPAN: large nonstick skillet over medium heat
+   PARG: hot
+     PREP: until
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 1
+SENT: I would add ground beef ;
+PREDID: 47
+PRED: add
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef % lean
+
+
+SENTID: 2
+SENT: I would cook 8 to 10 minutes , breaking into 3/4-inch crumbles and stirring occasionally .
+PREDID: 61
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+PREDID: 78
+PRED: breaking
+   DOBJ: NULL
+   PARG: 3/4-inch crumbles
+     PREP: into
+      NON-INGREDIENT SPAN: 3/4-inch crumbles
+
+PREDID: 109
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+
+SENTID: 3
+SENT: I would pour off drippings .
+PREDID: 130
+PRED: pour
+   DOBJ: drippings
+      NON-INGREDIENT SPAN: drippings
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 4
+SENT: I would stir in beans , the broth , the tomatoes and chili powder ;
+PREDID: 147
+PRED: stir
+   DOBJ: NULL
+   PARG: beans , the broth , the tomatoes, chili powder
+     PREP: in
+      INGREDIENT SPAN:  chili powder
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the broth 
+         INGREDIENTS: ounce reducedsodium regular beef broth
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the tomatoes
+         INGREDIENTS: ounce diced tomatoes green chiles
+
+
+SENTID: 5
+SENT: I would bring to a boil .
+PREDID: 188
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would reduce heat ;
+PREDID: 201
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 7
+SENT: I would cover and simmer 20 minutes to develop flavors , stirring occasionally .
+PREDID: 212
+PRED: cover and simmer
+   DOBJ: NULL
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+   OARG: to develop flavors , stirring occasionally
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: to develop flavors 
+
+
+SENTID: 8
+SENT: I would garnish with toppings , as desired .
+PREDID: 273
+PRED: garnish
+   DOBJ: NULL
+   PARG: toppings
+     PREP: with
+      NON-INGREDIENT SPAN: toppings
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+

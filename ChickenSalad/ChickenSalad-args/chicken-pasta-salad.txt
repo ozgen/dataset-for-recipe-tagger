@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: uncooked pasta choice
+      NON-INGREDIENT SPAN:  cook
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain and pour pasta into a large dish .
+PREDID: 87
+PRED: drain and pour
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+   PARG: a large dish
+     PREP: into
+      NON-INGREDIENT SPAN: a large dish
+
+
+SENTID: 3
+SENT: I would stir in the corn , the mushrooms , the celery , the onions , the olives , bell pepper and cheese .
+PREDID: 119
+PRED: stir
+   DOBJ: NULL
+   PARG: the corn , the mushrooms , the celery , the onions , the olives , bell pepper, cheese
+     PREP: in
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: frozen corn kernels thawed
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: sliced green olives
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN:  bell pepper
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Cheddar cheese
+
+
+SENTID: 4
+SENT: In a separate bowl , I would whisk together the salad dressing and mayonnaise ,
+PREDID: 200
+PRED: whisk
+   DOBJ: the salad dressing, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the salad dressing
+         INGREDIENTS: Italianstyle salad dressing
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would pour this mixture over the salad and toss again , to coat .
+PREDID: 243
+PRED: pour
+   DOBJ: this mixture over the salad
+      NON-INGREDIENT SPAN: this mixture over the salad
+
+PREDID: 273
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+
+SENTID: 6
+SENT: I would add flaked chicken and toss gently a final time .
+PREDID: 290
+PRED: add
+   DOBJ: flaked chicken
+      INGREDIENT SPAN: flaked chicken
+         INGREDIENTS: ounce chunk chicken drained
+
+PREDID: 309
+PRED: toss
+   DOBJ: a final time
+      NON-INGREDIENT SPAN: a final time
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+

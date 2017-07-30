@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease an 8x8-inch baking dish with melted butter .
+PREDID: 38
+PRED: grease
+   DOBJ: an 8x8-inch baking dish
+      NON-INGREDIENT SPAN: an 8x8-inch baking dish
+   PARG: melted butter
+     PREP: with
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter melted
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 81
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 123
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 224
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would mix the apple and pear with lemon juice in a bowl ;
+PREDID: 230
+PRED: mix
+   DOBJ: the apple, pear
+      INGREDIENT SPAN:  pear
+         INGREDIENTS: large pear peeled cored chopped
+      INGREDIENT SPAN: the apple
+         INGREDIENTS: large apple peeled cored chopped
+   PARG: lemon juice in a bowl
+     PREP: with
+      INGREDIENT SPAN: lemon juice in a bowl
+         INGREDIENTS: lemon juice
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 270
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would beat milk , the eggs , the applesauce , white sugar , light brown sugar , vanilla extract , the cinnamon , the salt , and nutmeg in a large bowl until just combined .
+PREDID: 279
+PRED: beat
+   DOBJ: milk , the eggs , the applesauce , white sugar , light brown sugar , vanilla extract , the cinnamon , the salt , nutmeg
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  white sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  light brown sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg taste
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a large bowl until just combined
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl until just combined
+
+
+SENTID: 8
+SENT: I would stir cranberries , egg noodles , and apple mixture into the egg mixture ;
+PREDID: 399
+PRED: stir
+   DOBJ: cranberries , egg noodles , apple mixture
+      INGREDIENT SPAN: cranberries 
+         INGREDIENTS: dried cranberries
+      NON-INGREDIENT SPAN:  apple mixture
+      NON-INGREDIENT SPAN:  egg noodles 
+   PARG: the egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the egg mixture
+
+
+SENTID: 9
+SENT: I would pour in prepared baking dish and cover the baking dish with aluminum foil .
+PREDID: 459
+PRED: pour
+   DOBJ: NULL
+   PARG: prepared baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: prepared baking dish
+
+PREDID: 486
+PRED: cover
+   DOBJ: the baking dish with aluminum foil
+      NON-INGREDIENT SPAN: the baking dish with aluminum foil
+
+
+SENTID: 10
+SENT: I would bake noodle pudding in preheated oven until set , 35 to 45 minutes .
+PREDID: 518
+PRED: bake
+   DOBJ: noodle pudding
+      NON-INGREDIENT SPAN: noodle pudding
+   PARG: preheated oven until set , 35 to 45 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven until set 
+      NON-INGREDIENT SPAN:  35 to 45 minutes
+
+
+SENTID: 11
+SENT: I would remove foil and return pudding to oven to bake until browned , about 10 minutes more ;
+PREDID: 573
+PRED: remove
+   DOBJ: foil, return pudding
+      NON-INGREDIENT SPAN: foil
+      NON-INGREDIENT SPAN:  return pudding
+   OARG: to oven to bake until browned , about 10 minutes more
+      NON-INGREDIENT SPAN:  about 10 minutes more
+      NON-INGREDIENT SPAN: to oven to bake until browned 
+
+
+SENTID: 12
+SENT: I would cool to room temperature or serve chilled .
+PREDID: 643
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+PREDID: 666
+PRED: serve
+   DOBJ: NULL
+
+

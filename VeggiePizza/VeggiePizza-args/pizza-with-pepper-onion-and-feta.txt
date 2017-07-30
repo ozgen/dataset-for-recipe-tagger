@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 450 degrees
+     PREP: to
+      NON-INGREDIENT SPAN: 450 degrees
+
+
+SENTID: 1
+SENT: I would lay crust on pizza pan or cookie sheet .
+PREDID: 24
+PRED: lay
+   DOBJ: crust
+      INGREDIENT SPAN: crust
+         INGREDIENTS: inch thin pizza crust homemade prepared such Boboli
+   PARG: pizza pan or cookie sheet
+     PREP: on
+      NON-INGREDIENT SPAN: pizza pan or cookie sheet
+
+
+SENTID: 2
+SENT: In a bowl , I would combine remaining ingredients except cheese ;
+PREDID: 64
+PRED: combine
+   DOBJ: remaining ingredients except cheese
+      INGREDIENT SPAN: remaining ingredients except cheese
+         INGREDIENTS: crumbled herbed feta cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 3
+SENT: I would spoon over crust .
+PREDID: 104
+PRED: spoon
+   DOBJ: NULL
+   PARG: crust
+     PREP: over
+      NON-INGREDIENT SPAN: crust
+
+
+SENTID: 4
+SENT: I would top with cheese .
+PREDID: 119
+PRED: top
+   DOBJ: NULL
+   PARG: cheese
+     PREP: with
+      NON-INGREDIENT SPAN: cheese
+
+
+SENTID: 5
+SENT: I would bake 10-12 minutes , or until vegetables are crispy-tender .
+PREDID: 133
+PRED: bake
+   DOBJ: NULL
+   PARG: 10-12 minutes , or until vegetables are crispy-tender
+     PREP: for
+      NON-INGREDIENT SPAN:  or until vegetables are crispy-tender
+      NON-INGREDIENT SPAN: 10-12 minutes 
+
+

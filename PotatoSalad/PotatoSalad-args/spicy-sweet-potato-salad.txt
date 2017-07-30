@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would wash , pierce with a fork , and microwave the sweet potatoes and Yukon Gold potatoes until tender .
+PREDID: 0
+PRED: wash and pierce
+   DOBJ: NULL
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 24
+PRED: microwave
+   DOBJ: the sweet potatoes, Yukon Gold potatoes
+      INGREDIENT SPAN:  Yukon Gold potatoes
+         INGREDIENTS: Yukon Gold potatoes
+      INGREDIENT SPAN: the sweet potatoes
+         INGREDIENTS: red potatoes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 1
+SENT: I would boil the red potatoes in salted water until tender .
+PREDID: 81
+PRED: boil
+   DOBJ: the red potatoes in salted water
+      INGREDIENT SPAN: the red potatoes in salted water
+         INGREDIENTS: sweet potatoes
+   PARG: tender
+     PREP: until
+      NON-INGREDIENT SPAN: tender
+
+
+SENTID: 2
+SENT: Do not overcook the potatoes , or they will not hold up in the salad .
+
+SENTID: 3
+SENT: I would drain red potatoes and chill all three types overnight .
+PREDID: 124
+PRED: drain
+   DOBJ: red potatoes
+      NON-INGREDIENT SPAN: red potatoes
+
+PREDID: 143
+PRED: chill
+   DOBJ: all three types
+      NON-INGREDIENT SPAN: all three types
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+
+SENTID: 4
+SENT: I would peel the sweet potatoes and Yukon Golds , and dice into 1/2 inch cubes .
+PREDID: 171
+PRED: peel
+   DOBJ: the sweet potatoes, Yukon Golds , dice into 1/2 inch cubes
+      NON-INGREDIENT SPAN:  Yukon Golds 
+      NON-INGREDIENT SPAN: the sweet potatoes
+      NON-INGREDIENT SPAN:  dice into 1/2 inch cubes
+
+
+SENTID: 5
+SENT: I would cut red potatoes into fourths .
+PREDID: 229
+PRED: cut
+   DOBJ: red potatoes
+      NON-INGREDIENT SPAN: red potatoes
+   PARG: fourths
+     PREP: into
+      NON-INGREDIENT SPAN: fourths
+
+
+SENTID: 6
+SENT: I would place all potatoes into a large bowl .
+PREDID: 255
+PRED: place
+   DOBJ: all potatoes
+      NON-INGREDIENT SPAN: all potatoes
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 7
+SENT: I would slice red onion thinly and place into a colander .
+PREDID: 286
+PRED: slice
+   DOBJ: red onion thinly, place
+      INGREDIENT SPAN: red onion thinly
+         INGREDIENTS: large red onion
+      NON-INGREDIENT SPAN:  place
+   PARG: a colander
+     PREP: into
+      NON-INGREDIENT SPAN: a colander
+
+
+SENTID: 8
+SENT: I would sprinkle the salt on the onion and let it sit in the colander for 30 minutes to drain .
+PREDID: 327
+PRED: sprinkle
+   DOBJ: the salt
+      INGREDIENT SPAN: the salt
+         INGREDIENTS: salt
+   PARG: the onion
+     PREP: on
+      NON-INGREDIENT SPAN: the onion
+
+PREDID: 355
+PRED: let sit
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the colander for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the colander for 30 minutes
+   OARG: to drain
+      NON-INGREDIENT SPAN: to drain
+
+
+SENTID: 9
+SENT: I would squeeze onion to remove excess water , and add to the bowl with the potatoes .
+PREDID: 396
+PRED: squeeze
+   DOBJ: onion
+      NON-INGREDIENT SPAN: onion
+   OARG: to remove excess water , add to the bowl with the potatoes
+      NON-INGREDIENT SPAN: to remove excess water 
+      NON-INGREDIENT SPAN:  add to the bowl with the potatoes
+
+
+SENTID: 10
+SENT: I would mix in the garlic , jalapeno , lemon juice , the mayonnaise , curry powder , the parsley and pepper , and chill until ready to serve .
+PREDID: 459
+PRED: mix
+   DOBJ: NULL
+   PARG: the garlic , jalapeno , lemon juice , the mayonnaise , curry powder , the parsley, pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: jalapeno pepper seeded minced
+      INGREDIENT SPAN:  curry powder 
+         INGREDIENTS: curry powder
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: fresh lemon juice
+      NON-INGREDIENT SPAN:  jalapeno 
+
+PREDID: 543
+PRED: chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

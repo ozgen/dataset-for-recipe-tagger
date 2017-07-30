@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add macaroni and cook until almost done , about 8 minutes ;
+PREDID: 80
+PRED: add
+   DOBJ: macaroni, cook
+      INGREDIENT SPAN: macaroni
+         INGREDIENTS: ounce package elbow macaroni
+      NON-INGREDIENT SPAN:  cook
+   PARG: almost done
+     PREP: until
+      NON-INGREDIENT SPAN: almost done
+   PARG: 8 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 8 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 128
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would mix cooked macaroni with tomatoes and shredded cheese .
+PREDID: 134
+PRED: mix
+   DOBJ: cooked macaroni
+      NON-INGREDIENT SPAN: cooked macaroni
+   PARG: tomatoes, shredded cheese
+     PREP: with
+      INGREDIENT SPAN:  shredded cheese
+         INGREDIENTS: ounce package shredded sharp Cheddar cheese
+      INGREDIENT SPAN: tomatoes
+         INGREDIENTS: ounce stewed tomatoes
+
+
+SENTID: 5
+SENT: I would pour into a baking dish and bake in a preheated oven for 30 minutes .
+PREDID: 181
+PRED: pour
+   DOBJ: NULL
+   PARG: a baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a baking dish
+
+PREDID: 203
+PRED: bake
+   DOBJ: NULL
+   PARG: a preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: a preheated oven for 30 minutes
+
+

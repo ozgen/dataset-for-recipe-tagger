@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: I would beat together milk , eggs , sugar , cocoa powder , baking powder , and salt .
+PREDID: 0
+PRED: beat
+   DOBJ: milk , eggs , sugar , cocoa powder , baking powder , salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: milk 
+         INGREDIENTS: milk
+
+
+SENTID: 1
+SENT: I would heat a lightly buttered skillet or griddle over medium heat .
+PREDID: 61
+PRED: heat
+   DOBJ: a lightly buttered skillet
+      NON-INGREDIENT SPAN: a lightly buttered skillet
+
+PREDID: 90
+PRED: griddle
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 2
+SENT: I would dip each slice of bread into egg mixture until well soaked , about 20 seconds per side .
+PREDID: 112
+PRED: dip
+   DOBJ: each slice of bread
+      INGREDIENT SPAN: each slice of bread
+         INGREDIENTS: slices bread
+   PARG: egg mixture
+     PREP: into
+      NON-INGREDIENT SPAN: egg mixture
+   PARG: well soaked , about 20 seconds per side
+     PREP: until
+      NON-INGREDIENT SPAN:  about 20 seconds per side
+      NON-INGREDIENT SPAN: well soaked 
+
+
+SENTID: 3
+SENT: I would place in pan , and cook on both sides until they are no longer gooey or shiny in the middle when cut in half , about 3 to 4 minutes per side .
+PREDID: 183
+PRED: place
+   DOBJ: NULL
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 197
+PRED: cook
+   DOBJ: NULL
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+
+

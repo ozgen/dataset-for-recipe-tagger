@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: I would pour the vegetable oil into the bottom of a slow cooker .
+PREDID: 0
+PRED: pour
+   DOBJ: the vegetable oil
+      INGREDIENT SPAN: the vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: the bottom of a slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a slow cooker
+
+
+SENTID: 1
+SENT: I would place the pork roast into the slow cooker ;
+PREDID: 46
+PRED: place
+   DOBJ: the pork roast
+      INGREDIENT SPAN: the pork roast
+         INGREDIENTS: pound pork shoulder roast
+   PARG: the slow cooker
+     PREP: into
+      NON-INGREDIENT SPAN: the slow cooker
+
+
+SENTID: 2
+SENT: I would pour in the barbecue sauce , apple cider vinegar , and chicken broth .
+PREDID: 81
+PRED: pour
+   DOBJ: NULL
+   PARG: the barbecue sauce , apple cider vinegar , chicken broth
+     PREP: in
+      INGREDIENT SPAN: the barbecue sauce 
+         INGREDIENTS: barbeque sauce
+      INGREDIENT SPAN:  apple cider vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN:  chicken broth
+         INGREDIENTS: chicken broth
+
+
+SENTID: 3
+SENT: I would stir in the brown sugar , yellow mustard , Worcestershire sauce , chili powder , the onion , the garlic , and thyme .
+PREDID: 138
+PRED: stir
+   DOBJ: NULL
+   PARG: the brown sugar , yellow mustard , worcestershire sauce , chili powder , the onion , the garlic , thyme
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: extra large onion chopped
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  yellow mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN:  worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: the brown sugar 
+         INGREDIENTS: light brown sugar
+      NON-INGREDIENT SPAN:  thyme
+      NON-INGREDIENT SPAN:  the garlic 
+
+
+SENTID: 4
+SENT: I would cover and cook on High until the roast shreds easily with a fork , 5 to 6 hours .
+PREDID: 226
+PRED: cover and cook
+   DOBJ: NULL
+   PARG: high
+     PREP: on
+      NON-INGREDIENT SPAN: high
+   PARG: the roast shreds easily with a fork , 5 to 6 hours
+     PREP: until
+      NON-INGREDIENT SPAN: the roast shreds easily with a fork 
+      NON-INGREDIENT SPAN:  5 to 6 hours
+
+
+SENTID: 5
+SENT: I would remove the roast from the slow cooker , and shred the meat using two forks .
+PREDID: 289
+PRED: remove
+   DOBJ: the roast
+      NON-INGREDIENT SPAN: the roast
+   PARG: the slow cooker
+     PREP: from
+      NON-INGREDIENT SPAN: the slow cooker
+
+PREDID: 324
+PRED: shred
+   DOBJ: the meat using two forks
+      NON-INGREDIENT SPAN: the meat using two forks
+
+
+SENTID: 6
+SENT: I would return the shredded pork to the slow cooker , and stir the meat into the juices .
+PREDID: 350
+PRED: return
+   DOBJ: the shredded pork
+      NON-INGREDIENT SPAN: the shredded pork
+   PARG: the slow cooker
+     PREP: to
+      NON-INGREDIENT SPAN: the slow cooker
+
+PREDID: 390
+PRED: stir
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the juices
+     PREP: into
+      NON-INGREDIENT SPAN: the juices
+
+
+SENTID: 7
+SENT: I would spread the inside of both halves of hamburger buns with butter .
+PREDID: 415
+PRED: spread
+   DOBJ: the inside of both halves of hamburger buns
+      INGREDIENT SPAN: the inside of both halves of hamburger buns
+         INGREDIENTS: hamburger buns split
+   PARG: butter
+     PREP: with
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter needed
+
+
+SENTID: 8
+SENT: I would toast the buns , butter side down , in a skillet over medium heat until golden brown .
+PREDID: 468
+PRED: toast
+   DOBJ: the buns , butter side down , in a skillet over medium heat
+      NON-INGREDIENT SPAN:  in a skillet over medium heat
+      NON-INGREDIENT SPAN:  butter side down 
+      NON-INGREDIENT SPAN: the buns 
+   PARG: golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown
+
+
+SENTID: 9
+SENT: I would spoon pork into the toasted buns .
+PREDID: 537
+PRED: spoon
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: the toasted buns
+     PREP: into
+      NON-INGREDIENT SPAN: the toasted buns
+
+

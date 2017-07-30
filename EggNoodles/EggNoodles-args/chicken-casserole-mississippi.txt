@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a casserole dish
+      NON-INGREDIENT SPAN: a casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would cut the chicken into bite size pieces .
+PREDID: 66
+PRED: cut
+   DOBJ: the chicken
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: ounce condensed cream chicken soup
+   PARG: bite size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+
+
+SENTID: 3
+SENT: I would place the chicken and onion into a large nonstick skillet and sprinkle with seasoning salt .
+PREDID: 98
+PRED: place
+   DOBJ: the chicken, onion
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: a large nonstick skillet
+     PREP: into
+      NON-INGREDIENT SPAN: a large nonstick skillet
+
+PREDID: 149
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: seasoning salt
+     PREP: with
+      INGREDIENT SPAN: seasoning salt
+         INGREDIENTS: seasoning salt
+
+
+SENTID: 4
+SENT: I would cook over medium heat , stirring occasionally , until chicken juices run clear and onion is transparent , 5 to 10 minutes .
+PREDID: 175
+PRED: cook
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: stirring occasionally , until chicken juices run clear, onion is transparent , 5 to 10 minutes
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  until chicken juices run clear
+      NON-INGREDIENT SPAN:  onion is transparent 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 5
+SENT: I would prepare the egg noodles according to package directions .
+PREDID: 276
+PRED: prepare
+   DOBJ: the egg noodles
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 6
+SENT: I would combine the chicken and onion mixture , the soups , and noodles in the prepared casserole dish and toss to mix together evenly .
+PREDID: 325
+PRED: combine
+   DOBJ: the chicken, onion mixture , the soups , noodles in the prepared casserole dish
+      INGREDIENT SPAN:  the soups 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      NON-INGREDIENT SPAN:  onion mixture 
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  noodles in the prepared casserole dish
+
+PREDID: 406
+PRED: toss
+   DOBJ: NULL
+   OARG: to mix together evenly
+      NON-INGREDIENT SPAN: to mix together evenly
+
+
+SENTID: 7
+SENT: I would crush the crackers in a medium bowl .
+PREDID: 427
+PRED: crush
+   DOBJ: the crackers
+      INGREDIENT SPAN: the crackers
+         INGREDIENTS: crushed buttery round crackers
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 8
+SENT: I would stir in the butter and sour cream .
+PREDID: 457
+PRED: stir
+   DOBJ: NULL
+   PARG: the butter, sour cream
+     PREP: in
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter melted
+
+
+SENTID: 9
+SENT: I would mix thoroughly and spread over the chicken mixture .
+PREDID: 485
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 501
+PRED: spread
+   DOBJ: NULL
+   PARG: the chicken mixture
+     PREP: over
+      NON-INGREDIENT SPAN: the chicken mixture
+
+
+SENTID: 10
+SENT: I would bake in preheated oven until the top is golden brown , about 30 minutes .
+PREDID: 529
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the top is golden brown , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: the top is golden brown 
+
+

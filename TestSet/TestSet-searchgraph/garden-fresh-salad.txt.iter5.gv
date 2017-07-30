@@ -1,0 +1,64 @@
+digraph recipe {
+E0[label="place
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="cook
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="add
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="rinse
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="cool
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="mix
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="add
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="refrigerate
+10", shape=oval, style=filled, fillcolor=azure]
+D7[label="DOBJ: Dijon mustard, salt and pepper to taste, chopped fresh dill, stalks celery chopped, mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D7 -> E7
+P7_0[label="LOCOROBJ:in a large bowl", shape=box, style=filled, fillcolor=white]
+P7_0 -> E7
+D0[label="DOBJ: new red potatoes scrubbed and halved", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:into a large pot with enough water", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="LOCOROBJ:to a boil", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="DURATION:until potatoes are tender ", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+P2_0_1[label="DURATION:until  about 10 minutes", shape=box, style=filled, fillcolor=white]
+P2_0_1 -> E2
+D3_ing[label="DOBJ: fresh green beans and, fresh wax beans and", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+P3_1_0[label="DURATION:during the last 2 minutes to blanch them", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+P5_0_0[label="OTHER:under cold water", shape=box, style=filled, fillcolor=white]
+P5_0_0 -> E5
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="OTHER:before adding to the dressing", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D8_ing[label="DOBJ: new white potatoes scrubbed and halved", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E6 -> E8 [label="beans"]
+E7 -> E8 [label="IMPLICIT PREP"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_0[label="OTHER:until ready", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a medium bowl , I would beat cream cheese until fluffy .
+PREDID: 14
+PRED: beat
+   DOBJ: cream cheese
+      INGREDIENT SPAN: cream cheese
+         INGREDIENTS: ounce packages cream cheese softened
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   PARG: fluffy
+     PREP: until
+      NON-INGREDIENT SPAN: fluffy
+
+
+SENTID: 1
+SENT: I would mix in salad dressing and 2 tablespoons reserved pineapple juice .
+PREDID: 41
+PRED: mix
+   DOBJ: NULL
+   PARG: salad dressing, 2 tablespoons reserved pineapple juice
+     PREP: in
+      INGREDIENT SPAN: salad dressing
+         INGREDIENTS: creamy salad dressing Whip
+      INGREDIENT SPAN:  2 tablespoons reserved pineapple juice
+         INGREDIENTS: ounce pineapple tidbits juice reserved
+
+
+SENTID: 2
+SENT: I would stir in the pineapple tidbits , the chicken , the almonds , and grapes until evenly coated .
+PREDID: 97
+PRED: stir
+   DOBJ: NULL
+   PARG: the pineapple tidbits , the chicken , the almonds , grapes
+     PREP: in
+      INGREDIENT SPAN:  grapes
+         INGREDIENTS: seedless grapes halved
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: ounce chunk chicken drained
+      INGREDIENT SPAN: the pineapple tidbits 
+         INGREDIENTS: ounce pineapple tidbits juice reserved
+      INGREDIENT SPAN:  the almonds 
+         INGREDIENTS: blanched slivered almonds
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+
+
+SENTID: 3
+SENT: I would chill until serving .
+PREDID: 166
+PRED: chill
+   DOBJ: NULL
+   PARG: serving
+     PREP: until
+      NON-INGREDIENT SPAN: serving
+
+

@@ -1,0 +1,240 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a rolling boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a rolling boil
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil
+
+
+SENTID: 2
+SENT: I would stir in egg noodles and return to a boil .
+PREDID: 87
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: uncooked egg noodles
+
+PREDID: 106
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the noodles uncovered , stirring occasionally , until cooked through but still slightly firm , about 5 minutes .
+PREDID: 120
+PRED: cook
+   DOBJ: NULL
+   PARG: the noodles uncovered , stirring occasionally , until cooked through but still slightly firm , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the noodles uncovered 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until cooked through but still slightly firm 
+
+
+SENTID: 4
+SENT: I would drain well .
+PREDID: 218
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would sprinkle both sides of chicken breasts with salt and seasoned salt .
+PREDID: 228
+PRED: sprinkle
+   DOBJ: both sides of chicken breasts
+      INGREDIENT SPAN: both sides of chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: salt, seasoned salt
+     PREP: with
+      INGREDIENT SPAN:  seasoned salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: salt
+         INGREDIENTS: seasoned salt
+
+
+SENTID: 6
+SENT: I would heat vegetable oil in a large skillet over medium heat and cook chicken breast halves in the hot oil until browned and no longer pink in the middle , 5 to 8 minutes per side .
+PREDID: 285
+PRED: heat
+   DOBJ: vegetable oil
+      INGREDIENT SPAN: vegetable oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+PREDID: 333
+PRED: cook
+   DOBJ: chicken breast halves in the hot oil
+      INGREDIENT SPAN: chicken breast halves in the hot oil
+         INGREDIENTS: ounce condensed cream chicken soup
+   PARG: browned, no longer pink in the middle , 5 to 8 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  5 to 8 minutes per side
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  no longer pink in the middle 
+
+
+SENTID: 7
+SENT: I would set chicken breasts aside .
+PREDID: 425
+PRED: set
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would mix cream of mushroom and cream of chicken soups , Cheddar cheese , the mushrooms , and garlic in a large bowl .
+PREDID: 448
+PRED: mix
+   DOBJ: cream of mushroom, cream of chicken soups , Cheddar cheese , the mushrooms , garlic
+      INGREDIENT SPAN:  Cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: cream of mushroom
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: ounce sliced mushrooms drained
+      NON-INGREDIENT SPAN:  cream of chicken soups 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 9
+SENT: I would spread noodles in an even layer into the bottom of an 8x8-inch baking dish .
+PREDID: 535
+PRED: spread
+   DOBJ: noodles in an even layer
+      NON-INGREDIENT SPAN: noodles in an even layer
+   PARG: the bottom of an 8x8-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of an 8x8-inch baking dish
+
+
+SENTID: 10
+SENT: I would arrange asparagus spears in a layer over the noodles .
+PREDID: 597
+PRED: arrange
+   DOBJ: asparagus spears
+      INGREDIENT SPAN: asparagus spears
+         INGREDIENTS: ounce extralong asparagus drained
+   PARG: a layer over the noodles
+     PREP: in
+      NON-INGREDIENT SPAN: a layer over the noodles
+
+
+SENTID: 11
+SENT: I would dice chicken breasts and spread over the asparagus spears .
+PREDID: 642
+PRED: dice
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+
+PREDID: 663
+PRED: spread
+   DOBJ: NULL
+   PARG: the asparagus spears
+     PREP: over
+      NON-INGREDIENT SPAN: the asparagus spears
+
+
+SENTID: 12
+SENT: I would pour soup mixture over the asparagus .
+PREDID: 692
+PRED: pour
+   DOBJ: soup mixture
+      NON-INGREDIENT SPAN: soup mixture
+   PARG: the asparagus
+     PREP: over
+      NON-INGREDIENT SPAN: the asparagus
+
+
+SENTID: 13
+SENT: I would sprinkle cracker crumbs evenly over the casserole ;
+PREDID: 724
+PRED: sprinkle
+   DOBJ: cracker crumbs
+      INGREDIENT SPAN: cracker crumbs
+         INGREDIENTS: crushed buttery round crackers
+   OARG: evenly over the casserole
+      NON-INGREDIENT SPAN: evenly over the casserole
+
+
+SENTID: 14
+SENT: I would drizzle melted butter over the crumbs .
+PREDID: 768
+PRED: drizzle
+   DOBJ: melted butter
+      INGREDIENT SPAN: melted butter
+         INGREDIENTS: butter melted
+   PARG: the crumbs
+     PREP: over
+      NON-INGREDIENT SPAN: the crumbs
+
+
+SENTID: 15
+SENT: I would cover the dish and bake in the preheated oven for 15 minutes .
+PREDID: 801
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+
+PREDID: 816
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 15 minutes
+
+
+SENTID: 16
+SENT: I would remove the cover and bake until the casserole is bubbling and the crumbs are browned , about 15 more minutes .
+PREDID: 851
+PRED: remove
+   DOBJ: the cover
+      NON-INGREDIENT SPAN: the cover
+   OARG: the crumbs are browned , about 15 more minutes
+      NON-INGREDIENT SPAN: the crumbs are browned 
+      NON-INGREDIENT SPAN:  about 15 more minutes
+
+PREDID: 868
+PRED: bake
+   DOBJ: NULL
+   PARG: the casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is bubbling
+
+
+SENTID: 17
+SENT: I would allow to stand 10 minutes before serving .
+PREDID: 941
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand 10 minutes before serving
+      NON-INGREDIENT SPAN: to stand 10 minutes before serving
+
+

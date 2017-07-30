@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would heat oil in a Dutch oven or heavy pot over medium heat ;
+PREDID: 38
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a dutch oven or heavy pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a dutch oven or heavy pot over medium heat
+
+
+SENTID: 2
+SENT: I would cook pork in oil until evenly browned on all sides , about 15 minutes .
+PREDID: 82
+PRED: cook
+   DOBJ: pork
+      INGREDIENT SPAN: pork
+         INGREDIENTS: pork picnic roast
+   PARG: oil
+     PREP: in
+      NON-INGREDIENT SPAN: oil
+   PARG: evenly browned on all sides , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: evenly browned on all sides 
+
+
+SENTID: 3
+SENT: I would add beer .
+PREDID: 139
+PRED: add
+   DOBJ: beer
+      INGREDIENT SPAN: beer
+         INGREDIENTS: fluid ounce bottle beer
+
+
+SENTID: 4
+SENT: I would cover Dutch oven and bake in the preheated oven until pork is very tender , about 2 hours .
+PREDID: 147
+PRED: cover
+   DOBJ: Dutch oven, bake
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: Dutch oven
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: pork is very tender , about 2 hours
+     PREP: until
+      NON-INGREDIENT SPAN: pork is very tender 
+      NON-INGREDIENT SPAN:  about 2 hours
+
+
+SENTID: 5
+SENT: I would shred pork with a fork and transfer Dutch oven back to the stove top ;
+PREDID: 220
+PRED: shred
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+PREDID: 241
+PRED: transfer
+   DOBJ: Dutch oven
+      NON-INGREDIENT SPAN: Dutch oven
+   PARG: the stove top
+     PREP: to
+      NON-INGREDIENT SPAN: the stove top
+   OARG: back
+      NON-INGREDIENT SPAN: back
+
+
+SENTID: 6
+SENT: I would stir in onion .
+PREDID: 276
+PRED: stir
+   DOBJ: NULL
+   PARG: onion
+     PREP: in
+      INGREDIENT SPAN: onion
+         INGREDIENTS: large onion sliced
+
+
+SENTID: 7
+SENT: I would cook and stir over medium heat until onion is browned , about 15 minutes .
+PREDID: 288
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   PARG: onion is browned , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: onion is browned 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 348
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

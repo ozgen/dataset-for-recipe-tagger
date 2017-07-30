@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would cut eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs
+   PARG: half lengthwise
+     PREP: in
+      NON-INGREDIENT SPAN: half lengthwise
+
+
+SENTID: 1
+SENT: I would remove yolks ;
+PREDID: 24
+PRED: remove
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 2
+SENT: I would place in medium bowl .
+PREDID: 36
+PRED: place
+   DOBJ: NULL
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+
+
+SENTID: 3
+SENT: I would add Neufchatel cheese , the mayo , the mustard , the vinegar and sugar ;
+PREDID: 54
+PRED: add
+   DOBJ: Neufchatel cheese , the mayo , the mustard , the vinegar, sugar
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: GREY POUPON Dijon Mustard
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: white vinegar
+      INGREDIENT SPAN:  cheese 
+         INGREDIENTS: Cheese softened
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  the mayo 
+         INGREDIENTS: KRAFT Mayo Light Mayonnaise
+      INGREDIENT SPAN: Neufchatel cheese 
+         INGREDIENTS: ounce package PHILADELPHIA Neufchatel Cheese Fat Cream
+
+
+SENTID: 4
+SENT: I would mix until well blended .
+PREDID: 103
+PRED: mix
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would spoon mixture into large resealable plastic bag .
+PREDID: 123
+PRED: spoon
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: large resealable plastic bag
+     PREP: into
+      NON-INGREDIENT SPAN: large resealable plastic bag
+
+
+SENTID: 6
+SENT: I would cut small corner from bag and pipe filling into egg white halves .
+PREDID: 165
+PRED: cut
+   DOBJ: small corner
+      NON-INGREDIENT SPAN: small corner
+   PARG: bag, pipe filling into egg white halves
+     PREP: from
+      NON-INGREDIENT SPAN: bag
+      NON-INGREDIENT SPAN:  pipe filling into egg white halves
+
+
+SENTID: 7
+SENT: I would sprinkle with paprika .
+PREDID: 219
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: paprika
+     PREP: with
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 8
+SENT: I would add , if desired , your choice of Toppings -LRB- see Tips -RRB- just before serving .
+PREDID: 239
+PRED: add
+   DOBJ: your choice of Toppings -LRB- see Tips
+      NON-INGREDIENT SPAN: your choice of Toppings -LRB- see Tips
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: just
+      NON-INGREDIENT SPAN: just
+
+PREDID: 245
+PRED: desired
+   DOBJ: NULL
+   OARG: if
+      NON-INGREDIENT SPAN: if
+
+

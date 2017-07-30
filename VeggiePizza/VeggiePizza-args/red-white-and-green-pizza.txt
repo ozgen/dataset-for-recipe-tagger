@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a baking sheet .
+PREDID: 45
+PRED: grease
+   DOBJ: a baking sheet
+      NON-INGREDIENT SPAN: a baking sheet
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would spread the pizza dough in the prepared pan , and rub dough lightly with the olive oil .
+PREDID: 64
+PRED: spread
+   DOBJ: the pizza dough
+      INGREDIENT SPAN: the pizza dough
+         INGREDIENTS: ounce package pizza crust dough
+   PARG: the prepared pan
+     PREP: in
+      NON-INGREDIENT SPAN: the prepared pan
+   OARG: rub dough lightly with the olive oil
+      INGREDIENT SPAN: rub dough lightly with the olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 3
+SENT: I would stir together the ricotta cheese , Parmesan cheese , the spinach , artichoke hearts , the garlic , the salt , and pepper .
+PREDID: 134
+PRED: stir
+   DOBJ: the ricotta cheese , Parmesan cheese , the spinach , artichoke hearts , the garlic , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  artichoke hearts 
+         INGREDIENTS: ounce artichoke hearts drained chopped
+      INGREDIENT SPAN:  the spinach 
+         INGREDIENTS: frozen chopped spinach
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: the ricotta cheese 
+         INGREDIENTS: ricotta cheese
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN:  the garlic 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would spread the mixture evenly over the dough .
+PREDID: 224
+PRED: spread
+   DOBJ: NULL
+   PARG: the dough
+     PREP: over
+      NON-INGREDIENT SPAN: the dough
+   OARG: the mixture evenly
+      NON-INGREDIENT SPAN: the mixture evenly
+
+
+SENTID: 5
+SENT: I would sprinkle evenly with the shredded Italian cheese ;
+PREDID: 259
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the shredded italian cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the shredded italian cheese
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 6
+SENT: I would top with the sliced tomatoes .
+PREDID: 302
+PRED: top
+   DOBJ: NULL
+   PARG: the sliced tomatoes
+     PREP: with
+      INGREDIENT SPAN: the sliced tomatoes
+         INGREDIENTS: tomatoes sliced
+
+
+SENTID: 7
+SENT: I would bake in the preheated oven until crust is lightly browned and the cheese is melted and bubbly , about 20 minutes .
+PREDID: 327
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: crust is lightly browned
+     PREP: until
+      NON-INGREDIENT SPAN: crust is lightly browned
+   OARG: the cheese is melted, bubbly , about 20 minutes
+      NON-INGREDIENT SPAN:  bubbly 
+      NON-INGREDIENT SPAN: the cheese is melted
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+

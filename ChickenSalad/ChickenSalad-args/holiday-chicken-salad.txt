@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a medium bowl , I would mix together mayonnaise with paprika and seasoned salt .
+PREDID: 14
+PRED: mix
+   DOBJ: mayonnaise with paprika, seasoned salt
+      INGREDIENT SPAN:  seasoned salt
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN: mayonnaise with 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: mayonnaise with paprika
+         INGREDIENTS: paprika
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would blend in dried cranberries , the celery , bell pepper , the onion , and nuts .
+PREDID: 62
+PRED: blend
+   DOBJ: NULL
+   PARG: dried cranberries , the celery , bell pepper , the onion , nuts
+     PREP: in
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: minced green bell pepper
+      INGREDIENT SPAN: dried cranberries 
+         INGREDIENTS: dried cranberries
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN:  nuts
+
+
+SENTID: 2
+SENT: I would add chopped chicken , and mix well .
+PREDID: 118
+PRED: add
+   DOBJ: chopped chicken
+      INGREDIENT SPAN: chopped 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN: chopped chicken
+         INGREDIENTS: cubed cooked chicken meat
+
+PREDID: 139
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would season with black pepper to taste .
+PREDID: 147
+PRED: season
+   DOBJ: NULL
+   PARG: black pepper
+     PREP: with
+      INGREDIENT SPAN: black pepper
+         INGREDIENTS: ground black pepper taste
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 4
+SENT: I would chill 1 hour .
+PREDID: 176
+PRED: chill
+   DOBJ: 1 hour
+      NON-INGREDIENT SPAN: 1 hour
+
+

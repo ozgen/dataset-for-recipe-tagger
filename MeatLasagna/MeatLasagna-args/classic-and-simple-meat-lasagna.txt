@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 38
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 76
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would add the lasagna noodles a few at a time , and return to a boil .
+PREDID: 130
+PRED: add
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   OARG: the lasagna noodles a few at a time
+      INGREDIENT SPAN: the lasagna noodles a few at a time
+         INGREDIENTS: whole wheat lasagna noodles
+
+PREDID: 165
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 10 minutes .
+PREDID: 179
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 10 minutes
+     PREP: for
+      INGREDIENT SPAN: the pasta uncovered 
+         INGREDIENTS: ounce jars tomatobasil pasta sauce
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would remove the noodles to a plate .
+PREDID: 291
+PRED: remove
+   DOBJ: the noodles
+      NON-INGREDIENT SPAN: the noodles
+   PARG: a plate
+     PREP: to
+      NON-INGREDIENT SPAN: a plate
+
+
+SENTID: 5
+SENT: I would place the ground beef into a skillet over medium heat , add the garlic , garlic powder , the oregano , the salt , and black pepper to the skillet .
+
+SENTID: 6
+SENT: I would cook the meat , chopping it into small chunks as it cooks , until no longer pink , about 10 minutes .
+PREDID: 427
+PRED: cook
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   OARG: chopping it into small chunks as it cooks , until no longer pink , about 10 minutes
+      NON-INGREDIENT SPAN:  until no longer pink 
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: chopping it into small chunks as it cooks 
+
+
+SENTID: 7
+SENT: I would drain excess grease .
+PREDID: 507
+PRED: drain
+   DOBJ: excess grease
+      NON-INGREDIENT SPAN: excess grease
+
+
+SENTID: 8
+SENT: In a bowl , I would mix the cottage cheese , the eggs , and Parmesan cheese until thoroughly combined .
+PREDID: 533
+PRED: mix
+   DOBJ: the cottage cheese , the eggs , Parmesan cheese
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: shredded Parmesan cheese
+      INGREDIENT SPAN: the cottage cheese 
+         INGREDIENTS: ounce package cottage cheese
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+
+SENTID: 9
+SENT: I would place 4 noodles side by side into the bottom of a 9x13-inch baking pan ;
+PREDID: 599
+PRED: place
+   DOBJ: 4 noodles side
+      NON-INGREDIENT SPAN: 4 noodles side
+   PARG: side
+     PREP: by
+      NON-INGREDIENT SPAN: side
+   PARG: the bottom of a 9x13-inch baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of a 9x13-inch baking pan
+
+
+SENTID: 10
+SENT: I would top with a layer of the tomato-basil sauce , a layer of ground beef mixture , and a layer of the cottage cheese mixture .
+PREDID: 657
+PRED: top
+   DOBJ: NULL
+   PARG: a layer of the tomato-basil sauce , a layer of ground beef mixture , a layer of the cottage cheese mixture
+     PREP: with
+      INGREDIENT SPAN:  a layer of ground beef mixture 
+         INGREDIENTS: lean ground beef
+      INGREDIENT SPAN:  a layer of the cottage cheese mixture
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN: a layer of the tomato-basil sauce 
+
+
+SENTID: 11
+SENT: I would repeat layers twice more , ending with a layer of sauce ;
+PREDID: 754
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   OARG: twice more
+      NON-INGREDIENT SPAN: twice more
+   OARG: ending with a layer of sauce
+      NON-INGREDIENT SPAN: ending with a layer of sauce
+
+
+SENTID: 12
+SENT: I would sprinkle top with the mozzarella cheese .
+PREDID: 800
+PRED: sprinkle
+   DOBJ: top
+      NON-INGREDIENT SPAN: top
+   PARG: the mozzarella cheese
+     PREP: with
+      NON-INGREDIENT SPAN: the mozzarella cheese
+
+
+SENTID: 13
+SENT: I would cover the dish with aluminum foil .
+PREDID: 835
+PRED: cover
+   DOBJ: the dish
+      NON-INGREDIENT SPAN: the dish
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+
+SENTID: 14
+SENT: I would bake in the preheated oven until the casserole is bubbling and the cheese has melted , about 30 minutes .
+PREDID: 864
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the casserole is bubbling
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is bubbling
+   OARG: the cheese has melted , about 30 minutes
+      NON-INGREDIENT SPAN: the cheese has melted 
+      NON-INGREDIENT SPAN:  about 30 minutes
+
+
+SENTID: 15
+SENT: I would remove foil and bake until cheese has begun to brown , about 10 more minutes .
+PREDID: 950
+PRED: remove
+   DOBJ: foil, bake
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: foil
+   PARG: cheese has begun to brown , about 10 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 10 more minutes
+      NON-INGREDIENT SPAN: cheese has begun to brown 
+
+
+SENTID: 16
+SENT: I would allow to stand at least 10 minutes before serving .
+PREDID: 1013
+PRED: allow
+   DOBJ: NULL
+   OARG: to stand at least 10 minutes before serving
+      NON-INGREDIENT SPAN: to stand at least 10 minutes before serving
+
+

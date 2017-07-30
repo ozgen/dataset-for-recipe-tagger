@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: I would whisk together lime juice , red wine vinegar , the garlic , the honey , the salt , and pepper until blended .
+PREDID: 0
+PRED: whisk
+   DOBJ: lime juice , red wine vinegar , the garlic , the honey , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: red bell pepper seeded cut thin strips
+      INGREDIENT SPAN: lime juice 
+         INGREDIENTS: lime juice
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+   PARG: blended
+     PREP: until
+      NON-INGREDIENT SPAN: blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would slowly whisk in olive oil until incorporated .
+PREDID: 84
+PRED: whisk
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: in
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: incorporated
+   OARG: slowly
+      NON-INGREDIENT SPAN: slowly
+
+
+SENTID: 2
+SENT: I would mix half of this dressing with the chicken breasts , cover , and refrigerate for 1 hour .
+PREDID: 117
+PRED: mix
+   DOBJ: half of this dressing with the chicken breasts
+      INGREDIENT SPAN: half of this dressing with the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 169
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 1 hour
+     PREP: for
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 3
+SENT: I would refrigerate the remaining dressing for later use .
+PREDID: 189
+PRED: refrigerate
+   DOBJ: the remaining dressing for later use
+      NON-INGREDIENT SPAN: the remaining dressing for later use
+
+
+SENTID: 4
+SENT: I would heat an outdoor grill for medium-high heat .
+PREDID: 232
+PRED: heat
+   DOBJ: an outdoor grill for medium-high heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 5
+SENT: I would grill chicken breasts until no longer pink , about 6 minutes per side .
+PREDID: 269
+PRED: grill
+   DOBJ: chicken breasts
+      NON-INGREDIENT SPAN: chicken breasts
+   PARG: no longer pink , about 6 minutes per side
+     PREP: until
+      NON-INGREDIENT SPAN:  about 6 minutes per side
+      NON-INGREDIENT SPAN: no longer pink 
+
+
+SENTID: 6
+SENT: I would set aside and allow to cool while proceeding with recipe .
+PREDID: 327
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+PREDID: 338
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool while proceeding with recipe
+      NON-INGREDIENT SPAN: to cool while proceeding with recipe
+
+
+SENTID: 7
+SENT: I would toss together mango , black beans , bell pepper , and jicama in a large bowl with reserved dressing .
+PREDID: 375
+PRED: toss
+   DOBJ: mango , black beans , bell pepper , jicama
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: black pepper
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans drained rinsed
+      INGREDIENT SPAN: mango 
+         INGREDIENTS: ripe mango peeled pitted diced
+      INGREDIENT SPAN:  jicama
+         INGREDIENTS: jicama sliced matchsticks
+   PARG: a large bowl with reserved dressing
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl with reserved dressing
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would slice chicken into bite-sized pieces and toss with salad .
+PREDID: 457
+PRED: slice
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: bite-sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-sized pieces
+
+PREDID: 492
+PRED: toss
+   DOBJ: NULL
+   PARG: salad
+     PREP: with
+      NON-INGREDIENT SPAN: salad
+
+
+SENTID: 9
+SENT: To serve , line a serving bowl with the green leaf lettuce and mound the chicken salad into the middle .
+

@@ -1,0 +1,445 @@
+SENTID: 0
+SENT: I would preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: the oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would split the pumpkin in half , spoon out the seeds and place the pumpkin halves face down on a baking sheet .
+PREDID: 41
+PRED: split
+   DOBJ: the pumpkin in half
+      INGREDIENT SPAN: the pumpkin in half
+         INGREDIENTS: small sugar pumpkin
+
+PREDID: 63
+PRED: spoon
+   DOBJ: the seeds
+      NON-INGREDIENT SPAN: the seeds
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 82
+PRED: place face
+   DOBJ: the pumpkin halves
+      NON-INGREDIENT SPAN: the pumpkin halves
+   PARG: a baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: a baking sheet
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 2
+SENT: I would split the potatoes lengthwise and place on the pan with the pumpkin .
+PREDID: 126
+PRED: split
+   DOBJ: the potatoes lengthwise, place on the pan
+      INGREDIENT SPAN: the potatoes lengthwise
+         INGREDIENTS: large russet potatoes
+      NON-INGREDIENT SPAN:  place on the pan
+   PARG: the pumpkin
+     PREP: with
+      NON-INGREDIENT SPAN: the pumpkin
+
+
+SENTID: 3
+SENT: I would bake the pumpkin and potatoes for 1 hour .
+PREDID: 183
+PRED: bake
+   DOBJ: the pumpkin, potatoes for 1 hour
+      NON-INGREDIENT SPAN: the pumpkin
+      NON-INGREDIENT SPAN:  potatoes for 1 hour
+
+
+SENTID: 4
+SENT: I would remove them from the oven and let them cool .
+PREDID: 217
+PRED: remove
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 241
+PRED: let
+   DOBJ: NULL
+   OARG: them cool
+      NON-INGREDIENT SPAN: them cool
+
+
+SENTID: 5
+SENT: When the pumpkin has cooled , spoon out the flesh and put it into a large bowl .
+PREDID: 277
+PRED: spoon
+   DOBJ: the flesh
+      NON-INGREDIENT SPAN: the flesh
+   OARG: when the pumpkin has cooled
+      NON-INGREDIENT SPAN: when the pumpkin has cooled
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 296
+PRED: put
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a large bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: I would cut the potato into 1/2 inch cubes .
+PREDID: 316
+PRED: cut
+   DOBJ: the potato
+      NON-INGREDIENT SPAN: the potato
+   PARG: 1/2 inch cubes
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch cubes
+
+
+SENTID: 7
+SENT: To make the dough in a food processor fitted with a steel blade , put the flour and salt into the processor .
+PREDID: 347
+PRED: make
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a food processor fitted with a steel blade
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor fitted with a steel blade
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 397
+PRED: put
+   DOBJ: the flour, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour
+         INGREDIENTS: all-purpose flour
+   PARG: the processor
+     PREP: into
+      NON-INGREDIENT SPAN: the processor
+
+
+SENTID: 8
+SENT: I would add the butter .
+PREDID: 432
+PRED: add
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+
+
+SENTID: 9
+SENT: I would run the machine in spurts until the butter is in bits no bigger than pea-size .
+PREDID: 445
+PRED: run
+   DOBJ: the machine
+      NON-INGREDIENT SPAN: the machine
+   PARG: spurts
+     PREP: in
+      NON-INGREDIENT SPAN: spurts
+   PARG: the butter is in bits no bigger than pea-size
+     PREP: until
+      NON-INGREDIENT SPAN: the butter is in bits no bigger than pea-size
+
+
+SENTID: 10
+SENT: I would add 4 tablespoons ice water , and run the machine in spurts again just enough to bring the dough together .
+PREDID: 509
+PRED: add
+   DOBJ: 4 tablespoons ice water
+      INGREDIENT SPAN: 4 tablespoons ice water
+         INGREDIENTS: ice water
+   OARG: to bring the dough together
+      NON-INGREDIENT SPAN: to bring the dough together
+
+PREDID: 536
+PRED: run
+   DOBJ: the machine in spurts
+      NON-INGREDIENT SPAN: the machine in spurts
+   OARG: again just enough
+      NON-INGREDIENT SPAN: again just enough
+
+
+SENTID: 11
+SENT: I would turn the dough onto a work surface and knead it with your hands until the dough is soft and smooth , handling the dough as little as possible .
+PREDID: 596
+PRED: turn
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a work surface
+     PREP: onto
+      NON-INGREDIENT SPAN: a work surface
+   OARG: handling the dough as little as possible
+      NON-INGREDIENT SPAN: handling the dough as little as possible
+
+PREDID: 627
+PRED: knead
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: your hands
+     PREP: with
+      NON-INGREDIENT SPAN: your hands
+   PARG: the dough is soft, smooth
+     PREP: until
+      NON-INGREDIENT SPAN:  smooth
+      NON-INGREDIENT SPAN: the dough is soft
+
+
+SENTID: 12
+SENT: I would form it into a flattened ball .
+PREDID: 711
+PRED: form
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: a flattened ball
+     PREP: into
+      NON-INGREDIENT SPAN: a flattened ball
+
+
+SENTID: 13
+SENT: I would chill the dough for at least 30 minutes .
+PREDID: 736
+PRED: chill
+   DOBJ: NULL
+   PARG: the dough for at least 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the dough for at least 30 minutes
+
+
+SENTID: 14
+SENT: I would preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 769
+PRED: preheat
+   DOBJ: the oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: the oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 15
+SENT: On a floured surface , I would roll out the dough , and use it to line the bottom and sides of either a 9 inch square baking pan or a large deep dish pie pan .
+PREDID: 828
+PRED: roll
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a floured surface
+     PREP: on
+      NON-INGREDIENT SPAN: a floured surface
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 847
+PRED: use
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: to line the bottom, sides of either a 9 inch square baking pan or a large deep dish pie pan
+      NON-INGREDIENT SPAN:  sides of either a 9 inch square baking pan or a large deep dish pie pan
+      NON-INGREDIENT SPAN: to line the bottom
+
+
+SENTID: 16
+SENT: I would pierce the dough with a fork in three places .
+PREDID: 927
+PRED: pierce
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: a fork in three places
+     PREP: with
+      NON-INGREDIENT SPAN: a fork in three places
+
+
+SENTID: 17
+SENT: I would line the sides of the pan with aluminum foil , and crimp the foil gently to hold the dough in place .
+PREDID: 964
+PRED: line
+   DOBJ: the sides of the pan
+      NON-INGREDIENT SPAN: the sides of the pan
+   PARG: aluminum foil
+     PREP: with
+      NON-INGREDIENT SPAN: aluminum foil
+
+PREDID: 1004
+PRED: crimp
+   DOBJ: the foil
+      NON-INGREDIENT SPAN: the foil
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+   OARG: to hold the dough in place
+      NON-INGREDIENT SPAN: to hold the dough in place
+
+
+SENTID: 18
+SENT: I would bake the crust for 15 minutes .
+PREDID: 1044
+PRED: bake
+   DOBJ: NULL
+   PARG: the crust for 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: the crust for 15 minutes
+
+
+SENTID: 19
+SENT: I would remove the pan from the oven .
+PREDID: 1069
+PRED: remove
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: the oven
+     PREP: from
+      NON-INGREDIENT SPAN: the oven
+
+
+SENTID: 20
+SENT: I would reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 1093
+PRED: reduce
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 21
+SENT: While the crust bakes , I would make the filling .
+PREDID: 1152
+PRED: make
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: the crust bakes
+     PREP: while
+      NON-INGREDIENT SPAN: the crust bakes
+
+
+SENTID: 22
+SENT: I would heat the oil in a large skillet over medium heat .
+PREDID: 1167
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 23
+SENT: I would add the onions , and cook them , stirring frequently , until they soften , about 5 minutes .
+PREDID: 1207
+PRED: add
+   DOBJ: the onions
+      INGREDIENT SPAN: the onions
+         INGREDIENTS: chopped onion
+
+PREDID: 1223
+PRED: cook
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   OARG: stirring frequently , until they soften , about 5 minutes
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until they soften 
+
+
+SENTID: 24
+SENT: I would add the garlic , and cook for 3 to 4 minutes more , stirring frequently .
+PREDID: 1281
+PRED: add
+   DOBJ: the garlic
+      INGREDIENT SPAN: the garlic
+         INGREDIENTS: cloves garlic
+
+PREDID: 1297
+PRED: cook
+   DOBJ: NULL
+   PARG: 3 to 4 minutes more , stirring frequently
+     PREP: for
+      NON-INGREDIENT SPAN: 3 to 4 minutes more 
+      NON-INGREDIENT SPAN:  stirring frequently
+
+
+SENTID: 25
+SENT: I would add the corn and cook for 2 more minutes .
+PREDID: 1339
+PRED: add
+   DOBJ: the corn
+      INGREDIENT SPAN: the corn
+         INGREDIENTS: fresh corn kernels
+
+PREDID: 1352
+PRED: cook
+   DOBJ: NULL
+   PARG: 2 more minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 2 more minutes
+
+
+SENTID: 26
+SENT: I would remove the skillet from the heat .
+PREDID: 1372
+PRED: remove
+   DOBJ: the skillet
+      NON-INGREDIENT SPAN: the skillet
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+
+SENTID: 27
+SENT: I would stir in the pumpkin , the potato , the cheese , the thyme , the allspice , the salt , and pepper .
+PREDID: 1400
+PRED: stir
+   DOBJ: NULL
+   PARG: the pumpkin , the potato , the cheese , the thyme , the allspice , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the cheese 
+         INGREDIENTS: shredded Monterey Jack cheese
+      INGREDIENT SPAN:  the thyme 
+         INGREDIENTS: chopped fresh thyme
+      INGREDIENT SPAN:  the allspice 
+         INGREDIENTS: ground allspice
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN: the pumpkin 
+      NON-INGREDIENT SPAN:  the potato 
+
+
+SENTID: 28
+SENT: Mix well , I would 
+
+SENTID: 29
+SENT: I would spoon into pre-baked pie shell .
+PREDID: 1461
+PRED: spoon
+   DOBJ: NULL
+   PARG: pre-baked pie shell
+     PREP: into
+      NON-INGREDIENT SPAN: pre-baked pie shell
+
+
+SENTID: 30
+SENT: I would bake the pie at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes or until veggies and cheese are piping hot .
+PREDID: 1488
+PRED: bake
+   DOBJ: NULL
+   PARG: the pie at 350 degrees f -lrb- 175 degrees c -rrb- for 30 minutes or until veggies, cheese are piping hot
+     PREP: for
+      NON-INGREDIENT SPAN: the pie at 350 degrees f -lrb- 175 degrees c -rrb- for 30 minutes or until veggies
+      NON-INGREDIENT SPAN:  cheese are piping hot
+
+
+SENTID: 31
+SENT: I would serve immediately .
+PREDID: 1572
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+

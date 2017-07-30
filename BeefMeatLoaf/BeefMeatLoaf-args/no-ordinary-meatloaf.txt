@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would spray a 9x5 inch loaf pan with nonstick cooking spray .
+PREDID: 38
+PRED: spray pan
+   DOBJ: a 9x5 inch loaf
+      NON-INGREDIENT SPAN: a 9x5 inch loaf
+   PARG: nonstick cooking spray
+     PREP: with
+      INGREDIENT SPAN: nonstick cooking spray
+         INGREDIENTS: serving cooking spray
+
+
+SENTID: 2
+SENT: In food processor or blender , I would pulse stuffing mix to fine crumbs ;
+PREDID: 108
+PRED: pulse
+   DOBJ: stuffing mix
+      INGREDIENT SPAN: stuffing mix
+         INGREDIENTS: corn bread stuffing mix
+   PARG: food processor or blender
+     PREP: in
+      NON-INGREDIENT SPAN: food processor or blender
+   PARG: fine crumbs
+     PREP: to
+      NON-INGREDIENT SPAN: fine crumbs
+
+
+SENTID: 3
+SENT: I would place in large bowl .
+PREDID: 137
+PRED: place
+   DOBJ: NULL
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 4
+SENT: I would stir in ground beef , ground pork , the onion , green pepper , the tomatoes , the eggs , seasoned salt , seasoning blend , and pepper .
+PREDID: 154
+PRED: stir
+   DOBJ: NULL
+   PARG: ground beef , ground pork , the onion , green pepper , the tomatoes , the eggs , seasoned salt , seasoning blend , pepper
+     PREP: in
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  seasoning blend 
+         INGREDIENTS: garlic herb seasoning blend
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: diced green bell pepper
+      INGREDIENT SPAN:  ground pork 
+         INGREDIENTS: ground pork
+
+
+SENTID: 5
+SENT: I would use your hands to mix very well ;
+PREDID: 252
+PRED: use
+   DOBJ: your hands
+      NON-INGREDIENT SPAN: your hands
+   OARG: to mix very well
+      NON-INGREDIENT SPAN: to mix very well
+
+
+SENTID: 6
+SENT: I would pat into prepared pan .
+PREDID: 278
+PRED: pat
+   DOBJ: NULL
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 7
+SENT: I would bake in preheated oven until no longer pink in the center , 45 minutes to 1 hour .
+PREDID: 297
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: no longer pink in the center , 45 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  45 minutes
+      NON-INGREDIENT SPAN: no longer pink in the center 
+   PARG: 1 hour
+     PREP: to
+      NON-INGREDIENT SPAN: 1 hour
+
+
+SENTID: 8
+SENT: An instant-read thermometer inserted into the center should read at least 160 degrees F -LRB- 72 degrees C -RRB- .
+
+SENTID: 9
+SENT: I would cool for 5 to 10 minutes before slicing .
+PREDID: 362
+PRED: cool
+   DOBJ: NULL
+   PARG: 5 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 10 minutes
+   PARG: slicing
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+
+

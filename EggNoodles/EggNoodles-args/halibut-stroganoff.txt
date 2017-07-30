@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a large pot of salted water boil egg noodles until al dente .
+
+SENTID: 1
+SENT: I would drain well .
+PREDID: 51
+PRED: drain
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: In a large saucepan over medium-high heat saute butter , I would the onion , and garlic until onions are soft .
+
+SENTID: 3
+SENT: I would add flour and mushrooms .
+PREDID: 61
+PRED: add
+   DOBJ: flour, mushrooms
+      INGREDIENT SPAN: flour
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  mushrooms
+         INGREDIENTS: fresh mushrooms sliced
+
+
+SENTID: 4
+SENT: I would cook 5 minutes .
+PREDID: 82
+PRED: cook
+   DOBJ: NULL
+   PARG: 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 5
+SENT: I would add mushroom soup to saucepan , simmer uncovered 10 minutes .
+
+SENTID: 6
+SENT: I would add cooked halibut and stir in sour cream .
+PREDID: 146
+PRED: add
+   DOBJ: cooked halibut
+      INGREDIENT SPAN: cooked halibut
+         INGREDIENTS: halibut cooked flaked
+
+PREDID: 165
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: in
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: ounce condensed cream mushroom soup
+
+
+SENTID: 7
+SENT: I would heat through .
+PREDID: 181
+PRED: heat
+   DOBJ: NULL
+   OARG: through
+      NON-INGREDIENT SPAN: through
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 193
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+
+
+SENTID: 9
+SENT: I would serve sauce over egg noodles , sprinkle parsley on top .
+PREDID: 217
+PRED: serve
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+   PARG: egg noodles , sprinkle parsley on top
+     PREP: over
+      INGREDIENT SPAN:  sprinkle parsley on top
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: egg noodles 
+         INGREDIENTS: ounce package egg noodles
+
+
+SENTID: 10
+SENT: I would serve hot .
+PREDID: 263
+PRED: serve
+   DOBJ: NULL
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would place pumpkin halves cut side down on a medium baking sheet , and cover with foil .
+PREDID: 38
+PRED: place cut
+   DOBJ: pumpkin halves, side
+      INGREDIENT SPAN: pumpkin halves
+         INGREDIENTS: medium sugar pumpkin seeded halved
+      NON-INGREDIENT SPAN:  side
+   OARG: down on a medium baking sheet
+      NON-INGREDIENT SPAN: down on a medium baking sheet
+
+PREDID: 91
+PRED: cover
+   DOBJ: NULL
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+
+SENTID: 2
+SENT: I would bake 90 minutes , or until flesh is easily mashed with a fork .
+PREDID: 105
+PRED: bake
+   DOBJ: NULL
+   PARG: 90 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 90 minutes
+
+PREDID: 139
+PRED: is mashed
+   DOBJ: NULL
+   PARG: flesh
+     PREP: until
+      NON-INGREDIENT SPAN: flesh
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   OARG: easily
+      NON-INGREDIENT SPAN: easily
+
+
+SENTID: 3
+SENT: I would cool , scoop pumpkin flesh from shell , and mash .
+PREDID: 155
+PRED: cool and scoop
+   DOBJ: pumpkin flesh
+      NON-INGREDIENT SPAN: pumpkin flesh
+   PARG: shell
+     PREP: from
+      NON-INGREDIENT SPAN: shell
+
+
+SENTID: 4
+SENT: I would increase oven temperature to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 195
+PRED: increase
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 400 degrees f -lrb- 200 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 400 degrees f -lrb- 200 degrees c
+
+
+SENTID: 5
+SENT: In a medium bowl , I would mix mashed pumpkin , the honey , the cinnamon , the ginger , the cloves , the nutmeg , and salt .
+PREDID: 259
+PRED: mix
+   DOBJ: mashed pumpkin , the honey , the cinnamon , the ginger , the cloves , the nutmeg , salt
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the honey 
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN: mashed pumpkin 
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 6
+SENT: I would gradually blend in heavy cream and eggs .
+PREDID: 329
+PRED: blend
+   DOBJ: NULL
+   PARG: heavy cream, eggs
+     PREP: in
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: heavy cream
+         INGREDIENTS: heavy cream
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 7
+SENT: I would pour into crusts , and top with pecans .
+PREDID: 354
+PRED: pour
+   DOBJ: NULL
+   PARG: crusts
+     PREP: into
+      INGREDIENT SPAN: crusts
+         INGREDIENTS: inch unbaked deep dish pie crusts
+
+PREDID: 372
+PRED: top
+   DOBJ: NULL
+   PARG: pecans
+     PREP: with
+      INGREDIENT SPAN: pecans
+         INGREDIENTS: chopped pecans
+
+
+SENTID: 8
+SENT: I would bake pies in the preheated oven 50 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 386
+PRED: bake
+   DOBJ: pies
+      NON-INGREDIENT SPAN: pies
+   PARG: the preheated oven 50 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven 50 minutes
+
+

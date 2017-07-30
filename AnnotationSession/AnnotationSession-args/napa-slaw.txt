@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: I would melt butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would cook and stir sunflower kernels and ramen noodles in hot butter until sunflower kernels are lightly browned and fragrant , 3 to 5 minutes .
+PREDID: 40
+PRED: cook and stir
+   DOBJ: sunflower kernels, ramen noodles
+      INGREDIENT SPAN: sunflower kernels
+         INGREDIENTS: sunflower kernels
+      INGREDIENT SPAN:  ramen noodles
+         INGREDIENTS: (3 ounce) package ramen noodles
+   PARG: hot butter
+     PREP: in
+      NON-INGREDIENT SPAN: hot butter
+
+
+SENTID: 2
+SENT: I would remove from heat and transfer into a bowl to cool .
+PREDID: 155
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 172
+PRED: transfer
+   DOBJ: NULL
+   PARG: a bowl to cool
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl to cool
+
+
+SENTID: 3
+SENT: I would stir sunflower seeds and ramen noodles with napa cabbage and spring onions in a large salad bowl .
+PREDID: 196
+PRED: stir
+   DOBJ: sunflower seeds, ramen noodles
+      NON-INGREDIENT SPAN: sunflower seeds
+      NON-INGREDIENT SPAN:  ramen noodles
+   PARG: napa cabbage, spring onions in a large salad bowl
+     PREP: with
+      INGREDIENT SPAN:  spring onions in a large salad bowl
+         INGREDIENTS: spring onions
+      INGREDIENT SPAN: napa cabbage
+         INGREDIENTS: head napa cabbage
+
+
+SENTID: 4
+SENT: I would whisk vinegar , vegetable oil , sugar , and soy sauce together in a separate bowl until sugar has dissolved ;
+PREDID: 277
+PRED: whisk
+   DOBJ: vinegar , vegetable oil , sugar , soy sauce
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  vegetable oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: vinegar 
+         INGREDIENTS: vinegar
+   PARG: a separate bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate bowl
+
+
+SENTID: 5
+SENT: I would pour dressing over salad and toss .
+PREDID: 366
+PRED: pour
+   DOBJ: NULL
+
+

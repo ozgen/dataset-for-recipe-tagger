@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would lightly coat 12 -LRB- 2/6 .5 cm -RRB- non-stick muffin pan cups with cooking spray .
+PREDID: 45
+PRED: coat
+   DOBJ: 12 -LRB- 2/6 .5 cm -RRB- non-stick muffin pan cups with cooking spray
+      NON-INGREDIENT SPAN: 12 -LRB- 2/6 .5 cm -RRB- non-stick muffin pan cups with cooking spray
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: In medium bowl , I would combine cereal and milk .
+PREDID: 112
+PRED: combine
+   DOBJ: cereal, milk
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: % milk
+      INGREDIENT SPAN: cereal
+         INGREDIENTS: AllBran Original cereal
+   PARG: medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: medium bowl
+
+
+SENTID: 3
+SENT: I would let stand for about 2 minutes or until cereal softens .
+PREDID: 133
+PRED: let
+   DOBJ: NULL
+   OARG: stand for about 2 minutes or until cereal softens
+      NON-INGREDIENT SPAN: stand for about 2 minutes or until cereal softens
+
+
+SENTID: 4
+SENT: In large bowl , I would combine flour , the sugar , cocoa powder , baking powder , baking soda and salt .
+PREDID: 190
+PRED: combine
+   DOBJ: flour , the sugar , cocoa powder , baking powder , baking soda, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: cocoa powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  baking soda
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 5
+SENT: I would set aside .
+PREDID: 252
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would add egg , the oil and mashed bananas to cereal mixture ;
+PREDID: 261
+PRED: add
+   DOBJ: egg , the oil, mashed bananas
+      INGREDIENT SPAN:  the oil
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  mashed bananas
+         INGREDIENTS: large ripe bananas reserve thin slices mash remainder
+      INGREDIENT SPAN: egg 
+         INGREDIENTS: egg
+   PARG: cereal mixture
+     PREP: to
+      NON-INGREDIENT SPAN: cereal mixture
+
+
+SENTID: 7
+SENT: I would beat well .
+PREDID: 303
+PRED: beat
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 8
+SENT: I would add liquid mixture to dry ingredients , stirring only until just combined .
+PREDID: 312
+PRED: add
+   DOBJ: liquid mixture
+      NON-INGREDIENT SPAN: liquid mixture
+   PARG: dry ingredients
+     PREP: to
+      NON-INGREDIENT SPAN: dry ingredients
+   OARG: stirring only until just combined
+      NON-INGREDIENT SPAN: stirring only until just combined
+
+
+SENTID: 9
+SENT: I would fold in chocolate chips .
+PREDID: 375
+PRED: fold
+   DOBJ: NULL
+   PARG: chocolate chips
+     PREP: in
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: semisweet chocolate chips
+
+
+SENTID: 10
+SENT: I would portion batter evenly into prepared muffin cups .
+PREDID: 403
+PRED: batter
+   DOBJ: NULL
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+   OARG: portion
+      NON-INGREDIENT SPAN: portion
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 11
+SENT: I would top each cup with a reserved banana slice .
+PREDID: 438
+PRED: top
+   DOBJ: each cup
+      NON-INGREDIENT SPAN: each cup
+   PARG: a reserved banana slice
+     PREP: with
+      NON-INGREDIENT SPAN: a reserved banana slice
+
+
+SENTID: 12
+SENT: I would bake in preheated oven for 20 minutes or until tops spring back when lightly touched .
+PREDID: 473
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 20 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 20 minutes
+   OARG: spring
+      NON-INGREDIENT SPAN: spring
+   OARG: back when lightly touched
+      NON-INGREDIENT SPAN: back when lightly touched
+
+

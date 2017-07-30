@@ -1,0 +1,214 @@
+SENTID: 0
+SENT: I would place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs
+   PARG: a saucepan in a single layer
+     PREP: into
+      NON-INGREDIENT SPAN: a saucepan in a single layer
+
+PREDID: 42
+PRED: fill
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+   OARG: to cover the eggs by 1 inch
+      NON-INGREDIENT SPAN: to cover the eggs by 1 inch
+
+
+SENTID: 1
+SENT: I would cover the saucepan and bring the water to a boil over high heat .
+PREDID: 77
+PRED: cover
+   DOBJ: the saucepan
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 96
+PRED: bring
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 129
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat
+     PREP: from
+      NON-INGREDIENT SPAN: the heat
+
+PREDID: 149
+PRED: let stand
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: the hot water for 15 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the hot water for 15 minutes
+
+
+SENTID: 3
+SENT: I would pour out the hot water ;
+PREDID: 190
+PRED: pour
+   DOBJ: the hot water
+      NON-INGREDIENT SPAN: the hot water
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+
+SENTID: 4
+SENT: I would cool the eggs under cold running water in the sink .
+PREDID: 209
+PRED: cool
+   DOBJ: the eggs
+      NON-INGREDIENT SPAN: the eggs
+   PARG: cold running water in the sink
+     PREP: under
+      NON-INGREDIENT SPAN: cold running water in the sink
+
+
+SENTID: 5
+SENT: I would peel and chop the cooled eggs .
+PREDID: 251
+PRED: peel and chop
+   DOBJ: the cooled eggs
+      NON-INGREDIENT SPAN: the cooled eggs
+
+
+SENTID: 6
+SENT: I would place the potatoes into a large pot and cover with water .
+PREDID: 276
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: red potatoes
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 308
+PRED: cover
+   DOBJ: NULL
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 7
+SENT: I would bring to a boil over high heat ,
+PREDID: 323
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 8
+SENT: I would reduce heat to medium-low , the cover , and simmer until tender , 15 to 20 minutes .
+PREDID: 348
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low , the cover
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low 
+      NON-INGREDIENT SPAN:  the cover
+
+PREDID: 383
+PRED: simmer
+   DOBJ: NULL
+   PARG: tender , 15 to 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  15 to 20 minutes
+
+
+SENTID: 9
+SENT: I would drain and refrigerate until cold .
+PREDID: 412
+PRED: drain and refrigerate
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+
+SENTID: 10
+SENT: I would peel and cube once cold .
+PREDID: 441
+PRED: peel and cube
+   DOBJ: once cold
+      NON-INGREDIENT SPAN: once cold
+
+
+SENTID: 11
+SENT: I would stir together the mayonnaise , ranch dressing , the relish , the mustard , the salt , the pepper , the paprika , and celery seed in a mixing bowl .
+PREDID: 461
+PRED: stir
+   DOBJ: the mayonnaise , ranch dressing , the relish , the mustard , the salt , the pepper , the paprika , celery seed in a mixing bowl
+      INGREDIENT SPAN:  celery seed in a mixing bowl
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the paprika 
+         INGREDIENTS: paprika
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: prepared yellow mustard
+      INGREDIENT SPAN: the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  ranch dressing 
+         INGREDIENTS: ranch dressing
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the relish 
+         INGREDIENTS: dill pickle relish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would add the eggs , the potatoes , the onion , the pepperoncini , and olives ;
+PREDID: 563
+PRED: add
+   DOBJ: the eggs , the potatoes , the onion , the pepperoncini , olives
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the pepperoncini 
+         INGREDIENTS: pepperoncini
+      NON-INGREDIENT SPAN: the eggs 
+      NON-INGREDIENT SPAN:  the potatoes 
+
+
+SENTID: 13
+SENT: I would stir until evenly mixed .
+PREDID: 612
+PRED: stir
+   DOBJ: NULL
+   PARG: evenly mixed
+     PREP: until
+      NON-INGREDIENT SPAN: evenly mixed
+
+
+SENTID: 14
+SENT: I would cover and refrigerate at least 2 hours before serving .
+PREDID: 633
+PRED: cover and refrigerate
+   DOBJ: NULL
+   PARG: least 2 hours
+     PREP: at
+      NON-INGREDIENT SPAN: least 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

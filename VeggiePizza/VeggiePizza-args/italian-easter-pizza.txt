@@ -1,0 +1,297 @@
+SENTID: 0
+SENT: I would make the dough first .
+PREDID: 0
+PRED: make
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   OARG: first
+      NON-INGREDIENT SPAN: first
+
+
+SENTID: 1
+SENT: In a large bowl , I would stir together the flour , the salt , the sugar and baking powder .
+PREDID: 31
+PRED: stir
+   DOBJ: the flour , the salt , the sugar, baking powder
+      INGREDIENT SPAN:  baking powder
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would combine the oil , the milk and 3 eggs , pour into the dry ingredients and stir until the dough holds together well .
+PREDID: 78
+PRED: combine
+   DOBJ: the oil , the milk, 3 eggs
+      INGREDIENT SPAN: the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  3 eggs
+         INGREDIENTS: hardcooked eggs sliced
+
+PREDID: 108
+PRED: pour
+   DOBJ: NULL
+   PARG: the dry ingredients
+     PREP: into
+      NON-INGREDIENT SPAN: the dry ingredients
+
+PREDID: 136
+PRED: stir
+   DOBJ: NULL
+   PARG: the dough holds together well
+     PREP: until
+      NON-INGREDIENT SPAN: the dough holds together well
+
+
+SENTID: 3
+SENT: If you have a stand mixer , I would use the dough hook attachment to mix until smooth .
+PREDID: 189
+PRED: use
+   DOBJ: the dough hook attachment
+      NON-INGREDIENT SPAN: the dough hook attachment
+   PARG: you have a stand mixer
+     PREP: if
+      NON-INGREDIENT SPAN: you have a stand mixer
+   OARG: to mix until smooth
+      NON-INGREDIENT SPAN: to mix until smooth
+
+
+SENTID: 4
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 231
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 5
+SENT: I would divide the dough in half .
+PREDID: 272
+PRED: divide
+   DOBJ: the dough in half
+      NON-INGREDIENT SPAN: the dough in half
+
+
+SENTID: 6
+SENT: I would roll out one half of the dough to fit a 14x18 inch baking sheet with sides that come up at least 1/2 inch .
+PREDID: 293
+PRED: roll
+   DOBJ: one half of the dough
+      NON-INGREDIENT SPAN: one half of the dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: to fit a 14x18 inch baking sheet with sides that come up at least 1/2 inch
+      NON-INGREDIENT SPAN: to fit a 14x18 inch baking sheet with sides that come up at least 1/2 inch
+
+
+SENTID: 7
+SENT: If the dough is too stiff to roll out to that size , let it rest for a few minutes and come back to it .
+PREDID: 399
+PRED: stiff
+   DOBJ: NULL
+   PARG: the dough is too
+     PREP: if
+      NON-INGREDIENT SPAN: the dough is too
+   OARG: to roll out to that size , let it rest for a few minutes, come back to it
+      NON-INGREDIENT SPAN: to roll out to that size 
+      NON-INGREDIENT SPAN:  let it rest for a few minutes
+      NON-INGREDIENT SPAN:  come back to it
+
+
+SENTID: 8
+SENT: I would fit the dough into the baking sheet .
+PREDID: 456
+PRED: fit
+   DOBJ: the dough
+      NON-INGREDIENT SPAN: the dough
+   PARG: the baking sheet
+     PREP: into
+      NON-INGREDIENT SPAN: the baking sheet
+
+
+SENTID: 9
+SENT: I would set aside .
+PREDID: 486
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: I would place the sausage into a large skillet over medium heat .
+PREDID: 495
+PRED: place
+   DOBJ: the sausage
+      INGREDIENT SPAN: the sausage
+         INGREDIENTS: mild Italian sausage
+   PARG: a large skillet over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 11
+SENT: I would cook , stirring to crumble , until no longer pink .
+PREDID: 542
+PRED: cook
+   DOBJ: NULL
+   OARG: stirring to crumble , until no longer pink
+      NON-INGREDIENT SPAN:  until no longer pink
+      NON-INGREDIENT SPAN: stirring to crumble 
+
+
+SENTID: 12
+SENT: I would drain off the grease and set aside to cool .
+PREDID: 583
+PRED: drain
+   DOBJ: the grease
+      NON-INGREDIENT SPAN: the grease
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 603
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 13
+SENT: I would mix together the ricotta cheese , 5 eggs , the salt , the pepper and hard-cooked eggs in a large bowl .
+PREDID: 618
+PRED: mix
+   DOBJ: the ricotta cheese , 5 eggs , the salt , the pepper, hard-cooked eggs
+      INGREDIENT SPAN:  5 eggs 
+         INGREDIENTS: hardcooked eggs sliced
+      INGREDIENT SPAN:  hard-cooked eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN: the ricotta cheese 
+         INGREDIENTS: ounce containers ricotta cheese
+      NON-INGREDIENT SPAN:  the salt 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 14
+SENT: When the sausage is cool , stir it into the cheese and eggs .
+PREDID: 715
+PRED: stir
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the cheese, eggs
+     PREP: into
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: hardcooked eggs sliced
+      NON-INGREDIENT SPAN: the cheese
+   OARG: when the sausage is cool
+      NON-INGREDIENT SPAN: when the sausage is cool
+
+
+SENTID: 15
+SENT: I would spread this mixture evenly over the crust in the pan .
+PREDID: 742
+PRED: spread
+   DOBJ: NULL
+   PARG: the crust in the pan
+     PREP: over
+      NON-INGREDIENT SPAN: the crust in the pan
+   OARG: this mixture evenly
+      NON-INGREDIENT SPAN: this mixture evenly
+
+
+SENTID: 16
+SENT: I would roll out the remaining dough and place on top .
+PREDID: 786
+PRED: roll
+   DOBJ: the remaining dough
+      NON-INGREDIENT SPAN: the remaining dough
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 813
+PRED: place
+   DOBJ: NULL
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 17
+SENT: I would roll the edges and pinch together to seal .
+PREDID: 824
+PRED: roll
+   DOBJ: the edges
+      NON-INGREDIENT SPAN: the edges
+
+PREDID: 839
+PRED: pinch
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: to seal
+      NON-INGREDIENT SPAN: to seal
+
+
+SENTID: 18
+SENT: I would brush the top crust with the beaten egg .
+PREDID: 859
+PRED: brush
+   DOBJ: the top crust
+      NON-INGREDIENT SPAN: the top crust
+   PARG: the beaten egg
+     PREP: with
+      INGREDIENT SPAN: the beaten egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 19
+SENT: I would bake in the preheated oven until the crust is golden brown and the filling is bubbly , about 1 hour .
+PREDID: 892
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the crust is golden brown
+     PREP: until
+      NON-INGREDIENT SPAN: the crust is golden brown
+   OARG: the filling is bubbly , about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: the filling is bubbly 
+
+
+SENTID: 20
+SENT: I would cool for at least 10 minutes before cutting into servings .
+PREDID: 973
+PRED: cool
+   DOBJ: NULL
+   PARG: at least 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: at least 10 minutes
+   PARG: cutting into servings
+     PREP: before
+      NON-INGREDIENT SPAN: cutting into servings
+
+
+SENTID: 21
+SENT: This can be served warm or cold .
+

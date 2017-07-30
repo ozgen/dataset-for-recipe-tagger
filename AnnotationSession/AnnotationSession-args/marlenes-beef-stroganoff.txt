@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: I would spray a large skillet with cooking spray , and cook the flank steak and green peppers over medium heat until the steak pieces have begun to brown , about 10 minutes .
+PREDID: 0
+PRED: spray
+   DOBJ: a large skillet
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: cooking spray
+     PREP: with
+      INGREDIENT SPAN: cooking spray
+         INGREDIENTS: cooking spray
+
+PREDID: 38
+PRED: cook
+   DOBJ: the flank steak, green peppers
+      INGREDIENT SPAN: the flank steak
+         INGREDIENTS: beef flank steak
+      INGREDIENT SPAN:  green peppers
+         INGREDIENTS: green bell peppers
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 1
+SENT: I would transfer steak and peppers into a large saucepan , and stir in the beef consomme and French onion soup .
+PREDID: 135
+PRED: transfer
+   DOBJ: steak, peppers
+      NON-INGREDIENT SPAN: steak
+      NON-INGREDIENT SPAN:  peppers
+   PARG: a large saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: a large saucepan
+
+PREDID: 180
+PRED: stir
+   DOBJ: NULL
+   PARG: the beef consomme, french onion soup
+     PREP: in
+      INGREDIENT SPAN: the beef consomme
+         INGREDIENTS: (10.5 ounce) can condensed beef consomme (such as Campbell's ®)
+      INGREDIENT SPAN:  french onion soup
+         INGREDIENTS: (10.5 ounce) can condensed French onion soup (such as Campbell's ®)
+
+
+SENTID: 2
+SENT: I would bring to a boil , reduce heat to a simmer , and cover pan .
+PREDID: 220
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+PREDID: 233
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: a simmer
+     PREP: to
+      NON-INGREDIENT SPAN: a simmer
+
+PREDID: 256
+PRED: cover
+   DOBJ: pan
+      NON-INGREDIENT SPAN: pan
+
+
+SENTID: 3
+SENT: I would simmer until the beef is tender , about 1 hour and 20 minutes .
+PREDID: 265
+PRED: simmer
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would turn off heat .
+PREDID: 315
+PRED: turn
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 327
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 365
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 6
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 419
+PRED: stir
+   DOBJ: NULL
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: (8 ounce) package egg noodles
+
+PREDID: 442
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 7
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 456
+PRED: cook
+   DOBJ: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 8
+SENT: I would drain well in a colander set in the sink .
+PREDID: 567
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+
+
+SENTID: 9
+SENT: I would stir the sour cream into the meat mixture until thoroughly combined , and serve over the cooked noodles .
+PREDID: 600
+PRED: stir
+   DOBJ: the sour cream
+      INGREDIENT SPAN: the sour cream
+         INGREDIENTS: (16 ounce) container sour cream
+   PARG: the meat mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+
+PREDID: 661
+PRED: serve
+   DOBJ: NULL
+   PARG: the cooked noodles
+     PREP: over
+      NON-INGREDIENT SPAN: the cooked noodles
+
+

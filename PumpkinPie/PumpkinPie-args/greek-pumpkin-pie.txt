@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a rimmed baking sheet .
+PREDID: 38
+PRED: grease
+   DOBJ: a rimmed baking sheet
+      INGREDIENT SPAN: a rimmed baking sheet
+         INGREDIENTS: sheets frozen puff pastry
+
+
+SENTID: 2
+SENT: I would heat pumpkin puree in a skillet over medium heat , stirring occasionally , until most of the liquid has evaporated and puree is thick .
+PREDID: 63
+PRED: heat
+   DOBJ: pumpkin puree in a skillet over medium heat , stirring occasionally , until most of the liquid has evaporated, puree is thick
+      INGREDIENT SPAN: pumpkin puree in a skillet over medium heat 
+         INGREDIENTS: ounce pumpkin puree
+      NON-INGREDIENT SPAN:  puree is thick
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  until most of the liquid has evaporated
+
+
+SENTID: 3
+SENT: I would stir in sugar , the raisins , the semolina , the cinnamon , the cloves , and nutmeg .
+PREDID: 174
+PRED: stir
+   DOBJ: NULL
+   PARG: sugar , the raisins , the semolina , the cinnamon , the cloves , nutmeg
+     PREP: in
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the semolina 
+         INGREDIENTS: fine semolina
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cloves 
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 4
+SENT: I would remove from heat .
+PREDID: 229
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would lay one puff pastry sheet into the prepared baking sheet .
+PREDID: 244
+PRED: lay
+   DOBJ: one puff pastry sheet
+      NON-INGREDIENT SPAN: one puff pastry sheet
+   PARG: the prepared baking sheet
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking sheet
+
+
+SENTID: 6
+SENT: I would spread the pumpkin mixture over the pastry and cover with the remaining pastry sheet .
+PREDID: 292
+PRED: spread
+   DOBJ: the pumpkin mixture
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: the pastry
+     PREP: over
+      NON-INGREDIENT SPAN: the pastry
+
+PREDID: 331
+PRED: cover
+   DOBJ: NULL
+   PARG: the remaining pastry sheet
+     PREP: with
+      NON-INGREDIENT SPAN: the remaining pastry sheet
+
+
+SENTID: 7
+SENT: I would brush the top of the puff pastry with beaten egg .
+PREDID: 364
+PRED: brush
+   DOBJ: the top of the puff pastry
+      NON-INGREDIENT SPAN: the top of the puff pastry
+   PARG: beaten egg
+     PREP: with
+      INGREDIENT SPAN: beaten egg
+         INGREDIENTS: egg beaten
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until golden brown , 30 to 40 minutes .
+PREDID: 404
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven until golden brown , 30 to 40 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  30 to 40 minutes
+      NON-INGREDIENT SPAN: the preheated oven until golden brown 
+
+

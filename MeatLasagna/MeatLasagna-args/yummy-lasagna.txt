@@ -1,0 +1,241 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: In large skillet over medium-high heat , I would cook beef until brown ;
+PREDID: 165
+PRED: cook
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: lean ground beef
+   PARG: large skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet over medium-high heat
+   PARG: brown
+     PREP: until
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 184
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: In small saucepan , I would heat spaghetti sauce .
+PREDID: 206
+PRED: heat
+   DOBJ: spaghetti sauce
+      INGREDIENT SPAN: spaghetti sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+   PARG: small saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: small saucepan
+
+
+SENTID: 7
+SENT: In a medium bowl , I would stir together ricotta , the Romano , the egg , basil and garlic .
+PREDID: 239
+PRED: stir
+   DOBJ: ricotta , the Romano , the egg , basil, garlic
+      INGREDIENT SPAN:  the Romano 
+         INGREDIENTS: grated Romano cheese
+      INGREDIENT SPAN: ricotta 
+         INGREDIENTS: ricotta cheese
+      INGREDIENT SPAN:  garlic
+         INGREDIENTS: clove garlic pressed
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: dried basil
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 8
+SENT: I would coat the bottom of a 9 x 13 baking dish with a thin layer of spaghetti sauce .
+PREDID: 285
+PRED: coat
+   DOBJ: the bottom of a 9 x 13 baking dish
+      NON-INGREDIENT SPAN: the bottom of a 9 x 13 baking dish
+   PARG: a thin layer of spaghetti sauce
+     PREP: with
+      NON-INGREDIENT SPAN: a thin layer of spaghetti sauce
+
+
+SENTID: 9
+SENT: I would place 3 or 4 noodles , overlapping edges , over sauce .
+PREDID: 346
+PRED: place
+   DOBJ: 3 or 4 noodles , overlapping edges , over sauce
+      INGREDIENT SPAN: 3 or 4 noodles 
+         INGREDIENTS: lasagna noodles
+      NON-INGREDIENT SPAN:  overlapping edges 
+      NON-INGREDIENT SPAN:  over sauce
+
+
+SENTID: 10
+SENT: I would spread half of ricotta mixture over noodles .
+PREDID: 390
+PRED: spread
+   DOBJ: half of ricotta mixture
+      NON-INGREDIENT SPAN: half of ricotta mixture
+   PARG: noodles
+     PREP: over
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: lasagna noodles
+
+
+SENTID: 11
+SENT: I would cover ricotta with half of browned beef , half of pepperoni slices , and 1/4 of mozzarella cheese .
+PREDID: 428
+PRED: cover
+   DOBJ: ricotta
+      NON-INGREDIENT SPAN: ricotta
+   PARG: half of browned beef , half of pepperoni slices , 1/4 of mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN:  half of pepperoni slices 
+         INGREDIENTS: ounce package sliced pepperoni sausage
+      INGREDIENT SPAN:  1/4 of mozzarella cheese
+         INGREDIENTS: mozzarella cheese shredded
+      NON-INGREDIENT SPAN: half of browned beef 
+
+
+SENTID: 12
+SENT: I would repeat sauce , the noodle , the ricotta , the meat and cheese layers .
+PREDID: 509
+PRED: repeat
+   DOBJ: sauce , the noodle , the ricotta , the meat, cheese layers
+      INGREDIENT SPAN:  cheese layers
+         INGREDIENTS: mozzarella cheese shredded
+      NON-INGREDIENT SPAN: sauce 
+      NON-INGREDIENT SPAN:  the ricotta 
+      NON-INGREDIENT SPAN:  the meat
+      NON-INGREDIENT SPAN:  the noodle 
+
+
+SENTID: 13
+SENT: I would layer sauce and noodles again , and pour the remaining sauce over all , being sure to cover the edges .
+PREDID: 556
+PRED: layer
+   DOBJ: sauce, noodles
+      NON-INGREDIENT SPAN:  noodles
+      NON-INGREDIENT SPAN: sauce
+   OARG: again
+      NON-INGREDIENT SPAN: again
+
+PREDID: 585
+PRED: pour
+   DOBJ: the remaining sauce
+      NON-INGREDIENT SPAN: the remaining sauce
+   PARG: all
+     PREP: over
+      NON-INGREDIENT SPAN: all
+   OARG: being sure to cover the edges
+      NON-INGREDIENT SPAN: being sure to cover the edges
+
+
+SENTID: 14
+SENT: I would top with remaining mozzarella .
+PREDID: 636
+PRED: top
+   DOBJ: NULL
+   PARG: remaining mozzarella
+     PREP: with
+      NON-INGREDIENT SPAN: remaining mozzarella
+
+
+SENTID: 15
+SENT: I would cover the pan with foil and pierce foil 3 or 4 times with fork to ventilate .
+PREDID: 663
+PRED: cover
+   DOBJ: the pan
+      NON-INGREDIENT SPAN: the pan
+   PARG: foil
+     PREP: with
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 685
+PRED: pierce
+   DOBJ: NULL
+   OARG: foil 3 or 4 times with fork to ventilate
+      NON-INGREDIENT SPAN: foil 3 or 4 times with fork to ventilate
+
+
+SENTID: 16
+SENT: I would bake 45 minutes , remove foil , and bake 15 minutes more to brown the top .
+PREDID: 721
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+PREDID: 735
+PRED: remove
+   DOBJ: foil
+      NON-INGREDIENT SPAN: foil
+
+PREDID: 749
+PRED: bake
+   DOBJ: NULL
+   PARG: brown the top
+     PREP: to
+      NON-INGREDIENT SPAN: brown the top
+   OARG: 15 minutes more
+      NON-INGREDIENT SPAN: 15 minutes more
+
+
+SENTID: 17
+SENT: I would let stand 10 minutes before serving .
+PREDID: 780
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: 10 minutes
+      NON-INGREDIENT SPAN: 10 minutes
+
+

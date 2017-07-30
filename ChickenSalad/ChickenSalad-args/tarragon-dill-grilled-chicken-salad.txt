@@ -1,0 +1,264 @@
+SENTID: 0
+SENT: To make the marinade , mix 1/2 cup lemon juice , olive oil , garlic , and red pepper flakes together in a bowl .
+
+SENTID: 1
+SENT: I would place the chicken breasts on a flat surface , and cut from one side through the middle of the breasts to within one half inch of the other side .
+PREDID: 88
+PRED: place
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: ounce skinless boneless chicken breasts
+   PARG: a flat surface
+     PREP: on
+      NON-INGREDIENT SPAN: a flat surface
+
+PREDID: 128
+PRED: cut
+   DOBJ: NULL
+   PARG: one side
+     PREP: from
+      NON-INGREDIENT SPAN: one side
+   PARG: the middle of the breasts
+     PREP: through
+      NON-INGREDIENT SPAN: the middle of the breasts
+   PARG: within one half inch of the other side
+     PREP: to
+      NON-INGREDIENT SPAN: within one half inch of the other side
+
+
+SENTID: 2
+SENT: I would open the two sides and spread them out flat like an open book .
+PREDID: 204
+PRED: open
+   DOBJ: the two sides
+      NON-INGREDIENT SPAN: the two sides
+
+PREDID: 222
+PRED: spread
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   PARG: flat
+     PREP: out
+      NON-INGREDIENT SPAN: flat
+   PARG: an open book
+     PREP: like
+      NON-INGREDIENT SPAN: an open book
+
+
+SENTID: 3
+SENT: I would place in a shallow dish , and pour the olive oil mixture over the chicken , turning once to coat evenly with marinade .
+PREDID: 254
+PRED: place
+   DOBJ: NULL
+   PARG: a shallow dish
+     PREP: in
+      NON-INGREDIENT SPAN: a shallow dish
+
+PREDID: 277
+PRED: pour
+   DOBJ: the olive oil mixture over the chicken , turning once to coat evenly with marinade
+      INGREDIENT SPAN: the olive oil mixture over the chicken 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN:  turning once to coat evenly with marinade
+
+
+SENTID: 4
+SENT: I would refrigerate for at least 30 minutes .
+PREDID: 350
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: at least 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: at least 30 minutes
+
+
+SENTID: 5
+SENT: To make the dressing , mix the sour cream , the mayonnaise , the vinegar , and 1/4 cup lemon juice together in a bowl , and blend thoroughly .
+PREDID: 383
+PRED: make
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+PREDID: 399
+PRED: mix
+   DOBJ: the sour cream , the mayonnaise , the vinegar , 1/4 cup
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: rice vinegar cider vinegar
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: reducedfat mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  1/4 cup
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: lemon juice together
+      INGREDIENT SPAN: lemon juice together
+         INGREDIENTS: lemon juice
+
+PREDID: 478
+PRED: blend
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 6
+SENT: I would set aside .
+PREDID: 488
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 7
+SENT: I would preheat an outdoor grill for medium-high heat .
+PREDID: 497
+PRED: preheat
+   DOBJ: an outdoor grill for medium-high heat
+      NON-INGREDIENT SPAN: an outdoor grill for medium-high heat
+
+
+SENTID: 8
+SENT: I would lightly oil grill grate , and place about 4 inches from heat source .
+PREDID: 537
+PRED: lightly
+   DOBJ: oil grill grate
+      NON-INGREDIENT SPAN: oil grill grate
+
+PREDID: 561
+PRED: place
+   DOBJ: about 4 inches
+      NON-INGREDIENT SPAN: about 4 inches
+   PARG: heat source
+     PREP: from
+      NON-INGREDIENT SPAN: heat source
+
+
+SENTID: 9
+SENT: I would remove chicken from marinade , and discard marinade .
+PREDID: 593
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: marinade
+     PREP: from
+      NON-INGREDIENT SPAN: marinade
+
+PREDID: 622
+PRED: discard
+   DOBJ: marinade
+      NON-INGREDIENT SPAN: marinade
+
+
+SENTID: 10
+SENT: I would cook chicken on preheated grill , turning once , until meat is firm , and juices run clear , about 4 to 5 minutes per side .
+PREDID: 638
+PRED: cook
+   DOBJ: chicken on preheated grill , turning once , until meat is firm
+      NON-INGREDIENT SPAN: chicken on preheated grill 
+      NON-INGREDIENT SPAN:  turning once 
+      NON-INGREDIENT SPAN:  until meat is firm
+   OARG: juices run clear , about 4 to 5 minutes per side
+      INGREDIENT SPAN: juices run clear 
+         INGREDIENTS: fresh lemon juice
+      NON-INGREDIENT SPAN:  about 4 to 5 minutes per side
+
+
+SENTID: 11
+SENT: I would remove chicken from grill , and cool .
+PREDID: 736
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: grill
+     PREP: from
+      NON-INGREDIENT SPAN: grill
+
+
+SENTID: 12
+SENT: I would finely chop chicken , and place in a large bowl .
+PREDID: 773
+PRED: chop
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: finely
+      NON-INGREDIENT SPAN: finely
+
+PREDID: 788
+PRED: place
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 13
+SENT: I would add the grapes , the apples , the celery , the tarragon , and dill to the bowl with the chicken .
+PREDID: 806
+PRED: add
+   DOBJ: the grapes , the apples , the celery , the tarragon , dill
+      INGREDIENT SPAN: the grapes 
+         INGREDIENTS: seedless red grapes halved
+      INGREDIENT SPAN:  the apples 
+         INGREDIENTS: large Granny Smith apple cored chopped
+      INGREDIENT SPAN:  the tarragon 
+         INGREDIENTS: fresh tarragon chopped
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: celery diced
+      INGREDIENT SPAN:  dill
+         INGREDIENTS: chopped fresh dill
+   PARG: the bowl with the chicken
+     PREP: to
+      NON-INGREDIENT SPAN: the bowl with the chicken
+
+
+SENTID: 14
+SENT: I would stir in the mayonnaise dressing , and toss until ingredients are evenly coated .
+PREDID: 873
+PRED: stir
+   DOBJ: NULL
+   PARG: the mayonnaise dressing
+     PREP: in
+      NON-INGREDIENT SPAN: the mayonnaise dressing
+
+PREDID: 904
+PRED: toss
+   DOBJ: NULL
+   PARG: ingredients are evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: ingredients are evenly coated
+
+
+SENTID: 15
+SENT: I would season to taste with salt and pepper .
+PREDID: 940
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: crushed red pepper flakes taste
+      INGREDIENT SPAN: to taste with salt
+         INGREDIENTS: salt pepper taste
+
+
+SENTID: 16
+SENT: I would serve immediately , or refrigerate overnight to let flavors blend further .
+PREDID: 971
+PRED: serve
+   DOBJ: NULL
+   OARG: immediately
+      NON-INGREDIENT SPAN: immediately
+
+PREDID: 990
+PRED: refrigerate
+   DOBJ: NULL
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+   OARG: to let flavors blend further
+      NON-INGREDIENT SPAN: to let flavors blend further
+
+

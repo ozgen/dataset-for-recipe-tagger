@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would heat oil in large skillet .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      NON-INGREDIENT SPAN: oil
+   PARG: large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: large skillet
+
+
+SENTID: 1
+SENT: I would cube chicken into bite size pieces and brown in hot oil .
+PREDID: 22
+PRED: cube
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: ounce jars chicken gravy
+   PARG: bite size pieces, brown
+     PREP: into
+      NON-INGREDIENT SPAN: bite size pieces
+      NON-INGREDIENT SPAN:  brown
+   PARG: hot oil
+     PREP: in
+      NON-INGREDIENT SPAN: hot oil
+
+
+SENTID: 2
+SENT: I would meanwhile , in a large saucepan , boil noodles in water until soft ,
+PREDID: 95
+PRED: boil
+   DOBJ: noodles in water
+      INGREDIENT SPAN: noodles in water
+         INGREDIENTS: ounce package egg noodles
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+   PARG: soft
+     PREP: until
+      NON-INGREDIENT SPAN: soft
+   OARG: meanwhile
+      NON-INGREDIENT SPAN: meanwhile
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 123
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would add hot cooked noodles to chicken in skillet and pour in gravy and peas .
+PREDID: 129
+PRED: add
+   DOBJ: hot cooked noodles
+      NON-INGREDIENT SPAN: hot cooked noodles
+   PARG: chicken in skillet
+     PREP: to
+      INGREDIENT SPAN: chicken in skillet
+         INGREDIENTS: skinless boneless chicken breast meat
+
+PREDID: 169
+PRED: pour
+   DOBJ: NULL
+   PARG: gravy, peas
+     PREP: in
+      INGREDIENT SPAN:  peas
+         INGREDIENTS: frozen green peas thawed
+      NON-INGREDIENT SPAN: gravy
+
+
+SENTID: 5
+SENT: I would stir together until ingredients are covered/coated with gravy .
+PREDID: 188
+PRED: stir
+   DOBJ: NULL
+   PARG: ingredients are covered/coated with gravy
+     PREP: until
+      NON-INGREDIENT SPAN: ingredients are covered/coated with gravy
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would cover skillet , reduce heat to medium low and let simmer for 10 minutes until gravy and peas are hot .
+PREDID: 243
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 256
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium low
+     PREP: to
+      NON-INGREDIENT SPAN: medium low
+
+PREDID: 280
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   PARG: gravy, peas are hot
+     PREP: until
+      NON-INGREDIENT SPAN: gravy
+      NON-INGREDIENT SPAN:  peas are hot
+
+
+SENTID: 7
+SENT: I would serve directly from the skillet .
+PREDID: 325
+PRED: serve
+   DOBJ: NULL
+   PARG: the skillet
+     PREP: from
+      NON-INGREDIENT SPAN: the skillet
+   OARG: directly
+      NON-INGREDIENT SPAN: directly
+
+

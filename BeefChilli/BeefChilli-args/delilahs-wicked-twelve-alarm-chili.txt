@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: I would place the kidney beans , chili beans , black beans , and black-eyed peas in a large , heavy pot. , and simmer over medium heat .
+PREDID: 0
+PRED: place
+   DOBJ: the kidney beans , chili beans , black beans , black-eyed peas in a large , heavy pot
+      INGREDIENT SPAN:  black-eyed peas in a large 
+         INGREDIENTS: ounce blackeyed peas undrained
+      INGREDIENT SPAN:  chili beans 
+         INGREDIENTS: ounce chili beans undrained
+      INGREDIENT SPAN:  black beans 
+         INGREDIENTS: ounce black beans undrained
+      INGREDIENT SPAN: the kidney beans 
+         INGREDIENTS: ounce kidney beans undrained
+      NON-INGREDIENT SPAN:  heavy pot
+   OARG: simmer over medium heat
+      NON-INGREDIENT SPAN: simmer over medium heat
+
+
+SENTID: 1
+SENT: I would place the ground beef and sausage in a skillet over medium-high heat .
+PREDID: 102
+PRED: place
+   DOBJ: the ground beef, sausage in a skillet over medium-high heat
+      INGREDIENT SPAN:  sausage in a skillet over medium-high heat
+         INGREDIENTS: hot Italian sausage
+      INGREDIENT SPAN: the ground beef
+         INGREDIENTS: lean ground beef
+
+
+SENTID: 2
+SENT: I would cook until crumbly and evenly browned , about 10 minutes .
+PREDID: 160
+PRED: cook
+   DOBJ: NULL
+   PARG: crumbly, evenly browned
+     PREP: until
+      NON-INGREDIENT SPAN:  evenly browned
+      NON-INGREDIENT SPAN: crumbly
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 3
+SENT: I would drain , and stir into the bean mixture .
+PREDID: 208
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 217
+PRED: stir
+   DOBJ: NULL
+   PARG: the bean mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the bean mixture
+
+
+SENTID: 4
+SENT: I would place the red and green bell peppers , yellow and red onions , and garlic on top of the bean and meat mixture .
+PREDID: 240
+PRED: place
+   DOBJ: the red, green bell peppers , yellow, red onions , garlic on top of the bean, meat mixture
+      INGREDIENT SPAN:  red onions 
+         INGREDIENTS: red onion chopped
+      INGREDIENT SPAN:  green bell peppers 
+         INGREDIENTS: large red bell pepper chopped
+      NON-INGREDIENT SPAN: the red
+      NON-INGREDIENT SPAN:  yellow
+      NON-INGREDIENT SPAN:  garlic on top of the bean
+      NON-INGREDIENT SPAN:  meat mixture
+
+
+SENTID: 5
+SENT: I would cover and steam for at least 10 minutes .
+PREDID: 328
+PRED: cover
+   DOBJ: NULL
+   OARG: steam for at least 10 minutes
+      NON-INGREDIENT SPAN: steam for at least 10 minutes
+
+
+SENTID: 6
+SENT: I would stir in the jalapeno , the chipotle , the serrano , the habanero , the banana , cherry and Anaheim peppers , red and green Thai chilies , chili powder , the cumin , red pepper flakes , and taco seasoning .
+PREDID: 361
+PRED: stir
+   DOBJ: NULL
+   PARG: the jalapeno , the chipotle , the serrano , the habanero , the banana , cherry, anaheim peppers , red, green thai chilies , chili powder , the cumin , red pepper flakes , taco seasoning
+     PREP: in
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder taste
+      INGREDIENT SPAN:  the serrano 
+         INGREDIENTS: serrano peppers chopped
+      INGREDIENT SPAN:  anaheim peppers 
+         INGREDIENTS: Anaheim pepper chopped
+      INGREDIENT SPAN:  red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  the banana 
+         INGREDIENTS: banana pepper seeded chopped
+      INGREDIENT SPAN:  cherry
+         INGREDIENTS: cherry peppers chopped
+      INGREDIENT SPAN:  taco seasoning
+         INGREDIENTS: envelope taco seasoning mix
+      INGREDIENT SPAN:  the habanero 
+         INGREDIENTS: orange habanero chili peppers chopped
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN:  the chipotle 
+      NON-INGREDIENT SPAN:  red
+      NON-INGREDIENT SPAN: the jalapeno 
+      NON-INGREDIENT SPAN:  green thai chilies 
+
+
+SENTID: 7
+SENT: I would season to taste with cayenne pepper , the salt , and black pepper .
+PREDID: 510
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with cayenne pepper , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: large green bell peppers chopped, red Thai chili peppers chopped, ounce sliced jalapeno peppers chopped, green Thai chili peppers chopped
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: large green bell peppers chopped, red Thai chili peppers chopped, ounce sliced jalapeno peppers chopped, green Thai chili peppers chopped
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: large green bell peppers chopped, red Thai chili peppers chopped, ounce sliced jalapeno peppers chopped, green Thai chili peppers chopped
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: large green bell peppers chopped, red Thai chili peppers chopped, ounce sliced jalapeno peppers chopped, green Thai chili peppers chopped
+      INGREDIENT SPAN: to taste with cayenne pepper 
+         INGREDIENTS: cayenne pepper amount taste
+
+
+SENTID: 8
+SENT: I would cover , and simmer over medium heat , stirring occasionally , for 3 hours .
+PREDID: 561
+PRED: cover
+   DOBJ: NULL
+
+PREDID: 570
+PRED: simmer
+   DOBJ: NULL
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+   OARG: stirring occasionally , for 3 hours
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  for 3 hours
+
+

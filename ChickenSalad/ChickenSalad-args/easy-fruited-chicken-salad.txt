@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: In a bowl , I would lightly mix the apple , the grapes , the pecans , apple pie spice , and mayonnaise together until thoroughly combined ;
+PREDID: 15
+PRED: mix
+   DOBJ: the apple , the grapes , the pecans , apple pie spice , mayonnaise
+      INGREDIENT SPAN:  apple pie spice 
+         INGREDIENTS: apple pie spice taste
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the pecans 
+         INGREDIENTS: chopped toasted pecans
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: seedless red grapes halved
+      INGREDIENT SPAN: the apple 
+         INGREDIENTS: apple cored diced
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would stir in the chicken breast meat .
+PREDID: 100
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken breast meat
+     PREP: in
+      INGREDIENT SPAN: the chicken breast meat
+         INGREDIENTS: skinless boneless chicken breast halves cooked diced
+
+
+SENTID: 2
+SENT: I would chill until cold .
+PREDID: 127
+PRED: chill
+   DOBJ: NULL
+   PARG: cold
+     PREP: until
+      NON-INGREDIENT SPAN: cold
+
+

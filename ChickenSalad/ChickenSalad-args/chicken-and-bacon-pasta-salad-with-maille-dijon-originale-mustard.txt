@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: I would heat griddle to smoking .
+PREDID: 0
+PRED: heat
+   DOBJ: griddle
+      NON-INGREDIENT SPAN: griddle
+   PARG: smoking
+     PREP: to
+      NON-INGREDIENT SPAN: smoking
+
+
+SENTID: 1
+SENT: I would rub chicken breasts with oil and season with salt and pepper .
+PREDID: 21
+PRED: rub
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless chicken breast fillets
+   PARG: oil, season
+     PREP: with
+      INGREDIENT SPAN: oil
+         INGREDIENTS: sunflower oil
+      NON-INGREDIENT SPAN:  season
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: Salt ground black pepper
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 2
+SENT: I would place on griddle and cook on both sides until chicken is cooked through .
+PREDID: 72
+PRED: place
+   DOBJ: NULL
+   PARG: griddle
+     PREP: on
+      NON-INGREDIENT SPAN: griddle
+
+PREDID: 89
+PRED: cook
+   DOBJ: NULL
+   PARG: both sides
+     PREP: on
+      NON-INGREDIENT SPAN: both sides
+   PARG: chicken is cooked through
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is cooked through
+
+
+SENTID: 3
+SENT: At the same time , I would fry bacon pieces in a non-stick pan .
+PREDID: 146
+PRED: fry
+   DOBJ: bacon pieces
+      INGREDIENT SPAN: bacon pieces
+         INGREDIENTS: slices thin sliced bacon rinded chopped
+   PARG: the same time
+     PREP: at
+      NON-INGREDIENT SPAN: the same time
+   PARG: a non-stick pan
+     PREP: in
+      NON-INGREDIENT SPAN: a non-stick pan
+
+
+SENTID: 4
+SENT: I would drain on paper towel .
+PREDID: 176
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towel
+     PREP: on
+      NON-INGREDIENT SPAN: paper towel
+
+
+SENTID: 5
+SENT: I would cook pasta in lightly salted boiling water until just al dente .
+PREDID: 194
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: fusilli other ridged pasta shape
+   PARG: lightly salted boiling water until just al dente
+     PREP: in
+      NON-INGREDIENT SPAN: lightly salted boiling water until just al dente
+
+
+SENTID: 6
+SENT: I would drain and drizzle with olive oil .
+PREDID: 247
+PRED: drain and drizzle
+   DOBJ: NULL
+   PARG: olive oil
+     PREP: with
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: Olive oil drizzling
+
+
+SENTID: 7
+SENT: I would transfer all to a large bowl with sliced onions and mix Maille ? Dijon Originale mustard into salad .
+PREDID: 275
+PRED: transfer
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   PARG: a large bowl with sliced onions
+     PREP: to
+      INGREDIENT SPAN: a large bowl with sliced onions
+         INGREDIENTS: onions trimmed sliced slant
+
+PREDID: 317
+PRED: mix
+   DOBJ: Maille ? Dijon Originale mustard
+      INGREDIENT SPAN: Maille ? Dijon Originale mustard
+         INGREDIENTS: Maille Dijon Originale mustard
+   PARG: salad
+     PREP: into
+      NON-INGREDIENT SPAN: salad
+
+
+SENTID: 8
+SENT: I would season .
+PREDID: 358
+PRED: season
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would toss lightly .
+PREDID: 365
+PRED: toss
+   DOBJ: NULL
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 10
+SENT: I would serve in bowls sprinkled with parsley .
+PREDID: 377
+PRED: serve
+   DOBJ: NULL
+   PARG: bowls sprinkled with parsley
+     PREP: in
+      INGREDIENT SPAN: bowls sprinkled with parsley
+         INGREDIENTS: chopped flat parsley
+
+

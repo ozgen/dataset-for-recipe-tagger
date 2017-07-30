@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would make the dressing by whisking together the lime juice , fish sauce , the sugar , and garlic in a bowl .
+PREDID: 0
+PRED: make
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: whisking together the lime juice , fish sauce , the sugar , garlic in a bowl
+     PREP: by
+      INGREDIENT SPAN: whisking together the lime juice 
+         INGREDIENTS: fresh lime juice
+      INGREDIENT SPAN:  fish sauce 
+         INGREDIENTS: fish sauce
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  garlic in a bowl
+
+
+SENTID: 1
+SENT: I would toss together the sectioned grapefruit , the shrimp , chicken breast , the coconut , the shallots , chile pepper , the mint , and cilantro in a large bowl .
+PREDID: 79
+PRED: toss
+   DOBJ: the sectioned grapefruit , the shrimp , chicken breast , the coconut , the shallots , chile pepper , the mint , cilantro in a large bowl
+      INGREDIENT SPAN:  the shallots 
+         INGREDIENTS: shallots sliced
+      INGREDIENT SPAN: the sectioned grapefruit 
+         INGREDIENTS: red grapefruit peeled sectioned
+      INGREDIENT SPAN:  chicken breast 
+         INGREDIENTS: shredded precooked chicken breast meat
+      INGREDIENT SPAN:  the shrimp 
+         INGREDIENTS: shelled cooked tiny shrimp thawed frozen
+      INGREDIENT SPAN:  cilantro in a large bowl
+         INGREDIENTS: chopped fresh cilantro
+      INGREDIENT SPAN:  the mint 
+         INGREDIENTS: fresh mint leaves
+      INGREDIENT SPAN:  chile pepper 
+         INGREDIENTS: chopped red chile pepper
+      INGREDIENT SPAN:  the coconut 
+         INGREDIENTS: shredded coconut meat unsweetened
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drizzle approximately 3/4 of the dressing into the grapefruit mixture and toss to combine .
+PREDID: 193
+PRED: drizzle
+   DOBJ: approximately 3/4 of the dressing
+      NON-INGREDIENT SPAN: approximately 3/4 of the dressing
+   PARG: the grapefruit mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the grapefruit mixture
+
+PREDID: 256
+PRED: toss
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 3
+SENT: I would combine the remaining dressing with the shredded lettuce in a separate bowl shortly before serving .
+PREDID: 270
+PRED: combine
+   DOBJ: the remaining dressing
+      NON-INGREDIENT SPAN: the remaining dressing
+   PARG: the shredded lettuce in a separate bowl
+     PREP: with
+      INGREDIENT SPAN: the shredded lettuce in a separate bowl
+         INGREDIENTS: head iceberg lettuce shredded
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: shortly
+      NON-INGREDIENT SPAN: shortly
+
+
+SENTID: 4
+SENT: I would arrange the lettuce on a large platter .
+PREDID: 355
+PRED: arrange
+   DOBJ: the lettuce
+      NON-INGREDIENT SPAN: the lettuce
+   PARG: a large platter
+     PREP: on
+      NON-INGREDIENT SPAN: a large platter
+
+
+SENTID: 5
+SENT: I would layer the grapefruit mixture on top of the lettuce .
+PREDID: 388
+PRED: layer
+   DOBJ: the grapefruit mixture
+      NON-INGREDIENT SPAN: the grapefruit mixture
+   PARG: top of the lettuce
+     PREP: on
+      NON-INGREDIENT SPAN: top of the lettuce
+
+

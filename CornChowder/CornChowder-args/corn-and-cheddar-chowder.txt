@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: In a large saucepan over medium high heat , I would melt the butter and stir in the onion , the potato , bay leaf , the cumin , and sage .
+PREDID: 35
+PRED: melt
+   DOBJ: the butter
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over medium high heat
+
+PREDID: 51
+PRED: stir
+   DOBJ: NULL
+   PARG: the onion , the potato , bay leaf , the cumin , sage
+     PREP: in
+      INGREDIENT SPAN: the onion 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  the cumin 
+         INGREDIENTS: cumin
+      INGREDIENT SPAN:  sage
+         INGREDIENTS: dried sage
+      INGREDIENT SPAN:  bay leaf 
+         INGREDIENTS: bay leaf
+      INGREDIENT SPAN:  the potato 
+         INGREDIENTS: large potato peeled diced
+
+
+SENTID: 1
+SENT: I would saute about 5 minutes , until the onion is tender .
+PREDID: 95
+PRED: saute
+   DOBJ: NULL
+   PARG: about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 5 minutes
+   PARG: the onion is tender
+     PREP: until
+      NON-INGREDIENT SPAN: the onion is tender
+
+
+SENTID: 2
+SENT: I would mix in the flour , coating the onion and potato .
+PREDID: 136
+PRED: mix
+   DOBJ: NULL
+   PARG: the flour , coating the onion, potato
+     PREP: in
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  potato
+      NON-INGREDIENT SPAN:  coating the onion
+
+
+SENTID: 3
+SENT: I would pour in the chicken stock and milk .
+PREDID: 175
+PRED: pour
+   DOBJ: NULL
+   PARG: the chicken stock, milk
+     PREP: in
+      INGREDIENT SPAN: the chicken stock
+         INGREDIENTS: chicken stock
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+
+
+SENTID: 4
+SENT: I would bring to a boil , whisking constantly until smooth .
+PREDID: 204
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+   OARG: whisking constantly until smooth
+      NON-INGREDIENT SPAN: whisking constantly until smooth
+
+
+SENTID: 5
+SENT: I would reduce heat , and simmer 30 minutes , stirring frequently , until the potato is tender .
+PREDID: 247
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 261
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   OARG: stirring frequently , until the potato is tender
+      NON-INGREDIENT SPAN: stirring frequently 
+      NON-INGREDIENT SPAN:  until the potato is tender
+
+
+SENTID: 6
+SENT: I would mix the corn , the parsley , the chives , and wine into the saucepan , and cook about 5 minutes , until heated through .
+PREDID: 319
+PRED: mix
+   DOBJ: the corn , the parsley , the chives , wine
+      INGREDIENT SPAN: the corn 
+         INGREDIENTS: frozen corn kernels
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped parsley
+      INGREDIENT SPAN:  wine
+         INGREDIENTS: dry white wine
+   PARG: the saucepan
+     PREP: into
+      NON-INGREDIENT SPAN: the saucepan
+
+PREDID: 377
+PRED: cook
+   DOBJ: NULL
+   PARG: minutes
+     PREP: for
+      NON-INGREDIENT SPAN: minutes
+   PARG: heated through
+     PREP: until
+      NON-INGREDIENT SPAN: heated through
+   OARG: about 5
+      NON-INGREDIENT SPAN: about 5
+
+
+SENTID: 7
+SENT: I would remove the bay leaf , and stir in the Cheddar cheese until melted and blended .
+PREDID: 408
+PRED: remove
+   DOBJ: the bay leaf
+      NON-INGREDIENT SPAN: the bay leaf
+
+PREDID: 428
+PRED: stir
+   DOBJ: NULL
+   PARG: the cheddar cheese
+     PREP: in
+      INGREDIENT SPAN: the cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+   PARG: melted, blended
+     PREP: until
+      NON-INGREDIENT SPAN:  blended
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 8
+SENT: I would season with salt and pepper .
+PREDID: 472
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+

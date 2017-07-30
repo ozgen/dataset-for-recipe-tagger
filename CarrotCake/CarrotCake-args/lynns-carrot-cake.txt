@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour three 9 inch round cake pans .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: three 9 inch round cake pans
+      NON-INGREDIENT SPAN: three 9 inch round cake pans
+
+
+SENTID: 2
+SENT: In a medium bowl , I would stir together the flour , the sugar , baking soda , the salt and cocoa , set aside .
+PREDID: 90
+PRED: stir
+   DOBJ: the flour , the sugar , baking soda , the salt, cocoa , set aside
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  cocoa 
+         INGREDIENTS: unsweetened cocoa powder
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  set aside
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: In another bowl , I would stir together the eggs , the vanilla and oil .
+PREDID: 164
+PRED: stir
+   DOBJ: the eggs , the vanilla, oil
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+   PARG: another bowl
+     PREP: in
+      NON-INGREDIENT SPAN: another bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in the dry ingredients until they are completely absorbed .
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: the dry ingredients
+     PREP: in
+      NON-INGREDIENT SPAN: the dry ingredients
+   PARG: they are completely absorbed
+     PREP: until
+      NON-INGREDIENT SPAN: they are completely absorbed
+
+
+SENTID: 5
+SENT: I would fold in the carrots and pineapple .
+PREDID: 252
+PRED: fold
+   DOBJ: NULL
+   PARG: the carrots, pineapple
+     PREP: in
+      INGREDIENT SPAN: the carrots
+         INGREDIENTS: grated carrots
+      INGREDIENT SPAN:  pineapple
+         INGREDIENTS: crushed pineapple juice
+
+
+SENTID: 6
+SENT: I would pour the batter evenly between the three prepared pans .
+PREDID: 281
+PRED: pour
+   DOBJ: NULL
+   PARG: the three prepared pans
+     PREP: between
+      NON-INGREDIENT SPAN: the three prepared pans
+   OARG: the batter evenly
+      NON-INGREDIENT SPAN: the batter evenly
+
+
+SENTID: 7
+SENT: I would bake for 30 minutes in the preheated oven , until a toothpick inserted comes out clean .
+PREDID: 328
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+   PARG: a toothpick inserted comes out clean
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted comes out clean
+
+
+SENTID: 8
+SENT: To make the frosting , combine the cream cheese , the butter and confectioners sugar in a medium bowl .
+
+SENTID: 9
+SENT: I would beat until smooth ,
+PREDID: 481
+PRED: beat
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 10
+SENT: I would stir in the coconut and nuts .
+PREDID: 497
+PRED: stir
+   DOBJ: NULL
+   PARG: the coconut, nuts
+     PREP: in
+      INGREDIENT SPAN: the coconut
+         INGREDIENTS: flaked coconut
+      NON-INGREDIENT SPAN:  nuts
+
+
+SENTID: 11
+SENT: I would frost cake when cool .
+PREDID: 521
+PRED: frost
+   DOBJ: cake
+      NON-INGREDIENT SPAN: cake
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+

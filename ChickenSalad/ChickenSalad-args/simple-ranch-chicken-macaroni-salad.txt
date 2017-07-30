@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: I would bring a pot of water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a pot of water
+      NON-INGREDIENT SPAN: a pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add the macaroni , and cook until tender , about 8 minutes .
+PREDID: 24
+PRED: add
+   DOBJ: the macaroni
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: uncooked elbow macaroni
+
+PREDID: 42
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 8 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 8 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 2
+SENT: I would drain , and pat dry .
+PREDID: 72
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 81
+PRED: pat
+   DOBJ: NULL
+   OARG: dry
+      NON-INGREDIENT SPAN: dry
+
+
+SENTID: 3
+SENT: In a medium bowl , I would mix together the celery , the olives , the mayonnaise , sour cream , the milk , the chicken and Ranch dressing mix .
+PREDID: 102
+PRED: mix
+   DOBJ: the celery , the olives , the mayonnaise , sour cream , the milk , the chicken, Ranch
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  the olives 
+         INGREDIENTS: ounce chopped green olives
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the chicken
+         INGREDIENTS: ounce chicken chunks drained
+      NON-INGREDIENT SPAN:  Ranch
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: dressing mix
+      INGREDIENT SPAN: dressing mix
+         INGREDIENTS: ounce package dry Ranchstyle dressing mix
+
+
+SENTID: 4
+SENT: I would stir in macaroni until well blended .
+PREDID: 183
+PRED: stir
+   DOBJ: NULL
+   PARG: macaroni
+     PREP: in
+      NON-INGREDIENT SPAN: macaroni
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 5
+SENT: I would refrigerate for 24 hours .
+PREDID: 214
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 24 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 24 hours
+
+
+SENTID: 6
+SENT: I would stir , and sprinkle paprika over the top before serving .
+PREDID: 236
+PRED: stir
+   DOBJ: NULL
+
+PREDID: 244
+PRED: sprinkle
+   DOBJ: paprika
+      INGREDIENT SPAN: paprika
+         INGREDIENTS: paprika
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

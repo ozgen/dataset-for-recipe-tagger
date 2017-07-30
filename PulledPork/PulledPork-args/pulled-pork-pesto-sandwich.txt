@@ -1,0 +1,298 @@
+SENTID: 0
+SENT: I would preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 300 degrees F -LRB- 150 degrees C
+      NON-INGREDIENT SPAN: oven to 300 degrees F -LRB- 150 degrees C
+
+
+SENTID: 1
+SENT: I would combine kosher salt , 1/4 cup black pepper , 1/4 cup Italian seasoning , the rosemary , granulated garlic , granulated onion , 1 tablespoon red pepper flakes , and lemon pepper together in a bowl .
+PREDID: 38
+PRED: combine
+   DOBJ: kosher salt , 1/4 cup black pepper , 1/4 cup Italian seasoning , the rosemary , granulated garlic , granulated onion , 1 tablespoon red pepper flakes , lemon pepper
+      INGREDIENT SPAN:  1/4 cup black pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  
+         INGREDIENTS: lemon juiced
+      INGREDIENT SPAN: kosher salt 
+         INGREDIENTS: kosher salt
+      INGREDIENT SPAN:  1 tablespoon red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN:  1/4 cup Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  lemon pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  granulated onion 
+         INGREDIENTS: onion sliced
+      INGREDIENT SPAN:  the rosemary 
+         INGREDIENTS: dried rosemary
+      INGREDIENT SPAN:  granulated garlic 
+         INGREDIENTS: granulated garlic
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would place pork shoulder in a large roasting pan .
+PREDID: 196
+PRED: place
+   DOBJ: pork shoulder
+      INGREDIENT SPAN: pork shoulder
+         INGREDIENTS: pound pork shoulder roast
+   PARG: a large roasting pan
+     PREP: in
+      NON-INGREDIENT SPAN: a large roasting pan
+
+
+SENTID: 3
+SENT: I would rub with lemon juice , 1 tablespoon olive oil , red wine vinegar , and Worcestershire sauce on all sides and between any crevices .
+PREDID: 233
+PRED: rub
+   DOBJ: NULL
+   PARG: lemon juice , 1 tablespoon olive oil , red wine vinegar , worcestershire sauce
+     PREP: with
+      INGREDIENT SPAN:  worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  red wine vinegar 
+         INGREDIENTS: red wine vinegar
+      INGREDIENT SPAN:  1 tablespoon olive oil 
+         INGREDIENTS: olive oil
+      NON-INGREDIENT SPAN: lemon juice 
+   PARG: all sides
+     PREP: on
+      NON-INGREDIENT SPAN: all sides
+
+
+SENTID: 4
+SENT: I would sprinkle with kosher salt mixture and rub over all sides .
+PREDID: 340
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: kosher salt mixture
+     PREP: with
+      INGREDIENT SPAN: kosher salt mixture
+         INGREDIENTS: salt ground black pepper taste
+
+PREDID: 372
+PRED: rub
+   DOBJ: all sides
+      NON-INGREDIENT SPAN: all sides
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would pour white wine , chicken stock , and 4 crushed garlic cloves into the bottom of the roasting pan .
+PREDID: 388
+PRED: pour
+   DOBJ: white wine , chicken stock , 4 crushed garlic cloves
+      INGREDIENT SPAN: white wine 
+         INGREDIENTS: dry white wine
+      INGREDIENT SPAN:  chicken stock 
+         INGREDIENTS: chicken stock
+      INGREDIENT SPAN:  4 crushed garlic cloves
+         INGREDIENTS: cloves garlic crushed
+   PARG: the bottom of the roasting pan
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of the roasting pan
+
+
+SENTID: 6
+SENT: Cover pan tightly with heavy-duty aluminum foil and roast pork in the preheated oven until tender and a thermometer inserted reaches 200 degrees F -LRB- 95 degrees C -RRB- , 3 to 4 hours .
+
+SENTID: 7
+SENT: I would transfer pork to a cutting board and allow to cool slightly before pulling .
+PREDID: 614
+PRED: transfer
+   DOBJ: pork
+      NON-INGREDIENT SPAN: pork
+   PARG: a cutting board
+     PREP: to
+      NON-INGREDIENT SPAN: a cutting board
+
+PREDID: 644
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool slightly before pulling
+      NON-INGREDIENT SPAN: to cool slightly before pulling
+
+
+SENTID: 8
+SENT: Using two forks , I would shred the pork shoulder into bite-size pieces .
+PREDID: 691
+PRED: shred
+   DOBJ: the pork shoulder
+      NON-INGREDIENT SPAN: the pork shoulder
+   PARG: bite-size pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size pieces
+   OARG: using two forks
+      NON-INGREDIENT SPAN: using two forks
+
+
+SENTID: 9
+SENT: I would transfer meat to a large bowl and toss with some of the pan juices to keep it moist .
+PREDID: 731
+PRED: transfer
+   DOBJ: meat
+      NON-INGREDIENT SPAN: meat
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 758
+PRED: toss
+   DOBJ: NULL
+   PARG: some of the pan juices
+     PREP: with
+      NON-INGREDIENT SPAN: some of the pan juices
+   OARG: to keep it moist
+      NON-INGREDIENT SPAN: to keep it moist
+
+
+SENTID: 10
+SENT: I would increase oven temperature to 500 degrees F -LRB- 260 degrees C -RRB- .
+PREDID: 798
+PRED: increase
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 500 degrees f -lrb- 260 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 500 degrees f -lrb- 260 degrees c
+
+
+SENTID: 11
+SENT: I would heat 1 tablespoon olive oil in a large pot or Dutch oven over medium-high heat ;
+PREDID: 848
+PRED: heat
+   DOBJ: 1 tablespoon olive oil
+      INGREDIENT SPAN: 1 tablespoon olive oil
+         INGREDIENTS: olive oil
+   PARG: a large pot or dutch oven over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot or dutch oven over medium-high heat
+
+
+SENTID: 12
+SENT: I would cook and stir goat horn peppers , red bell pepper , the onion , 1 tablespoon Italian seasoning , 1 teaspoon red pepper flakes , the salt , and black pepper in the hot oil until onion softens and begins to turn golden , about 12 minutes .
+PREDID: 913
+PRED: cook and stir
+   DOBJ: goat horn peppers , red bell pepper , the onion , 1 tablespoon Italian seasoning , 1 teaspoon red pepper flakes , the salt , black pepper
+      INGREDIENT SPAN:  1 tablespoon Italian seasoning 
+         INGREDIENTS: Italian seasoning
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: granulated onion
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper sliced
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: lemon pepper
+      INGREDIENT SPAN: goat horn peppers 
+         INGREDIENTS: goat horn peppers other hot green chiles sliced
+      INGREDIENT SPAN:  1 teaspoon red pepper flakes 
+         INGREDIENTS: red pepper flakes
+      NON-INGREDIENT SPAN:  the salt 
+   PARG: the hot oil
+     PREP: in
+      INGREDIENT SPAN: the hot oil
+         INGREDIENTS: olive oil
+   PARG: onion softens, begins
+     PREP: until
+      NON-INGREDIENT SPAN: onion softens
+      NON-INGREDIENT SPAN:  begins
+
+PREDID: 1077
+PRED: turn
+   DOBJ: NULL
+   PARG: golden , about 12 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: golden 
+      NON-INGREDIENT SPAN:  about 12 minutes
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 13
+SENT: I would stir in mushrooms , garlic basil spread , and Marsala wine and cook until wine has reduced and mushrooms have softened , about 5 minutes .
+PREDID: 1097
+PRED: stir
+   DOBJ: NULL
+   PARG: mushrooms , garlic basil spread , marsala wine, cook
+     PREP: in
+      INGREDIENT SPAN:  marsala wine
+         INGREDIENTS: Marsala wine
+      INGREDIENT SPAN: mushrooms 
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN:  garlic basil spread 
+         INGREDIENTS: garlic basil spread see footnote recipe link
+      NON-INGREDIENT SPAN:  cook
+   PARG: wine has reduced
+     PREP: until
+      NON-INGREDIENT SPAN: wine has reduced
+   OARG: mushrooms have softened , about 5 minutes
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: mushrooms have softened 
+
+
+SENTID: 14
+SENT: I would mix pulled pork and pesto sauce into vegetables and heat through , about 10 minutes .
+
+SENTID: 15
+SENT: I would spoon pork mixture into hoagie buns and top each with 1/2 cup mozzarella cheese .
+PREDID: 1280
+PRED: spoon
+   DOBJ: pork mixture
+      NON-INGREDIENT SPAN: pork mixture
+   PARG: hoagie buns
+     PREP: into
+      INGREDIENT SPAN: hoagie buns
+         INGREDIENTS: Italianstyle hoagie buns split lengthwise
+
+PREDID: 1313
+PRED: top
+   DOBJ: each with 1/2 cup mozzarella cheese
+      INGREDIENT SPAN: each with 1/2 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese divided
+
+
+SENTID: 16
+SENT: I would place sandwiches onto a baking sheet and bake in the hot oven until cheese is melted and bread is toasted , about 5 minutes .
+PREDID: 1347
+PRED: place
+   DOBJ: sandwiches
+      NON-INGREDIENT SPAN: sandwiches
+   PARG: a baking sheet
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet
+   OARG: bread is toasted , about 5 minutes
+      NON-INGREDIENT SPAN: bread is toasted 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+PREDID: 1381
+PRED: bake
+   DOBJ: NULL
+   PARG: the hot oven
+     PREP: in
+      NON-INGREDIENT SPAN: the hot oven
+   PARG: cheese is melted
+     PREP: until
+      INGREDIENT SPAN: cheese is melted
+         INGREDIENTS: shredded mozzarella cheese divided
+
+
+SENTID: 17
+SENT: I would top with cherry tomatoes and basil .
+PREDID: 1448
+PRED: top
+   DOBJ: NULL
+   PARG: cherry tomatoes, basil
+     PREP: with
+      INGREDIENT SPAN: cherry tomatoes
+         INGREDIENTS: halved cherry tomatoes divided
+      INGREDIENT SPAN:  basil
+         INGREDIENTS: chopped fresh basil divided
+
+

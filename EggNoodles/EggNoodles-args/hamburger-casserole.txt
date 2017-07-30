@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: I would preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 250 degrees F -LRB- 120 degrees C
+      NON-INGREDIENT SPAN: oven to 250 degrees F -LRB- 120 degrees C
+
+
+SENTID: 1
+SENT: In a large skillet over medium heat , I would combine the ground beef , the onion and celery and saute for 10 minutes , or until the meat is browned and the onion is tender .
+PREDID: 68
+PRED: combine
+   DOBJ: the ground beef , the onion, celery
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  celery
+         INGREDIENTS: stalk celery chopped
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+   OARG: the onion is tender
+      NON-INGREDIENT SPAN: the onion is tender
+
+PREDID: 109
+PRED: saute
+   DOBJ: NULL
+   PARG: 10 minutes , or until the meat is browned
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes 
+      NON-INGREDIENT SPAN:  or until the meat is browned
+
+
+SENTID: 2
+SENT: I would drain the fat and set aside .
+PREDID: 167
+PRED: drain
+   DOBJ: the fat
+      NON-INGREDIENT SPAN: the fat
+
+PREDID: 181
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a separate saucepan , I would cook noodles according to package directions .
+PREDID: 210
+PRED: cook
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: egg noodles
+   PARG: a separate saucepan package directions
+     PREP: in
+      INGREDIENT SPAN: a separate saucepan package directions
+         INGREDIENTS: ounce package taco seasoning mix
+   PARG: to package directions
+     PREP: according
+      NON-INGREDIENT SPAN: to package directions
+
+
+SENTID: 4
+SENT: When cooked , drain the water and stir in the meat mixture , the chili , the tomatoes , the corn , taco sauce and taco seasoning mix .
+PREDID: 261
+PRED: drain
+   DOBJ: the water
+      NON-INGREDIENT SPAN: the water
+   OARG: when cooked
+      NON-INGREDIENT SPAN: when cooked
+
+PREDID: 277
+PRED: stir
+   DOBJ: NULL
+   PARG: the meat mixture , the chili , the tomatoes , the corn , taco sauce, taco seasoning mix
+     PREP: in
+      INGREDIENT SPAN:  the chili 
+         INGREDIENTS: ounce chili
+      INGREDIENT SPAN:  the tomatoes 
+         INGREDIENTS: ounce peeled diced tomatoes
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn drained
+      NON-INGREDIENT SPAN: the meat mixture 
+      NON-INGREDIENT SPAN:  taco seasoning mix
+      NON-INGREDIENT SPAN:  taco sauce
+
+
+SENTID: 5
+SENT: I would mix well and place entire mixture into a 10x15 baking dish .
+PREDID: 347
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 357
+PRED: place
+   DOBJ: entire mixture
+      NON-INGREDIENT SPAN: entire mixture
+   PARG: a 10x15 baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 10x15 baking dish
+
+
+SENTID: 6
+SENT: I would bake at 250 degrees F -LRB- 120 degrees C -RRB- for 20 minutes , or until thoroughly heated .
+PREDID: 396
+PRED: bake
+   DOBJ: NULL
+   PARG: 250 degrees f -lrb- 120 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 250 degrees f -lrb- 120 degrees c
+   PARG: 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes
+
+

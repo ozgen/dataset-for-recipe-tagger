@@ -1,0 +1,88 @@
+digraph recipe {
+E0[label="combine (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="let (S1,P48)", shape=oval, style=filled, fillcolor=azure]
+E2[label="combine (S2,P105)", shape=oval, style=filled, fillcolor=azure]
+E3[label="raisins (S2,P160)", shape=oval, style=filled, fillcolor=azure]
+E4[label="set (S3,P180)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S4,P189)", shape=oval, style=filled, fillcolor=azure]
+E6[label="add (S4,P229)", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir (S5,P249)", shape=oval, style=filled, fillcolor=azure]
+E8[label="spoon (S6,P271)", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake (S7,P325)", shape=oval, style=filled, fillcolor=azure]
+E10[label="let cool (S8,P415)", shape=oval, style=filled, fillcolor=azure]
+E11[label="remove (S8,P453)", shape=oval, style=filled, fillcolor=azure]
+E12[label="store (S9,P486)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: stand for a couple minutes", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: to allow cereal to soften", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D2[label="DOBJ: baking powder, all-purpose flour, baking soda, chopped nuts and/or raisins, salt
+(text: flour , baking powder , baking soda , salt , nuts)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+O2_0[label="OTHER: meanwhile", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+D0[label="DOBJ: plain yogurt, bran cereal (such as Kellogg's® All Bran® Original), mashed bananas
+(text: bran cereal , bananas, yogurt)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a medium bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D5[label="DOBJ: eggs, cooking oil, packed brown sugar
+(text: eggs , sugar, oil)", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="PREP: into bran mixture", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+E0 -> E3 [label="OUTPUT: 
+INPUT: in a large bowl"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+O4_0_0[label="OTHER: aside", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: to dry ingredients", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+O6_0_0[label="OTHER: then", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_0[label="PREP: until combined", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+O7_0_0[label="OTHER: just", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E4 -> E8 [label="OUTPUT: 
+INPUT: batter"]
+O8_0_0[label="OTHER: evenly into 12 greased or paper-lined muffin cups", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+E7 -> E9 [label="OUTPUT: 
+INPUT: in a preheated 400 degrees f -lrb- 200 degrees c"]
+P9_1_0[label="PREP: until tops", shape=box, style=filled, fillcolor=white]
+P9_1_0 -> E9
+E1 -> E9 [label="OUTPUT: 
+INPUT: about 17 to 20 minutes"]
+O9_0_0[label="OTHER: spring", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+O9_1_0[label="OTHER: back when pressed", shape=box, style=filled, fillcolor=white]
+O9_1_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+P10_0_0[label="PREP: in pan for a few minutes", shape=box, style=filled, fillcolor=white]
+P10_0_0 -> E10
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_0[label="PREP: to a wire rack", shape=box, style=filled, fillcolor=white]
+P11_0_0 -> E11
+O11_0_0[label="OTHER: then", shape=box, style=filled, fillcolor=white]
+O11_0_0 -> E11
+O11_1_0[label="OTHER: to finish cooling", shape=box, style=filled, fillcolor=white]
+O11_1_0 -> E11
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+P12_0_0[label="PREP: in an airtight container", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

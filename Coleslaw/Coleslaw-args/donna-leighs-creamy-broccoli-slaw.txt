@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: I would mix mayonnaise , the vinegar , the sugar , celery seed , and ramen noodle seasoning packet in a bowl ;
+PREDID: 0
+PRED: mix
+   DOBJ: mayonnaise , the vinegar , the sugar , celery seed , ramen noodle seasoning packet in a bowl
+      INGREDIENT SPAN:  ramen noodle seasoning packet in a bowl
+         INGREDIENTS: ounce package Orientalflavored ramen noodles broken small
+      INGREDIENT SPAN:  the vinegar 
+         INGREDIENTS: apple cider vinegar
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  celery seed 
+         INGREDIENTS: celery seed
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 1
+SENT: I would chill in refrigerator .
+PREDID: 76
+PRED: chill
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+
+SENTID: 2
+SENT: I would heat olive oil and sesame oil in a skillet over medium heat ;
+PREDID: 96
+PRED: heat
+   DOBJ: olive oil, sesame oil in a skillet over medium heat
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN:  sesame oil in a skillet over medium heat
+         INGREDIENTS: sesame oil
+
+
+SENTID: 3
+SENT: I would cook and stir ramen noodles and almonds until toasted , stirring frequently , 3 to 5 minutes .
+PREDID: 145
+PRED: cook and stir
+   DOBJ: ramen noodles, almonds
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: slivered almonds
+      NON-INGREDIENT SPAN: ramen noodles
+   PARG: toasted , stirring frequently , 3 to 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: toasted 
+      NON-INGREDIENT SPAN:  stirring frequently 
+      NON-INGREDIENT SPAN:  3 to 5 minutes
+
+
+SENTID: 4
+SENT: I would remove from heat and cool .
+PREDID: 222
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, cool
+     PREP: from
+      NON-INGREDIENT SPAN:  cool
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would combine ramen noodles , the almonds , broccoli coleslaw mix , the onion , sunflower seeds , and dressing in a bowl ;
+PREDID: 244
+PRED: combine
+   DOBJ: ramen noodles , the almonds , broccoli coleslaw mix , the onion , sunflower seeds , dressing in a bowl
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  sunflower seeds 
+         INGREDIENTS: unsalted sunflower seeds
+      INGREDIENT SPAN:  broccoli coleslaw mix 
+         INGREDIENTS: ounce package broccoli coleslaw mix
+      NON-INGREDIENT SPAN: ramen noodles 
+      NON-INGREDIENT SPAN:  dressing in a bowl
+      NON-INGREDIENT SPAN:  the almonds 
+
+
+SENTID: 6
+SENT: I would stir to coat .
+PREDID: 332
+PRED: stir
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+

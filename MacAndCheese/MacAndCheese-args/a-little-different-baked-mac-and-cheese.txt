@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: elbow macaroni
+      INGREDIENT SPAN: elbow macaroni
+         INGREDIENTS: ounce package elbow macaroni
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , 8 minutes
+      NON-INGREDIENT SPAN:  8 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 179
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would spread half the macaroni into a 9x13-inch casserole dish ;
+PREDID: 185
+PRED: spread
+   DOBJ: half the macaroni
+      NON-INGREDIENT SPAN: half the macaroni
+   PARG: a 9x13-inch casserole dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+
+
+SENTID: 5
+SENT: I would top with half the tomatoes and half the Cheddar cheese .
+PREDID: 234
+PRED: top
+   DOBJ: NULL
+   PARG: half the tomatoes, half the cheddar cheese
+     PREP: with
+      INGREDIENT SPAN: half the tomatoes
+         INGREDIENTS: ounce whole peeled tomatoes drained chopped
+      INGREDIENT SPAN:  half the cheddar cheese
+         INGREDIENTS: ounce package sharp Cheddar cheese sliced
+
+
+SENTID: 6
+SENT: I would repeat the layering with remaining macaroni , the tomatoes , and Cheddar cheese .
+PREDID: 280
+PRED: repeat
+   DOBJ: the layering
+      NON-INGREDIENT SPAN: the layering
+   PARG: remaining macaroni , the tomatoes , cheddar cheese
+     PREP: with
+      NON-INGREDIENT SPAN:  the tomatoes 
+      NON-INGREDIENT SPAN: remaining macaroni 
+      NON-INGREDIENT SPAN:  cheddar cheese
+
+
+SENTID: 7
+SENT: I would pour milk over entire casserole ;
+PREDID: 342
+PRED: pour
+   DOBJ: milk
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   PARG: entire casserole
+     PREP: over
+      NON-INGREDIENT SPAN: entire casserole
+
+
+SENTID: 8
+SENT: I would sprinkle with crushed crackers .
+PREDID: 370
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crushed crackers
+     PREP: with
+      INGREDIENT SPAN: crushed crackers
+         INGREDIENTS: ounce packet saltine crackers crushed
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until cheese is melted and crackers are golden , about 30 minutes .
+PREDID: 398
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cheese is melted
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is melted
+   OARG: crackers are golden , about 30 minutes
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN: crackers are golden 
+
+

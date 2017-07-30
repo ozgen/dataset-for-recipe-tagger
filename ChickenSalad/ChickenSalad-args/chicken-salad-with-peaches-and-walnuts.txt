@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: I would chop 1 peach into 1/2 inch pieces ;
+PREDID: 0
+PRED: chop
+   DOBJ: 1 peach
+      NON-INGREDIENT SPAN: 1 peach
+   PARG: 1/2 inch pieces
+     PREP: into
+      NON-INGREDIENT SPAN: 1/2 inch pieces
+
+
+SENTID: 1
+SENT: I would place in large bowl .
+PREDID: 28
+PRED: place
+   DOBJ: NULL
+   PARG: large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: large bowl
+
+
+SENTID: 2
+SENT: I would add chicken and onion ;
+PREDID: 45
+PRED: add
+   DOBJ: chicken, onion
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chopped cooked chicken meat
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: sliced red onion
+
+
+SENTID: 3
+SENT: I would toss with enough dressing to coat .
+PREDID: 64
+PRED: toss
+   DOBJ: NULL
+   PARG: enough dressing to coat
+     PREP: with
+      INGREDIENT SPAN: enough dressing to coat
+         INGREDIENTS: poppyseed salad dressing
+
+
+SENTID: 4
+SENT: I would add greens and walnuts to bowl and toss to coat .
+PREDID: 93
+PRED: add
+   DOBJ: greens, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: toasted walnuts chopped
+      INGREDIENT SPAN: greens
+         INGREDIENTS: mixed salad greens
+   PARG: bowl
+     PREP: to
+      NON-INGREDIENT SPAN: bowl
+
+PREDID: 121
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 5
+SENT: I would mound salad on large plate .
+PREDID: 132
+PRED: mound
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: large plate
+     PREP: on
+      NON-INGREDIENT SPAN: large plate
+
+
+SENTID: 6
+SENT: I would cut the remaining peach in thin wedges and place on top to garnish .
+PREDID: 155
+PRED: cut
+   DOBJ: the remaining peach in thin wedges
+      NON-INGREDIENT SPAN: the remaining peach in thin wedges
+
+PREDID: 190
+PRED: place
+   DOBJ: NULL
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+   OARG: to garnish
+      NON-INGREDIENT SPAN: to garnish
+
+

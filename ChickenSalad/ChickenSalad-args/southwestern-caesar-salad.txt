@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: I would preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+   DOBJ: an outdoor grill for high heat, lightly oil grate
+      NON-INGREDIENT SPAN:  lightly oil grate
+      NON-INGREDIENT SPAN: an outdoor grill for high heat
+
+
+SENTID: 1
+SENT: I would sprinkle chicken breasts with fajita seasoning , and grill for about 4 minutes on each side , or until no longer pink and juices run clear .
+PREDID: 51
+PRED: sprinkle
+   DOBJ: chicken breasts
+      INGREDIENT SPAN: chicken breasts
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: fajita seasoning
+     PREP: with
+      INGREDIENT SPAN: fajita seasoning
+         INGREDIENTS: ounce packet dry fajita seasoning
+   OARG: grill for about 4 minutes on each side , or until no longer pink, juices run clear
+      NON-INGREDIENT SPAN: grill for about 4 minutes on each side 
+      NON-INGREDIENT SPAN:  juices run clear
+      NON-INGREDIENT SPAN:  or until no longer pink
+
+
+SENTID: 2
+SENT: I would allow to cool ,
+PREDID: 165
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool
+      NON-INGREDIENT SPAN: to cool
+
+
+SENTID: 3
+SENT: I would slice into bite-size strips .
+PREDID: 177
+PRED: slice
+   DOBJ: NULL
+   PARG: bite-size strips
+     PREP: into
+      NON-INGREDIENT SPAN: bite-size strips
+
+
+SENTID: 4
+SENT: In a blender or food processor , I would combine mayonnaise , grated Parmesan cheese , sour cream , the anchovies , green onions , the parsley , Dijon mustard , chipotle pepper , the garlic , and Worcestershire sauce .
+PREDID: 228
+PRED: combine
+   DOBJ: mayonnaise , grated Parmesan cheese , sour cream , the anchovies , green onions , the parsley , Dijon mustard , chipotle pepper , the garlic , Worcestershire sauce
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped
+      INGREDIENT SPAN:  Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  grated Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: minced garlic
+      INGREDIENT SPAN:  chipotle pepper 
+         INGREDIENTS: canned chipotle pepper
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      NON-INGREDIENT SPAN:  the anchovies 
+   PARG: a blender or food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a blender or food processor
+
+
+SENTID: 5
+SENT: I would blend until smooth .
+PREDID: 365
+PRED: blend
+   DOBJ: NULL
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 6
+SENT: I would place romaine lettuce in a large bowl , and top with croutons , shredded Parmesan , and red , yellow , and orange pepper rings .
+PREDID: 382
+PRED: place
+   DOBJ: romaine lettuce
+      INGREDIENT SPAN: romaine lettuce
+         INGREDIENTS: romaine lettuce torn bitesize
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+PREDID: 417
+PRED: top
+   DOBJ: NULL
+   PARG: croutons , shredded parmesan , red , yellow , orange pepper rings
+     PREP: with
+      INGREDIENT SPAN:  shredded parmesan 
+         INGREDIENTS: shredded Parmesan cheese
+      INGREDIENT SPAN: croutons 
+         INGREDIENTS: garlic flavored croutons
+      INGREDIENT SPAN:  orange pepper rings
+         INGREDIENTS: orange bell pepper sliced thin rings
+      NON-INGREDIENT SPAN:  yellow 
+      NON-INGREDIENT SPAN:  red 
+
+
+SENTID: 7
+SENT: I would arrange chicken on top ,
+PREDID: 485
+PRED: arrange
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+
+SENTID: 8
+SENT: I would pour on the dressing .
+PREDID: 505
+PRED: pour
+   DOBJ: NULL
+   PARG: the dressing
+     PREP: on
+      NON-INGREDIENT SPAN: the dressing
+
+

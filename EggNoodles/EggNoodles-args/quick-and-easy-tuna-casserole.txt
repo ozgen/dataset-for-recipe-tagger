@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: I would bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of water
+      NON-INGREDIENT SPAN: a large pot of water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add noodles and frozen peas .
+PREDID: 29
+PRED: add
+   DOBJ: noodles, frozen peas
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles
+      INGREDIENT SPAN:  frozen peas
+         INGREDIENTS: frozen green peas
+
+
+SENTID: 2
+SENT: I would cook until noodles are al dente , drain well .
+PREDID: 53
+PRED: cook
+   DOBJ: NULL
+   PARG: noodles are al dente
+     PREP: until
+      NON-INGREDIENT SPAN: noodles are al dente
+
+
+SENTID: 3
+SENT: I would return noodles and peas to the pot .
+PREDID: 90
+PRED: return
+   DOBJ: noodles, peas
+      NON-INGREDIENT SPAN:  peas
+      NON-INGREDIENT SPAN: noodles
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would mix soup , tuna fish , the onions , processed cheese and pepper into the pot .
+PREDID: 119
+PRED: mix
+   DOBJ: soup , tuna fish , the onions , processed cheese, pepper into the pot
+      INGREDIENT SPAN: soup 
+         INGREDIENTS: ounce condensed cream mushroom soup
+      INGREDIENT SPAN:  pepper into the pot
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  processed cheese
+         INGREDIENTS: slices American processed cheese
+      INGREDIENT SPAN:  the onions 
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  tuna fish 
+         INGREDIENTS: ounce tuna drained
+
+
+SENTID: 5
+SENT: I would stir constantly until all of the ingredients are well mixed and the cheese has melted .
+PREDID: 178
+PRED: stir
+   DOBJ: NULL
+   PARG: all of the ingredients are well mixed, the cheese has melted
+     PREP: until
+      NON-INGREDIENT SPAN: all of the ingredients are well mixed
+      NON-INGREDIENT SPAN:  the cheese has melted
+   OARG: constantly
+      NON-INGREDIENT SPAN: constantly
+
+
+SENTID: 6
+SENT: I would serve .
+PREDID: 250
+PRED: serve
+   DOBJ: NULL
+
+

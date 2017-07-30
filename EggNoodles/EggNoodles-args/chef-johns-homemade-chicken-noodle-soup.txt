@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: I would melt butter in a large soup pot over medium heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large soup pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large soup pot over medium heat
+
+
+SENTID: 1
+SENT: I would stir in carrot , the onion , the celery , the salt , and fresh thyme .
+PREDID: 40
+PRED: stir
+   DOBJ: NULL
+   PARG: carrot , the onion , the celery , the salt , fresh thyme
+     PREP: in
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: diced celery
+      INGREDIENT SPAN: carrot 
+         INGREDIENTS: diced carrot
+      INGREDIENT SPAN:  fresh thyme
+         INGREDIENTS: fresh thyme leaves
+
+
+SENTID: 2
+SENT: I would stir in chicken fat ;
+PREDID: 85
+PRED: stir
+   DOBJ: NULL
+   PARG: chicken fat
+     PREP: in
+      INGREDIENT SPAN: chicken fat
+         INGREDIENTS: melted chicken fat
+
+
+SENTID: 3
+SENT: I would cook and stir until the onions turn soft and translucent , 5 to 6 minutes .
+PREDID: 102
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the onions turn soft, translucent , 5 to 6 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  translucent 
+      NON-INGREDIENT SPAN: the onions turn soft
+      NON-INGREDIENT SPAN:  5 to 6 minutes
+
+
+SENTID: 4
+SENT: I would stir in roasted chicken broth and bring to a boil .
+PREDID: 162
+PRED: stir
+   DOBJ: NULL
+   PARG: roasted chicken broth
+     PREP: in
+      INGREDIENT SPAN: roasted chicken broth
+         INGREDIENTS: roasted chicken broth see footnote recipe link
+
+PREDID: 190
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would season to taste with salt , if necessary ;
+PREDID: 203
+PRED: season
+   DOBJ: NULL
+   OARG: to taste with salt , if necessary
+      INGREDIENT SPAN: to taste with salt 
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  if necessary
+
+
+SENTID: 6
+SENT: I would stir in egg noodles and cook until tender , about 5 minutes .
+PREDID: 237
+PRED: stir
+   DOBJ: NULL
+   PARG: egg noodles
+     PREP: in
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: uncooked wide egg noodles
+
+PREDID: 256
+PRED: cook
+   DOBJ: NULL
+   PARG: tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 7
+SENT: I would stir in cooked chicken breast meat and simmer until heated through , about 5 minutes .
+PREDID: 286
+PRED: stir
+   DOBJ: NULL
+   PARG: cooked chicken breast meat
+     PREP: in
+      INGREDIENT SPAN: cooked chicken breast meat
+         INGREDIENTS: cooked boneless chicken breast halves cubed
+
+PREDID: 318
+PRED: simmer
+   DOBJ: NULL
+   PARG: heated through , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: heated through 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 8
+SENT: I would season with cayenne pepper , the salt and black pepper to taste .
+PREDID: 357
+PRED: season
+   DOBJ: NULL
+   PARG: cayenne pepper , the salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: cayenne pepper 
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN:  the salt
+      NON-INGREDIENT SPAN:  black pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

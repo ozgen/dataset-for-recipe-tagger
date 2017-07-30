@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9x13 inch glass baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9x13 inch glass baking dish
+      NON-INGREDIENT SPAN: a 9x13 inch glass baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 69
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 111
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain and stir in 6 tablespoons sliced butter .
+PREDID: 156
+PRED: drain and stir
+   DOBJ: NULL
+   PARG: 6 tablespoons sliced butter
+     PREP: in
+      INGREDIENT SPAN: 6 tablespoons sliced 
+         INGREDIENTS: butter sliced
+      INGREDIENT SPAN: 6 tablespoons sliced butter
+         INGREDIENTS: butter melted
+
+
+SENTID: 5
+SENT: In a medium bowl beat egg yolks with sugar and cream cheese ;
+
+SENTID: 6
+SENT: I would stir into noodles and add sour cream , cottage cheese and salt .
+PREDID: 244
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles
+     PREP: into
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package large egg noodles
+
+PREDID: 262
+PRED: add
+   DOBJ: sour cream , cottage cheese, salt
+      INGREDIENT SPAN: sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  cottage cheese
+         INGREDIENTS: ounce package cottage cheese creamed
+
+
+SENTID: 7
+SENT: I would beat egg whites until stiff and fold into mixture .
+PREDID: 296
+PRED: beat
+   DOBJ: egg whites
+      INGREDIENT SPAN: egg whites
+         INGREDIENTS: eggs separated
+   PARG: stiff
+     PREP: until
+      NON-INGREDIENT SPAN: stiff
+
+PREDID: 322
+PRED: fold
+   DOBJ: NULL
+   PARG: mixture
+     PREP: into
+      NON-INGREDIENT SPAN: mixture
+
+
+SENTID: 8
+SENT: I would transfer mixture to prepared dish .
+PREDID: 338
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: prepared dish
+     PREP: to
+      NON-INGREDIENT SPAN: prepared dish
+
+
+SENTID: 9
+SENT: In a small bowl combine melted butter , 1/4 cup sugar , and graham cracker crumbs .
+PREDID: 394
+PRED: melted
+   DOBJ: butter , 1/4 cup sugar , graham cracker crumbs
+      INGREDIENT SPAN:  graham cracker crumbs
+         INGREDIENTS: graham cracker crumbs
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN:  1/4 cup sugar 
+         INGREDIENTS: white sugar
+   PARG: a small bowl combine
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl combine
+
+
+SENTID: 10
+SENT: I would sprinkle over noodle mixture .
+PREDID: 435
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: noodle mixture
+
+
+SENTID: 11
+SENT: I would bake in preheated oven for 1 hour .
+PREDID: 461
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 1 hour
+
+

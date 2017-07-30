@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 3
+SENT: I would drain .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would steam broccoli until bright green and tender , 5 to 10 minutes .
+PREDID: 131
+PRED: steam
+   DOBJ: broccoli
+      INGREDIENT SPAN: broccoli
+         INGREDIENTS: head broccoli cut florets
+   PARG: bright green, tender , 5 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: bright green
+      NON-INGREDIENT SPAN:  tender 
+      NON-INGREDIENT SPAN:  5 to 10 minutes
+
+
+SENTID: 5
+SENT: I would combine broccoli , the pasta and cottage cheese in 2 quart baking dish ;
+PREDID: 183
+PRED: combine
+   DOBJ: broccoli , the pasta, cottage cheese
+      INGREDIENT SPAN:  cottage cheese
+         INGREDIENTS: cottage cheese
+      NON-INGREDIENT SPAN:  the pasta
+      NON-INGREDIENT SPAN: broccoli 
+   PARG: 2 quart baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: 2 quart baking dish
+
+
+SENTID: 6
+SENT: I would mix well .
+PREDID: 239
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 7
+SENT: I would sprinkle pasta mixture with Cheddar cheese and bake for 8 to 10 minutes , until cheese is bubbly .
+PREDID: 247
+PRED: sprinkle
+   DOBJ: pasta mixture
+      NON-INGREDIENT SPAN: pasta mixture
+   PARG: cheddar cheese, bake for 8 to 10 minutes
+     PREP: with
+      INGREDIENT SPAN: cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  bake for 8 to 10 minutes
+   PARG: cheese is bubbly
+     PREP: until
+      NON-INGREDIENT SPAN: cheese is bubbly
+
+

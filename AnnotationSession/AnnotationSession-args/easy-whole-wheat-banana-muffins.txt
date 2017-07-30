@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would mix bananas , salad dressing , and sugar in a large bowl until smooth .
+PREDID: 38
+PRED: mix
+   DOBJ: bananas , salad dressing , sugar in a large bowl
+      INGREDIENT SPAN: bananas 
+         INGREDIENTS: mashed bananas
+      INGREDIENT SPAN:  salad dressing 
+         INGREDIENTS: creamy salad dressing (such as Miracle Whip®)
+      INGREDIENT SPAN:  sugar in a large bowl
+         INGREDIENTS: white sugar
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 2
+SENT: I would stir flour , baking soda , and salt into banana mixture until batter is just moistened .
+PREDID: 95
+PRED: stir
+   DOBJ: flour , baking soda , salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: whole wheat flour
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: banana mixture
+     PREP: into
+      NON-INGREDIENT SPAN: banana mixture
+
+
+SENTID: 3
+SENT: I would divide batter evenly into 24 muffin cups .
+PREDID: 173
+PRED: batter
+   DOBJ: NULL
+   PARG: 24 muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: 24 muffin cups
+
+
+SENTID: 4
+SENT: I would bake in the preheated oven until a toothpick inserted into the center comes out clean , about 17 minutes .
+PREDID: 202
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+
+

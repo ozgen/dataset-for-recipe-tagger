@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: I would preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 450 degrees F -LRB- 230 degrees C
+      NON-INGREDIENT SPAN: oven to 450 degrees F -LRB- 230 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine pumpkin , evaporated milk , the eggs , the sugar , the flour , salt vanilla and cinnamon .
+PREDID: 51
+PRED: combine
+   DOBJ: pumpkin , evaporated milk , the eggs , the sugar , the flour , salt vanilla, cinnamon
+      INGREDIENT SPAN:  salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: pumpkin puree
+      INGREDIENT SPAN:  salt vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would pour the filling into pie shell .
+PREDID: 121
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: inch unbaked pie crust
+
+
+SENTID: 3
+SENT: I would bake for 20 minutes at 450 degrees F -LRB- 230 degrees C -RRB-
+PREDID: 145
+PRED: bake
+   DOBJ: NULL
+   PARG: 20 minutes at 450 degrees f -lrb- 230 degrees c
+     PREP: for
+      NON-INGREDIENT SPAN: 20 minutes at 450 degrees f -lrb- 230 degrees c
+
+
+SENTID: 4
+SENT: I would turn oven temperature down to 350 degrees F -LRB- 175 degrees C -RRB- and continue the baking 40 more minutes or until a knife inserted in center comes out clean .
+PREDID: 187
+PRED: turn
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+PREDID: 247
+PRED: continue
+   DOBJ: NULL
+   PARG: the baking 40 more minutes or until a knife inserted in center comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: the baking 40 more minutes or until a knife inserted in center comes out clean
+
+
+SENTID: 5
+SENT: I would cool completely on a wire rack before serving .
+PREDID: 309
+PRED: cool
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: on
+      NON-INGREDIENT SPAN: a wire rack
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+

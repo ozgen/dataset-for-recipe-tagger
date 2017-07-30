@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: I would heat oil in a wok or large heavy skillet .
+PREDID: 0
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a wok or large heavy skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a wok or large heavy skillet
+
+
+SENTID: 1
+SENT: I would add chicken or pork -LRB- see Cook 's Note -RRB- , garlic , and oyster sauce , and stir-fry for 10 minutes .
+PREDID: 33
+PRED: add
+   DOBJ: NULL
+   PARG: chicken or pork -lrb- see cook 's note -rrb- , garlic , oyster sauce , stir-fry for 10 minutes
+     PREP: for
+      INGREDIENT SPAN: chicken or pork -lrb- see cook 's note -rrb- 
+         INGREDIENTS: boneless skinless chicken breasts cut cubes
+      INGREDIENT SPAN:  oyster sauce 
+         INGREDIENTS: oyster sauce
+      NON-INGREDIENT SPAN:  stir-fry for 10 minutes
+      NON-INGREDIENT SPAN:  garlic 
+
+
+SENTID: 2
+SENT: I would stir in broccoli , green pepper , the carrots , the cabbage , the celery , bean sprouts , the zucchini , and green onions .
+PREDID: 111
+PRED: stir
+   DOBJ: NULL
+   PARG: broccoli , green pepper , the carrots , the cabbage , the celery , bean sprouts , the zucchini , green onions
+     PREP: in
+      INGREDIENT SPAN:  bean sprouts 
+         INGREDIENTS: fresh bean sprouts
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: sliced carrots
+      INGREDIENT SPAN: broccoli 
+         INGREDIENTS: chopped broccoli
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN:  the cabbage 
+         INGREDIENTS: sliced napa cabbage
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: sliced celery
+      INGREDIENT SPAN:  the zucchini 
+         INGREDIENTS: sliced zucchini
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: sliced green bell pepper
+
+
+SENTID: 3
+SENT: I would season with salt , and stir-fry for 6 to 8 minutes .
+PREDID: 197
+PRED: season
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+   OARG: stir-fry
+      NON-INGREDIENT SPAN: stir-fry
+
+
+SENTID: 4
+SENT: In a small bowl , I would mix together water , soy sauce and cornstarch .
+PREDID: 251
+PRED: mix
+   DOBJ: water , soy sauce, cornstarch
+      INGREDIENT SPAN:  soy sauce
+         INGREDIENTS: mushroom soy sauce
+      INGREDIENT SPAN: water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir into vegetables , and cook for 1 to 2 minutes , or until sauce is thickened .
+PREDID: 290
+PRED: stir
+   DOBJ: NULL
+   PARG: vegetables
+     PREP: into
+      NON-INGREDIENT SPAN: vegetables
+
+PREDID: 345
+PRED: is thickened
+   DOBJ: NULL
+
+

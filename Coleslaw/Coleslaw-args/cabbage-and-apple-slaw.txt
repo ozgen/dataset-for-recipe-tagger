@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a salad bowl , I would combine and whisk together the yogurt , sour cream and honey .
+PREDID: 13
+PRED: combine and whisk
+   DOBJ: the yogurt , sour cream, honey
+      INGREDIENT SPAN:  honey
+         INGREDIENTS: honey
+      INGREDIENT SPAN:  sour cream
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN: the yogurt 
+         INGREDIENTS: plain yogurt
+   PARG: a salad bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a salad bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would refrigerate until chilled .
+PREDID: 64
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: chilled
+     PREP: until
+      NON-INGREDIENT SPAN: chilled
+
+
+SENTID: 2
+SENT: I would add the cabbage , the apple , the onion , the parsley , and salt and pepper to taste .
+PREDID: 88
+PRED: add
+   DOBJ: the cabbage , the apple , the onion , the parsley , salt, pepper
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: minced onion
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the apple 
+         INGREDIENTS: Granny Smith apple peeled cored chopped
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped parsley
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: shredded red cabbage
+      NON-INGREDIENT SPAN:  pepper
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would mix well and serve chilled .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+PREDID: 156
+PRED: serve
+   DOBJ: NULL
+
+

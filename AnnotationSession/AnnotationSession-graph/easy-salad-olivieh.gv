@@ -1,0 +1,53 @@
+digraph recipe {
+E0[label="place (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover (S0,P1)", shape=oval, style=filled, fillcolor=azure]
+E2[label="reduce (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="simmer (S1,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain and allow (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="place (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="refrigerate (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E7[label="fold (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="refrigerate (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: large potatoes
+(text: potatoes)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: into a large pot", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D2 -> E2
+P2_0[label="PREP: to medium-low", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+P1_0_0[label="PREP: with salted water", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: until tender", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT:  then peel"]
+D4_1[label="DOBJ: dice", shape=box, style=filled, fillcolor=white]
+D4_1 -> E4
+D4_2[label="DOBJ: cool ", shape=box, style=filled, fillcolor=white]
+D4_2 -> E4
+E1 -> E5 [label="OUTPUT: 
+INPUT: the diced potatoes"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: into a large mixing bowl"]
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+P6_0_0[label="PREP: until cold", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+P7_0_ing[label="PREP: in mustard, stalk celery, hard-cooked eggs, chopped pitted green olives, large dill pickles, whole rotisserie roast chicken, mayonnaise, salt
+(text: in  salt ,  olives ,  eggs ,  celery ,  chicken , the mayonnaise , pickles,  mustard )", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+E7 -> E8 [label="OUTPUT: 
+INPUT: 2 hours"]
+P8_0_0[label="PREP: before serving", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E8 -> EOR
+}

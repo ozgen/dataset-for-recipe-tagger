@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would whisk tomato sauce , sour cream , the mayonnaise , green salsa , and lime juice together in a bowl until combined .
+PREDID: 0
+PRED: whisk
+   DOBJ: tomato sauce , sour cream , the mayonnaise , green salsa , lime juice
+      INGREDIENT SPAN:  lime juice
+         INGREDIENTS: lime juiced
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: tomato sauce 
+         INGREDIENTS: ounce Mexicanstyle hot tomato sauce
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  green salsa 
+         INGREDIENTS: green salsa
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: combined
+     PREP: until
+      NON-INGREDIENT SPAN: combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would refrigerate the dressing while making salad .
+PREDID: 90
+PRED: refrigerate
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: making salad
+     PREP: while
+      NON-INGREDIENT SPAN: making salad
+
+
+SENTID: 2
+SENT: I would heat olive oil in a skillet over medium heat and cook onion in hot oil until translucent , about 5 minutes ;
+PREDID: 129
+PRED: heat
+   DOBJ: olive oil
+      INGREDIENT SPAN: olive oil
+         INGREDIENTS: olive oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 168
+PRED: cook
+   DOBJ: onion in hot oil
+      INGREDIENT SPAN: onion in hot oil
+         INGREDIENTS: diced onion
+   PARG: translucent , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: translucent 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would stir often .
+PREDID: 216
+PRED: stir
+   DOBJ: NULL
+   OARG: often
+      NON-INGREDIENT SPAN: often
+
+
+SENTID: 4
+SENT: I would mix garlic into onion and remove from heat ;
+PREDID: 226
+PRED: mix
+   DOBJ: NULL
+   PARG: onion
+     PREP: into
+      NON-INGREDIENT SPAN: onion
+   OARG: garlic
+      NON-INGREDIENT SPAN: garlic
+
+PREDID: 247
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+
+SENTID: 5
+SENT: I would stir cooked chicken in skillet and allow chicken to warm .
+PREDID: 262
+PRED: stir
+   DOBJ: cooked chicken
+      INGREDIENT SPAN: cooked chicken
+         INGREDIENTS: diced rotisserie chicken meat
+   PARG: skillet
+     PREP: in
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 291
+PRED: allow
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   OARG: to warm
+      NON-INGREDIENT SPAN: to warm
+
+
+SENTID: 6
+SENT: I would transfer chicken mixture to a large salad bowl and sprinkle with Monterey jack cheese ;
+PREDID: 310
+PRED: transfer
+   DOBJ: chicken mixture
+      NON-INGREDIENT SPAN: chicken mixture
+   PARG: a large salad bowl, sprinkle with monterey jack cheese
+     PREP: to
+      INGREDIENT SPAN:  sprinkle with monterey jack cheese
+         INGREDIENTS: shredded Monterey jack cheese
+      NON-INGREDIENT SPAN: a large salad bowl
+
+
+SENTID: 7
+SENT: I would cheese will warm and soften .
+PREDID: 383
+PRED: cheese warm
+   DOBJ: NULL
+   OARG: will
+      NON-INGREDIENT SPAN: will
+
+
+SENTID: 8
+SENT: I would top chicken and cheese with cold lettuce and pour the dressing over salad .
+PREDID: 407
+PRED: top
+   DOBJ: chicken, cheese
+      INGREDIENT SPAN:  cheese
+         INGREDIENTS: shredded Monterey jack cheese
+      NON-INGREDIENT SPAN: chicken
+   PARG: cold lettuce
+     PREP: with
+      INGREDIENT SPAN: cold lettuce
+         INGREDIENTS: ounce bag shredded lettuce chilled
+
+PREDID: 444
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+
+SENTID: 9
+SENT: I would sprinkle in black olives .
+PREDID: 466
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: black olives
+     PREP: in
+      INGREDIENT SPAN: black olives
+         INGREDIENTS: ounce sliced black olives
+
+
+SENTID: 10
+SENT: I would toss salad thoroughly with dressing and sprinkle with crushed tortilla chips to serve .
+PREDID: 488
+PRED: toss
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: dressing
+     PREP: with
+      NON-INGREDIENT SPAN: dressing
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 522
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crushed tortilla chips
+     PREP: with
+      INGREDIENT SPAN: crushed tortilla chips
+         INGREDIENTS: crushed tortilla chips
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

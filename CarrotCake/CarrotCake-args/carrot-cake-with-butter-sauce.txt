@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix flour , the soda , baking powder , the cinnamon , the nutmeg , the cloves and salt .
+PREDID: 52
+PRED: mix
+   DOBJ: flour , the soda , baking powder , the cinnamon , the nutmeg , the cloves, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  baking powder 
+         INGREDIENTS: baking powder
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  the soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 109
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large bowl , I would cream brown sugar and 1/2 cup margarine .
+PREDID: 131
+PRED: cream
+   DOBJ: brown sugar, 1/2 cup margarine
+      INGREDIENT SPAN: brown sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  1/2 cup margarine
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 4
+SENT: I would add eggs and mix in .
+PREDID: 165
+PRED: add
+   DOBJ: eggs, mix
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+      NON-INGREDIENT SPAN:  mix
+   OARG: in
+      NON-INGREDIENT SPAN: in
+
+
+SENTID: 5
+SENT: I would add shredded carrots , the raisins and orange juice .
+PREDID: 181
+PRED: add
+   DOBJ: shredded carrots , the raisins, orange juice
+      INGREDIENT SPAN:  orange juice
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  the raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: shredded carrots 
+         INGREDIENTS: shredded carrots
+
+
+SENTID: 6
+SENT: I would stir in flour mixture , and beat until well combined .
+PREDID: 222
+PRED: stir
+   DOBJ: NULL
+   PARG: flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: flour mixture
+
+PREDID: 244
+PRED: beat
+   DOBJ: NULL
+   PARG: well combined
+     PREP: until
+      NON-INGREDIENT SPAN: well combined
+
+
+SENTID: 7
+SENT: I would pour into ungreased 8x8 inch pan .
+PREDID: 266
+PRED: pour
+   DOBJ: NULL
+   PARG: ungreased 8x8 inch pan
+     PREP: into
+      NON-INGREDIENT SPAN: ungreased 8x8 inch pan
+
+
+SENTID: 8
+SENT: I would bake at 325 degrees F -LRB- 165 degrees C -RRB- for 35 to 40 minutes .
+PREDID: 294
+PRED: bake
+   DOBJ: NULL
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+   PARG: 35 to 40 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 35 to 40 minutes
+
+
+SENTID: 9
+SENT: I would butter sauce :
+PREDID: 341
+PRED: butter
+   DOBJ: sauce
+      NON-INGREDIENT SPAN: sauce
+
+
+SENTID: 10
+SENT: In a saucepan over low heat , I would combine 1/2 cup butter or margarine , the sugar , the cornstarch , the water and vanilla .
+PREDID: 376
+PRED: combine
+   DOBJ: 1/2 cup butter or margarine , the sugar , the cornstarch , the water, vanilla
+      INGREDIENT SPAN:  the water
+         INGREDIENTS: water
+      INGREDIENT SPAN: 1/2 cup butter or margarine 
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: packed brown sugar
+   PARG: a saucepan over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan over low heat
+
+
+SENTID: 11
+SENT: I would cook and stir .
+PREDID: 440
+PRED: cook and stir
+   DOBJ: NULL
+
+
+SENTID: 12
+SENT: When mixture comes to a boil , continue to boil for 1 minute .
+PREDID: 476
+PRED: continue
+   DOBJ: NULL
+   PARG: boil for 1 minute
+     PREP: to
+      NON-INGREDIENT SPAN: boil for 1 minute
+   OARG: when mixture comes to a boil
+      NON-INGREDIENT SPAN: when mixture comes to a boil
+
+
+SENTID: 13
+SENT: I would serve warm over carrot cake squares -LRB- can be reheated in microwave -RRB- .
+PREDID: 501
+PRED: serve
+   DOBJ: NULL
+   PARG: carrot cake squares -lrb- can be reheated in microwave
+     PREP: over
+      NON-INGREDIENT SPAN: carrot cake squares -lrb- can be reheated in microwave
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

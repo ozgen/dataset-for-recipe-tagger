@@ -1,0 +1,204 @@
+SENTID: 0
+SENT: I would preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 400 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: oven to 400 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: If using a pizza stone , I would place in oven to preheat .
+PREDID: 57
+PRED: place
+   DOBJ: NULL
+   PARG: using a pizza stone
+     PREP: if
+      INGREDIENT SPAN: using a pizza stone
+         INGREDIENTS: ounce package refrigerated pizza crust
+   PARG: oven
+     PREP: in
+      NON-INGREDIENT SPAN: oven
+   PARG: preheat
+     PREP: to
+      NON-INGREDIENT SPAN: preheat
+
+
+SENTID: 2
+SENT: I would heat 1 tablespoon olive oil in a large skillet ;
+PREDID: 78
+PRED: heat
+   DOBJ: 1 tablespoon olive oil
+      INGREDIENT SPAN: 1 tablespoon olive oil
+         INGREDIENTS: olive oil
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+
+SENTID: 3
+SENT: I would cook and stir onion and garlic until tender , about 5 minutes .
+PREDID: 117
+PRED: cook and stir
+   DOBJ: onion, garlic
+      INGREDIENT SPAN: onion
+         INGREDIENTS: diced onion
+      NON-INGREDIENT SPAN:  garlic
+   PARG: tender , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: tender 
+
+
+SENTID: 4
+SENT: I would add spinach and continue to cook and stir until all liquid has evaporated , 5 to 7 minutes .
+PREDID: 168
+PRED: add
+   DOBJ: spinach
+      INGREDIENT SPAN: spinach
+         INGREDIENTS: ounce package frozen chopped spinach thawed squeezed dry
+   PARG: 5 to 7 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 5 to 7 minutes
+
+PREDID: 181
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook
+      NON-INGREDIENT SPAN: to cook
+
+PREDID: 198
+PRED: stir
+   DOBJ: NULL
+   PARG: all liquid has evaporated
+     PREP: until
+      NON-INGREDIENT SPAN: all liquid has evaporated
+
+
+SENTID: 5
+SENT: I would remove from heat and season with basil , lemon juice , the oregano , and pepper .
+PREDID: 242
+PRED: remove
+   DOBJ: NULL
+   PARG: heat, season
+     PREP: from
+      NON-INGREDIENT SPAN:  season
+      NON-INGREDIENT SPAN: heat
+   PARG: basil , lemon juice , the oregano , pepper
+     PREP: with
+      INGREDIENT SPAN: basil 
+         INGREDIENTS: chopped fresh basil
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper taste
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+
+
+SENTID: 6
+SENT: I would allow mixture to cool slightly .
+PREDID: 304
+PRED: allow
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   OARG: to cool slightly
+      NON-INGREDIENT SPAN: to cool slightly
+
+
+SENTID: 7
+SENT: I would unroll pizza dough on preheated pizza stone or a large baking sheet and brush with remaining 1 tablespoon olive oil .
+PREDID: 331
+PRED: unroll
+   DOBJ: pizza dough
+      NON-INGREDIENT SPAN: pizza dough
+   PARG: preheated pizza stone or a large baking sheet
+     PREP: on
+      NON-INGREDIENT SPAN: preheated pizza stone or a large baking sheet
+
+PREDID: 390
+PRED: brush
+   DOBJ: NULL
+   PARG: remaining 1 tablespoon olive oil
+     PREP: with
+      INGREDIENT SPAN: remaining 1 tablespoon olive oil
+         INGREDIENTS: olive oil
+
+
+SENTID: 8
+SENT: I would spread spinach mixture over dough , leaving a small border at the edge of the pizza crust .
+PREDID: 428
+PRED: spread
+   DOBJ: spinach mixture
+      NON-INGREDIENT SPAN: spinach mixture
+   PARG: dough
+     PREP: over
+      NON-INGREDIENT SPAN: dough
+   OARG: leaving a small border at the edge of the pizza crust
+      NON-INGREDIENT SPAN: leaving a small border at the edge of the pizza crust
+
+
+SENTID: 9
+SENT: I would top with 1 cup mozzarella cheese .
+PREDID: 502
+PRED: top
+   DOBJ: NULL
+   PARG: 1 cup mozzarella cheese
+     PREP: with
+      INGREDIENT SPAN: 1 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 10
+SENT: I would press tomato slices into seasoned bread crumbs until coated ;
+PREDID: 530
+PRED: press
+   DOBJ: tomato slices
+      INGREDIENT SPAN: tomato slices
+         INGREDIENTS: large tomato sliced
+   PARG: seasoned bread crumbs
+     PREP: into
+      INGREDIENT SPAN: seasoned bread crumbs
+         INGREDIENTS: seasoned bread crumbs
+   PARG: coated
+     PREP: until
+      NON-INGREDIENT SPAN: coated
+
+
+SENTID: 11
+SENT: I would arrange tomatoes over pizza .
+PREDID: 582
+PRED: arrange
+   DOBJ: tomatoes
+      NON-INGREDIENT SPAN: tomatoes
+   PARG: pizza
+     PREP: over
+      NON-INGREDIENT SPAN: pizza
+
+
+SENTID: 12
+SENT: I would spread the remaining 1 cup mozzarella cheese and feta cheese over tomatoes .
+PREDID: 607
+PRED: spread
+   DOBJ: the remaining 1 cup mozzarella cheese, feta cheese over tomatoes
+      INGREDIENT SPAN:  feta cheese over tomatoes
+         INGREDIENTS: crumbled feta cheese
+      INGREDIENT SPAN: the remaining 1 cup mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 13
+SENT: I would bake in preheated oven until pizza crust is golden brown and cheese is melted , about 15 minutes .
+PREDID: 668
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: pizza crust is golden brown, cheese is melted , about 15 minutes
+     PREP: until
+      INGREDIENT SPAN:  cheese is melted 
+         INGREDIENTS: shredded mozzarella cheese
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: pizza crust is golden brown
+
+

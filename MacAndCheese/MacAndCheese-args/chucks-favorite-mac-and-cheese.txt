@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would add pasta ;
+PREDID: 80
+PRED: add
+   DOBJ: pasta
+      NON-INGREDIENT SPAN: pasta
+
+
+SENTID: 3
+SENT: I would and cook until done ;
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 89
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: In 9x13 inch baking dish , I would stir together macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , the salt and pepper .
+PREDID: 116
+PRED: stir
+   DOBJ: macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , the salt, pepper
+      INGREDIENT SPAN:  shredded Cheddar cheese 
+         INGREDIENTS: ounce package shredded sharp Cheddar cheese
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  cottage cheese 
+         INGREDIENTS: ounce container small curd cottage cheese
+      INGREDIENT SPAN:  Parmesan cheese 
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: macaroni 
+         INGREDIENTS: ounce package elbow macaroni
+      INGREDIENT SPAN:  sour cream 
+         INGREDIENTS: ounce container sour cream
+      NON-INGREDIENT SPAN:  pepper
+   PARG: 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: 9x13 inch baking dish
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix together bread crumbs and melted butter .
+PREDID: 225
+PRED: mix
+   DOBJ: bread crumbs, melted butter
+      INGREDIENT SPAN:  melted butter
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: dry bread crumbs
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would sprinkle the topping over macaroni mixture .
+PREDID: 263
+PRED: sprinkle
+   DOBJ: the topping over macaroni mixture
+      NON-INGREDIENT SPAN: the topping over macaroni mixture
+
+
+SENTID: 8
+SENT: I would bake 30 to 35 minutes , or until top is golden .
+PREDID: 298
+PRED: bake
+   DOBJ: 30
+      NON-INGREDIENT SPAN: 30
+   PARG: 35 minutes , or until top is golden
+     PREP: to
+      NON-INGREDIENT SPAN: 35 minutes 
+      NON-INGREDIENT SPAN:  or until top is golden
+
+

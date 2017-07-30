@@ -1,0 +1,59 @@
+digraph recipe {
+E0[label="scrub
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cut
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="boil
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="drain
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="dry
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="cut
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="combine
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="toss
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="add
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="refrigerate
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: large red potatoes", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+O1_0_0[label="OTHER: if large", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+O1_1_0[label="OTHER: in half or in quarters", shape=box, style=filled, fillcolor=white]
+O1_1_0 -> E1
+E1 -> E2 [label="potatoes"]
+O2_0_0[label="OTHER: in their skins", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+O2_1_0[label="OTHER: until fork-tender", shape=box, style=filled, fillcolor=white]
+O2_1_0 -> E2
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: into 1/2 inch cubes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: fresh chives finely, plain yogurt, sour cream", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="the potatoes"]
+P6_0_0[label="LOCATION:in a salad bowl", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="IMPLICIT DOBJ"]
+O7_0_0[label="OTHER: gently", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+O7_1_0[label="OTHER: to coat", shape=box, style=filled, fillcolor=white]
+O7_1_0 -> E7
+D8_ing[label="DOBJ: ground black pepper to taste, salt", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="IMPLICIT PREP"]
+O8_0_0[label="OTHER: to taste", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+O9_0_0[label="OTHER: until chilled", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

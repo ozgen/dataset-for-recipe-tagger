@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: I would place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 1
+SENT: I would cook over medium-high heat until evenly brown .
+PREDID: 36
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 2
+SENT: I would drain excess fat , and crumble .
+PREDID: 76
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 3
+SENT: I would stir in onion , green pepper , tomato sauce , tomato paste and chili beans .
+PREDID: 102
+PRED: stir
+   DOBJ: NULL
+   PARG: onion , green pepper , tomato sauce , tomato paste, chili beans
+     PREP: in
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: onion diced
+      INGREDIENT SPAN:  tomato paste
+         INGREDIENTS: tomato paste
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN:  chili beans
+         INGREDIENTS: ounce chili beans drained
+
+
+SENTID: 4
+SENT: I would season with chili powder , hot sauce , seasoning salt , cayenne pepper and garlic powder .
+PREDID: 163
+PRED: season
+   DOBJ: NULL
+   PARG: chili powder , hot sauce , seasoning salt , cayenne pepper, garlic powder
+     PREP: with
+      INGREDIENT SPAN:  seasoning salt 
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: ground cayenne pepper
+      INGREDIENT SPAN: chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      NON-INGREDIENT SPAN:  hot sauce 
+
+
+SENTID: 5
+SENT: I would cook over low heat , stirring occasionally , until desired consistency -LRB- at least 1 hour for best flavor -RRB- .
+PREDID: 237
+PRED: cook
+   DOBJ: low heat
+      NON-INGREDIENT SPAN: low heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: stirring occasionally , until desired consistency -lrb- at least 1 hour for best flavor
+      NON-INGREDIENT SPAN: stirring occasionally 
+      NON-INGREDIENT SPAN:  until desired consistency -lrb- at least 1 hour for best flavor
+
+

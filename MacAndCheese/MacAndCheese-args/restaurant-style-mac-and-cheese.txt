@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 87
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would return drained pasta to the pot .
+PREDID: 93
+PRED: return
+   DOBJ: drained pasta
+      NON-INGREDIENT SPAN: drained pasta
+   PARG: the pot
+     PREP: to
+      NON-INGREDIENT SPAN: the pot
+
+
+SENTID: 4
+SENT: I would mix in processed cheese , Cheddar cheese , and cream .
+PREDID: 120
+PRED: mix
+   DOBJ: NULL
+   PARG: processed cheese , cheddar cheese , cream
+     PREP: in
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: heavy cream
+      INGREDIENT SPAN:  cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: processed cheese 
+         INGREDIENTS: processed cheese shredded
+
+
+SENTID: 5
+SENT: I would stir until cheeses melt .
+PREDID: 164
+PRED: stir
+   DOBJ: NULL
+   PARG: cheeses melt
+     PREP: until
+      NON-INGREDIENT SPAN: cheeses melt
+
+
+SENTID: 6
+SENT: I would sprinkle with salt .
+PREDID: 185
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt taste
+
+

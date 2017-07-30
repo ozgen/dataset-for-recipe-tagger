@@ -1,0 +1,49 @@
+digraph recipe {
+E0[label="blend
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="add
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="fold
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="spoon
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="bake
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="remove
+5", shape=oval, style=filled, fillcolor=azure]
+D5[label="DOBJ: the muffins", shape=box, style=filled, fillcolor=white]
+D5 -> E5
+P5_0[label="OTHER:to a wire rack", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+O5_0[label="OTHER: to cool completely", shape=box, style=filled, fillcolor=white]
+O5_0 -> E5
+D3[label="DOBJ: the batter", shape=box, style=filled, fillcolor=white]
+D3 -> E3
+P3_0[label="LOCATION:into a greased muffin pan", shape=box, style=filled, fillcolor=white]
+P3_0 -> E3
+O3_0[label="OTHER: filling three-fourths full", shape=box, style=filled, fillcolor=white]
+O3_0 -> E3
+D0[label="DOBJ: canola oil, mashed bananas, egg
+(text: the bananas , the oil, egg)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in another bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_0[label="OTHER:to dry ingredients", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+O1_0_0[label="OTHER: mixing just until blended", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_ing[label="COOBJECT: in semi-sweet chocolate chips
+(text: in the chocolate chips)", shape=box, style=filled, fillcolor=peachpuff]
+P2_0_ing -> E2
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="LOCATION:in a preheated 425 degree f -lrb- 220 degrees c", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_1_0[label="DURATION:for 15 to 20 minutes", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

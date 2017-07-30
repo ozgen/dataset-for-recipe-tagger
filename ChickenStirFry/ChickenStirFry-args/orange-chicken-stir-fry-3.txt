@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would stir orange juice , soy sauce , garlic , orange zest , ground ginger , and red pepper flakes together in a bowl until thoroughly combined .
+PREDID: 0
+PRED: stir
+   DOBJ: orange juice , soy sauce , garlic , orange zest , ground ginger , red pepper flakes
+      INGREDIENT SPAN:  ground ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      INGREDIENT SPAN:  red pepper flakes
+         INGREDIENTS: red pepper flakes
+      INGREDIENT SPAN: orange juice 
+         INGREDIENTS: orange juice
+      NON-INGREDIENT SPAN:  orange zest 
+      NON-INGREDIENT SPAN:  garlic 
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 1
+SENT: I would heat oil in a large skillet or wok over medium-high heat .
+PREDID: 113
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium-high heat
+
+
+SENTID: 2
+SENT: I would cook and stir chicken and orange juice mixture in the hot oil until the chicken is no longer pink in the middle and the juices run clear , 7 to 10 minutes .
+PREDID: 160
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: chicken, orange juice mixture in the hot oil until the chicken is no longer pink in the middle, the juices run clear , 7 to 10 minutes
+     PREP: for
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: chicken broth
+      INGREDIENT SPAN:  orange juice mixture in the hot oil until the chicken is no longer pink in the middle
+         INGREDIENTS: skinless boneless chicken breast halves sliced
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN:  the juices run clear 
+
+
+SENTID: 3
+SENT: I would whisk chicken broth and cornstarch together in a small bowl ;
+PREDID: 284
+PRED: whisk
+   DOBJ: chicken broth, cornstarch
+      INGREDIENT SPAN:  cornstarch
+         INGREDIENTS: cornstarch
+      NON-INGREDIENT SPAN: chicken broth
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir into the chicken and sauce mixture in small amounts until sauce has thickened to your liking .
+PREDID: 335
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken, sauce mixture in small amounts
+     PREP: into
+      NON-INGREDIENT SPAN: the chicken
+      NON-INGREDIENT SPAN:  sauce mixture in small amounts
+   PARG: sauce has thickened to your liking
+     PREP: until
+      NON-INGREDIENT SPAN: sauce has thickened to your liking
+
+
+SENTID: 5
+SENT: Mix stir-fry vegetables , I would sugar snap peas , the broccoli , and carrot into the chicken and sauce mixture ;
+PREDID: 439
+PRED: sugar
+   DOBJ: snap peas , the broccoli , carrot
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: broccoli florets
+      INGREDIENT SPAN:  carrot
+         INGREDIENTS: sliced carrot
+      INGREDIENT SPAN: snap peas 
+         INGREDIENTS: sugar snap peas
+   PARG: stir-fry vegetables
+     PREP: mix
+      INGREDIENT SPAN: stir-fry vegetables
+         INGREDIENTS: ounce package frozen stirfry vegetables
+   PARG: the chicken, sauce mixture
+     PREP: into
+      NON-INGREDIENT SPAN:  sauce mixture
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 6
+SENT: I would cook and stir until the vegetables are slightly softened , another 7 to 10 minutes .
+PREDID: 501
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the vegetables are slightly softened , another 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  another 7 to 10 minutes
+      NON-INGREDIENT SPAN: the vegetables are slightly softened 
+
+

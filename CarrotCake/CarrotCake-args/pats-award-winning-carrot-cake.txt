@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 10-inch Bundt pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 10-inch Bundt pan
+      NON-INGREDIENT SPAN: a 10-inch Bundt pan
+
+
+SENTID: 2
+SENT: I would sift together the flour , baking soda , the cinnamon and salt .
+PREDID: 69
+PRED: sift
+   DOBJ: the flour , baking soda , the cinnamon, salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 117
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix the oil and sugar until smooth .
+PREDID: 139
+PRED: mix
+   DOBJ: the oil, sugar
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  sugar
+         INGREDIENTS: white sugar
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 5
+SENT: I would beat in the eggs one at a time ,
+PREDID: 168
+PRED: beat
+   DOBJ: NULL
+   PARG: the eggs one
+     PREP: in
+      INGREDIENT SPAN: the eggs one
+         INGREDIENTS: eggs
+   PARG: a time
+     PREP: at
+      NON-INGREDIENT SPAN: a time
+
+
+SENTID: 6
+SENT: I would stir in the vanilla .
+PREDID: 192
+PRED: stir
+   DOBJ: NULL
+   PARG: the vanilla
+     PREP: in
+      INGREDIENT SPAN: the vanilla
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 7
+SENT: I would blend in the flour mixture just until combined .
+PREDID: 209
+PRED: blend
+   DOBJ: NULL
+   PARG: the flour mixture
+     PREP: in
+      NON-INGREDIENT SPAN: the flour mixture
+   OARG: just until combined
+      NON-INGREDIENT SPAN: just until combined
+
+
+SENTID: 8
+SENT: I would stir in chopped pecans , carrot baby food , grated carrots , and coconut .
+PREDID: 249
+PRED: stir
+   DOBJ: NULL
+   PARG: chopped pecans , carrot baby food , grated carrots , coconut
+     PREP: in
+      INGREDIENT SPAN:  grated carrots 
+         INGREDIENTS: grated carrot
+      INGREDIENT SPAN:  coconut
+         INGREDIENTS: flaked coconut
+      INGREDIENT SPAN: chopped pecans 
+         INGREDIENTS: chopped pecans
+      INGREDIENT SPAN:  carrot baby food 
+         INGREDIENTS: ounce jars carrot baby food
+
+
+SENTID: 9
+SENT: I would pour batter into prepared pan .
+PREDID: 309
+PRED: pour
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: prepared pan
+
+
+SENTID: 10
+SENT: I would bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean , 50 to 60 minutes .
+PREDID: 335
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center of the cake comes out clean , 50 to 60 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center of the cake comes out clean 
+      NON-INGREDIENT SPAN:  50 to 60 minutes
+
+
+SENTID: 11
+SENT: I would let cool in pan for 10 minutes ,
+PREDID: 430
+PRED: let
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: cool in pan
+      NON-INGREDIENT SPAN: cool in pan
+
+
+SENTID: 12
+SENT: I would turn out onto a wire rack and cool completely .
+PREDID: 455
+PRED: turn
+   DOBJ: NULL
+   PARG: a wire rack
+     PREP: onto
+      NON-INGREDIENT SPAN: a wire rack
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 478
+PRED: cool
+   DOBJ: NULL
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+

@@ -1,0 +1,37 @@
+digraph recipe {
+E0[label="brown (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="drain (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="add (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="reduce (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="top (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: grease", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D0[label="DOBJ: ground beef, onion
+(text: beef and onion , about 10 minutes)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a medium stock pot", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D2_ing[label="DOBJ: water, (15 ounce) can whole kernel corn, (15 ounce) can tomato sauce, (15 ounce) can pinto beans, (1.25 ounce) package taco seasoning mix
+(text:  corn, taco seasoning,  beans ,  water ,  tomato sauce )", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="OUTPUT: 
+INPUT: tomatoes "]
+D3_0[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D3_0 -> E3
+D3_1[label="DOBJ: simmer", shape=box, style=filled, fillcolor=white]
+D3_1 -> E3
+E0 -> E3 [label="OUTPUT: 
+INPUT: for 5 minutes"]
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+P4_0_0[label="PREP: with  sour cream", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_0_1[label="PREP: with cheese ", shape=box, style=filled, fillcolor=white]
+P4_0_1 -> E4
+E2 -> E4 [label="OUTPUT: 
+INPUT: with  corn chips "]
+P4_0_3[label="PREP: with olives", shape=box, style=filled, fillcolor=white]
+P4_0_3 -> E4
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

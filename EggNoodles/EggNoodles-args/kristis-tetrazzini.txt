@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would coat a 13x9 inch baking dish with cooking spray .
+PREDID: 38
+PRED: coat
+   DOBJ: a 13x9 inch baking dish
+      NON-INGREDIENT SPAN: a 13x9 inch baking dish
+   PARG: cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: cooking spray
+
+
+SENTID: 2
+SENT: In a 3 quart saucepan , I would boil chicken for about 30 minutes .
+PREDID: 96
+PRED: boil
+   DOBJ: NULL
+   PARG: a 3 quart saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a 3 quart saucepan
+   PARG: chicken for about 30 minutes
+     PREP: for
+      INGREDIENT SPAN: chicken for about 30 minutes
+         INGREDIENTS: ounce condensed cream chicken soup
+
+
+SENTID: 3
+SENT: I would drain , and cut into bite sized pieces .
+PREDID: 125
+PRED: drain
+   DOBJ: NULL
+
+PREDID: 134
+PRED: cut
+   DOBJ: NULL
+   PARG: bite sized pieces
+     PREP: into
+      NON-INGREDIENT SPAN: bite sized pieces
+
+
+SENTID: 4
+SENT: I would meanwhile , cook pasta according to directions .
+
+SENTID: 5
+SENT: I would drain .
+PREDID: 157
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 6
+SENT: In a large bowl , I would mix together cream of chicken soup , the broccoli , the celery , sliced mushrooms , seasoned salt , the salt , the pepper , and onion .
+PREDID: 176
+PRED: mix
+   DOBJ: cream of chicken soup , the broccoli , the celery , sliced mushrooms , seasoned salt , the salt , the pepper , onion
+      INGREDIENT SPAN:  the broccoli 
+         INGREDIENTS: fresh broccoli minced
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt taste
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN: cream of chicken soup 
+         INGREDIENTS: ounce condensed cream chicken soup
+      INGREDIENT SPAN:  seasoned salt 
+         INGREDIENTS: seasoned salt
+      INGREDIENT SPAN:  sliced mushrooms 
+         INGREDIENTS: fresh sliced mushrooms
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery chopped
+      INGREDIENT SPAN:  the pepper 
+         INGREDIENTS: ground black pepper taste
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would stir in pasta and chicken pieces .
+PREDID: 272
+PRED: stir
+   DOBJ: NULL
+   PARG: pasta, chicken pieces
+     PREP: in
+      INGREDIENT SPAN:  chicken pieces
+         INGREDIENTS: skinless boneless chicken breast halves
+      NON-INGREDIENT SPAN: pasta
+
+
+SENTID: 8
+SENT: I would spread mixture into the prepared baking dish .
+PREDID: 300
+PRED: spread
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: the prepared baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared baking dish
+
+
+SENTID: 9
+SENT: I would sprinkle with shredded cheese and paprika .
+PREDID: 339
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: shredded cheese, paprika
+     PREP: with
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  paprika
+         INGREDIENTS: paprika
+
+
+SENTID: 10
+SENT: I would bake for 45 minutes .
+PREDID: 376
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 minutes
+
+

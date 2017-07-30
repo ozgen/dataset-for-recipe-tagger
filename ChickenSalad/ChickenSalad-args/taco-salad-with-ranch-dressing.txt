@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: I would cook the chicken breasts in a medium skillet over medium high heat for 12 to 16 minutes , or until chicken is cooked though and juices run clear .
+PREDID: 0
+PRED: cook
+   DOBJ: the chicken breasts
+      INGREDIENT SPAN: the chicken breasts
+         INGREDIENTS: skinless boneless chicken breast meat
+   PARG: a medium skillet over medium high heat for 12 to 16 minutes , or until chicken is cooked though, juices run clear
+     PREP: in
+      INGREDIENT SPAN: a medium skillet over medium high heat for 12 to 16 minutes 
+         INGREDIENTS: ounce jar medium salsa
+      NON-INGREDIENT SPAN:  or until chicken is cooked though
+      NON-INGREDIENT SPAN:  juices run clear
+
+
+SENTID: 1
+SENT: I would let cool slightly
+PREDID: 118
+PRED: let
+   DOBJ: NULL
+   OARG: cool slightly
+      NON-INGREDIENT SPAN: cool slightly
+
+
+SENTID: 2
+SENT: I would slice into strips .
+PREDID: 133
+PRED: slice
+   DOBJ: NULL
+   PARG: strips
+     PREP: into
+      NON-INGREDIENT SPAN: strips
+
+
+SENTID: 3
+SENT: In a large bowl , I would toss together the chicken , chili powder , the lettuce , the salsa , the dressing , the Cheddar , Monterey Jack , the olives and tortilla chips until evenly coated .
+PREDID: 162
+PRED: toss
+   DOBJ: the chicken , chili powder , the lettuce , the salsa , the dressing , the Cheddar , Monterey Jack , the olives, tortilla chips
+      INGREDIENT SPAN:  tortilla chips
+         INGREDIENTS: crushed tortilla chips
+      INGREDIENT SPAN:  the lettuce 
+         INGREDIENTS: lettuce chopped
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the Cheddar 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the olives
+         INGREDIENTS: chopped black olives
+      INGREDIENT SPAN:  the salsa 
+         INGREDIENTS: ounce jar medium salsa
+      INGREDIENT SPAN:  the dressing 
+         INGREDIENTS: ounce bottle Ranchstyle salad dressing
+      INGREDIENT SPAN:  Monterey Jack 
+         INGREDIENTS: shredded Monterey Jack cheese
+      NON-INGREDIENT SPAN: the chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly coated
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would chill until ready to serve .
+PREDID: 281
+PRED: chill
+   DOBJ: NULL
+   PARG: ready
+     PREP: until
+      NON-INGREDIENT SPAN: ready
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

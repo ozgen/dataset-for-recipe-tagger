@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: In a large skillet , I would cook the ground beef over medium-high heat until evenly brown .
+PREDID: 16
+PRED: cook
+   DOBJ: the ground beef over medium-high heat
+      INGREDIENT SPAN: the ground beef over medium-high heat
+         INGREDIENTS: extralean ground beef
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+
+
+SENTID: 1
+SENT: I would drain off excess fat .
+PREDID: 69
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+
+SENTID: 2
+SENT: In a large bowl , I would combine the cooked beef , refried beans , the oregano , the cumin and garlic powder .
+PREDID: 100
+PRED: combine
+   DOBJ: the cooked beef , refried beans , the oregano , the cumin, garlic powder
+      INGREDIENT SPAN:  the oregano 
+         INGREDIENTS: dried oregano
+      INGREDIENT SPAN:  refried beans 
+         INGREDIENTS: ounce refried beans
+      INGREDIENT SPAN:  garlic powder
+         INGREDIENTS: garlic powder
+      INGREDIENT SPAN:  the cumin
+         INGREDIENTS: ground cumin
+      NON-INGREDIENT SPAN: the cooked beef 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 3
+SENT: I would place four of the uncooked lasagna noodles in the bottom of a 9x13 inch baking dish .
+PREDID: 163
+PRED: place
+   DOBJ: four of the uncooked lasagna noodles
+      INGREDIENT SPAN: four of the uncooked lasagna noodles
+         INGREDIENTS: dry lasagna noodles
+   PARG: the bottom of a 9x13 inch baking dish
+     PREP: in
+      NON-INGREDIENT SPAN: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 4
+SENT: I would spread half of the beef mixture over the noodles .
+PREDID: 232
+PRED: spread
+   DOBJ: half of the beef mixture
+      NON-INGREDIENT SPAN: half of the beef mixture
+   PARG: the noodles
+     PREP: over
+      INGREDIENT SPAN: the noodles
+         INGREDIENTS: dry lasagna noodles
+
+
+SENTID: 5
+SENT: I would top with 4 more uncooked noodles and the remaining half of the beef mixture .
+PREDID: 273
+PRED: top
+   DOBJ: NULL
+   PARG: 4 more uncooked noodles, the remaining half of the beef mixture
+     PREP: with
+      NON-INGREDIENT SPAN: 4 more uncooked noodles
+      NON-INGREDIENT SPAN:  the remaining half of the beef mixture
+
+
+SENTID: 6
+SENT: I would cover with remaining noodles .
+PREDID: 336
+PRED: cover
+   DOBJ: NULL
+   PARG: remaining noodles
+     PREP: with
+      NON-INGREDIENT SPAN: remaining noodles
+
+
+SENTID: 7
+SENT: I would combine the water and the salsa in a medium bowl , and pour over all .
+PREDID: 362
+PRED: combine
+   DOBJ: the water, the salsa
+      INGREDIENT SPAN: the water
+         INGREDIENTS: water
+      INGREDIENT SPAN:  the salsa
+         INGREDIENTS: salsa
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+PREDID: 405
+PRED: pour
+   DOBJ: all
+      NON-INGREDIENT SPAN: all
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 8
+SENT: I would cover tightly with foil .
+PREDID: 417
+PRED: cover
+   DOBJ: NULL
+   OARG: tightly with foil
+      NON-INGREDIENT SPAN: tightly with foil
+
+
+SENTID: 9
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1?1/2 hours , or until noodles are tender .
+PREDID: 438
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: 1?1/2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 1?1/2 hours
+   OARG: noodles are tender
+      NON-INGREDIENT SPAN: noodles are tender
+
+
+SENTID: 10
+SENT: In a medium bowl , I would combine the sour cream , green onions and olives .
+PREDID: 520
+PRED: combine
+   DOBJ: the sour cream , green onions, olives
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: chopped green onions
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: ounce sliced black olives
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 11
+SENT: I would spoon over casserole , and top with shredded cheese .
+PREDID: 561
+PRED: spoon
+   DOBJ: NULL
+   PARG: casserole
+     PREP: over
+      NON-INGREDIENT SPAN: casserole
+
+PREDID: 583
+PRED: top
+   DOBJ: NULL
+   PARG: shredded cheese
+     PREP: with
+      INGREDIENT SPAN: shredded cheese
+         INGREDIENTS: shredded Pepper Jack cheese
+
+
+SENTID: 12
+SENT: I would return to the oven , and bake for an additional 5 to 10 minutes , or until cheese is melted .
+PREDID: 605
+PRED: return
+   DOBJ: NULL
+   PARG: the oven
+     PREP: to
+      NON-INGREDIENT SPAN: the oven
+
+PREDID: 671
+PRED: is melted
+   DOBJ: NULL
+
+

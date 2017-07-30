@@ -1,0 +1,45 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="place (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P91)", shape=oval, style=filled, fillcolor=azure]
+E3[label="add (S3,P143)", shape=oval, style=filled, fillcolor=azure]
+E4[label="add (S4,P164)", shape=oval, style=filled, fillcolor=azure]
+E5[label="stir (S5,P192)", shape=oval, style=filled, fillcolor=azure]
+E6[label="spoon (S6,P218)", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake (S7,P249)", shape=oval, style=filled, fillcolor=azure]
+D4[label="DOBJ: all-purpose flour, baking soda, salt
+(text: flour , baking soda , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D3[label="DOBJ: ripe bananas, chopped walnuts
+(text: bananas, walnuts)", shape=box, style=filled, fillcolor=peachpuff]
+D3 -> E3
+D2[label="DOBJ: vegetable oil, white sugar, egg
+(text: sugar , oil , egg)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: until creamy, light yellow", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+P2_1[label="PREP: in a bowl", shape=box, style=filled, fillcolor=white]
+P2_1 -> E2
+E0 -> E1 [label="OUTPUT: 
+INPUT:  or grease with a little butter"]
+D1_1[label="DOBJ: muffin cups in muffin tin ", shape=box, style=filled, fillcolor=white]
+D1_1 -> E1
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E3 -> E5 [label="OUTPUT: 
+INPUT: until completely smooth"]
+E2 -> E6 [label="OUTPUT: 
+INPUT: the batter"]
+E1 -> E6 [label="OUTPUT: 
+INPUT: into the muffin tin"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E5 -> E7 [label="OUTPUT: 
+INPUT: for 30 to 40 minutes"]
+O7_0_0[label="OTHER: until toothpick poked in center muffin comes out clean", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

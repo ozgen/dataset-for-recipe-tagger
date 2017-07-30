@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: I would divide ground beef into 4 patties , sprinkle with salt and black pepper , and set aside .
+PREDID: 0
+PRED: divide
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: 4 patties
+     PREP: into
+      NON-INGREDIENT SPAN: 4 patties
+
+PREDID: 29
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: salt, black pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  black pepper
+
+PREDID: 63
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 1
+SENT: I would place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 72
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: thick slices bacon
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+
+PREDID: 100
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 2
+SENT: I would drain the bacon slices on paper towels and keep warm .
+PREDID: 178
+PRED: drain
+   DOBJ: the bacon slices
+      INGREDIENT SPAN: the bacon slices
+         INGREDIENTS: slices Cheddar cheese
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+PREDID: 213
+PRED: keep
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+
+SENTID: 3
+SENT: I would cook onion in the bacon drippings until lightly browned , about 10 minutes , stirring often ;
+PREDID: 222
+PRED: cook
+   DOBJ: NULL
+   PARG: onion in the bacon drippings until lightly browned , about 10 minutes , stirring often
+     PREP: for
+      INGREDIENT SPAN: onion in the bacon drippings until lightly browned 
+         INGREDIENTS: onion chopped more taste
+      NON-INGREDIENT SPAN:  stirring often
+      NON-INGREDIENT SPAN:  about 10 minutes 
+
+
+SENTID: 4
+SENT: I would sprinkle with sugar during frying if desired .
+PREDID: 299
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sugar
+     PREP: with
+      INGREDIENT SPAN: sugar
+         INGREDIENTS: white sugar
+   PARG: frying if desired
+     PREP: during
+      NON-INGREDIENT SPAN: frying if desired
+
+
+SENTID: 5
+SENT: I would set onion aside .
+PREDID: 338
+PRED: set
+   DOBJ: onion
+      NON-INGREDIENT SPAN: onion
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 6
+SENT: I would set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 352
+PRED: set
+   DOBJ: oven rack
+      NON-INGREDIENT SPAN: oven rack
+   PARG: 6 inches from the heat source
+     PREP: about
+      NON-INGREDIENT SPAN: 6 inches from the heat source
+
+PREDID: 395
+PRED: preheat
+   DOBJ: the oven 's broiler
+      NON-INGREDIENT SPAN: the oven 's broiler
+
+
+SENTID: 7
+SENT: I would open hamburger buns and place onto a baking sheet with cut sides up ;
+PREDID: 419
+PRED: open
+   DOBJ: hamburger buns
+      INGREDIENT SPAN: hamburger buns
+         INGREDIENTS: hamburger buns
+
+PREDID: 439
+PRED: place
+   DOBJ: NULL
+   PARG: a baking sheet with cut sides
+     PREP: onto
+      NON-INGREDIENT SPAN: a baking sheet with cut sides
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 8
+SENT: I would toast under the broiler until browned , 1 to 2 minutes .
+PREDID: 475
+PRED: toast
+   DOBJ: NULL
+   PARG: the broiler until browned , 1 to 2 minutes
+     PREP: under
+      NON-INGREDIENT SPAN: the broiler until browned 
+      NON-INGREDIENT SPAN:  1 to 2 minutes
+
+
+SENTID: 9
+SENT: I would set buns aside .
+PREDID: 520
+PRED: set
+   DOBJ: buns
+      NON-INGREDIENT SPAN: buns
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 10
+SENT: I would pan fry ground beef patties in the same skillet as onions until browned and the juices run clear , 5 to 8 minutes per side .
+PREDID: 533
+PRED: pan
+   DOBJ: fry ground beef patties in the same skillet
+      NON-INGREDIENT SPAN: fry ground beef patties in the same skillet
+   PARG: onions
+     PREP: as
+      NON-INGREDIENT SPAN: onions
+   PARG: browned
+     PREP: until
+      NON-INGREDIENT SPAN: browned
+   OARG: the juices run clear , 5 to 8 minutes per side
+      NON-INGREDIENT SPAN:  5 to 8 minutes per side
+      NON-INGREDIENT SPAN: the juices run clear 
+
+
+SENTID: 11
+SENT: An instant-read meat thermometer inserted into the center of a burger should read at least 160 degrees F -LRB- 70 degrees C -RRB- .
+
+SENTID: 12
+SENT: I would place a slice of Cheddar cheese onto each patty and allow cheese to melt .
+PREDID: 632
+PRED: place
+   DOBJ: a slice of Cheddar cheese
+      NON-INGREDIENT SPAN: a slice of Cheddar cheese
+   PARG: each patty
+     PREP: onto
+      NON-INGREDIENT SPAN: each patty
+
+PREDID: 674
+PRED: allow
+   DOBJ: cheese
+      NON-INGREDIENT SPAN: cheese
+   OARG: to melt
+      NON-INGREDIENT SPAN: to melt
+
+
+SENTID: 13
+SENT: To assemble , spread peanut butter onto bottom halves of buns ;
+
+SENTID: 14
+SENT: I would spread ketchup onto top halves .
+PREDID: 744
+PRED: spread
+   DOBJ: ketchup
+      INGREDIENT SPAN: ketchup
+         INGREDIENTS: ketchup taste
+   PARG: top halves
+     PREP: onto
+      NON-INGREDIENT SPAN: top halves
+
+
+SENTID: 15
+SENT: I would top the peanut butter with pickle slices , cooked onion , burgers with cheese , a slice of bacon , several tomato slices , and about 1/4 cup shredded lettuce per sandwich .
+

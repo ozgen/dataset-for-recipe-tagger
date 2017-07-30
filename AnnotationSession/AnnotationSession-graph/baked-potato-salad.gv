@@ -1,0 +1,58 @@
+digraph recipe {
+E0[label="place (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="cover (S0,P1)", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="allow (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="dice (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="cooled (S3,P1)", shape=oval, style=filled, fillcolor=azure]
+E6[label="place (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="cook (S4,P1)", shape=oval, style=filled, fillcolor=azure]
+E8[label="drain (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="allow (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="place (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="mix (S7,P1)", shape=oval, style=filled, fillcolor=azure]
+E12[label="refrigerate (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+D7[label="DOBJ: medium-high heat", shape=box, style=filled, fillcolor=white]
+D7 -> E7
+D6[label="DOBJ: slices bacon
+(text: the bacon in a large , deep skillet)", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+D0[label="DOBJ: potatoes
+(text: the potatoes)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: into a large pot", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+P1_0_0[label="PREP: with lightly salted water", shape=box, style=filled, fillcolor=white]
+P1_0_0 -> E1
+E1 -> E2 [label="OUTPUT: 
+INPUT: the potatoes"]
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+E3 -> E4 [label="OUTPUT: 
+INPUT: "]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E6 -> E8 [label="OUTPUT: 
+INPUT: the bacon slices"]
+E7 -> E8 [label="OUTPUT: 
+INPUT: on a paper towel-lined plate"]
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+E5 -> E10 [label="OUTPUT: 
+INPUT: the cooled potatoes"]
+E9 -> E10 [label="OUTPUT: 
+INPUT: into the bowl with the bacon"]
+E10 -> E11 [label="OUTPUT: 
+INPUT: "]
+P11_0_ing[label="PREP: in shredded Cheddar cheese, dried chives, (16 ounce) container reduced-fat sour cream, ground black pepper, mayonnaise, salt
+(text: in  salt ,  cheddar cheese ,  chives , the sour cream , pepper,  mayonnaise )", shape=box, style=filled, fillcolor=peachpuff]
+P11_0_ing -> E11
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+P12_0_0[label="PREP: before serving", shape=box, style=filled, fillcolor=white]
+P12_0_0 -> E12
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E12 -> EOR
+}

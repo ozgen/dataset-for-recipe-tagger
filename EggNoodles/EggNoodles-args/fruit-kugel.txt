@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes .
+PREDID: 80
+PRED: cook
+   DOBJ: NULL
+   PARG: egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN: egg noodles in the boiling water 
+         INGREDIENTS: ounce package wide egg noodles
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would drain and let noodles cool .
+PREDID: 182
+PRED: drain and let
+   DOBJ: noodles cool
+      NON-INGREDIENT SPAN: noodles cool
+
+
+SENTID: 4
+SENT: I would beat eggs with cinnamon and vanilla extract in a large bowl ;
+PREDID: 205
+PRED: beat
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+   PARG: cinnamon, vanilla extract in a large bowl
+     PREP: with
+      INGREDIENT SPAN: cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  vanilla extract in a large bowl
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 5
+SENT: I would gently stir in noodles .
+PREDID: 261
+PRED: stir
+   DOBJ: NULL
+   PARG: noodles
+     PREP: in
+      NON-INGREDIENT SPAN: noodles
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 6
+SENT: I would mix pineapple , the raisins , and apple into noodle mixture .
+PREDID: 275
+PRED: mix
+   DOBJ: pineapple , the raisins , apple
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  apple
+         INGREDIENTS: apple cored diced
+      INGREDIENT SPAN: pineapple 
+         INGREDIENTS: ounce crushed pineapple
+   PARG: noodle mixture
+     PREP: into
+      NON-INGREDIENT SPAN: noodle mixture
+
+
+SENTID: 7
+SENT: I would transfer mixture into a large casserole dish and scatter pieces of margarine over the noodle mixture .
+PREDID: 322
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a large casserole dish, scatter pieces of margarine over the noodle mixture
+     PREP: into
+      INGREDIENT SPAN:  scatter pieces of margarine over the noodle mixture
+         INGREDIENTS: pareve margarine cut small
+      NON-INGREDIENT SPAN: a large casserole dish
+
+
+SENTID: 8
+SENT: I would spread apricot preserves over the casserole .
+PREDID: 408
+PRED: spread
+   DOBJ: apricot preserves
+      INGREDIENT SPAN: apricot preserves
+         INGREDIENTS: ounce jar apricot preserves
+   PARG: the casserole
+     PREP: over
+      NON-INGREDIENT SPAN: the casserole
+
+
+SENTID: 9
+SENT: I would bake in the preheated oven until noodles on top are golden brown and preserves are bubbling , about 15 minutes .
+
+SENTID: 10
+SENT: I would cool slightly before serving .
+PREDID: 539
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+

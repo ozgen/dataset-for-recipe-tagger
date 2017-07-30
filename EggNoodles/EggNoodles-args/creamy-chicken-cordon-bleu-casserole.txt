@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 9x13-inch casserole dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a 9x13-inch casserole dish
+      NON-INGREDIENT SPAN: a 9x13-inch casserole dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 75
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 117
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: ounce package wide egg noodles
+   PARG: the boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: the boiling water
+   OARG: stirring occasionally until cooked through but firm to the bite , about 5 minutes
+      INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+         INGREDIENTS: cooked ham cubed
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 4
+SENT: I would drain and transfer noodles to the prepared casserole dish ;
+PREDID: 218
+PRED: drain and transfer
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: the prepared casserole dish
+     PREP: to
+      NON-INGREDIENT SPAN: the prepared casserole dish
+
+
+SENTID: 5
+SENT: I would top with chicken , the ham , and Swiss cheese .
+PREDID: 268
+PRED: top
+   DOBJ: NULL
+   PARG: chicken , the ham , swiss cheese
+     PREP: with
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: chopped cooked chicken breast
+      INGREDIENT SPAN:  swiss cheese
+         INGREDIENTS: Swiss cheese cubed
+      NON-INGREDIENT SPAN:  the ham 
+
+
+SENTID: 6
+SENT: I would mix cream of chicken soup , milk , and sour cream together in a bowl ;
+PREDID: 302
+PRED: mix
+   DOBJ: cream of chicken soup
+      INGREDIENT SPAN: cream of chicken soup
+         INGREDIENTS: ounce reducedfat reducedsodium cream chicken soup such
+
+PREDID: 332
+PRED: sour
+   DOBJ: cream
+      INGREDIENT SPAN: cream
+         INGREDIENTS: light sour cream
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would spoon soup mixture over noodle mixture .
+PREDID: 357
+PRED: spoon
+   DOBJ: soup mixture
+      NON-INGREDIENT SPAN: soup mixture
+   PARG: noodle mixture
+     PREP: over
+      NON-INGREDIENT SPAN: noodle mixture
+
+
+SENTID: 8
+SENT: I would melt butter in a skillet over medium heat ;
+PREDID: 391
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 9
+SENT: I would cook and stir bread crumbs and Parmesan cheese in the melted butter until crumbs are coated with butter and cheese , 2 to 3 minutes .
+PREDID: 426
+PRED: cook and stir
+   DOBJ: bread crumbs, Parmesan cheese
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+      INGREDIENT SPAN: bread crumbs
+         INGREDIENTS: seasoned bread crumbs
+   PARG: the melted butter
+     PREP: in
+      NON-INGREDIENT SPAN: the melted butter
+   PARG: crumbs are coated with butter, cheese , 2 to 3 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  cheese 
+      NON-INGREDIENT SPAN: crumbs are coated with butter
+      NON-INGREDIENT SPAN:  2 to 3 minutes
+
+
+SENTID: 10
+SENT: I would sprinkle bread crumb mixture over casserole .
+PREDID: 534
+PRED: sprinkle
+   DOBJ: bread crumb mixture over casserole
+      NON-INGREDIENT SPAN: bread crumb mixture over casserole
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven until casserole is bubbling and lightly browned , about 30 minutes .
+PREDID: 573
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: casserole is bubbling, lightly browned , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN:  lightly browned 
+      NON-INGREDIENT SPAN: casserole is bubbling
+
+
+SENTID: 12
+SENT: I would allow casserole to cool for 10 minutes before serving .
+PREDID: 652
+PRED: allow
+   DOBJ: NULL
+   OARG: casserole
+      NON-INGREDIENT SPAN: casserole
+
+

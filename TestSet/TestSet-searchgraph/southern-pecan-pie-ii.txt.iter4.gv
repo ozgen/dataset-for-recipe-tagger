@@ -1,0 +1,89 @@
+digraph recipe {
+E0[label="combine
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="cut
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="wrap
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="roll
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="place
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="preheat
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="place
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="stir
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="mix
+10", shape=oval, style=filled, fillcolor=azure]
+E11[label="blend
+11", shape=oval, style=filled, fillcolor=azure]
+E12[label="pour
+12", shape=oval, style=filled, fillcolor=azure]
+E13[label="bake
+13", shape=oval, style=filled, fillcolor=azure]
+E14[label="reduce
+14", shape=oval, style=filled, fillcolor=azure]
+E15[label="bake
+15", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: white sugar, allpurpose flour, salt", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCOROBJ:in a large bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D7[label="DOBJ: oven to 450 degrees f -lrb- 230 degrees c. -rrb-", shape=box, style=filled, fillcolor=white]
+D7 -> E7
+D8[label="DOBJ: pecan halves", shape=box, style=filled, fillcolor=peachpuff]
+D8 -> E8
+P8_0[label="LOCOROBJ:in the bottom of pie crust", shape=box, style=filled, fillcolor=white]
+P8_0 -> E8
+D2[label="DOBJ: ice water", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+E0 -> E1 [label="IMPLICIT DOBJ"]
+P1_0_ing[label="COOBJECT: in butter and", shape=box, style=filled, fillcolor=peachpuff]
+P1_0_ing -> E1
+P1_1_0[label="DURATION:until mixture resembles coarse crumbs", shape=box, style=filled, fillcolor=white]
+P1_1_0 -> E1
+E2 -> E3 [label="IMPLICIT DOBJ"]
+E1 -> E3 [label="LOCOROBJ:in until mixture forms a ball"]
+E3 -> E4 [label="IMPLICIT DOBJ"]
+P4_0_0[label="DURATION:in plastic", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+P4_0_1[label="DURATION:in refrigerate for 1 hour or overnight", shape=box, style=filled, fillcolor=white]
+P4_0_1 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+E5 -> E6 [label="IMPLICIT DOBJ"]
+P6_0_0[label="LOCOROBJ:in a 9 inch pie plate", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D9_ing[label="DOBJ: white sugar", shape=box, style=filled, fillcolor=peachpuff]
+D9_ing -> E9
+E6 -> E9 [label="flour"]
+P9_0_0[label="LOCOROBJ:in a large bowl", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+P10_0_ing[label="COOBJECT: in eggs, vanilla extract, butter, milk, light corn syrup", shape=box, style=filled, fillcolor=peachpuff]
+P10_0_ing -> E10
+E10 -> E11 [label="IMPLICIT DOBJ"]
+E11 -> E12 [label="IMPLICIT DOBJ"]
+E8 -> E12 [label="LOCOROBJ:over pecans in crust"]
+E12 -> E13 [label="IMPLICIT DOBJ"]
+P13_0_0[label="DURATION:in the preheated oven for 10 minutes", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+D14_0[label="DOBJ: temperature", shape=box, style=filled, fillcolor=white]
+D14_0 -> E14
+E13 -> E14 [label="IMPLICIT PREP"]
+E7 -> E14 [label="LOCOROBJ:to 350 degrees f -lrb- 175 degrees c"]
+E14 -> E15 [label="IMPLICIT PREP"]
+P15_1_0[label="DURATION:for 40 to 50 minutes ", shape=box, style=filled, fillcolor=white]
+P15_1_0 -> E15
+P15_1_1[label="DURATION:for  or until golden brown", shape=box, style=filled, fillcolor=white]
+P15_1_1 -> E15
+P15_1_2[label="DURATION:for filling is set", shape=box, style=filled, fillcolor=white]
+P15_1_2 -> E15
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E15 -> EOR
+}

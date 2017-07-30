@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: I would warm 1 tablespoon olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: warm
+   DOBJ: 1 tablespoon olive oil
+      INGREDIENT SPAN: 1 tablespoon olive oil
+         INGREDIENTS: olive oil divided
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 1
+SENT: I would season both sides of chicken with Cajun seasoning , and place in hot oil .
+PREDID: 53
+PRED: season
+   DOBJ: both sides of chicken
+      INGREDIENT SPAN: both sides of chicken
+         INGREDIENTS: ounce skinless boneless chicken breast halves
+   PARG: cajun seasoning
+     PREP: with
+      INGREDIENT SPAN: cajun seasoning
+         INGREDIENTS: Cajun seasoning
+
+PREDID: 99
+PRED: place
+   DOBJ: NULL
+   PARG: hot oil
+     PREP: in
+      INGREDIENT SPAN: hot oil
+         INGREDIENTS: olive oil divided
+
+
+SENTID: 2
+SENT: I would stir in crushed garlic .
+PREDID: 113
+PRED: stir
+   DOBJ: NULL
+   PARG: crushed garlic
+     PREP: in
+      NON-INGREDIENT SPAN: crushed garlic
+
+
+SENTID: 3
+SENT: I would cook chicken 5 minutes on each side , or until juices run clear .
+PREDID: 133
+PRED: cook
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   OARG: 5 minutes
+      NON-INGREDIENT SPAN: 5 minutes
+
+
+SENTID: 4
+SENT: I would remove chicken from skillet , drain on paper towels , cool slightly , and dice ;
+PREDID: 185
+PRED: remove
+   DOBJ: chicken
+      NON-INGREDIENT SPAN: chicken
+   PARG: skillet
+     PREP: from
+      NON-INGREDIENT SPAN: skillet
+
+PREDID: 210
+PRED: drain
+   DOBJ: NULL
+   PARG: paper towels
+     PREP: on
+      NON-INGREDIENT SPAN: paper towels
+
+PREDID: 229
+PRED: cool
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 5
+SENT: I would discard oil and garlic .
+PREDID: 250
+PRED: discard
+   DOBJ: oil, garlic
+      NON-INGREDIENT SPAN:  garlic
+      NON-INGREDIENT SPAN: oil
+
+
+SENTID: 6
+SENT: In a small bowl , I would mix remaining olive oil , balsamic vinegar , the mustard , the salt , and pepper .
+PREDID: 283
+PRED: mix
+   DOBJ: remaining olive oil , balsamic vinegar , the mustard , the salt , pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt black pepper taste
+      INGREDIENT SPAN:  the mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  balsamic vinegar 
+         INGREDIENTS: balsamic vinegar
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: remaining olive oil 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 7
+SENT: In a large bowl , I would gently toss the dressing with the mixed salad greens , the arugula , the avocado , sun-dried tomatoes , and olives .
+PREDID: 362
+PRED: toss
+   DOBJ: the dressing
+      NON-INGREDIENT SPAN: the dressing
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: the mixed salad greens , the arugula , the avocado , sun-dried tomatoes , olives
+     PREP: with
+      INGREDIENT SPAN:  the arugula 
+         INGREDIENTS: arugula
+      INGREDIENT SPAN:  sun-dried tomatoes 
+         INGREDIENTS: oilpacked sundried tomatoes drained sliced
+      INGREDIENT SPAN:  olives
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN: the mixed salad greens 
+         INGREDIENTS: mixed salad greens
+      INGREDIENT SPAN:  the avocado 
+         INGREDIENTS: avocado peeled pitted diced
+   OARG: gently
+      NON-INGREDIENT SPAN: gently
+
+
+SENTID: 8
+SENT: I would top with diced chicken to serve .
+PREDID: 445
+PRED: top
+   DOBJ: NULL
+   PARG: diced chicken
+     PREP: with
+      NON-INGREDIENT SPAN: diced chicken
+   OARG: to serve
+      NON-INGREDIENT SPAN: to serve
+
+

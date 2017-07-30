@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a medium baking dish .
+PREDID: 45
+PRED: grease
+   DOBJ: a medium baking dish
+      NON-INGREDIENT SPAN: a medium baking dish
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would arrange the chicken in the baking dish , cover , and bake 25 minutes in the preheated oven , until juices run clear .
+PREDID: 69
+PRED: arrange
+   DOBJ: the chicken in the baking dish
+      INGREDIENT SPAN: the chicken in the baking dish
+         INGREDIENTS: skinless boneless chicken breast halves
+
+PREDID: 111
+PRED: bake
+   DOBJ: NULL
+   PARG: 25 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes in the preheated oven
+   PARG: juices run clear
+     PREP: until
+      NON-INGREDIENT SPAN: juices run clear
+
+
+SENTID: 3
+SENT: I would remove from heat , the cool , and shred .
+PREDID: 163
+PRED: remove
+   DOBJ: NULL
+   PARG: heat , the cool , shred
+     PREP: from
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  shred
+      NON-INGREDIENT SPAN:  the cool 
+
+
+SENTID: 4
+SENT: In a large bowl , I would mix the shredded chicken , the celery , the tarragon , the parsley , the mayonnaise , the raisins , and onion .
+PREDID: 205
+PRED: mix
+   DOBJ: the shredded chicken , the celery , the tarragon , the parsley , the mayonnaise , the raisins , onion
+      INGREDIENT SPAN:  the raisins 
+         INGREDIENTS: raisins
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: diced red onion
+      INGREDIENT SPAN:  the tarragon 
+         INGREDIENTS: chopped fresh tarragon
+      INGREDIENT SPAN:  the parsley 
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: chopped celery
+      NON-INGREDIENT SPAN: the shredded chicken 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would refrigerate 1 hour , or until chilled , before serving .
+PREDID: 279
+PRED: refrigerate
+   DOBJ: 1 hour , or until chilled , before serving
+      NON-INGREDIENT SPAN:  before serving
+      NON-INGREDIENT SPAN:  or until chilled 
+      NON-INGREDIENT SPAN: 1 hour 
+
+

@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would heat a large stock pot over medium-high heat .
+PREDID: 0
+PRED: heat
+   DOBJ: a large stock pot
+      NON-INGREDIENT SPAN: a large stock pot
+   PARG: medium-high heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium-high heat
+
+
+SENTID: 1
+SENT: I would cook and stir beef until browned and crumbly , 10 to 15 minutes ;
+PREDID: 38
+PRED: cook and stir
+   DOBJ: beef
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef
+   PARG: browned, crumbly , 10 to 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  10 to 15 minutes
+      NON-INGREDIENT SPAN: browned
+      NON-INGREDIENT SPAN:  crumbly 
+
+
+SENTID: 2
+SENT: I would drain and discard grease .
+PREDID: 90
+PRED: drain and discard
+   DOBJ: grease
+      NON-INGREDIENT SPAN: grease
+
+
+SENTID: 3
+SENT: I would mix beer , tomato sauce , diced tomatoes , pinto beans , red beans , kidney beans , 2 chopped onions , green bell pepper , red bell pepper , brown sugar , the garlic , chili seasoning mix , the cornstarch , and mustard into ground beef ;
+PREDID: 112
+PRED: mix
+   DOBJ: beer , tomato sauce , diced tomatoes , pinto beans , red beans , kidney beans , 2 chopped onions , green bell pepper , red bell pepper , brown sugar , the garlic , chili seasoning mix , the cornstarch , mustard
+      INGREDIENT SPAN:  diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: large red bell pepper chopped
+      INGREDIENT SPAN:  pinto beans 
+         INGREDIENTS: ounce pinto beans undrained
+      INGREDIENT SPAN:  mustard
+         INGREDIENTS: ground mustard
+      INGREDIENT SPAN:  red beans 
+         INGREDIENTS: ounce red beans undrained
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: light brown sugar
+      INGREDIENT SPAN:  the cornstarch 
+         INGREDIENTS: cornstarch
+      INGREDIENT SPAN:  tomato sauce 
+         INGREDIENTS: ounce tomato sauce
+      INGREDIENT SPAN: beer 
+         INGREDIENTS: fluid ounce bottles beer
+      INGREDIENT SPAN:  kidney beans 
+         INGREDIENTS: ounce kidney beans undrained
+      INGREDIENT SPAN:  green bell pepper 
+         INGREDIENTS: large green bell pepper chopped
+      INGREDIENT SPAN:  chili seasoning mix 
+         INGREDIENTS: ounce packages chili seasoning mix
+      INGREDIENT SPAN:  2 chopped onions 
+         INGREDIENTS: large white onions chopped
+      NON-INGREDIENT SPAN:  the garlic 
+   PARG: ground beef
+     PREP: into
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: salt ground black pepper taste
+
+
+SENTID: 4
+SENT: I would bring to a boil .
+PREDID: 295
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would reduce heat , cover pot , and simmer , stirring frequently , until flavors have blended , about 1 hour .
+PREDID: 308
+PRED: reduce
+   DOBJ: heat, about 1 hour
+      NON-INGREDIENT SPAN:  about 1 hour
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 319
+PRED: cover
+   DOBJ: pot , simmer
+      NON-INGREDIENT SPAN: pot 
+      NON-INGREDIENT SPAN:  simmer
+   PARG: flavors have blended
+     PREP: until
+      NON-INGREDIENT SPAN: flavors have blended
+   OARG: stirring frequently
+      NON-INGREDIENT SPAN: stirring frequently
+
+
+SENTID: 6
+SENT: I would top each serving with about 1 tablespoon Cheddar cheese , 1?1/2 teaspoons onion , and hot sauce ;
+PREDID: 392
+PRED: top
+   DOBJ: NULL
+   OARG: each serving with about 1 tablespoon cheddar cheese , 1?1/2 teaspoons onion , hot sauce
+      INGREDIENT SPAN:  hot sauce
+         INGREDIENTS: hot pepper sauce taste
+      INGREDIENT SPAN:  1?1/2 teaspoons onion 
+         INGREDIENTS: large white onions chopped, chopped onion taste
+      INGREDIENT SPAN:  1?1/2 teaspoons onion 
+         INGREDIENTS: large white onions chopped, chopped onion taste
+      INGREDIENT SPAN: each serving with about 1 tablespoon cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese taste
+
+
+SENTID: 7
+SENT: I would season with salt and pepper .
+PREDID: 472
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: salt
+
+

@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would place ground beef into a large soup pot over medium heat .
+PREDID: 0
+PRED: place
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: lean ground beef
+   PARG: a large soup pot over medium heat
+     PREP: into
+      NON-INGREDIENT SPAN: a large soup pot over medium heat
+
+
+SENTID: 1
+SENT: I would cook the beef until it begins to lose its pink color , about 8 minutes , breaking the meat up into crumbles as it cooks ;
+PREDID: 47
+PRED: cook
+   DOBJ: the beef
+      INGREDIENT SPAN: the beef
+         INGREDIENTS: cubes beef bouillon
+   PARG: it begins
+     PREP: until
+      NON-INGREDIENT SPAN: it begins
+
+
+SENTID: 2
+SENT: I would stir in celery , red bell pepper , and onion .
+PREDID: 143
+PRED: stir
+   DOBJ: NULL
+   PARG: celery , red bell pepper , onion
+     PREP: in
+      INGREDIENT SPAN: celery 
+         INGREDIENTS: stalk celery chopped
+      INGREDIENT SPAN:  red bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: white onion chopped
+
+
+SENTID: 3
+SENT: I would continue to cook until the beef is browned , about 8 more minutes .
+PREDID: 179
+PRED: continue
+   DOBJ: NULL
+   OARG: to cook until the beef is browned , about 8 more minutes
+      NON-INGREDIENT SPAN: to cook until the beef is browned 
+      NON-INGREDIENT SPAN:  about 8 more minutes
+
+
+SENTID: 4
+SENT: I would drain excess fat .
+PREDID: 233
+PRED: drain
+   DOBJ: excess fat
+      NON-INGREDIENT SPAN: excess fat
+
+
+SENTID: 5
+SENT: I would stir in diced tomatoes , tomato juice , the water , chili powder , brown sugar , and beef bouillon cubes ;
+PREDID: 248
+PRED: stir
+   DOBJ: NULL
+   PARG: diced tomatoes , tomato juice , the water , chili powder , brown sugar , beef bouillon cubes
+     PREP: in
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: tomato juice
+      INGREDIENT SPAN:  chili powder 
+         INGREDIENTS: chili powder
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: diced tomatoes 
+         INGREDIENTS: ounce diced tomatoes
+      NON-INGREDIENT SPAN:  beef bouillon cubes
+
+
+SENTID: 6
+SENT: I would cover , reduce heat , and simmer for 30 minutes .
+PREDID: 330
+PRED: cover and reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 350
+PRED: simmer
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+
+
+SENTID: 7
+SENT: I would stir in the macaroni , and continue the simmering until the pasta is tender , 10 to 15 more minutes .
+PREDID: 369
+PRED: stir
+   DOBJ: NULL
+   PARG: the macaroni
+     PREP: in
+      INGREDIENT SPAN: the macaroni
+         INGREDIENTS: uncooked elbow macaroni
+
+PREDID: 390
+PRED: continue
+   DOBJ: the simmering
+      NON-INGREDIENT SPAN: the simmering
+   PARG: the pasta is tender , 10 to 15 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the pasta is tender 
+      NON-INGREDIENT SPAN:  10 to 15 more minutes
+
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the beef , the onion , the oatmeal , the cornmeal , bread crumbs , the salt , the sugar , the egg , tomato juice , the water , barbecue sauce , 1/8 teaspoon liquid smoke and vinegar .
+PREDID: 51
+PRED: combine
+   DOBJ: the beef , the onion , the oatmeal , the cornmeal , bread crumbs , the salt , the sugar , the egg , tomato juice , the water , barbecue sauce , 1/8 teaspoon liquid smoke, vinegar
+      INGREDIENT SPAN:  tomato juice 
+         INGREDIENTS: tomato juice
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dried bread crumbs
+      INGREDIENT SPAN:  the egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  vinegar
+         INGREDIENTS: distilled white vinegar
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: chopped onion
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: the beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  barbecue sauce 
+         INGREDIENTS: barbecue sauce
+      INGREDIENT SPAN:  the water 
+         INGREDIENTS: water
+      INGREDIENT SPAN:  1/8 teaspoon liquid smoke
+         INGREDIENTS: dashes liquid smoke flavoring
+      INGREDIENT SPAN:  the cornmeal 
+         INGREDIENTS: cornmeal
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: brown sugar
+      NON-INGREDIENT SPAN:  the oatmeal 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would mix together thoroughly and place mixture into a lightly greased 9x5 inch loaf pan .
+PREDID: 181
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+PREDID: 205
+PRED: place
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a lightly greased 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a lightly greased 9x5 inch loaf pan
+
+
+SENTID: 3
+SENT: In a separate small bowl , I would combine the ketchup , brown sugar , the mustard and 2 drops liquid smoke and mix thoroughly .
+PREDID: 272
+PRED: combine
+   DOBJ: the ketchup , brown sugar , the mustard, 2 drops liquid smoke
+      INGREDIENT SPAN:  2 drops liquid smoke
+         INGREDIENTS: dashes liquid smoke flavoring
+      INGREDIENT SPAN: the ketchup 
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the mustard
+         INGREDIENTS: prepared mustard
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: white sugar
+   PARG: a separate small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a separate small bowl
+
+PREDID: 334
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 4
+SENT: I would spread over the top of the meatloaf .
+PREDID: 345
+PRED: spread
+   DOBJ: the top of the meatloaf
+      NON-INGREDIENT SPAN: the top of the meatloaf
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would bake at 350 degrees F -LRB- 175 degrees C -RRB- for approximately one hour .
+PREDID: 375
+PRED: bake
+   DOBJ: NULL
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+   PARG: approximately one hour
+     PREP: for
+      NON-INGREDIENT SPAN: approximately one hour
+
+

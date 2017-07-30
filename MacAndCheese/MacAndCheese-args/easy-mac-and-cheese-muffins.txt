@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a muffin tin with nonstick cooking spray .
+PREDID: 41
+PRED: grease
+   DOBJ: a muffin tin
+      NON-INGREDIENT SPAN: a muffin tin
+   PARG: nonstick cooking spray
+     PREP: with
+      NON-INGREDIENT SPAN: nonstick cooking spray
+
+
+SENTID: 2
+SENT: In a small bowl , I would stir together the bread crumbs , olive oil and salt ;
+PREDID: 95
+PRED: stir
+   DOBJ: the bread crumbs , olive oil, salt
+      INGREDIENT SPAN:  olive oil
+         INGREDIENTS: olive oil
+      INGREDIENT SPAN: the bread crumbs 
+         INGREDIENTS: seasoned dry bread crumbs
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would set aside .
+PREDID: 138
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 4
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 147
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 5
+SENT: I would add the macaroni and cook for about 8 minutes , it should still be a little bit firm .
+
+SENTID: 6
+SENT: I would remove from the heat , the drain and return to the pan ;
+PREDID: 189
+PRED: remove
+   DOBJ: NULL
+   PARG: the heat , the drain, return
+     PREP: from
+      NON-INGREDIENT SPAN: the heat 
+      NON-INGREDIENT SPAN:  the drain
+      NON-INGREDIENT SPAN:  return
+   PARG: the pan
+     PREP: to
+      NON-INGREDIENT SPAN: the pan
+
+
+SENTID: 7
+SENT: I would stir in the butter and egg until pasta is evenly coated .
+PREDID: 230
+PRED: stir
+   DOBJ: NULL
+   PARG: the butter, egg
+     PREP: in
+      INGREDIENT SPAN: the butter
+         INGREDIENTS: butter
+      INGREDIENT SPAN:  egg
+         INGREDIENTS: egg beaten
+   PARG: pasta is evenly coated
+     PREP: until
+      NON-INGREDIENT SPAN: pasta is evenly coated
+
+
+SENTID: 8
+SENT: I would reserve 1/2 cup of sharp Cheddar cheese and stir the remaining Cheddar cheese , the milk and mozzarella cheese into the pasta .
+PREDID: 276
+PRED: reserve
+   DOBJ: 1/2 cup of sharp Cheddar cheese
+      INGREDIENT SPAN: 1/2 cup of sharp Cheddar cheese
+         INGREDIENTS: shredded sharp Cheddar cheese
+
+PREDID: 312
+PRED: stir
+   DOBJ: the remaining Cheddar cheese , the milk, mozzarella cheese
+      INGREDIENT SPAN:  mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: the remaining Cheddar cheese 
+         INGREDIENTS: shredded sharp Cheddar cheese
+   PARG: the pasta
+     PREP: into
+      NON-INGREDIENT SPAN: the pasta
+
+
+SENTID: 9
+SENT: I would spoon into the prepared muffin tin .
+PREDID: 378
+PRED: spoon
+   DOBJ: NULL
+   PARG: the prepared muffin tin
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared muffin tin
+
+
+SENTID: 10
+SENT: I would sprinkle the reserved cheese and the bread crumb mixture over the tops .
+PREDID: 408
+PRED: sprinkle
+   DOBJ: the reserved cheese, the bread crumb mixture over the tops
+      NON-INGREDIENT SPAN: the reserved cheese
+      NON-INGREDIENT SPAN:  the bread crumb mixture over the tops
+
+
+SENTID: 11
+SENT: I would bake for 30 minutes in the preheated oven , or until the topping is nicely browned .
+PREDID: 468
+PRED: bake
+   DOBJ: NULL
+   PARG: 30 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes in the preheated oven
+
+PREDID: 528
+PRED: is browned
+   DOBJ: NULL
+   PARG: the topping
+     PREP: until
+      NON-INGREDIENT SPAN: the topping
+   OARG: nicely
+      NON-INGREDIENT SPAN: nicely
+
+
+SENTID: 12
+SENT: I would allow the muffins to cool for a few minutes before removing from the pan .
+PREDID: 536
+PRED: allow
+   DOBJ: the muffins
+      NON-INGREDIENT SPAN: the muffins
+   OARG: to cool for a few minutes before removing from the pan
+      NON-INGREDIENT SPAN: to cool for a few minutes before removing from the pan
+
+
+SENTID: 13
+SENT: This will allow the cheese to set and they will hold their muffin shape .
+

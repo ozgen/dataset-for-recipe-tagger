@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="roll
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="shape
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="slide
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="sprinkle
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="sprinkle
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="bake
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="remove
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="cut
+9", shape=oval, style=filled, fillcolor=azure]
+E10[label="serve
+10", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 450 degrees f -lrb- 230 degrees c", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D1_ing[label="DOBJ: package pizza crust dough", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="IMPLICIT PREP"]
+E1 -> E2 [label="IMPLICIT DOBJ"]
+P2_0_0[label="LOCOROBJ:into a round circle to fit a 10 inch pizza pan", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="the dough"]
+P3_0_0[label="LOCOROBJ:onto the pan", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_ing[label="DOBJ: mashed butternut squash, cranberry sauce", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="LOCOROBJ:in a bowl"]
+P4_1_0[label="DURATION:until smooth", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E4 -> E5 [label="the sauce"]
+P5_0_ing[label="COOBJECT: with Cheddar cheese, Parmesan cheese grated", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+D6_ing[label="DOBJ: pecans", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="LOCOROBJ:over the cheese"]
+E6 -> E7 [label="IMPLICIT DOBJ"]
+P7_0_0[label="LOCOROBJ:in preheated oven", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+P7_1_0[label="DURATION:until cheese is melted", shape=box, style=filled, fillcolor=white]
+P7_1_0 -> E7
+E7 -> E8 [label="pizza"]
+P8_0_0[label="LOCOROBJ:from the oven", shape=box, style=filled, fillcolor=white]
+P8_0_0 -> E8
+P8_1_0[label="LOCOROBJ:onto a serving plate", shape=box, style=filled, fillcolor=white]
+P8_1_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+P9_0_0[label="LOCOROBJ:into wedges", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="IMPLICIT DOBJ"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

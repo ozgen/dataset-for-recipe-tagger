@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a large pot over medium heat , I would combine broth , the corn , the onion and potatoes .
+PREDID: 26
+PRED: combine
+   DOBJ: broth , the corn , the onion, potatoes
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: large white onion diced
+      INGREDIENT SPAN:  potatoes
+         INGREDIENTS: diced potatoes
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce whole kernel corn
+      INGREDIENT SPAN: broth 
+         INGREDIENTS: ounce chicken broth
+   PARG: a large pot over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot over medium heat
+
+
+SENTID: 1
+SENT: I would bring to a boil ,
+PREDID: 61
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat , the cover and simmer 15 to 20 minutes , until potatoes are just tender .
+PREDID: 74
+PRED: reduce
+   DOBJ: NULL
+   PARG: heat , the cover, simmer 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: heat 
+      NON-INGREDIENT SPAN:  the cover
+      NON-INGREDIENT SPAN:  simmer 15 to 20 minutes
+   PARG: potatoes are just tender
+     PREP: until
+      NON-INGREDIENT SPAN: potatoes are just tender
+
+
+SENTID: 3
+SENT: I would stir in evaporated milk and butter until butter is just melted .
+PREDID: 140
+PRED: stir
+   DOBJ: NULL
+   PARG: evaporated milk, butter
+     PREP: in
+      INGREDIENT SPAN: evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  butter
+         INGREDIENTS: butter
+   PARG: butter is just melted
+     PREP: until
+      NON-INGREDIENT SPAN: butter is just melted
+
+
+SENTID: 4
+SENT: I would season with salt and pepper and serve at once .
+PREDID: 193
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 219
+PRED: serve
+   DOBJ: NULL
+   PARG: once
+     PREP: at
+      NON-INGREDIENT SPAN: once
+
+

@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 80
+PRED: cook
+   DOBJ: NULL
+   PARG: egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes
+     PREP: for
+      INGREDIENT SPAN: egg noodles in the boiling water 
+         INGREDIENTS: ounce package egg noodles
+      NON-INGREDIENT SPAN:  until cooked through but firm to the bite 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 3
+SENT: I would drain , reserving a few tablespoons of the water .
+PREDID: 182
+PRED: drain
+   DOBJ: NULL
+   OARG: reserving a few tablespoons of the water
+      NON-INGREDIENT SPAN: reserving a few tablespoons of the water
+
+
+SENTID: 4
+SENT: I would transfer noodles and reserved water to a large bowl .
+PREDID: 223
+PRED: transfer
+   DOBJ: noodles, reserved water
+      NON-INGREDIENT SPAN: noodles
+      NON-INGREDIENT SPAN:  reserved water
+   PARG: a large bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would mix salad dressing and mayonnaise into the noodles about a tablespoon each at a time , stirring to coat the noodles , until the mixture has a creamy texture to your liking .
+PREDID: 267
+PRED: mix
+   DOBJ: salad dressing, mayonnaise
+      INGREDIENT SPAN:  mayonnaise
+         INGREDIENTS: mayonnaise taste
+      INGREDIENT SPAN: salad dressing
+         INGREDIENTS: island salad dressing taste
+   PARG: the noodles about a tablespoon each at a time , stirring to coat the noodles , until the mixture has a creamy texture to your liking
+     PREP: into
+      NON-INGREDIENT SPAN:  until the mixture has a creamy texture to your liking
+      NON-INGREDIENT SPAN:  stirring to coat the noodles 
+      NON-INGREDIENT SPAN: the noodles about a tablespoon each at a time 
+
+
+SENTID: 6
+SENT: I would add corned beef , the sauerkraut , Swiss cheese , and Cheddar cheese to the noodles ;
+PREDID: 408
+PRED: add
+   DOBJ: corned beef , the sauerkraut , Swiss cheese , Cheddar cheese
+      INGREDIENT SPAN:  the sauerkraut 
+         INGREDIENTS: sauerkraut
+      INGREDIENT SPAN:  Swiss cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN: corned beef 
+         INGREDIENTS: sliced delistyle corned beef cut 1inch squares
+      INGREDIENT SPAN:  Cheddar cheese
+         INGREDIENTS: shredded Swiss cheese
+   PARG: the noodles
+     PREP: to
+      NON-INGREDIENT SPAN: the noodles
+
+
+SENTID: 7
+SENT: I would stir .
+PREDID: 474
+PRED: stir
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would pour the mixture into a 13x9-inch baking dish .
+PREDID: 479
+PRED: pour
+   DOBJ: the mixture
+      NON-INGREDIENT SPAN: the mixture
+   PARG: a 13x9-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 13x9-inch baking dish
+
+
+SENTID: 9
+SENT: I would bake in preheated oven until the cheese melts completely and the casserole is hot in the center , 45 minutes to 1 hour .
+PREDID: 518
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the cheese melts completely
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese melts completely
+   OARG: the casserole is hot in the center , 45 minutes to 1 hour
+      NON-INGREDIENT SPAN:  45 minutes to 1 hour
+      NON-INGREDIENT SPAN: the casserole is hot in the center 
+
+

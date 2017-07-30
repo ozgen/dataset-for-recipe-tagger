@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: I would preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven
+      NON-INGREDIENT SPAN: oven
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+
+
+SENTID: 1
+SENT: I would butter or grease one 8x16 inch baking dish .
+
+SENTID: 2
+SENT: I would bring a large pot of salted water to a boil .
+PREDID: 38
+PRED: bring
+   DOBJ: a large pot of salted water
+      NON-INGREDIENT SPAN: a large pot of salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 73
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: potatoes
+
+PREDID: 87
+PRED: cook
+   DOBJ: NULL
+   PARG: tender but still firm , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender but still firm 
+      NON-INGREDIENT SPAN:  about 15 minutes
+
+
+SENTID: 4
+SENT: I would drain and cool .
+PREDID: 130
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: I would place bacon in a large , deep skillet .
+PREDID: 143
+PRED: place
+   DOBJ: bacon
+      INGREDIENT SPAN: bacon
+         INGREDIENTS: slices bacon
+   PARG: a large , deep skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large 
+      NON-INGREDIENT SPAN:  deep skillet
+
+
+SENTID: 6
+SENT: I would cook over medium high heat until evenly brown .
+PREDID: 174
+PRED: cook
+   DOBJ: medium high heat
+      NON-INGREDIENT SPAN: medium high heat
+   PARG: evenly brown
+     PREP: until
+      NON-INGREDIENT SPAN: evenly brown
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 7
+SENT: I would add onions , the mushrooms , the salt and pepper .
+PREDID: 213
+PRED: add
+   DOBJ: onions , the mushrooms , the salt, pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt pepper taste
+      INGREDIENT SPAN:  the mushrooms 
+         INGREDIENTS: sliced mushrooms
+      INGREDIENT SPAN: onions 
+         INGREDIENTS: onions chopped
+      NON-INGREDIENT SPAN:  pepper
+
+
+SENTID: 8
+SENT: I would cook until onions and mushrooms are soft .
+PREDID: 247
+PRED: cook
+   DOBJ: NULL
+   PARG: onions, mushrooms are soft
+     PREP: until
+      NON-INGREDIENT SPAN: onions
+      NON-INGREDIENT SPAN:  mushrooms are soft
+
+
+SENTID: 9
+SENT: I would slice potatoes and place a thin layer in the baking dish .
+PREDID: 282
+PRED: slice
+   DOBJ: potatoes
+      NON-INGREDIENT SPAN: potatoes
+
+PREDID: 298
+PRED: place
+   DOBJ: a thin layer in the baking dish
+      NON-INGREDIENT SPAN: a thin layer in the baking dish
+
+
+SENTID: 10
+SENT: I would follow with a layer of the bacon mixture and repeat layers until all ingredients are used .
+PREDID: 329
+PRED: follow
+   DOBJ: NULL
+   PARG: a layer of the bacon mixture
+     PREP: with
+      NON-INGREDIENT SPAN: a layer of the bacon mixture
+
+PREDID: 365
+PRED: repeat
+   DOBJ: layers
+      NON-INGREDIENT SPAN: layers
+   PARG: all ingredients are used
+     PREP: until
+      NON-INGREDIENT SPAN: all ingredients are used
+
+
+SENTID: 11
+SENT: I would pour cream and milk over layers ;
+PREDID: 404
+PRED: pour
+   DOBJ: cream, milk
+      INGREDIENT SPAN:  milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: cream
+         INGREDIENTS: heavy cream
+   PARG: layers
+     PREP: over
+      NON-INGREDIENT SPAN: layers
+
+
+SENTID: 12
+SENT: I would sprinkle with grated cheese .
+PREDID: 431
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: grated cheese
+     PREP: with
+      INGREDIENT SPAN: grated cheese
+         INGREDIENTS: shredded mozzarella cheese
+
+
+SENTID: 13
+SENT: I would bake for approximately 35 minutes , or until cream and milk have almost reduced completely .
+PREDID: 456
+PRED: bake
+   DOBJ: NULL
+   PARG: approximately 35 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: approximately 35 minutes
+
+PREDID: 515
+PRED: have reduced
+   DOBJ: NULL
+   PARG: cream, milk
+     PREP: until
+      NON-INGREDIENT SPAN:  milk
+      NON-INGREDIENT SPAN: cream
+   OARG: almost
+      NON-INGREDIENT SPAN: almost
+   OARG: completely
+      NON-INGREDIENT SPAN: completely
+
+

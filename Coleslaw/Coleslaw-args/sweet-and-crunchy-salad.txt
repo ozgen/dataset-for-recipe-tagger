@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would place noodles in a bowl of warm water and soak for 15 minutes or until soft .
+PREDID: 0
+PRED: place
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce packages chicken flavored ramen noodles
+   PARG: a bowl of warm water
+     PREP: in
+      INGREDIENT SPAN: a bowl of warm water
+         INGREDIENTS: ounce water chestnuts
+
+PREDID: 33
+PRED: soak
+   DOBJ: NULL
+   PARG: 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 minutes
+
+
+SENTID: 1
+SENT: I would whisk together the oil , the sugar , the vinegar and seasoning packs .
+PREDID: 61
+PRED: whisk
+   DOBJ: the oil , the sugar , the vinegar, seasoning packs
+      INGREDIENT SPAN: the oil 
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the vinegar
+         INGREDIENTS: white wine vinegar
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  seasoning packs
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would drain the noodles and combine in a large bowl with the coleslaw , the oranges , water chestnuts , green onions and sunflower seeds .
+PREDID: 112
+PRED: drain
+   DOBJ: the noodles
+      NON-INGREDIENT SPAN: the noodles
+
+PREDID: 130
+PRED: combine
+   DOBJ: NULL
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   PARG: the coleslaw , the oranges , water chestnuts , green onions, sunflower seeds
+     PREP: with
+      INGREDIENT SPAN:  the oranges 
+         INGREDIENTS: ounce mandarin oranges drained sliced
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN: the coleslaw 
+         INGREDIENTS: ounce package shredded coleslaw mix
+      INGREDIENT SPAN:  sunflower seeds
+         INGREDIENTS: sunflower seeds
+      NON-INGREDIENT SPAN:  water chestnuts 
+
+
+SENTID: 3
+SENT: I would pour the dressing over salad and toss to coat evenly .
+PREDID: 217
+PRED: pour
+   DOBJ: the dressing over salad
+      NON-INGREDIENT SPAN: the dressing over salad
+
+PREDID: 244
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 4
+SENT: I would refrigerate for 2 to 4 hours .
+PREDID: 258
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 2 to 4 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 to 4 hours
+
+
+SENTID: 5
+SENT: I would add cashews before serving .
+PREDID: 282
+PRED: add
+   DOBJ: cashews
+      INGREDIENT SPAN: cashews
+         INGREDIENTS: cashews
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

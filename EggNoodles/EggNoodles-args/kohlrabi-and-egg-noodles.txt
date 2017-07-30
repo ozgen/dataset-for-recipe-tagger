@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would cook egg noodles in boiling water , stirring occasionally , until cooked through yet firm to the bite , about 5 minutes ;
+PREDID: 42
+PRED: cook
+   DOBJ: egg noodles
+      INGREDIENT SPAN: egg noodles
+         INGREDIENTS: egg noodles such Yolks
+   PARG: boiling water , stirring occasionally , until cooked through yet firm to the bite , about 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: boiling water 
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until cooked through yet firm to the bite 
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 141
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: I would melt butter in a skillet over medium heat .
+PREDID: 147
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter margarine
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+
+SENTID: 4
+SENT: I would add kohlrabi , season with salt and pepper , and cook until the kohlrabi is tender , 7 to 10 minutes .
+PREDID: 182
+PRED: add
+   DOBJ: kohlrabi , season with salt, pepper
+      INGREDIENT SPAN: kohlrabi 
+         INGREDIENTS: grated kohlrabi
+      INGREDIENT SPAN:  season with salt
+         INGREDIENTS: salt ground black pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 221
+PRED: cook
+   DOBJ: NULL
+   PARG: the kohlrabi is tender , 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  7 to 10 minutes
+      NON-INGREDIENT SPAN: the kohlrabi is tender 
+
+
+SENTID: 5
+SENT: I would stir the drained egg noodles into the kohlrabi ;
+PREDID: 263
+PRED: stir
+   DOBJ: the drained egg noodles
+      NON-INGREDIENT SPAN: the drained egg noodles
+   PARG: the kohlrabi
+     PREP: into
+      NON-INGREDIENT SPAN: the kohlrabi
+
+
+SENTID: 6
+SENT: I would cook and stir until the noodles are slightly fried , 5 to 7 minutes .
+PREDID: 303
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the noodles are slightly fried , 5 to 7 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: the noodles are slightly fried 
+      NON-INGREDIENT SPAN:  5 to 7 minutes
+
+

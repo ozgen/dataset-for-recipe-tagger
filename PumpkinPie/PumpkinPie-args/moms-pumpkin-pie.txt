@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB-
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 425 degrees F -LRB- 220 degrees C.
+      NON-INGREDIENT SPAN: oven to 425 degrees F -LRB- 220 degrees C.
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine eggs , egg yolk , white sugar and brown sugar .
+PREDID: 51
+PRED: combine
+   DOBJ: eggs , egg yolk , white sugar, brown sugar
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  egg yolk 
+         INGREDIENTS: egg yolk
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would add salt , the cinnamon , the nutmeg , the ginger and cloves .
+PREDID: 95
+PRED: add
+   DOBJ: salt , the cinnamon , the nutmeg , the ginger, cloves
+      INGREDIENT SPAN:  cloves
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the ginger
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN: salt 
+         INGREDIENTS: salt
+
+
+SENTID: 3
+SENT: I would gradually stir in milk and cream .
+PREDID: 144
+PRED: stir
+   DOBJ: NULL
+   PARG: milk, cream
+     PREP: in
+      INGREDIENT SPAN:  cream
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN: milk
+         INGREDIENTS: milk
+   OARG: gradually
+      NON-INGREDIENT SPAN: gradually
+
+
+SENTID: 4
+SENT: I would stir in pumpkin .
+PREDID: 163
+PRED: stir
+   DOBJ: NULL
+   PARG: pumpkin
+     PREP: in
+      INGREDIENT SPAN: pumpkin
+         INGREDIENTS: pumpkin puree
+
+
+SENTID: 5
+SENT: I would pour the filling into pie shell .
+PREDID: 177
+PRED: pour
+   DOBJ: the filling
+      NON-INGREDIENT SPAN: the filling
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 6
+SENT: I would bake for ten minutes in preheated oven .
+PREDID: 201
+PRED: bake
+   DOBJ: NULL
+   PARG: ten minutes in preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: ten minutes in preheated oven
+
+
+SENTID: 7
+SENT: I would reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and bake for an additional 40 to 45 minutes , or until filling is set .
+PREDID: 234
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 331
+PRED: is set
+   DOBJ: NULL
+
+

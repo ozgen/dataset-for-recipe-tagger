@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would brown ground beef in a large skillet over medium heat until crumbly and no longer pink , about 10 minutes .
+PREDID: 38
+PRED: brown
+   DOBJ: ground beef
+      INGREDIENT SPAN: ground beef
+         INGREDIENTS: ground beef
+   PARG: a large skillet over medium heat until crumbly, no longer pink , about 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN:  no longer pink 
+      NON-INGREDIENT SPAN: a large skillet over medium heat until crumbly
+
+
+SENTID: 2
+SENT: I would drain and set aside in a bowl .
+PREDID: 125
+PRED: drain and set
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would cook and stir onion and green bell pepper in the same skillet until onion is translucent , about 5 minutes .
+
+SENTID: 4
+SENT: I would stir onion , green pepper , and spaghetti sauce into ground beef .
+PREDID: 237
+PRED: stir
+   DOBJ: onion , green pepper , spaghetti sauce
+      INGREDIENT SPAN: onion 
+         INGREDIENTS: diced onion
+      INGREDIENT SPAN:  spaghetti sauce
+         INGREDIENTS: ounce jar spaghetti sauce
+      INGREDIENT SPAN:  green pepper 
+         INGREDIENTS: diced green bell pepper
+   PARG: ground beef
+     PREP: into
+      NON-INGREDIENT SPAN: ground beef
+
+
+SENTID: 5
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 291
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 6
+SENT: I would cook spaghetti in the boiling water , stirring occasionally until cooked through but firm to the bite , about 10 minutes .
+PREDID: 333
+PRED: cook
+   DOBJ: spaghetti in the boiling water
+      INGREDIENT SPAN: spaghetti in the boiling water
+         INGREDIENTS: ounce package spaghetti
+   OARG: stirring occasionally until cooked through but firm to the bite , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: stirring occasionally until cooked through but firm to the bite 
+
+
+SENTID: 7
+SENT: I would drain and transfer to a bowl .
+PREDID: 434
+PRED: drain and transfer
+   DOBJ: NULL
+   PARG: a bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 8
+SENT: I would let pasta cool slightly and stir beaten eggs and Parmesan cheese into spaghetti .
+PREDID: 458
+PRED: let
+   DOBJ: pasta cool
+      NON-INGREDIENT SPAN: pasta cool
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+PREDID: 481
+PRED: stir
+   DOBJ: beaten eggs, Parmesan cheese
+      INGREDIENT SPAN: beaten eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  Parmesan cheese
+         INGREDIENTS: grated Parmesan cheese
+   PARG: spaghetti
+     PREP: into
+      NON-INGREDIENT SPAN: spaghetti
+
+
+SENTID: 9
+SENT: I would spread spaghetti mixture into a 9x13-inch baking dish .
+PREDID: 526
+PRED: spread
+   DOBJ: spaghetti mixture
+      NON-INGREDIENT SPAN: spaghetti mixture
+   PARG: a 9x13-inch baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13-inch baking dish
+
+
+SENTID: 10
+SENT: I would spread ricotta cheese over pasta mixture in an even layer ;
+PREDID: 573
+PRED: spread
+   DOBJ: ricotta cheese
+      INGREDIENT SPAN: ricotta cheese
+         INGREDIENTS: ounce container ricotta cheese
+   PARG: pasta mixture in an even layer
+     PREP: over
+      NON-INGREDIENT SPAN: pasta mixture in an even layer
+
+
+SENTID: 11
+SENT: I would top with ground beef mixture .
+PREDID: 622
+PRED: top
+   DOBJ: NULL
+   PARG: ground beef mixture
+     PREP: with
+      NON-INGREDIENT SPAN: ground beef mixture
+
+
+SENTID: 12
+SENT: I would sprinkle mozzarella cheese evenly over the top of the casserole .
+PREDID: 647
+PRED: sprinkle
+   DOBJ: mozzarella cheese
+      INGREDIENT SPAN: mozzarella cheese
+         INGREDIENTS: shredded mozzarella cheese
+   PARG: the top of the casserole
+     PREP: over
+      NON-INGREDIENT SPAN: the top of the casserole
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 13
+SENT: I would bake in the preheated oven until the casserole is set in the center and the cheese topping is melted and lightly browned , about 35 minutes .
+PREDID: 702
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: the casserole is set in the center
+     PREP: until
+      NON-INGREDIENT SPAN: the casserole is set in the center
+
+PREDID: 778
+PRED: is melted
+   DOBJ: NULL
+
+PREDID: 794
+PRED: browned
+   DOBJ: NULL
+   PARG: 35 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 35 minutes
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+

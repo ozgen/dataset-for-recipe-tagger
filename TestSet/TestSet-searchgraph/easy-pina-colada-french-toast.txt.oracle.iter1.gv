@@ -1,0 +1,53 @@
+digraph recipe {
+E0[label="whisk
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="heat
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="melt
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="soak
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="lay
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="pan-fry
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="transfer
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="top
+7", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: bottled pina colada drink mix, eggs, milk", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a bowl", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+D1[label="DOBJ: a skillet", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+O1_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+D2_ing[label="DOBJ: butter or needed", shape=box, style=filled, fillcolor=peachpuff]
+D2_ing -> E2
+E1 -> E2 [label="LOCATION:in the skillet"]
+O2_0_0[label="OTHER: until the foam disappears", shape=box, style=filled, fillcolor=white]
+O2_0_0 -> E2
+D3_ing[label="DOBJ: inch thick slices French bread", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="IMPLICIT PREP"]
+E0 -> E3 [label="COOBJECT:in the egg mixture"]
+O3_0_0[label="OTHER: turning the slices over a couple of times", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="the soaked bread slices"]
+P4_0_0[label="LOCATION:into the hot skillet", shape=box, style=filled, fillcolor=white]
+P4_0_0 -> E4
+O4_0_0[label="OTHER: 2 at a time", shape=box, style=filled, fillcolor=white]
+O4_0_0 -> E4
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: until the french toast is golden brown, about 2 minutes per side", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+E5 -> E6 [label="cooked french toast slices"]
+P6_0_0[label="LOCATION:to a warmed platter", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+E6 -> E7 [label="each 2-slice serving"]
+P7_0_ing[label="COOBJECT: with bananas", shape=box, style=filled, fillcolor=peachpuff]
+P7_0_ing -> E7
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

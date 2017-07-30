@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: I would preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: an oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 40
+PRED: fill
+   DOBJ: a large pot
+      NON-INGREDIENT SPAN: a large pot
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+PREDID: 78
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 2
+SENT: Once the water is boiling , I would stir in the egg noodles , and return to a boil .
+PREDID: 132
+PRED: stir
+   DOBJ: NULL
+   PARG: the water is boiling
+     PREP: once
+      NON-INGREDIENT SPAN: the water is boiling
+   PARG: the egg noodles
+     PREP: in
+      INGREDIENT SPAN: the egg noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 155
+PRED: return
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 169
+PRED: cook
+   DOBJ: NULL
+   PARG: the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN:  stirring occasionally 
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN:  until the pasta has cooked through 
+      NON-INGREDIENT SPAN: the pasta uncovered 
+      NON-INGREDIENT SPAN:  but is still firm to the bite 
+
+
+SENTID: 4
+SENT: I would drain well in a colander set in the sink .
+PREDID: 280
+PRED: drain
+   DOBJ: NULL
+   PARG: a colander set in the sink
+     PREP: in
+      NON-INGREDIENT SPAN: a colander set in the sink
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 5
+SENT: I would place noodles in a large bowl .
+PREDID: 313
+PRED: place
+   DOBJ: noodles
+      NON-INGREDIENT SPAN: noodles
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 6
+SENT: I would mix margarine into the noodles until melted .
+PREDID: 338
+PRED: mix
+   DOBJ: margarine
+      INGREDIENT SPAN: margarine
+         INGREDIENTS: margarine
+   PARG: the noodles
+     PREP: into
+      NON-INGREDIENT SPAN: the noodles
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 7
+SENT: I would stir in the eggs , the sugar , applesauce , and vanilla extract .
+PREDID: 376
+PRED: stir
+   DOBJ: NULL
+   PARG: the eggs , the sugar , applesauce , vanilla extract
+     PREP: in
+      INGREDIENT SPAN:  applesauce 
+         INGREDIENTS: applesauce
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  vanilla extract
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+
+
+SENTID: 8
+SENT: I would pour noodle mixture into a 9x13 inch baking pan ,
+PREDID: 425
+PRED: pour
+   DOBJ: noodle mixture
+      NON-INGREDIENT SPAN: noodle mixture
+   PARG: a 9x13 inch baking pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+
+
+SENTID: 9
+SENT: I would sprinkle with cinnamon .
+PREDID: 465
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: cinnamon
+     PREP: with
+      INGREDIENT SPAN: cinnamon
+         INGREDIENTS: ground cinnamon dusting
+
+
+SENTID: 10
+SENT: I would cover the baking pan with aluminum foil .
+PREDID: 486
+PRED: cover
+   DOBJ: the baking pan with aluminum foil
+      NON-INGREDIENT SPAN: the baking pan with aluminum foil
+
+
+SENTID: 11
+SENT: I would bake in the preheated oven for 30 minutes .
+PREDID: 517
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven for 30 minutes
+
+
+SENTID: 12
+SENT: I would uncover the kugel and bake until golden brown , 20 to 30 minutes .
+PREDID: 552
+PRED: uncover
+   DOBJ: the kugel
+      NON-INGREDIENT SPAN: the kugel
+
+PREDID: 570
+PRED: bake
+   DOBJ: NULL
+   PARG: golden brown , 20 to 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: golden brown 
+      NON-INGREDIENT SPAN:  20 to 30 minutes
+
+

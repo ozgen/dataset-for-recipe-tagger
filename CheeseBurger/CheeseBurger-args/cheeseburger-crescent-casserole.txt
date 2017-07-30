@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: I would heat oven to 375 degrees F .
+PREDID: 0
+PRED: heat
+   DOBJ: oven to 375 degrees F
+      NON-INGREDIENT SPAN: oven to 375 degrees F
+
+
+SENTID: 1
+SENT: In 10-inch skillet , I would mix beef and ketchup .
+PREDID: 39
+PRED: mix
+   DOBJ: beef, ketchup
+      INGREDIENT SPAN:  ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN: beef
+         INGREDIENTS: ground beef cooked drained
+   PARG: 10-inch skillet
+     PREP: in
+      NON-INGREDIENT SPAN: 10-inch skillet
+
+
+SENTID: 2
+SENT: I would heat over medium-high heat until hot , stirring occasionally .
+PREDID: 57
+PRED: heat
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   PARG: hot , stirring occasionally
+     PREP: until
+      NON-INGREDIENT SPAN:  stirring occasionally
+      NON-INGREDIENT SPAN: hot 
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 3
+SENT: I would stir in relish and 1 cup of the cheese .
+PREDID: 110
+PRED: stir
+   DOBJ: NULL
+   PARG: relish, 1 cup of the cheese
+     PREP: in
+      INGREDIENT SPAN:  1 cup of the cheese
+         INGREDIENTS: shredded American cheese
+      INGREDIENT SPAN: relish
+         INGREDIENTS: dill pickle relish
+
+
+SENTID: 4
+SENT: I would spoon into ungreased 9 - or 10-inch glass pie plate .
+PREDID: 141
+PRED: spoon
+   DOBJ: NULL
+   PARG: ungreased 9 - or 10-inch glass pie plate
+     PREP: into
+      NON-INGREDIENT SPAN: ungreased 9 - or 10-inch glass pie plate
+
+
+SENTID: 5
+SENT: I would separate dough into 8 triangles ;
+PREDID: 184
+PRED: separate
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: 8 triangles
+     PREP: into
+      NON-INGREDIENT SPAN: 8 triangles
+
+
+SENTID: 6
+SENT: I would roll up 1 inch on shortest side of each dough triangle .
+PREDID: 212
+PRED: roll
+   DOBJ: 1 inch on shortest side of each dough triangle
+      NON-INGREDIENT SPAN: 1 inch on shortest side of each dough triangle
+   OARG: up
+      NON-INGREDIENT SPAN: up
+
+
+SENTID: 7
+SENT: I would place dough on top of meat mixture in spoke pattern with points towards center .
+PREDID: 257
+PRED: place
+   DOBJ: dough
+      NON-INGREDIENT SPAN: dough
+   PARG: top of meat mixture in spoke pattern
+     PREP: on
+      NON-INGREDIENT SPAN: top of meat mixture in spoke pattern
+   PARG: points towards center
+     PREP: with
+      NON-INGREDIENT SPAN: points towards center
+
+
+SENTID: 8
+SENT: I would sprinkle with remaining 1/2 cup cheese .
+PREDID: 323
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining 1/2 cup cheese
+     PREP: with
+      INGREDIENT SPAN: remaining 1/2 cup cheese
+         INGREDIENTS: shredded American cheese
+
+
+SENTID: 9
+SENT: I would bake 15 to 20 minutes or until cheese is melted .
+PREDID: 357
+PRED: bake
+   DOBJ: NULL
+   PARG: 15 to 20 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 15 to 20 minutes
+
+PREDID: 389
+PRED: is melted
+   DOBJ: NULL
+   OARG: until
+      NON-INGREDIENT SPAN: until
+
+

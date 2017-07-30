@@ -1,0 +1,54 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="mix (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="work (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E4[label="press (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="mix (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="pull (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="spread (S8,P1)", shape=oval, style=filled, fillcolor=azure]
+E9[label="return (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="bake (S9,P1)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: crumbled dried sage, eggs, milk, chopped onion, dry bread crumbs, ground black pepper, salt
+(text: the beaten eggs , milk , bread crumbs , onion , salt , black pepper , and sage)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+D6[label="DOBJ: dry mustard powder, brown sugar, ketchup
+(text: the ketchup , brown sugar , and dry mustard powder in a bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D6 -> E6
+D1[label="DOBJ: a 9x5-inch loaf pan", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: in ground beef
+(text: in the ground beef)", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+P3_1_0[label="PREP: until mixed", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: the meat mixture"]
+E1 -> E4 [label="OUTPUT: 
+INPUT: into the prepared loaf pan"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E0 -> E5 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+E5 -> E7 [label="OUTPUT: 
+INPUT: from the oven"]
+E7 -> E8 [label="OUTPUT: 
+INPUT: "]
+E8 -> E9 [label="OUTPUT: 
+INPUT: "]
+P9_0_0[label="PREP: to oven", shape=box, style=filled, fillcolor=white]
+P9_0_0 -> E9
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

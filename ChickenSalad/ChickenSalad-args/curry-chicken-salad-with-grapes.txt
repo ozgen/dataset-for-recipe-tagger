@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: I would heat butter in a large saucepan over low heat until melted ;
+PREDID: 0
+PRED: heat
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large saucepan over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan over low heat
+   PARG: melted
+     PREP: until
+      NON-INGREDIENT SPAN: melted
+
+
+SENTID: 1
+SENT: I would remove from heat and cool to room temperature .
+PREDID: 49
+PRED: remove
+   DOBJ: NULL
+   PARG: heat
+     PREP: from
+      NON-INGREDIENT SPAN: heat
+
+PREDID: 66
+PRED: cool
+   DOBJ: NULL
+   PARG: room temperature
+     PREP: to
+      NON-INGREDIENT SPAN: room temperature
+
+
+SENTID: 2
+SENT: I would stir mayonnaise , garlic , parsley , and curry powder into butter until evenly incorporated .
+PREDID: 88
+PRED: stir
+   DOBJ: mayonnaise , garlic , parsley
+      INGREDIENT SPAN:  parsley
+         INGREDIENTS: chopped fresh parsley
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  garlic 
+         INGREDIENTS: minced garlic
+
+PREDID: 121
+PRED: curry
+   DOBJ: powder
+      INGREDIENT SPAN: powder
+         INGREDIENTS: curry powder
+   PARG: butter
+     PREP: into
+      NON-INGREDIENT SPAN: butter
+   PARG: evenly incorporated
+     PREP: until
+      NON-INGREDIENT SPAN: evenly incorporated
+
+
+SENTID: 3
+SENT: I would fold in chicken , the grapes , and almonds .
+PREDID: 166
+PRED: fold
+   DOBJ: NULL
+   PARG: chicken , the grapes , almonds
+     PREP: in
+      INGREDIENT SPAN:  almonds
+         INGREDIENTS: toasted slivered almonds
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: shredded cooked chicken
+      INGREDIENT SPAN:  the grapes 
+         INGREDIENTS: halved red grapes
+
+
+SENTID: 4
+SENT: I would transfer mixture to a serving bowl and cover with plastic wrap .
+PREDID: 198
+PRED: transfer
+   DOBJ: mixture
+      NON-INGREDIENT SPAN: mixture
+   PARG: a serving bowl
+     PREP: to
+      NON-INGREDIENT SPAN: a serving bowl
+
+PREDID: 230
+PRED: cover
+   DOBJ: NULL
+   PARG: plastic wrap
+     PREP: with
+      NON-INGREDIENT SPAN: plastic wrap
+
+
+SENTID: 5
+SENT: I would refrigerate until flavors have blended , at least 1 hour .
+PREDID: 251
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: flavors have blended , at least 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN:  at least 1 hour
+      NON-INGREDIENT SPAN: flavors have blended 
+
+

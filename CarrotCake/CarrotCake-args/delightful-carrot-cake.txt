@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease and flour a 9x13 inch pan .
+PREDID: 38
+PRED: grease and flour
+   DOBJ: a 9x13 inch pan
+      NON-INGREDIENT SPAN: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: In a medium bowl , I would stir together the eggs , the sugar , the carrots , the vanilla and oil .
+PREDID: 79
+PRED: stir
+   DOBJ: the eggs , the sugar , the carrots , the vanilla, oil
+      INGREDIENT SPAN:  the carrots 
+         INGREDIENTS: ounce jars carrot baby food
+      INGREDIENT SPAN: the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  oil
+         INGREDIENTS: vegetable oil
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 3
+SENT: I would combine the flour , baking soda , the cinnamon and salt , stir into the carrot mixture .
+PREDID: 127
+PRED: combine stir
+   DOBJ: the flour , baking soda , the cinnamon, salt
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: allpurpose flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+   PARG: the carrot mixture
+     PREP: into
+      NON-INGREDIENT SPAN: the carrot mixture
+
+
+SENTID: 4
+SENT: I would fold in the pineapple , the nuts and raisins .
+PREDID: 195
+PRED: fold
+   DOBJ: NULL
+   PARG: the pineapple , the nuts, raisins
+     PREP: in
+      INGREDIENT SPAN:  raisins
+         INGREDIENTS: raisins
+      INGREDIENT SPAN: the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      NON-INGREDIENT SPAN:  the nuts
+
+
+SENTID: 5
+SENT: I would pour into the prepared pan .
+PREDID: 229
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+
+
+SENTID: 6
+SENT: I would bake for 45 to 50 minutes in the preheated oven , until cake springs back when lightly touched .
+PREDID: 252
+PRED: bake
+   DOBJ: NULL
+   PARG: 45 to 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 45 to 50 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: cake springs back when lightly touched
+     PREP: until
+      NON-INGREDIENT SPAN: cake springs back when lightly touched
+
+
+SENTID: 7
+SENT: When cool , frost with cream cheese frosting .
+PREDID: 339
+PRED: frost
+   DOBJ: NULL
+   PARG: cream cheese frosting
+     PREP: with
+      NON-INGREDIENT SPAN: cream cheese frosting
+   OARG: when cool
+      NON-INGREDIENT SPAN: when cool
+
+

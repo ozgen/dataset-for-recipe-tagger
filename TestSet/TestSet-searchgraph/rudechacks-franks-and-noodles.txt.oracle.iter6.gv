@@ -1,0 +1,57 @@
+digraph recipe {
+E0[label="preheat
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="bring
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="add
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="cook
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="drain
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="spread
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="arrange
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="mix
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="pour
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+O0_0[label="OTHER: to 375 degrees f (190 degrees c)", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D5[label="DOBJ: package egg noodles", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="LOCATION:in a 9x13 inch pan", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+D1[label="DOBJ: water", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+O1_0[label="OTHER: to a boil", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E1 -> E2 [label="pasta"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+O3_0_0[label="OTHER: for 8 to 10 minutes, or until al dente", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="IMPLICIT DOBJ"]
+D6_ing[label="DOBJ: package hot dogs", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="COOBJECT:over noodles"]
+D7_ing[label="DOBJ: vegetable oil, brown sugar, chopped onion, ketchup, Worcestershire sauce, lemon juice", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E4 -> E7 [label="water"]
+P7_0_0[label="LOCATION:in a medium bowl", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+O7_0_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O7_0_0 -> E7
+E7 -> E8 [label="IMPLICIT DOBJ"]
+E6 -> E8 [label="COOBJECT:over noodles and hot dogs"]
+E8 -> E9 [label="IMPLICIT DOBJ"]
+E0 -> E9 [label="LOCATION:in preheated oven"]
+O9_0_0[label="OTHER: for 35 minutes", shape=box, style=filled, fillcolor=white]
+O9_0_0 -> E9
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

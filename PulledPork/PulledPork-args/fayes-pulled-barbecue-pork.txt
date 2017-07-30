@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: I would rub garlic , seasoning salt , the pepper and cayenne pepper to taste onto roast .
+PREDID: 0
+PRED: rub
+   DOBJ: garlic , seasoning salt , the pepper, cayenne pepper
+      INGREDIENT SPAN:  the pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  seasoning salt 
+         INGREDIENTS: seasoning salt
+      INGREDIENT SPAN:  cayenne pepper
+         INGREDIENTS: cayenne pepper
+      NON-INGREDIENT SPAN: garlic 
+   OARG: to taste onto roast
+      INGREDIENT SPAN: to taste onto roast
+         INGREDIENTS: Boston butt roast
+
+
+SENTID: 1
+SENT: I would place roast in a large Dutch oven and fill half way with water ;
+PREDID: 63
+PRED: place
+   DOBJ: roast
+      NON-INGREDIENT SPAN: roast
+   PARG: a large dutch oven
+     PREP: in
+      NON-INGREDIENT SPAN: a large dutch oven
+
+PREDID: 93
+PRED: fill
+   DOBJ: half way
+      NON-INGREDIENT SPAN: half way
+   PARG: water
+     PREP: with
+      NON-INGREDIENT SPAN: water
+
+
+SENTID: 2
+SENT: I would add onion .
+PREDID: 114
+PRED: add
+   DOBJ: onion
+      INGREDIENT SPAN: onion
+         INGREDIENTS: onion chopped
+
+
+SENTID: 3
+SENT: I would bring to a rolling boil over high heat .
+PREDID: 123
+PRED: bring
+   DOBJ: NULL
+   PARG: a rolling boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a rolling boil over high heat
+
+
+SENTID: 4
+SENT: I would reduce heat simmer and let cook until meat falls off the bone .
+PREDID: 155
+PRED: reduce
+   DOBJ: heat simmer
+      NON-INGREDIENT SPAN: heat simmer
+
+PREDID: 174
+PRED: let
+   DOBJ: cook
+      NON-INGREDIENT SPAN: cook
+   PARG: meat falls off the bone
+     PREP: until
+      NON-INGREDIENT SPAN: meat falls off the bone
+
+
+SENTID: 5
+SENT: This should take at least 3 to 4 hours depending on the size of the roast .
+
+SENTID: 6
+SENT: I would place hot roast in a serving bowl and pour on your favorite barbecue sauce .
+PREDID: 206
+PRED: place
+   DOBJ: hot roast
+      NON-INGREDIENT SPAN: hot roast
+   PARG: a serving bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a serving bowl
+
+PREDID: 236
+PRED: pour
+   DOBJ: NULL
+   PARG: your favorite barbecue sauce
+     PREP: on
+      INGREDIENT SPAN: your favorite barbecue sauce
+         INGREDIENTS: barbecue sauce
+
+
+SENTID: 7
+SENT: I would stir until well blended .
+PREDID: 268
+PRED: stir
+   DOBJ: NULL
+   PARG: well blended
+     PREP: until
+      NON-INGREDIENT SPAN: well blended
+
+
+SENTID: 8
+SENT: I would serve on your favorite buns .
+PREDID: 289
+PRED: serve
+   DOBJ: NULL
+   PARG: your favorite buns
+     PREP: on
+      NON-INGREDIENT SPAN: your favorite buns
+
+

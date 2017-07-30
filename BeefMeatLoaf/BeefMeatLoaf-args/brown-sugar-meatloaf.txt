@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would lightly grease a 5x9 inch loaf pan .
+PREDID: 45
+PRED: grease pan
+   DOBJ: a 5x9 inch loaf
+      NON-INGREDIENT SPAN: a 5x9 inch loaf
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+
+
+SENTID: 2
+SENT: I would press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar .
+PREDID: 67
+PRED: press pan
+   DOBJ: the ketchup, the brown sugar in the bottom of the prepared loaf
+      INGREDIENT SPAN: the ketchup
+         INGREDIENTS: ketchup
+      INGREDIENT SPAN:  the brown sugar in the bottom of the prepared loaf
+         INGREDIENTS: packed brown sugar
+   PARG: the sugar
+     PREP: over
+      NON-INGREDIENT SPAN: the sugar
+
+
+SENTID: 3
+SENT: In a mixing bowl , I would mix thoroughly all remaining ingredients and shape into a loaf .
+PREDID: 162
+PRED: mix
+   DOBJ: thoroughly all remaining ingredients
+      NON-INGREDIENT SPAN: thoroughly all remaining ingredients
+   PARG: a mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a mixing bowl
+
+PREDID: 201
+PRED: shape
+   DOBJ: NULL
+   PARG: a loaf
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf
+
+
+SENTID: 4
+SENT: I would place on top of the ketchup .
+PREDID: 216
+PRED: place
+   DOBJ: NULL
+   PARG: top of the ketchup
+     PREP: on
+      NON-INGREDIENT SPAN: top of the ketchup
+
+
+SENTID: 5
+SENT: I would bake in preheated oven for 1 hour or until juices are clear .
+PREDID: 239
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 1 hour or until juices are clear
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 1 hour or until juices are clear
+
+

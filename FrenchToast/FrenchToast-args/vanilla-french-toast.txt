@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: I would whisk eggs , the milk , the sugar , the vanilla and cinnamon in a medium bowl .
+PREDID: 0
+PRED: whisk
+   DOBJ: eggs , the milk , the sugar , the vanilla, cinnamon
+      INGREDIENT SPAN: eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: Spice Islands Pure Vanilla Extract
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  cinnamon
+         INGREDIENTS: ground cinnamon
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 1
+SENT: I would melt butter in skillet over medium-high heat .
+PREDID: 53
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: skillet over medium-high heat
+     PREP: in
+      NON-INGREDIENT SPAN: skillet over medium-high heat
+
+
+SENTID: 2
+SENT: I would dip bread slices in egg mixture and brown each side in skillet .
+PREDID: 92
+PRED: dip
+   DOBJ: bread slices
+      INGREDIENT SPAN: bread slices
+         INGREDIENTS: slices bread
+   PARG: egg mixture
+     PREP: in
+      NON-INGREDIENT SPAN: egg mixture
+
+PREDID: 121
+PRED: brown
+   DOBJ: each side in skillet
+      NON-INGREDIENT SPAN: each side in skillet
+
+
+SENTID: 3
+SENT: I would serve with maple syrup .
+PREDID: 144
+PRED: serve
+   DOBJ: NULL
+   PARG: maple syrup
+     PREP: with
+      NON-INGREDIENT SPAN: maple syrup
+
+

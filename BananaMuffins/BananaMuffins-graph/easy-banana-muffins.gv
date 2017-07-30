@@ -1,0 +1,43 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="spray (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="sift (S2,P72)", shape=oval, style=filled, fillcolor=azure]
+E3[label="fold (S4,P161)", shape=oval, style=filled, fillcolor=azure]
+E4[label="scoop (S5,P216)", shape=oval, style=filled, fillcolor=azure]
+E5[label="bake (S6,P250)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: oven to 350 degrees F -LRB- 175 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, all-purpose flour, whole wheat flour, baking soda, salt
+(text: all-purpose flour , whole wheat flour , baking powder , baking soda , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+D1[label="DOBJ: 16 muffin cups", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+P1_0[label="PREP: with cooking spray (such as Baker's Joy®)
+(text: with cooking spray)", shape=box, style=filled, fillcolor=peachpuff]
+P1_0 -> E1
+D3_ing[label="DOBJ: bananas
+(text: banana mixture)", shape=box, style=filled, fillcolor=peachpuff]
+D3_ing -> E3
+E2 -> E3 [label="OUTPUT: 
+INPUT: into flour mixture"]
+P3_1_0[label="PREP: until just incorporated", shape=box, style=filled, fillcolor=white]
+P3_1_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E4 [label="OUTPUT: 
+INPUT: into prepared muffin cups"]
+E4 -> E5 [label="OUTPUT: 
+INPUT: "]
+E0 -> E5 [label="OUTPUT: 
+INPUT: in the preheated oven"]
+O5_0_0[label="OTHER:  14 to 16 minutes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+O5_0_1[label="OTHER: until muffins spring back when lightly tapped in the middle ", shape=box, style=filled, fillcolor=white]
+O5_0_1 -> E5
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E5 -> EOR
+}

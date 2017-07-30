@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would place the potatoes into a large pot and cover with lightly salted water .
+PREDID: 0
+PRED: place
+   DOBJ: the potatoes
+      INGREDIENT SPAN: the potatoes
+         INGREDIENTS: potatoes peeled
+   PARG: a large pot
+     PREP: into
+      NON-INGREDIENT SPAN: a large pot
+
+PREDID: 32
+PRED: cover
+   DOBJ: NULL
+   PARG: lightly salted water
+     PREP: with
+      NON-INGREDIENT SPAN: lightly salted water
+
+
+SENTID: 1
+SENT: I would bring to a boil over high heat ,
+PREDID: 60
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil over high heat
+     PREP: to
+      NON-INGREDIENT SPAN: a boil over high heat
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low , cover , and simmer until just tender , about 15 minutes .
+PREDID: 85
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low
+     PREP: to
+      NON-INGREDIENT SPAN: medium-low
+
+PREDID: 117
+PRED: simmer
+   DOBJ: NULL
+   PARG: just tender , about 15 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: just tender 
+
+
+SENTID: 3
+SENT: I would drain the potatoes , and allow to cool to room temperature .
+PREDID: 154
+PRED: drain
+   DOBJ: the potatoes
+      NON-INGREDIENT SPAN: the potatoes
+
+PREDID: 174
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool to room temperature
+      NON-INGREDIENT SPAN: to cool to room temperature
+
+
+SENTID: 4
+SENT: I would dice once cooled .
+PREDID: 203
+PRED: dice
+   DOBJ: NULL
+
+PREDID: 211
+PRED: cooled
+   DOBJ: NULL
+   OARG: once
+      NON-INGREDIENT SPAN: once
+
+
+SENTID: 5
+SENT: I would place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 218
+PRED: place
+   DOBJ: the bacon in a large , deep skillet
+      INGREDIENT SPAN: the bacon in a large 
+         INGREDIENTS: slices bacon
+      NON-INGREDIENT SPAN:  deep skillet
+
+PREDID: 255
+PRED: cook
+   DOBJ: medium-high heat
+      NON-INGREDIENT SPAN: medium-high heat
+   OARG: over
+      NON-INGREDIENT SPAN: over
+   OARG: turning occasionally , until evenly browned , about 10 minutes
+      NON-INGREDIENT SPAN:  about 10 minutes
+      NON-INGREDIENT SPAN: turning occasionally 
+      NON-INGREDIENT SPAN:  until evenly browned 
+
+
+SENTID: 6
+SENT: I would drain the bacon slices on a paper towel-lined plate .
+PREDID: 333
+PRED: drain
+   DOBJ: the bacon slices
+      NON-INGREDIENT SPAN: the bacon slices
+   PARG: a paper towel-lined plate
+     PREP: on
+      NON-INGREDIENT SPAN: a paper towel-lined plate
+
+
+SENTID: 7
+SENT: I would allow to cool , and crumble the bacon into a large bowl .
+PREDID: 377
+PRED: allow
+   DOBJ: NULL
+   OARG: to cool , crumble the bacon into a large bowl
+      NON-INGREDIENT SPAN:  crumble the bacon into a large bowl
+      NON-INGREDIENT SPAN: to cool 
+
+
+SENTID: 8
+SENT: I would place the cooled potatoes into the bowl with the bacon , and mix in the sour cream , the mayonnaise , Cheddar cheese , the chives , the salt , and pepper .
+PREDID: 422
+PRED: place
+   DOBJ: the cooled potatoes
+      NON-INGREDIENT SPAN: the cooled potatoes
+   PARG: the bowl with the bacon
+     PREP: into
+      NON-INGREDIENT SPAN: the bowl with the bacon
+
+PREDID: 471
+PRED: mix
+   DOBJ: NULL
+   PARG: the sour cream , the mayonnaise , cheddar cheese , the chives , the salt , pepper
+     PREP: in
+      INGREDIENT SPAN:  cheddar cheese 
+         INGREDIENTS: shredded Cheddar cheese
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: dried chives
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: ounce container reducedfat sour cream
+
+
+SENTID: 9
+SENT: I would refrigerate overnight before serving .
+PREDID: 536
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+   OARG: overnight
+      NON-INGREDIENT SPAN: overnight
+
+

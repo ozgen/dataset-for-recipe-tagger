@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would chop 4 bacon strips ;
+PREDID: 38
+PRED: chop
+   DOBJ: 4 bacon strips
+      INGREDIENT SPAN: 4 bacon strips
+         INGREDIENTS: slices bacon divided
+
+
+SENTID: 2
+SENT: I would set the remaining 4 bacon strips aside .
+PREDID: 55
+PRED: set
+   DOBJ: the remaining 4 bacon strips
+      INGREDIENT SPAN: the remaining 4 bacon strips
+         INGREDIENTS: slices bacon divided
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: I would cook chopped bacon in a large skillet over medium heat , stirring often , until bacon is browned and crisp , 8 to 10 minutes .
+PREDID: 85
+PRED: cook
+   DOBJ: chopped bacon
+      INGREDIENT SPAN: chopped bacon
+         INGREDIENTS: slices bacon divided
+   PARG: a large skillet over medium heat , stirring often , until bacon is browned, crisp , 8 to 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN:  until bacon is browned
+      NON-INGREDIENT SPAN: a large skillet over medium heat 
+      NON-INGREDIENT SPAN:  stirring often 
+      NON-INGREDIENT SPAN:  crisp 
+      NON-INGREDIENT SPAN:  8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would set chopped bacon aside .
+PREDID: 186
+PRED: set
+   DOBJ: chopped bacon
+      NON-INGREDIENT SPAN: chopped bacon
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 5
+SENT: I would lightly mix ground beef , bread crumbs , beaten egg , the garlic , 1 teaspoon Worcestershire sauce , the salt , and black pepper together in a bowl until thoroughly combined .
+PREDID: 214
+PRED: mix
+   DOBJ: ground beef , bread crumbs , beaten egg , the garlic , 1 teaspoon Worcestershire sauce , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  1 teaspoon Worcestershire sauce 
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  beaten egg 
+         INGREDIENTS: egg beaten
+      INGREDIENT SPAN:  black pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+   PARG: thoroughly combined
+     PREP: until
+      NON-INGREDIENT SPAN: thoroughly combined
+   OARG: lightly
+      NON-INGREDIENT SPAN: lightly
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 6
+SENT: I would spread meat mixture out on a piece of waxed paper , forming a rectangle about 10 inches square .
+PREDID: 344
+PRED: spread
+   DOBJ: meat mixture
+      NON-INGREDIENT SPAN: meat mixture
+   PARG: a piece of waxed paper
+     PREP: on
+      NON-INGREDIENT SPAN: a piece of waxed paper
+   OARG: out
+      NON-INGREDIENT SPAN: out
+   OARG: forming a rectangle about 10 inches square
+      NON-INGREDIENT SPAN: forming a rectangle about 10 inches square
+
+
+SENTID: 7
+SENT: I would spread Cheddar cheese and cooked chopped bacon over the meat , leaving a 1/2-inch edge all around .
+PREDID: 422
+PRED: spread
+   DOBJ: Cheddar cheese
+      INGREDIENT SPAN: Cheddar cheese
+         INGREDIENTS: shredded Cheddar cheese needed
+
+PREDID: 444
+PRED: cooked
+   DOBJ: chopped bacon
+      NON-INGREDIENT SPAN: chopped bacon
+   PARG: the meat
+     PREP: over
+      NON-INGREDIENT SPAN: the meat
+
+PREDID: 474
+PRED: leaving
+   DOBJ: a 1/2-inch edge
+      NON-INGREDIENT SPAN: a 1/2-inch edge
+   OARG: all around
+      NON-INGREDIENT SPAN: all around
+
+
+SENTID: 8
+SENT: I would carefully lift an edge and roll the meat around the filling .
+PREDID: 513
+PRED: lift
+   DOBJ: an edge
+      NON-INGREDIENT SPAN: an edge
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+
+PREDID: 526
+PRED: roll
+   DOBJ: the meat
+      NON-INGREDIENT SPAN: the meat
+   PARG: the filling
+     PREP: around
+      NON-INGREDIENT SPAN: the filling
+
+
+SENTID: 9
+SENT: I would place into a loaf pan with the seam side down .
+PREDID: 554
+PRED: place
+   DOBJ: NULL
+   PARG: a loaf pan with the seam side
+     PREP: into
+      NON-INGREDIENT SPAN: a loaf pan with the seam side
+   OARG: down
+      NON-INGREDIENT SPAN: down
+
+
+SENTID: 10
+SENT: I would bake meat loaf in the preheated oven until hot and beginning to brown , about 30 minutes .
+PREDID: 591
+PRED: bake
+   DOBJ: meat loaf in the preheated oven
+      NON-INGREDIENT SPAN: meat loaf in the preheated oven
+   PARG: hot, beginning to brown , about 30 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 30 minutes
+      NON-INGREDIENT SPAN:  beginning to brown 
+      NON-INGREDIENT SPAN: hot
+
+
+SENTID: 11
+SENT: I would mix ketchup , brown sugar , the pineapple , and 1 teaspoon Worcestershire sauce together in a bowl , stirring to dissolve brown sugar .
+PREDID: 664
+PRED: mix
+   DOBJ: ketchup , brown sugar , the pineapple , 1 teaspoon Worcestershire sauce
+      INGREDIENT SPAN:  1 teaspoon Worcestershire sauce
+         INGREDIENTS: Worcestershire sauce
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: crushed pineapple drained
+      INGREDIENT SPAN:  brown sugar 
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN: ketchup 
+         INGREDIENTS: ketchup
+   PARG: a bowl , stirring to dissolve brown sugar
+     PREP: in
+      NON-INGREDIENT SPAN:  stirring to dissolve brown sugar
+      NON-INGREDIENT SPAN: a bowl 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 12
+SENT: I would remove meat loaf from oven and place remaining 4 bacon strips onto meat loaf , weaving them together .
+PREDID: 772
+PRED: remove
+   DOBJ: meat loaf
+      NON-INGREDIENT SPAN: meat loaf
+   PARG: oven, place remaining 4 bacon strips onto meat loaf , weaving them together
+     PREP: from
+      NON-INGREDIENT SPAN:  place remaining 4 bacon strips onto meat loaf 
+      NON-INGREDIENT SPAN: oven
+      NON-INGREDIENT SPAN:  weaving them together
+
+
+SENTID: 13
+SENT: I would spread pineapple mixture over woven bacon and top of loaf .
+PREDID: 856
+PRED: spread
+   DOBJ: pineapple mixture
+      NON-INGREDIENT SPAN: pineapple mixture
+   PARG: woven bacon, top of loaf
+     PREP: over
+      NON-INGREDIENT SPAN: woven bacon
+      NON-INGREDIENT SPAN:  top of loaf
+
+
+SENTID: 14
+SENT: I would return meat loaf to oven and bake until bacon topping is crisp and pineapple mixture has baked into a glaze , about 20 more minutes .
+PREDID: 905
+PRED: return
+   DOBJ: meat loaf
+      NON-INGREDIENT SPAN: meat loaf
+   PARG: oven, bake
+     PREP: to
+      NON-INGREDIENT SPAN:  bake
+      NON-INGREDIENT SPAN: oven
+   PARG: bacon topping is crisp, pineapple mixture has baked into a glaze , about 20 more minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  pineapple mixture has baked into a glaze 
+      NON-INGREDIENT SPAN:  about 20 more minutes
+      NON-INGREDIENT SPAN: bacon topping is crisp
+
+
+SENTID: 15
+SENT: An instant-read meat thermometer inserted into the center of the meat loaf should read 160 degrees F -LRB- 70 degrees C -RRB- .
+

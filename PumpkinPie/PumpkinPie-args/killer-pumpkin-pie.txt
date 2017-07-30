@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: I would preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: an oven to 425 degrees F -LRB- 220 degrees C
+      NON-INGREDIENT SPAN: an oven to 425 degrees F -LRB- 220 degrees C
+
+
+SENTID: 1
+SENT: I would stir together the flour , the sugar , and salt in a 9 inch pie pan , and make a well in the center .
+PREDID: 40
+PRED: stir
+   DOBJ: the flour , the sugar , salt in a 9 inch pie pan
+      INGREDIENT SPAN: the flour 
+         INGREDIENTS: all-purpose flour
+      INGREDIENT SPAN:  salt in a 9 inch pie pan
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the sugar 
+         INGREDIENTS: dark brown sugar
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 95
+PRED: make
+   DOBJ: a well in the center
+      NON-INGREDIENT SPAN: a well in the center
+
+
+SENTID: 2
+SENT: I would pour the oil and rice milk into the well ,
+PREDID: 113
+PRED: pour
+   DOBJ: the oil, rice milk
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: canola oil
+      INGREDIENT SPAN:  rice milk
+         INGREDIENTS: rice milk
+   PARG: the well
+     PREP: into
+      NON-INGREDIENT SPAN: the well
+
+
+SENTID: 3
+SENT: I would mix with a fork until a dough forms .
+PREDID: 146
+PRED: mix
+   DOBJ: NULL
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+   PARG: a dough forms
+     PREP: until
+      NON-INGREDIENT SPAN: a dough forms
+
+
+SENTID: 4
+SENT: I would use your hands to press the mixture evenly into the bottom and sides of the pan .
+PREDID: 175
+PRED: use
+   DOBJ: your hands
+      NON-INGREDIENT SPAN: your hands
+   OARG: to press the mixture evenly into the bottom, sides of the pan
+      NON-INGREDIENT SPAN: to press the mixture evenly into the bottom
+      NON-INGREDIENT SPAN:  sides of the pan
+
+
+SENTID: 5
+SENT: I would crimp the edge of the crust .
+PREDID: 240
+PRED: crimp
+   DOBJ: the edge of the crust
+      NON-INGREDIENT SPAN: the edge of the crust
+
+
+SENTID: 6
+SENT: I would stir together the white sugar , brown sugar , the cinnamon , the salt , the ginger , the nutmeg , and cloves in a large bowl ;
+PREDID: 263
+PRED: stir
+   DOBJ: the white sugar , brown sugar , the cinnamon , the salt , the ginger , the nutmeg , cloves in a large bowl
+      INGREDIENT SPAN:  the ginger 
+         INGREDIENTS: ground ginger
+      INGREDIENT SPAN:  cloves in a large bowl
+         INGREDIENTS: ground cloves
+      INGREDIENT SPAN:  the nutmeg 
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: the white sugar 
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN:  the cinnamon 
+         INGREDIENTS: ground cinnamon
+      NON-INGREDIENT SPAN:  the salt 
+      NON-INGREDIENT SPAN:  brown sugar 
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would set aside .
+PREDID: 350
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 8
+SENT: I would whisk together the pumpkin puree , the oil , the eggs , the vanilla , and rice milk in a separate bowl until evenly blended .
+PREDID: 359
+PRED: whisk
+   DOBJ: the pumpkin puree , the oil , the eggs , the vanilla , rice milk in a separate bowl
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: large eggs
+      INGREDIENT SPAN: the pumpkin puree 
+         INGREDIENTS: ounce pumpkin puree
+      NON-INGREDIENT SPAN:  rice milk in a separate bowl
+      NON-INGREDIENT SPAN:  the oil 
+   PARG: evenly blended
+     PREP: until
+      NON-INGREDIENT SPAN: evenly blended
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 9
+SENT: I would add the pumpkin mixture to the dry ingredients and stir until fully blended .
+PREDID: 450
+PRED: add
+   DOBJ: the pumpkin mixture
+      NON-INGREDIENT SPAN: the pumpkin mixture
+   PARG: the dry ingredients
+     PREP: to
+      NON-INGREDIENT SPAN: the dry ingredients
+
+PREDID: 492
+PRED: stir
+   DOBJ: NULL
+   PARG: fully blended
+     PREP: until
+      NON-INGREDIENT SPAN: fully blended
+
+
+SENTID: 10
+SENT: I would pour into the prepared crust and place on a cookie sheet in the preheated oven .
+PREDID: 514
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared crust, place on a cookie sheet in the preheated oven
+     PREP: into
+      NON-INGREDIENT SPAN:  place on a cookie sheet in the preheated oven
+      NON-INGREDIENT SPAN: the prepared crust
+
+
+SENTID: 11
+SENT: I would bake for 10 minutes .
+PREDID: 579
+PRED: bake
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 10 minutes
+
+
+SENTID: 12
+SENT: I would reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- and bake for 40 to 50 minutes or until a knife inserted near the center comes out clean .
+PREDID: 596
+PRED: reduce
+   DOBJ: temperature
+      NON-INGREDIENT SPAN: temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+PREDID: 650
+PRED: bake
+   DOBJ: NULL
+   PARG: 40 to 50 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 40 to 50 minutes
+
+
+SENTID: 13
+SENT: The center may still wiggle a little but will firm up out of the oven .
+
+SENTID: 14
+SENT: I would cool on a metal rack .
+PREDID: 710
+PRED: cool
+   DOBJ: NULL
+   PARG: a metal rack
+     PREP: on
+      NON-INGREDIENT SPAN: a metal rack
+
+

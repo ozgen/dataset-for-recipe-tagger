@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a saucepan bring the honey to a boil .
+PREDID: 11
+PRED: bring
+   DOBJ: NULL
+   PARG: a saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a saucepan
+   OARG: the honey to a boil
+      INGREDIENT SPAN: the honey to a boil
+         INGREDIENTS: honey
+
+
+SENTID: 1
+SENT: I would quickly beat the eggs into the honey .
+PREDID: 39
+PRED: beat
+   DOBJ: the eggs
+      INGREDIENT SPAN: the eggs
+         INGREDIENTS: eggs beaten
+   PARG: the honey
+     PREP: into
+      NON-INGREDIENT SPAN: the honey
+   OARG: quickly
+      NON-INGREDIENT SPAN: quickly
+
+
+SENTID: 2
+SENT: I would add butter , the vanilla , the nuts , and nutmeg .
+PREDID: 63
+PRED: add
+   DOBJ: butter , the vanilla , the nuts , nutmeg
+      INGREDIENT SPAN:  the vanilla 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  nutmeg
+         INGREDIENTS: ground nutmeg
+      INGREDIENT SPAN: butter 
+         INGREDIENTS: butter
+      NON-INGREDIENT SPAN:  the nuts 
+
+
+SENTID: 3
+SENT: I would pour into the pie shell .
+PREDID: 96
+PRED: pour
+   DOBJ: NULL
+   PARG: the pie shell
+     PREP: into
+      INGREDIENT SPAN: the pie shell
+         INGREDIENTS: recipe pastry inch single crust pie
+
+
+SENTID: 4
+SENT: I would bake at 325 degrees F -LRB- 165 degrees C -RRB- for 25 minutes or until set .
+PREDID: 116
+PRED: bake
+   DOBJ: NULL
+   PARG: 325 degrees f -lrb- 165 degrees c
+     PREP: at
+      NON-INGREDIENT SPAN: 325 degrees f -lrb- 165 degrees c
+   PARG: 25 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 25 minutes
+
+

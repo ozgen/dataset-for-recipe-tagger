@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would line 12 muffin cups with paper liners .
+PREDID: 38
+PRED: line
+   DOBJ: 12 muffin cups
+      NON-INGREDIENT SPAN: 12 muffin cups
+   PARG: paper liners
+     PREP: with
+      NON-INGREDIENT SPAN: paper liners
+
+
+SENTID: 2
+SENT: I would puree bananas and dates in a food processor until smooth .
+PREDID: 70
+PRED: puree
+   DOBJ: bananas, dates
+      INGREDIENT SPAN: bananas
+         INGREDIENTS: ripe bananas
+      INGREDIENT SPAN:  dates
+         INGREDIENTS: pitted dates
+   PARG: a food processor
+     PREP: in
+      NON-INGREDIENT SPAN: a food processor
+   PARG: smooth
+     PREP: until
+      NON-INGREDIENT SPAN: smooth
+
+
+SENTID: 3
+SENT: I would add almond butter , coconut flour , coconut oil , palm shortening , cocoa powder , baking soda , vanilla extract , and salt .
+PREDID: 118
+PRED: add
+   DOBJ: almond butter , coconut flour , coconut oil , palm shortening , cocoa powder , baking soda , vanilla extract , salt
+      INGREDIENT SPAN:  coconut flour 
+         INGREDIENTS: coconut flour
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: almond butter 
+         INGREDIENTS: almond butter
+      INGREDIENT SPAN:  cocoa powder 
+         INGREDIENTS: cocoa powder
+      INGREDIENT SPAN:  vanilla extract 
+         INGREDIENTS: vanilla extract
+      INGREDIENT SPAN:  palm shortening 
+         INGREDIENTS: palm shortening
+      INGREDIENT SPAN:  baking soda 
+         INGREDIENTS: baking soda
+      INGREDIENT SPAN:  coconut oil 
+         INGREDIENTS: coconut oil melted
+
+
+SENTID: 4
+SENT: I would pulse to make a thick batter , scraping sides to fully incorporate ingredients .
+PREDID: 219
+PRED: pulse
+   DOBJ: NULL
+   OARG: to make a thick batter , scraping sides to fully incorporate ingredients
+      NON-INGREDIENT SPAN:  scraping sides to fully incorporate ingredients
+      NON-INGREDIENT SPAN: to make a thick batter 
+
+
+SENTID: 5
+SENT: I would spoon batter into prepared muffin cups , filling them 2/3 full .
+PREDID: 286
+PRED: spoon
+   DOBJ: batter
+      NON-INGREDIENT SPAN: batter
+   PARG: prepared muffin cups
+     PREP: into
+      NON-INGREDIENT SPAN: prepared muffin cups
+   OARG: filling them 2/3 full
+      NON-INGREDIENT SPAN: filling them 2/3 full
+
+
+SENTID: 6
+SENT: I would toss chocolate chips and walnuts together in a small bowl ,
+PREDID: 339
+PRED: toss
+   DOBJ: chocolate chips, walnuts
+      INGREDIENT SPAN:  walnuts
+         INGREDIENTS: chopped walnuts
+      INGREDIENT SPAN: chocolate chips
+         INGREDIENTS: dark chocolate chips
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 7
+SENT: I would sprinkle on top of each muffin , pressing them gently into tops .
+PREDID: 388
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: top of each muffin
+     PREP: on
+      NON-INGREDIENT SPAN: top of each muffin
+   OARG: pressing them gently into tops
+      NON-INGREDIENT SPAN: pressing them gently into tops
+
+
+SENTID: 8
+SENT: I would bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean , 16 to 18 minutes .
+PREDID: 441
+PRED: bake
+   DOBJ: NULL
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: a toothpick inserted into the center of a muffin comes out clean , 16 to 18 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: a toothpick inserted into the center of a muffin comes out clean 
+      NON-INGREDIENT SPAN:  16 to 18 minutes
+
+

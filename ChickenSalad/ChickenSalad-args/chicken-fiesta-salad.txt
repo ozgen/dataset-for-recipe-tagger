@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would rub chicken evenly with 1/2 the fajita seasoning .
+PREDID: 0
+PRED: rub
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves
+   PARG: 1/2 the fajita seasoning
+     PREP: with
+      INGREDIENT SPAN: 1/2 the fajita seasoning
+         INGREDIENTS: ounce packet dry fajita seasoning divided
+   OARG: evenly
+      NON-INGREDIENT SPAN: evenly
+
+
+SENTID: 1
+SENT: I would heat the oil in a skillet over medium heat , and cook the chicken 8 minutes on each side , or until juices run clear ;
+PREDID: 42
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: vegetable oil
+   PARG: a skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet over medium heat
+
+PREDID: 80
+PRED: cook
+   DOBJ: the chicken
+      NON-INGREDIENT SPAN: the chicken
+   PARG: each side
+     PREP: on
+      NON-INGREDIENT SPAN: each side
+   OARG: 8 minutes
+      NON-INGREDIENT SPAN: 8 minutes
+
+
+SENTID: 2
+SENT: I would set aside .
+PREDID: 135
+PRED: set
+   DOBJ: NULL
+   OARG: aside
+      NON-INGREDIENT SPAN: aside
+
+
+SENTID: 3
+SENT: In a large saucepan , I would mix beans , the corn , the salsa and other 1/2 of fajita seasoning .
+PREDID: 161
+PRED: mix
+   DOBJ: beans , the corn , the salsa, other 1/2 of fajita seasoning
+      INGREDIENT SPAN:  the corn 
+         INGREDIENTS: ounce Mexicanstyle corn
+      INGREDIENT SPAN:  other 1/2 of fajita seasoning
+         INGREDIENTS: ounce packet dry fajita seasoning divided
+      INGREDIENT SPAN: beans 
+         INGREDIENTS: ounce black beans rinsed drained
+      INGREDIENT SPAN:  the salsa
+         INGREDIENTS: salsa
+   PARG: a large saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: a large saucepan
+
+
+SENTID: 4
+SENT: I would heat over medium heat until warm .
+PREDID: 209
+PRED: heat
+   DOBJ: medium heat
+      NON-INGREDIENT SPAN: medium heat
+   PARG: warm
+     PREP: until
+      NON-INGREDIENT SPAN: warm
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 5
+SENT: I would prepare the salad by tossing the greens , the onion and tomato .
+PREDID: 237
+PRED: prepare
+   DOBJ: the salad
+      INGREDIENT SPAN: the salad
+         INGREDIENTS: ounce package mixed salad greens
+   PARG: tossing the greens , the onion, tomato
+     PREP: by
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  tomato
+         INGREDIENTS: tomato cut wedges
+      NON-INGREDIENT SPAN: tossing the greens 
+
+
+SENTID: 6
+SENT: I would top salad with chicken and dress with the bean and corn mixture .
+PREDID: 286
+PRED: top
+   DOBJ: salad
+      NON-INGREDIENT SPAN: salad
+   PARG: chicken, dress
+     PREP: with
+      NON-INGREDIENT SPAN: chicken
+      NON-INGREDIENT SPAN:  dress
+   PARG: the bean, corn mixture
+     PREP: with
+      NON-INGREDIENT SPAN:  corn mixture
+      NON-INGREDIENT SPAN: the bean
+
+

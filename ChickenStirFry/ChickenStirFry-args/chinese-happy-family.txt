@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: I would preheat an indoor grill , and coat with cooking spray .
+PREDID: 0
+PRED: preheat
+   DOBJ: an indoor grill , coat with cooking spray
+      NON-INGREDIENT SPAN:  coat with cooking spray
+      NON-INGREDIENT SPAN: an indoor grill 
+
+
+SENTID: 1
+SENT: I would place the chicken strips on the grill , and cook for about 7 minutes .
+PREDID: 45
+PRED: place
+   DOBJ: the chicken strips
+      INGREDIENT SPAN: the chicken strips
+         INGREDIENTS: skinless boneless chicken breast halves cut strips
+   PARG: the grill
+     PREP: on
+      NON-INGREDIENT SPAN: the grill
+
+PREDID: 80
+PRED: cook
+   DOBJ: NULL
+   PARG: about 7 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 7 minutes
+
+
+SENTID: 2
+SENT: I would allow them to cool slightly ,
+PREDID: 101
+PRED: allow
+   DOBJ: them
+      NON-INGREDIENT SPAN: them
+   OARG: to cool slightly
+      NON-INGREDIENT SPAN: to cool slightly
+
+
+SENTID: 3
+SENT: I would cut into cubes .
+PREDID: 125
+PRED: cut
+   DOBJ: NULL
+   PARG: cubes
+     PREP: into
+      NON-INGREDIENT SPAN: cubes
+
+
+SENTID: 4
+SENT: While the chicken is cooking , I would heat the oil in a large skillet over medium heat .
+PREDID: 163
+PRED: heat
+   DOBJ: the oil
+      INGREDIENT SPAN: the oil
+         INGREDIENTS: olive oil
+   PARG: the chicken is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: the chicken is cooking
+   PARG: a large skillet over medium heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet over medium heat
+
+
+SENTID: 5
+SENT: I would place the onion rings in the skillet , and cook for a few minutes .
+PREDID: 203
+PRED: place
+   DOBJ: the onion rings
+      INGREDIENT SPAN: the onion rings
+         INGREDIENTS: onion sliced
+   PARG: the skillet
+     PREP: in
+      NON-INGREDIENT SPAN: the skillet
+
+PREDID: 237
+PRED: cook
+   DOBJ: NULL
+   PARG: a few minutes
+     PREP: for
+      NON-INGREDIENT SPAN: a few minutes
+
+
+SENTID: 6
+SENT: I would add the red and yellow pepper , baby corn , and the stir-fry vegetables .
+PREDID: 256
+PRED: add
+   DOBJ: the red, yellow pepper , baby corn , the stir-fry vegetables
+      INGREDIENT SPAN:  baby corn 
+         INGREDIENTS: ounce baby corn drained
+      INGREDIENT SPAN:  yellow pepper 
+         INGREDIENTS: yellow bell pepper seeded cubed
+      INGREDIENT SPAN:  the stir-fry vegetables
+         INGREDIENTS: ounce package frozen stirfry vegetables
+      NON-INGREDIENT SPAN: the red
+
+
+SENTID: 7
+SENT: I would increase the heat to medium-high ;
+PREDID: 315
+PRED: increase
+   DOBJ: the heat
+      NON-INGREDIENT SPAN: the heat
+   PARG: medium-high
+     PREP: to
+      NON-INGREDIENT SPAN: medium-high
+
+
+SENTID: 8
+SENT: I would cook and stir for about 15 minutes .
+PREDID: 344
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: about 15 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: about 15 minutes
+
+
+SENTID: 9
+SENT: I would sprinkle in the sugar and salt .
+PREDID: 373
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: the sugar, salt
+     PREP: in
+      INGREDIENT SPAN: the sugar
+         INGREDIENTS: white sugar
+      NON-INGREDIENT SPAN:  salt
+
+
+SENTID: 10
+SENT: I would stir in the chicken .
+PREDID: 399
+PRED: stir
+   DOBJ: NULL
+   PARG: the chicken
+     PREP: in
+      NON-INGREDIENT SPAN: the chicken
+
+
+SENTID: 11
+SENT: I would dissolve the cornstarch in water , and pour into the skillet along with the soy sauce .
+PREDID: 416
+PRED: dissolve
+   DOBJ: the cornstarch in water
+      INGREDIENT SPAN: the in water
+         INGREDIENTS: water
+      INGREDIENT SPAN: the cornstarch in water
+         INGREDIENTS: cornstarch
+
+PREDID: 448
+PRED: pour
+   DOBJ: NULL
+   PARG: the skillet along with the soy sauce
+     PREP: into
+      INGREDIENT SPAN: the skillet along with the soy sauce
+         INGREDIENTS: soy sauce
+
+
+SENTID: 12
+SENT: I would cook and stir until the sauce thickens .
+PREDID: 487
+PRED: cook and stir
+   DOBJ: NULL
+   PARG: the sauce thickens
+     PREP: until
+      NON-INGREDIENT SPAN: the sauce thickens
+
+

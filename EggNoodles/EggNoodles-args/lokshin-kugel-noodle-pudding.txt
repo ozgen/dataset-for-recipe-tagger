@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 9 x 13 baking dish .
+PREDID: 38
+PRED: grease
+   DOBJ: a 9 x 13 baking dish
+      NON-INGREDIENT SPAN: a 9 x 13 baking dish
+
+
+SENTID: 2
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 60
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 3
+SENT: I would add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 102
+PRED: add
+   DOBJ: pasta, cook
+      NON-INGREDIENT SPAN:  cook
+      NON-INGREDIENT SPAN: pasta
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 4
+SENT: I would drain .
+PREDID: 147
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 5
+SENT: While pasta is cooking , I would in medium saucepan , cook onions in oil over medium heat .
+PREDID: 190
+PRED: cook
+   DOBJ: onions
+      INGREDIENT SPAN: onions
+         INGREDIENTS: onions diced
+   PARG: pasta is cooking
+     PREP: while
+      NON-INGREDIENT SPAN: pasta is cooking
+   PARG: medium saucepan
+     PREP: in
+      NON-INGREDIENT SPAN: medium saucepan
+   PARG: oil over medium heat
+     PREP: in
+      INGREDIENT SPAN: oil over medium heat
+         INGREDIENTS: vegetable oil frying
+
+
+SENTID: 6
+SENT: I would season with salt and pepper , and cook until brown and soft .
+PREDID: 220
+PRED: season
+   DOBJ: NULL
+   PARG: salt, pepper
+     PREP: with
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt pepper taste
+      NON-INGREDIENT SPAN:  pepper
+
+PREDID: 247
+PRED: cook
+   DOBJ: NULL
+   PARG: brown, soft
+     PREP: until
+      NON-INGREDIENT SPAN:  soft
+      NON-INGREDIENT SPAN: brown
+
+
+SENTID: 7
+SENT: In very large mixing bowl , I would combine pasta , the onions , the eggs , bread crumbs and salt and pepper to taste .
+PREDID: 291
+PRED: combine
+   DOBJ: pasta , the onions , the eggs , bread crumbs, salt, pepper
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  bread crumbs
+         INGREDIENTS: dry bread crumbs
+      NON-INGREDIENT SPAN:  pepper
+      NON-INGREDIENT SPAN: pasta 
+      NON-INGREDIENT SPAN:  salt
+      NON-INGREDIENT SPAN:  the onions 
+   PARG: very large mixing bowl
+     PREP: in
+      NON-INGREDIENT SPAN: very large mixing bowl
+   PARG: taste
+     PREP: to
+      INGREDIENT SPAN: taste
+         INGREDIENTS: paprika taste
+
+
+SENTID: 8
+SENT: I would mix thoroughly .
+PREDID: 351
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 9
+SENT: I would pour into baking dish and sprinkle paprika over the top .
+PREDID: 365
+PRED: pour
+   DOBJ: NULL
+   PARG: baking dish
+     PREP: into
+      NON-INGREDIENT SPAN: baking dish
+
+PREDID: 386
+PRED: sprinkle
+   DOBJ: paprika
+      NON-INGREDIENT SPAN: paprika
+   PARG: the top
+     PREP: over
+      NON-INGREDIENT SPAN: the top
+
+
+SENTID: 10
+SENT: I would sprinkle with oil , if desired , and bake 50 to 60 minutes , until top is crispy and golden .
+PREDID: 412
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: oil
+     PREP: with
+      NON-INGREDIENT SPAN: oil
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+PREDID: 441
+PRED: bake
+   DOBJ: NULL
+   PARG: 50 to 60 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 50 to 60 minutes
+   PARG: top is crispy, golden
+     PREP: until
+      NON-INGREDIENT SPAN: top is crispy
+      NON-INGREDIENT SPAN:  golden
+
+

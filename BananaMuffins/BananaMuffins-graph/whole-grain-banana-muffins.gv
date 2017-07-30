@@ -1,0 +1,68 @@
+digraph recipe {
+E0[label="preheat (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="grease (S1,P38)", shape=oval, style=filled, fillcolor=azure]
+E2[label="whisk (S2,P73)", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir (S3,P138)", shape=oval, style=filled, fillcolor=azure]
+E4[label="mix (S4,P166)", shape=oval, style=filled, fillcolor=azure]
+E5[label="pour (S5,P245)", shape=oval, style=filled, fillcolor=azure]
+E6[label="mix (S5,P282)", shape=oval, style=filled, fillcolor=azure]
+E7[label="spoon (S6,P305)", shape=oval, style=filled, fillcolor=azure]
+E8[label="sprinkle (S7,P331)", shape=oval, style=filled, fillcolor=azure]
+E9[label="bake (S8,P376)", shape=oval, style=filled, fillcolor=azure]
+E10[label="remove (S9,P419)", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: a 12 cup muffin tin", shape=box, style=filled, fillcolor=white]
+D1 -> E1
+D4[label="DOBJ: small ripe bananas, vanilla extract, unsweetened applesauce, nonfat plain yogurt, maple syrup, low fat sour cream, egg whites
+(text: yogurt , sour cream , applesauce , maple syrup , egg whites , vanilla , bananas)", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+P4_0[label="PREP: in another bowl", shape=box, style=filled, fillcolor=white]
+P4_0 -> E4
+O4_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O4_0 -> E4
+D0[label="DOBJ: oven to 400 degrees F -LRB- 200 degrees C", shape=box, style=filled, fillcolor=white]
+D0 -> E0
+D2[label="DOBJ: baking powder, whole wheat pastry flour, oat bran, sugar, salt
+(text: whole wheat flours , oat bran , sugar , baking powder , salt)", shape=box, style=filled, fillcolor=peachpuff]
+D2 -> E2
+P2_0[label="PREP: in a large bowl", shape=box, style=filled, fillcolor=white]
+P2_0 -> E2
+O2_0[label="OTHER: together", shape=box, style=filled, fillcolor=white]
+O2_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_ing[label="PREP: in raisins
+(text: in raisins)", shape=box, style=filled, fillcolor=peachpuff]
+P3_0_ing -> E3
+E4 -> E5 [label="OUTPUT: 
+INPUT: yogurt mixture"]
+P5_0_ing[label="PREP: into whole wheat flour
+(text: into flour mixture)", shape=box, style=filled, fillcolor=peachpuff]
+P5_0_ing -> E5
+E5 -> E6 [label="OUTPUT: 
+INPUT: "]
+O6_0_0[label="OTHER: just enough", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+O6_1_0[label="OTHER: to combine", shape=box, style=filled, fillcolor=white]
+O6_1_0 -> E6
+E3 -> E7 [label="OUTPUT: 
+INPUT: batter"]
+E1 -> E7 [label="OUTPUT: 
+INPUT: into muffin cups"]
+D8_ing[label="DOBJ: chopped pecans
+(text: one teaspoon pecans)", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E7 -> E8 [label="OUTPUT: 
+INPUT: over batter in each cup"]
+E6 -> E9 [label="OUTPUT: 
+INPUT: muffins"]
+E0 -> E9 [label="OUTPUT: 
+INPUT: in preheated oven for 15 to 20 minutes"]
+E9 -> E10 [label="OUTPUT: 
+INPUT: "]
+E8 -> E10 [label="OUTPUT: 
+INPUT: from oven"]
+O10_0_0[label="OTHER: transfer muffins to a wire rack to cool", shape=box, style=filled, fillcolor=white]
+O10_0_0 -> E10
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E10 -> EOR
+}

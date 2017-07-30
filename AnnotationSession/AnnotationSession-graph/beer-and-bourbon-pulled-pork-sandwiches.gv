@@ -1,0 +1,92 @@
+digraph recipe {
+E0[label="combine (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="season (S1,P0)", shape=oval, style=filled, fillcolor=azure]
+E2[label="blot dry (S2,P0)", shape=oval, style=filled, fillcolor=azure]
+E3[label="rub (S2,P1)", shape=oval, style=filled, fillcolor=azure]
+E4[label="heat (S3,P0)", shape=oval, style=filled, fillcolor=azure]
+E5[label="fry (S4,P0)", shape=oval, style=filled, fillcolor=azure]
+E6[label="transfer (S5,P0)", shape=oval, style=filled, fillcolor=azure]
+E7[label="wipe (S6,P0)", shape=oval, style=filled, fillcolor=azure]
+E8[label="cook and stir (S7,P0)", shape=oval, style=filled, fillcolor=azure]
+E9[label="add (S8,P0)", shape=oval, style=filled, fillcolor=azure]
+E10[label="spread (S9,P0)", shape=oval, style=filled, fillcolor=azure]
+E11[label="mix (S10,P0)", shape=oval, style=filled, fillcolor=azure]
+E12[label="pour (S11,P0)", shape=oval, style=filled, fillcolor=azure]
+E13[label="cook (S12,P0)", shape=oval, style=filled, fillcolor=azure]
+E14[label="shred and divide (S13,P0)", shape=oval, style=filled, fillcolor=azure]
+D5[label="DOBJ: (3 pound) pork roast
+(text: pork chops in batches)", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="PREP: until browned , about 5 minutes per side", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+D9[label="DOBJ: liquid smoke flavoring
+(text: liquid smoke)", shape=box, style=filled, fillcolor=peachpuff]
+D9 -> E9
+D4[label="DOBJ: canola oil
+(text: about 2 tablespoons canola oil in a non-stick skillet over medium-high heat)", shape=box, style=filled, fillcolor=peachpuff]
+D4 -> E4
+D0[label="DOBJ: ground thyme, paprika, garlic powder, onion powder, dried oregano, salt
+(text: paprika , onion powder , garlic powder , oregano , thyme , and salt in a small bowl)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E0 -> E1 [label="OUTPUT: 
+INPUT: "]
+P1_0_ing[label="PREP: with ground black pepper
+(text: with black pepper)", shape=box, style=filled, fillcolor=peachpuff]
+P1_0_ing -> E1
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: with paper towels", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: with paprika mixture", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+E5 -> E6 [label="OUTPUT: 
+INPUT: browned pork chops"]
+P6_0_0[label="PREP: to a slow cooker", shape=box, style=filled, fillcolor=white]
+P6_0_0 -> E6
+D7_ing[label="DOBJ: butter
+(text: butter)", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+D7_0[label="DOBJ: skillet clean", shape=box, style=filled, fillcolor=white]
+D7_0 -> E7
+E4 -> E7 [label="OUTPUT: 
+INPUT: heat remaining 1Ê1/2 teaspoon canola oil"]
+P7_0_0[label="PREP: over medium heat", shape=box, style=filled, fillcolor=white]
+P7_0_0 -> E7
+D8_ing[label="DOBJ: (12 fluid ounce) can or bottle wheat beer, onions
+(text:  1/2 bottle beer , onions )", shape=box, style=filled, fillcolor=peachpuff]
+D8_ing -> E8
+E6 -> E8 [label="OUTPUT: 
+INPUT:  about 10 minutes"]
+E3 -> E8 [label="OUTPUT: 
+INPUT: a pinch of salt until onion is tender"]
+D8_2[label="DOBJ: slightly browned ", shape=box, style=filled, fillcolor=white]
+D8_2 -> E8
+E8 -> E10 [label="OUTPUT: 
+INPUT: onions"]
+E9 -> E10 [label="OUTPUT: 
+INPUT: over pork"]
+D11_ing[label="DOBJ: cloves garlic, (1.5 fluid ounce) jiggers bourbon whiskey, dashes hot pepper sauce, barbeque sauce, Worcestershire sauce
+(text:  Worcestershire sauce , hot sauce in a bowl, barbeque sauce ,  bourbon ,  garlic )", shape=box, style=filled, fillcolor=peachpuff]
+D11_ing -> E11
+E7 -> E11 [label="OUTPUT: 
+INPUT:  remaining beer "]
+E11 -> E12 [label="OUTPUT: 
+INPUT: "]
+E10 -> E12 [label="OUTPUT: 
+INPUT: over pork"]
+E12 -> E13 [label="OUTPUT: 
+INPUT: pork on Low"]
+P13_0_0[label="PREP: until  about 8 hours", shape=box, style=filled, fillcolor=white]
+P13_0_0 -> E13
+P13_0_1[label="PREP: until very tender ", shape=box, style=filled, fillcolor=white]
+P13_0_1 -> E13
+D14_ing[label="DOBJ: crusty bread rolls
+(text: pork over rolls)", shape=box, style=filled, fillcolor=peachpuff]
+D14_ing -> E14
+E13 -> E14 [label="OUTPUT: 
+INPUT:  "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E14 -> EOR
+}

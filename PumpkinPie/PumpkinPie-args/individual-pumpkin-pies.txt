@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: I would mix sugar , the salt and spice in a bowl .
+PREDID: 0
+PRED: mix
+   DOBJ: sugar , the salt, spice
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: sugar
+      INGREDIENT SPAN:  spice
+         INGREDIENTS: Spice Islands Pumpkin Pie Spice
+   PARG: a bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would add eggs and beat slightly .
+PREDID: 29
+PRED: add
+   DOBJ: eggs
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: eggs
+
+PREDID: 39
+PRED: beat
+   DOBJ: NULL
+   OARG: slightly
+      NON-INGREDIENT SPAN: slightly
+
+
+SENTID: 2
+SENT: I would stir in corn syrup , the pumpkin and evaporated milk ;
+PREDID: 52
+PRED: stir
+   DOBJ: NULL
+   PARG: corn syrup , the pumpkin, evaporated milk
+     PREP: in
+      INGREDIENT SPAN: corn syrup 
+         INGREDIENTS: Karo Lite Syrup
+      INGREDIENT SPAN:  evaporated milk
+         INGREDIENTS: fluid ounce evaporated milk
+      INGREDIENT SPAN:  the pumpkin
+         INGREDIENTS: ounce pumpkin
+
+
+SENTID: 3
+SENT: I would blend well .
+PREDID: 93
+PRED: blend
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 4
+SENT: I would portion the baking cups in muffin pans and place 1 vanilla wafer in each .
+PREDID: 103
+PRED: portion
+   DOBJ: the baking cups in muffin pans
+      INGREDIENT SPAN: the baking cups in muffin pans
+         INGREDIENTS: baking cups size
+
+PREDID: 138
+PRED: place
+   DOBJ: 1 vanilla wafer
+      INGREDIENT SPAN: 1 vanilla wafer
+         INGREDIENTS: vanilla wafers
+   PARG: each
+     PREP: in
+      NON-INGREDIENT SPAN: each
+
+
+SENTID: 5
+SENT: I would fill each two-thirds full of pumpkin mixture .
+PREDID: 160
+PRED: fill
+   DOBJ: each two-thirds full of pumpkin mixture
+      NON-INGREDIENT SPAN: each two-thirds full of pumpkin mixture
+
+
+SENTID: 6
+SENT: I would bake at 300 degrees F for 25 minutes , or until knife inserted in center comes out clean .
+PREDID: 199
+PRED: bake
+   DOBJ: NULL
+   PARG: 300 degrees f for 25 minutes , or until knife inserted in center comes out clean
+     PREP: at
+      NON-INGREDIENT SPAN:  or until knife inserted in center comes out clean
+      NON-INGREDIENT SPAN: 300 degrees f for 25 minutes 
+
+
+SENTID: 7
+SENT: I would cool in pans for 5 minutes ;
+PREDID: 271
+PRED: cool
+   DOBJ: NULL
+   PARG: pans for 5 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: pans for 5 minutes
+
+
+SENTID: 8
+SENT: I would remove .
+PREDID: 293
+PRED: remove
+   DOBJ: NULL
+
+
+SENTID: 9
+SENT: I would cool a minimum of 1 hour before serving .
+PREDID: 300
+PRED: cool
+   DOBJ: a minimum of 1 hour
+      NON-INGREDIENT SPAN: a minimum of 1 hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 10
+SENT: I would garnish as desired .
+PREDID: 333
+PRED: garnish
+   DOBJ: NULL
+   OARG: as desired
+      NON-INGREDIENT SPAN: as desired
+
+

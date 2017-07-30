@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: I would halve eggs lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: halve lengthwise
+   DOBJ: eggs, yolks
+      INGREDIENT SPAN: eggs
+         INGREDIENTS: hardcooked eggs peeled
+      NON-INGREDIENT SPAN:  yolks
+   PARG: a bowl
+     PREP: into
+      NON-INGREDIENT SPAN: a bowl
+
+
+SENTID: 1
+SENT: I would mash yolks with a fork ;
+PREDID: 42
+PRED: mash
+   DOBJ: yolks
+      NON-INGREDIENT SPAN: yolks
+   PARG: a fork
+     PREP: with
+      NON-INGREDIENT SPAN: a fork
+
+
+SENTID: 2
+SENT: I would stir cream cheese spread , the mayonnaise , sweet relish , brown mustard , the garlic , hot pepper sauce , the salt , and black pepper into yolks .
+PREDID: 61
+PRED: stir
+   DOBJ: cream cheese spread , the mayonnaise , sweet relish , brown mustard , the garlic , hot pepper sauce , the salt , black pepper
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  the garlic 
+         INGREDIENTS: clove garlic minced
+      INGREDIENT SPAN:  sweet relish 
+         INGREDIENTS: sweet pickle relish
+      INGREDIENT SPAN:  brown mustard 
+         INGREDIENTS: spicy brown mustard
+      INGREDIENT SPAN:  hot pepper sauce 
+         INGREDIENTS: hot pepper sauce
+      INGREDIENT SPAN: cream cheese spread 
+         INGREDIENTS: whipped chive onion cream cheese spread
+      NON-INGREDIENT SPAN:  black pepper
+   PARG: yolks
+     PREP: into
+      NON-INGREDIENT SPAN: yolks
+
+
+SENTID: 3
+SENT: I would fill egg whites with yolk mixture ;
+PREDID: 170
+PRED: fill
+   DOBJ: egg whites
+      NON-INGREDIENT SPAN: egg whites
+   PARG: yolk mixture
+     PREP: with
+      NON-INGREDIENT SPAN: yolk mixture
+
+
+SENTID: 4
+SENT: I would sprinkle deviled eggs with chives .
+PREDID: 199
+PRED: sprinkle
+   DOBJ: deviled eggs
+      NON-INGREDIENT SPAN: deviled eggs
+   PARG: chives
+     PREP: with
+      INGREDIENT SPAN: chives
+         INGREDIENTS: chopped fresh chives
+
+
+SENTID: 5
+SENT: I would store covered in refrigerator .
+PREDID: 229
+PRED: store
+   DOBJ: NULL
+
+PREDID: 234
+PRED: covered
+   DOBJ: NULL
+   PARG: refrigerator
+     PREP: in
+      NON-INGREDIENT SPAN: refrigerator
+
+

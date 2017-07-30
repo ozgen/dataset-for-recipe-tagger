@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: I would preheat the oven to 425 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 425 degrees F -LRB- 200 degrees C
+      NON-INGREDIENT SPAN: the oven to 425 degrees F -LRB- 200 degrees C
+
+
+SENTID: 1
+SENT: I would prepare instant mashed potatoes according to package directions .
+PREDID: 41
+PRED: prepare
+   DOBJ: instant mashed potatoes
+      NON-INGREDIENT SPAN: instant mashed potatoes
+   PARG: to package directions
+     PREP: according
+      INGREDIENT SPAN: to package directions
+         INGREDIENTS: ounce package shredded Cheddar cheese divided
+
+
+SENTID: 2
+SENT: I would stir in half of the Cheddar cheese , bacon bits , and green onions .
+PREDID: 98
+PRED: stir
+   DOBJ: NULL
+   PARG: half of the cheddar cheese , bacon bits , green onions
+     PREP: in
+      INGREDIENT SPAN:  green onions
+         INGREDIENTS: bunch green onions chopped
+      INGREDIENT SPAN:  bacon bits 
+         INGREDIENTS: ounce jar real bacon bits
+      NON-INGREDIENT SPAN: half of the cheddar cheese 
+
+
+SENTID: 3
+SENT: I would cut the pizza crust dough in half , and spread into the bottom of two 8-inch round pans .
+PREDID: 152
+PRED: cut
+   DOBJ: the pizza crust dough
+      INGREDIENT SPAN: the pizza crust dough
+         INGREDIENTS: ounce pizza crust dough
+   PARG: half
+     PREP: in
+      NON-INGREDIENT SPAN: half
+
+PREDID: 183
+PRED: spread
+   DOBJ: NULL
+   PARG: the bottom of two 8-inch round pans
+     PREP: into
+      NON-INGREDIENT SPAN: the bottom of two 8-inch round pans
+
+
+SENTID: 4
+SENT: I would bake for 4 minutes in the preheated oven , until about halfway done .
+PREDID: 223
+PRED: bake
+   DOBJ: NULL
+   PARG: 4 minutes in the preheated oven
+     PREP: for
+      NON-INGREDIENT SPAN: 4 minutes in the preheated oven
+   PARG: about halfway done
+     PREP: until
+      NON-INGREDIENT SPAN: about halfway done
+
+
+SENTID: 5
+SENT: I would spoon the potato mixture over each crust .
+PREDID: 279
+PRED: spoon
+   DOBJ: the potato mixture
+      INGREDIENT SPAN: the potato mixture
+         INGREDIENTS: instant mashed potato flakes
+   PARG: each crust
+     PREP: over
+      NON-INGREDIENT SPAN: each crust
+
+
+SENTID: 6
+SENT: I would sprinkle the remaining Cheddar cheese over the top .
+PREDID: 314
+PRED: sprinkle
+   DOBJ: the remaining Cheddar cheese over the top
+      NON-INGREDIENT SPAN: the remaining Cheddar cheese over the top
+
+
+SENTID: 7
+SENT: I would bake for an additional 5 minutes in the preheated oven , until crust is golden , and cheese is melted .
+PREDID: 355
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 5 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 5 minutes
+   PARG: the preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: the preheated oven
+   PARG: crust is golden
+     PREP: until
+      NON-INGREDIENT SPAN: crust is golden
+
+PREDID: 431
+PRED: is melted
+   DOBJ: NULL
+
+
+SENTID: 8
+SENT: I would let cool for 5 minutes before slicing and serving .
+PREDID: 438
+PRED: let
+   DOBJ: NULL
+   PARG: slicing, serving
+     PREP: before
+      NON-INGREDIENT SPAN: slicing
+      NON-INGREDIENT SPAN:  serving
+   OARG: cool for 5 minutes
+      NON-INGREDIENT SPAN: cool for 5 minutes
+
+
+SENTID: 9
+SENT: I would top with sour cream to taste .
+PREDID: 480
+PRED: top
+   DOBJ: NULL
+   PARG: sour cream
+     PREP: with
+      INGREDIENT SPAN: sour cream
+         INGREDIENTS: sour cream
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+

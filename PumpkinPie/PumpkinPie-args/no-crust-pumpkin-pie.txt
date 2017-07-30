@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would grease a 10 inch fluted pie pan ;
+PREDID: 38
+PRED: grease pan
+   DOBJ: a 10 inch fluted pie
+      INGREDIENT SPAN: a 10 inch fluted pie
+         INGREDIENTS: pumpkin pie spice
+
+
+SENTID: 2
+SENT: I would dust with baking mix .
+PREDID: 64
+PRED: dust
+   DOBJ: NULL
+   PARG: baking mix
+     PREP: with
+      INGREDIENT SPAN: baking mix
+         INGREDIENTS: buttermilk baking mix
+
+
+SENTID: 3
+SENT: In a large bowl , I would mix pumpkin , evaporated milk , the milk and eggs together .
+PREDID: 95
+PRED: mix
+   DOBJ: pumpkin , evaporated milk , the milk, eggs
+      INGREDIENT SPAN:  the milk
+         INGREDIENTS: milk
+      INGREDIENT SPAN: pumpkin 
+         INGREDIENTS: canned pumpkin
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  evaporated milk 
+         INGREDIENTS: fluid ounce evaporated milk
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 4
+SENT: I would stir in baking mix , pie spice , the vanilla and salt .
+PREDID: 141
+PRED: stir
+   DOBJ: NULL
+   PARG: baking mix , pie spice , the vanilla, salt
+     PREP: in
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the vanilla
+         INGREDIENTS: vanilla extract
+      NON-INGREDIENT SPAN: baking mix 
+      NON-INGREDIENT SPAN:  pie spice 
+
+
+SENTID: 5
+SENT: I would continue the stirring while gradually adding the brown sugar and white sugar .
+PREDID: 181
+PRED: continue
+   DOBJ: the stirring while gradually adding the brown sugar, white sugar
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: white sugar
+      INGREDIENT SPAN: the stirring while gradually adding the brown sugar
+         INGREDIENTS: brown sugar
+
+
+SENTID: 6
+SENT: When the mixture is thoroughly blended , pour into the prepared pan .
+PREDID: 278
+PRED: pour
+   DOBJ: NULL
+   PARG: the prepared pan
+     PREP: into
+      NON-INGREDIENT SPAN: the prepared pan
+   OARG: when the mixture is thoroughly blended
+      NON-INGREDIENT SPAN: when the mixture is thoroughly blended
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 10 minutes ,
+PREDID: 301
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 10 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 10 minutes
+
+
+SENTID: 8
+SENT: I would reduce oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 333
+PRED: reduce
+   DOBJ: oven temperature
+      NON-INGREDIENT SPAN: oven temperature
+   PARG: 350 degrees f -lrb- 175 degrees c
+     PREP: to
+      NON-INGREDIENT SPAN: 350 degrees f -lrb- 175 degrees c
+
+
+SENTID: 9
+SENT: I would bake for an additional 35 minutes or until knife inserted in center of pie comes out clean .
+PREDID: 381
+PRED: bake
+   DOBJ: NULL
+   PARG: an additional 35 minutes or until knife inserted in center of pie comes out clean
+     PREP: for
+      NON-INGREDIENT SPAN: an additional 35 minutes or until knife inserted in center of pie comes out clean
+
+

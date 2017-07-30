@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: I would bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+   DOBJ: a large pot of lightly salted water
+      NON-INGREDIENT SPAN: a large pot of lightly salted water
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 1
+SENT: I would add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 42
+PRED: add
+   DOBJ: noodles
+      INGREDIENT SPAN: noodles
+         INGREDIENTS: ounce package egg noodles
+
+PREDID: 55
+PRED: cook
+   DOBJ: NULL
+   PARG: 8 to 10 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 8 to 10 minutes
+
+
+SENTID: 2
+SENT: I would drain .
+PREDID: 89
+PRED: drain
+   DOBJ: NULL
+
+
+SENTID: 3
+SENT: While noodles are cooking , I would combine the sour cream , 1/4 cup cheese , the chives , the salt and pepper in a medium bowl .
+PREDID: 118
+PRED: combine
+   DOBJ: the sour cream , 1/4 cup cheese , the chives , the salt, pepper
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: ground black pepper
+      INGREDIENT SPAN:  the chives 
+         INGREDIENTS: chopped fresh chives
+      INGREDIENT SPAN:  1/4 cup cheese 
+         INGREDIENTS: grated Parmesan cheese divided
+      INGREDIENT SPAN: the sour cream 
+         INGREDIENTS: sour cream
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+   PARG: noodles are cooking
+     PREP: while
+      NON-INGREDIENT SPAN: noodles are cooking
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 4
+SENT: I would mix together .
+PREDID: 185
+PRED: mix
+   DOBJ: NULL
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 5
+SENT: I would stir butter into drained noodles ,
+PREDID: 197
+PRED: stir
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: drained noodles
+     PREP: into
+      NON-INGREDIENT SPAN: drained noodles
+
+
+SENTID: 6
+SENT: I would stir in sour cream mixture .
+PREDID: 226
+PRED: stir
+   DOBJ: NULL
+   PARG: sour cream mixture
+     PREP: in
+      NON-INGREDIENT SPAN: sour cream mixture
+
+
+SENTID: 7
+SENT: I would place on a warm platter and sprinkle with remaining 1/4 cup cheese .
+PREDID: 249
+PRED: place
+   DOBJ: NULL
+   PARG: a warm platter
+     PREP: on
+      NON-INGREDIENT SPAN: a warm platter
+
+PREDID: 271
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: remaining 1/4 cup cheese
+     PREP: with
+      INGREDIENT SPAN: remaining 1/4 cup cheese
+         INGREDIENTS: grated Parmesan cheese divided
+
+

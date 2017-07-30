@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large pot of salted boiling water , I would cook pasta until al dente , rinse under cold water and drain .
+PREDID: 32
+PRED: cook
+   DOBJ: pasta
+      INGREDIENT SPAN: pasta
+         INGREDIENTS: seashell pasta
+   PARG: a large pot of salted boiling water
+     PREP: in
+      NON-INGREDIENT SPAN: a large pot of salted boiling water
+   PARG: al dente
+     PREP: until
+      NON-INGREDIENT SPAN: al dente
+
+PREDID: 54
+PRED: rinse
+   DOBJ: NULL
+   PARG: cold water
+     PREP: under
+      NON-INGREDIENT SPAN: cold water
+
+
+SENTID: 1
+SENT: In a large bowl , I would combine the pasta , the chicken , green onions , bell pepper , the olives and cucumber .
+PREDID: 95
+PRED: combine
+   DOBJ: the pasta , the chicken , green onions , bell pepper , the olives, cucumber
+      INGREDIENT SPAN:  green onions 
+         INGREDIENTS: green onions chopped inch
+      INGREDIENT SPAN:  cucumber
+         INGREDIENTS: cucumber peeled chopped
+      INGREDIENT SPAN:  bell pepper 
+         INGREDIENTS: red bell pepper chopped
+      INGREDIENT SPAN:  the olives
+         INGREDIENTS: sliced black olives
+      INGREDIENT SPAN:  the chicken 
+         INGREDIENTS: chopped cooked chicken meat
+      NON-INGREDIENT SPAN: the pasta 
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 2
+SENT: I would pour the dressing over salad and toss to coat .
+PREDID: 160
+PRED: pour
+   DOBJ: the dressing over salad
+      INGREDIENT SPAN: the dressing over salad
+         INGREDIENTS: Italianstyle salad dressing
+
+PREDID: 187
+PRED: toss
+   DOBJ: NULL
+   PARG: coat
+     PREP: to
+      NON-INGREDIENT SPAN: coat
+
+
+SENTID: 3
+SENT: I would chill for 2 hours before serving ;
+PREDID: 195
+PRED: chill
+   DOBJ: NULL
+   PARG: 2 hours
+     PREP: for
+      NON-INGREDIENT SPAN: 2 hours
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 4
+SENT: I would sprinkle with sunflower seeds if desired .
+PREDID: 223
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: sunflower seeds
+     PREP: with
+      INGREDIENT SPAN: sunflower seeds
+         INGREDIENTS: sunflower seeds
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

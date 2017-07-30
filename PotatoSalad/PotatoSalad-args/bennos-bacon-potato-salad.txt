@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: I would stir salt into water in a large pot and add potatoes ;
+PREDID: 0
+PRED: stir
+   DOBJ: salt
+      INGREDIENT SPAN: salt
+         INGREDIENTS: salt
+   PARG: water in a large pot
+     PREP: into
+      INGREDIENT SPAN: water in a large pot
+         INGREDIENTS: water cover
+
+PREDID: 31
+PRED: add
+   DOBJ: potatoes
+      INGREDIENT SPAN: potatoes
+         INGREDIENTS: red potatoes scrubbed cut quarters
+
+
+SENTID: 1
+SENT: I would bring to a boil .
+PREDID: 43
+PRED: bring
+   DOBJ: NULL
+   PARG: a boil
+     PREP: to
+      NON-INGREDIENT SPAN: a boil
+
+
+SENTID: 2
+SENT: I would reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 56
+PRED: reduce
+   DOBJ: heat
+      NON-INGREDIENT SPAN: heat
+   PARG: medium-low, simmer
+     PREP: to
+      NON-INGREDIENT SPAN:  simmer
+      NON-INGREDIENT SPAN: medium-low
+   PARG: tender , about 20 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: tender 
+      NON-INGREDIENT SPAN:  about 20 minutes
+
+
+SENTID: 3
+SENT: I would drain and cool .
+PREDID: 114
+PRED: drain and cool
+   DOBJ: NULL
+
+
+SENTID: 4
+SENT: I would slice potatoes and place in a large bowl .
+PREDID: 127
+PRED: slice
+   DOBJ: potatoes, place
+      NON-INGREDIENT SPAN:  place
+      NON-INGREDIENT SPAN: potatoes
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+
+
+SENTID: 5
+SENT: I would cook and stir yellow onion , the bacon , the celery , and pepper rings in a skillet until bacon is browned and celery begins to soften , about 10 minutes .
+PREDID: 161
+PRED: cook and stir
+   DOBJ: yellow onion , the bacon , the celery , pepper rings
+      INGREDIENT SPAN:  pepper rings
+         INGREDIENTS: mild yellow pepper rings drained
+      INGREDIENT SPAN:  the bacon 
+         INGREDIENTS: slices thickcut bacon cut 1inch squares
+      INGREDIENT SPAN:  the celery 
+         INGREDIENTS: stalks celery diced
+      INGREDIENT SPAN: yellow onion 
+         INGREDIENTS: yellow onion diced
+   PARG: a skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a skillet
+   PARG: bacon is browned, celery begins
+     PREP: until
+      NON-INGREDIENT SPAN:  celery begins
+      NON-INGREDIENT SPAN: bacon is browned
+
+PREDID: 263
+PRED: soften
+   DOBJ: NULL
+   PARG: 10 minutes
+     PREP: about
+      NON-INGREDIENT SPAN: 10 minutes
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 6
+SENT: I would mix mayonnaise , Dijon mustard , the horseradish , pepper juice , lemon juice , and Creole seasoning together in a bowl until well blended .
+PREDID: 279
+PRED: mix
+   DOBJ: mayonnaise , Dijon mustard , the horseradish , pepper juice , lemon juice , Creole
+      INGREDIENT SPAN:  Creole
+         INGREDIENTS: Creole seasoning such Tony Chachere taste
+      INGREDIENT SPAN:  pepper juice 
+         INGREDIENTS: juice yellow pepper rings
+      INGREDIENT SPAN: mayonnaise 
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN:  Dijon mustard 
+         INGREDIENTS: Dijon mustard
+      INGREDIENT SPAN:  the horseradish 
+         INGREDIENTS: prepared horseradish
+      INGREDIENT SPAN:  lemon juice 
+         INGREDIENTS: lemon juice
+   OARG: seasoning together in a bowl until well blended
+      NON-INGREDIENT SPAN: seasoning together in a bowl until well blended
+
+
+SENTID: 7
+SENT: I would add bacon mixture and dressing to potatoes ;
+PREDID: 391
+PRED: add
+   DOBJ: bacon mixture, dressing
+      NON-INGREDIENT SPAN:  dressing
+      NON-INGREDIENT SPAN: bacon mixture
+   PARG: potatoes
+     PREP: to
+      NON-INGREDIENT SPAN: potatoes
+
+
+SENTID: 8
+SENT: I would stir to combine .
+PREDID: 428
+PRED: stir
+   DOBJ: NULL
+   OARG: to combine
+      NON-INGREDIENT SPAN: to combine
+
+
+SENTID: 9
+SENT: I would refrigerate for 30 minutes before serving .
+PREDID: 442
+PRED: refrigerate
+   DOBJ: NULL
+   PARG: 30 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 30 minutes
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

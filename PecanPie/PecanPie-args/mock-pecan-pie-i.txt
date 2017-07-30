@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: I would preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl combine eggs , I would brown sugar , and white sugar .
+PREDID: 63
+PRED: combine brown
+   DOBJ: sugar , white sugar, eggs
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: packed brown sugar
+      INGREDIENT SPAN:  eggs
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN: sugar 
+         INGREDIENTS: white sugar
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+
+
+SENTID: 2
+SENT: I would beat well .
+PREDID: 88
+PRED: beat
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 3
+SENT: I would stir in vanilla extract and melted butter or margarine .
+PREDID: 97
+PRED: stir
+   DOBJ: NULL
+   PARG: vanilla extract, melted butter or margarine
+     PREP: in
+      INGREDIENT SPAN:  melted butter or margarine
+         INGREDIENTS: butter melted
+      INGREDIENT SPAN: vanilla extract
+         INGREDIENTS: vanilla extract
+
+
+SENTID: 4
+SENT: I would mix thoroughly .
+PREDID: 144
+PRED: mix
+   DOBJ: NULL
+   OARG: thoroughly
+      NON-INGREDIENT SPAN: thoroughly
+
+
+SENTID: 5
+SENT: I would fold in oats and coconut .
+PREDID: 158
+PRED: fold
+   DOBJ: NULL
+   PARG: oats, coconut
+     PREP: in
+      INGREDIENT SPAN:  coconut
+         INGREDIENTS: shredded coconut
+      INGREDIENT SPAN: oats
+         INGREDIENTS: rolled oats
+
+
+SENTID: 6
+SENT: I would pour into pie shell .
+PREDID: 179
+PRED: pour
+   DOBJ: NULL
+   PARG: pie shell
+     PREP: into
+      INGREDIENT SPAN: pie shell
+         INGREDIENTS: prepared inch pie crust
+
+
+SENTID: 7
+SENT: I would bake in preheated oven for 30 minutes .
+PREDID: 196
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven for 30 minutes
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven for 30 minutes
+
+
+SENTID: 8
+SENT: I would cool before serving .
+PREDID: 228
+PRED: cool
+   DOBJ: NULL
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+
+SENTID: 9
+SENT: I would top with whipped cream if desired .
+PREDID: 246
+PRED: top
+   DOBJ: NULL
+   PARG: whipped cream
+     PREP: with
+      NON-INGREDIENT SPAN: whipped cream
+   PARG: desired
+     PREP: if
+      NON-INGREDIENT SPAN: desired
+
+

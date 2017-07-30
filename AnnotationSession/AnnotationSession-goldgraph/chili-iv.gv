@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="cook
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="puree
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="drain
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="reduce
+4", shape=oval, style=filled, fillcolor=azure]
+E5[label="simmer
+5", shape=oval, style=filled, fillcolor=azure]
+E6[label="stir in
+6", shape=oval, style=filled, fillcolor=azure]
+E7[label="stir in
+7", shape=oval, style=filled, fillcolor=azure]
+E8[label="heat
+8", shape=oval, style=filled, fillcolor=azure]
+E9[label="serve
+9", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: beef", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="LOCATION:in a deep skillet or large saucepan", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+P0_1[label="COOBJECT:with salt, oil", shape=box, style=filled, fillcolor=peachpuff]
+P0_1 -> E0
+P0_2[label="LOCATION:over medium heat", shape=box, style=filled, fillcolor=white]
+P0_2 -> E0
+O0_0[label="OTHER: until brown", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D1[label="DOBJ: french onion soup", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCATION:in a blender", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+O1_0[label="OTHER: until smooth", shape=box, style=filled, fillcolor=white]
+O1_0 -> E1
+E0 -> E2 [label="meat"]
+E1 -> E2 [label="IMPLICIT PREP"]
+E1 -> E3 [label="pureed soup"]
+E2 -> E3 [label="LOCATION:into meat"]
+D4_0[label="DOBJ: heat", shape=box, style=filled, fillcolor=white]
+D4_0 -> E4
+E3 -> E4 [label="IMPLICIT PREP"]
+E4 -> E5 [label="IMPLICIT DOBJ"]
+O5_0_0[label="OTHER: 5 minutes", shape=box, style=filled, fillcolor=white]
+O5_0_0 -> E5
+D6_ing[label="DOBJ: chili powder, tomato sauce, beans, tomato paste, pepper, cumin", shape=box, style=filled, fillcolor=peachpuff]
+D6_ing -> E6
+E5 -> E6 [label="IMPLICIT PREP"]
+O6_0_0[label="OTHER: until well combined", shape=box, style=filled, fillcolor=white]
+O6_0_0 -> E6
+D7_ing[label="DOBJ: cola, cocoa", shape=box, style=filled, fillcolor=peachpuff]
+D7_ing -> E7
+E6 -> E7 [label="IMPLICIT PREP"]
+E7 -> E8 [label="IMPLICIT DOBJ"]
+O8_0_0[label="OTHER: through", shape=box, style=filled, fillcolor=white]
+O8_0_0 -> E8
+E8 -> E9 [label="IMPLICIT DOBJ"]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E9 -> EOR
+}

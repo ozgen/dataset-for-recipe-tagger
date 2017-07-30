@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: I would melt butter/margarine in a medium skillet over low heat .
+PREDID: 0
+PRED: melt
+   DOBJ: butter/margarine
+      NON-INGREDIENT SPAN: butter/margarine
+   PARG: a medium skillet over low heat
+     PREP: in
+      NON-INGREDIENT SPAN: a medium skillet over low heat
+
+
+SENTID: 1
+SENT: I would add chicken , the onion and green bell pepper and saute all over low heat for 4 to 6 minutes , stirring occasionally and turning chicken pieces .
+PREDID: 48
+PRED: add
+   DOBJ: chicken , the onion, green bell pepper
+      INGREDIENT SPAN:  the onion
+         INGREDIENTS: onion chopped
+      INGREDIENT SPAN:  green bell pepper
+         INGREDIENTS: green bell pepper chopped
+      INGREDIENT SPAN: chicken 
+         INGREDIENTS: skinless boneless chicken breast halves cut bite size
+
+PREDID: 88
+PRED: saute
+   DOBJ: all over low heat
+      NON-INGREDIENT SPAN: all over low heat
+   PARG: 4 to 6 minutes
+     PREP: for
+      NON-INGREDIENT SPAN: 4 to 6 minutes
+
+PREDID: 122
+PRED: stirring
+   DOBJ: NULL
+   OARG: occasionally
+      NON-INGREDIENT SPAN: occasionally
+
+PREDID: 145
+PRED: turning
+   DOBJ: chicken pieces
+      NON-INGREDIENT SPAN: chicken pieces
+
+
+SENTID: 2
+SENT: I would season with paprika , garlic salt and seasoned salt to taste .
+PREDID: 163
+PRED: season
+   DOBJ: NULL
+   PARG: paprika , garlic salt, seasoned salt
+     PREP: with
+      INGREDIENT SPAN:  seasoned salt
+         INGREDIENTS: garlic salt
+      INGREDIENT SPAN:  garlic salt
+         INGREDIENTS: seasoning salt taste
+      INGREDIENT SPAN: paprika 
+         INGREDIENTS: paprika
+   PARG: taste
+     PREP: to
+      NON-INGREDIENT SPAN: taste
+
+
+SENTID: 3
+SENT: I would cover skillet and let cook until chicken is done and juices run clear , about 15 minutes .
+PREDID: 214
+PRED: cover
+   DOBJ: skillet
+      NON-INGREDIENT SPAN: skillet
+   OARG: juices run clear , about 15 minutes
+      NON-INGREDIENT SPAN:  about 15 minutes
+      NON-INGREDIENT SPAN: juices run clear 
+
+PREDID: 229
+PRED: let
+   DOBJ: cook
+      NON-INGREDIENT SPAN: cook
+   PARG: chicken is done
+     PREP: until
+      NON-INGREDIENT SPAN: chicken is done
+
+
+SENTID: 4
+SENT: When chicken is cooked through add soup and water and let simmer , stirring .
+PREDID: 313
+PRED: add
+   DOBJ: soup, water
+      INGREDIENT SPAN:  water
+         INGREDIENTS: water
+      INGREDIENT SPAN: soup
+         INGREDIENTS: ounce condensed cream mushroom soup
+   OARG: when chicken is cooked through
+      NON-INGREDIENT SPAN: when chicken is cooked through
+
+PREDID: 331
+PRED: let
+   DOBJ: simmer
+      NON-INGREDIENT SPAN: simmer
+   OARG: stirring
+      NON-INGREDIENT SPAN: stirring
+
+
+SENTID: 5
+SENT: When liquid has reached the consistency of a sauce , the dish is done .
+PREDID: 402
+PRED: is done
+   DOBJ: NULL
+   OARG: when liquid has reached the consistency of a sauce
+      NON-INGREDIENT SPAN: when liquid has reached the consistency of a sauce
+
+

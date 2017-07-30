@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: In a small bowl combine the orange juice , orange zest , soy sauce , the salt , the garlic and brown sugar .
+PREDID: 29
+PRED: combine orange
+   DOBJ: juice , orange zest , soy sauce , the salt , the garlic, brown sugar, the I
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt
+      INGREDIENT SPAN: juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  brown sugar
+         INGREDIENTS: brown sugar
+      INGREDIENT SPAN:  soy sauce 
+         INGREDIENTS: soy sauce
+      NON-INGREDIENT SPAN:  the I
+      NON-INGREDIENT SPAN:  the garlic
+      NON-INGREDIENT SPAN:  orange zest 
+   PARG: a small bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a small bowl
+
+
+SENTID: 1
+SENT: I would mix well .
+PREDID: 79
+PRED: mix
+   DOBJ: NULL
+   OARG: well
+      NON-INGREDIENT SPAN: well
+
+
+SENTID: 2
+SENT: I would heat oil in a large skillet or wok over medium high heat .
+PREDID: 87
+PRED: heat
+   DOBJ: oil
+      INGREDIENT SPAN: oil
+         INGREDIENTS: vegetable oil
+   PARG: a large skillet or wok over medium high heat
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet or wok over medium high heat
+
+
+SENTID: 3
+SENT: When oil begins to bubble , add chicken .
+PREDID: 155
+PRED: add
+   DOBJ: chicken
+      INGREDIENT SPAN: chicken
+         INGREDIENTS: skinless boneless chicken breast halves cut inch cubes
+   OARG: when oil begins to bubble
+      NON-INGREDIENT SPAN: when oil begins to bubble
+
+
+SENTID: 4
+SENT: I would saute until cooked through -LRB- no longer pink inside -RRB- , about 7 to 10 minutes .
+PREDID: 166
+PRED: saute
+   DOBJ: NULL
+   PARG: cooked through -lrb- no longer pink inside -rrb- , about 7 to 10 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: cooked through -lrb- no longer pink inside -rrb- 
+      NON-INGREDIENT SPAN:  about 7 to 10 minutes
+
+
+SENTID: 5
+SENT: I would add orange sauce mixture to chicken and cook until sauce begins to bubble .
+PREDID: 228
+PRED: add
+   DOBJ: orange sauce mixture
+      NON-INGREDIENT SPAN: orange sauce mixture
+   PARG: chicken
+     PREP: to
+      NON-INGREDIENT SPAN: chicken
+
+PREDID: 261
+PRED: cook
+   DOBJ: NULL
+   PARG: sauce begins to bubble
+     PREP: until
+      NON-INGREDIENT SPAN: sauce begins to bubble
+
+
+SENTID: 6
+SENT: I would add flour , a little bit at a time , until sauce has thickened to your liking .
+PREDID: 290
+PRED: add
+   DOBJ: flour , a little bit at a time , until sauce has thickened to your liking
+      INGREDIENT SPAN: flour 
+         INGREDIENTS: allpurpose flour
+      NON-INGREDIENT SPAN:  a little bit at a time 
+      NON-INGREDIENT SPAN:  until sauce has thickened to your liking
+
+
+SENTID: 7
+SENT: I would add bean sprouts and cook for 1 minute ;
+PREDID: 352
+PRED: add
+   DOBJ: bean sprouts
+      INGREDIENT SPAN: bean sprouts
+         INGREDIENTS: bean sprouts
+
+PREDID: 369
+PRED: cook
+   DOBJ: NULL
+   PARG: 1 minute
+     PREP: for
+      NON-INGREDIENT SPAN: 1 minute
+
+
+SENTID: 8
+SENT: I would serve hot over chow mein noodles .
+PREDID: 384
+PRED: serve
+   DOBJ: NULL
+   PARG: chow mein noodles
+     PREP: over
+      INGREDIENT SPAN: chow mein noodles
+         INGREDIENTS: ounce package crispy chow mein noodles
+   OARG: hot
+      NON-INGREDIENT SPAN: hot
+
+

@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: I would cut loaf ends off and reserve for another use .
+PREDID: 0
+PRED: cut
+   DOBJ: loaf ends
+      NON-INGREDIENT SPAN: loaf ends
+   OARG: off
+      NON-INGREDIENT SPAN: off
+
+PREDID: 17
+PRED: reserve
+   DOBJ: NULL
+   PARG: another use
+     PREP: for
+      NON-INGREDIENT SPAN: another use
+
+
+SENTID: 1
+SENT: I would cut the remaining loaf into 1?1/2 inch slices ;
+PREDID: 38
+PRED: cut
+   DOBJ: the remaining loaf
+      NON-INGREDIENT SPAN: the remaining loaf
+   PARG: 1?1/2 inch slices
+     PREP: into
+      NON-INGREDIENT SPAN: 1?1/2 inch slices
+
+
+SENTID: 2
+SENT: I would let stand 4 hours or overnight .
+PREDID: 74
+PRED: let
+   DOBJ: stand
+      NON-INGREDIENT SPAN: stand
+   OARG: 4 hours or overnight
+      NON-INGREDIENT SPAN: 4 hours or overnight
+
+
+SENTID: 3
+SENT: In a 9x13 inch baking pan , I would combine orange juice , the cream , eggs ground cinnamon and white sugar .
+PREDID: 121
+PRED: combine
+   DOBJ: orange juice , the cream , eggs ground cinnamon, white sugar
+      INGREDIENT SPAN:  white sugar
+         INGREDIENTS: confectioners sugar dusting
+      INGREDIENT SPAN:  eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN:  the cream 
+         INGREDIENTS: heavy whipping cream
+      INGREDIENT SPAN: orange juice 
+         INGREDIENTS: orange juice
+      INGREDIENT SPAN:  eggs ground cinnamon
+         INGREDIENTS: ground cinnamon
+   PARG: a 9x13 inch baking pan
+     PREP: in
+      NON-INGREDIENT SPAN: a 9x13 inch baking pan
+
+
+SENTID: 4
+SENT: I would place bread slices in pan and turn until liquid is absorbed , about 5 minutes .
+PREDID: 178
+PRED: place
+   DOBJ: bread slices
+      NON-INGREDIENT SPAN: bread slices
+   PARG: pan
+     PREP: in
+      NON-INGREDIENT SPAN: pan
+
+PREDID: 202
+PRED: turn
+   DOBJ: NULL
+   PARG: liquid is absorbed , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN: liquid is absorbed 
+      NON-INGREDIENT SPAN:  about 5 minutes
+
+
+SENTID: 5
+SENT: In a large skillet , I would melt butter over medium heat .
+PREDID: 258
+PRED: melt
+   DOBJ: butter
+      INGREDIENT SPAN: butter
+         INGREDIENTS: butter
+   PARG: a large skillet
+     PREP: in
+      NON-INGREDIENT SPAN: a large skillet
+   PARG: medium heat
+     PREP: over
+      NON-INGREDIENT SPAN: medium heat
+
+
+SENTID: 6
+SENT: I would add bread slices and cook until browned on both sides , about 5 minutes .
+PREDID: 283
+PRED: add
+   DOBJ: bread slices
+      NON-INGREDIENT SPAN: bread slices
+
+PREDID: 300
+PRED: cook
+   DOBJ: NULL
+   PARG: browned on both sides , about 5 minutes
+     PREP: until
+      NON-INGREDIENT SPAN:  about 5 minutes
+      NON-INGREDIENT SPAN: browned on both sides 
+
+
+SENTID: 7
+SENT: I would dust generously with confectioners ' sugar and serve warm .
+PREDID: 342
+PRED: dust
+   DOBJ: NULL
+   PARG: confectioners ' sugar
+     PREP: with
+      INGREDIENT SPAN: confectioners ' sugar
+         INGREDIENTS: white sugar
+   OARG: generously
+      NON-INGREDIENT SPAN: generously
+
+PREDID: 382
+PRED: serve
+   DOBJ: NULL
+   OARG: warm
+      NON-INGREDIENT SPAN: warm
+
+

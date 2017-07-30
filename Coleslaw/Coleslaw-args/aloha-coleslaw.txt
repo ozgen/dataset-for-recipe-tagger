@@ -1,0 +1,30 @@
+SENTID: 0
+SENT: In a large bowl , I would stir together the cabbage , the carrot , the pineapple , the mayonnaise and salt and let chill for at least an hour before serving .
+PREDID: 13
+PRED: stir
+   DOBJ: the cabbage , the carrot , the pineapple , the mayonnaise, salt
+      INGREDIENT SPAN:  salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN:  the pineapple 
+         INGREDIENTS: ounce crushed pineapple drained
+      INGREDIENT SPAN:  the mayonnaise
+         INGREDIENTS: mayonnaise
+      INGREDIENT SPAN: the cabbage 
+         INGREDIENTS: medium head green cabbage rinsed sliced
+      INGREDIENT SPAN:  the carrot 
+         INGREDIENTS: large carrot shredded
+   PARG: a large bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a large bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+PREDID: 82
+PRED: let
+   DOBJ: chill for at least an hour
+      NON-INGREDIENT SPAN: chill for at least an hour
+   PARG: serving
+     PREP: before
+      NON-INGREDIENT SPAN: serving
+
+

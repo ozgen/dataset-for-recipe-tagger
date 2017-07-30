@@ -1,0 +1,28 @@
+digraph recipe {
+E0[label="toss
+0", shape=oval, style=filled, fillcolor=azure]
+E1[label="whisk
+1", shape=oval, style=filled, fillcolor=azure]
+E2[label="pour
+2", shape=oval, style=filled, fillcolor=azure]
+E3[label="stir
+3", shape=oval, style=filled, fillcolor=azure]
+E4[label="fold
+4", shape=oval, style=filled, fillcolor=azure]
+D1[label="DOBJ: creamy salad dressing such Miracle Whip, vanilla yogurt, mayonnaise", shape=box, style=filled, fillcolor=peachpuff]
+D1 -> E1
+P1_0[label="LOCOROBJ:in a separate bowl", shape=box, style=filled, fillcolor=white]
+P1_0 -> E1
+D0[label="DOBJ: Granny Smith apples small chunks, chopped walnuts or to taste, cooked chicken breasts, red onion, stalks celery chopped, lemon juice", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+E1 -> E2 [label="IMPLICIT DOBJ"]
+E0 -> E2 [label="LOCOROBJ:over the chicken mixture"]
+E2 -> E3 [label="IMPLICIT DOBJ"]
+P3_0_0[label="LOCOROBJ:to coat", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+D4_ing[label="DOBJ: seedless red grapes", shape=box, style=filled, fillcolor=peachpuff]
+D4_ing -> E4
+E3 -> E4 [label="LOCOROBJ:into the salad"]
+EOR[label="Bon", shape=oval, style=filled, fillcolor=plum]
+E4 -> EOR
+}

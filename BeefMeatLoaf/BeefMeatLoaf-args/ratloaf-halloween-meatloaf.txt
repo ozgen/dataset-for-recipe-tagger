@@ -1,0 +1,209 @@
+SENTID: 0
+SENT: I would preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: oven to 375 degrees F -LRB- 190 degrees C
+      NON-INGREDIENT SPAN: oven to 375 degrees F -LRB- 190 degrees C
+
+
+SENTID: 1
+SENT: I would mix ground beef , the eggs , the onion , the milk , bread crumbs , the salt , and black pepper in a large bowl until completely combined to make the rat body mixture .
+PREDID: 38
+PRED: mix
+   DOBJ: ground beef , the eggs , the onion , the milk , bread crumbs , the salt , black pepper in a large bowl
+      INGREDIENT SPAN:  the salt 
+         INGREDIENTS: salt ground black pepper taste
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Frenchfried onions, onion chopped, crushed Frenchfried onions needed
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Frenchfried onions, onion chopped, crushed Frenchfried onions needed
+      INGREDIENT SPAN:  the onion 
+         INGREDIENTS: Frenchfried onions, onion chopped, crushed Frenchfried onions needed
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs
+      INGREDIENT SPAN: ground beef 
+         INGREDIENTS: ground beef
+      INGREDIENT SPAN:  the milk 
+         INGREDIENTS: milk
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: dry bread crumbs
+      NON-INGREDIENT SPAN:  black pepper in a large bowl
+   PARG: completely combined to make the rat body mixture
+     PREP: until
+      NON-INGREDIENT SPAN: completely combined to make the rat body mixture
+
+
+SENTID: 2
+SENT: I would mix Cheddar cheese , 3/4 bottle of barbeque sauce , and 1 cup French-fried onions together gently in a separate bowl to make the rat guts .
+PREDID: 158
+PRED: mix
+   DOBJ: Cheddar cheese , 3/4 bottle of barbeque sauce , 1 cup French-fried onions
+      INGREDIENT SPAN:  3/4 bottle of barbeque sauce 
+         INGREDIENTS: ounce bottle barbeque sauce
+      INGREDIENT SPAN: Cheddar cheese 
+         INGREDIENTS: ounce package shredded Cheddar cheese
+      NON-INGREDIENT SPAN:  1 cup French-fried onions
+   OARG: together gently in a separate bowl
+      NON-INGREDIENT SPAN: together gently in a separate bowl
+
+PREDID: 256
+PRED: make
+   DOBJ: the rat guts
+      NON-INGREDIENT SPAN: the rat guts
+   OARG: to
+      NON-INGREDIENT SPAN: to
+
+
+SENTID: 3
+SENT: I would put about half the rat body mixture onto a sheet of waxed paper and form it into the shape of a rat body .
+PREDID: 271
+PRED: put
+   DOBJ: about half the rat body mixture
+      NON-INGREDIENT SPAN: about half the rat body mixture
+   PARG: a sheet of waxed paper
+     PREP: onto
+      NON-INGREDIENT SPAN: a sheet of waxed paper
+
+PREDID: 325
+PRED: form
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   PARG: the shape of a rat body
+     PREP: into
+      NON-INGREDIENT SPAN: the shape of a rat body
+
+
+SENTID: 4
+SENT: I would spread a thick layer of the cheese mixture on top of the body leaving 1/2 inch of space along the outer edge .
+PREDID: 354
+PRED: spread
+   DOBJ: a thick layer of the cheese mixture
+      NON-INGREDIENT SPAN: a thick layer of the cheese mixture
+   PARG: top of the body leaving 1/2 inch of space along the outer edge
+     PREP: on
+      NON-INGREDIENT SPAN: top of the body leaving 1/2 inch of space along the outer edge
+
+
+SENTID: 5
+SENT: I would put the remaining rat body mixture on top , forming the body and creating a solid seal around the edges so the guts do n't ooze out while baking .
+PREDID: 442
+PRED: put
+   DOBJ: the remaining rat body mixture
+      NON-INGREDIENT SPAN: the remaining rat body mixture
+   PARG: top
+     PREP: on
+      NON-INGREDIENT SPAN: top
+
+PREDID: 477
+PRED: forming
+   DOBJ: the body
+      NON-INGREDIENT SPAN: the body
+
+PREDID: 494
+PRED: creating
+   DOBJ: a solid seal around the edges
+      NON-INGREDIENT SPAN: a solid seal around the edges
+   PARG: the guts do n't ooze out while baking
+     PREP: so
+      NON-INGREDIENT SPAN: the guts do n't ooze out while baking
+
+
+SENTID: 6
+SENT: I would place the top part of a broiler pan on the rat and carefully flip it over .
+PREDID: 556
+PRED: place
+   DOBJ: the top part of a broiler pan
+      NON-INGREDIENT SPAN: the top part of a broiler pan
+   PARG: the rat
+     PREP: on
+      NON-INGREDIENT SPAN: the rat
+
+PREDID: 604
+PRED: flip
+   DOBJ: it
+      NON-INGREDIENT SPAN: it
+   OARG: carefully
+      NON-INGREDIENT SPAN: carefully
+   OARG: over
+      NON-INGREDIENT SPAN: over
+
+
+SENTID: 7
+SENT: I would reshape rat body as needed .
+PREDID: 615
+PRED: reshape
+   DOBJ: rat body as needed
+      NON-INGREDIENT SPAN: rat body as needed
+
+
+SENTID: 8
+SENT: I would place olives onto the rat body for the eyes and nose , potato slices for the ears , and spaghetti for the whiskers .
+PREDID: 638
+PRED: place
+   DOBJ: olives
+      INGREDIENT SPAN: olives
+         INGREDIENTS: large black olives
+   PARG: the rat body for the eyes, nose , potato slices for the ears , spaghetti for the whiskers
+     PREP: onto
+      INGREDIENT SPAN:  potato slices for the ears 
+         INGREDIENTS: slices red potato
+      INGREDIENT SPAN:  spaghetti for the whiskers
+         INGREDIENTS: spaghetti noodles broken halves
+      NON-INGREDIENT SPAN: the rat body for the eyes
+      NON-INGREDIENT SPAN:  nose 
+
+
+SENTID: 9
+SENT: I would spread 1/4 bottle barbeque sauce over the body of the rat and sprinkle with crushed French-fried onions .
+PREDID: 731
+PRED: spread
+   DOBJ: 1/4 bottle barbeque sauce
+      INGREDIENT SPAN: 1/4 bottle barbeque sauce
+         INGREDIENTS: ounce bottle barbeque sauce
+   PARG: the body of the rat
+     PREP: over
+      NON-INGREDIENT SPAN: the body of the rat
+
+PREDID: 781
+PRED: sprinkle
+   DOBJ: NULL
+   PARG: crushed french-fried onions
+     PREP: with
+      NON-INGREDIENT SPAN: crushed french-fried onions
+
+
+SENTID: 10
+SENT: I would set the broiler rack atop the broiler pan .
+PREDID: 819
+PRED: set
+   DOBJ: the broiler rack
+      NON-INGREDIENT SPAN: the broiler rack
+   PARG: the broiler pan
+     PREP: atop
+      NON-INGREDIENT SPAN: the broiler pan
+
+
+SENTID: 11
+SENT: I would bake in preheated oven until the cheese is melted , about 1 hour .
+PREDID: 854
+PRED: bake
+   DOBJ: NULL
+   PARG: preheated oven
+     PREP: in
+      NON-INGREDIENT SPAN: preheated oven
+   PARG: the cheese is melted , about 1 hour
+     PREP: until
+      NON-INGREDIENT SPAN: the cheese is melted 
+      NON-INGREDIENT SPAN:  about 1 hour
+
+
+SENTID: 12
+SENT: I would allow ratloaf to cool 5 minutes before slicing to serve .
+PREDID: 907
+PRED: allow
+   DOBJ: ratloaf
+      NON-INGREDIENT SPAN: ratloaf
+   OARG: to cool 5 minutes before slicing to serve
+      NON-INGREDIENT SPAN: to cool 5 minutes before slicing to serve
+
+

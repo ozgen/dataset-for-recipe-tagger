@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: I would preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+   DOBJ: the oven to 350 degrees F -LRB- 175 degrees C
+      NON-INGREDIENT SPAN: the oven to 350 degrees F -LRB- 175 degrees C
+
+
+SENTID: 1
+SENT: In a medium bowl , I would mix together the ground beef , bread crumbs , the eggs , and onion .
+PREDID: 55
+PRED: mix
+   DOBJ: the ground beef , bread crumbs , the eggs , onion
+      INGREDIENT SPAN:  the eggs 
+         INGREDIENTS: eggs beaten
+      INGREDIENT SPAN:  onion
+         INGREDIENTS: small onion chopped
+      INGREDIENT SPAN:  bread crumbs 
+         INGREDIENTS: Italian seasoned bread crumbs
+      INGREDIENT SPAN: the ground beef 
+         INGREDIENTS: extralean ground beef
+   PARG: a medium bowl
+     PREP: in
+      NON-INGREDIENT SPAN: a medium bowl
+   OARG: together
+      NON-INGREDIENT SPAN: together
+
+
+SENTID: 2
+SENT: I would season with garlic powder , the salt and pepper .
+PREDID: 106
+PRED: season
+   DOBJ: NULL
+   PARG: garlic powder , the salt, pepper
+     PREP: with
+      INGREDIENT SPAN:  pepper
+         INGREDIENTS: pepper
+      INGREDIENT SPAN:  the salt
+         INGREDIENTS: salt
+      INGREDIENT SPAN: garlic powder 
+         INGREDIENTS: garlic powder
+
+
+SENTID: 3
+SENT: I would pat the meat mixture out onto a piece of waxed paper , and flatten to 1/2 inch thick .
+PREDID: 143
+PRED: pat
+   DOBJ: the meat mixture
+      NON-INGREDIENT SPAN: the meat mixture
+   PARG: a piece of waxed paper
+     PREP: onto
+      NON-INGREDIENT SPAN: a piece of waxed paper
+   OARG: out
+      NON-INGREDIENT SPAN: out
+
+PREDID: 189
+PRED: flatten
+   DOBJ: NULL
+   PARG: 1/2 inch thick
+     PREP: to
+      NON-INGREDIENT SPAN: 1/2 inch thick
+
+
+SENTID: 4
+SENT: I would lay slices of ham onto the flattened meat , and top with slices of cheese .
+PREDID: 211
+PRED: lay
+   DOBJ: slices of ham
+      INGREDIENT SPAN: slices of ham
+         INGREDIENTS: sliced cooked ham
+   PARG: the flattened meat
+     PREP: onto
+      NON-INGREDIENT SPAN: the flattened meat
+
+PREDID: 249
+PRED: top
+   DOBJ: NULL
+   PARG: slices of cheese
+     PREP: with
+      INGREDIENT SPAN: slices of cheese
+         INGREDIENTS: provolone cheese sliced
+
+
+SENTID: 5
+SENT: I would pick up the edge of the waxed paper to roll the flattened meat up into a log .
+PREDID: 271
+PRED: pick
+   DOBJ: the edge of the waxed paper
+      NON-INGREDIENT SPAN: the edge of the waxed paper
+   OARG: up
+      NON-INGREDIENT SPAN: up
+   OARG: to roll the flattened meat up into a log
+      NON-INGREDIENT SPAN: to roll the flattened meat up into a log
+
+
+SENTID: 6
+SENT: I would remove waxed paper , seal the ends and seam , and place the loaf into a 9x5 inch loaf pan .
+PREDID: 332
+PRED: remove
+   DOBJ: waxed paper
+      NON-INGREDIENT SPAN: waxed paper
+
+PREDID: 349
+PRED: seal
+   DOBJ: the ends
+      NON-INGREDIENT SPAN: the ends
+
+PREDID: 371
+PRED: place
+   DOBJ: the loaf
+      NON-INGREDIENT SPAN: the loaf
+   PARG: a 9x5 inch loaf pan
+     PREP: into
+      NON-INGREDIENT SPAN: a 9x5 inch loaf pan
+
+
+SENTID: 7
+SENT: I would bake for 1 hour and 15 minutes in the preheated oven , or until the loaf is no longer pink inside .
+PREDID: 403
+PRED: bake
+   DOBJ: NULL
+   PARG: 1 hour, 15 minutes in the preheated oven , or until the loaf is no longer pink inside
+     PREP: for
+      NON-INGREDIENT SPAN:  or until the loaf is no longer pink inside
+      NON-INGREDIENT SPAN:  15 minutes in the preheated oven 
+      NON-INGREDIENT SPAN: 1 hour
+
+
